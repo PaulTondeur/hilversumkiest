@@ -1,15 +1,17 @@
 import { onderscheid, partijAfstand } from './engine.mjs';
-import { e, POS, laadData, standpuntHtml, spectrumHtml, pos } from './deel.js';
+import { e, POS, laadData, laadStaat, bewaarStaat, standpuntHtml, spectrumHtml, pos } from './deel.js';
+
+const MAX = 6; // zoveel lijsten kun je naast elkaar leggen
 
 const el = document.getElementById('vergelijk');
 const data = await laadData();
 const P = Object.fromEntries(data.partijen.map((p) => [p.slug, p]));
 const q = new URLSearchParams(location.search);
-let keuze = ['a', 'b', 'c', 'd'].map((k) => q.get(k)).filter((s) => P[s]);
+let keuze = [...'abcdef'].map((k) => q.get(k)).filter((s) => P[s]).slice(0, MAX);
 
 function teken() {
   const partijen = keuze.map((s) => P[s]);
-  const kiezers = [0, 1, 2, 3].map((i) => `<select class="keuze" data-i="${i}" aria-label="Lijst ${i + 1}"><option value="">${i < 2 ? 'Kies een lijst' : 'Nog een lijst (mag)'}</option>${data.partijen.map((p) => `<option value="${p.slug}" ${keuze[i] === p.slug ? 'selected' : ''} ${keuze.includes(p.slug) && keuze[i] !== p.slug ? 'disabled' : ''}>${p.nr}. ${e(p.kort)}</option>`).join('')}</select>`).join('');
+  const kiezers = Array.from({ length: Math.min(MAX, Math.max(keuze.length + 1, 3)) }, (_, i) => i).map((i) => `<select class="keuze" data-i="${i}" aria-label="Lijst ${i + 1}"><option value="">${i < 2 ? 'Kies een lijst' : 'Nog een lijst (mag)'}</option>${data.partijen.map((p) => `<option value="${p.slug}" ${keuze[i] === p.slug ? 'selected' : ''} ${keuze.includes(p.slug) && keuze[i] !== p.slug ? 'disabled' : ''}>${p.nr}. ${e(p.kort)}</option>`).join('')}</select>`).join('');
   let uit = `<div class="zoek">${kiezers}</div>`;
   if (partijen.length >= 2) {
     const slugs = keuze;
@@ -22,11 +24,18 @@ function teken() {
     const blok = (x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(data.themas.find((t) => t.id === x.st.thema).kort)} · ${partijen.map((p) => `${e(p.kort)}: ${POS[pos(x.st, p.slug)].toLowerCase()}`).join(' · ')}</span></summary><div class="inhoud">${x.st.uitleg ? `<p class="grijs">${e(x.st.uitleg)}</p>` : ''}${spectrumHtml(x.st, partijen)}${partijen.map((p) => standpuntHtml(x.st, p)).join('')}</div></details></li>`;
     uit += `<h2>Hier verschillen ze (${verschil.length})</h2><p>Gesorteerd van groot naar klein verschil.</p><ul class="punten">${verschil.map(blok).join('')}</ul>`;
     uit += `<h2>Hier staan ze op dezelfde plek (${gelijk.length})</h2><ul class="punten">${gelijk.map(blok).join('')}</ul>`;
-    uit += `<p style="margin-top:2rem"><a class="knop" href="/stemwijzer/">Doe de stemwijzer met deze lijsten</a></p>`;
+    uit += `<p style="margin-top:2rem"><button class="knop" type="button" data-stemwijzer>Doe de stemwijzer met deze ${slugs.length} lijsten</button></p>`;
   } else {
     uit += `<p class="grijs">Kies minstens twee lijsten.</p>`;
   }
   el.innerHTML = uit;
+  // Met precies deze lijsten de stemwijzer in: de keuze gaat mee, je begint bij de thema's.
+  const start = el.querySelector('[data-stemwijzer]');
+  if (start) start.onclick = () => {
+    window.meet?.('Vergelijking: naar stemwijzer', { lijsten: keuze.length });
+    bewaarStaat({ ...laadStaat(), lijsten: [...keuze], set: null, i: 0, stap: 'themas' });
+    location.href = new URL('../stemwijzer/#themas', location.href).href;
+  };
   el.querySelectorAll('select').forEach((s) => (s.onchange = () => {
     const nieuw = [...el.querySelectorAll('select')].map((x) => x.value).filter(Boolean);
     kies([...new Set(nieuw)]);
@@ -42,7 +51,7 @@ function kies(nieuw) {
   if (nieuw.length >= 2 && nieuw.join() !== keuze.join()) window.meet?.('Vergelijking', { lijsten: nieuw.length });
   keuze = nieuw;
   const p = new URLSearchParams();
-  keuze.forEach((s, i) => p.set('abcd'[i], s));
+  keuze.forEach((s, i) => p.set('abcdef'[i], s));
   history.replaceState(null, '', keuze.length ? '?' + p.toString() : location.pathname);
   teken();
 }
@@ -58,7 +67,7 @@ for (const a of stippen) {
   a.addEventListener('click', (ev) => {
     ev.preventDefault();
     const s = a.dataset.slug;
-    kies(keuze.includes(s) ? keuze.filter((x) => x !== s) : [...keuze, s].slice(-4));
+    kies(keuze.includes(s) ? keuze.filter((x) => x !== s) : [...keuze, s].slice(-MAX));
   });
 }
 teken();

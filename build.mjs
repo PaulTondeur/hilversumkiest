@@ -286,7 +286,7 @@ ${partijen.map((p) => {
 function landschapHtml() {
   return `<h2 id="landschap">Wie staat dicht bij wie</h2>
 <p>Deze kaart is berekend uit de standpunten op alle ${stellingen.length} stellingen. Lijsten die dicht bij elkaar staan, kiezen vaak hetzelfde. De assen hebben geen vaste betekenis zoals links en rechts: de kaart laat alleen afstanden zien, en plat op een scherm klopt dat nooit helemaal.</p>
-<p><strong>Tik op twee tot vier lijsten in de kaart</strong> om ze hieronder naast elkaar te leggen.</p>
+<p><strong>Tik op twee tot zes lijsten in de kaart</strong> om ze hieronder naast elkaar te leggen. Daarna kun je met precies die lijsten de stemwijzer doen.</p>
 ${kaartSvg()}
 <details class="uitleg"><summary>Overeenkomst tussen alle lijsten in procenten</summary>
 <p class="klein">100 betekent: op elke stelling waar beide lijsten een standpunt hebben precies dezelfde positie. Lijsten met weinig bekende standpunten zijn minder betrouwbaar te vergelijken.</p>
@@ -367,10 +367,10 @@ ${themas.map((t) => {
 // ---------- Vergelijken ----------
 schrijf('vergelijk/index.html', pagina({
   titel: 'Lijsten vergelijken – Hilversum kiest',
-  beschrijving: 'Leg twee tot vier lijsten naast elkaar en zie op welke stellingen ze verschillen.',
+  beschrijving: 'Leg twee tot zes lijsten naast elkaar, zie op welke stellingen ze verschillen en doe met die lijsten de stemwijzer.',
   pad: '/vergelijk/',
   inhoud: `<h1>Lijsten vergelijken</h1>
-<p>Kies twee tot vier lijsten, in de kaart of in de keuzelijsten eronder. Je ziet eerst de stellingen waarop ze het verst uit elkaar staan.</p>
+<p>Kies twee tot zes lijsten, in de kaart of in de keuzelijsten eronder. Je ziet eerst de stellingen waarop ze het verst uit elkaar staan, en je kunt met die lijsten meteen de stemwijzer doen.</p>
 ${landschapHtml()}
 <h2 id="naast-elkaar">Naast elkaar</h2>
 <div id="vergelijk"><noscript><p>Vergelijken heeft JavaScript nodig.</p></noscript></div>`,
