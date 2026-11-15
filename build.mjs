@@ -94,7 +94,6 @@ ${inhoud}
       <h3><span class="voet__code" aria-hidden="true">&lt;/&gt;</span>Open tot en met de code</h3>
       <p>Hilversum kiest hoort bij geen partij en niet bij de gemeente. De standpunten komen uit de verkiezingsprogramma's en uit wat partijen zelf elders antwoordden; de partijen hebben ze niet nagekeken. Juist daarom ligt alles open: <a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>lees hoe het gemaakt is</a>${REPO ? `, of <a href="${e(REPO)}" rel="noopener">kijk mee in de code op GitHub</a>. Zie je iets wat niet klopt? <a href="${e(REPO)}/issues" rel="noopener">Meld het daar</a>, dan kijk ik ernaar` : ''}.</p>
       <p>Zin om er zelf een te maken voor jouw gemeente? <a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>De hele opdracht staat voor je klaar</a>.</p>
-      <p class="voet__klein">Geen cookies. Wat je antwoordt blijft in je eigen browser; ik tel alleen anoniem hoeveel mensen langskomen en welke partijen bovenaan hun uitslag staan.</p>
     </div>
   </div>
 </div></footer>
