@@ -190,7 +190,7 @@ function tekenStelling() {
     const metStandpunt = lijsten.filter((p) => pos(st, p.slug) !== null).sort((x, y) => pos(st, y.slug) - pos(st, x.slug) || x.nr - y.nr);
     const kanMeer = gekozenPartijen().length < data.partijen.length;
     blik.innerHTML = `<p class="klein">${alle ? `Alle ${data.partijen.length} partijen.` : `De ${lijsten.length} partijen die je hebt gekozen.`} ${kanMeer ? `<button class="knop knop--tekst" type="button" data-blik-wissel>${alle ? 'Toon alleen mijn partijen' : `Toon alle ${data.partijen.length} partijen`}</button>` : ''}</p>
-${spectrumHtml(st, partijen, staat.antwoorden[st.id])}
+${spectrumHtml(st, lijsten, staat.antwoorden[st.id])}
 ${metStandpunt.map((p) => standpuntHtml(st, p)).join('')}`;
     const wissel = blik.querySelector('[data-blik-wissel]');
     if (wissel) wissel.onclick = () => tekenBlik(!alle);
