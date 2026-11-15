@@ -187,7 +187,7 @@
    "naam": "Elske Faber",
    "woonplaats": "Hilversum",
    "geslacht": "v",
-   "foto": null,
+   "foto": "pro/2.jpg",
    "bio": "Is manager in de zorgvernieuwing en nieuw in de Hilversumse politiek. Richt zich op zorg, welzijn en gelijke kansen.",
    "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/378181/stan-poels-lijsttrekker-van-pro-hilversum-bij-gemeenteraadsverkiezingen",
    "linkedin": "https://www.linkedin.com/in/elskefaber/"
@@ -297,7 +297,7 @@
    "naam": "Ries Peters",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/13.jpg",
    "bio": null,
    "bron": null,
    "linkedin": "https://www.linkedin.com/in/ries-peters-31353363/"
@@ -1081,7 +1081,7 @@
    "naam": "Tim Muskee",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/16.jpg",
    "bio": "Tim Muskee is raadslid voor de VVD in Hilversum en richt zich op ruimtelijke ordening en duurzaamheid. Hij is hoofduitvoerder bij een bouwbedrijf.",
    "bron": "https://hilversum.bestuurlijkeinformatie.nl/People/Details/f713cbfe-0744-4332-b76c-53a5e0772991?categoryId=e519b74a-ea0c-4152-acc1-02a3aa3b92ca",
    "linkedin": "https://www.linkedin.com/in/tim-muskee-78840586/"
@@ -1111,7 +1111,7 @@
    "naam": "Els Kruijt",
    "woonplaats": "Loosdrecht",
    "geslacht": "v",
-   "foto": null,
+   "foto": "vvd/19.jpg",
    "bio": "Els Kruijt was namens de VVD wethouder in Wijdemeren.",
    "bron": "https://www.vvdhilversum.nl/nieuws/ontbinding-coalitie-wijdemeren.json",
    "linkedin": "https://www.linkedin.com/in/els-kruijt-5471322a/"
@@ -1121,7 +1121,7 @@
    "naam": "Nils Lamme",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/20.jpg",
    "bio": null,
    "bron": null,
    "linkedin": "https://www.linkedin.com/in/nils-lamme-003703/"
@@ -1131,7 +1131,7 @@
    "naam": "Ernst Haselhoff Lich Kasteleijn",
    "woonplaats": "Loosdrecht",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/21.jpg",
    "bio": null,
    "bron": null,
    "linkedin": "https://www.linkedin.com/in/ernst-haselhoff-lich-kasteleijn-1b336227/"
@@ -1141,7 +1141,7 @@
    "naam": "Door van Leeuwen Boomkamp",
    "woonplaats": "Hilversum",
    "geslacht": "v",
-   "foto": null,
+   "foto": "vvd/22.jpg",
    "bio": null,
    "bron": null,
    "linkedin": "https://www.linkedin.com/in/doorvanleeuwenboomkamp/"
@@ -1151,7 +1151,7 @@
    "naam": "Age Fluitman",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/23.jpg",
    "bio": "Age Fluitman was in 2021 voorzitter van de Hilversumse VVD.",
    "bron": "https://www.vvdhilversum.nl/nieuws/voorzittershamer-overgedragen-aan-age-fluitman.json",
    "linkedin": "https://www.linkedin.com/in/age-fluitman-8a46638/"
@@ -1161,7 +1161,7 @@
    "naam": "Guus Warringa",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/24.jpg",
    "bio": null,
    "bron": null,
    "linkedin": "https://www.linkedin.com/in/guus-warringa-535b2a16/"
@@ -1171,7 +1171,7 @@
    "naam": "Jos Kea",
    "woonplaats": "Loosdrecht",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/25.jpg",
    "bio": "Jos Kea was twee keer wethouder in Wijdemeren namens de VVD. Begin 2026 stopte hij als wethouder.",
    "bron": "https://www.vvdhilversum.nl/nieuws/jos-kea-stopt-als-wethouder-jan-klink-volgt-op.json",
    "linkedin": "https://www.linkedin.com/in/jos-kea-7507a44/"
@@ -1181,7 +1181,7 @@
    "naam": "Terrrence Mader",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/26.jpg",
    "bio": "Terry Mader werd in 2025 bestuurslid ledenzaken in het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
    "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
    "linkedin": "https://www.linkedin.com/in/terry-mader-40809a13a/"
@@ -1201,7 +1201,7 @@
    "naam": "Abe Brandsma",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/28.jpg",
    "bio": "Abe Brandsma werd in 2025 penningmeester van het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
    "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
    "linkedin": "https://www.linkedin.com/in/abebrandsma/"
@@ -1211,7 +1211,7 @@
    "naam": "Wim Lorjé",
    "woonplaats": "Nederhorst den Berg",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/29.jpg",
    "bio": "Wim Lorjé werd in 2025 vicevoorzitter van het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
    "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
    "linkedin": "https://www.linkedin.com/in/wim-lorjé-6a770618/"
@@ -1221,7 +1221,7 @@
    "naam": "Frits Vogel",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/30.jpg",
    "bio": "Frits Vogel werd in 2025 voorzitter van het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
    "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
    "linkedin": "https://www.linkedin.com/in/frits-vogel-4578206/"
@@ -1231,7 +1231,7 @@
    "naam": "Marjolein van der Linden",
    "woonplaats": "Hilversum",
    "geslacht": "v",
-   "foto": null,
+   "foto": "vvd/31.jpg",
    "bio": "Marjolein van der Linden is Eerste Kamerlid.",
    "bron": "https://www.vvdhilversum.nl/js/data.js",
    "linkedin": "https://www.linkedin.com/in/marjolein-van-der-linden-207b5a6/"
@@ -1241,7 +1241,7 @@
    "naam": "Joost van Gilse",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/32.jpg",
    "bio": "Joost van Gilse is Statenlid voor de VVD in Noord-Holland.",
    "bron": "https://www.vvdhilversum.nl/js/data.js",
    "linkedin": "https://www.linkedin.com/in/joost-van-gilse-535a908/"
@@ -1251,7 +1251,7 @@
    "naam": "Ruud Verkuijlen",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "vvd/33.jpg",
    "bio": "Ruud Verkuijlen is Tweede Kamerlid voor de VVD en was eerder ruim zeven jaar raadslid voor de VVD in Hilversum.",
    "bron": "https://www.vvdhilversum.nl/js/data.js",
    "linkedin": "https://www.linkedin.com/in/ruud-verkuijlen-44542920/"
@@ -3023,7 +3023,7 @@
    "naam": "Jojanneke Vanderveen",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/1.jpg",
    "bio": "Jojanneke Vanderveen is lijsttrekker van de Partij voor de Dieren, die voor het eerst meedoet aan de verkiezingen in Hilversum en Wijdemeren. Zij werkt voor de samenwerkende natuur- en milieuorganisaties in Den Haag.",
    "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/370039/-verkiezingen-partij-voor-de-dieren-doet-mee-aan-gemeenteraadsverkiezingen-in-hilversum",
    "linkedin": "https://www.linkedin.com/in/jojanneke-vanderveen-4063253a/"
@@ -3135,7 +3135,7 @@
    "naam": "Jacqueline van Oostveen",
    "woonplaats": "Hilversum",
    "geslacht": "v",
-   "foto": null,
+   "foto": "blanco-van-oostveen/1.jpg",
    "bio": null,
    "bron": null,
    "linkedin": "https://www.linkedin.com/in/jacquelinevanoostveen-5abbb811/"

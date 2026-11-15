@@ -1,7 +1,8 @@
 {
  "vvd/25": {
   "linkedin": "https://www.linkedin.com/in/jos-kea-7507a44/",
-  "reden": "Beide rondes zagen deze link bij zijn naam in de gegevens van vvdhilversum.nl (klasse A); de automatische naamcontrole slaat alleen aan omdat de achternaam maar drie letters heeft."
+  "reden": "Beide rondes zagen deze link bij zijn naam in de gegevens van vvdhilversum.nl (klasse A); de automatische naamcontrole slaat alleen aan omdat de achternaam maar drie letters heeft. Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon.",
+  "foto_bestand": "linkedin/vvd-25.png"
  },
  "pro/22": {
   "linkedin": "https://www.linkedin.com/in/josvandrogen/",
@@ -59,7 +60,8 @@
  },
  "pvdd/1": {
   "linkedin": "https://www.linkedin.com/in/jojanneke-vanderveen-4063253a/",
-  "reden": "Google-resultaat van het profiel zelf: 'Senior adviseur public affairs bij Groene11 | Lijsttrekker Partij voor de Dieren Hilversum-Wijdemeren' (klasse B). Haar eigen site linkt ook naar dit profiel."
+  "reden": "Google-resultaat van het profiel zelf: 'Senior adviseur public affairs bij Groene11 | Lijsttrekker Partij voor de Dieren Hilversum-Wijdemeren' (klasse B). Haar eigen site linkt ook naar dit profiel. Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon.",
+  "foto_bestand": "linkedin/pvdd-1.png"
  },
  "pro/3": {
   "linkedin": "https://www.linkedin.com/in/nassreddin-taibi-b4bbbb202/",
@@ -67,7 +69,8 @@
  },
  "pro/13": {
   "linkedin": "https://www.linkedin.com/in/ries-peters-31353363/",
-  "reden": "Google-resultaat van het profiel zelf: ervaring PRO Hilversum, locatie Hilversum (klasse B)."
+  "reden": "Google-resultaat van het profiel zelf: ervaring PRO Hilversum, locatie Hilversum (klasse B). Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon.",
+  "foto_bestand": "linkedin/pro-13.png"
  },
  "lfd/1": {
   "linkedin": "https://www.linkedin.com/in/frederique-durlacher-84522642/",
@@ -107,7 +110,8 @@
  },
  "blanco-van-oostveen/1": {
   "linkedin": "https://www.linkedin.com/in/jacquelinevanoostveen-5abbb811/",
-  "reden": "Zoekresultaat van dit profiel: eigen oproep om ondersteuningsverklaringen voor haar te tekenen voor de verkiezing in Hilversum en Wijdemeren (klasse B). Google-resultaat van het profiel zelf: locatie Hilversum."
+  "reden": "Zoekresultaat van dit profiel: eigen oproep om ondersteuningsverklaringen voor haar te tekenen voor de verkiezing in Hilversum en Wijdemeren (klasse B). Google-resultaat van het profiel zelf: locatie Hilversum. Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon.",
+  "foto_bestand": "linkedin/blanco-van-oostveen-1.png"
  },
  "lokaal-een/5": {
   "linkedin": "https://www.linkedin.com/in/rob-docter-838763b/",
@@ -135,7 +139,8 @@
  },
  "pro/2": {
   "linkedin": "https://www.linkedin.com/in/elskefaber/",
-  "reden": "Google-resultaat van het profiel zelf: 'Manager Zorgvernieuwing bij UNICUM' en 'Naast mijn werk in de zorg zet ik mij ook politiek in voor een socialer Hilversum. Vanuit PRO ...' (klasse B)."
+  "reden": "Google-resultaat van het profiel zelf: 'Manager Zorgvernieuwing bij UNICUM' en 'Naast mijn werk in de zorg zet ik mij ook politiek in voor een socialer Hilversum. Vanuit PRO ...' (klasse B). Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon.",
+  "foto_bestand": "linkedin/pro-2.png"
  },
  "d66/3": {
   "linkedin": "https://www.linkedin.com/in/evelinestroucken/",
@@ -152,5 +157,61 @@
  "cda/8": {
   "linkedin": "https://www.linkedin.com/in/jacobine-van-dijk-a3042a161/",
   "reden": "Ronde A zag in een zoekresultaat van dit profiel eigen berichten over haar werk als raadslid en het CDA in Hilversum (klasse B). Google-resultaat van het profiel zelf: ondernemer (Jacobine van Dijk BV), locatie Hilversum."
+ },
+ "vvd/16": {
+  "foto_bestand": "linkedin/vvd-16.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/19": {
+  "foto_bestand": "linkedin/vvd-19.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/20": {
+  "foto_bestand": "linkedin/vvd-20.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/21": {
+  "foto_bestand": "linkedin/vvd-21.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/22": {
+  "foto_bestand": "linkedin/vvd-22.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/23": {
+  "foto_bestand": "linkedin/vvd-23.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/24": {
+  "foto_bestand": "linkedin/vvd-24.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/26": {
+  "foto_bestand": "linkedin/vvd-26.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/28": {
+  "foto_bestand": "linkedin/vvd-28.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/29": {
+  "foto_bestand": "linkedin/vvd-29.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/30": {
+  "foto_bestand": "linkedin/vvd-30.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/31": {
+  "foto_bestand": "linkedin/vvd-31.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/32": {
+  "foto_bestand": "linkedin/vvd-32.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "vvd/33": {
+  "foto_bestand": "linkedin/vvd-33.png",
+  "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
  }
 }
