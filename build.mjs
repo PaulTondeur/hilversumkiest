@@ -598,7 +598,6 @@ Haal die repository eerst op en lees haar, en bouw daarop voort in plaats van op
 - tools/voeg_samen.mjs, tools/maak_kandidaten.py: het samenvoegen van de rondes en de controles op kandidaten;
 - tools/kaart/ en src/assets/js/kaart3d.js: de gegevens en de 3D-kaart van de stembureauvinder;
 - build.mjs en src/: de site zelf;
-- video/: het script en de opbouw van de uitlegvideo.
 Hergebruik de code, de opdrachten en de werkwijze. Neem geen stellingen, posities, kandidaatgegevens of teksten over: die gelden alleen voor die ene verkiezing en moeten voor mijn verkiezing opnieuw uit de bronnen komen.
 
 ` : '';
@@ -650,7 +649,7 @@ schrijf('.nojekyll', '');
 if (process.env.DOMEIN) schrijf('CNAME', process.env.DOMEIN + '\n');
 schrijf('404.html', pagina({ titel: 'Pagina niet gevonden – Hilversum kiest', beschrijving: 'Deze pagina bestaat niet.', pad: '/404', index: false, scripts: `<script>window.meet('404',{pad:location.pathname})</script>`, inhoud: '<h1>Deze pagina bestaat niet</h1><p>Misschien is het adres verkeerd overgenomen. <a href="/">Ga naar de voorpagina</a> of <a href="/stemwijzer/">start de stemwijzer</a>.</p>' }));
 // ---------- Oude adressen ----------
-// /lijsten/ heet nu /partijen/ en /vergelijk/ heet /vergelijken/. De oude adressen zijn gedeeld en staan in de video:
+// /lijsten/ heet nu /partijen/ en /vergelijk/ heet /vergelijken/. De oude adressen zijn al gedeeld:
 // daar blijft een pagina staan die meteen doorstuurt, met wat achter ? en # staat erbij (een gekozen kandidaat of
 // vergelijking). Ze tellen niet mee in de bezoektelling en komen niet in zoekmachines.
 function doorverwijzing(oud, nieuw) {

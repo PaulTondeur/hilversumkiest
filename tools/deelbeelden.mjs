@@ -3,8 +3,8 @@
 //
 //   node tools/deelbeelden.mjs
 //
-// Heeft Playwright met Chromium nodig. Staat het niet in deze map, dan neemt het script dat van de video-opname
-// (video/opname/node_modules) of het pad in PLAYWRIGHT. Met ImageMagick erbij worden de bestanden verkleind tot 256 kleuren.
+// Heeft Playwright met Chromium nodig: geïnstalleerd waar Node het vindt, of via het pad in
+// PLAYWRIGHT (bijvoorbeeld PLAYWRIGHT=/pad/naar/node_modules/playwright/index.mjs). Met ImageMagick erbij worden de bestanden verkleind tot 256 kleuren.
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
@@ -17,7 +17,7 @@ const e = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').re
 const bestand = (p) => pathToFileURL(path.join(ROOT, p)).href;
 
 async function laadPlaywright() {
-  for (const p of [process.env.PLAYWRIGHT, 'playwright', path.join(ROOT, 'video/opname/node_modules/playwright/index.mjs')].filter(Boolean)) {
+  for (const p of [process.env.PLAYWRIGHT, 'playwright'].filter(Boolean)) {
     try { return await import(p.startsWith('/') ? pathToFileURL(p).href : p); } catch { /* volgende */ }
   }
   throw new Error('Playwright niet gevonden. Installeer het (npm i playwright) of zet PLAYWRIGHT=/pad/naar/playwright/index.mjs');
