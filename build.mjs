@@ -249,17 +249,26 @@ function kaartSvg() {
   // labels: schuif omhoog of omlaag als ze over elkaar vallen
   const geplaatst = [];
   const pt = partijen.map((p, i) => ({ p, x: sx(xs[i]), y: sy(ys[i]) })).sort((a, b) => a.y - b.y);
+  // Een naam mag niet over een andere naam vallen en ook niet onder de stip van een andere lijst: eerst rechts of
+  // links van de eigen stip, pas daarna een regel hoger of lager.
   for (const o of pt) {
     const breed = o.p.kort.length * 6.2 + 14;
-    let ly = o.y + 4;
-    const botst = (yy) => geplaatst.some((g) => Math.abs(g.ly - yy) < 13 && o.x + 12 < g.x2 && o.x + 12 + breed > g.x1);
-    let stap = 0;
-    while (botst(ly) && stap < 6) { stap++; ly = o.y + 4 + (stap % 2 ? 1 : -1) * Math.ceil(stap / 2) * 13; }
-    o.ly = ly;
-    geplaatst.push({ ly, x1: o.x + 12, x2: o.x + 12 + breed });
+    const vrij = (yy, x1, x2) => !geplaatst.some((g) => Math.abs(g.ly - yy) < 13 && x1 < g.x2 && x2 > g.x1)
+      && !pt.some((q) => q !== o && q.x + 9 > x1 && q.x - 9 < x2 && q.y + 9 > yy - 10 && q.y - 9 < yy + 3);
+    let plek = null;
+    for (let stap = 0; stap <= 6 && !plek; stap++) {
+      const ly = o.y + 4 + (stap % 2 ? 1 : -1) * Math.ceil(stap / 2) * 13;
+      for (const links of [false, true]) {
+        const x1 = links ? o.x - 12 - breed : o.x + 12, x2 = x1 + breed;
+        if (!plek && vrij(ly, x1, x2)) plek = { ly, links, x1, x2 };
+      }
+    }
+    plek ??= { ly: o.y + 4, links: false, x1: o.x + 12, x2: o.x + 12 + breed };
+    Object.assign(o, { ly: plek.ly, links: plek.links });
+    geplaatst.push({ ly: plek.ly, x1: plek.x1, x2: plek.x2 });
   }
   return `<div class="landschap"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Kaart van de twintig lijsten: lijsten die dicht bij elkaar staan, hebben vergelijkbare standpunten">
-  ${pt.map((o) => `<a href="/lijsten/${o.p.slug}/" data-slug="${o.p.slug}"><circle cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="8" fill="${o.p.kleur}" stroke="#0e1b2c" stroke-width="1.5"/><text x="${(o.x + 12).toFixed(1)}" y="${o.ly.toFixed(1)}">${e(o.p.kort)}</text></a>`).join('\n  ')}
+  ${pt.map((o) => `<a href="/lijsten/${o.p.slug}/" data-slug="${o.p.slug}"><circle cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="8" fill="${o.p.kleur}" stroke="#0e1b2c" stroke-width="1.5"/><text x="${(o.links ? o.x - 12 : o.x + 12).toFixed(1)}" y="${o.ly.toFixed(1)}"${o.links ? ' text-anchor="end"' : ''}>${e(o.p.kort)}</text></a>`).join('\n  ')}
   </svg></div>`;
 }
 const pct = (afst) => (afst === null ? '–' : Math.round((1 - afst) * 100));
