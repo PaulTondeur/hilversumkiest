@@ -18,3 +18,13 @@ bronnen/_kandidaten/raw/
 # Wat op de site komt staat in data/kandidaten.json.
 werk/kandidaten/A/
 werk/kandidaten/B/
+# Uitlegvideo: gerenderde video's niet in de repository (Paul bekijkt ze eerst). De schermopnames en de kaartvideo
+# zijn groot en opnieuw te maken met video/opname/neem-op.mjs en kaart.mjs.
+video/uit/
+video/film/assets/opname/
+video/opname/node_modules/
+video/opname/.beelden/
+video/film/.hyperframes/
+video/film/.media/
+video/film/.thumbnails/
+video/film/.waveform-cache/
