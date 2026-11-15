@@ -1363,10 +1363,10 @@
    "naam": "Dik van Enk",
    "woonplaats": "Kortenhoef",
    "geslacht": "m",
-   "foto": null,
+   "foto": "cda/11.jpg",
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/dik-enk-van-1a53171a/"
   },
   {
    "nr": 12,
@@ -1908,7 +1908,7 @@
    "foto": null,
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/michael-kulkens-40415a17/"
   },
   {
    "nr": 16,
@@ -3123,10 +3123,10 @@
    "naam": "Ilona Hartensveld",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/11.jpg",
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/ilonahartensveld/"
   }
  ],
  "blanco-van-oostveen": [
