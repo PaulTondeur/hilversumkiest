@@ -1,0 +1,134 @@
+[
+ {
+  "id": "wonen-hoogbouw",
+  "thema": "wonen",
+  "stelling": "De gemeente moet vaker toestaan dat nieuwe woongebouwen duidelijk hoger worden dan de huizen eromheen.",
+  "uitleg": "Hilversum is een tuinstad met vooral lage bebouwing; hoger bouwen gebeurt nu vooral rond het station en het centrum. Hoger bouwen levert meer woningen op dezelfde grond op, maar verandert het aanzien van straat, wijk of dorp."
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "thema": "wonen",
+  "stelling": "De gemeente geeft zoveel vrijkomende sociale huurwoningen als de wet toestaat, de helft, met voorrang aan mensen die hier al wonen of werken.",
+  "uitleg": "De Huisvestingswet laat gemeenten bij hoogstens de helft van de vrijkomende sociale huurwoningen voorrang geven aan mensen met een band met de gemeente, bijvoorbeeld omdat ze er wonen of werken. Nu werkt de regio Gooi en Vechtstreek grotendeels met één regionale wachtlijst en gaat maar een klein deel met lokale voorrang weg. Meer lokale voorrang helpt eigen inwoners, maar verkleint de kans voor woningzoekenden van buiten."
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "thema": "wonen",
+  "stelling": "De voorrang bij sociale huurwoningen voor mensen met een cruciaal beroep, zoals nu voor zorgmedewerkers, moet verdwijnen.",
+  "uitleg": "Hilversum geeft in 2026 en 2027 bij ongeveer 50 sociale huurwoningen voorrang aan mensen die in de zorg werken, als vervolg op een proef die in 2024 begon. In die eerste proef konden ook leraren en agenten voorrang krijgen. Sommige partijen willen de voorrang uitbreiden naar meer beroepen of naar koopwoningen, andere willen haar juist afschaffen zodat alleen inschrijfduur en urgentie tellen."
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "thema": "verkeer",
+  "stelling": "Het eerste uur parkeren wordt overal in de gemeente gratis, ook in het centrum van Hilversum.",
+  "uitleg": "In de betaalde gebieden van Hilversum betaal je vanaf de eerste minuut; in het centrum kost het eerste uur nu 3,20 euro. In de dorpen van Wijdemeren is parkeren gratis. Een gratis eerste uur maakt een korte boodschap of een kort bezoek goedkoper, maar kost parkeergeld en kan leiden tot meer korte autoritjes en zoekverkeer."
+ },
+ {
+  "id": "klimaat-warmtenet-markt",
+  "thema": "klimaat",
+  "stelling": "Warmtenetten laat de gemeente over aan bedrijven en energiecoöperaties, zonder er zelf geld in te steken of risico te lopen.",
+  "uitleg": "Op een aantal plekken worden warmtenetten voorbereid of onderzocht, zoals in de Hilversumse Meent en met warmte uit de rioolwaterzuivering Horstermeer voor wijken in Nederhorst den Berg en Kortenhoef. Sommige partijen willen dat de gemeente zelf (mede-)eigenaar wordt van een publiek warmtebedrijf, zodat zij kan sturen op prijs en duurzame bronnen. Andere vinden dat te riskant voor de gemeentekas."
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "thema": "klimaat",
+  "stelling": "Ook als omwonenden ervoor zijn, blijft de gemeente zich verzetten tegen grote windturbines in en vlak bij de gemeente.",
+  "uitleg": "De provincie Utrecht onderzoekt of er grote windturbines kunnen komen in de Hoeker- en Garstenpolder, direct tegenover Nederhorst den Berg; hoe hoog en hoeveel staat nog niet vast. De raad van Wijdemeren sprak zich er in 2025 en 2026 tegen uit. Sommige partijen wijzen grote windturbines hier altijd af, andere willen het laten afhangen van wat omwonenden ervan vinden. De gemeente kan zo'n draagvlakmeting zelf organiseren en meewegen, maar de provincie Utrecht beslist over deze plek."
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "thema": "klimaat",
+  "stelling": "Boeren mogen een kleine windmolen bij hun bedrijf zetten om er hun eigen stroom mee op te wekken.",
+  "uitleg": "Tegen grote windturbines, zoals die worden onderzocht tegenover Nederhorst den Berg, is in de nieuwe gemeente veel verzet. Een kleine windmolen op een boerenerf is veel lager, levert minder stroom en valt minder op in het landschap. De provincie Noord-Holland staat kleine molens tot 15 meter ashoogte onder voorwaarden toe; de gemeente beslist of en waar dat mag."
+ },
+ {
+  "id": "natuur-groennorm",
+  "thema": "natuur",
+  "stelling": "Bij elk nieuwbouwplan is de groennorm 3-30-300 verplicht, ook als er daardoor minder woningen passen.",
+  "uitleg": "De 3-30-300-norm betekent: vanuit elk huis drie bomen zien, 30 procent van de buurt onder bladerdak en binnen 300 meter een park of groene plek. Veel partijen noemen de norm als richtlijn of ambitie. De vraag is of hij een harde eis wordt die voorgaat op het aantal woningen."
+ },
+ {
+  "id": "natuur-bomen",
+  "thema": "natuur",
+  "stelling": "Een boom mag wijken voor een bouw- of wegenplan, als er in de buurt een stevige nieuwe boom voor terugkomt.",
+  "uitleg": "Voor het kappen van grotere bomen is vaak een vergunning nodig: in Hilversum voor bomen vanaf 30 centimeter stamdoorsnede, in Wijdemeren voor bomen die op een speciale 'Groene Kaart' staan. Bij bouw- en wegenplannen sneuvelen regelmatig bomen, met een herplantplicht als compensatie. Partijen verschillen over de vraag of herplant genoeg is of dat bestaande bomen in principe moeten blijven staan."
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "thema": "natuur",
+  "stelling": "In de polders bij de plassen moet een deel van de landbouwgrond nieuwe natuur worden.",
+  "uitleg": "Met het Gebiedsakkoord Oostelijke Vechtplassen (2017) is afgesproken dat er tot 2027 honderden hectares nieuwe natuur bij komen, onder meer bij Kortenhoef, de Weersloot en de Ster van Loosdrecht. Dat gaat vaak ten koste van weidegrond. De provincie heeft het voortouw; de gemeente kan meewerken, aanjagen of afremmen."
+ },
+ {
+  "id": "zorg-aanbieders-een",
+  "thema": "zorg",
+  "stelling": "Per wijk of dorp werkt de gemeente met één vaste zorgaanbieder voor jeugdhulp en Wmo, ook als inwoners dan minder te kiezen hebben.",
+  "uitleg": "De gemeente koopt jeugdhulp en Wmo-hulp in bij veel verschillende zorgbedrijven. Een voorstel uit 2022 om het aantal aanbieders terug te dringen kreeg geen meerderheid. Minder aanbieders geeft vaste gezichten en meer grip op kwaliteit en kosten. Meer aanbieders geeft inwoners keuze, bijvoorbeeld voor zorg die bij hun geloof of situatie past, en uitwijkmogelijkheden bij wachtlijsten."
+ },
+ {
+  "id": "zorg-buurthuis-jaarsubsidie",
+  "thema": "zorg",
+  "stelling": "De gemeente beoordeelt de subsidie van buurthuizen en wijkcentra elk jaar opnieuw, op basis van wat ze hebben bereikt.",
+  "uitleg": "Wijk- en buurtcentra krijgen nu elk jaar opnieuw subsidie en moeten die elk jaar aanvragen en verantwoorden. Een voorstel om ze voor vijf jaar subsidie te geven kreeg in november 2025 geen meerderheid. Jaarlijks toetsen geeft de raad grip op het geld; meerjarige subsidie geeft vrijwilligers zekerheid en minder papierwerk."
+ },
+ {
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "thema": "veiligheid",
+  "stelling": "Als er extra geld komt voor veiligheid, gaat dat liever naar meer jongerenwerkers dan naar meer boa's.",
+  "uitleg": "Boa's zijn handhavers van de gemeente: zij spreken mensen aan en kunnen boetes geven. Jongerenwerkers zoeken jongeren op en proberen overlast te voorkomen voordat die ontstaat. Het geld voor veiligheid is beperkt, dus partijen moeten kiezen waar het meeste heen gaat."
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "thema": "asiel",
+  "stelling": "Het Hilversumse opvangbeleid uit 2023, met kleinschalige opvang in de wijk, gaat na de fusie ook gelden voor de dorpen.",
+  "uitleg": "In 2023 sprak Hilversum met inwoners over asielopvang. Daaruit kwam een kader dat de raad in december 2023 bijna unaniem vaststelde: enkele kleinere locaties verspreid over de stad, voor gemengde groepen, ook gezinnen. Inwoners van Wijdemeren praatten daar niet over mee. Het kader doortrekken naar de dorpen geeft snel duidelijkheid; het opnieuw openbreken (zoals de VVD wil, met willekeurig gekozen inwoners) geeft de dorpen een eigen stem, maar kost tijd."
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "thema": "asiel",
+  "stelling": "Statushouders wachten op een sociale huurwoning net zo lang als andere woningzoekenden, zonder eigen voorrangsregeling.",
+  "uitleg": "Statushouders zijn asielzoekers die een verblijfsvergunning hebben gekregen. De gemeente moet elk half jaar een vast aantal van hen een woning geven en doet dat nu vooral met voorrang op sociale huur. Landelijke regels staan die voorrang nog toe; een landelijk verbod is in 2026 juist uit de nieuwe huisvestingswet gehaald. Zonder voorrang blijven statushouders langer in de opvang, waardoor daar plekken bezet blijven."
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "thema": "economie",
+  "stelling": "De gemeente beperkt de openingstijden van winkels op zondag weer.",
+  "uitleg": "Met de Winkeltijdenverordening 2024 mogen winkels in Hilversum op zondagen en feestdagen ruimer open; winkeliers kiezen zelf of ze opengaan. Na de fusie moeten de regels voor stad en dorpen gelijk worden. Tegenstanders van ruime zondagsopening wijzen op de zondagsrust en op kleine winkeliers die het niet kunnen bijbenen tegen grote ketens."
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "thema": "cultuur",
+  "stelling": "Hilversum gaat net zoveel geld aan kunst en cultuur uitgeven als andere steden van dezelfde grootte.",
+  "uitleg": "Hilversum geeft volgens onder meer PRO minder uit aan cultuur dan vergelijkbare gemeenten; een voorstel uit 2022 voor 250.000 euro per jaar extra kreeg geen meerderheid. Na de fusie worden de subsidieregels van Hilversum en Wijdemeren samengevoegd, en de nieuwe raad kiest hoeveel geld er naar cultuur gaat. Meer geld voor cultuur betekent minder ruimte voor andere uitgaven of hogere lasten, terwijl de gemeentefinanciën onder druk staan."
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "thema": "cultuur",
+  "stelling": "Een cultureel project krijgt hooguit vijf jaar subsidie; daarna moet het zonder geld van de gemeente verder.",
+  "uitleg": "Naast vaste subsidies voor instellingen geeft de gemeente projectsubsidies aan nieuwe culturele initiatieven. De VVD wil dat zulke steun altijd eindig is; andere partijen willen juist meerjarige zekerheid, zodat initiatieven en vrijwilligers vooruit kunnen plannen."
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "thema": "cultuur",
+  "stelling": "De regels voor monumenten worden soepeler, zodat eigenaren hun pand makkelijker kunnen verduurzamen of verbouwen.",
+  "uitleg": "De nieuwe gemeente telt veel monumenten, met veel werk van architect Dudok en beschermde dorpsgezichten in de dorpen. Voor veranderingen aan een monument, zoals zonnepanelen of isolatie, zijn vaak een vergunning en advies van een commissie nodig. Soepeler regels maken verduurzamen en verbouwen makkelijker, maar kunnen het historische karakter aantasten."
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "thema": "bestuur",
+  "stelling": "Elk dorp krijgt een eigen gemeenteloket dat minstens één dag per week open is, ook als dat extra geld kost.",
+  "uitleg": "Voor bijvoorbeeld een paspoort of rijbewijs konden inwoners terecht bij het stadskantoor in Hilversum en het gemeentehuis in Loosdrecht. Het loket in Loosdrecht sluit eind december 2026; vanaf januari 2027 is er alleen het stadskantoor in Hilversum. De vraag is hoe dichtbij de gemeente in de dorpen moet zijn: een vast loket per dorp, spreekuren in dorpshuizen, een mobiel loket dat langs de dorpen rijdt, of vooral hulp via internet en telefoon, op afspraak."
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "thema": "bestuur",
+  "stelling": "De nieuwe gemeente geeft de dorpen de komende jaren voorrang bij investeringen, ook als plannen in de stad daardoor moeten wachten.",
+  "uitleg": "De fusie volgde op financiële en bestuurlijke problemen in Wijdemeren; meerdere partijen wijzen op achterstallig onderhoud aan wegen en voorzieningen in de dorpen. De nieuwe gemeente moet kiezen hoe ze geld verdeelt tussen stad en dorpen. Sommige partijen willen de dorpen een gegarandeerd budget geven, andere willen investeren waar de nood het hoogst is, zonder vooraf onderscheid tussen stad en dorp."
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "thema": "financien",
+  "stelling": "Bij een tekort horen subsidies voor cultuur, evenementen en maatschappelijke organisaties bij de eerste uitgaven die omlaag gaan.",
+  "uitleg": "De gemeente geeft jaarlijks subsidie aan onder meer culturele instellingen, verenigingen, welzijnswerk en evenementen. Na de fusie moeten de regelingen van Hilversum en Wijdemeren worden samengevoegd. Bij een tekort is subsidie een post die de raad relatief snel kan verlagen, maar dat raakt clubs en instellingen direct."
+ }
+]

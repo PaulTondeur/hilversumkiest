@@ -1,0 +1,227 @@
+[
+ {
+  "id": "wonen-bouwtempo",
+  "s": -1,
+  "kern": "Niet volbouwen: woningen bijbouwen waar het past, binnen een limiet.",
+  "toelichting": "De partij erkent de woningnood maar wil niet veel sneller bouwen. Ze kiest voor een woonladder met een limiet aan het aantal nieuwe woningen: eerst bestaande bebouwing beter benutten, dan verdichten waar de leefbaarheid het toelaat.",
+  "citaat": "Hilversum volbouwen is niet de oplossing; dat maakt de gemeente onleefbaar.",
+  "bron": "p. 41; woonladder p. 43",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-eigen-behoefte",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "s": 0,
+  "kern": "Betaalbare starterswoningen willen, starterslening kan helpen maar heeft nadelen.",
+  "toelichting": "De partij wil betaalbare (nieuwbouw)woningen, ook voor starters. Een starterslening kan helpen, maar ze noemt ook nadelen: te hoge lasten en een mogelijk prijsopdrijvend effect. Ze kiest daarom neutraal.",
+  "citaat": "Een starterslening kan hierbij helpen, maar er zouden ook nadelen kunnen zijn, zoals te hoge lasten of een (indirect) prijsopdrijvend effect.",
+  "bron": "Stemgids: 'Starterslening' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-bezoek",
+  "s": 0,
+  "kern": "Bezoekersvergunning is al goedkoper; gratis bezoek niet bepleit.",
+  "toelichting": "De partij kiest niet voor of tegen gratis bezoekersparkeren. Ze wijst erop dat bewoners al een goedkopere bezoekersvergunning kunnen aanvragen en dat mantelzorgers gratis kunnen parkeren.",
+  "citaat": "Bewoners kunnen een bezoekersvergunning aanvragen, waarmee betaald parkeren voor bezoekers al een stuk goedkoper is geworden.",
+  "bron": "Stemgids: 'Gratis parkeren voor bezoek' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "s": -2,
+  "kern": "Zero-emissiezone voor commercieel verkeer in het centrum invoeren.",
+  "toelichting": "De partij wil een zero-emissiezone voor commercieel verkeer in het centrum van Hilversum; vervuilend verkeer wordt geweerd. Diesel- en benzinebussen en -vrachtwagens blijven dus niet welkom.",
+  "citaat": "Er komt een zero-emissiezone van toepassing op commercieel verkeer in het centrum van Hilversum.",
+  "bron": "p. 57",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-warmtenet-markt",
+  "s": -2,
+  "kern": "De gemeente wordt zelf mede-eigenaar van een publiek warmtebedrijf.",
+  "toelichting": "De partij wil niet alles aan de markt overlaten: de gemeente wordt mede-eigenaar van een publiek warmtebedrijf en kan investeren in buurtnetten, om te sturen op duurzame bronnen en lage kosten voor inwoners. Warmtenetten op restwarmte uit fossiele industrie of biomassa wil ze niet.",
+  "citaat": "Door mede-eigenaar te worden van een publiek warmtebedrijf gaat Hilversum sturen op inzet van alleen duurzame warmtebronnen en zo laag mogelijke gebruikskosten voor inwoners.",
+  "bron": "p. 11",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-kern-verkenning",
+  "s": -2,
+  "kern": "Geen kerncentrale; kernenergie is niet de oplossing.",
+  "toelichting": "De partij wil geen kerncentrale in Hilversum: ze noemt kernenergie duur, met gevaarlijk afval en een te lange bouwtijd.",
+  "citaat": "Er komt geen kerncentrale in Hilversum. Kernenergie is niet de oplossing voor de klimaatcrisis.",
+  "bron": "p. 11; Stemgids: 'Onderzoek kleine kerncentrale' (tegen)",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-maaien",
+  "s": -2,
+  "kern": "Minder maaien en schoffelen, voor bloemen en insecten.",
+  "toelichting": "De partij wil ecologisch maaibeleid met minder maaien en schoffelen en bloemrijke, niet strakgemaaide bermen. Meer verzorgd groen ten koste van insecten wil ze niet.",
+  "citaat": "Hilversum biedt een voedingsbodem aan inheemse planten door ecologisch maaibeleid. Dit betekent ook: minder maaien en schoffelen.",
+  "bron": "p. 23, p. 25",
+  "soort": "programma"
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-buurthuis-jaarsubsidie",
+  "s": -2,
+  "kern": "Buurtcentra vijf jaar subsidie geven, niet jaarlijks.",
+  "toelichting": "De partij vindt dat wijk- en buurtcentra voor vijf jaar subsidie moeten krijgen, omdat langer durende toekenning hun functie versterkt.",
+  "citaat": "Langduriger toekenning helpt deze functies te versterken.",
+  "bron": "Stemgids: 'Vijf jaar subsidie voor wijkcentra' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": -1,
+  "kern": "Hondenpoep stevig handhaven; boa's ook voor dieren en bomen",
+  "toelichting": "De partij wil de opruimplicht voor hondenpoep stevig handhaven en boa's ook laten letten op dierenmishandeling en schade aan bomen. Meer boa's in het uitgaansgebied wil ze alleen bij een verhoogd veiligheidsrisico.",
+  "citaat": "De opruimplicht van hondenpoep wordt stevig gehandhaafd.",
+  "bron": "p. 15; p. 23; MijnStem: 'Meer BOA's inzetten in het uitgaansgebied'",
+  "soort": "programma"
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": -1,
+  "kern": "Omwonenden tijdig informeren en draagvlak zoeken, niet laten beslissen.",
+  "toelichting": "De partij wil actief werken aan draagvlak en omwonenden op tijd goed informeren, en houdt vast aan de afspraken uit de Hilversumse inspraak. Een beslissend of blokkerend oordeel van omwonenden noemt ze niet.",
+  "citaat": "Aan deze uitkomst houden we vast. De gemeente werkt actief aan draagvlak en licht de bewoners op tijd goed in over de komst van een azc of noodopvang.",
+  "bron": "p. 50; Hilversums Nieuws 12-11-2026: 'Nieuwe opvanglocaties alleen met instemming van omwonenden'",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": 1,
+  "kern": "Mix van bedrijven en starterswoningen op het Media Park, met groen.",
+  "toelichting": "De partij wil op het Media Park een mix van bedrijven en starterswoningen, met iets meer nadruk op woningen. Verdere ontwikkeling moet direct vergroenen en het Heksenweitje blijft groen.",
+  "citaat": "Een mix van bedrijven en starterswoningen op het Media Park zou goed kunnen werken. Als het Media Park verder wordt ontwikkeld, moet het ook direct verder vergroend worden.",
+  "bron": "MijnStem: 'Op het Media Park: meer woningen / meer mediabedrijven'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "economie-stadsfonds-afschaffen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": 1,
+  "kern": "Zonnepanelen op monumenten toestaan, mits uit het zicht",
+  "toelichting": "De partij wil dat zonnepanelen op erfgoed en monumenten mogelijk zijn als ze buiten het zicht liggen. Tegelijk wil ze sloop van waardevolle panden voorkomen en herbestemming bevorderen.",
+  "citaat": "Op erfgoed en monumenten is plaatsing van zonnepanelen buiten het zicht mogelijk.",
+  "bron": "p. 10; p. 72",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "cultuur-monumentale-scholen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-gelijke-regels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-regio-minder",
+  "s": -1,
+  "kern": "Actief regionaal samenwerken, met democratische controle.",
+  "toelichting": "De partij zoekt actief regionale samenwerking op dierenwelzijn, klimaat, natuur en milieu. Ze wil wel betere democratische controle door de gemeenteraad op samenwerkingsverbanden.",
+  "citaat": "Hilversum zoekt actief regionale samenwerking op het gebied van dierenwelzijn, klimaat, natuur en milieu, en zorgt ervoor dat democratische controle door de gemeenteraad is gewaarborgd.",
+  "bron": "p. 76",
+  "soort": "programma"
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": -2,
+  "kern": "Afvalheffing naar hoeveelheid afval.",
+  "toelichting": "De partij wil een afvalheffing op basis van de hoeveelheid afval en onderzoekt hoe de belasting lager kan worden naarmate men minder restafval aanbiedt.",
+  "citaat": "De vervuiler betaalt. De PvdD is voor een afvalheffing op basis van hoeveelheid afval.",
+  "bron": "MijnStem: 'Afvalheffing op basis van...'; p. 34",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-inhuur-vaste-banen",
+  "s": 1,
+  "kern": "Inhuur onder 10%, genoeg eigen ambtenaren in dienst",
+  "toelichting": "De partij wil externe inhuur onder de 10% houden omdat steeds wisselend extern personeel kennis en binding kost, en wil genoeg eigen ambtenaren in dienst nemen voor taken zoals het bomenbeleid. Of het ambtelijk apparaat daarvoor mag groeien, zegt ze niet uitdrukkelijk.",
+  "citaat": "De continue in- en uitstroom van extern personeel veroorzaakt verlies van kennis, ervaring en binding met de gemeente en samenleving. Het doel is de inhuur van extern personeel onder de 10% te houden.",
+  "bron": "p. 76; p. 24",
+  "soort": "programma"
+ }
+]

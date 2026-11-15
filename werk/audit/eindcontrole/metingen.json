@@ -1,0 +1,4259 @@
+{
+ "gemaakt": "2026-11-15",
+ "snel": false,
+ "groepen": {
+  "landelijk": [
+   "pro",
+   "d66",
+   "vvd",
+   "cda",
+   "sp",
+   "christenunie",
+   "bvnl",
+   "pvdd",
+   "volt",
+   "fvd",
+   "bbb"
+  ],
+  "lokaal": [
+   "hart-voor-hilversum",
+   "lokaal-een",
+   "scb",
+   "gewoon-hilversum",
+   "dorp-voor-dorp",
+   "stop-betaald-parkeren-vip",
+   "opstand-nu",
+   "blanco-van-oostveen",
+   "lfd"
+  ],
+  "groot": [
+   "hart-voor-hilversum",
+   "pro",
+   "d66",
+   "vvd",
+   "cda",
+   "lokaal-een"
+  ],
+  "klein": [
+   "sp",
+   "christenunie",
+   "bvnl",
+   "scb",
+   "gewoon-hilversum",
+   "dorp-voor-dorp",
+   "stop-betaald-parkeren-vip",
+   "opstand-nu",
+   "pvdd",
+   "blanco-van-oostveen",
+   "lfd",
+   "volt",
+   "fvd",
+   "bbb"
+  ],
+  "coalitie": [
+   "pro",
+   "vvd",
+   "cda",
+   "lokaal-een"
+  ],
+  "oppositie": [
+   "hart-voor-hilversum",
+   "d66",
+   "sp",
+   "christenunie",
+   "scb",
+   "gewoon-hilversum",
+   "opstand-nu",
+   "lfd"
+  ],
+  "nieuw": [
+   "bvnl",
+   "dorp-voor-dorp",
+   "stop-betaald-parkeren-vip",
+   "pvdd",
+   "blanco-van-oostveen",
+   "volt",
+   "fvd",
+   "bbb"
+  ],
+  "wijdemeers": [
+   "dorp-voor-dorp",
+   "lokaal-een"
+  ],
+  "hilversums_lokaal": [
+   "hart-voor-hilversum",
+   "scb",
+   "gewoon-hilversum",
+   "stop-betaald-parkeren-vip",
+   "opstand-nu",
+   "blanco-van-oostveen",
+   "lfd"
+  ],
+  "links": [
+   "pro",
+   "d66",
+   "lokaal-een",
+   "sp",
+   "christenunie",
+   "scb",
+   "opstand-nu",
+   "pvdd",
+   "volt"
+  ],
+  "rechts": [
+   "hart-voor-hilversum",
+   "vvd",
+   "cda",
+   "bvnl",
+   "gewoon-hilversum",
+   "dorp-voor-dorp",
+   "stop-betaald-parkeren-vip",
+   "blanco-van-oostveen",
+   "lfd",
+   "fvd",
+   "bbb"
+  ]
+ },
+ "assen": [
+  0.34,
+  0.1,
+  0.07
+ ],
+ "perPartij": [
+  {
+   "slug": "hart-voor-hilversum",
+   "bekend": 58,
+   "plus2": 7,
+   "plus1": 16,
+   "nul": 12,
+   "min1": 17,
+   "min2": 6,
+   "sterk": 0.22413793103448276,
+   "gem": 0.017241379310344827,
+   "programma": 26,
+   "stemhulp": 24,
+   "afgeleid": 4,
+   "stemgedrag": 4,
+   "toelichtingWoorden": 32.31,
+   "kernWoorden": 8.88,
+   "programmaWoorden": 4077,
+   "as1": 0.08,
+   "genoemdInUitleg": 0,
+   "kleineKant": 9
+  },
+  {
+   "slug": "pro",
+   "bekend": 79,
+   "plus2": 18,
+   "plus1": 22,
+   "nul": 4,
+   "min1": 22,
+   "min2": 13,
+   "sterk": 0.3924050632911392,
+   "gem": 0.12658227848101267,
+   "programma": 40,
+   "stemhulp": 29,
+   "afgeleid": 9,
+   "stemgedrag": 1,
+   "toelichtingWoorden": 29.71,
+   "kernWoorden": 7.29,
+   "programmaWoorden": 13951,
+   "as1": -0.4,
+   "genoemdInUitleg": 2,
+   "kleineKant": 28
+  },
+  {
+   "slug": "d66",
+   "bekend": 66,
+   "plus2": 10,
+   "plus1": 18,
+   "nul": 8,
+   "min1": 19,
+   "min2": 11,
+   "sterk": 0.3181818181818182,
+   "gem": -0.045454545454545456,
+   "programma": 20,
+   "stemhulp": 35,
+   "afgeleid": 10,
+   "stemgedrag": 1,
+   "toelichtingWoorden": 31,
+   "kernWoorden": 7.02,
+   "programmaWoorden": 14047,
+   "as1": -0.28,
+   "genoemdInUitleg": 1,
+   "kleineKant": 17
+  },
+  {
+   "slug": "vvd",
+   "bekend": 74,
+   "plus2": 13,
+   "plus1": 21,
+   "nul": 5,
+   "min1": 25,
+   "min2": 10,
+   "sterk": 0.3108108108108108,
+   "gem": 0.02702702702702703,
+   "programma": 34,
+   "stemhulp": 18,
+   "afgeleid": 10,
+   "stemgedrag": 12,
+   "toelichtingWoorden": 30.12,
+   "kernWoorden": 7.35,
+   "programmaWoorden": 9017,
+   "as1": 0.17,
+   "genoemdInUitleg": 3,
+   "kleineKant": 19
+  },
+  {
+   "slug": "cda",
+   "bekend": 71,
+   "plus2": 11,
+   "plus1": 25,
+   "nul": 6,
+   "min1": 26,
+   "min2": 3,
+   "sterk": 0.19718309859154928,
+   "gem": 0.2112676056338028,
+   "programma": 36,
+   "stemhulp": 24,
+   "afgeleid": 4,
+   "stemgedrag": 7,
+   "toelichtingWoorden": 32.55,
+   "kernWoorden": 8.24,
+   "programmaWoorden": 18231,
+   "as1": 0.08,
+   "genoemdInUitleg": 1,
+   "kleineKant": 16
+  },
+  {
+   "slug": "lokaal-een",
+   "bekend": 70,
+   "plus2": 5,
+   "plus1": 20,
+   "nul": 16,
+   "min1": 24,
+   "min2": 5,
+   "sterk": 0.14285714285714285,
+   "gem": -0.05714285714285714,
+   "programma": 29,
+   "stemhulp": 32,
+   "afgeleid": 9,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 28.19,
+   "kernWoorden": 7.17,
+   "programmaWoorden": 9967,
+   "as1": -0.04,
+   "genoemdInUitleg": 0,
+   "kleineKant": 14
+  },
+  {
+   "slug": "sp",
+   "bekend": 68,
+   "plus2": 10,
+   "plus1": 27,
+   "nul": 6,
+   "min1": 12,
+   "min2": 13,
+   "sterk": 0.3382352941176471,
+   "gem": 0.1323529411764706,
+   "programma": 27,
+   "stemhulp": 26,
+   "afgeleid": 12,
+   "stemgedrag": 3,
+   "toelichtingWoorden": 32.34,
+   "kernWoorden": 8.44,
+   "programmaWoorden": 9764,
+   "as1": -0.13,
+   "genoemdInUitleg": 0,
+   "kleineKant": 23
+  },
+  {
+   "slug": "christenunie",
+   "bekend": 64,
+   "plus2": 8,
+   "plus1": 24,
+   "nul": 5,
+   "min1": 15,
+   "min2": 12,
+   "sterk": 0.3125,
+   "gem": 0.015625,
+   "programma": 29,
+   "stemhulp": 25,
+   "afgeleid": 5,
+   "stemgedrag": 5,
+   "toelichtingWoorden": 34.41,
+   "kernWoorden": 8.83,
+   "programmaWoorden": 17940,
+   "as1": -0.28,
+   "genoemdInUitleg": 0,
+   "kleineKant": 15
+  },
+  {
+   "slug": "bvnl",
+   "bekend": 67,
+   "plus2": 10,
+   "plus1": 21,
+   "nul": 2,
+   "min1": 19,
+   "min2": 15,
+   "sterk": 0.373134328358209,
+   "gem": -0.11940298507462686,
+   "programma": 22,
+   "stemhulp": 38,
+   "afgeleid": 7,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 26.63,
+   "kernWoorden": 8.36,
+   "programmaWoorden": 1879,
+   "as1": 0.27,
+   "genoemdInUitleg": 0,
+   "kleineKant": 17
+  },
+  {
+   "slug": "scb",
+   "bekend": 49,
+   "plus2": 4,
+   "plus1": 18,
+   "nul": 5,
+   "min1": 18,
+   "min2": 4,
+   "sterk": 0.16326530612244897,
+   "gem": 0,
+   "programma": 5,
+   "stemhulp": 37,
+   "afgeleid": 7,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 30.9,
+   "kernWoorden": 7.67,
+   "programmaWoorden": 1825,
+   "as1": 0,
+   "genoemdInUitleg": 0,
+   "kleineKant": 10
+  },
+  {
+   "slug": "gewoon-hilversum",
+   "bekend": 64,
+   "plus2": 9,
+   "plus1": 21,
+   "nul": 12,
+   "min1": 17,
+   "min2": 5,
+   "sterk": 0.21875,
+   "gem": 0.1875,
+   "programma": 19,
+   "stemhulp": 38,
+   "afgeleid": 6,
+   "stemgedrag": 1,
+   "toelichtingWoorden": 31.39,
+   "kernWoorden": 7.84,
+   "programmaWoorden": 16585,
+   "as1": 0.1,
+   "genoemdInUitleg": 1,
+   "kleineKant": 12
+  },
+  {
+   "slug": "dorp-voor-dorp",
+   "bekend": 56,
+   "plus2": 13,
+   "plus1": 10,
+   "nul": 7,
+   "min1": 14,
+   "min2": 12,
+   "sterk": 0.44642857142857145,
+   "gem": -0.03571428571428571,
+   "programma": 18,
+   "stemhulp": 33,
+   "afgeleid": 5,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 34.8,
+   "kernWoorden": 7.89,
+   "programmaWoorden": 29349,
+   "as1": 0.23,
+   "genoemdInUitleg": 0,
+   "kleineKant": 14
+  },
+  {
+   "slug": "stop-betaald-parkeren-vip",
+   "bekend": 50,
+   "plus2": 7,
+   "plus1": 13,
+   "nul": 8,
+   "min1": 19,
+   "min2": 3,
+   "sterk": 0.2,
+   "gem": 0.04,
+   "programma": 13,
+   "stemhulp": 33,
+   "afgeleid": 4,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 32.62,
+   "kernWoorden": 9.14,
+   "programmaWoorden": 12139,
+   "as1": 0.1,
+   "genoemdInUitleg": 0,
+   "kleineKant": 12
+  },
+  {
+   "slug": "opstand-nu",
+   "bekend": 61,
+   "plus2": 7,
+   "plus1": 19,
+   "nul": 4,
+   "min1": 19,
+   "min2": 12,
+   "sterk": 0.3114754098360656,
+   "gem": -0.16393442622950818,
+   "programma": 13,
+   "stemhulp": 37,
+   "afgeleid": 9,
+   "stemgedrag": 2,
+   "toelichtingWoorden": 30.39,
+   "kernWoorden": 7.36,
+   "programmaWoorden": 4581,
+   "as1": -0.2,
+   "genoemdInUitleg": 0,
+   "kleineKant": 19
+  },
+  {
+   "slug": "pvdd",
+   "bekend": 69,
+   "plus2": 10,
+   "plus1": 19,
+   "nul": 6,
+   "min1": 13,
+   "min2": 21,
+   "sterk": 0.4492753623188406,
+   "gem": -0.2318840579710145,
+   "programma": 34,
+   "stemhulp": 28,
+   "afgeleid": 7,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 30.29,
+   "kernWoorden": 7.93,
+   "programmaWoorden": 28194,
+   "as1": -0.37,
+   "genoemdInUitleg": 0,
+   "kleineKant": 23
+  },
+  {
+   "slug": "blanco-van-oostveen",
+   "bekend": 51,
+   "plus2": 6,
+   "plus1": 18,
+   "nul": 5,
+   "min1": 13,
+   "min2": 9,
+   "sterk": 0.29411764705882354,
+   "gem": -0.0196078431372549,
+   "programma": 0,
+   "stemhulp": 43,
+   "afgeleid": 8,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 31.94,
+   "kernWoorden": 8.14,
+   "programmaWoorden": 0,
+   "as1": 0.07,
+   "genoemdInUitleg": 0,
+   "kleineKant": 14
+  },
+  {
+   "slug": "lfd",
+   "bekend": 68,
+   "plus2": 12,
+   "plus1": 20,
+   "nul": 4,
+   "min1": 22,
+   "min2": 10,
+   "sterk": 0.3235294117647059,
+   "gem": 0.029411764705882353,
+   "programma": 20,
+   "stemhulp": 34,
+   "afgeleid": 13,
+   "stemgedrag": 1,
+   "toelichtingWoorden": 30.41,
+   "kernWoorden": 8.82,
+   "programmaWoorden": 6536,
+   "as1": 0.19,
+   "genoemdInUitleg": 0,
+   "kleineKant": 20
+  },
+  {
+   "slug": "volt",
+   "bekend": 58,
+   "plus2": 11,
+   "plus1": 17,
+   "nul": 5,
+   "min1": 15,
+   "min2": 10,
+   "sterk": 0.3620689655172414,
+   "gem": 0.06896551724137931,
+   "programma": 20,
+   "stemhulp": 29,
+   "afgeleid": 9,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 26.53,
+   "kernWoorden": 8.84,
+   "programmaWoorden": 11898,
+   "as1": -0.22,
+   "genoemdInUitleg": 1,
+   "kleineKant": 14
+  },
+  {
+   "slug": "fvd",
+   "bekend": 69,
+   "plus2": 15,
+   "plus1": 19,
+   "nul": 1,
+   "min1": 18,
+   "min2": 16,
+   "sterk": 0.4492753623188406,
+   "gem": -0.014492753623188406,
+   "programma": 22,
+   "stemhulp": 29,
+   "afgeleid": 18,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 26.8,
+   "kernWoorden": 6.12,
+   "programmaWoorden": 5532,
+   "as1": 0.38,
+   "genoemdInUitleg": 0,
+   "kleineKant": 30
+  },
+  {
+   "slug": "bbb",
+   "bekend": 60,
+   "plus2": 11,
+   "plus1": 15,
+   "nul": 6,
+   "min1": 13,
+   "min2": 15,
+   "sterk": 0.43333333333333335,
+   "gem": -0.1,
+   "programma": 19,
+   "stemhulp": 35,
+   "afgeleid": 6,
+   "stemgedrag": 0,
+   "toelichtingWoorden": 28.52,
+   "kernWoorden": 7.78,
+   "programmaWoorden": 5966,
+   "as1": 0.25,
+   "genoemdInUitleg": 0,
+   "kleineKant": 10
+  }
+ ],
+ "perStelling": [
+  {
+   "id": "wonen-bouwtempo",
+   "thema": "wonen",
+   "bekend": 15,
+   "eensKant": "gemengd",
+   "r": -0.13,
+   "voorWoorden": 17,
+   "tegenWoorden": 14,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 53
+  },
+  {
+   "id": "wonen-eigen-behoefte",
+   "thema": "wonen",
+   "bekend": 8,
+   "eensKant": "rechts",
+   "r": 0.73,
+   "voorWoorden": 19,
+   "tegenWoorden": 15,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 48
+  },
+  {
+   "id": "wonen-dorpsrand",
+   "thema": "wonen",
+   "bekend": 20,
+   "eensKant": "gemengd",
+   "r": 0.15,
+   "voorWoorden": 26,
+   "tegenWoorden": 21,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 65
+  },
+  {
+   "id": "wonen-nederhorst-noord-open",
+   "thema": "wonen",
+   "bekend": 10,
+   "eensKant": "links",
+   "r": -0.36,
+   "voorWoorden": 18,
+   "tegenWoorden": 20,
+   "stellingWoorden": 22,
+   "uitlegWoorden": 73
+  },
+  {
+   "id": "wonen-hoogbouw",
+   "thema": "wonen",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.53,
+   "voorWoorden": 17,
+   "tegenWoorden": 20,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 37
+  },
+  {
+   "id": "wonen-hoogbouw-alleen-station",
+   "thema": "wonen",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.48,
+   "voorWoorden": 18,
+   "tegenWoorden": 19,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "wonen-kantoren-naar-wonen",
+   "thema": "wonen",
+   "bekend": 20,
+   "eensKant": "gemengd",
+   "r": -0.04,
+   "voorWoorden": 19,
+   "tegenWoorden": 12,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 51
+  },
+  {
+   "id": "wonen-sociale-huur-per-project",
+   "thema": "wonen",
+   "bekend": 18,
+   "eensKant": "rechts",
+   "r": 0.76,
+   "voorWoorden": 19,
+   "tegenWoorden": 17,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 85
+  },
+  {
+   "id": "wonen-lokale-binding-helft",
+   "thema": "wonen",
+   "bekend": 13,
+   "eensKant": "rechts",
+   "r": 0.48,
+   "voorWoorden": 17,
+   "tegenWoorden": 22,
+   "stellingWoorden": 23,
+   "uitlegWoorden": 66
+  },
+  {
+   "id": "wonen-voorrang-beroepen-weg",
+   "thema": "wonen",
+   "bekend": 11,
+   "eensKant": "links",
+   "r": -0.65,
+   "voorWoorden": 17,
+   "tegenWoorden": 19,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 62
+  },
+  {
+   "id": "wonen-starterswoning-boven-lening",
+   "thema": "wonen",
+   "bekend": 20,
+   "eensKant": "gemengd",
+   "r": 0.21,
+   "voorWoorden": 20,
+   "tegenWoorden": 19,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 69
+  },
+  {
+   "id": "wonen-parkeernorm",
+   "thema": "wonen",
+   "bekend": 11,
+   "eensKant": "links",
+   "r": -0.59,
+   "voorWoorden": 16,
+   "tegenWoorden": 15,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 50
+  },
+  {
+   "id": "verkeer-terugdraaien",
+   "thema": "verkeer",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.63,
+   "voorWoorden": 26,
+   "tegenWoorden": 22,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 66
+  },
+  {
+   "id": "verkeer-buurt-beslist",
+   "thema": "verkeer",
+   "bekend": 10,
+   "eensKant": "rechts",
+   "r": 0.7,
+   "voorWoorden": 22,
+   "tegenWoorden": 22,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "verkeer-bezoek",
+   "thema": "verkeer",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.64,
+   "voorWoorden": 16,
+   "tegenWoorden": 16,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 67
+  },
+  {
+   "id": "verkeer-eerste-uur",
+   "thema": "verkeer",
+   "bekend": 14,
+   "eensKant": "rechts",
+   "r": 0.65,
+   "voorWoorden": 16,
+   "tegenWoorden": 15,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 55
+  },
+  {
+   "id": "verkeer-vergunning",
+   "thema": "verkeer",
+   "bekend": 9,
+   "eensKant": "rechts",
+   "r": 0.73,
+   "voorWoorden": 16,
+   "tegenWoorden": 18,
+   "stellingWoorden": 6,
+   "uitlegWoorden": 30
+  },
+  {
+   "id": "verkeer-opbrengst",
+   "thema": "verkeer",
+   "bekend": 9,
+   "eensKant": "links",
+   "r": -0.84,
+   "voorWoorden": 22,
+   "tegenWoorden": 17,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 68
+  },
+  {
+   "id": "verkeer-fietspad",
+   "thema": "verkeer",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.77,
+   "voorWoorden": 16,
+   "tegenWoorden": 19,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 28
+  },
+  {
+   "id": "verkeer-autoluw",
+   "thema": "verkeer",
+   "bekend": 12,
+   "eensKant": "links",
+   "r": -0.88,
+   "voorWoorden": 16,
+   "tegenWoorden": 22,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 43
+  },
+  {
+   "id": "verkeer-zero-emissie",
+   "thema": "verkeer",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.82,
+   "voorWoorden": 19,
+   "tegenWoorden": 17,
+   "stellingWoorden": 14,
+   "uitlegWoorden": 54
+  },
+  {
+   "id": "verkeer-30-hoofdwegen",
+   "thema": "verkeer",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.76,
+   "voorWoorden": 13,
+   "tegenWoorden": 19,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 69
+  },
+  {
+   "id": "verkeer-30-dorpswegen",
+   "thema": "verkeer",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.83,
+   "voorWoorden": 14,
+   "tegenWoorden": 15,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 79
+  },
+  {
+   "id": "klimaat-alleen-rijk",
+   "thema": "klimaat",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.88,
+   "voorWoorden": 20,
+   "tegenWoorden": 23,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "klimaat-2040",
+   "thema": "klimaat",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.83,
+   "voorWoorden": 19,
+   "tegenWoorden": 22,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 51
+  },
+  {
+   "id": "klimaat-gas-tijdpad",
+   "thema": "klimaat",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.91,
+   "voorWoorden": 22,
+   "tegenWoorden": 23,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 57
+  },
+  {
+   "id": "klimaat-warmtenet-markt",
+   "thema": "klimaat",
+   "bekend": 7,
+   "eensKant": "rechts",
+   "r": 0.93,
+   "voorWoorden": 18,
+   "tegenWoorden": 23,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 59
+  },
+  {
+   "id": "klimaat-wind-draagvlak",
+   "thema": "klimaat",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.52,
+   "voorWoorden": 20,
+   "tegenWoorden": 25,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 76
+  },
+  {
+   "id": "klimaat-kleine-windmolen",
+   "thema": "klimaat",
+   "bekend": 11,
+   "eensKant": "links",
+   "r": -0.69,
+   "voorWoorden": 23,
+   "tegenWoorden": 18,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 58
+  },
+  {
+   "id": "klimaat-zon-boerenland",
+   "thema": "klimaat",
+   "bekend": 11,
+   "eensKant": "gemengd",
+   "r": -0.24,
+   "voorWoorden": 20,
+   "tegenWoorden": 15,
+   "stellingWoorden": 14,
+   "uitlegWoorden": 50
+  },
+  {
+   "id": "klimaat-kern-verkenning",
+   "thema": "klimaat",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.64,
+   "voorWoorden": 22,
+   "tegenWoorden": 21,
+   "stellingWoorden": 14,
+   "uitlegWoorden": 64
+  },
+  {
+   "id": "klimaat-kern-locatie",
+   "thema": "klimaat",
+   "bekend": 11,
+   "eensKant": "rechts",
+   "r": 0.6,
+   "voorWoorden": 22,
+   "tegenWoorden": 20,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 49
+  },
+  {
+   "id": "klimaat-houtstook",
+   "thema": "klimaat",
+   "bekend": 11,
+   "eensKant": "links",
+   "r": -0.88,
+   "voorWoorden": 21,
+   "tegenWoorden": 22,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "natuur-afsluiten",
+   "thema": "natuur",
+   "bekend": 16,
+   "eensKant": "links",
+   "r": -0.87,
+   "voorWoorden": 15,
+   "tegenWoorden": 16,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 66
+  },
+  {
+   "id": "natuur-snelvaren",
+   "thema": "natuur",
+   "bekend": 6,
+   "eensKant": "links",
+   "r": -0.73,
+   "voorWoorden": 14,
+   "tegenWoorden": 17,
+   "stellingWoorden": 10,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "natuur-recreant-betaalt",
+   "thema": "natuur",
+   "bekend": 9,
+   "eensKant": "links",
+   "r": -0.78,
+   "voorWoorden": 18,
+   "tegenWoorden": 13,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "natuur-snippergroen",
+   "thema": "natuur",
+   "bekend": 20,
+   "eensKant": "gemengd",
+   "r": 0.14,
+   "voorWoorden": 18,
+   "tegenWoorden": 16,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 46
+  },
+  {
+   "id": "natuur-groennorm",
+   "thema": "natuur",
+   "bekend": 10,
+   "eensKant": "links",
+   "r": -0.91,
+   "voorWoorden": 13,
+   "tegenWoorden": 15,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 49
+  },
+  {
+   "id": "natuur-bomen",
+   "thema": "natuur",
+   "bekend": 9,
+   "eensKant": "rechts",
+   "r": 0.42,
+   "voorWoorden": 17,
+   "tegenWoorden": 19,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "natuur-maaien",
+   "thema": "natuur",
+   "bekend": 10,
+   "eensKant": "rechts",
+   "r": 0.53,
+   "voorWoorden": 14,
+   "tegenWoorden": 18,
+   "stellingWoorden": 22,
+   "uitlegWoorden": 35
+  },
+  {
+   "id": "natuur-landbouw-natuur",
+   "thema": "natuur",
+   "bekend": 17,
+   "eensKant": "links",
+   "r": -0.92,
+   "voorWoorden": 17,
+   "tegenWoorden": 14,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 48
+  },
+  {
+   "id": "natuur-stikstof-boeren",
+   "thema": "natuur",
+   "bekend": 9,
+   "eensKant": "rechts",
+   "r": 0.94,
+   "voorWoorden": 19,
+   "tegenWoorden": 18,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 55
+  },
+  {
+   "id": "zorg-minima-grens",
+   "thema": "zorg",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.53,
+   "voorWoorden": 20,
+   "tegenWoorden": 20,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 71
+  },
+  {
+   "id": "zorg-jeugd-besparing",
+   "thema": "zorg",
+   "bekend": 20,
+   "eensKant": "gemengd",
+   "r": -0.1,
+   "voorWoorden": 23,
+   "tegenWoorden": 18,
+   "stellingWoorden": 14,
+   "uitlegWoorden": 79
+  },
+  {
+   "id": "zorg-wmo-kwijtschelding",
+   "thema": "zorg",
+   "bekend": 10,
+   "eensKant": "gemengd",
+   "r": -0.06,
+   "voorWoorden": 22,
+   "tegenWoorden": 24,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 58
+  },
+  {
+   "id": "zorg-wmo-zonderindicatie",
+   "thema": "zorg",
+   "bekend": 6,
+   "eensKant": "links",
+   "r": -0.5,
+   "voorWoorden": 17,
+   "tegenWoorden": 18,
+   "stellingWoorden": 24,
+   "uitlegWoorden": 59
+  },
+  {
+   "id": "zorg-aanbieders-een",
+   "thema": "zorg",
+   "bekend": 5,
+   "eensKant": "links",
+   "r": -0.72,
+   "voorWoorden": 18,
+   "tegenWoorden": 22,
+   "stellingWoorden": 23,
+   "uitlegWoorden": 56
+  },
+  {
+   "id": "zorg-bijstand-tegenprestatie",
+   "thema": "zorg",
+   "bekend": 6,
+   "eensKant": "rechts",
+   "r": 0.7,
+   "voorWoorden": 19,
+   "tegenWoorden": 15,
+   "stellingWoorden": 14,
+   "uitlegWoorden": 47
+  },
+  {
+   "id": "zorg-buurthuis-elkewijk",
+   "thema": "zorg",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.52,
+   "voorWoorden": 20,
+   "tegenWoorden": 22,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 57
+  },
+  {
+   "id": "zorg-buurthuis-jaarsubsidie",
+   "thema": "zorg",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.36,
+   "voorWoorden": 13,
+   "tegenWoorden": 18,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 50
+  },
+  {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "thema": "veiligheid",
+   "bekend": 14,
+   "eensKant": "links",
+   "r": -0.78,
+   "voorWoorden": 12,
+   "tegenWoorden": 14,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 41
+  },
+  {
+   "id": "veiligheid-boa-taken",
+   "thema": "veiligheid",
+   "bekend": 10,
+   "eensKant": "gemengd",
+   "r": 0.09,
+   "voorWoorden": 17,
+   "tegenWoorden": 16,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 42
+  },
+  {
+   "id": "veiligheid-camera-uitbreiden",
+   "thema": "veiligheid",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.43,
+   "voorWoorden": 17,
+   "tegenWoorden": 16,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 67
+  },
+  {
+   "id": "veiligheid-coffeeshops-aantal",
+   "thema": "veiligheid",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.41,
+   "voorWoorden": 16,
+   "tegenWoorden": 15,
+   "stellingWoorden": 6,
+   "uitlegWoorden": 59
+  },
+  {
+   "id": "veiligheid-coffeeshops-scholen",
+   "thema": "veiligheid",
+   "bekend": 7,
+   "eensKant": "rechts",
+   "r": 0.48,
+   "voorWoorden": 17,
+   "tegenWoorden": 15,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 54
+  },
+  {
+   "id": "asiel-zonder-spreidingswet",
+   "thema": "asiel",
+   "bekend": 19,
+   "eensKant": "links",
+   "r": -0.89,
+   "voorWoorden": 25,
+   "tegenWoorden": 18,
+   "stellingWoorden": 13,
+   "uitlegWoorden": 80
+  },
+  {
+   "id": "asiel-blijvende-opvang",
+   "thema": "asiel",
+   "bekend": 9,
+   "eensKant": "links",
+   "r": -0.82,
+   "voorWoorden": 19,
+   "tegenWoorden": 15,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 58
+  },
+  {
+   "id": "asiel-omwonenden-beslissen",
+   "thema": "asiel",
+   "bekend": 16,
+   "eensKant": "rechts",
+   "r": 0.74,
+   "voorWoorden": 17,
+   "tegenWoorden": 15,
+   "stellingWoorden": 13,
+   "uitlegWoorden": 48
+  },
+  {
+   "id": "asiel-kader-dorpen",
+   "thema": "asiel",
+   "bekend": 10,
+   "eensKant": "links",
+   "r": -0.8,
+   "voorWoorden": 17,
+   "tegenWoorden": 18,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 70
+  },
+  {
+   "id": "asiel-voorrang-statushouders",
+   "thema": "asiel",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.79,
+   "voorWoorden": 15,
+   "tegenWoorden": 15,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 64
+  },
+  {
+   "id": "asiel-regenbooggeld",
+   "thema": "asiel",
+   "bekend": 7,
+   "eensKant": "links",
+   "r": -0.81,
+   "voorWoorden": 17,
+   "tegenWoorden": 18,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 55
+  },
+  {
+   "id": "economie-mediapark-woningen",
+   "thema": "economie",
+   "bekend": 19,
+   "eensKant": "gemengd",
+   "r": -0.3,
+   "voorWoorden": 22,
+   "tegenWoorden": 20,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 64
+  },
+  {
+   "id": "economie-bruisend-hart-uitstel",
+   "thema": "economie",
+   "bekend": 18,
+   "eensKant": "gemengd",
+   "r": 0.29,
+   "voorWoorden": 14,
+   "tegenWoorden": 16,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 77
+  },
+  {
+   "id": "economie-centrum-compacter",
+   "thema": "economie",
+   "bekend": 10,
+   "eensKant": "gemengd",
+   "r": -0.07,
+   "voorWoorden": 11,
+   "tegenWoorden": 17,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 48
+  },
+  {
+   "id": "economie-zondag-beperken",
+   "thema": "economie",
+   "bekend": 17,
+   "eensKant": "gemengd",
+   "r": -0.27,
+   "voorWoorden": 18,
+   "tegenWoorden": 18,
+   "stellingWoorden": 10,
+   "uitlegWoorden": 52
+  },
+  {
+   "id": "economie-citymarketing",
+   "thema": "economie",
+   "bekend": 18,
+   "eensKant": "gemengd",
+   "r": 0.22,
+   "voorWoorden": 15,
+   "tegenWoorden": 13,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 47
+  },
+  {
+   "id": "economie-stadsfonds-afschaffen",
+   "thema": "economie",
+   "bekend": 8,
+   "eensKant": "gemengd",
+   "r": 0.21,
+   "voorWoorden": 23,
+   "tegenWoorden": 15,
+   "stellingWoorden": 8,
+   "uitlegWoorden": 72
+  },
+  {
+   "id": "economie-plassen-uitbreiden",
+   "thema": "economie",
+   "bekend": 20,
+   "eensKant": "rechts",
+   "r": 0.7,
+   "voorWoorden": 14,
+   "tegenWoorden": 13,
+   "stellingWoorden": 13,
+   "uitlegWoorden": 52
+  },
+  {
+   "id": "cultuur-budget-niveau",
+   "thema": "cultuur",
+   "bekend": 20,
+   "eensKant": "links",
+   "r": -0.81,
+   "voorWoorden": 18,
+   "tegenWoorden": 16,
+   "stellingWoorden": 16,
+   "uitlegWoorden": 67
+  },
+  {
+   "id": "cultuur-projectsubsidie-eindig",
+   "thema": "cultuur",
+   "bekend": 5,
+   "eensKant": "rechts",
+   "r": 0.66,
+   "voorWoorden": 17,
+   "tegenWoorden": 18,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 35
+  },
+  {
+   "id": "cultuur-dorpsgarantie",
+   "thema": "cultuur",
+   "bekend": 7,
+   "eensKant": "rechts",
+   "r": 0.82,
+   "voorWoorden": 18,
+   "tegenWoorden": 18,
+   "stellingWoorden": 19,
+   "uitlegWoorden": 45
+  },
+  {
+   "id": "cultuur-sportevenementen",
+   "thema": "cultuur",
+   "bekend": 6,
+   "eensKant": "gemengd",
+   "r": 0.07,
+   "voorWoorden": 16,
+   "tegenWoorden": 16,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 49
+  },
+  {
+   "id": "cultuur-monumentenregels",
+   "thema": "cultuur",
+   "bekend": 8,
+   "eensKant": "links",
+   "r": -0.38,
+   "voorWoorden": 19,
+   "tegenWoorden": 19,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 50
+  },
+  {
+   "id": "cultuur-monumentale-scholen",
+   "thema": "cultuur",
+   "bekend": 5,
+   "eensKant": "links",
+   "r": -0.66,
+   "voorWoorden": 17,
+   "tegenWoorden": 17,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 51
+  },
+  {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "thema": "bestuur",
+   "bekend": 9,
+   "eensKant": "gemengd",
+   "r": 0.12,
+   "voorWoorden": 18,
+   "tegenWoorden": 19,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 55
+  },
+  {
+   "id": "bestuur-dorpsraad-beslist",
+   "thema": "bestuur",
+   "bekend": 15,
+   "eensKant": "gemengd",
+   "r": -0.2,
+   "voorWoorden": 22,
+   "tegenWoorden": 19,
+   "stellingWoorden": 24,
+   "uitlegWoorden": 54
+  },
+  {
+   "id": "bestuur-loket-elk-dorp",
+   "thema": "bestuur",
+   "bekend": 20,
+   "eensKant": "gemengd",
+   "r": -0.05,
+   "voorWoorden": 15,
+   "tegenWoorden": 21,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 74
+  },
+  {
+   "id": "bestuur-dorpen-voorrang",
+   "thema": "bestuur",
+   "bekend": 18,
+   "eensKant": "rechts",
+   "r": 0.41,
+   "voorWoorden": 22,
+   "tegenWoorden": 22,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 61
+  },
+  {
+   "id": "bestuur-gelijke-regels",
+   "thema": "bestuur",
+   "bekend": 13,
+   "eensKant": "links",
+   "r": -0.78,
+   "voorWoorden": 17,
+   "tegenWoorden": 21,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 54
+  },
+  {
+   "id": "bestuur-leges-dorpsevenementen",
+   "thema": "bestuur",
+   "bekend": 19,
+   "eensKant": "rechts",
+   "r": 0.57,
+   "voorWoorden": 17,
+   "tegenWoorden": 19,
+   "stellingWoorden": 12,
+   "uitlegWoorden": 73
+  },
+  {
+   "id": "bestuur-referendum-advies",
+   "thema": "bestuur",
+   "bekend": 10,
+   "eensKant": "links",
+   "r": -0.63,
+   "voorWoorden": 16,
+   "tegenWoorden": 18,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 60
+  },
+  {
+   "id": "bestuur-regio-minder",
+   "thema": "bestuur",
+   "bekend": 11,
+   "eensKant": "rechts",
+   "r": 0.67,
+   "voorWoorden": 26,
+   "tegenWoorden": 19,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 72
+  },
+  {
+   "id": "financien-tekort-lasten",
+   "thema": "financien",
+   "bekend": 19,
+   "eensKant": "links",
+   "r": -0.84,
+   "voorWoorden": 23,
+   "tegenWoorden": 19,
+   "stellingWoorden": 20,
+   "uitlegWoorden": 67
+  },
+  {
+   "id": "financien-ozb-meestijgen",
+   "thema": "financien",
+   "bekend": 19,
+   "eensKant": "links",
+   "r": -0.69,
+   "voorWoorden": 23,
+   "tegenWoorden": 22,
+   "stellingWoorden": 17,
+   "uitlegWoorden": 74
+  },
+  {
+   "id": "financien-subsidies-korten",
+   "thema": "financien",
+   "bekend": 18,
+   "eensKant": "rechts",
+   "r": 0.39,
+   "voorWoorden": 13,
+   "tegenWoorden": 18,
+   "stellingWoorden": 18,
+   "uitlegWoorden": 47
+  },
+  {
+   "id": "financien-afval-vast-bedrag",
+   "thema": "financien",
+   "bekend": 18,
+   "eensKant": "rechts",
+   "r": 0.74,
+   "voorWoorden": 22,
+   "tegenWoorden": 15,
+   "stellingWoorden": 13,
+   "uitlegWoorden": 67
+  },
+  {
+   "id": "financien-toerist-forens-laag",
+   "thema": "financien",
+   "bekend": 10,
+   "eensKant": "rechts",
+   "r": 0.87,
+   "voorWoorden": 19,
+   "tegenWoorden": 18,
+   "stellingWoorden": 14,
+   "uitlegWoorden": 66
+  },
+  {
+   "id": "financien-inhuur-vaste-banen",
+   "thema": "financien",
+   "bekend": 10,
+   "eensKant": "links",
+   "r": -0.47,
+   "voorWoorden": 13,
+   "tegenWoorden": 19,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 49
+  },
+  {
+   "id": "financien-investeringen-spreiden",
+   "thema": "financien",
+   "bekend": 10,
+   "eensKant": "gemengd",
+   "r": 0.09,
+   "voorWoorden": 20,
+   "tegenWoorden": 12,
+   "stellingWoorden": 15,
+   "uitlegWoorden": 67
+  },
+  {
+   "id": "financien-centrum-sober",
+   "thema": "financien",
+   "bekend": 16,
+   "eensKant": "rechts",
+   "r": 0.56,
+   "voorWoorden": 23,
+   "tegenWoorden": 16,
+   "stellingWoorden": 21,
+   "uitlegWoorden": 61
+  }
+ ],
+ "richting": {
+  "wonen": {
+   "n": 12,
+   "links": 4,
+   "rechts": 4,
+   "gemengd": 4
+  },
+  "verkeer": {
+   "n": 11,
+   "links": 5,
+   "rechts": 6,
+   "gemengd": 0
+  },
+  "klimaat": {
+   "n": 10,
+   "links": 4,
+   "rechts": 5,
+   "gemengd": 1
+  },
+  "natuur": {
+   "n": 9,
+   "links": 5,
+   "rechts": 3,
+   "gemengd": 1
+  },
+  "zorg": {
+   "n": 8,
+   "links": 3,
+   "rechts": 3,
+   "gemengd": 2
+  },
+  "veiligheid": {
+   "n": 5,
+   "links": 2,
+   "rechts": 2,
+   "gemengd": 1
+  },
+  "asiel": {
+   "n": 6,
+   "links": 4,
+   "rechts": 2,
+   "gemengd": 0
+  },
+  "economie": {
+   "n": 7,
+   "links": 0,
+   "rechts": 1,
+   "gemengd": 6
+  },
+  "cultuur": {
+   "n": 6,
+   "links": 3,
+   "rechts": 2,
+   "gemengd": 1
+  },
+  "bestuur": {
+   "n": 8,
+   "links": 2,
+   "rechts": 3,
+   "gemengd": 3
+  },
+  "financien": {
+   "n": 8,
+   "links": 3,
+   "rechts": 4,
+   "gemengd": 1
+  },
+  "totaal": {
+   "n": 90,
+   "links": 35,
+   "rechts": 35,
+   "gemengd": 20
+  }
+ },
+ "voorTegen": {
+  "voor": 18.255555555555556,
+  "tegen": 17.977777777777778,
+  "voorLanger": [
+   "wonen-kantoren-naar-wonen",
+   "economie-stadsfonds-afschaffen",
+   "financien-investeringen-spreiden"
+  ],
+  "tegenLanger": [
+   "economie-centrum-compacter"
+  ]
+ },
+ "genoemd": {
+  "pro": [
+   "wonen-bouwtempo",
+   "cultuur-budget-niveau"
+  ],
+  "d66": [
+   "wonen-bouwtempo"
+  ],
+  "gewoon-hilversum": [
+   "wonen-bouwtempo"
+  ],
+  "volt": [
+   "wonen-bouwtempo"
+  ],
+  "cda": [
+   "verkeer-bezoek"
+  ],
+  "vvd": [
+   "natuur-recreant-betaalt",
+   "asiel-kader-dorpen",
+   "cultuur-projectsubsidie-eindig"
+  ]
+ },
+ "tabelZ": {
+  "0": [
+   0.17,
+   0.47,
+   1,
+   0.47,
+   0.17
+  ],
+  "1": [
+   0,
+   0.06,
+   0.24,
+   1,
+   0.66
+  ],
+  "2": [
+   0.05,
+   0,
+   0,
+   0.68,
+   1
+  ],
+  "-2": [
+   1,
+   0.68,
+   0,
+   0,
+   0.05
+  ],
+  "-1": [
+   0.66,
+   1,
+   0.24,
+   0.06,
+   0
+  ],
+  "null": [
+   0.53,
+   0.34,
+   0,
+   0.34,
+   0.53
+  ]
+ },
+ "sims": {
+  "willekeurig": {
+   "hart-voor-hilversum": {
+    "top": 0.0296,
+    "onder": 0.029375,
+    "rang": 10.49504999999984,
+    "herkend": null
+   },
+   "pro": {
+    "top": 0.0736,
+    "onder": 0.076875,
+    "rang": 10.576099999999117,
+    "herkend": null
+   },
+   "d66": {
+    "top": 0.0518,
+    "onder": 0.0504,
+    "rang": 10.504549999999265,
+    "herkend": null
+   },
+   "vvd": {
+    "top": 0.07065,
+    "onder": 0.070325,
+    "rang": 10.502499999999369,
+    "herkend": null
+   },
+   "cda": {
+    "top": 0.0588,
+    "onder": 0.05725,
+    "rang": 10.488649999999518,
+    "herkend": null
+   },
+   "lokaal-een": {
+    "top": 0.0507,
+    "onder": 0.0488,
+    "rang": 10.495899999999573,
+    "herkend": null
+   },
+   "sp": {
+    "top": 0.06435,
+    "onder": 0.06405,
+    "rang": 10.508849999999422,
+    "herkend": null
+   },
+   "christenunie": {
+    "top": 0.0524,
+    "onder": 0.052675,
+    "rang": 10.580749999999336,
+    "herkend": null
+   },
+   "bvnl": {
+    "top": 0.05275,
+    "onder": 0.0529,
+    "rang": 10.470549999999344,
+    "herkend": null
+   },
+   "scb": {
+    "top": 0.0299,
+    "onder": 0.03315,
+    "rang": 10.44254999999973,
+    "herkend": null
+   },
+   "gewoon-hilversum": {
+    "top": 0.0391,
+    "onder": 0.036675,
+    "rang": 10.454899999999636,
+    "herkend": null
+   },
+   "dorp-voor-dorp": {
+    "top": 0.0424,
+    "onder": 0.04125,
+    "rang": 10.466899999999496,
+    "herkend": null
+   },
+   "stop-betaald-parkeren-vip": {
+    "top": 0.02955,
+    "onder": 0.0312,
+    "rang": 10.438199999999693,
+    "herkend": null
+   },
+   "opstand-nu": {
+    "top": 0.04565,
+    "onder": 0.04735,
+    "rang": 10.54304999999944,
+    "herkend": null
+   },
+   "pvdd": {
+    "top": 0.0614,
+    "onder": 0.0641,
+    "rang": 10.597399999999118,
+    "herkend": null
+   },
+   "blanco-van-oostveen": {
+    "top": 0.0313,
+    "onder": 0.030025,
+    "rang": 10.458549999999827,
+    "herkend": null
+   },
+   "lfd": {
+    "top": 0.0644,
+    "onder": 0.06535,
+    "rang": 10.483849999999313,
+    "herkend": null
+   },
+   "volt": {
+    "top": 0.04135,
+    "onder": 0.0389,
+    "rang": 10.464399999999442,
+    "herkend": null
+   },
+   "fvd": {
+    "top": 0.07785,
+    "onder": 0.0761,
+    "rang": 10.51014999999924,
+    "herkend": null
+   },
+   "bbb": {
+    "top": 0.03245,
+    "onder": 0.03325,
+    "rang": 10.517149999999637,
+    "herkend": null
+   }
+  },
+  "meng-gewoon": {
+   "hart-voor-hilversum": {
+    "top": 0.04005,
+    "onder": 0.0001,
+    "rang": 7.290700000000072,
+    "herkend": 0.7523029682702149
+   },
+   "pro": {
+    "top": 0.0692,
+    "onder": 0.17385,
+    "rang": 11.664099999997896,
+    "herkend": 0.992964824120603
+   },
+   "d66": {
+    "top": 0.05265,
+    "onder": 0.0445,
+    "rang": 11.436899999998673,
+    "herkend": 0.9032258064516129
+   },
+   "vvd": {
+    "top": 0.0601,
+    "onder": 0.0433,
+    "rang": 10.90224999999933,
+    "herkend": 0.9835051546391752
+   },
+   "cda": {
+    "top": 0.05585,
+    "onder": 0.0028,
+    "rang": 9.146899999999976,
+    "herkend": 0.9426816786079836
+   },
+   "lokaal-een": {
+    "top": 0.0553,
+    "onder": 0.00085,
+    "rang": 8.045450000000294,
+    "herkend": 0.9145129224652088
+   },
+   "sp": {
+    "top": 0.05515,
+    "onder": 0.02305,
+    "rang": 10.905099999999706,
+    "herkend": 0.9510204081632653
+   },
+   "christenunie": {
+    "top": 0.05045,
+    "onder": 0.03815,
+    "rang": 11.49609999999896,
+    "herkend": 0.895609756097561
+   },
+   "bvnl": {
+    "top": 0.0555,
+    "onder": 0.021175,
+    "rang": 10.499199999998623,
+    "herkend": 0.9457523029682702
+   },
+   "scb": {
+    "top": 0.0267,
+    "onder": 0.0077,
+    "rang": 10.94725000000106,
+    "herkend": 0.513671875
+   },
+   "gewoon-hilversum": {
+    "top": 0.0502,
+    "onder": 0.00095,
+    "rang": 7.654050000000038,
+    "herkend": 0.8603015075376884
+   },
+   "dorp-voor-dorp": {
+    "top": 0.0478,
+    "onder": 0.0192,
+    "rang": 11.114899999998906,
+    "herkend": 0.8467432950191571
+   },
+   "stop-betaald-parkeren-vip": {
+    "top": 0.0295,
+    "onder": 0.007,
+    "rang": 10.960750000000223,
+    "herkend": 0.5665024630541872
+   },
+   "opstand-nu": {
+    "top": 0.04855,
+    "onder": 0.02325,
+    "rang": 11.196249999999248,
+    "herkend": 0.8603736479842674
+   },
+   "pvdd": {
+    "top": 0.05715,
+    "onder": 0.1814,
+    "rang": 11.921049999997754,
+    "herkend": 0.9590336134453782
+   },
+   "blanco-van-oostveen": {
+    "top": 0.03575,
+    "onder": 0.006,
+    "rang": 10.049900000000447,
+    "herkend": 0.6771964461994077
+   },
+   "lfd": {
+    "top": 0.0582,
+    "onder": 0.0355,
+    "rang": 11.691649999998932,
+    "herkend": 0.9454022988505747
+   },
+   "volt": {
+    "top": 0.04325,
+    "onder": 0.0148,
+    "rang": 10.892349999999302,
+    "herkend": 0.7919132149901381
+   },
+   "fvd": {
+    "top": 0.0612,
+    "onder": 0.355475,
+    "rang": 13.681999999998148,
+    "herkend": 0.9675834970530451
+   },
+   "bbb": {
+    "top": 0.04745,
+    "onder": 0.00095,
+    "rang": 8.503149999999799,
+    "herkend": 0.8758029978586723
+   }
+  },
+  "meng-sterk": {
+   "hart-voor-hilversum": {
+    "top": 0.0364,
+    "onder": 0.0005,
+    "rang": 7.975899999999991,
+    "herkend": 0.6944444444444444
+   },
+   "pro": {
+    "top": 0.0706,
+    "onder": 0.225575,
+    "rang": 11.993699999997832,
+    "herkend": 0.9941916747337851
+   },
+   "d66": {
+    "top": 0.04935,
+    "onder": 0.04725,
+    "rang": 11.645949999998388,
+    "herkend": 0.8737769080234834
+   },
+   "vvd": {
+    "top": 0.0584,
+    "onder": 0.080475,
+    "rang": 11.80169999999921,
+    "herkend": 0.967098703888335
+   },
+   "cda": {
+    "top": 0.0494,
+    "onder": 0.01685,
+    "rang": 11.65760000000035,
+    "herkend": 0.8644724104549855
+   },
+   "lokaal-een": {
+    "top": 0.04065,
+    "onder": 0.01695,
+    "rang": 11.625500000000494,
+    "herkend": 0.7583497053045186
+   },
+   "sp": {
+    "top": 0.0552,
+    "onder": 0.026525,
+    "rang": 10.816949999999592,
+    "herkend": 0.9333996023856859
+   },
+   "christenunie": {
+    "top": 0.04865,
+    "onder": 0.038075,
+    "rang": 11.509449999998788,
+    "herkend": 0.8826530612244898
+   },
+   "bvnl": {
+    "top": 0.058375,
+    "onder": 0.0199,
+    "rang": 10.107949999998771,
+    "herkend": 0.9500978473581213
+   },
+   "scb": {
+    "top": 0.03005,
+    "onder": 0.006,
+    "rang": 10.181300000000748,
+    "herkend": 0.57405614714424
+   },
+   "gewoon-hilversum": {
+    "top": 0.04095,
+    "onder": 0.00365,
+    "rang": 9.174049999999959,
+    "herkend": 0.7788359788359789
+   },
+   "dorp-voor-dorp": {
+    "top": 0.048575,
+    "onder": 0.0059,
+    "rang": 8.958999999999651,
+    "herkend": 0.9098998887652948
+   },
+   "stop-betaald-parkeren-vip": {
+    "top": 0.0272,
+    "onder": 0.0081,
+    "rang": 10.53530000000011,
+    "herkend": 0.5286561264822134
+   },
+   "opstand-nu": {
+    "top": 0.0514,
+    "onder": 0.020825,
+    "rang": 10.851649999999237,
+    "herkend": 0.882186616399623
+   },
+   "pvdd": {
+    "top": 0.065,
+    "onder": 0.125425,
+    "rang": 11.219249999997837,
+    "herkend": 0.9838872104733132
+   },
+   "blanco-van-oostveen": {
+    "top": 0.04175,
+    "onder": 0.00165,
+    "rang": 8.307400000000003,
+    "herkend": 0.7678048780487805
+   },
+   "lfd": {
+    "top": 0.0536,
+    "onder": 0.0453,
+    "rang": 11.820149999998906,
+    "herkend": 0.9359104781281791
+   },
+   "volt": {
+    "top": 0.0442,
+    "onder": 0.0065,
+    "rang": 9.717899999999906,
+    "herkend": 0.8497297297297297
+   },
+   "fvd": {
+    "top": 0.06555,
+    "onder": 0.30405,
+    "rang": 12.930699999998144,
+    "herkend": 0.9857685009487666
+   },
+   "bbb": {
+    "top": 0.0647,
+    "onder": 0.0005,
+    "rang": 7.1685999999998264,
+    "herkend": 0.9337410805300713
+   }
+  },
+  "meng-mild": {
+   "hart-voor-hilversum": {
+    "top": 0.0413,
+    "onder": 0.0001,
+    "rang": 7.183900000000153,
+    "herkend": 0.7407407407407407
+   },
+   "pro": {
+    "top": 0.070875,
+    "onder": 0.1303,
+    "rang": 11.33344999999822,
+    "herkend": 0.9724284199363733
+   },
+   "d66": {
+    "top": 0.0483,
+    "onder": 0.02495,
+    "rang": 10.660149999999337,
+    "herkend": 0.8568627450980392
+   },
+   "vvd": {
+    "top": 0.0644,
+    "onder": 0.01465,
+    "rang": 9.269799999999831,
+    "herkend": 0.9716981132075472
+   },
+   "cda": {
+    "top": 0.0662,
+    "onder": 0.00035,
+    "rang": 6.836249999999978,
+    "herkend": 0.9686552072800809
+   },
+   "lokaal-een": {
+    "top": 0.08335,
+    "onder": 0.0001,
+    "rang": 5.398700000000314,
+    "herkend": 0.978744939271255
+   },
+   "sp": {
+    "top": 0.0592,
+    "onder": 0.0183,
+    "rang": 10.91984999999984,
+    "herkend": 0.9402277039848197
+   },
+   "christenunie": {
+    "top": 0.050625,
+    "onder": 0.01865,
+    "rang": 10.848049999999517,
+    "herkend": 0.879980563654033
+   },
+   "bvnl": {
+    "top": 0.05375,
+    "onder": 0.018,
+    "rang": 10.907849999998902,
+    "herkend": 0.9144602851323829
+   },
+   "scb": {
+    "top": 0.0244,
+    "onder": 0.0077,
+    "rang": 11.073650000001091,
+    "herkend": 0.4844533600802407
+   },
+   "gewoon-hilversum": {
+    "top": 0.0594,
+    "onder": 0.0002,
+    "rang": 7.021900000000126,
+    "herkend": 0.8790650406504065
+   },
+   "dorp-voor-dorp": {
+    "top": 0.0347,
+    "onder": 0.03565,
+    "rang": 13.109349999998404,
+    "herkend": 0.6408518877057116
+   },
+   "stop-betaald-parkeren-vip": {
+    "top": 0.0306,
+    "onder": 0.0062,
+    "rang": 11.071449999999999,
+    "herkend": 0.5476190476190477
+   },
+   "opstand-nu": {
+    "top": 0.0427,
+    "onder": 0.02895,
+    "rang": 11.539649999999329,
+    "herkend": 0.8171247357293869
+   },
+   "pvdd": {
+    "top": 0.0533,
+    "onder": 0.21825,
+    "rang": 12.538099999997867,
+    "herkend": 0.897
+   },
+   "blanco-van-oostveen": {
+    "top": 0.02815,
+    "onder": 0.0131,
+    "rang": 11.477800000000842,
+    "herkend": 0.5298651252408478
+   },
+   "lfd": {
+    "top": 0.05995,
+    "onder": 0.03505,
+    "rang": 11.901349999998914,
+    "herkend": 0.9382239382239382
+   },
+   "volt": {
+    "top": 0.0362,
+    "onder": 0.026,
+    "rang": 11.736749999998795,
+    "herkend": 0.6706349206349206
+   },
+   "fvd": {
+    "top": 0.0555,
+    "onder": 0.39995,
+    "rang": 14.77329999999819,
+    "herkend": 0.9219367588932806
+   },
+   "bbb": {
+    "top": 0.0371,
+    "onder": 0.00355,
+    "rang": 10.398699999999394,
+    "herkend": 0.6693548387096774
+   }
+  },
+  "volger": {
+   "hart-voor-hilversum": {
+    "top": 0.05625,
+    "onder": 0,
+    "rang": 7.422250000000121,
+    "herkend": 1
+   },
+   "pro": {
+    "top": 0.049,
+    "onder": 0.16475,
+    "rang": 11.95675000000014,
+    "herkend": 1
+   },
+   "d66": {
+    "top": 0.0465,
+    "onder": 0.06125,
+    "rang": 11.772500000000106,
+    "herkend": 1
+   },
+   "vvd": {
+    "top": 0.05375,
+    "onder": 0.03525,
+    "rang": 10.22775000000009,
+    "herkend": 1
+   },
+   "cda": {
+    "top": 0.05175,
+    "onder": 0.001,
+    "rang": 8.852750000000137,
+    "herkend": 1
+   },
+   "lokaal-een": {
+    "top": 0.05025,
+    "onder": 0.00075,
+    "rang": 8.30650000000011,
+    "herkend": 1
+   },
+   "sp": {
+    "top": 0.05,
+    "onder": 0.01175,
+    "rang": 10.60200000000012,
+    "herkend": 1
+   },
+   "christenunie": {
+    "top": 0.0545,
+    "onder": 0.037,
+    "rang": 11.436000000000046,
+    "herkend": 1
+   },
+   "bvnl": {
+    "top": 0.05525,
+    "onder": 0.018,
+    "rang": 10.039250000000063,
+    "herkend": 1
+   },
+   "scb": {
+    "top": 0.04275,
+    "onder": 0.01825,
+    "rang": 11.424750000000156,
+    "herkend": 0.9941860465116279
+   },
+   "gewoon-hilversum": {
+    "top": 0.05225,
+    "onder": 0.00025,
+    "rang": 7.430000000000066,
+    "herkend": 1
+   },
+   "dorp-voor-dorp": {
+    "top": 0.0445,
+    "onder": 0.0255,
+    "rang": 11.124250000000028,
+    "herkend": 1
+   },
+   "stop-betaald-parkeren-vip": {
+    "top": 0.05275,
+    "onder": 0.0075,
+    "rang": 11.35875000000013,
+    "herkend": 0.9906103286384976
+   },
+   "opstand-nu": {
+    "top": 0.04325,
+    "onder": 0.01675,
+    "rang": 11.370000000000088,
+    "herkend": 1
+   },
+   "pvdd": {
+    "top": 0.05125,
+    "onder": 0.2185,
+    "rang": 12.376500000000153,
+    "herkend": 1
+   },
+   "blanco-van-oostveen": {
+    "top": 0.04725,
+    "onder": 0.018,
+    "rang": 10.379750000000154,
+    "herkend": 0.9947368421052631
+   },
+   "lfd": {
+    "top": 0.04825,
+    "onder": 0.03025,
+    "rang": 11.383500000000096,
+    "herkend": 1
+   },
+   "volt": {
+    "top": 0.04875,
+    "onder": 0.023,
+    "rang": 11.328750000000081,
+    "herkend": 1
+   },
+   "fvd": {
+    "top": 0.047,
+    "onder": 0.312,
+    "rang": 13.036750000000279,
+    "herkend": 1
+   },
+   "bbb": {
+    "top": 0.05475,
+    "onder": 0.00025,
+    "rang": 8.17124999999999,
+    "herkend": 1
+   }
+  }
+ },
+ "maten": {
+  "z": {
+   "hart-voor-hilversum": 0.04010000000000012,
+   "pro": 0.06820000000000093,
+   "d66": 0.04810000000000035,
+   "vvd": 0.06450000000000082,
+   "cda": 0.05570000000000057,
+   "lokaal-een": 0.05500000000000055,
+   "sp": 0.05400000000000052,
+   "christenunie": 0.04600000000000029,
+   "bvnl": 0.057700000000000626,
+   "scb": 0.027699999999999888,
+   "gewoon-hilversum": 0.04950000000000039,
+   "dorp-voor-dorp": 0.044100000000000236,
+   "stop-betaald-parkeren-vip": 0.026899999999999893,
+   "opstand-nu": 0.0497000000000004,
+   "pvdd": 0.057300000000000614,
+   "blanco-van-oostveen": 0.03720000000000004,
+   "lfd": 0.060800000000000715,
+   "volt": 0.04380000000000023,
+   "fvd": 0.06340000000000079,
+   "bbb": 0.050300000000000414
+  },
+  "afstand": {
+   "hart-voor-hilversum": 0.03836666666666676,
+   "pro": 0.0758750000000011,
+   "d66": 0.04810000000000036,
+   "vvd": 0.07060000000000098,
+   "cda": 0.06361666666666747,
+   "lokaal-een": 0.07287500000000104,
+   "sp": 0.055833333333333915,
+   "christenunie": 0.043450000000000225,
+   "bvnl": 0.05935000000000069,
+   "scb": 0.019024999999999945,
+   "gewoon-hilversum": 0.05683333333333395,
+   "dorp-voor-dorp": 0.038133333333333415,
+   "stop-betaald-parkeren-vip": 0.020549999999999933,
+   "opstand-nu": 0.047733333333333676,
+   "pvdd": 0.05541666666666723,
+   "blanco-van-oostveen": 0.028033333333333233,
+   "lfd": 0.06290000000000077,
+   "volt": 0.037258333333333386,
+   "fvd": 0.06210000000000075,
+   "bbb": 0.04395000000000023
+  },
+  "bekendAlleen": {
+   "hart-voor-hilversum": 0.050000000000000405,
+   "pro": 0.051350000000000444,
+   "d66": 0.04940000000000039,
+   "vvd": 0.05430000000000053,
+   "cda": 0.05150000000000045,
+   "lokaal-een": 0.05405000000000052,
+   "sp": 0.04890000000000037,
+   "christenunie": 0.04505000000000026,
+   "bvnl": 0.05010000000000041,
+   "scb": 0.046900000000000316,
+   "gewoon-hilversum": 0.049250000000000384,
+   "dorp-voor-dorp": 0.047200000000000325,
+   "stop-betaald-parkeren-vip": 0.045100000000000265,
+   "opstand-nu": 0.05080000000000043,
+   "pvdd": 0.04840000000000036,
+   "blanco-van-oostveen": 0.05120000000000044,
+   "lfd": 0.05480000000000054,
+   "volt": 0.05020000000000041,
+   "fvd": 0.05410000000000052,
+   "bbb": 0.04740000000000033
+  }
+ },
+ "masker": {
+  "hart-voor-hilversum": {
+   "anderVoor": 0.04041666666666666,
+   "anderNa": 0.009583333333333333,
+   "herkendVoor": 0.745,
+   "herkendNa": 0.24625,
+   "bAnderVoor": 0.05,
+   "bAnderNa": 0.05451388888888889,
+   "bHerkendVoor": 0.8925,
+   "bHerkendNa": 0.88125
+  },
+  "pro": {
+   "anderVoor": 0.06833333333333333,
+   "anderNa": 0.04680555555555556,
+   "herkendVoor": 0.99625,
+   "herkendNa": 0.84,
+   "bAnderVoor": 0.05291666666666667,
+   "bAnderNa": 0.05277777777777778,
+   "bHerkendVoor": 0.96,
+   "bHerkendNa": 0.96
+  },
+  "d66": {
+   "anderVoor": 0.04888888888888889,
+   "anderNa": 0.02375,
+   "herkendVoor": 0.90125,
+   "herkendNa": 0.46875,
+   "bAnderVoor": 0.049305555555555554,
+   "bAnderNa": 0.04888888888888889,
+   "bHerkendVoor": 0.92625,
+   "bHerkendNa": 0.92375
+  },
+  "vvd": {
+   "anderVoor": 0.060833333333333336,
+   "anderNa": 0.044444444444444446,
+   "herkendVoor": 0.96625,
+   "herkendNa": 0.8125,
+   "bAnderVoor": 0.05243055555555556,
+   "bAnderNa": 0.051666666666666666,
+   "bHerkendVoor": 0.94625,
+   "bHerkendNa": 0.936875
+  },
+  "cda": {
+   "anderVoor": 0.059305555555555556,
+   "anderNa": 0.04055555555555555,
+   "herkendVoor": 0.9525,
+   "herkendNa": 0.6925,
+   "bAnderVoor": 0.05361111111111111,
+   "bAnderNa": 0.05527777777777778,
+   "bHerkendVoor": 0.944375,
+   "bHerkendNa": 0.924375
+  },
+  "lokaal-een": {
+   "anderVoor": 0.05388888888888889,
+   "anderNa": 0.03236111111111111,
+   "herkendVoor": 0.9175,
+   "herkendNa": 0.64,
+   "bAnderVoor": 0.051458333333333335,
+   "bAnderNa": 0.052708333333333336,
+   "bHerkendVoor": 0.93,
+   "bHerkendNa": 0.92875
+  },
+  "sp": {
+   "anderVoor": 0.059583333333333335,
+   "anderNa": 0.04111111111111111,
+   "herkendVoor": 0.945,
+   "herkendNa": 0.75375,
+   "bAnderVoor": 0.055,
+   "bAnderNa": 0.05527777777777778,
+   "bHerkendVoor": 0.93,
+   "bHerkendNa": 0.93125
+  },
+  "christenunie": {
+   "anderVoor": 0.05319444444444445,
+   "anderNa": 0.02847222222222222,
+   "herkendVoor": 0.91375,
+   "herkendNa": 0.52375,
+   "bAnderVoor": 0.051666666666666666,
+   "bAnderNa": 0.05326388888888889,
+   "bHerkendVoor": 0.93625,
+   "bHerkendNa": 0.935625
+  },
+  "bvnl": {
+   "anderVoor": 0.05472222222222222,
+   "anderNa": 0.0325,
+   "herkendVoor": 0.9625,
+   "herkendNa": 0.65875,
+   "bAnderVoor": 0.04861111111111111,
+   "bAnderNa": 0.049166666666666664,
+   "bHerkendVoor": 0.93625,
+   "bHerkendNa": 0.9225
+  },
+  "scb": {
+   "anderVoor": 0.025416666666666667,
+   "anderNa": 0.0075,
+   "herkendVoor": 0.505,
+   "herkendNa": 0.16,
+   "bAnderVoor": 0.04712962962962963,
+   "bAnderNa": 0.050486111111111114,
+   "bHerkendVoor": 0.85,
+   "bHerkendNa": 0.84625
+  },
+  "gewoon-hilversum": {
+   "anderVoor": 0.04847222222222222,
+   "anderNa": 0.02,
+   "herkendVoor": 0.86125,
+   "herkendNa": 0.43,
+   "bAnderVoor": 0.04819444444444444,
+   "bAnderNa": 0.050069444444444444,
+   "bHerkendVoor": 0.896875,
+   "bHerkendNa": 0.893125
+  },
+  "dorp-voor-dorp": {
+   "anderVoor": 0.04486111111111111,
+   "anderNa": 0.023055555555555555,
+   "herkendVoor": 0.81625,
+   "herkendNa": 0.40625,
+   "bAnderVoor": 0.04756944444444444,
+   "bAnderNa": 0.047824074074074074,
+   "bHerkendVoor": 0.89,
+   "bHerkendNa": 0.875625
+  },
+  "stop-betaald-parkeren-vip": {
+   "anderVoor": 0.028888888888888888,
+   "anderNa": 0.007638888888888889,
+   "herkendVoor": 0.56,
+   "herkendNa": 0.1575,
+   "bAnderVoor": 0.04902777777777778,
+   "bAnderNa": 0.050555555555555555,
+   "bHerkendVoor": 0.869375,
+   "bHerkendNa": 0.848125
+  },
+  "opstand-nu": {
+   "anderVoor": 0.04986111111111111,
+   "anderNa": 0.02875,
+   "herkendVoor": 0.865,
+   "herkendNa": 0.52875,
+   "bAnderVoor": 0.05201388888888889,
+   "bAnderNa": 0.05243055555555556,
+   "bHerkendVoor": 0.92375,
+   "bHerkendNa": 0.92
+  },
+  "pvdd": {
+   "anderVoor": 0.057916666666666665,
+   "anderNa": 0.03298611111111111,
+   "herkendVoor": 0.955,
+   "herkendNa": 0.6625,
+   "bAnderVoor": 0.04923611111111111,
+   "bAnderNa": 0.050486111111111114,
+   "bHerkendVoor": 0.935,
+   "bHerkendNa": 0.925
+  },
+  "blanco-van-oostveen": {
+   "anderVoor": 0.037083333333333336,
+   "anderNa": 0.014861111111111111,
+   "herkendVoor": 0.665,
+   "herkendNa": 0.26875,
+   "bAnderVoor": 0.049444444444444444,
+   "bAnderNa": 0.052708333333333336,
+   "bHerkendVoor": 0.8825,
+   "bHerkendNa": 0.8725
+  },
+  "lfd": {
+   "anderVoor": 0.06319444444444444,
+   "anderNa": 0.043611111111111114,
+   "herkendVoor": 0.9375,
+   "herkendNa": 0.7425,
+   "bAnderVoor": 0.057777777777777775,
+   "bAnderNa": 0.057152777777777775,
+   "bHerkendVoor": 0.93625,
+   "bHerkendNa": 0.939375
+  },
+  "volt": {
+   "anderVoor": 0.043194444444444445,
+   "anderNa": 0.01861111111111111,
+   "herkendVoor": 0.82375,
+   "herkendNa": 0.3675,
+   "bAnderVoor": 0.04805555555555555,
+   "bAnderNa": 0.04923611111111111,
+   "bHerkendVoor": 0.92875,
+   "bHerkendNa": 0.918125
+  },
+  "fvd": {
+   "anderVoor": 0.06111111111111111,
+   "anderNa": 0.03986111111111111,
+   "herkendVoor": 0.97875,
+   "herkendNa": 0.81625,
+   "bAnderVoor": 0.04990740740740741,
+   "bAnderNa": 0.049444444444444444,
+   "bHerkendVoor": 0.94875,
+   "bHerkendNa": 0.9341666666666667
+  },
+  "bbb": {
+   "anderVoor": 0.052083333333333336,
+   "anderNa": 0.021666666666666667,
+   "herkendVoor": 0.8725,
+   "herkendNa": 0.4075,
+   "bAnderVoor": 0.04895833333333333,
+   "bAnderNa": 0.051111111111111114,
+   "bHerkendVoor": 0.86375,
+   "bHerkendNa": 0.85125
+  }
+ },
+ "deel": {
+  "n": 19964,
+  "leeg": 36,
+  "gelijkTop": 393,
+  "bijnaGelijk": 1883,
+  "uitslagen": 39928,
+  "mediaanSet": 15,
+  "per": {
+   "hart-voor-hilversum": {
+    "mee": 5154,
+    "verwacht": 997.0749999999811,
+    "winst": 926.0833333333334,
+    "winstMeng": 896.7833333333335,
+    "gelijkEerst": 19,
+    "gelijkMee": 67,
+    "nulInSet": 30898,
+    "setN": 121392,
+    "nulInBank": 66783,
+    "bankN": 188597
+   },
+   "pro": {
+    "mee": 5132,
+    "verwacht": 993.4916666666494,
+    "winst": 1100,
+    "winstMeng": 1124.95,
+    "gelijkEerst": 10,
+    "gelijkMee": 23,
+    "nulInSet": 12422,
+    "setN": 126270,
+    "nulInBank": 22841,
+    "bankN": 186060
+   },
+   "d66": {
+    "mee": 5073,
+    "verwacht": 963.9999999999823,
+    "winst": 1014,
+    "winstMeng": 948.2,
+    "gelijkEerst": 20,
+    "gelijkMee": 27,
+    "nulInSet": 24337,
+    "setN": 124748,
+    "nulInBank": 50090,
+    "bankN": 187405
+   },
+   "vvd": {
+    "mee": 5168,
+    "verwacht": 998.5083333333137,
+    "winst": 1057.8333333333333,
+    "winstMeng": 1107.592857142857,
+    "gelijkEerst": 2,
+    "gelijkMee": 33,
+    "nulInSet": 14911,
+    "setN": 128157,
+    "nulInBank": 33635,
+    "bankN": 188957
+   },
+   "cda": {
+    "mee": 5196,
+    "verwacht": 1016.6999999999839,
+    "winst": 1036,
+    "winstMeng": 1022.4261904761905,
+    "gelijkEerst": 17,
+    "gelijkMee": 28,
+    "nulInSet": 16893,
+    "setN": 127482,
+    "nulInBank": 40676,
+    "bankN": 192315
+   },
+   "lokaal-een": {
+    "mee": 5199,
+    "verwacht": 1006.0249999999817,
+    "winst": 976,
+    "winstMeng": 1004.1428571428572,
+    "gelijkEerst": 7,
+    "gelijkMee": 18,
+    "nulInSet": 19741,
+    "setN": 128654,
+    "nulInBank": 42481,
+    "bankN": 191849
+   },
+   "sp": {
+    "mee": 5194,
+    "verwacht": 993.0249999999801,
+    "winst": 1034.8333333333335,
+    "winstMeng": 1079.4166666666667,
+    "gelijkEerst": 5,
+    "gelijkMee": 30,
+    "nulInSet": 22572,
+    "setN": 129844,
+    "nulInBank": 47119,
+    "bankN": 192544
+   },
+   "christenunie": {
+    "mee": 5235,
+    "verwacht": 1008.8249999999804,
+    "winst": 1060.3333333333333,
+    "winstMeng": 1004.6666666666666,
+    "gelijkEerst": 25,
+    "gelijkMee": 37,
+    "nulInSet": 28015,
+    "setN": 130473,
+    "nulInBank": 57006,
+    "bankN": 197134
+   },
+   "bvnl": {
+    "mee": 5174,
+    "verwacht": 1003.808333333316,
+    "winst": 1033.1666666666665,
+    "winstMeng": 1180.0595238095236,
+    "gelijkEerst": 41,
+    "gelijkMee": 51,
+    "nulInSet": 18506,
+    "setN": 125078,
+    "nulInBank": 48227,
+    "bankN": 189600
+   },
+   "scb": {
+    "mee": 5129,
+    "verwacht": 983.6166666666483,
+    "winst": 893.8333333333333,
+    "winstMeng": 733.4261904761905,
+    "gelijkEerst": 7,
+    "gelijkMee": 49,
+    "nulInSet": 37653,
+    "setN": 120861,
+    "nulInBank": 85190,
+    "bankN": 186778
+   },
+   "gewoon-hilversum": {
+    "mee": 5195,
+    "verwacht": 1005.2333333333147,
+    "winst": 985,
+    "winstMeng": 1014.9000000000002,
+    "gelijkEerst": 24,
+    "gelijkMee": 38,
+    "nulInSet": 22723,
+    "setN": 125218,
+    "nulInBank": 55538,
+    "bankN": 192025
+   },
+   "dorp-voor-dorp": {
+    "mee": 5194,
+    "verwacht": 1004.4749999999807,
+    "winst": 972.2500000000001,
+    "winstMeng": 932.7500000000002,
+    "gelijkEerst": 36,
+    "gelijkMee": 65,
+    "nulInSet": 32126,
+    "setN": 124844,
+    "nulInBank": 72440,
+    "bankN": 190627
+   },
+   "stop-betaald-parkeren-vip": {
+    "mee": 5260,
+    "verwacht": 1015.533333333316,
+    "winst": 894.5,
+    "winstMeng": 828.5595238095239,
+    "gelijkEerst": 6,
+    "gelijkMee": 48,
+    "nulInSet": 37826,
+    "setN": 124552,
+    "nulInBank": 86244,
+    "bankN": 193937
+   },
+   "opstand-nu": {
+    "mee": 5124,
+    "verwacht": 979.1083333333158,
+    "winst": 963,
+    "winstMeng": 928.4,
+    "gelijkEerst": 17,
+    "gelijkMee": 48,
+    "nulInSet": 26281,
+    "setN": 122778,
+    "nulInBank": 60536,
+    "bankN": 187500
+   },
+   "pvdd": {
+    "mee": 5145,
+    "verwacht": 986.0749999999822,
+    "winst": 1098.8333333333335,
+    "winstMeng": 1113.7,
+    "gelijkEerst": 13,
+    "gelijkMee": 38,
+    "nulInSet": 19650,
+    "setN": 127111,
+    "nulInBank": 43905,
+    "bankN": 189117
+   },
+   "blanco-van-oostveen": {
+    "mee": 5232,
+    "verwacht": 1013.5249999999825,
+    "winst": 938,
+    "winstMeng": 873.3666666666668,
+    "gelijkEerst": 45,
+    "gelijkMee": 51,
+    "nulInSet": 35719,
+    "setN": 122981,
+    "nulInBank": 83141,
+    "bankN": 192007
+   },
+   "lfd": {
+    "mee": 5181,
+    "verwacht": 1012.0999999999808,
+    "winst": 1073.5,
+    "winstMeng": 1093.9261904761902,
+    "gelijkEerst": 17,
+    "gelijkMee": 45,
+    "nulInSet": 20821,
+    "setN": 127977,
+    "nulInBank": 46600,
+    "bankN": 191018
+   },
+   "volt": {
+    "mee": 5080,
+    "verwacht": 966.5916666666504,
+    "winst": 956.5,
+    "winstMeng": 904.8666666666667,
+    "gelijkEerst": 5,
+    "gelijkMee": 48,
+    "nulInSet": 32255,
+    "setN": 122360,
+    "nulInBank": 66688,
+    "bankN": 187165
+   },
+   "fvd": {
+    "mee": 5276,
+    "verwacht": 1034.0083333333152,
+    "winst": 1094.5833333333335,
+    "winstMeng": 1157.1666666666665,
+    "gelijkEerst": 19,
+    "gelijkMee": 54,
+    "nulInSet": 20907,
+    "setN": 128465,
+    "nulInBank": 45215,
+    "bankN": 193666
+   },
+   "bbb": {
+    "mee": 5114,
+    "verwacht": 982.2749999999811,
+    "winst": 855.7500000000001,
+    "winstMeng": 1014.7000000000003,
+    "gelijkEerst": 58,
+    "gelijkMee": 65,
+    "nulInSet": 27669,
+    "setN": 122343,
+    "nulInBank": 63179,
+    "bankN": 189518
+   }
+  }
+ },
+ "vast": {
+  "0": {
+   "lokaal-een": {
+    "rang": 1,
+    "score": 0.3
+   },
+   "gewoon-hilversum": {
+    "rang": 2,
+    "score": 0.24
+   },
+   "hart-voor-hilversum": {
+    "rang": 3,
+    "score": 0.22
+   },
+   "cda": {
+    "rang": 4,
+    "score": 0.21
+   },
+   "d66": {
+    "rang": 5,
+    "score": 0.19
+   },
+   "vvd": {
+    "rang": 6,
+    "score": 0.18
+   },
+   "stop-betaald-parkeren-vip": {
+    "rang": 7,
+    "score": 0.18
+   },
+   "sp": {
+    "rang": 8,
+    "score": 0.17
+   },
+   "pro": {
+    "rang": 9,
+    "score": 0.16
+   },
+   "christenunie": {
+    "rang": 10,
+    "score": 0.16
+   },
+   "lfd": {
+    "rang": 11,
+    "score": 0.16
+   },
+   "pvdd": {
+    "rang": 12,
+    "score": 0.15
+   },
+   "scb": {
+    "rang": 13,
+    "score": 0.15
+   },
+   "opstand-nu": {
+    "rang": 14,
+    "score": 0.15
+   },
+   "dorp-voor-dorp": {
+    "rang": 15,
+    "score": 0.14
+   },
+   "bbb": {
+    "rang": 16,
+    "score": 0.14
+   },
+   "volt": {
+    "rang": 17,
+    "score": 0.14
+   },
+   "blanco-van-oostveen": {
+    "rang": 18,
+    "score": 0.14
+   },
+   "bvnl": {
+    "rang": 19,
+    "score": 0.13
+   },
+   "fvd": {
+    "rang": 20,
+    "score": 0.11
+   }
+  },
+  "1": {
+   "sp": {
+    "rang": 1,
+    "score": 0.5
+   },
+   "cda": {
+    "rang": 2,
+    "score": 0.48
+   },
+   "gewoon-hilversum": {
+    "rang": 3,
+    "score": 0.47
+   },
+   "christenunie": {
+    "rang": 4,
+    "score": 0.46
+   },
+   "pro": {
+    "rang": 5,
+    "score": 0.46
+   },
+   "lokaal-een": {
+    "rang": 6,
+    "score": 0.43
+   },
+   "vvd": {
+    "rang": 7,
+    "score": 0.43
+   },
+   "lfd": {
+    "rang": 8,
+    "score": 0.43
+   },
+   "volt": {
+    "rang": 9,
+    "score": 0.43
+   },
+   "blanco-van-oostveen": {
+    "rang": 10,
+    "score": 0.43
+   },
+   "hart-voor-hilversum": {
+    "rang": 11,
+    "score": 0.42
+   },
+   "scb": {
+    "rang": 12,
+    "score": 0.42
+   },
+   "fvd": {
+    "rang": 13,
+    "score": 0.42
+   },
+   "d66": {
+    "rang": 14,
+    "score": 0.42
+   },
+   "bvnl": {
+    "rang": 15,
+    "score": 0.42
+   },
+   "opstand-nu": {
+    "rang": 16,
+    "score": 0.41
+   },
+   "pvdd": {
+    "rang": 17,
+    "score": 0.41
+   },
+   "bbb": {
+    "rang": 18,
+    "score": 0.4
+   },
+   "stop-betaald-parkeren-vip": {
+    "rang": 19,
+    "score": 0.4
+   },
+   "dorp-voor-dorp": {
+    "rang": 20,
+    "score": 0.38
+   }
+  },
+  "2": {
+   "sp": {
+    "rang": 1,
+    "score": 0.46
+   },
+   "volt": {
+    "rang": 2,
+    "score": 0.45
+   },
+   "blanco-van-oostveen": {
+    "rang": 3,
+    "score": 0.44
+   },
+   "pro": {
+    "rang": 4,
+    "score": 0.44
+   },
+   "fvd": {
+    "rang": 5,
+    "score": 0.44
+   },
+   "dorp-voor-dorp": {
+    "rang": 6,
+    "score": 0.44
+   },
+   "christenunie": {
+    "rang": 7,
+    "score": 0.43
+   },
+   "gewoon-hilversum": {
+    "rang": 8,
+    "score": 0.43
+   },
+   "cda": {
+    "rang": 9,
+    "score": 0.43
+   },
+   "scb": {
+    "rang": 10,
+    "score": 0.43
+   },
+   "bbb": {
+    "rang": 11,
+    "score": 0.43
+   },
+   "stop-betaald-parkeren-vip": {
+    "rang": 12,
+    "score": 0.42
+   },
+   "lfd": {
+    "rang": 13,
+    "score": 0.42
+   },
+   "bvnl": {
+    "rang": 14,
+    "score": 0.41
+   },
+   "hart-voor-hilversum": {
+    "rang": 15,
+    "score": 0.41
+   },
+   "vvd": {
+    "rang": 16,
+    "score": 0.41
+   },
+   "d66": {
+    "rang": 17,
+    "score": 0.4
+   },
+   "opstand-nu": {
+    "rang": 18,
+    "score": 0.4
+   },
+   "pvdd": {
+    "rang": 19,
+    "score": 0.4
+   },
+   "lokaal-een": {
+    "rang": 20,
+    "score": 0.35
+   }
+  },
+  "-2": {
+   "pvdd": {
+    "rang": 1,
+    "score": 0.47
+   },
+   "dorp-voor-dorp": {
+    "rang": 2,
+    "score": 0.45
+   },
+   "bbb": {
+    "rang": 3,
+    "score": 0.45
+   },
+   "opstand-nu": {
+    "rang": 4,
+    "score": 0.45
+   },
+   "bvnl": {
+    "rang": 5,
+    "score": 0.45
+   },
+   "fvd": {
+    "rang": 6,
+    "score": 0.44
+   },
+   "blanco-van-oostveen": {
+    "rang": 7,
+    "score": 0.44
+   },
+   "scb": {
+    "rang": 8,
+    "score": 0.43
+   },
+   "stop-betaald-parkeren-vip": {
+    "rang": 9,
+    "score": 0.42
+   },
+   "volt": {
+    "rang": 10,
+    "score": 0.42
+   },
+   "d66": {
+    "rang": 11,
+    "score": 0.42
+   },
+   "lfd": {
+    "rang": 12,
+    "score": 0.41
+   },
+   "christenunie": {
+    "rang": 13,
+    "score": 0.41
+   },
+   "hart-voor-hilversum": {
+    "rang": 14,
+    "score": 0.4
+   },
+   "vvd": {
+    "rang": 15,
+    "score": 0.4
+   },
+   "pro": {
+    "rang": 16,
+    "score": 0.39
+   },
+   "lokaal-een": {
+    "rang": 17,
+    "score": 0.38
+   },
+   "sp": {
+    "rang": 18,
+    "score": 0.38
+   },
+   "gewoon-hilversum": {
+    "rang": 19,
+    "score": 0.36
+   },
+   "cda": {
+    "rang": 20,
+    "score": 0.35
+   }
+  },
+  "-1": {
+   "lokaal-een": {
+    "rang": 1,
+    "score": 0.48
+   },
+   "vvd": {
+    "rang": 2,
+    "score": 0.45
+   },
+   "opstand-nu": {
+    "rang": 3,
+    "score": 0.44
+   },
+   "d66": {
+    "rang": 4,
+    "score": 0.44
+   },
+   "lfd": {
+    "rang": 5,
+    "score": 0.44
+   },
+   "bvnl": {
+    "rang": 6,
+    "score": 0.44
+   },
+   "stop-betaald-parkeren-vip": {
+    "rang": 7,
+    "score": 0.43
+   },
+   "cda": {
+    "rang": 8,
+    "score": 0.43
+   },
+   "hart-voor-hilversum": {
+    "rang": 9,
+    "score": 0.43
+   },
+   "pvdd": {
+    "rang": 10,
+    "score": 0.43
+   },
+   "scb": {
+    "rang": 11,
+    "score": 0.42
+   },
+   "pro": {
+    "rang": 12,
+    "score": 0.42
+   },
+   "fvd": {
+    "rang": 13,
+    "score": 0.42
+   },
+   "dorp-voor-dorp": {
+    "rang": 14,
+    "score": 0.42
+   },
+   "bbb": {
+    "rang": 15,
+    "score": 0.41
+   },
+   "gewoon-hilversum": {
+    "rang": 16,
+    "score": 0.4
+   },
+   "volt": {
+    "rang": 17,
+    "score": 0.4
+   },
+   "blanco-van-oostveen": {
+    "rang": 18,
+    "score": 0.4
+   },
+   "christenunie": {
+    "rang": 19,
+    "score": 0.4
+   },
+   "sp": {
+    "rang": 20,
+    "score": 0.36
+   }
+  }
+ },
+ "zelf": {
+  "hart-voor-hilversum": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "gewoon-hilversum",
+   "tweedeScore": 0.7
+  },
+  "pro": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "d66",
+   "tweedeScore": 0.66
+  },
+  "d66": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "pro",
+   "tweedeScore": 0.72
+  },
+  "vvd": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bbb",
+   "tweedeScore": 0.57
+  },
+  "cda": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "lokaal-een",
+   "tweedeScore": 0.59
+  },
+  "lokaal-een": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "cda",
+   "tweedeScore": 0.58
+  },
+  "sp": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "pvdd",
+   "tweedeScore": 0.57
+  },
+  "christenunie": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "pro",
+   "tweedeScore": 0.66
+  },
+  "bvnl": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bbb",
+   "tweedeScore": 0.67
+  },
+  "scb": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "cda",
+   "tweedeScore": 0.58
+  },
+  "gewoon-hilversum": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "hart-voor-hilversum",
+   "tweedeScore": 0.66
+  },
+  "dorp-voor-dorp": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bbb",
+   "tweedeScore": 0.67
+  },
+  "stop-betaald-parkeren-vip": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bbb",
+   "tweedeScore": 0.63
+  },
+  "opstand-nu": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "pvdd",
+   "tweedeScore": 0.65
+  },
+  "pvdd": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "pro",
+   "tweedeScore": 0.67
+  },
+  "blanco-van-oostveen": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bbb",
+   "tweedeScore": 0.63
+  },
+  "lfd": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bvnl",
+   "tweedeScore": 0.62
+  },
+  "volt": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "pvdd",
+   "tweedeScore": 0.69
+  },
+  "fvd": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bvnl",
+   "tweedeScore": 0.63
+  },
+  "bbb": {
+   "rang": 1,
+   "score": 1,
+   "tweede": "bvnl",
+   "tweedeScore": 0.68
+  }
+ },
+ "zelfSterk": {
+  "hart-voor-hilversum": {
+   "rang": 1,
+   "eerste": "hart-voor-hilversum"
+  },
+  "pro": {
+   "rang": 1,
+   "eerste": "pro"
+  },
+  "d66": {
+   "rang": 1,
+   "eerste": "d66"
+  },
+  "vvd": {
+   "rang": 1,
+   "eerste": "vvd"
+  },
+  "cda": {
+   "rang": 1,
+   "eerste": "cda"
+  },
+  "lokaal-een": {
+   "rang": 1,
+   "eerste": "lokaal-een"
+  },
+  "sp": {
+   "rang": 1,
+   "eerste": "sp"
+  },
+  "christenunie": {
+   "rang": 1,
+   "eerste": "christenunie"
+  },
+  "bvnl": {
+   "rang": 1,
+   "eerste": "bvnl"
+  },
+  "scb": {
+   "rang": 1,
+   "eerste": "scb"
+  },
+  "gewoon-hilversum": {
+   "rang": 1,
+   "eerste": "gewoon-hilversum"
+  },
+  "dorp-voor-dorp": {
+   "rang": 1,
+   "eerste": "dorp-voor-dorp"
+  },
+  "stop-betaald-parkeren-vip": {
+   "rang": 1,
+   "eerste": "stop-betaald-parkeren-vip"
+  },
+  "opstand-nu": {
+   "rang": 1,
+   "eerste": "opstand-nu"
+  },
+  "pvdd": {
+   "rang": 1,
+   "eerste": "pvdd"
+  },
+  "blanco-van-oostveen": {
+   "rang": 1,
+   "eerste": "blanco-van-oostveen"
+  },
+  "lfd": {
+   "rang": 1,
+   "eerste": "lfd"
+  },
+  "volt": {
+   "rang": 1,
+   "eerste": "volt"
+  },
+  "fvd": {
+   "rang": 1,
+   "eerste": "fvd"
+  },
+  "bbb": {
+   "rang": 1,
+   "eerste": "bbb"
+  }
+ },
+ "kaart": {
+  "aandeel": 0.68,
+  "per": [
+   {
+    "slug": "hart-voor-hilversum",
+    "r": 0.91,
+    "buurEcht": [
+     "gewoon-hilversum",
+     "bbb",
+     "cda"
+    ],
+    "buurKaart": [
+     "gewoon-hilversum",
+     "cda",
+     "scb"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 48.31578947368421
+   },
+   {
+    "slug": "pro",
+    "r": 0.99,
+    "buurEcht": [
+     "d66",
+     "pvdd",
+     "christenunie"
+    ],
+    "buurKaart": [
+     "christenunie",
+     "d66",
+     "volt"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 57.526315789473685
+   },
+   {
+    "slug": "d66",
+    "r": 0.95,
+    "buurEcht": [
+     "pro",
+     "christenunie",
+     "volt"
+    ],
+    "buurKaart": [
+     "christenunie",
+     "pro",
+     "volt"
+    ],
+    "gedeeld": 3,
+    "nGedeeld": 51.68421052631579
+   },
+   {
+    "slug": "vvd",
+    "r": 0.93,
+    "buurEcht": [
+     "bbb",
+     "gewoon-hilversum",
+     "hart-voor-hilversum"
+    ],
+    "buurKaart": [
+     "cda",
+     "bvnl",
+     "gewoon-hilversum"
+    ],
+    "gedeeld": 1,
+    "nGedeeld": 54.05263157894737
+   },
+   {
+    "slug": "cda",
+    "r": 0.9,
+    "buurEcht": [
+     "lokaal-een",
+     "gewoon-hilversum",
+     "hart-voor-hilversum"
+    ],
+    "buurKaart": [
+     "gewoon-hilversum",
+     "hart-voor-hilversum",
+     "scb"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 54.526315789473685
+   },
+   {
+    "slug": "lokaal-een",
+    "r": 0.8,
+    "buurEcht": [
+     "cda",
+     "gewoon-hilversum",
+     "hart-voor-hilversum"
+    ],
+    "buurKaart": [
+     "scb",
+     "cda",
+     "gewoon-hilversum"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 53.05263157894737
+   },
+   {
+    "slug": "sp",
+    "r": 0.97,
+    "buurEcht": [
+     "opstand-nu",
+     "volt",
+     "pvdd"
+    ],
+    "buurKaart": [
+     "opstand-nu",
+     "volt",
+     "pvdd"
+    ],
+    "gedeeld": 3,
+    "nGedeeld": 51.1578947368421
+   },
+   {
+    "slug": "christenunie",
+    "r": 0.97,
+    "buurEcht": [
+     "d66",
+     "pro",
+     "pvdd"
+    ],
+    "buurKaart": [
+     "d66",
+     "pro",
+     "volt"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 49.89473684210526
+   },
+   {
+    "slug": "bvnl",
+    "r": 0.98,
+    "buurEcht": [
+     "bbb",
+     "lfd",
+     "fvd"
+    ],
+    "buurKaart": [
+     "bbb",
+     "lfd",
+     "dorp-voor-dorp"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 53.10526315789474
+   },
+   {
+    "slug": "scb",
+    "r": 0.82,
+    "buurEcht": [
+     "cda",
+     "hart-voor-hilversum",
+     "lokaal-een"
+    ],
+    "buurKaart": [
+     "lokaal-een",
+     "cda",
+     "gewoon-hilversum"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 44.26315789473684
+   },
+   {
+    "slug": "gewoon-hilversum",
+    "r": 0.92,
+    "buurEcht": [
+     "hart-voor-hilversum",
+     "cda",
+     "bbb"
+    ],
+    "buurKaart": [
+     "hart-voor-hilversum",
+     "cda",
+     "scb"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 51.1578947368421
+   },
+   {
+    "slug": "dorp-voor-dorp",
+    "r": 0.97,
+    "buurEcht": [
+     "bbb",
+     "bvnl",
+     "fvd"
+    ],
+    "buurKaart": [
+     "bbb",
+     "lfd",
+     "bvnl"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 46.78947368421053
+   },
+   {
+    "slug": "stop-betaald-parkeren-vip",
+    "r": 0.96,
+    "buurEcht": [
+     "blanco-van-oostveen",
+     "bbb",
+     "hart-voor-hilversum"
+    ],
+    "buurKaart": [
+     "blanco-van-oostveen",
+     "lfd",
+     "dorp-voor-dorp"
+    ],
+    "gedeeld": 1,
+    "nGedeeld": 43.73684210526316
+   },
+   {
+    "slug": "opstand-nu",
+    "r": 0.91,
+    "buurEcht": [
+     "pvdd",
+     "d66",
+     "sp"
+    ],
+    "buurKaart": [
+     "volt",
+     "sp",
+     "pvdd"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 49.8421052631579
+   },
+   {
+    "slug": "pvdd",
+    "r": 0.99,
+    "buurEcht": [
+     "volt",
+     "pro",
+     "opstand-nu"
+    ],
+    "buurKaart": [
+     "opstand-nu",
+     "pro",
+     "volt"
+    ],
+    "gedeeld": 3,
+    "nGedeeld": 52.473684210526315
+   },
+   {
+    "slug": "blanco-van-oostveen",
+    "r": 0.86,
+    "buurEcht": [
+     "stop-betaald-parkeren-vip",
+     "gewoon-hilversum",
+     "hart-voor-hilversum"
+    ],
+    "buurKaart": [
+     "stop-betaald-parkeren-vip",
+     "hart-voor-hilversum",
+     "gewoon-hilversum"
+    ],
+    "gedeeld": 3,
+    "nGedeeld": 45.94736842105263
+   },
+   {
+    "slug": "lfd",
+    "r": 0.97,
+    "buurEcht": [
+     "bvnl",
+     "stop-betaald-parkeren-vip",
+     "bbb"
+    ],
+    "buurKaart": [
+     "bbb",
+     "bvnl",
+     "dorp-voor-dorp"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 51.73684210526316
+   },
+   {
+    "slug": "volt",
+    "r": 0.92,
+    "buurEcht": [
+     "pvdd",
+     "pro",
+     "d66"
+    ],
+    "buurKaart": [
+     "opstand-nu",
+     "pro",
+     "christenunie"
+    ],
+    "gedeeld": 1,
+    "nGedeeld": 47.36842105263158
+   },
+   {
+    "slug": "fvd",
+    "r": 0.99,
+    "buurEcht": [
+     "bbb",
+     "bvnl",
+     "dorp-voor-dorp"
+    ],
+    "buurKaart": [
+     "dorp-voor-dorp",
+     "bbb",
+     "bvnl"
+    ],
+    "gedeeld": 3,
+    "nGedeeld": 52.473684210526315
+   },
+   {
+    "slug": "bbb",
+    "r": 0.95,
+    "buurEcht": [
+     "bvnl",
+     "dorp-voor-dorp",
+     "hart-voor-hilversum"
+    ],
+    "buurKaart": [
+     "lfd",
+     "bvnl",
+     "dorp-voor-dorp"
+    ],
+    "gedeeld": 2,
+    "nGedeeld": 49.73684210526316
+   }
+  ]
+ },
+ "kand": [
+  {
+   "slug": "hart-voor-hilversum",
+   "n": 17,
+   "foto": 17,
+   "bio": 17,
+   "linkedin": 4,
+   "bioWoorden": 28.24,
+   "logo": true
+  },
+  {
+   "slug": "pro",
+   "n": 25,
+   "foto": 20,
+   "bio": 8,
+   "linkedin": 10,
+   "bioWoorden": 23.88,
+   "logo": true
+  },
+  {
+   "slug": "d66",
+   "n": 50,
+   "foto": 30,
+   "bio": 30,
+   "linkedin": 23,
+   "bioWoorden": 25.23,
+   "logo": true
+  },
+  {
+   "slug": "vvd",
+   "n": 33,
+   "foto": 31,
+   "bio": 22,
+   "linkedin": 31,
+   "bioWoorden": 16.14,
+   "logo": true
+  },
+  {
+   "slug": "cda",
+   "n": 50,
+   "foto": 14,
+   "bio": 14,
+   "linkedin": 8,
+   "bioWoorden": 26.36,
+   "logo": true
+  },
+  {
+   "slug": "lokaal-een",
+   "n": 32,
+   "foto": 14,
+   "bio": 13,
+   "linkedin": 6,
+   "bioWoorden": 14.62,
+   "logo": true
+  },
+  {
+   "slug": "sp",
+   "n": 25,
+   "foto": 22,
+   "bio": 18,
+   "linkedin": 1,
+   "bioWoorden": 24.78,
+   "logo": true
+  },
+  {
+   "slug": "christenunie",
+   "n": 25,
+   "foto": 25,
+   "bio": 12,
+   "linkedin": 3,
+   "bioWoorden": 11.75,
+   "logo": true
+  },
+  {
+   "slug": "bvnl",
+   "n": 7,
+   "foto": 3,
+   "bio": 3,
+   "linkedin": 1,
+   "bioWoorden": 13.67,
+   "logo": true
+  },
+  {
+   "slug": "scb",
+   "n": 3,
+   "foto": 2,
+   "bio": 2,
+   "linkedin": 0,
+   "bioWoorden": 11,
+   "logo": true
+  },
+  {
+   "slug": "gewoon-hilversum",
+   "n": 7,
+   "foto": 7,
+   "bio": 7,
+   "linkedin": 1,
+   "bioWoorden": 20,
+   "logo": true
+  },
+  {
+   "slug": "dorp-voor-dorp",
+   "n": 9,
+   "foto": 8,
+   "bio": 8,
+   "linkedin": 0,
+   "bioWoorden": 25.75,
+   "logo": true
+  },
+  {
+   "slug": "stop-betaald-parkeren-vip",
+   "n": 6,
+   "foto": 6,
+   "bio": 6,
+   "linkedin": 0,
+   "bioWoorden": 12.83,
+   "logo": true
+  },
+  {
+   "slug": "opstand-nu",
+   "n": 10,
+   "foto": 5,
+   "bio": 5,
+   "linkedin": 2,
+   "bioWoorden": 30.6,
+   "logo": true
+  },
+  {
+   "slug": "pvdd",
+   "n": 11,
+   "foto": 10,
+   "bio": 1,
+   "linkedin": 4,
+   "bioWoorden": 33,
+   "logo": true
+  },
+  {
+   "slug": "blanco-van-oostveen",
+   "n": 1,
+   "foto": 1,
+   "bio": 0,
+   "linkedin": 1,
+   "bioWoorden": null,
+   "logo": false
+  },
+  {
+   "slug": "lfd",
+   "n": 5,
+   "foto": 5,
+   "bio": 5,
+   "linkedin": 2,
+   "bioWoorden": 22.8,
+   "logo": true
+  },
+  {
+   "slug": "volt",
+   "n": 6,
+   "foto": 6,
+   "bio": 5,
+   "linkedin": 3,
+   "bioWoorden": 28.8,
+   "logo": true
+  },
+  {
+   "slug": "fvd",
+   "n": 14,
+   "foto": 6,
+   "bio": 5,
+   "linkedin": 1,
+   "bioWoorden": 20.4,
+   "logo": true
+  },
+  {
+   "slug": "bbb",
+   "n": 11,
+   "foto": 8,
+   "bio": 8,
+   "linkedin": 1,
+   "bioWoorden": 28.5,
+   "logo": true
+  }
+ ],
+ "teksten": [
+  {
+   "slug": "hart-voor-hilversum",
+   "achtergrond": 49,
+   "kernboodschap": 78,
+   "speerpunten": 8,
+   "speerpuntWoorden": 122,
+   "opvallend": 8,
+   "dun": 8,
+   "basis": false
+  },
+  {
+   "slug": "pro",
+   "achtergrond": 42,
+   "kernboodschap": 92,
+   "speerpunten": 7,
+   "speerpuntWoorden": 123,
+   "opvallend": 14,
+   "dun": 8,
+   "basis": false
+  },
+  {
+   "slug": "d66",
+   "achtergrond": 26,
+   "kernboodschap": 62,
+   "speerpunten": 8,
+   "speerpuntWoorden": 96,
+   "opvallend": 10,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "vvd",
+   "achtergrond": 23,
+   "kernboodschap": 84,
+   "speerpunten": 8,
+   "speerpuntWoorden": 138,
+   "opvallend": 10,
+   "dun": 8,
+   "basis": false
+  },
+  {
+   "slug": "cda",
+   "achtergrond": 30,
+   "kernboodschap": 70,
+   "speerpunten": 8,
+   "speerpuntWoorden": 86,
+   "opvallend": 8,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "lokaal-een",
+   "achtergrond": 42,
+   "kernboodschap": 61,
+   "speerpunten": 8,
+   "speerpuntWoorden": 109,
+   "opvallend": 8,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "sp",
+   "achtergrond": 27,
+   "kernboodschap": 74,
+   "speerpunten": 8,
+   "speerpuntWoorden": 127,
+   "opvallend": 13,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "christenunie",
+   "achtergrond": 22,
+   "kernboodschap": 56,
+   "speerpunten": 8,
+   "speerpuntWoorden": 108,
+   "opvallend": 12,
+   "dun": 9,
+   "basis": false
+  },
+  {
+   "slug": "bvnl",
+   "achtergrond": 42,
+   "kernboodschap": 65,
+   "speerpunten": 8,
+   "speerpuntWoorden": 82,
+   "opvallend": 10,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "scb",
+   "achtergrond": 27,
+   "kernboodschap": 58,
+   "speerpunten": 7,
+   "speerpuntWoorden": 69,
+   "opvallend": 5,
+   "dun": 9,
+   "basis": false
+  },
+  {
+   "slug": "gewoon-hilversum",
+   "achtergrond": 27,
+   "kernboodschap": 76,
+   "speerpunten": 8,
+   "speerpuntWoorden": 96,
+   "opvallend": 9,
+   "dun": 10,
+   "basis": false
+  },
+  {
+   "slug": "dorp-voor-dorp",
+   "achtergrond": 29,
+   "kernboodschap": 82,
+   "speerpunten": 8,
+   "speerpuntWoorden": 95,
+   "opvallend": 11,
+   "dun": 10,
+   "basis": false
+  },
+  {
+   "slug": "stop-betaald-parkeren-vip",
+   "achtergrond": 20,
+   "kernboodschap": 79,
+   "speerpunten": 7,
+   "speerpuntWoorden": 98,
+   "opvallend": 7,
+   "dun": 7,
+   "basis": false
+  },
+  {
+   "slug": "opstand-nu",
+   "achtergrond": 18,
+   "kernboodschap": 62,
+   "speerpunten": 8,
+   "speerpuntWoorden": 99,
+   "opvallend": 8,
+   "dun": 8,
+   "basis": false
+  },
+  {
+   "slug": "pvdd",
+   "achtergrond": 21,
+   "kernboodschap": 60,
+   "speerpunten": 6,
+   "speerpuntWoorden": 55,
+   "opvallend": 10,
+   "dun": 7,
+   "basis": false
+  },
+  {
+   "slug": "blanco-van-oostveen",
+   "achtergrond": 16,
+   "kernboodschap": 0,
+   "speerpunten": 6,
+   "speerpuntWoorden": 42,
+   "opvallend": 3,
+   "dun": 3,
+   "basis": true
+  },
+  {
+   "slug": "lfd",
+   "achtergrond": 25,
+   "kernboodschap": 64,
+   "speerpunten": 8,
+   "speerpuntWoorden": 84,
+   "opvallend": 8,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "volt",
+   "achtergrond": 17,
+   "kernboodschap": 71,
+   "speerpunten": 8,
+   "speerpuntWoorden": 147,
+   "opvallend": 9,
+   "dun": 9,
+   "basis": false
+  },
+  {
+   "slug": "fvd",
+   "achtergrond": 19,
+   "kernboodschap": 69,
+   "speerpunten": 8,
+   "speerpuntWoorden": 89,
+   "opvallend": 8,
+   "dun": 6,
+   "basis": false
+  },
+  {
+   "slug": "bbb",
+   "achtergrond": 17,
+   "kernboodschap": 61,
+   "speerpunten": 7,
+   "speerpuntWoorden": 103,
+   "opvallend": 11,
+   "dun": 11,
+   "basis": false
+  }
+ ],
+ "groepSamenvatting": {
+  "bekend": {
+   "landelijk": 67.73,
+   "lokaal": 58.56,
+   "groot": 69.67,
+   "klein": 61,
+   "coalitie": 73.5,
+   "oppositie": 62.25,
+   "nieuw": 60,
+   "wijdemeers": 63,
+   "hilversums_lokaal": 57.29,
+   "links": 64.89,
+   "rechts": 62.55
+  },
+  "sterk": {
+   "landelijk": 0.36,
+   "lokaal": 0.26,
+   "groot": 0.26,
+   "klein": 0.33,
+   "coalitie": 0.26,
+   "oppositie": 0.28,
+   "nieuw": 0.38,
+   "wijdemeers": 0.29,
+   "hilversums_lokaal": 0.25,
+   "links": 0.31,
+   "rechts": 0.32
+  },
+  "willekeurTop": {
+   "landelijk": 5.79,
+   "lokaal": 4.03,
+   "groot": 5.62,
+   "klein": 4.74,
+   "coalitie": 6.38,
+   "oppositie": 4.71,
+   "nieuw": 4.6,
+   "wijdemeers": 4.65,
+   "hilversums_lokaal": 3.86,
+   "links": 5.23,
+   "rechts": 4.81
+  },
+  "mengTop": {
+   "landelijk": 5.52,
+   "lokaal": 4.37,
+   "groot": 5.55,
+   "klein": 4.76,
+   "coalitie": 6,
+   "oppositie": 4.77,
+   "nieuw": 4.73,
+   "wijdemeers": 5.15,
+   "hilversums_lokaal": 4.14,
+   "links": 5.09,
+   "rechts": 4.93
+  },
+  "herkend": {
+   "landelijk": 92.83,
+   "lokaal": 77.08,
+   "groot": 91.5,
+   "klein": 83.27,
+   "coalitie": 95.88,
+   "oppositie": 83.51,
+   "nieuw": 82.9,
+   "wijdemeers": 88.1,
+   "hilversums_lokaal": 73.93,
+   "links": 86.48,
+   "rechts": 85.14
+  },
+  "deelWinstTovVerwacht": {
+   "landelijk": 1.06,
+   "lokaal": 0.92,
+   "groot": 1.02,
+   "klein": 0.99,
+   "coalitie": 1.06,
+   "oppositie": 0.97,
+   "nieuw": 1,
+   "wijdemeers": 0.96,
+   "hilversums_lokaal": 0.91,
+   "links": 1,
+   "rechts": 1
+  },
+  "genoemdInUitleg": {
+   "landelijk": 0.73,
+   "lokaal": 0.11,
+   "groot": 1.17,
+   "klein": 0.14,
+   "coalitie": 1.5,
+   "oppositie": 0.25,
+   "nieuw": 0.13,
+   "wijdemeers": 0,
+   "hilversums_lokaal": 0.14,
+   "links": 0.44,
+   "rechts": 0.45
+  },
+  "fotoAandeel": {
+   "landelijk": 0.73,
+   "lokaal": 0.83,
+   "groot": 0.68,
+   "klein": 0.82,
+   "coalitie": 0.61,
+   "oppositie": 0.83,
+   "nieuw": 0.8,
+   "wijdemeers": 0.66,
+   "hilversums_lokaal": 0.88,
+   "links": 0.75,
+   "rechts": 0.79
+  }
+ },
+ "samenhangMetBekend": {
+  "willekeurTop": 0.88,
+  "mengTop": 0.96,
+  "herkend": 0.91,
+  "deelMeng": 0.87,
+  "z_vs_alleenBekend": 0.94
+ }
+}

@@ -1,0 +1,227 @@
+[
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "s": 1,
+  "kern": "Hoogte afhankelijk van de omgeving; geen hoogbouw in de Meent",
+  "toelichting": "De partij wil wel de hoogte in, maar alleen waar de omliggende gebouwen dat toelaten, zoals elders in Hilversum; in de Meent is dat volgens haar niet het geval. Ze staat open voor meer hoogbouw op geschikte plekken, zolang schaal en karakter van wijken en dorpen passen.",
+  "citaat": "Hart voor Hilversum wil wel de hoogte in, maar dan afhankelijk van omliggende gebouwen zoals elders in Hilversum. In de Meent is dit dus niet het geval; deze optie is dus niet van toepassing in de Meent.",
+  "bron": "Stemgids: 'Op enkele plekken, zoals het centrum van de Meent, mag bij uitzondering tot 25 meter hoog worden gebouwd' (voor, met toelichting); MijnStem: 'Meer hoogbouw toestaan'; p. 8",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "s": -1,
+  "kern": "Parkeerbeleid evalueren en herijken, niet in zijn geheel afschaffen.",
+  "toelichting": "De partij wil het bestaande parkeerbeleid evalueren en waar nodig herijken, omdat parkeren geen melkkoe mag zijn. Betaald parkeren afschaffen wil ze niet: het heeft in wijken de parkeerdruk verlicht en levert de gemeente inkomsten op. Nieuwe uitbreiding komt er niet in Kerkelanden, de Meent en Wijdemeren, tenzij bewoners dat willen.",
+  "citaat": "Bestaand parkeerbeleid evalueren en waar nodig herijken; parkeren is geen melkkoe.",
+  "bron": "p. 8; Stemgids: 'De uitbreiding van betaald parkeren naar meer wijken moet opnieuw worden bekeken en zo nodig worden teruggedraaid' (voor); MijnStem: 'Betaald parkeren in het centrum en de wijken van Hilversum'; Hilversums Nieuws, 29-10-2026",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-autoluw",
+  "s": 0,
+  "kern": "Autoluw waar het kan, zonder de auto overal uit te sluiten",
+  "toelichting": "De partij wil het centrum autoluw maken waar dat kan, zonder de auto overal uit te sluiten; het centrum moet bereikbaar blijven. Ze staat open voor een P+R aan de rand, mits de verbinding met het centrum snel, frequent en betaalbaar is.",
+  "citaat": "Het centrum bereikbaar houden: autoluw waar het kan, zonder de auto overal uit te sluiten.",
+  "bron": "p. 9; p. 8 (P+R)",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "s": 2,
+  "kern": "Geen zero-emissiezone in het winkelgebied.",
+  "toelichting": "De partij is tegen een zero-emissiezone in het centrum, omdat inwoners en ondernemers daardoor op kosten worden gejaagd. Ze stemde in 2025 tegen het voorstel.",
+  "citaat": "Geen zero-emissiezone in het winkelgebied.",
+  "bron": "p. 12; Stemgids: 'zero-emissiezone in het centrum niet opgeven' (tegen); Raad Hilversum, 02-04-2025",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "s": 2,
+  "kern": "Geen grote windmolens bij de dorpen of in het buitengebied.",
+  "toelichting": "De partij wil geen grote windturbines bij de dorpen of in het buitengebied, om landschap, natuur en de rust van omwonenden te beschermen. Een uitzondering bij instemming van omwonenden noemt ze niet; ze kiest liever zonnepanelen op daken.",
+  "citaat": "Geen grote windmolens of windturbines bij onze dorpen of in het buitengebied.",
+  "bron": "p. 9; MijnStem: 'Windturbines in het buitengebied toestaan'; Stemgids: 'zich verzetten tegen de komst van grote windmolens vlak bij de dorpen' (voor)",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": -1,
+  "kern": "Groen als maatwerk, geen starre verboden die woningbouw blokkeren.",
+  "toelichting": "De partij wil meer groen in wijken, met aandacht voor verkoeling en wateropvang, maar als maatwerk. Ze wil geen vaste norm of verbod die woningbouw blokkeert.",
+  "citaat": "Meer groen in wijken, met aandacht voor verkoeling en wateropvang – als maatwerk, niet als star verbod dat woningbouw blokkeert.",
+  "bron": "p. 9; p. 5",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-bomen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "s": 2,
+  "kern": "Elke wijk en elk dorp een toegankelijke ontmoetingsplek.",
+  "toelichting": "De partij vindt dat elke wijk en elk dorp een toegankelijke ontmoetingsplek verdient. Ze benut daarvoor bestaande buurthuizen, bibliotheken en dorpshuizen.",
+  "citaat": "Elke wijk en elk dorp verdient een toegankelijke ontmoetingsplek; we benutten bestaande buurthuizen, bibliotheken en dorpshuizen.",
+  "bron": "p. 12; MijnStem: 'In alle wijken en dorpen een buurthuis openen'; Hilversums Nieuws, 05-11-2026",
+  "soort": "programma"
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-coffeeshops-aantal",
+  "s": 1,
+  "kern": "Minder concentratie van coffeeshops en vermindering waar dat overlast scheelt.",
+  "toelichting": "De partij wil minder coffeeshops in het centrum en vermindering waar dat overlast terugdringt. Ze wil dat met goede regulering en spreiding, zodat problemen niet verschuiven naar illegale handel of andere buurten.",
+  "citaat": "Minder concentratie van coffeeshops in het centrum en vermindering waar dit overlast terugdringt, met goede regulering zodat problemen niet verschuiven.",
+  "bron": "p. 9; MijnStem: 'Het aantal coffeeshops verminderen'",
+  "soort": "programma"
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "s": -2,
+  "kern": "Beperkt zich tot de wettelijke opvangtaak.",
+  "toelichting": "De partij beperkt zich tot de wettelijke taak om asielzoekers te huisvesten en kiest voor zo beperkt mogelijke opvang. Zonder Spreidingswet blijft ze niet gewoon opvangplekken openhouden.",
+  "citaat": "Als lokale partij beperken we ons tot de wettelijke taak voor het huisvesten van asielzoekers, die ons met halfjaarlijkse taakstellingen worden opgelegd.",
+  "bron": "Stemgids: 'De gemeente moet asielzoekers blijven opvangen, ook als de Spreidingswet wordt ingetrokken' (tegen); MijnStem: 'Opvangplekken voor asielzoekers'",
+  "soort": "stemgids"
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": -1,
+  "kern": "Mediabedrijven ruimte geven; woningen alleen bij structurele leegstand.",
+  "toelichting": "De partij houdt het Media Park vooral voor werkgelegenheid en media. Woningbouw wil ze alleen onderzoeken bij structurele leegstand, en zonder de mediasector te belemmeren.",
+  "citaat": "Bij structurele leegstand onderzoeken we passende woningbouw, zonder de mediasector te belemmeren.",
+  "bron": "p. 12; MijnStem: 'Op het Media Park: meer woningen / meer mediabedrijven'",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": 0,
+  "kern": "Balans tussen recreatie, natuur en ondernemerschap rond de plassen.",
+  "toelichting": "De partij geeft recreatie en lokale ondernemers ruimte rond de plassen, maar wil kwetsbare plekken beschermen. Ze kiest voor een balans en noemt geen uitbreiding van jachthavens, vakantieparken of horeca.",
+  "citaat": "Balans tussen recreatie, natuur en ondernemerschap rond de plassen; kwetsbare plekken beschermen.",
+  "bron": "p. 13; MijnStem: 'In het plassengebied inzetten op: meer recreatie / meer rust voor plant en dier'",
+  "soort": "programma"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": -1,
+  "kern": "Geen extra cultuurgeld zonder onderbouwd plan, gezien de financiën",
+  "toelichting": "De partij wil niet op voorhand meer geld aan kunst en cultuur uitgeven. Eerst moet er een goed onderbouwd plan liggen, en de financiële toestand van Hilversum laat zomaar extra uitgeven niet toe. Ze steunt wel culturele verenigingen en toegankelijke cultuur.",
+  "citaat": "Het op voorhand meer geld uitgeven aan kunst en cultuur dient per saldo een goed onderbouwd doel te dienen. E.e.a. dient te beginnen met een goed onderbouwd plan.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur' (tegen); p. 13",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": 1,
+  "kern": "Lokale loketten naar behoefte: spreekuren in dorpshuizen of een mobiel loket.",
+  "toelichting": "De partij wil dat de gemeente bereikbaar is in de dorpen, met vaste spreekuren in dorpshuizen of een mobiel loket die passen bij de behoefte. Persoonlijke hulp blijft beschikbaar. Een eigen loket met vaste openingsdag eist ze niet.",
+  "citaat": "Wij willen lokale loketten die passen bij de behoefte, bijvoorbeeld vaste spreekuren in dorpshuizen of een mobiel loket.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'; p. 5",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "s": 0,
+  "kern": "Dorpen en stad allebei: geen keuze tussen het een of het ander.",
+  "toelichting": "De partij wil de voorzieningen in de dorpen op peil houden voor de leefbaarheid, maar vindt niet dat het om een keuze tussen dorp of stad gaat.",
+  "citaat": "Het is niet zo dat het of of is maar en en.",
+  "bron": "Hilversums Nieuws, 05-11-2026",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "s": 1,
+  "kern": "Woonlasten stijgen hooguit met de inflatie; geen verlaging bepleit",
+  "toelichting": "De partij wil dat de woonlasten, waaronder de OZB, niet harder stijgen dan de inflatie. Een verlaging van de OZB bepleit ze niet; bij een begrotingstekort vindt ze gerichte lastenverhogingen zelfs bespreekbaar, met oog voor draagkracht.",
+  "citaat": "Gemeentelijke woonlasten (OZB, riool- en afvalstoffenheffing) mogen niet harder stijgen dan de inflatie (CPI).",
+  "bron": "p. 4; Stemgids: 'De woonlasten (OZB, afvalstoffenheffing en rioolheffing samen) mogen niet harder stijgen dan de inflatie' (voor); MijnStem: 'Tekorten op de begroting oplossen door'",
+  "soort": "programma"
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": -1,
+  "kern": "Afvalheffing houdt rekening met huishoudgrootte, geen vast bedrag voor allen.",
+  "toelichting": "De partij wil een betaalbare afvalheffing die rekening houdt met de omvang van het huishouden. Afval scheiden moet lonen, maar zonder dumping of onevenredige lasten voor lage inkomens.",
+  "citaat": "Wij kiezen voor een betaalbare afvalheffing die rekening houdt met de omvang van het huishouden. Afval scheiden moet lonen",
+  "bron": "MijnStem: 'Afvalheffing op basis van: vast bedrag per huishouden / hoeveelheid afval'; p. 7",
+  "soort": "mijnstem"
+ }
+]

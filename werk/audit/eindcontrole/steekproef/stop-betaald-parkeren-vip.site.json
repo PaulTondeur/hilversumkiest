@@ -1,0 +1,299 @@
+[
+ {
+  "id": "wonen-bouwtempo",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-hoogbouw",
+  "s": 0,
+  "kern": "Hoger bouwen alleen op geschikte plekken; verdichting geen doel op zich",
+  "toelichting": "De partij kijkt naar hoger bouwen op geschikte plekken om woningen toe te voegen, maar verdichting is voor haar geen doel op zichzelf en de buurt mag niet onevenredig worden belast. Een uitzondering tot 25 meter op enkele plekken, zoals bij de Meent, vindt ze wel goed.",
+  "citaat": "Verdichting is voor ons geen doel op zichzelf. We kijken wél naar bouwen in de hoogte op geschikte locaties om woningen toe te voegen, mits dit goed bij de omgeving past en de buurt niet onevenredig wordt belast.",
+  "bron": "MijnStem: 'Meer hoogbouw toestaan' (50/100); Stemgids: 'Bij uitzondering tot 25 meter bouwen' (voor); p.19",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-kantoren-naar-wonen",
+  "s": -1,
+  "kern": "Wel kantoren ombouwen, maar werkruimte moet behouden of gecompenseerd",
+  "toelichting": "De partij wil leegstaande kantoren graag ombouwen tot woningen en dat makkelijker maken. Maar dat mag niet ten koste gaan van de ruimte voor bedrijven: verdwijnt bedrijfsruimte, dan moet vooraf vaststaan hoe die behouden blijft of elders terugkomt.",
+  "citaat": "We toveren leegstaande panden graag om tot prachtige woningen, maar we zorgen er altijd voor dat er voldoende ruimte en aantrekkelijke alternatieven overblijven voor onze lokale ondernemers.",
+  "bron": "Stemgids: 'Kantoren en bedrijfsruimtes mogen alleen woningen worden als er elders ruimte voor werk bijkomt' (voor); p. 24; p. 19",
+  "soort": "stemgids"
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": 1,
+  "kern": "Tegen een vast verplicht percentage; verdeling per project als lokaal maatwerk.",
+  "toelichting": "De partij wil geen vaste verplichting voor sociale huur bij nieuwbouw. Ze streeft naar een evenwichtige mix van betaalbare, sociale en andere woningen, per plek afgestemd op de behoefte en financieel haalbaar.",
+  "citaat": "Wij zijn tegen een vaste verplichting. Wij streven naar een evenwichtige mix van betaalbare, sociale en andere woningen. De exacte verdeling moet lokaal maatwerk zijn, aansluiten bij de behoefte en financieel uitvoerbaar blijven.",
+  "bron": "MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw' (28/100); p.18",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "s": 1,
+  "kern": "Stopt uitbreiding, bekijkt bestaand betaald parkeren per gebied en draait terug wat niet werkt.",
+  "toelichting": "De partij stopt verdere uitbreiding van betaald parkeren en bekijkt het bestaande beleid gebied voor gebied opnieuw. Wat niet werkt, wordt aangepast of teruggedraaid; ze belooft dus geen algehele afschaffing.",
+  "citaat": "We stoppen de verdere uitbreiding van betaald parkeren en bekijken het bestaande parkeerbeleid gebied voor gebied opnieuw.",
+  "bron": "p.7; MijnStem: 'Betaald parkeren in het centrum en de wijken van Hilversum' (0/100, terugdringen); Stemgids: 'Uitbreiding betaald parkeren herzien' (voor)",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-vergunning",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-autoluw",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-30-hoofdwegen",
+  "s": 0,
+  "kern": "30 km/u alleen waar aantoonbaar veiliger; geen standaardoplossing.",
+  "toelichting": "De partij wil geen vaste 30 km/u-regel in de bebouwde kom. Ze past een lagere snelheid lokaal toe waar veel fietsers en voetgangers zijn en dat aantoonbaar veiliger is, en richt rond scholen waar nodig een schoolzone in.",
+  "citaat": "Wij zijn tegen één standaardoplossing. Snelheid moet passen bij de weg en de omgeving. Alleen op plekken waar veel fietsers en voetgangers zijn en een lagere snelheid aantoonbaar veiliger is, passen we dit lokaal toe.",
+  "bron": "MijnStem: 'Maximumsnelheid van 30 km/u invoeren in de bebouwde kom' (50/100); p.8",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": -1,
+  "kern": "Eerst zonnepanelen op daken en bebouwde plekken, niet in het buitengebied",
+  "toelichting": "De partij wil zonnepanelen bij voorkeur op daken en andere al bebouwde plekken, voordat natuur of landschap wordt gebruikt. Grootschalige zonneparken passen volgens haar niet bij het groene karakter. Over panelen boven akkers of weiland die in gebruik blijven, zegt ze niets.",
+  "citaat": "Zonnepanelen leggen we bij voorkeur op geschikte daken en andere al bebouwde plekken, voordat waardevolle natuur of landschap daarvoor wordt gebruikt.",
+  "bron": "p. 35",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "natuur-afsluiten",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snippergroen",
+  "s": -1,
+  "kern": "Eerst bestaande ruimte benutten; groen opofferen alleen als het niet anders kan.",
+  "toelichting": "De partij wil woningnood aanpakken door eerst leegstand en bestaande ruimte te benutten. Groen of natuur verdwijnt alleen als het echt onvermijdelijk is, met tijdige compensatie. In groenarme buurten wil ze geen openbaar groen laten verdwijnen.",
+  "citaat": "Oneens . Natuur en wonen zijn geen tegenstanders. Wij benutten eerst de bestaande ruimte beter.",
+  "bron": "Hilversums Nieuws, 22 okt 2026: 'Hilversum moet desnoods groen opofferen om woningnood aan te pakken' (oneens); Stemgids: 'Groen behouden in groenarme buurten' (voor)",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -1,
+  "kern": "Wil armoederegelingen ook voor inwoners net boven bijstandsniveau.",
+  "toelichting": "De partij wil minimaregelingen niet beperken tot bijstandsniveau. Ook inwoners die net boven de bijstand zitten komen in de knel en krijgen gerichte hulp, tot ongeveer 130 procent.",
+  "citaat": "Inwoners die nét boven de bijstand zitten, komen vaak ook in de knel. Door hen gericht te ondersteunen, bieden we bestaanszekerheid en voorkomen we grotere, duurdere problemen op de lange termijn.",
+  "bron": "MijnStem: 'Armoederegelingen voor inwoners op: bijstandsniveau / 130%' (75/100)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-wmo-kwijtschelding",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-bijstand-tegenprestatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": 1,
+  "kern": "Boa's vooral waar overlast en onveiligheid spelen",
+  "toelichting": "De partij wil boa's vooral inzetten op plaatsen en tijden waar overlast en onveiligheid voorkomen of worden gemeld, met per wijk en dorp de aanpak die daar nodig is. Of ze daardoor minder tijd aan kleine overtredingen besteden, zegt ze niet letterlijk.",
+  "citaat": "Boa’s worden vooral ingezet op plaatsen en tijden waar overlast en onveiligheid voorkomen of wordt gemeld.",
+  "bron": "p. 21; MijnStem: 'Meer BOA’s inzetten in het uitgaansgebied'",
+  "soort": "programma"
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "s": -1,
+  "kern": "Tijdelijke opvang met vaste einddatum, verlengen alleen met nieuw besluit",
+  "toelichting": "De partij gaat uit van tijdelijke opvang met vooraf vastgelegd aantal plaatsen en looptijd. Verlenging gebeurt niet automatisch, maar vraagt een nieuw, onderbouwd besluit. Blijvende opvangplekken in wijken noemt ze niet.",
+  "citaat": "Tijdelijke opvang heeft een duidelijke einddatum. Vooraf leggen we het aantal plaatsen en de looptijd vast.",
+  "bron": "p. 22",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "s": 0,
+  "kern": "Kritisch naar kosten en alternatieven; geen vaste lijn over uitstel.",
+  "toelichting": "De partij staat neutraal tegenover het plan Bruisend Hart. Ze wil eerst kritisch naar kosten en alternatieven kijken en vindt dat grote projecten niet ten koste mogen gaan van basisvoorzieningen.",
+  "citaat": "Een mooi stationsgebied is belangrijk, maar wel met verstand! Voordat de eerste steen gelegd wordt, kijken we kritisch naar de kosten en alternatieven.",
+  "bron": "Stemgids: 'Plan Bruisend Hart laten doorgaan' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-centrum-compacter",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": 1,
+  "kern": "Recreatie, horeca en watersport krijgen ruimte rond de plassen waar dat past.",
+  "toelichting": "De partij geeft recreatie, horeca en watersport ruimte rond de plassen waar dat past, met een balans met natuur en leefbaarheid. Jachthavens en vakantieparken noemt ze niet bij naam.",
+  "citaat": "Recreatie, horeca en watersport krijgen ruimte waar dat past. Rond de plassen zoeken we naar een goede balans tussen natuur, leefbaarheid en recreatief gebruik.",
+  "bron": "p.34; MijnStem: 'In het plassengebied inzetten op: recreatie / rust voor plant en dier' (37/100)",
+  "soort": "programma"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": 0,
+  "kern": "Cultuur steunen, maar pas meer geld als de basis op orde is",
+  "toelichting": "De partij is neutraal over meer geld voor kunst en cultuur. Cultuur en verenigingen vindt ze waardevol, maar nieuwe uitgaven komen pas als basisvoorzieningen, zorg en veiligheid op orde zijn.",
+  "citaat": "Wel kijken we scherp naar de financiën: we investeren pas in nieuwe plannen als de basisvoorzieningen, zorg en veiligheid helemaal op orde zijn.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur' (neutraal); p. 36",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-sportevenementen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": 1,
+  "kern": "Meer lokale zeggenschap, dorpsagenda met eigen uitvoeringsbudget",
+  "toelichting": "De partij wil dat bewoners hun dorps- en wijkraden zelf kiezen om de lokale zeggenschap te vergroten. Ieder dorp en iedere wijk krijgt een eigen agenda met budget voor uitvoering. Of de raden zelf besluiten nemen, zegt ze niet.",
+  "citaat": "Door bewoners zelf hun raden te laten kiezen, vergroten we de lokale zeggenschap en het draagvlak.",
+  "bron": "MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners'; p. 15; Hilversums Nieuws, 5 nov 2026",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": 2,
+  "kern": "Wil gemeenteloketten in alle dorpen voor fysieke dienstverlening dichtbij.",
+  "toelichting": "De partij wil in de dorpen structurele fysieke dienstverlening, naast een goede digitale basis, omdat inwoners van Wijdemeren anders te ver moeten reizen. Een vast aantal dagen of de kosten noemt ze niet.",
+  "citaat": "Fysieke dienstverlening dichtbij is cruciaal, zeker voor inwoners van Wijdemeren, vanwege de grotere afstand.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen' (87/100); p.15",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-tekort-lasten",
+  "s": -1,
+  "kern": "Eerst kritisch naar eigen uitgaven, daarna pas lasten verhogen.",
+  "toelichting": "De partij wil bij een tekort eerst kritisch naar de eigen uitgaven en subsidies kijken en de rekening niet direct bij inwoners leggen. Lasten omhoog is daarmee niet haar eerste keus.",
+  "citaat": "Bij financiële tekorten moet de gemeente eerst kritisch kijken naar haar eigen uitgaven en subsidies, voordat we de rekening direct bij de inwoner neerleggen.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door: bezuinigen / lokale lasten verhogen' (21/100)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-inhuur-vaste-banen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ }
+]

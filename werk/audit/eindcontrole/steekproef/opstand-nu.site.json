@@ -1,0 +1,218 @@
+[
+ {
+  "id": "wonen-dorpsrand",
+  "s": 1,
+  "kern": "Onderzoeken of landbouwgrond bij de dorpen kan dienen voor woningbouw",
+  "toelichting": "De partij staat open voor bouwen aan de rand van de dorpen op landbouwgrond, maar eerst moet onderzocht worden of bodem, natuur en bereikbaarheid dat toelaten. In Hilversum zelf wil ze het Goois Natuurreservaat beschermen tegen bouwen.",
+  "citaat": "Kan een oplossing zijn voor met name de dorpen. Eerst onderzoeken of dat kan qua bodemgesteldheid, natuur en bereikbaarheid.",
+  "bron": "MijnStem: 'Landbouwgrond gebruiken voor woningbouw'; ook 'Meer woningbouw buiten de bebouwde kom toestaan'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-hoogbouw",
+  "s": 1,
+  "kern": "Terughoudend met hoogbouw: afhankelijk van plek en dichtheid",
+  "toelichting": "De partij is gematigd voor meer hoogbouw, maar terughoudend: het hangt af van de plek en de bebouwingsdichtheid, en er moeten voorzieningen en parkeeroplossingen bij. Geen 'Manhattan op de hei'; bij uitzondering tot 25 meter op enkele plekken, zoals in de Meent.",
+  "citaat": "Terughoudend, want dat hangt van de plek af en van de bebouwingsdichtheid. We willen geen Manhattan op de hei.",
+  "bron": "MijnStem: 'Meer hoogbouw toestaan'; Stemgids: 'Bij uitzondering tot 25 meter bouwen' (voor)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "s": -1,
+  "kern": "Bij uitzondering tot 25 meter elders, zoals de Meent",
+  "toelichting": "De partij wil dat hoogbouw ook buiten het centrum kan: op enkele plekken, zoals het centrum van de Meent, bij uitzondering tot 25 meter. Ze is wel terughoudend met hoogbouw in het algemeen, omdat het afhangt van de plek en de bebouwingsdichtheid. Rond het station is ze kritisch op extra bebouwing die Oost en Centrum verder scheidt.",
+  "citaat": "Terughoudend, want dat hangt van de plek af en van de bebouwingsdichtheid. We willen geen Manhattan op de hei.",
+  "bron": "Stemgids: 'Op enkele plekken, zoals het centrum van de Meent, mag bij uitzondering tot 25 meter hoog worden gebouwd.' (voor); MijnStem: 'Meer hoogbouw toestaan'",
+  "soort": "stemgids"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": -1,
+  "kern": "Inhaalslag voor cruciale beroepen blijft een optie",
+  "toelichting": "De partij noemt woningzoekenden met een cruciaal beroep als groep waarvoor soms een inhaalslag nodig is, naast lang ingeschrevenen, statushouders en starters. Ze wil de voorrangsregels scherp bekijken, niet zonder meer schrappen.",
+  "citaat": "Soms hebben we een inhaalslag te maken voor woningzoekenden met een cruciaal beroep",
+  "bron": "p. 5",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "verkeer-opbrengst",
+  "s": 1,
+  "kern": "Minstens driekwart naar parkeeroplossingen; deel naar fiets en OV",
+  "toelichting": "De partij wil dat minimaal driekwart van de opbrengst naar parkeeroplossingen gaat, maar vindt dat een deel via het Mobiliteitsfonds naar alternatieven mag, zoals fietsenstallingen en fijnmazig openbaar vervoer.",
+  "citaat": "Een deel mag via het Mobiliteitsfonds worden besteed aan alternatieven, die de markt niet zelf regelt.",
+  "bron": "p. 7; Raad Hilversum, 01-07-2026: A26-82 (tegen schrappen Mobiliteitsfonds)",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": -1,
+  "kern": "Parkeeroplossingen eerst; in smalle straten fietsstraat in plaats van fietspad",
+  "toelichting": "De partij vindt dat voor fietspaden in Hilversum vaak geen ruimte is en zet eerst in op parkeeroplossingen die straatruimte vrijmaken. Smalle fietspaden naast smalle stoepen wil ze liefst vervangen door fietsstraten waar de auto te gast is.",
+  "citaat": "Voor fietspaden is in Hilversum vaak geen ruimte.",
+  "bron": "MijnStem: 'Investeren in: fietspaden/parkeerplekken' (81, parkeerplekken); p. 6-7 (fietsstraten-auto-te-gast)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "verkeer-30-dorpswegen",
+  "s": 2,
+  "kern": "Meteen 30 km/u op drukke dorpsstraten",
+  "toelichting": "De partij wil op drukke dorpsstraten waar auto's, fietsers en voetgangers de weg delen meteen 30 km/u, ook als de weg nog niet is aangepast.",
+  "citaat": "Voor: Meteen 30 km/u op drukke dorpsstraten",
+  "bron": "Stemgids: 'Meteen 30 km/u op drukke dorpsstraten' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-alleen-rijk",
+  "s": -1,
+  "kern": "Eigen routekaart met tussendoelen voor aardgasvrij 2050",
+  "toelichting": "De partij wil geen klimaatdoelen schrappen: ze steunt een gemeentelijk plan met tussendoelen voor aardgasvrij in 2050. Een eerder jaartal dan 2050 ziet ze niet als doel.",
+  "citaat": "Voor: Plan voor aardgasvrij in 2050",
+  "bron": "Stemgids: 'Plan voor aardgasvrij in 2050' (voor); Raad Hilversum, 04-03-2026: motie M26-016 Routekaart Warmtetransitie (voor, aangenomen 25-9)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "s": 1,
+  "kern": "Meer ruimte voor natuur dan voor landbouw in het buitengebied",
+  "toelichting": "De partij geeft in het buitengebied meer ruimte aan natuur dan aan landbouw, met een slag om de arm voor biologische en ecologisch verantwoorde landbouw.",
+  "citaat": "Enige slag om de arm voor wat betreft biologische en ecologisch verantwoorde landbouw.",
+  "bron": "MijnStem: 'In het buitengebied meer ruimte geven aan: landbouw/natuur' (79, natuur)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -2,
+  "kern": "Armoederegelingen minimaal tot 130% van bijstandsniveau",
+  "toelichting": "De partij wil armoederegelingen voor inwoners met een inkomen tot minimaal 130% van het bijstandsniveau, niet alleen op bijstandsniveau.",
+  "citaat": "Minimaal op 130% van bijstandsniveau. Structurele armoede schaadt wie het treft én onze gemeente als geheel.",
+  "bron": "MijnStem: 'Armoederegelingen voor inwoners op:' (100, 130% van bijstandsniveau)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 0,
+  "kern": "Flexibel en gericht cameratoezicht na incidenten",
+  "toelichting": "De partij wil geen 'big brother', maar wel flexibel en gericht cameratoezicht naar aanleiding van incidenten.",
+  "citaat": "Geen big brother, wel flexibel en gericht cameratoezicht n.a.v. incidenten.",
+  "bron": "MijnStem: 'Cameratoezicht op straat: beperken/uitbreiden'; Stemgids: 'Cameratoezicht behouden' (neutraal)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "veiligheid-coffeeshops-aantal",
+  "s": -1,
+  "kern": "Liever betere spreiding van coffeeshops dan minder",
+  "toelichting": "De partij wil het aantal coffeeshops niet verminderen, maar liever beter over de gemeente spreiden.",
+  "citaat": "Liever een betere spreiding over de gemeente.",
+  "bron": "MijnStem: 'Het aantal coffeeshops verminderen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "s": -2,
+  "kern": "Statushouders houden voorrang bij sociale huur",
+  "toelichting": "De partij wil dat statushouders voorrang houden bij een sociale huurwoning. In het programma noemt ze statushouders als een van de groepen waarvoor ze scherp naar voorrangsregels kijkt.",
+  "citaat": "Voor: Voorrang statushouders bij sociale huur",
+  "bron": "Stemgids: 'Voorrang statushouders bij sociale huur' (voor); p. 5",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-centrum-compacter",
+  "s": -2,
+  "kern": "Centrum niet verkleinen maar vergroten en verlevendigen",
+  "toelichting": "De partij wil het centrum niet verkleinen maar juist vergroten en verlevendigen, met aandacht voor onder meer Havenstraat, Langestraat en de oostzijde van het station.",
+  "citaat": "Het centrum wordt, als het OpStand.nu ligt, niet verkleind maar juist vergroot en verlevendigd",
+  "bron": "p. 2",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-stadsfonds-afschaffen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": -1,
+  "kern": "Natuurbehoud gaat voor uitbreiding van recreatie",
+  "toelichting": "De partij vindt dat in het plassengebied natuurbehoud voorgaat boven uitbreiding van recreatie. Watertoerisme krijgt wel de ruimte, met respect voor de kwetsbare natuur.",
+  "citaat": "Het een hoeft het ander niet te bijten; maar natuurbehoud gaat bij ons voor uitbreiding van recreatie.",
+  "bron": "MijnStem: 'In het plassengebied inzetten op: recreatie/rust'; p. 6; Stemgids: 'Recreatie even zwaar als natuurbescherming' (tegen)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "cultuur-sportevenementen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": -1,
+  "kern": "Monumenten beter beschermen en verduurzamen, niet soepeler",
+  "toelichting": "De partij wil het erfgoed juist sterker beschermen, ook de omgeving, en tegelijk verduurzamen en toekomstbestendig maken. Een versoepeling van de regels noemt ze niet.",
+  "citaat": "We willen er nog een tandje bijzetten, qua bescherming (ook de omgeving), verduurzaming en toekomstbestendigheid.",
+  "bron": "p. 5",
+  "soort": "programma"
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": 2,
+  "kern": "Gemeenteloketten in alle dorpen, gecombineerd met buurthuizen",
+  "toelichting": "De partij wil gemeenteloketten in alle dorpen, die ze kan combineren met buurthuizen in dorpen en verder gelegen wijken. Over openingsdagen of kosten zegt ze niets.",
+  "citaat": "Kunnen worden gecombineerd met buurthuizen in alle dorpen en Hilversumse wijken die verder uit het centrum liggen.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": -2,
+  "kern": "Afvalheffing naar hoeveelheid afval, niet een vast bedrag",
+  "toelichting": "De partij wil een eerlijkere afvalheffing op basis van de kosten en de moeite om afval op te halen, ook van tuin- en groenafval, en dus niet voor iedereen hetzelfde.",
+  "citaat": "OpStand.nu wil een eerlijkere heffing op basis van kosten en moeite om afval op te halen, zeker ook tuin-/groenafval.",
+  "bron": "MijnStem: 'Afvalheffing op basis van:' (99, hoeveelheid afval); p. 9",
+  "soort": "mijnstem"
+ }
+]

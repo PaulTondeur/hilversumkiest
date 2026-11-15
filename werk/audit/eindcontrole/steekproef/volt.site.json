@@ -1,0 +1,200 @@
+[
+ {
+  "id": "wonen-hoogbouw",
+  "s": 1,
+  "kern": "Hoger bouwen waar dat logisch is, bij ov en voorzieningen.",
+  "toelichting": "De partij wil meer hoogbouw, maar op plekken bij ov-knooppunten en voorzieningen, en ontworpen zodat het in de omgeving past. De maximale bouwhoogte gaat van twaalf naar vijftien meter.",
+  "citaat": "Bijvoorbeeld dicht bij bestaande ov-knooppunten met snelle verbindingen en bij plekken waar al scholen, winkels, ziekenhuizen, werk en andere essentiële voorzieningen zijn.",
+  "bron": "p. 6; MijnStem: 'Meer hoogbouw toestaan'",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": -2,
+  "kern": "Woningen reserveren voor leraren, zorgmedewerkers, agenten en brandweer.",
+  "toelichting": "De partij wil de voorrang voor cruciale beroepen behouden en uitbreiden: ze reserveert woningen voor deze beroepsgroepen zodat ze niet uit de gemeente worden geprijsd.",
+  "citaat": "reserveren we woningen voor deze essentiële beroepsgroepen.",
+  "bron": "p. 8",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "s": -1,
+  "kern": "Gratis parkeren verstopt wegen; alternatieven met fiets, ov en P+R.",
+  "toelichting": "De partij wil geen gratis parkeren in het centrum en zet in op fietsstraten, ov, deelauto's en een gratis P+R buiten het centrum. Een gratis eerste uur noemt ze niet specifiek.",
+  "citaat": "Gratis parkeren zorgt dat onze wegen nog verder verstopt raken en dat inwoners hun eigen auto niet kunnen parkeren.",
+  "bron": "MijnStem: 'Parkeren in het centrum van Hilversum op zondag gratis maken'",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "klimaat-warmtenet-markt",
+  "s": -1,
+  "kern": "Gemeente steunt energiegemeenschappen van bewoners, ook financieel",
+  "toelichting": "Volt laat stroom en warmte in de wijk organiseren door energiegemeenschappen van bewoners, maar wil dat de gemeente die juridisch, technisch en financieel steunt. De partij wil de gemeente dus niet helemaal buiten de financiering houden; een eigen gemeentelijk warmtebedrijf noemt zij niet.",
+  "citaat": "helpen we de bewoners in dorpen en wijken om dit via een ‘hernieuwbare-energie gemeenschap’ zelf op te zetten, met juridische, technische en financiële steun",
+  "bron": "p. 15",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "s": 0,
+  "kern": "Geen windturbines in de eigen gemeente; elders mag, zonder overlast.",
+  "toelichting": "De partij ziet in de gemeente geen ruimte voor windturbines. Windmolens buiten de gemeente zonder geluidsoverlast en slagschaduw moeten mogelijk blijven. Draagvlak van omwonenden noemt ze niet.",
+  "citaat": "Windmolens buiten onze gemeente die geen geluidsoverlast en geen slagschaduw veroorzaken moeten mogelijk blijven.",
+  "bron": "Stemgids: 'De gemeente moet zich verzetten tegen de komst van grote windmolens vlak bij de dorpen' (neutraal); p. 16",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-bomen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "s": 2,
+  "kern": "De 600 hectare nieuwe natuur bij de Vechtplassen binnen drie jaar realiseren.",
+  "toelichting": "De partij wil de doelen van het gebiedsakkoord Oostelijke Vechtplassen, 600 hectare nieuwe natuur, binnen drie jaar halen en loopt hier actief op vooruit.",
+  "citaat": "De oorspronkelijke doelen van het gebiedsakkoord willen we binnen drie jaar realiseren.",
+  "bron": "p. 15; MijnStem: 'In het buitengebied meer ruimte geven aan' landbouw of natuur",
+  "soort": "programma"
+ },
+ {
+  "id": "zorg-aanbieders-een",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-buurthuis-jaarsubsidie",
+  "s": -2,
+  "kern": "Buurthuizen en wijkcentra vijf jaar subsidie in plaats van één jaar.",
+  "toelichting": "De partij wil dat wijk- en buurtcentra subsidie voor vijf jaar krijgen, zodat inwoners hun buurthuizen beter kunnen organiseren.",
+  "citaat": "Met subsidie voor vijf jaar kunnen inwoners hun buurthuizen beter organiseren.",
+  "bron": "Stemgids: 'Wijk- en buurtcentra moeten voor vijf jaar subsidie krijgen in plaats van voor één jaar.' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "s": 1,
+  "kern": "Eerst preventie en jongerenwerk; boa's naast horeca en jongerenwerkers.",
+  "toelichting": "De partij zet preventie voorop: jongerenwerk, sportclubs en buurtcentra gaan vóór handhaving. Ze wil ook meer boa's in het uitgaansgebied, samen met horeca en jongerenwerkers.",
+  "citaat": "Voordat handhavers ingrijpen, zetten we alles op alles om overlast te voorkomen. Investeren in jongerenwerk, sportclubs en buurtcentra is voor ons geen kostenpost, maar de meest effectieve wijze om onze gemeente op lange termijn veiliger te maken.",
+  "bron": "p. 35; MijnStem: 'Meer BOA's inzetten in het uitgaansgebied'",
+  "soort": "programma"
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "s": -2,
+  "kern": "Statushouders houden voorrang bij sociale huur.",
+  "toelichting": "De partij steunt voorrang voor statushouders bij een sociale huurwoning en wijst erop dat daar maar een zeer klein deel van haar bouwplan naartoe gaat.",
+  "citaat": "We gaan 6.500 woningen realiseren voor 2040. Hiervan gaat een zeer klein aantal woningen naar statushouders.",
+  "bron": "Stemgids: 'Vluchtelingen met een verblijfsvergunning (statushouders) moeten voorrang houden bij een sociale huurwoning.' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "s": -2,
+  "kern": "Winkels op zondag ruimer open.",
+  "toelichting": "De partij is voor ruimere openingstijden van winkels op zondag. Een toelichting gaf ze niet.",
+  "citaat": null,
+  "bron": "Stemgids: 'Winkels moeten op zondag ruimer open mogen.' (voor, zonder toelichting)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": 1,
+  "kern": "Meer investeren in kunst en cultuur.",
+  "toelichting": "De partij wil meer geld voor kunst en cultuur en ziet dat als investering die zich terugbetaalt. Een vergelijking met andere steden maakt ze niet.",
+  "citaat": "Investeringen in kunst en cultuur betalen zich dubbel en dwars terug: in gezondheid, werkgelegenheid en gemeenschapszin.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur.' (voor); p. 22",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": 0,
+  "kern": "Fysieke loketten naar behoefte van de dorpen, plus digitale service.",
+  "toelichting": "De partij vindt fysieke loketten belangrijk voor ouderen en mensen die minder digitaal vaardig zijn, maar wil ze naar behoefte van de dorpen en gecombineerd met buurthuizen en digitale service.",
+  "citaat": "Fysieke loketten naar behoefte van de dorpen.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "s": 0,
+  "kern": "Investeren in dorpen, maar de raad weegt af wat voorrang heeft.",
+  "toelichting": "De partij wil investeren in lokale voorzieningen in de dorpen, in overleg met inwoners. De raad weegt af wat voorrang heeft, en ze wil een eerlijke verdeling van baten en lasten tussen dorpen en stad.",
+  "citaat": "De gemeenteraad weegt af wat voorrang heeft.",
+  "bron": "Hilversums Nieuws, 5-11-2026; p. 40",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": -1,
+  "kern": "Bij een tekort niet eerst op subsidies; sterkste schouders dragen meer.",
+  "toelichting": "De partij wil bij een tekort niet bezuinigen op voorzieningen maar de lasten laten stijgen voor wie het kan dragen. Ze wil meer geld voor cultuur en vindt bezuinigen op preventie onbespreekbaar.",
+  "citaat": "Dorpen en wijken beslissen zelf welke voorzieningen ze belangrijk vinden. Als we geld nodig hebben, laten we de sterkste schouders meer dragen.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door'; p. 35",
+  "soort": "afgeleid"
+ }
+]

@@ -1,0 +1,917 @@
+[
+ {
+  "id": "wonen-bouwtempo",
+  "ernst": "klein",
+  "formulering": "Stelling noemt eerlijk de prijs ('ook als buurten daardoor sneller veranderen'). 'Veel sneller' is vaag: PRO (300 naar 400) en Volt (veel meer) kunnen dit verschillend lezen. Kop is neutraal.",
+  "uitleg": "Noemt bij naam alleen de partijen die het tempo willen verhogen (PRO, D66, Volt) en Gewoon Hilversum (gelijk houden); de partijen die een grens willen blijven anoniem. Slotzin noemt alleen nadelen van meer bouwen (bouwplaatsen, verdichting, drukte), geen voordeel.",
+  "voor_tegen": "Voor is absoluut ('alleen een veel hoger bouwtempo'); tegen is redelijk. Ongeveer even lang.",
+  "partijen_genoemd": [
+   "PRO",
+   "D66",
+   "Gewoon, Hilversum",
+   "Volt"
+  ],
+  "richting_eens": "meer bouwen. Eens: PRO / D66 / ChristenUnie / BVNL / LFD / Volt / BBB; oneens: CDA / Lokaal Eén / Gewoon, Hilversum / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / FVD (geen duidelijke links-rechtskant).",
+  "voorstel": "Stelling: 'De gemeente moet duidelijk meer woningen per jaar bouwen dan de huidige ongeveer 300, ook als buurten daardoor sneller veranderen.' Uitleg: noem ofwel geen partijen, ofwel ook voorbeelden van de 'grens'-kant, en voeg toe: 'Meer bouwen kan wachtlijsten verkorten, maar betekent ook ...'."
+ },
+ {
+  "id": "wonen-eigen-behoefte",
+  "ernst": "klein",
+  "formulering": "Stelling is helder ('alleen'). De kop 'Bouwen voor eigen inwoners' laat 'alleen' weg en klinkt daardoor sympathieker dan de beperking die gevraagd wordt; kan ook gelezen worden als een stelling over voorrang bij toewijzing (overlap met wonen-lokale-binding-helft). Inhoudelijk deels dubbel met wonen-bouwtempo.",
+  "uitleg": "Neutraal, legt beide visies uit.",
+  "voor_tegen": "Voor gebruikt een sentimentele formule ('de mensen die hier al hun leven hebben'); tegen is zakelijk. Ongeveer even sterk.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder bouwen / lokaal. Eens: CDA / BVNL / SCB / FVD; oneens: PRO / D66 / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Kop: 'Alleen bouwen voor eigen groei'."
+ },
+ {
+  "id": "wonen-dorpsrand",
+  "ernst": "klein",
+  "formulering": "Stelling is helder. De kop 'Dorpen laten groeien' is positief geladen (wie is ertegen dat dorpen groeien?) en beschrijft de keuze niet: het gaat om het verleggen van de bouwgrens.",
+  "uitleg": "Feitelijk en neutraal; noemt zowel verdichten als verlies van open landschap.",
+  "voor_tegen": "Beide kanten wat beeldend: voor 'alles in de bestaande kern te proppen', tegen 'uniek en onvervangbaar ... komt nooit meer terug'. In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer bouwen (buiten de kern). Eens: PRO / D66 / VVD / CDA / ChristenUnie / BVNL / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / BBB; oneens: Lokaal Eén / SP / SCB / Partij voor de Dieren / Volt / FVD (eens ligt rechts van oneens).",
+  "voorstel": "Kop: 'Bouwgrens rond dorpen verleggen'."
+ },
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "ernst": "klein",
+  "formulering": "Helder; 'eens' = niet bouwen. Kop neutraal.",
+  "uitleg": "Feitelijk. Somt vooral de obstakels voor bouwen op (weidevogels, toestemming provincie, natuurcompensatie, afwijzing 2022); dat zijn feiten, maar de kant van de woningbouw krijgt geen zin.",
+  "voor_tegen": "Tegen overdrijft: 'in één keer honderden woningen', terwijl de uitleg zelf 150 tot 180 woningen noemt.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder bouwen / landschap behouden. Eens: PRO / CDA / Lokaal Eén / ChristenUnie / Volt / FVD; oneens: Hart voor Hilversum / D66 / VVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Tegen: 'Een nieuwe wijk levert in één keer zo'n 150 tot 180 woningen op voor de dorpen, waar inbreiden maar kleine aantallen geeft.'"
+ },
+ {
+  "id": "wonen-hoogbouw",
+  "ernst": "geen",
+  "formulering": "Helder en neutraal geformuleerd, kop ook.",
+  "uitleg": "Neutraal, noemt voor- en nadeel.",
+  "voor_tegen": "In evenwicht; tegen noemt drie nadelen, voor één voordeel, maar even concreet.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer bouwen / hoger. Eens: PRO / D66 / SP / ChristenUnie / BVNL / SCB / Opstand.nu / Partij voor de Dieren / LFD / Volt; oneens: CDA / Lokaal Eén / Gewoon, Hilversum / Lijst Van Oostveen / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "ernst": "klein",
+  "formulering": "Twee vragen in één: (1) hoogbouw alleen bij stations en centrum, (2) niet in de Meent. Wie hoogbouw bij stations wil maar ook elders, of alleen de Meent wil uitzonderen, kan niet eenduidig antwoorden. 'De stations' is onduidelijk (Hilversum heeft er drie, de dorpen geen). Inhoudelijk deels gespiegeld aan wonen-hoogbouw.",
+  "uitleg": "Neutraal; legt het illusielandschap uit en noemt de 25 meter bij de Meent.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "behoudend (hoogte beperken). Eens: Hart voor Hilversum / VVD / CDA / Gewoon, Hilversum / Dorp voor Dorp / Lijst Van Oostveen / FVD; oneens: PRO / D66 / SP / ChristenUnie / BVNL / SCB / Stop Betaald Parkeren-VIP / Opstand.nu / LFD / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Stelling: 'Hoge woongebouwen komen alleen bij de stations en in het centrum van Hilversum, en nergens anders in wijken en dorpen.' (de Meent als voorbeeld naar de uitleg)."
+ },
+ {
+  "id": "wonen-kantoren-naar-wonen",
+  "ernst": "klein",
+  "formulering": "'Mogen' is permissief; met de toevoeging 'ook als er minder ruimte voor bedrijven overblijft' is de afweging wel helder.",
+  "uitleg": "Neutraal; noemt het mislukte compensatievoorstel van juni 2026 zonder partijnamen.",
+  "voor_tegen": "Beide retorisch: voor 'Een leeg kantoor helpt niemand', tegen 'wordt de gemeente een slaapstad' (overdreven). Voor is anderhalf keer zo lang als tegen.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer wonen, minder bedrijfsruimte. Eens: PRO / CDA / SP / ChristenUnie / BVNL / SCB / Dorp voor Dorp / Partij voor de Dieren / LFD / Volt; oneens: Hart voor Hilversum / D66 / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "ernst": "klein",
+  "formulering": "Helder; noemt het alternatief (vast minimum).",
+  "uitleg": "Grotendeels feitelijk. Slotzin geeft alleen de stem van ontwikkelaars ('projecten moeilijker rondkomen'), zonder tegengeluid (bijv. corporaties of huurders); dat trekt licht naar 'eens'.",
+  "voor_tegen": "In evenwicht; voor claimt 'per saldo meer woningen' zonder onderbouwing, tegen is even stellig.",
+  "partijen_genoemd": [],
+  "richting_eens": "marktgericht / minder vaste eisen. Eens: Hart voor Hilversum / VVD / BVNL / SCB / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / LFD / FVD / BBB; oneens: PRO / D66 / SP / ChristenUnie / Dorp voor Dorp / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg slotzin: 'Ontwikkelaars zeggen dat projecten met een hoge vaste eis moeilijker rondkomen; voorstanders van een vaste eis wijzen erop dat anders vooral duurdere woningen worden gebouwd.'"
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "ernst": "middel",
+  "formulering": "Helder en precies (de wettelijke helft).",
+  "uitleg": "Neutraal; noemt voor- en nadeel.",
+  "voor_tegen": "Tegen spreekt van 'voorrang op herkomst'. De stelling gaat over binding (wonen of werken), niet over herkomst; 'herkomst' roept afkomst/etniciteit op en zet de eens-kant in een kwaad daglicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "lokaal / eigen inwoners eerst. Eens: Hart voor Hilversum / VVD / CDA / Lokaal Eén / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / FVD / BBB; oneens: PRO / LFD (eens ligt rechts van oneens).",
+  "voorstel": "Tegen: 'Wie van buiten komt voor werk, liefde of een nieuwe start, verdient een gelijke kans; meer lokale voorrang maakt de wachtlijst als geheel niet korter.'"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "ernst": "klein",
+  "formulering": "Helder; 'cruciaal beroep' is de gangbare term. Ontkennende richting (afschaffen) maar niet verwarrend.",
+  "uitleg": "Neutraal; beschrijft beide richtingen.",
+  "voor_tegen": "Tegen is dramatiserend ('loopt de gemeente vast'); voor is zakelijk. Licht ongelijk.",
+  "partijen_genoemd": [],
+  "richting_eens": "gelijke behandeling op wachttijd (afschaffen voorrang). Eens: PRO / ChristenUnie; oneens: Hart voor Hilversum / D66 / VVD / CDA / Lokaal Eén / SP / Dorp voor Dorp / Opstand.nu / Volt (eens ligt links van oneens).",
+  "voorstel": "Tegen: 'Zorgmedewerkers, leraren en agenten zijn nodig in de gemeente, maar kunnen hier vaak geen woning betalen; voorrang helpt ze hier te blijven werken.'"
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "ernst": "klein",
+  "formulering": "'Kan beter besteden' is een waardeoordeel in de stelling, maar dat is bij een stelling acceptabel. Onduidelijk of 'eens' ook betekent dat de bestaande Wijdemeerse lening verdwijnt. 'Laten bouwen' is vaag (hoe?).",
+  "uitleg": "Na een neutrale beschrijving noemt de uitleg alleen de argumenten van tegenstanders van de lening ('vrezen hogere schulden en hogere huizenprijzen'); de argumenten van voorstanders ontbreken. Trekt naar 'eens'.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder subsidie aan kopers, meer aanbod. Eens: SCB / Opstand.nu / LFD / FVD; oneens: Hart voor Hilversum / PRO / D66 / VVD / CDA / Lokaal Eén / SP / ChristenUnie / BVNL / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / Volt / BBB (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg aanvullen: 'Voorstanders zien de lening als snelle hulp voor starters die nu willen kopen, die bovendien terugkomt in de gemeentekas.' En vermelden wat 'eens' betekent voor de lening in Wijdemeren."
+ },
+ {
+  "id": "wonen-parkeernorm",
+  "ernst": "klein",
+  "formulering": "'Mag de gemeente ... eisen' is vreemd: de gemeente stelt de norm zelf vast. 'Veel minder' is vaag.",
+  "uitleg": "Neutraal; noemt voor- en nadeel.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder auto-eisen, dichter bouwen. Eens: VVD / ChristenUnie / Partij voor de Dieren / LFD / Volt; oneens: BVNL / SCB / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Bij nieuwbouw dicht bij een station eist de gemeente veel minder parkeerplaatsen per woning dan nu.'"
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "ernst": "geen",
+  "formulering": "Helder en concreet (jaartallen, gebied).",
+  "uitleg": "Feitelijk; meldt dat onafhankelijk onderzoek in 2027 komt.",
+  "voor_tegen": "Als enige stelling met 'Volgens voorstanders/tegenstanders'. Dat is netjes, omdat beide argumenten feitelijk omstreden zijn. 'Doorgedrukt' is geladen, maar wel toegeschreven. Wel inconsequent ten opzichte van de rest.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder parkeerregulering. Eens: SP / BVNL / SCB / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB; oneens: Hart voor Hilversum / PRO / D66 / VVD / CDA / Lokaal Eén / ChristenUnie / Gewoon, Hilversum / Opstand.nu / Partij voor de Dieren (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal; legt de gevolgen voor dorpen na de fusie uit.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "bewonersinspraak / minder centrale regulering. Eens: Hart voor Hilversum / D66 / VVD / Lokaal Eén / SP / ChristenUnie / Volt; oneens: PRO / Opstand.nu / Partij voor de Dieren (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "verkeer-bezoek",
+  "ernst": "klein",
+  "formulering": "Status-quo-formulering ('blijft ... zoals nu'). Daardoor kan 'oneens' twee tegengestelde dingen betekenen: gratis bezoek of juist een hoger tarief. Het politieke voorstel (gratis bezoek: CDA, Van Oostveen) wordt zo de oneens-kant.",
+  "uitleg": "Feitelijk. Noemt het CDA als voorsteller van het alternatief (300 uur per kwartaal).",
+  "voor_tegen": "Tegen is dramatiserend ('geen enkele drempel ... anders vereenzamen mensen'); voor is zakelijk.",
+  "partijen_genoemd": [
+   "CDA"
+  ],
+  "richting_eens": "status quo (betaald bezoek) tegenover gratis. Eens: PRO / D66 / VVD / ChristenUnie / Gewoon, Hilversum / Volt; oneens: Hart voor Hilversum / CDA / SP / BVNL / SCB / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'In wijken met betaald parkeren parkeert bezoek van bewoners gratis, bijvoorbeeld met een vast aantal gratis uren per huishouden.' (en voor/tegen omdraaien). Tegen dan zonder 'vereenzamen'."
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk; noemt kosten en mogelijke gevolgen.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder parkeerkosten / pro-auto. Eens: CDA / Lokaal Eén / SP / BVNL / Lijst Van Oostveen / FVD; oneens: PRO / D66 / VVD / ChristenUnie / SCB / Opstand.nu / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "verkeer-vergunning",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk. Geldt in de praktijk alleen voor Hilversumse wijken; kan erbij.",
+  "voor_tegen": "In evenwicht ('geen luxe' tegenover 'eerlijke prijs').",
+  "partijen_genoemd": [],
+  "richting_eens": "minder parkeerkosten / pro-auto. Eens: CDA / BVNL / FVD; oneens: PRO / D66 / VVD / Gewoon, Hilversum / Opstand.nu / Partij voor de Dieren (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "verkeer-opbrengst",
+  "ernst": "klein",
+  "formulering": "'Mag ook ... en hoeft niet alleen' is een dubbele, permissieve formulering met een ontkenning. Omdat het geld volgens de uitleg nu al niet vastligt, is 'eens' eigenlijk de status quo en zit het politieke voorstel (geld terug naar parkeren, OpStand.nu) aan de oneens-kant.",
+  "uitleg": "Feitelijk en helder.",
+  "voor_tegen": "Tegen gebruikt 'verkapte belasting' (geladen, maar een herkenbaar standpunt). In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "parkeergeld voor fiets/groen/ov. Eens: PRO / D66 / Lokaal Eén / SP / ChristenUnie / BVNL / Opstand.nu; oneens: VVD / FVD (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Geld uit betaald parkeren gaat ook naar fietspaden, groen en openbaar vervoer, niet alleen naar parkeervoorzieningen.'"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet ('ook als ... parkeerplaatsen verdwijnen').",
+  "uitleg": "Kort en neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "fiets boven auto. Eens: PRO / D66 / CDA / SP / ChristenUnie / Partij voor de Dieren / Volt; oneens: BVNL / SCB / Dorp voor Dorp / Opstand.nu / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "verkeer-autoluw",
+  "ernst": "klein",
+  "formulering": "Twee dingen in één: autoluw centrum en parkeergarages naar de rand. De uitleg zegt zelf dat garages aan de rand pas 'op termijn' komen.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder auto in centrum. Eens: PRO / SP / Opstand.nu / Partij voor de Dieren / Volt; oneens: VVD / CDA / BVNL / LFD / FVD (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Het centrum van Hilversum wordt autoluw: minder autoverkeer en meer ruimte voor voetgangers en fietsers.'"
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "ernst": "klein",
+  "formulering": "Omgekeerde formulering: het voorstel (een zone) wordt 'oneens'. 'Blijven welkom' is warm en kleurend; de kop 'Diesel welkom in centrum' is speels en geladen. De uitleg legt eens en oneens wel goed uit.",
+  "uitleg": "Feitelijk; definieert eens en oneens expliciet. Goed.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "geen milieuzone / pro-ondernemer. Eens: Hart voor Hilversum / VVD / CDA / Lokaal Eén / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / LFD / FVD / BBB; oneens: PRO / D66 / ChristenUnie / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Stelling: 'In het centrum van Hilversum komt geen zero-emissiezone voor bestel- en vrachtauto's.' Kop: 'Geen zero-emissiezone'."
+ },
+ {
+  "id": "verkeer-30-hoofdwegen",
+  "ernst": "klein",
+  "formulering": "Twee delen die samen één grens trekken; dat is acceptabel. Kop neutraal.",
+  "uitleg": "'Steeds meer gemeenten maken 30 km/u de standaard' is een meeloopargument dat licht naar 'oneens' trekt.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "pro-doorstroming auto. Eens: Hart voor Hilversum / VVD / CDA / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Lijst Van Oostveen / LFD / Volt / FVD / BBB; oneens: PRO / D66 / Lokaal Eén / SP / ChristenUnie / Opstand.nu / Partij voor de Dieren (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg: 'Sommige gemeenten maken 30 km/u de standaard, met 50 alleen op een paar hoofdroutes.'"
+ },
+ {
+  "id": "verkeer-30-dorpswegen",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet ('ook voordat de weg is aangepast').",
+  "uitleg": "Feitelijk, met de Wijdemeerse context.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "verkeersveiligheid / snelheid omlaag. Eens: Hart voor Hilversum / PRO / D66 / SP / ChristenUnie / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt; oneens: VVD / CDA / Lokaal Eén / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / LFD / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "klimaat-alleen-rijk",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "'Schrappen geeft minder ... juridische risico's' wordt als feit gebracht, maar is een argument van één kant. Verder neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder lokaal klimaatbeleid. Eens: VVD / BVNL / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB; oneens: Hart voor Hilversum / PRO / D66 / CDA / Lokaal Eén / SP / ChristenUnie / SCB / Opstand.nu / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg: 'Volgens voorstanders geeft schrappen minder verplichtingen en juridische risico's; tegenstanders wijzen op minder houvast om voortgang te meten.'"
+ },
+ {
+  "id": "klimaat-2040",
+  "ernst": "geen",
+  "formulering": "Helder; noemt het landelijke referentiejaar.",
+  "uitleg": "Neutraal, noemt de kosten.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer klimaatambitie. Eens: PRO / D66 / SP / Partij voor de Dieren / Volt; oneens: Hart voor Hilversum / VVD / CDA / Lokaal Eén / ChristenUnie / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "klimaat-gas-tijdpad",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer klimaatsturing. Eens: PRO / D66 / Lokaal Eén / SP / ChristenUnie / Opstand.nu / Partij voor de Dieren / Volt; oneens: VVD / CDA / BVNL / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "klimaat-warmtenet-markt",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Noemt beide visies. Vermeldt niet dat de landelijke Wet collectieve warmte publiek meerderheidseigendom van warmtebedrijven voorschrijft; dan is 'eens' misschien maar beperkt mogelijk. Controleren en zo nodig vermelden.",
+  "voor_tegen": "Tegen gebruikt 'commerciële monopolist' (licht geladen). In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder overheid / markt. Eens: LFD / FVD; oneens: PRO / SP / ChristenUnie / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg aanvullen met wat de Wet collectieve warmte voorschrijft over publiek eigendom (na controle)."
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "ernst": "klein",
+  "formulering": "Conditionele constructie ('Ook als omwonenden ervoor zijn') is lastig: wie windturbines steunt ongeacht de mening van omwonenden, valt ook bij 'oneens'. De kop 'Altijd nee tegen grote windturbines' heeft een licht negatieve klank ('altijd nee').",
+  "uitleg": "Feitelijk; meldt terecht dat de provincie Utrecht beslist.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "tegen wind. Eens: Hart voor Hilversum / VVD / CDA / Lokaal Eén / SP / ChristenUnie / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / FVD / BBB; oneens: PRO / D66 / BVNL / SCB / Partij voor de Dieren / LFD (eens ligt rechts van oneens).",
+  "voorstel": "Stelling: 'De gemeente verzet zich tegen grote windturbines in en vlak bij de gemeente, ook als omwonenden er wel voor zijn.' Kop: 'Tegen grote windturbines, ook bij draagvlak'."
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Begint met 'Tegen grote windturbines ... is veel verzet', waardoor de kleine molen als compromis wordt gepresenteerd. Licht sturend, verder feitelijk.",
+  "voor_tegen": "Tegen gebruikt een hellend-vlak-argument ('opstap naar meer'), een herkenbaar standpunt. In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer duurzame opwek. Eens: PRO / D66 / CDA / ChristenUnie / SCB / Partij voor de Dieren / LFD; oneens: VVD / Lijst Van Oostveen / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "ernst": "klein",
+  "formulering": "Voorwaarde in de stelling ('als de grond daarnaast ... landbouw') maakt het voor voorstanders van gewone zonneweides onduidelijk hoe ze moeten antwoorden. De kop laat de voorwaarde weg.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer duurzame opwek. Eens: PRO / SP / Gewoon, Hilversum / LFD; oneens: CDA / BVNL / Stop Betaald Parkeren-VIP / Partij voor de Dieren / Volt / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Kop: 'Zonnepanelen boven landbouwgrond'."
+ },
+ {
+  "id": "klimaat-kern-verkenning",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk (besluit college juni 2026).",
+  "voor_tegen": "Voor spreekt van 'halverwege afbreken', terwijl de uitleg zegt dat een eerste verkenning is afgerond met een negatieve uitkomst. Tegen is sterker onderbouwd.",
+  "partijen_genoemd": [],
+  "richting_eens": "pro-kernenergie. Eens: Hart voor Hilversum / VVD / CDA / SP / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / LFD / Volt / FVD / BBB; oneens: PRO / ChristenUnie / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen (eens ligt rechts van oneens).",
+  "voorstel": "Voor: 'Een kleine kerncentrale kan veel CO2-vrije stroom leveren op weinig ruimte; de techniek ontwikkelt zich snel, dus het dossier sluiten is voorbarig.'"
+ },
+ {
+  "id": "klimaat-kern-locatie",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "pro-kernenergie. Eens: CDA / FVD; oneens: PRO / D66 / Lokaal Eén / ChristenUnie / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "klimaat-houtstook",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer regulering / gezondheid. Eens: PRO / D66 / Lokaal Eén / SP / ChristenUnie / Opstand.nu / Partij voor de Dieren; oneens: Hart voor Hilversum / VVD / CDA / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-afsluiten",
+  "ernst": "geen",
+  "formulering": "Helder; 'tijdelijk' en 'kwetsbaar' beperken de vraag redelijk.",
+  "uitleg": "Feitelijk; meldt de motie van 2024.",
+  "voor_tegen": "Tegen generaliseert ('wie gebieden afsluit') waar de stelling over tijdelijke afsluiting van kwetsbare stukken gaat; licht stroman, maar acceptabel.",
+  "partijen_genoemd": [],
+  "richting_eens": "natuur boven recreatie. Eens: PRO / CDA / SP / ChristenUnie / Opstand.nu / Partij voor de Dieren; oneens: VVD / BVNL / Dorp voor Dorp / Lijst Van Oostveen / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-snelvaren",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk en neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "natuur boven recreatie. Eens: PRO / Partij voor de Dieren; oneens: VVD / SP / LFD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-recreant-betaalt",
+  "ernst": "klein",
+  "formulering": "Twee groepen in één (booteigenaren, ook inwoners, en toeristen). 'Via gemeentebelastingen ... aan schoon water en natuur' suggereert een oormerk dat bij belastingen niet bestaat. Inhoudelijk het spiegelbeeld van financien-toerist-forens-laag, zodat hetzelfde standpunt twee keer meetelt.",
+  "uitleg": "Noemt de VVD als bron voor een bedrag ('volgens de VVD zo'n 75.000 euro per jaar'). Een partij als bron voor een feit is ongelukkig; gebruik de begroting.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [
+   "VVD"
+  ],
+  "richting_eens": "meer heffingen / natuur. Eens: SP / Opstand.nu / Partij voor de Dieren; oneens: Hart voor Hilversum / VVD / BVNL / Lijst Van Oostveen / LFD / BBB (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Bezoekers en booteigenaren in het plassengebied gaan meer gemeentebelasting betalen.' Bedrag uit de begroting van Wijdemeren halen in plaats van 'volgens de VVD'. Overweeg één van de twee toeristenbelasting-stellingen te schrappen of duidelijk te onderscheiden."
+ },
+ {
+  "id": "natuur-snippergroen",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "Voor voegt een voorwaarde toe die niet in de stelling staat ('met weinig waarde voor natuur').",
+  "partijen_genoemd": [],
+  "richting_eens": "bouwen boven groen. Eens: D66 / VVD / SP / Gewoon, Hilversum / Lijst Van Oostveen / LFD; oneens: PRO / Lokaal Eén / ChristenUnie / BVNL / SCB / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Partij voor de Dieren / Volt / FVD / BBB (geen duidelijke links-rechtskant).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-groennorm",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "Tegen 'starre norm' is licht geladen; in evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "groen boven bouwen / meer regels. Eens: PRO / D66 / Lokaal Eén / ChristenUnie / Partij voor de Dieren; oneens: Hart voor Hilversum / VVD / Gewoon, Hilversum / LFD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-bomen",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk (vergunningsregels beide gemeenten).",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "bouwen/verkeer boven bestaande bomen. Eens: VVD / CDA / Lokaal Eén / BVNL / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / LFD; oneens: Partij voor de Dieren / FVD (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-maaien",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "netheid boven biodiversiteit. Eens: CDA / BVNL / Gewoon, Hilversum; oneens: PRO / Lokaal Eén / SP / Partij voor de Dieren / BBB (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk (Gebiedsakkoord 2017).",
+  "voor_tegen": "Tegen leunt op traditie ('al eeuwen'); acceptabel. In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "natuur boven landbouw. Eens: PRO / D66 / Lokaal Eén / SCB / Opstand.nu / Partij voor de Dieren / Volt; oneens: BVNL / Gewoon, Hilversum / Dorp voor Dorp / Lijst Van Oostveen / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "natuur-stikstof-boeren",
+  "ernst": "middel",
+  "formulering": "De stelling zelf is eerlijk (prijs: 'ook als de natuur daardoor trager herstelt'). De kop 'Boeren beschermen tegen stikstofregels' is geladen: 'beschermen' maakt van 'eens' de zorgzame keuze en van de regels een bedreiging.",
+  "uitleg": "Feitelijk; noemt de beperkte rol van de gemeente.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "pro-boer / minder milieuregels. Eens: Dorp voor Dorp / LFD / FVD / BBB; oneens: PRO / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Kop: 'Verzet tegen strengere stikstofregels'."
+ },
+ {
+  "id": "zorg-minima-grens",
+  "ernst": "geen",
+  "formulering": "Helder; 'nog' maakt de verlaging duidelijk.",
+  "uitleg": "Neutraal; noemt voor- en nadeel.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder uitgaven / smaller vangnet. Eens: VVD / Dorp voor Dorp / FVD; oneens: Hart voor Hilversum / PRO / D66 / CDA / Lokaal Eén / SP / ChristenUnie / BVNL / SCB / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / LFD / Volt / BBB (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk (voorjaarsnota, motie juli 2026).",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "begrotingsdiscipline. Eens: VVD / CDA / ChristenUnie; oneens: Hart voor Hilversum / PRO / SP / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / LFD / Volt / BBB (geen duidelijke links-rechtskant).",
+  "voorstel": null
+ },
+ {
+  "id": "zorg-wmo-kwijtschelding",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk; het bedrag van de eigen bijdrage zou de afweging concreter maken.",
+  "voor_tegen": "Tegen stelt 'al laag' zonder bedrag; in evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer inkomenssteun. Eens: Hart voor Hilversum / SP / ChristenUnie / BVNL / Opstand.nu / Partij voor de Dieren; oneens: PRO / D66 / VVD / CDA (geen duidelijke links-rechtskant).",
+  "voorstel": null
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Neutraal; noemt voor- en nadeel.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "algemene voorzieningen / minder bureaucratie. Eens: PRO / CDA / Volt; oneens: SP / BVNL / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "zorg-aanbieders-een",
+  "ernst": "klein",
+  "formulering": "'Eén vaste zorgaanbieder' is extremer dan het debat (minder aanbieders). Daardoor zijn er weinig 'eens'-antwoorden en zegt de stelling weinig over het echte verschil.",
+  "uitleg": "Neutraal; noemt voor- en nadelen.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder marktwerking. Eens: PRO / SP; oneens: ChristenUnie / LFD / BBB (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'De gemeente werkt per wijk of dorp met veel minder zorgaanbieders voor jeugdhulp en Wmo, ook als inwoners dan minder te kiezen hebben.'"
+ },
+ {
+  "id": "zorg-bijstand-tegenprestatie",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal; noemt beide visies in één zin.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "strenger / wederkerigheid. Eens: VVD / LFD / FVD; oneens: Dorp voor Dorp / Opstand.nu / Partij voor de Dieren (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "ernst": "klein",
+  "formulering": "Licht dubbel (zorgen voor én betalen), maar de kop maakt duidelijk dat betalen de kern is.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "Voor claimt 'de goedkoopste manier' zonder onderbouwing; in evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer gemeentelijke voorzieningen. Eens: Hart voor Hilversum / PRO / D66 / VVD / CDA / Lokaal Eén / SP / ChristenUnie / SCB / Gewoon, Hilversum / Dorp voor Dorp / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt / BBB; oneens: BVNL / LFD / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "zorg-buurthuis-jaarsubsidie",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk (voorstel nov 2025); noemt voor- en nadeel.",
+  "voor_tegen": "Tegen ('verdrinken in formulieren') iets emotioneler; acceptabel.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer controle op subsidie. Eens: VVD / CDA / Lokaal Eén / LFD / FVD; oneens: Hart voor Hilversum / PRO / SP / ChristenUnie / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt / BBB (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "ernst": "geen",
+  "formulering": "Helder; dwingt een keuze.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "preventie boven handhaving. Eens: Partij voor de Dieren / Lijst Van Oostveen / Volt; oneens: Hart voor Hilversum / VVD / BVNL / Stop Betaald Parkeren-VIP / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "prioriteit zware overlast. Eens: Stop Betaald Parkeren-VIP / LFD; oneens: D66 / VVD / CDA / Lokaal Eén / ChristenUnie / Partij voor de Dieren / FVD (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk; noemt beide kanten.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer toezicht. Eens: Hart voor Hilversum / D66 / VVD / CDA / ChristenUnie / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / FVD / BBB; oneens: SP / Stop Betaald Parkeren-VIP / Partij voor de Dieren / Lijst Van Oostveen / LFD / Volt (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "veiligheid-coffeeshops-aantal",
+  "ernst": "geen",
+  "formulering": "Helder. 'Hilversum' is hier de nieuwe gemeente.",
+  "uitleg": "Feitelijk; noemt rol burgemeester.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "restrictiever drugsbeleid. Eens: Hart voor Hilversum / PRO / CDA / ChristenUnie / SCB; oneens: D66 / VVD / SP / BVNL / Dorp voor Dorp / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / LFD / Volt / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "liberaler / status quo. Eens: SP / BVNL / Gewoon, Hilversum / LFD / Volt; oneens: Lokaal Eén / ChristenUnie (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "ernst": "klein",
+  "formulering": "'Gewoon open' is kleurend: het normaliseert de eens-kant.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "Voor verwijst naar Ter Apel, tegen naar eigen inwoners eerst; in evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer opvang. Eens: PRO / D66 / CDA / SP / ChristenUnie / SCB / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt; oneens: Hart voor Hilversum / BVNL / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Als de Spreidingswet verdwijnt, houdt de gemeente haar opvangplekken voor asielzoekers open.'"
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal; noemt voor- en nadeel.",
+  "voor_tegen": "Voor voegt 'kleinschalige' toe, wat niet in de stelling staat.",
+  "partijen_genoemd": [],
+  "richting_eens": "structurele opvang. Eens: Lokaal Eén / Gewoon, Hilversum / Opstand.nu; oneens: VVD / CDA / BVNL / Dorp voor Dorp / Stop Betaald Parkeren-VIP / LFD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "ernst": "klein",
+  "formulering": "'Niet de gemeenteraad' klopt niet met de uitleg: daar kiest het college. Kop neutraal.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder opvang / directe inspraak. Eens: BVNL / Dorp voor Dorp / Stop Betaald Parkeren-VIP / LFD / BBB; oneens: PRO / D66 / VVD / CDA / SP / ChristenUnie / Gewoon, Hilversum / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Stelling: '... hebben de omwonenden het laatste woord, niet het college of de gemeenteraad.'"
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Noemt de VVD als voorstander van het alternatief (heropenen met willekeurig gekozen inwoners). 'Bijna unaniem' is feitelijk maar licht aanprijzend.",
+  "voor_tegen": "Voor beweert 'en werkt' zonder onderbouwing.",
+  "partijen_genoemd": [
+   "VVD"
+  ],
+  "richting_eens": "Hilversums opvangbeleid doortrekken. Eens: D66 / CDA / Lokaal Eén / SP / ChristenUnie / Gewoon, Hilversum / Partij voor de Dieren; oneens: VVD / Dorp voor Dorp / FVD (eens ligt links van oneens).",
+  "voorstel": "Voor: 'Het kader is met inwoners opgesteld en door de raad bijna unaniem gesteund; opnieuw beginnen levert vertraging en onzekerheid op.'"
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "De uitleg noemt alleen het gevolg dat tegen 'eens' pleit (opvang raakt verstopt) en niet het gevolg dat voor 'eens' pleit (andere woningzoekenden wachten langer). 'Juist uit de wet gehaald' is licht kleurend.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "geen voorrang statushouders. Eens: Hart voor Hilversum / CDA / Lokaal Eén / SP / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB; oneens: PRO / D66 / VVD / ChristenUnie / Opstand.nu / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg slotzin: 'Met voorrang gaat een deel van de vrijkomende sociale huurwoningen naar statushouders en wachten anderen langer; zonder voorrang blijven statushouders langer in de opvang.'"
+ },
+ {
+  "id": "asiel-regenbooggeld",
+  "ernst": "geen",
+  "formulering": "Helder. (Plaatsing onder 'Asiel' is wat vreemd.)",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer inclusiebeleid. Eens: PRO / D66 / SP / Partij voor de Dieren / Volt; oneens: LFD / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "ernst": "geen",
+  "formulering": "'Flink meer' is vaag, maar de uitleg definieert eens en oneens.",
+  "uitleg": "Feitelijk; definieert eens en oneens. Goed.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "wonen boven bedrijven. Eens: PRO / SP / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Partij voor de Dieren / Lijst Van Oostveen; oneens: Hart voor Hilversum / D66 / VVD / CDA / ChristenUnie / BVNL / SCB / Gewoon, Hilversum / Opstand.nu / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "ernst": "middel",
+  "formulering": "'tot de gemeente het financieel weer aankan' veronderstelt dat de gemeente het nu niet kan betalen. Wie tegen uitstel is, moet die aanname eerst bestrijden.",
+  "uitleg": "'In een tijd waarin de gemeente moet bezuinigen' ondersteunt dezelfde aanname; verder feitelijk en noemt kosten van uitstel.",
+  "voor_tegen": "Voor brengt de aanname als feit ('kan ... nu niet betalen'); tegen gebruikt 'broodnodige'. Ongeveer even sterk.",
+  "partijen_genoemd": [],
+  "richting_eens": "bezuinigen / minder grote projecten. Eens: VVD / Opstand.nu / Lijst Van Oostveen; oneens: PRO / CDA / Lokaal Eén / ChristenUnie / BVNL / SCB / LFD / Volt (geen duidelijke links-rechtskant).",
+  "voorstel": "Stelling: 'De bouw van Bruisend Hart op het Oosterspoorplein wordt uitgesteld om geld te besparen, ook als woningen daardoor later komen.'"
+ },
+ {
+  "id": "economie-centrum-compacter",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal; noemt het alternatief.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "herstructurering centrum. Eens: PRO / VVD / ChristenUnie / BVNL / Volt; oneens: Lokaal Eén / SP / Opstand.nu (geen duidelijke links-rechtskant).",
+  "voorstel": null
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Geeft alleen de argumenten van tegenstanders van ruime zondagsopening (zondagsrust, kleine winkeliers); de argumenten van voorstanders ontbreken.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer regulering / zondagsrust. Eens: CDA / SP / ChristenUnie; oneens: Hart voor Hilversum / PRO / D66 / VVD / Lokaal Eén / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Lijst Van Oostveen / LFD / Volt / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Uitleg: '... Voorstanders van ruime openingstijden wijzen op keuzevrijheid voor winkeliers en klanten.'"
+ },
+ {
+  "id": "economie-citymarketing",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk; definieert 'oneens'.",
+  "voor_tegen": "Tegen ('Bezoekers komen toch wel') is zwakker en minder concreet dan voor.",
+  "partijen_genoemd": [],
+  "richting_eens": "gemeentelijke uitgaven voor promotie. Eens: Hart voor Hilversum / PRO / D66 / VVD / ChristenUnie / BVNL / SCB / Gewoon, Hilversum / Opstand.nu / Lijst Van Oostveen / FVD / BBB; oneens: CDA / Lokaal Eén / SP / Partij voor de Dieren / LFD (geen duidelijke links-rechtskant).",
+  "voorstel": "Tegen: 'Het effect van citymarketing is moeilijk aan te tonen; het geld kan beter naar buurten, voorzieningen of natuurbeheer.'"
+ },
+ {
+  "id": "economie-stadsfonds-afschaffen",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Slotzin ('daardoor stijgt hun belasting') legt de nadruk op een nadeel en trekt licht naar 'eens'; wel feitelijk.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder heffingen voor ondernemers. Eens: FVD; oneens: VVD / CDA / SP / Dorp voor Dorp (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "groei recreatie boven natuur. Eens: D66 / VVD / BVNL / Dorp voor Dorp / Stop Betaald Parkeren-VIP / FVD / BBB; oneens: PRO / SCB / Opstand.nu / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "ernst": "middel",
+  "formulering": "De stelling veronderstelt dat Hilversum minder uitgeeft dan vergelijkbare steden; anders zou 'eens' een bezuiniging kunnen betekenen.",
+  "uitleg": "De aanname komt van een partij: 'volgens onder meer PRO'. Er is geen onafhankelijke bron (bijv. CBS/Iv3-cijfers per inwoner).",
+  "voor_tegen": "Voor neemt de partijclaim over als feit ('Hilversum loopt nu achter').",
+  "partijen_genoemd": [
+   "PRO"
+  ],
+  "richting_eens": "meer cultuuruitgaven. Eens: PRO / D66 / Lokaal Eén / SP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt; oneens: Hart voor Hilversum / VVD / Dorp voor Dorp / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Uitleg: geef cultuuruitgaven per inwoner uit een onafhankelijke bron en schrap 'volgens onder meer PRO'. Of herformuleer: 'De gemeente gaat meer geld aan kunst en cultuur uitgeven.'"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Noemt de VVD bij naam als voorstander; de andere kant blijft 'andere partijen'.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [
+   "VVD"
+  ],
+  "richting_eens": "minder subsidie / eindigheid. Eens: VVD / LFD / FVD; oneens: SP / Gewoon, Hilversum (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg: 'Sommige partijen willen dat zulke steun altijd eindig is; andere ...' (geen partijnaam, of beide kanten met naam)."
+ },
+ {
+  "id": "cultuur-dorpsgarantie",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "Voor gebruikt een fusiekritische formule ('een fusie waar ze zelf niet om vroegen'). Dat is politiek geladen, maar bij voor/tegen nog acceptabel.",
+  "partijen_genoemd": [],
+  "richting_eens": "dorpen beschermen. Eens: Hart voor Hilversum / CDA / Gewoon, Hilversum / Dorp voor Dorp / BBB; oneens: PRO / Lokaal Eén (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "cultuur-sportevenementen",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Noemt drie richtingen; neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer uitgaven voor evenementen. Eens: PRO / D66 / VVD / Lokaal Eén; oneens: Partij voor de Dieren / LFD (geen duidelijke links-rechtskant).",
+  "voorstel": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "ernst": "klein",
+  "formulering": "De doelzin ('zodat eigenaren ... makkelijker kunnen verduurzamen') noemt alleen het voordeel, zonder prijs.",
+  "uitleg": "Noemt wel het nadeel (historisch karakter); neutraal.",
+  "voor_tegen": "Tegen doet een emotioneel beroep ('wie trots is op Dudok'); voor is praktisch.",
+  "partijen_genoemd": [],
+  "richting_eens": "deregulering. Eens: PRO / D66 / VVD / ChristenUnie / Gewoon, Hilversum / Partij voor de Dieren; oneens: CDA / Opstand.nu (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'De regels voor monumenten worden soepeler, ook als het historische karakter daardoor soms verandert.'"
+ },
+ {
+  "id": "cultuur-monumentale-scholen",
+  "ernst": "middel",
+  "formulering": "De voorwaarde 'als dat goedkoper en beter is' reikt het antwoord aan: wie is tegen iets dat goedkoper én beter is? De stelling meet zo nauwelijks een verschil.",
+  "uitleg": "Neutraal; legt beide opties uit.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "nieuwbouw boven renovatie. Eens: PRO / D66; oneens: VVD / ChristenUnie (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Bij scholen in monumentale gebouwen kiest de gemeente eerder voor nieuwbouw dan voor renovatie; het oude pand krijgt dan een andere functie.'"
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "ernst": "klein",
+  "formulering": "Helder. De kop 'Gekozen raad in elk dorp' laat 'en elke wijk' weg, en dat is juist de vergaande variant. Het id ('op-verzoek') past niet bij de inhoud.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer lokale democratie. Eens: SP / Dorp voor Dorp / FVD; oneens: Hart voor Hilversum / PRO / VVD / Lokaal Eén / BVNL / LFD (eens ligt rechts van oneens).",
+  "voorstel": "Kop: 'Gekozen raad in elk dorp en elke wijk'."
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "ernst": "klein",
+  "formulering": "Helder.",
+  "uitleg": "Slotzin geeft alleen het argument van tegenstanders ('extra bestuurslaag'); het argument van voorstanders ontbreekt in de uitleg.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "decentralisatie / zeggenschap dorpen. Eens: Hart voor Hilversum / PRO / SP / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / LFD / Volt / FVD / BBB; oneens: CDA / Lokaal Eén / BVNL / Gewoon, Hilversum (geen duidelijke links-rechtskant).",
+  "voorstel": "Uitleg: '... Voorstanders zien het als echte zeggenschap dicht bij inwoners; tegenstanders vrezen een extra bestuurslaag.'"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "ernst": "klein",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "Tegen spreekt van 'zes dorpen'. Elders in de site staan vijf (cultuur-dorpsgarantie) of zeven dorpen (PRO-kernboodschap); maak het aantal consistent.",
+  "partijen_genoemd": [],
+  "richting_eens": "meer dienstverlening dichtbij. Eens: Hart voor Hilversum / CDA / SP / ChristenUnie / SCB / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / LFD / FVD; oneens: PRO / D66 / VVD / Lokaal Eén / BVNL / Dorp voor Dorp / BBB (geen duidelijke links-rechtskant).",
+  "voorstel": null
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Feitelijk; 'financiële en bestuurlijke problemen in Wijdemeren' is gevoelig maar juist.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "dorpen eerst. Eens: BVNL / Stop Betaald Parkeren-VIP / FVD / BBB; oneens: PRO / D66 / VVD / CDA / Lokaal Eén / ChristenUnie / SCB / Opstand.nu / LFD (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "bestuur-gelijke-regels",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "harmonisatie / centralisatie. Eens: PRO / SP / Volt; oneens: Hart voor Hilversum / CDA / Lokaal Eén / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "bestuur-leges-dorpsevenementen",
+  "ernst": "klein",
+  "formulering": "Alleen over de dorpen. Wie legesvrijheid voor de hele gemeente wil, en wie overal leges wil, kunnen allebei twijfelen; 'oneens' is dubbelzinnig.",
+  "uitleg": "Feitelijk; legt het verschil goed uit.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "dorpen eigen regime / lage lasten. Eens: Hart voor Hilversum / VVD / CDA / Lokaal Eén / SP / BVNL / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Opstand.nu / Lijst Van Oostveen / LFD / Volt / FVD / BBB; oneens: PRO / D66 / ChristenUnie / SCB (eens ligt rechts van oneens).",
+  "voorstel": "Uitleg aanvullen: 'Eens betekent dat de dorpse vrijstelling blijft, ook als stad en dorp dan verschillende regels hebben; oneens dat overal dezelfde regel komt.'"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "ernst": "klein",
+  "formulering": "Status-quo-formulering: het politieke voorstel (uitslag altijd volgen) is 'oneens'. Een partij die tegen elk referendum is, weet niet goed wat ze moet antwoorden.",
+  "uitleg": "Feitelijk; legt goed uit dat een bindend referendum wettelijk niet kan.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "representatieve democratie (status quo). Eens: PRO / D66 / VVD / CDA / Lokaal Eén / Partij voor de Dieren / LFD; oneens: BVNL / Dorp voor Dorp / FVD (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'De gemeenteraad volgt de uitslag van een geldig referendum altijd.'"
+ },
+ {
+  "id": "bestuur-regio-minder",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "minder regionale samenwerking. Eens: VVD / BVNL / FVD; oneens: D66 / CDA / Lokaal Eén / Partij voor de Dieren / Volt (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "financien-tekort-lasten",
+  "ernst": "middel",
+  "formulering": "De doelzin noemt alleen geliefde voorzieningen ('buurthuizen, bibliotheek en zorg'). Dat maakt 'eens' aantrekkelijk; de prijs (hogere lasten) staat er wel in.",
+  "uitleg": "Feitelijk; definieert eens en oneens.",
+  "voor_tegen": "Voor smokkelt een voorwaarde binnen die niet in de stelling staat ('als de sterkste schouders meer betalen'; de OZB is geen inkomensheffing) en bagatelliseert ('een paar tientjes'). Tegen is emotioneel ('hebben het al duur genoeg'). Allebei retorisch.",
+  "partijen_genoemd": [],
+  "richting_eens": "hogere lasten, behoud voorzieningen. Eens: PRO / SP / SCB / Opstand.nu / Partij voor de Dieren / Volt; oneens: VVD / CDA / BVNL / Dorp voor Dorp / Stop Betaald Parkeren-VIP / LFD / FVD / BBB (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'Als de begroting een tekort heeft, gaan de lokale belastingen eerder omhoog dan dat voorzieningen worden geschrapt.' Voor: 'Voorzieningen die verdwijnen komen moeilijk terug; een beperkte stijging van de OZB is voor de meeste huishoudens te dragen.'"
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "ernst": "klein",
+  "formulering": "Status-quo-formulering ('blijft meestijgen ... in plaats van omlaag'). 'Oneens' kan in theorie ook betekenen: harder dan de inflatie laten stijgen. Door 'in plaats van omlaag' is het alternatief wel genoemd.",
+  "uitleg": "Feitelijk; noemt het alternatief.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "status quo lasten (geen verlaging). Eens: Hart voor Hilversum / PRO / D66 / VVD / CDA / Lokaal Eén / SP / SCB / Gewoon, Hilversum / Stop Betaald Parkeren-VIP / Opstand.nu / Partij voor de Dieren / Volt / BBB; oneens: BVNL / Dorp voor Dorp / LFD / FVD (eens ligt links van oneens).",
+  "voorstel": "Stelling: 'De OZB gaat de komende vier jaar omlaag, ook als de gemeente daardoor minder kan doen.'"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "ernst": "geen",
+  "formulering": "Helder.",
+  "uitleg": "Neutraal.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "bezuinigen op subsidies. Eens: Stop Betaald Parkeren-VIP / LFD; oneens: Hart voor Hilversum / PRO / D66 / CDA / Lokaal Eén / SP / ChristenUnie / BVNL / SCB / Gewoon, Hilversum / Opstand.nu / Partij voor de Dieren / Lijst Van Oostveen / Volt / BBB (eens ligt rechts van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "ernst": "klein",
+  "formulering": "'Hetzelfde vaste bedrag' klopt niet helemaal: volgens de uitleg hangt het bedrag af van het aantal personen.",
+  "uitleg": "Geeft drie argumenten van tegenstanders van betalen naar hoeveelheid (dumpen, administratie, luiers) en maar één impliciet argument van voorstanders.",
+  "voor_tegen": "Voor brengt dumpen als zekerheid ('leidt tot'); in evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "geen diftar / status quo. Eens: VVD / CDA / Lokaal Eén / BVNL / SCB / Gewoon, Hilversum / Dorp voor Dorp / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB; oneens: Hart voor Hilversum / ChristenUnie / Opstand.nu / Partij voor de Dieren (eens ligt rechts van oneens).",
+  "voorstel": "Stelling: 'Wat een huishouden voor afval betaalt, blijft los staan van hoeveel restafval het aanbiedt.'"
+ },
+ {
+  "id": "financien-toerist-forens-laag",
+  "ernst": "klein",
+  "formulering": "De doelzin ('om bezoekers ... te ontzien') noemt alleen het voordeel; 'laag' is vaag. Spiegelbeeld van natuur-recreant-betaalt.",
+  "uitleg": "Feitelijk; noemt voor- en nadeel.",
+  "voor_tegen": "Voor gebruikt 'melkkoe', een beladen woord dat ook als partijslogan wordt gebruikt (VVD: 'Parkeren is geen melkkoe').",
+  "partijen_genoemd": [],
+  "richting_eens": "lage heffingen / pro-recreatie. Eens: Hart voor Hilversum / VVD / CDA / BVNL / Gewoon, Hilversum / Lijst Van Oostveen / LFD / BBB; oneens: SP / Opstand.nu (eens ligt rechts van oneens).",
+  "voorstel": "Voor: 'Bezoekers en recreanten dragen de lokale economie; hogere heffingen jagen ze weg.'"
+ },
+ {
+  "id": "financien-inhuur-vaste-banen",
+  "ernst": "geen",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Neutraal; zegt goed dat de echte keuze is wat ervoor in de plaats komt.",
+  "voor_tegen": "In evenwicht.",
+  "partijen_genoemd": [],
+  "richting_eens": "groter ambtelijk apparaat. Eens: PRO / CDA / Lokaal Eén / Gewoon, Hilversum / Partij voor de Dieren / BBB; oneens: D66 / VVD / BVNL / FVD (eens ligt links van oneens).",
+  "voorstel": null
+ },
+ {
+  "id": "financien-investeringen-spreiden",
+  "ernst": "klein",
+  "formulering": "De stelling is helder. De kop 'Eerst schuld, dan bouwen' is verwarrend en past niet bij de stelling: het gaat om spreiden om de schuld te beperken.",
+  "uitleg": "Feitelijk.",
+  "voor_tegen": "Beide wat emotioneel ('toekomstige generaties' tegenover 'kinderen in slechte gebouwen'); voor is anderhalf keer zo lang.",
+  "partijen_genoemd": [],
+  "richting_eens": "financieel voorzichtig. Eens: Hart voor Hilversum / PRO / VVD / Lokaal Eén / ChristenUnie / Gewoon, Hilversum / Opstand.nu; oneens: SP / Stop Betaald Parkeren-VIP (geen duidelijke links-rechtskant).",
+  "voorstel": "Kop: 'Investeringen spreiden'."
+ },
+ {
+  "id": "financien-centrum-sober",
+  "ernst": "klein",
+  "formulering": "Helder; prijs expliciet.",
+  "uitleg": "Feitelijk (Kerkbrink).",
+  "voor_tegen": "Voor gebruikt 'prestige', een beladen woord dat ook in programma's wordt gebruikt ('geen prestigeprojecten').",
+  "partijen_genoemd": [],
+  "richting_eens": "sober / bezuinigen. Eens: Hart voor Hilversum / SP / ChristenUnie / BVNL / Stop Betaald Parkeren-VIP / Lijst Van Oostveen / LFD / FVD / BBB; oneens: PRO / D66 / Lokaal Eén / SCB (eens ligt rechts van oneens).",
+  "voorstel": "Voor: 'Dure materialen en fonteinen kosten veel; met een sobere inrichting is een plein ook prettig en blijft er geld over voor onderhoud.'"
+ }
+]

@@ -1,0 +1,820 @@
+{
+ "rijen": [
+  {
+   "partij": "Hart voor Hilversum",
+   "gelezen": 25,
+   "klopt": 20,
+   "een-stap": 1,
+   "een-stap-te-ver": 1,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 3,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 4,
+   "foutPct": 16,
+   "citaatNiet": 0,
+   "toonOpm": 2,
+   "abGelezen": 5,
+   "abFout": 2
+  },
+  {
+   "partij": "PRO",
+   "gelezen": 28,
+   "klopt": 26,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 0,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 0,
+   "foutPct": 0,
+   "citaatNiet": 0,
+   "toonOpm": 0,
+   "abGelezen": 8,
+   "abFout": 0
+  },
+  {
+   "partij": "D66",
+   "gelezen": 33,
+   "klopt": 28,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 1,
+   "ten-onrechte-geen": 2,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 3,
+   "foutPct": 9,
+   "citaatNiet": 1,
+   "toonOpm": 3,
+   "abGelezen": 12,
+   "abFout": 1
+  },
+  {
+   "partij": "VVD",
+   "gelezen": 29,
+   "klopt": 21,
+   "een-stap": 3,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 4,
+   "ten-onrechte-wel": 1,
+   "anders": 0,
+   "fout": 5,
+   "foutPct": 17,
+   "citaatNiet": 1,
+   "toonOpm": 0,
+   "abGelezen": 7,
+   "abFout": 0
+  },
+  {
+   "partij": "CDA",
+   "gelezen": 28,
+   "klopt": 20,
+   "een-stap": 5,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 3,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 3,
+   "foutPct": 11,
+   "citaatNiet": 0,
+   "toonOpm": 1,
+   "abGelezen": 6,
+   "abFout": 0
+  },
+  {
+   "partij": "Lokaal Eén",
+   "gelezen": 27,
+   "klopt": 18,
+   "een-stap": 3,
+   "een-stap-te-ver": 1,
+   "andere-richting": 2,
+   "ten-onrechte-geen": 3,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 6,
+   "foutPct": 22,
+   "citaatNiet": 0,
+   "toonOpm": 3,
+   "abGelezen": 8,
+   "abFout": 3
+  },
+  {
+   "partij": "SP",
+   "gelezen": 23,
+   "klopt": 19,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 2,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 2,
+   "foutPct": 9,
+   "citaatNiet": 1,
+   "toonOpm": 0,
+   "abGelezen": 6,
+   "abFout": 1
+  },
+  {
+   "partij": "ChristenUnie",
+   "gelezen": 28,
+   "klopt": 24,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 1,
+   "ten-onrechte-geen": 1,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 2,
+   "foutPct": 7,
+   "citaatNiet": 0,
+   "toonOpm": 2,
+   "abGelezen": 7,
+   "abFout": 1
+  },
+  {
+   "partij": "BVNL",
+   "gelezen": 29,
+   "klopt": 26,
+   "een-stap": 1,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 2,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 2,
+   "foutPct": 7,
+   "citaatNiet": 0,
+   "toonOpm": 0,
+   "abGelezen": 7,
+   "abFout": 0
+  },
+  {
+   "partij": "SCB",
+   "gelezen": 21,
+   "klopt": 17,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 1,
+   "ten-onrechte-wel": 1,
+   "anders": 0,
+   "fout": 2,
+   "foutPct": 10,
+   "citaatNiet": 0,
+   "toonOpm": 2,
+   "abGelezen": 1,
+   "abFout": 0
+  },
+  {
+   "partij": "Gewoon, Hilversum",
+   "gelezen": 27,
+   "klopt": 22,
+   "een-stap": 2,
+   "een-stap-te-ver": 1,
+   "andere-richting": 1,
+   "ten-onrechte-geen": 1,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 3,
+   "foutPct": 11,
+   "citaatNiet": 0,
+   "toonOpm": 2,
+   "abGelezen": 7,
+   "abFout": 2
+  },
+  {
+   "partij": "Dorp voor Dorp",
+   "gelezen": 27,
+   "klopt": 19,
+   "een-stap": 6,
+   "een-stap-te-ver": 1,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 1,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 2,
+   "foutPct": 7,
+   "citaatNiet": 1,
+   "toonOpm": 2,
+   "abGelezen": 4,
+   "abFout": 0
+  },
+  {
+   "partij": "Stop Betaald Parkeren-VIP",
+   "gelezen": 33,
+   "klopt": 23,
+   "een-stap": 3,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 7,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 7,
+   "foutPct": 21,
+   "citaatNiet": 0,
+   "toonOpm": 2,
+   "abGelezen": 4,
+   "abFout": 0
+  },
+  {
+   "partij": "Opstand.nu",
+   "gelezen": 24,
+   "klopt": 21,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 1,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 1,
+   "foutPct": 4,
+   "citaatNiet": 1,
+   "toonOpm": 1,
+   "abGelezen": 6,
+   "abFout": 0
+  },
+  {
+   "partij": "Partij voor de Dieren",
+   "gelezen": 25,
+   "klopt": 19,
+   "een-stap": 3,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 3,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 3,
+   "foutPct": 12,
+   "citaatNiet": 0,
+   "toonOpm": 1,
+   "abGelezen": 3,
+   "abFout": 0
+  },
+  {
+   "partij": "Lijst Van Oostveen",
+   "gelezen": 24,
+   "klopt": 21,
+   "een-stap": 3,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 0,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 0,
+   "foutPct": 0,
+   "citaatNiet": 0,
+   "toonOpm": 0,
+   "abGelezen": 7,
+   "abFout": 0
+  },
+  {
+   "partij": "LFD",
+   "gelezen": 27,
+   "klopt": 22,
+   "een-stap": 2,
+   "een-stap-te-ver": 1,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 2,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 3,
+   "foutPct": 11,
+   "citaatNiet": 0,
+   "toonOpm": 2,
+   "abGelezen": 5,
+   "abFout": 1
+  },
+  {
+   "partij": "Volt",
+   "gelezen": 22,
+   "klopt": 20,
+   "een-stap": 2,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 0,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 0,
+   "foutPct": 0,
+   "citaatNiet": 0,
+   "toonOpm": 4,
+   "abGelezen": 2,
+   "abFout": 0
+  },
+  {
+   "partij": "FVD",
+   "gelezen": 27,
+   "klopt": 23,
+   "een-stap": 1,
+   "een-stap-te-ver": 0,
+   "andere-richting": 0,
+   "ten-onrechte-geen": 3,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 3,
+   "foutPct": 11,
+   "citaatNiet": 0,
+   "toonOpm": 3,
+   "abGelezen": 4,
+   "abFout": 0
+  },
+  {
+   "partij": "BBB",
+   "gelezen": 29,
+   "klopt": 22,
+   "een-stap": 2,
+   "een-stap-te-ver": 1,
+   "andere-richting": 1,
+   "ten-onrechte-geen": 3,
+   "ten-onrechte-wel": 0,
+   "anders": 0,
+   "fout": 5,
+   "foutPct": 17,
+   "citaatNiet": 0,
+   "toonOpm": 1,
+   "abGelezen": 6,
+   "abFout": 2
+  }
+ ],
+ "lagen": {
+  "gespreide trekking": {
+   "gelezen": 240,
+   "fout": 4,
+   "geen": 0,
+   "richting": 1
+  },
+  "A/B andere richting": {
+   "gelezen": 115,
+   "fout": 13,
+   "geen": 3,
+   "richting": 5
+  },
+  "gespreide trekking (geen standpunt)": {
+   "gelezen": 60,
+   "fout": 7,
+   "geen": 7,
+   "richting": 0
+  },
+  "nu geen standpunt, een ronde zag er wel een": {
+   "gelezen": 121,
+   "fout": 32,
+   "geen": 32,
+   "richting": 0
+  }
+ },
+ "fouten": [
+  {
+   "partij": "hart-voor-hilversum",
+   "id": "verkeer-terugdraaien",
+   "site": -1,
+   "eigen": 0,
+   "oordeel": "een-stap-te-ver",
+   "opmerking": "De partij koos 'voor' bij 'opnieuw bekijken en zo nodig terugdraaien' en schoof in MijnStem naar het midden (41). BVNL en LFD krijgen voor vrijwel dezelfde uitspraak ('zo nodig terugdraaien') +1; HvH -1 is daarmee ongelijk. Wel noemt de partij in Hilversums Nieuws de inkomsten en minder parkeerdruk, dus 0 (bewust midden) past het best."
+  },
+  {
+   "partij": "hart-voor-hilversum",
+   "id": "natuur-bomen",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "De partij aanvaardt verlies van groen bij goede compensatie, zij het in principe niet. BVNL krijgt voor vrijwel dezelfde uitspraak ('behoud groen, tenzij volledig gecompenseerd') +1. Zou 1 moeten zijn (zekerheid laag/middel: de uitspraak gaat over groen in het algemeen, niet over losse bomen)."
+  },
+  {
+   "partij": "hart-voor-hilversum",
+   "id": "natuur-landbouw-natuur",
+   "site": null,
+   "eigen": 0,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Bewuste middenpositie op een vrijwel gelijke MijnStem-vraag. VVD, CDA en SP krijgen met een vergelijkbaar balans-antwoord 0; HvH zou ook 0 moeten krijgen."
+  },
+  {
+   "partij": "hart-voor-hilversum",
+   "id": "asiel-omwonenden-beslissen",
+   "site": null,
+   "eigen": 0,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Zekerheid laag: de reactie is ontwijkend, legt veel gewicht bij overeenstemming met de buurt maar geeft omwonenden geen veto (programma: 'betrokkenheid van omwonenden'). Andere partijen kregen op dezelfde Hilversums Nieuws-vraag wel een score, BBB zelfs +1 voor 'kan alleen slagen als er voldoende draagvlak is'. Gelijke behandeling vraagt 0 (of +1), niet null."
+  },
+  {
+   "partij": "d66",
+   "id": "natuur-groennorm",
+   "site": 1,
+   "eigen": -1,
+   "oordeel": "andere-richting",
+   "opmerking": "De stelling draait om 'ook als er daardoor minder woningen passen'. Het citaat ('we ontwerpen volgens de 3-30-300-methode') zegt niets over die afweging; op de enige uitspraak die er wel over gaat kiest D66 voor woningen. De site geeft D66 bovendien +1 bij natuur-snippergroen op grond van ditzelfde 'eens'. Hoogstens 0, eerder -1 (zekerheid middel)."
+  },
+  {
+   "partij": "d66",
+   "id": "zorg-aanbieders-een",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "D66 stemde tegen een plan om het aantal zorgaanbieders terug te dringen. De ChristenUnie, die bij dezelfde motie tegen stemde, krijgt op die grond -1; D66 zou dan ook -1 (stemgedrag, zekerheid middel) moeten krijgen."
+  },
+  {
+   "partij": "d66",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Eigen antwoord op een vrijwel gelijke vraag: gematigd oneens, D66 wil pilots en maatwerk. HvH, PRO en VVD krijgen op basis van dezelfde MijnStem-vraag -1; D66 zou ook -1 moeten krijgen."
+  },
+  {
+   "partij": "vvd",
+   "id": "wonen-lokale-binding-helft",
+   "site": 1,
+   "eigen": null,
+   "oordeel": "ten-onrechte-wel",
+   "opmerking": "Het citaat gaat over voorrang voor doorstromers bij nieuwbouw, niet over lokale binding bij vrijkomende sociale huur; de toelichting zegt zelf dat de partij daar niets over zegt. Twijfel tussen zwakke afleiding en null moet null worden. Ter vergelijking: D66 met een directere uitspraak (deel nieuwbouw voor eigen inwoners) staat op 0."
+  },
+  {
+   "partij": "vvd",
+   "id": "natuur-maaien",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Programma p. 25: 'De biodiversiteit is versterkt, onder meer door meer bloemen in bermen en slim maaibeheer'; p. 26: verder met versterken biodiversiteit. Lokaal Eén ('slim, aangepast maaibeleid') en SP ('groenbeheer dat rekening houdt met insecten') krijgen op vergelijkbare tekst -1. Zou -1 (afgeleid) moeten zijn."
+  },
+  {
+   "partij": "vvd",
+   "id": "asiel-zonder-spreidingswet",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "MijnStem: 'We voldoen aan onze wettelijke verplichtingen, maar willen geen extra opvang bovenop wat landelijk van ons wordt gevraagd'; programma p. 13: 'Als de Spreidingswet ons onontkoombaar verplicht'. Stop Betaald Parkeren-VIP krijgt op bijna gelijke tekst -1. Kanttekening: de VVD stemde in 2026 tegen M26-86 (voorbereiding stoppen als de wet vervalt), daarom -1 en niet -2; noem die spanning in de toelichting."
+  },
+  {
+   "partij": "vvd",
+   "id": "financien-subsidies-korten",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Programma p. 24: 'De VVD kijkt kritisch naar cultuursubsidies. We maken keuzes: niet alles kan', met concrete stops (Open 035, stadsdichter, eindige projectsubsidies); MijnStem: tekort oplossen door 'eerst besparen ... scherpe keuzes'. Stop Betaald Parkeren-VIP krijgt +1 op 'eerst kritisch kijken naar eigen uitgaven en subsidies'. Zou +1 (afgeleid) moeten zijn; noem dat de VVD ook de eigen organisatie wil afslanken. Zekerheid laag."
+  },
+  {
+   "partij": "vvd",
+   "id": "financien-centrum-sober",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "VVD stemde voor het duurdere Kerkbrink-ontwerp (6-12-2023); de Stemgids zet de VVD op 'tegen soberder'. PRO krijgt op hetzelfde stemgedrag -1. Uitstel van Bruisend Hart (p. 29) gaat over betaalbaarheid, niet over sobere materialen. Zou -1 (stemgedrag) moeten zijn."
+  },
+  {
+   "partij": "cda",
+   "id": "wonen-sociale-huur-per-project",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "MijnStem: 'we kunnen meer bouwen als het minimum percentage bij nieuwbouw lager is' (het CDA wil dus een lager, maar wel een vast minimum); CDA Wijdemeren diende A-12-1 mee in om 33% sociaal vast te houden. Dorp voor Dorp krijgt op 'liever een vast minimum' -1. Zou -1 (afgeleid, zekerheid laag) moeten zijn."
+  },
+  {
+   "partij": "cda",
+   "id": "natuur-stikstof-boeren",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Programma p. 53: 'De gemeente kan die regels niet opzijzetten, maar kan wel naast boeren staan' en 'komen bij provincie en Rijk op voor werkbare oplossingen'. FVD krijgt +1 (afgeleid) op 'agendeert verlichting bij provincie en Rijk', LFD en BBB ook +1. Zou +1 (afgeleid, laag) moeten zijn."
+  },
+  {
+   "partij": "cda",
+   "id": "financien-centrum-sober",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "CDA stemde voor het duurdere Kerkbrink-ontwerp (6-12-2023) en wil Bruisend Hart doorzetten zoals vastgesteld (Stemgids, eigen antwoord). PRO krijgt op hetzelfde stemgedrag -1. Zou -1 (stemgedrag) moeten zijn."
+  },
+  {
+   "partij": "lokaal-een",
+   "id": "wonen-eigen-behoefte",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Partijprogramma: 'tegendruk te bieden aan grootstedelijke ruimteclaims. Wij zien dat er grenzen zijn aan de groei'; verkiezingsprogramma: 'We kijken hierbij ook nadrukkelijk naar de toekomstige lokale woningbehoefte'. BVNL, SCB en FVD krijgen +1 op 'bouwen naar de behoefte van eigen inwoners'. Zou +1 moeten zijn, met de kanttekening dat de partij ook ruimte wil voor jonge gezinnen die zich vestigen en voor studentenhuisvesting."
+  },
+  {
+   "partij": "lokaal-een",
+   "id": "wonen-sociale-huur-per-project",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "MijnStem: 'het aandeel van 33% sociaal, 50% midden en 17% duur [doet] recht aan wat een evenwichtige verdeling is' (een vaste verdeling als norm); DLP en DorpsBelangen dienden A-12-1 (33% vasthouden) mee in. Dorp voor Dorp krijgt op 'liever een vast minimum' -1. Zou -1 (afgeleid, zekerheid laag) moeten zijn; zelfde punt als bij het CDA."
+  },
+  {
+   "partij": "lokaal-een",
+   "id": "verkeer-terugdraaien",
+   "site": -1,
+   "eigen": 1,
+   "oordeel": "andere-richting",
+   "opmerking": "De eigen stemhulp-antwoorden wijzen naar terugdraaien: Stemgids 'voor' heroverwegen en zo nodig terugdraaien, MijnStem 26 richting terugdringen ('Terugdringen daar waar inwoners geen behoefte aan betaald parkeren hebben'), programma 'geen betaald parkeren buiten de ring'. BVNL, LFD en Stop Betaald Parkeren-VIP krijgen op 'terugdraaien waar noodzaak/draagvlak ontbreekt' +1. Zou +1 moeten zijn (gedeeltelijk terugdraaien, in overleg met bewoners); -1 klopt niet met de bron."
+  },
+  {
+   "partij": "lokaal-een",
+   "id": "natuur-bomen",
+   "site": 1,
+   "eigen": -1,
+   "oordeel": "andere-richting",
+   "opmerking": "De bron zegt 'Elke boom telt' en 'Beeldbepalend groen wordt beschermd'; dat velbeleid en herplantplicht 'worden geactualiseerd' zegt niets over de richting. FVD krijgt op 'bestaande bomen beschermen' -1. Zou null of hoogstens -1 (afgeleid) moeten zijn, niet +1."
+  },
+  {
+   "partij": "lokaal-een",
+   "id": "asiel-omwonenden-beslissen",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "De partij reageerde in Hilversums Nieuws op precies deze vraag: opvang 'in nauw overleg met de samenleving', 'Inwoners mogen niet overvallen worden', en MijnStem: 'houdt zich aan de verplichtingen vanuit de Spreidingswet'. VVD, CDA, SP en Gewoon Hilversum krijgen op 'overleg, geen vetorecht' -1. Zou -1 (afgeleid) moeten zijn."
+  },
+  {
+   "partij": "lokaal-een",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": -2,
+   "eigen": -1,
+   "oordeel": "een-stap-te-ver",
+   "opmerking": "MijnStem-schuif 41 ligt in de middenband, en de partij stelt een alternatief (platforms met ondersteuning op maat). Volgens de schaal is dat -1. LFD ('geen extra bestuurslaag', inwoners organiseren zelf) en VVD krijgen -1; alleen BVNL, die gekozen raden zonder alternatief afwijst, staat op -2."
+  },
+  {
+   "partij": "sp",
+   "id": "wonen-nederhorst-noord-open",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Programma p. 29: 'Wij bouwen niet buiten de groen/paarse contouren'; MijnStem 14 op meer bouwen buiten de bebouwde kom: 'De dorpen zijn er niet voor alles wat in het centrum niet meer past'. Lokaal Eén ('binnen de rode contouren') en Volt ('binnen de huidige stads- en dorpsgrenzen') krijgen hierop +1 (afgeleid). Zou +1 (afgeleid, zekerheid laag) moeten zijn; noem de spanning met MijnStem landbouwgrond (64, 'sluiten dit niet uit')."
+  },
+  {
+   "partij": "sp",
+   "id": "financien-afval-vast-bedrag",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Programma p. 36: 'Daardoor betaalt iemand in een sociale huurwoning evenveel als iemand in een villa. Wij willen die kosten verschuiven naar de onroerendezaakbelasting.' De SP wijst een gelijk vast bedrag dus af, met een eigen alternatief (via de OZB, niet via betalen naar hoeveelheid). Hart voor Hilversum krijgt op 'geen vast bedrag voor allen' -1. Zou -1 moeten zijn."
+  },
+  {
+   "partij": "christenunie",
+   "id": "klimaat-wind-draagvlak",
+   "site": 1,
+   "eigen": -1,
+   "oordeel": "andere-richting",
+   "opmerking": "Doorslaggevend: MijnStem 'Lokale opwek moet ... voldoende draagvlak hebben. Grote windturbines vinden we daarom niet haalbaar' en 'wil vooraf geen oplossingen uitsluiten'; verzet is gekoppeld aan draagvlak, dus niet 'ook als omwonenden ervoor zijn'. CU stemde bovendien tweemaal tegen verzetsmoties (Hilversum M25-002, Wijdemeren M-V-1 2026). Alleen het Stemgids-'voor' wijst de andere kant op. Moet -1 zijn (hooguit 0), niet +1."
+  },
+  {
+   "partij": "christenunie",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": null,
+   "eigen": 0,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "CU beantwoordde vrijwel dezelfde vraag zelf (MijnStem 58): 'Dorps- en wijkraden kunnen hier mogelijk aan bijdragen, maar dat hoeven niet persé gekozen dorps- en wijkraden te zijn.' Dat is een standpunt (midden, licht oneens): 0, of -1 naar analogie van de VVD (-1 voor 'hoeft niet overal verplicht of gekozen te worden')."
+  },
+  {
+   "partij": "bvnl",
+   "id": "wonen-voorrang-beroepen-weg",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Debatstelling 15 'Voorrang voor bepaalde doelgroepen' gaat precies hierover: 'Iedereen gelijk behandelen. Voorrang alleen in uitzonderlijke situaties.' Dat draagt +1, met in de toelichting de spanning met pijler 08 (lokale voorrang o.a. voor mensen met werk in Hilversum). Grensgeval, maar null onderschat het."
+  },
+  {
+   "partij": "bvnl",
+   "id": "verkeer-buurt-beslist",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Stemgids: 'Waar nut, noodzaak en draagvlak ontbreken, moet uitbreiding worden teruggedraaid' plus debatstelling 4 'Alleen bij aantoonbare parkeerdruk' en bindende referenda. CU, D66 en Hart voor Hilversum kregen +1 voor een vergelijkbare draagvlak-voorwaarde; BVNL hoort dan ook +1 (afgeleid) te krijgen."
+  },
+  {
+   "partij": "scb",
+   "id": "wonen-parkeernorm",
+   "site": -1,
+   "eigen": null,
+   "oordeel": "ten-onrechte-wel",
+   "opmerking": "De site zegt zelf dat SCB niets over parkeernormen bij stations zegt. 'Parkeerdruk zwaar laten meewegen' laat meer dan één lezing toe; volgens regel 6 null. Zekerheid laag: OpStand krijgt voor een vergelijkbare algemene zin ('bij hoogbouw horen parkeeroplossingen') ook -1 afgeleid. Behandel beide gelijk: beide null, of beide -1."
+  },
+  {
+   "partij": "scb",
+   "id": "klimaat-kern-locatie",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "SCB steunt onderzoek maar zegt uitdrukkelijk zich niet vooraf te binden; een plek vrijhouden gaat verder. D66 krijgt voor een vergelijkbare houding ('ontwikkelingen volgen, niet nu al vastleggen') -1 afgeleid, net als Lokaal Eén. SCB zou dan ook -1 (afgeleid, zekerheid middel) moeten krijgen."
+  },
+  {
+   "partij": "gewoon-hilversum",
+   "id": "verkeer-terugdraaien",
+   "site": -1,
+   "eigen": 1,
+   "oordeel": "andere-richting",
+   "opmerking": "GH beantwoordde 'De uitbreiding van betaald parkeren naar meer wijken moet opnieuw worden bekeken en zo nodig worden teruggedraaid' met voor; MijnStem 7 (terugdringen). Dat is gedeeltelijk eens (+1), hooguit 0. Ongelijke behandeling: BVNL, LFD en SBP-VIP kregen +1 voor hetzelfde Stemgids-antwoord. HN-citaat 'Volledig gratis parkeren ... zien we niet terugkeren' gaat over heel de gemeente, niet over de wijkuitbreiding."
+  },
+  {
+   "partij": "gewoon-hilversum",
+   "id": "verkeer-bezoek",
+   "site": 1,
+   "eigen": 0,
+   "oordeel": "een-stap-te-ver",
+   "opmerking": "Eigen Stemgids-antwoord op de spiegelvraag ('Bezoekers ... gratis kunnen parkeren') is neutraal. Lokaal Een, OpStand en PvdD kregen bij 'neutraal' 0. Programma ('Bezoekerstarieven ... realistisch qua budget') en de stem van Van de Linde tegen A25-108 trekken naar +1, maar het recentere eigen antwoord is neutraal: 0."
+  },
+  {
+   "partij": "gewoon-hilversum",
+   "id": "natuur-afsluiten",
+   "site": null,
+   "eigen": 0,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "GH heeft wel een standpunt: GNR-paragraaf 'balans tussen deze twee doelen goed gewaarborgd' (p. 26), MijnStem plassengebied 50 en Stemgids 'voor' bij 'vrij wandelen en recreëren net zo zwaar als natuurbescherming'. Hart voor Hilversum kreeg 0 voor 'balans', FvD/Blanco/Dorp voor Dorp -1 voor Stemgids-voor. GH hoort 0 (of -1) te krijgen, niet null."
+  },
+  {
+   "partij": "dorp-voor-dorp",
+   "id": "natuur-snelvaren",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Zwakke maar eenduidige afleiding: de partij wil meer ruimte voor varen op de plassen. Ongelijk met LFD, die met een vrijwel gelijke MijnStem-toelichting ('Varen, zwemmen en andere recreatie moeten mogelijk blijven') -1 afgeleid kreeg, en met economie-plassen-uitbreiden, waar de site dit zelfde antwoord wel gebruikt. Of -1 afgeleid, of bij beide partijen null."
+  },
+  {
+   "partij": "dorp-voor-dorp",
+   "id": "economie-plassen-uitbreiden",
+   "site": 1,
+   "eigen": 0,
+   "oordeel": "een-stap-te-ver",
+   "opmerking": "Over voorzieningen zegt de partij juist dat de huidige volstaan (48, midden); daartegenover staat meer ruimte voor recreatie (28). Samen is dat 0, geen +1. De site-toelichting zegt zelf dat de partij niets zegt over jachthavens, vakantieparken of horeca."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "wonen-bouwtempo",
+   "site": null,
+   "eigen": 0,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "De partij spreekt zich uit: procedures sneller, maar 'niet alleen méér', 'Groei is geen doel op zichzelf' en bouwen moet bij de omgeving passen. Dat is een bewuste tussenpositie (0, of -1). Ongelijk met Gewoon Hilversum, dat met 'geen doel op zichzelf' -1 kreeg, en met DvD (0)."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "verkeer-autoluw",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "De partij kiest voor keuzevrijheid in vervoer, wil auto en parkeren niet eerst moeilijker maken en wil een centrum dat voor iedereen toegankelijk is; P+R alleen als alternatief voor 'een deel van de autorit'. Dat is -1. Ongelijk: VVD, CDA, BVNL, LFD en FVD kregen met vergelijkbare uitspraken -1."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "natuur-afsluiten",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Duidelijke nabije uitspraak. DvD, FVD en Blanco van Oostveen kregen op hetzelfde Stemgids-antwoord 'voor' een -1 (afgeleid); SBP met een sterkere toelichting null. Moet -1 zijn."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "zorg-wmo-kwijtschelding",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Zwakke afleiding, maar BVNL kreeg op een vrijwel gelijk MijnStem-antwoord (68) wel 1 (afgeleid). Gelijke behandeling vraagt 1 (afgeleid) voor SBP, of null voor beide."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "veiligheid-coffeeshops-scholen",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Gewoon Hilversum (ook 50, 'kijkt naar overlast'), LFD, Volt, BVNL en SP kregen op vergelijkbare toelichtingen 1 (afgeleid). SBP's toelichting laat dezelfde lezing toe. Of 1 (afgeleid), of bij alle partijen null."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": null,
+   "eigen": 2,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Schuifbalk 100 op vrijwel dezelfde vraag, met een instemmende toelichting. De site gebruikt hetzelfde antwoord wel bij bestuur-dorpsraad-beslist, en DvD en SP kregen hier 2. Moet 2 zijn (of 1 als 'elk dorp en elke wijk' te ver gaat)."
+  },
+  {
+   "partij": "stop-betaald-parkeren-vip",
+   "id": "bestuur-referendum-advies",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "De partij ziet het referendum als middel om te luisteren voordat 'we' (de raad) besluiten: een raadgevende lezing. Zwak maar eenduidig; vergelijkbaar met de afgeleide 1 bij D66 en CDA. Null is te streng."
+  },
+  {
+   "partij": "opstand-nu",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": null,
+   "eigen": 2,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Duidelijke afwijking. MijnStem 'Dorps- en wijkraden laten kiezen door bewoners' = 100 ('Zorgt voor meer betrokkenheid, zeker met enig budget ...') en een eigen standpunt 'Gekozen dorps- en wijkraden' op opstand.nu. Moet +2 zijn."
+  },
+  {
+   "partij": "pvdd",
+   "id": "wonen-nederhorst-noord-open",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Niet bouwen in het groen of in polders, en MijnStem 0 op woningbouw buiten de bebouwde kom, laten één lezing toe. Wel noemt de woonladder bouwen aan de rand van woonkernen als derde stap, dus maximaal 1. Ongelijk met Volt, dat met 'binnen de huidige stads- en dorpsgrenzen' 1 (afgeleid) kreeg."
+  },
+  {
+   "partij": "pvdd",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Schuifbalk 99 op vrijwel dezelfde vraag, plus het programma ('vorming van inwonersgroeperingen (zoals wijk-/ dorpsraden)'). Door 'bij belangrijke besluiten' eerder 1 dan 2. Zelfde fout als bij SBP; DvD en SP kregen op dit MijnStem-item wel een score."
+  },
+  {
+   "partij": "pvdd",
+   "id": "bestuur-dorpsraad-beslist",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Buurtbegroting, buurtbudgetten en uitdaagrecht geven inwoners zelf beslisruimte. SBP kreeg met 'dorpsagenda met budget' 1 (afgeleid); bij gelijke behandeling hoort hier ook 1 (afgeleid). Let op: door de kolomopmaak staat de zin in programma.txt niet aaneengesloten."
+  },
+  {
+   "partij": "lfd",
+   "id": "verkeer-bezoek",
+   "site": -1,
+   "eigen": 1,
+   "oordeel": "een-stap-te-ver",
+   "opmerking": "Op de omgekeerde Stemgids-vraag antwoordde de partij 'tegen', en ze stemde tegen gratis bezoekersparkeren. Dat komt neer op het huidige tarief houden. Wel zegt ze dat bezoek geen kostenpost mag zijn. Op de site staat -1 ('oneens'), terwijl haar stem het huidige tarief in stand hield. 0 past beter. PRO, D66, ChristenUnie en Volt kregen met hetzelfde 'tegen' +1 of +2. De toelichting op de site is wel volledig."
+  },
+  {
+   "partij": "lfd",
+   "id": "verkeer-opbrengst",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Volgens het programma zijn parkeertarieven kostentransparant en geen verdienmodel of verborgen belasting. Dat laat weinig ruimte om parkeergeld aan groen of ov te besteden: -1 (afgeleid). De VVD staat met 'opbrengsten blijven voor parkeren' ook op -1. Twijfelgeval, maar null doet tekort aan een concrete programmazin."
+  },
+  {
+   "partij": "lfd",
+   "id": "cultuur-dorpsgarantie",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "De partij is uitdrukkelijk tegen meerjarige subsidiegaranties: 'Verlenging is geen automatisme', 'vijf jaar subsidie mag geen automatisme worden', en ze stemde tegen vijfjarige subsidie voor wijkcentra. Lokaal Eén staat met een vergelijkbare lijn ('geen meerjarige garantie vooraf') op -1. -1 (afgeleid) ligt voor de hand. Null is te verdedigen omdat de fusie en de dorpen niet genoemd worden."
+  },
+  {
+   "partij": "fvd",
+   "id": "veiligheid-coffeeshops-scholen",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Het gaat hier om gelijke behandeling, niet om sterk bewijs. LFD, BVNL, Volt en Gewoon Hilversum kregen +1 op basis van hun MijnStem-antwoord 'coffeeshops niet verminderen'. FVD antwoordde daar ook duidelijk 'oneens' (14), maar staat op null. Over scholen zegt niemand van hen iets. Gelijk behandelen betekent: of allemaal +1, of allemaal null."
+  },
+  {
+   "partij": "fvd",
+   "id": "asiel-blijvende-opvang",
+   "site": null,
+   "eigen": -2,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "FVD wil geen nieuwe opvang en de bestaande sluiten (H3 punt 2), dus zeker geen blijvende opvangplekken in wijken en dorpen. Dorp voor Dorp kreeg -2 op alleen MijnStem 'zo beperkt mogelijk' (0); LFD -2 voor 'tijdelijk'. Null voor FVD is ongelijk; -2 past."
+  },
+  {
+   "partij": "fvd",
+   "id": "financien-subsidies-korten",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "FVD wil subsidies zonder aantoonbare lokale waarde en voor activistische organisaties afbouwen. Bij een tekort noemt de partij eerst de eigen organisatie, dus +1 en niet +2. Op de VVD na hebben alle andere lijsten hier een score; dat FVD null krijgt terwijl het programma uitdrukkelijk subsidies schrapt, is niet gelijk."
+  },
+  {
+   "partij": "bbb",
+   "id": "wonen-eigen-behoefte",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "Het programma laat bouwen aansluiten bij 'de behoefte van de buurt of dorpskern' en wil 'Eerst ruimte voor eigen inwoners' (speerpunten), maar ook 'meer huizen bouwen en dit sneller doen'. BVNL ('bouwen naar de behoefte van eigen inwoners, maar wel meer bouwen') en SCB staan met vrijwel dezelfde lijn op +1, BBB op null. +1 (afgeleid, zekerheid laag) ligt meer voor de hand."
+  },
+  {
+   "partij": "bbb",
+   "id": "verkeer-eerste-uur",
+   "site": null,
+   "eigen": -1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "BBB houdt betaald parkeren in het centrum waar de parkeerdruk hoog is, en noemt gratis parkeren in het centrum (op zondag) onrealistisch. PRO, D66, VVD, SCB en Volt kregen op hetzelfde MijnStem-antwoord -1. Buiten het centrum wil BBB helemaal geen betaald parkeren, dus 0 is ook verdedigbaar. Null is in elk geval ongelijk."
+  },
+  {
+   "partij": "bbb",
+   "id": "verkeer-fietspad",
+   "site": 0,
+   "eigen": -1,
+   "oordeel": "een-stap-te-ver",
+   "opmerking": "De schuifbalk staat op 50, maar de toelichting beantwoordt de voorwaarde van de stelling ('ook als parkeerplaatsen verdwijnen') met nee. BVNL ('parkeerplaatsen niet opofferen') staat op -1. -1 past beter dan 0."
+  },
+  {
+   "partij": "bbb",
+   "id": "natuur-groennorm",
+   "site": -1,
+   "eigen": 1,
+   "oordeel": "andere-richting",
+   "opmerking": "Op zich kan 'zoveel als mogelijk' als -1 gelezen worden (geen harde eis), maar ook als +1 (eens in principe). Het punt is gelijke behandeling: PRO ('stap voor stap toewerken naar') en ChristenUnie ('met balans tussen wonen en groen') staan met even voorwaardelijke formuleringen op +1, BBB op -1. Gelijk trekken: allemaal +1, of allemaal 0."
+  },
+  {
+   "partij": "bbb",
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "site": null,
+   "eigen": 1,
+   "oordeel": "ten-onrechte-geen",
+   "opmerking": "BBB wil dorps- en wijkraden met echte invloed en eigen dorpsbudgetten, en 'Als er dorps- en wijkraden komen, moeten deze democratisch verkozen zijn' (MijnStem 100). FVD staat met alleen een dorpsplatform per dorp op +1. Null voor BBB is ongelijk; +1 past (+2 niet, door het 'als er komen')."
+  }
+ ]
+}

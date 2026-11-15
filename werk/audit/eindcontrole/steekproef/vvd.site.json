@@ -1,0 +1,263 @@
+[
+ {
+  "id": "wonen-bouwtempo",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-dorpsrand",
+  "s": 1,
+  "kern": "Een 'straatje erbij' aan dorpsranden kan, onder strikte voorwaarden.",
+  "toelichting": "De VVD staat positief-kritisch tegenover kleinschalige woningbouw aan de rand van dorpen en wijken, maar alleen onder strikte voorwaarden en met draagvlak. Bouwen binnen bestaand gebied heeft de voorkeur; het groen rond de kernen en de hei wil de partij beschermen.",
+  "citaat": "'Straatje erbij'. Kleinschalige woningbouw aan dorps- en wijkranden benaderen we positief-kritisch. Onder strikte voorwaarden en met draagvlak.",
+  "bron": "p. 5; MijnStem: 'Landbouwgrond gebruiken voor woningbouw'",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-hoogbouw",
+  "s": 0,
+  "kern": "Iets hoger bouwen bij stations, centrum en Sportpark; geen grootschalige hoogbouw",
+  "toelichting": "De VVD wil op enkele plekken iets hoger bouwen: in het centrum, bij de stations en op het Sportpark. Grootschalige hoogbouw wil de partij niet; per gebied bepalen omgeving en ruimtelijke kwaliteit wat past.",
+  "citaat": "In het centrum en bij de stations bouwen we hoger waar dat past.",
+  "bron": "p. 5; MijnStem: 'Meer hoogbouw toestaan'",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": 1,
+  "kern": "Landelijke 30% als uitgangspunt, maatwerk per project, kleine projecten vrij.",
+  "toelichting": "De VVD wil geen vast lokaal minimum bovenop de landelijke norm. Bij grotere projecten is 30% sociaal het uitgangspunt, met maatwerk waar nodig; bij projecten van 20 woningen of minder geldt geen verplicht sociaal aandeel.",
+  "citaat": "Bij projecten van 20 woningen of minder geldt geen verplicht sociaal aandeel, zodat kleinschalige particuliere initiatieven niet worden belemmerd. Bij grotere projecten is de bovenstaande verdeling het uitgangspunt, met maatwerk waar nodig.",
+  "bron": "p. 7; MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw'",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": 1,
+  "kern": "Voorrang voor doorstromers uit Hilversum bij nieuwbouw.",
+  "toelichting": "De VVD wil dat inwoners die binnen Hilversum doorstromen voorrang krijgen bij nieuwbouw, zodat mensen in hun eigen buurt kunnen blijven wonen. Over een vast deel van de vrijkomende huurwoningen of over voorrang voor wie hier werkt zegt de partij niets.",
+  "citaat": "Om doorstroming te bevorderen hebben doorstromers binnen Hilversum voorrang bij nieuwbouw.",
+  "bron": "p. 6",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "verkeer-bezoek",
+  "s": 1,
+  "kern": "Bezoek in betaald-parkeergebied blijft tegen een tarief parkeren.",
+  "toelichting": "De VVD stemde in 2025 tegen een amendement om de bezoekersregeling gratis te maken. Wel wil de partij parkeren goedkoop houden: parkeren is kostendekkend en geen melkkoe.",
+  "citaat": null,
+  "bron": "Raad Hilversum, 12-11-2025: A25-108 bezoekersregeling gratis, VVD tegen, verworpen 9-27",
+  "soort": "stemgedrag"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": 0,
+  "kern": "Ruimte voor fiets en voor parkeerplaatsen; per geval kiezen.",
+  "toelichting": "De VVD wil betere en veiligere fietspaden én voldoende parkeerplaatsen. Waar een keuze nodig is, mogen parkeerplaatsen niet automatisch verdwijnen voor extra fietspaden.",
+  "citaat": "De VVD wil ruimte voor de fiets én voldoende parkeerplaatsen. Veel fietspaden kunnen beter en veiliger. Maar waar keuzes nodig zijn, moeten parkeerplaatsen niet automatisch verdwijnen voor extra fietspaden.",
+  "bron": "MijnStem: 'Investeren in fietspaden of parkeerplekken'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "s": -1,
+  "kern": "Geen windmolens in het Gooi, ook niet in het weiland.",
+  "toelichting": "De VVD wil geen windmolens in het Gooi en de Vechtstreek, ook niet in het weiland. De partij onderbouwt dat vooral met grote windturbines die niet in het landschap passen; over kleine molens op een boerenerf zegt zij niets apart.",
+  "citaat": "Geen windmolens. Niet op de hei, niet in het weiland. De VVD vindt dat grote windturbines niet passen in het landschap van het Gooi en de Vechtstreek.",
+  "bron": "MijnStem: 'Windturbines in het buitengebied toestaan'; p. 26",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "klimaat-kern-locatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-afsluiten",
+  "s": -1,
+  "kern": "Natuur beleefbaar houden; minder afsluiten.",
+  "toelichting": "De VVD wil een betere balans tussen afsluiten en gebruik van natuurgebieden: natuur is er ook voor de inwoners. Tijdelijke afsluiting uitsluiten doet de partij niet, maar ze staat er kritisch tegenover.",
+  "citaat": "De balans tussen afsluiten en gebruik moet beter: natuur is er óók voor onze inwoners.",
+  "bron": "p. 25",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-maaien",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": 1,
+  "kern": "Besparing op jeugdzorg niet geschrapt.",
+  "toelichting": "De VVD stemde in 2026 tegen een amendement dat de geplande besparing op jeugdzorg in 2029 en 2030 wilde schrappen. In het programma kiest de partij voor preventie en minder bureaucratie.",
+  "citaat": null,
+  "bron": "Raad Hilversum, 01-07-2026: A26-88 besparing jeugdzorg schrappen, VVD tegen, verworpen 7-28",
+  "soort": "stemgedrag"
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "s": 1,
+  "kern": "Graag overal een plek, maar ontmoetingsplekken waar behoefte is.",
+  "toelichting": "De VVD zou graag in alle wijken en dorpen een buurthuis hebben, maar vindt dat financieel waarschijnlijk niet haalbaar. Zij wil investeren in ontmoetingsplekken waar daar behoefte aan is en helpen om betaalbare ruimtes beschikbaar te maken.",
+  "citaat": "De VVD zou graag in alle wijken en dorpen een buurthuis hebben, maar dat is waarschijnlijk financieel niet haalbaar. Daarom willen we vooral investeren in goede ontmoetingsplekken waar daar behoefte aan is.",
+  "bron": "MijnStem: 'In alle wijken en dorpen een buurthuis openen'; p. 21",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 1,
+  "kern": "Cameratoezicht uitbreiden waar het aantoonbaar helpt.",
+  "toelichting": "De VVD wil cameratoezicht waar dat mogelijk is en vindt uitbreiding mogelijk waar dat aantoonbaar bijdraagt aan veiligheid, als onderdeel van een bredere aanpak.",
+  "citaat": "Cameratoezicht kan helpen om overlast en criminaliteit aan te pakken. De VVD vindt uitbreiding mogelijk waar dat aantoonbaar bijdraagt aan de veiligheid, als onderdeel van een bredere aanpak.",
+  "bron": "MijnStem: 'Cameratoezicht op straat: beperken of uitbreiden'; p. 10",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "s": -1,
+  "kern": "Voorrang voor statushouders niet geschrapt.",
+  "toelichting": "De VVD stemde in 2023 tegen een amendement dat de voorrang voor statushouders bij sociale huur wilde schrappen. Het programma noemt het punt niet.",
+  "citaat": null,
+  "bron": "Raad Hilversum, 08-03-2023: A23-49 geen voorrang statushouders, VVD tegen, verworpen 1-34",
+  "soort": "stemgedrag"
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": -1,
+  "kern": "Op het Media Park vooral ruimte voor media; enkele woningen.",
+  "toelichting": "De VVD kiest voor meer media op het Media Park. Enkele woningen kunnen, bijvoorbeeld als onderdeel van een mediacampus.",
+  "citaat": "De VVD kiest voor meer media. Hilversum is en blijft dé mediastad. Op het Media Park moet ruimte blijven voor media, werk en innovatie. Enkele woningen kunnen wel, bijvoorbeeld als onderdeel van een mediacampus.",
+  "bron": "MijnStem: 'Maak een keuze. Op het Media Park' (82, richting meer mediabedrijven)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "economie-centrum-compacter",
+  "s": 1,
+  "kern": "Compacter centrum; winkels in aanloopstraten mogen woningen worden.",
+  "toelichting": "De VVD stimuleert winkels om naar een compacter centrum te verhuizen en maakte het omzetten van winkels naar woningen in de aanloopstraten mogelijk. In de wijkwinkelcentra en dorpskernen wil de partij winkels juist beschermen tegen omzetting naar wonen.",
+  "citaat": "Winkels worden gestimuleerd om naar een compacter centrum te verhuizen.",
+  "bron": "p. 14; p. 5",
+  "soort": "programma"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": -1,
+  "kern": "Kritisch op cultuursubsidies; gericht investeren in plaats van breed.",
+  "toelichting": "De VVD kijkt kritisch naar cultuursubsidies en wil keuzes maken: niet alles kan. Wel wil de partij gericht investeren, bijvoorbeeld in cultuureducatie op scholen en goedkoper muziekonderwijs. Over het niveau van vergelijkbare steden zegt zij niets.",
+  "citaat": "De VVD kijkt kritisch naar cultuursubsidies. We maken keuzes: niet alles kan. We kiezen liever voor gerichte investeringen dan voor breed en ongedifferentieerd subsidiëren.",
+  "bron": "p. 24",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "cultuur-dorpsgarantie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": -1,
+  "kern": "Mobiel loket en dorpscoördinatoren in plaats van vast loket.",
+  "toelichting": "De VVD wil dat de gemeente in de dorpen goed bereikbaar is, maar niet met een vast loket in elk dorp. Ze noemt een mobiel loket, dorpscoördinatoren en goede digitale dienstverlening als slimmere oplossing.",
+  "citaat": "We willen dat de gemeente ook in de dorpen goed bereikbaar en dichtbij is, maar daarvoor hoeft niet in ieder dorp een vast loket te komen. Een mobiel loket, dorpscoördinatoren en goede digitale dienstverlening kunnen dat slimmer organiseren.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-gelijke-regels",
+  "s": 0,
+  "kern": "Eenduidig beleid waar dat sterker maakt, harmoniseren met zorg.",
+  "toelichting": "De VVD wil tarieven en belastingen zorgvuldig harmoniseren, met oog voor inwoners en ondernemers, en lokale verschillen niet wegpoetsen. Waar samenwerking sterker maakt, kiest ze voor eenduidig beleid.",
+  "citaat": "Waar tarieven en belastingen geharmoniseerd moeten worden, doen we dat zorgvuldig en met oog voor de positie van inwoners en ondernemers.",
+  "bron": "p. 3; p. 4",
+  "soort": "programma"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "s": 1,
+  "kern": "De gemeenteraad beslist; de VVD is geen voorstander van referenda.",
+  "toelichting": "De VVD ziet de gemeenteraad als de meest lokale vorm van representatieve democratie en is daarom geen voorstander van referenda. Dat de raad het laatste woord houdt, past daarbij; de partij wil referenda liever helemaal niet.",
+  "citaat": "De gemeenteraad is de meest lokale vorm van representatieve democratie. Om die reden is de VVD geen voorstander van referenda.",
+  "bron": "p. 28",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-investeringen-spreiden",
+  "s": 2,
+  "kern": "Grote investeringen temporiseren om de schuld te beperken.",
+  "toelichting": "De VVD wil investeringen waar mogelijk temporiseren, zoals in het schoolhuisvestingsplan van circa 160 miljoen, zonder de kwaliteit van onderwijs in gevaar te brengen.",
+  "citaat": "De VVD kiest voor een realistische planning: temporiseren van investeringen waar mogelijk, zonder de kwaliteit van onderwijs in gevaar te brengen.",
+  "bron": "p. 22; p. 29",
+  "soort": "programma"
+ },
+ {
+  "id": "financien-centrum-sober",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ }
+]

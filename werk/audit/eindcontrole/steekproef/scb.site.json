@@ -1,0 +1,191 @@
+[
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": 1,
+  "kern": "Sociale huur per project bepalen naar lokale behoefte.",
+  "toelichting": "De partij vindt voldoende sociale huur belangrijk en kan 40 procent passend vinden, maar het percentage hoeft volgens haar niet voor elke nieuwbouwlocatie gelijk te zijn. Bij grote projecten wil ze vooraf openbaar maken hoeveel betaalbare woningen er komen.",
+  "citaat": "Een aandeel van 40% kan daarbij passend zijn, maar het percentage hoeft niet voor iedere nieuwbouwlocatie hetzelfde te zijn. Lokale behoefte staat voorop.",
+  "bron": "MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw'; programma p. 6",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-parkeernorm",
+  "s": -1,
+  "kern": "Parkeerdruk zwaar laten meewegen, ook bij nieuwbouw",
+  "toelichting": "SCB zegt niets over de parkeernorm bij stations, maar wil dat bij nieuwbouw parkeren vanaf het begin wordt meegenomen en dat parkeerdruk zwaar meeweegt bij besluiten. Minder parkeerplaatsen eisen past daar slecht bij.",
+  "citaat": "Parkeerdruk en bereikbaarheid zwaar laten meewegen bij besluiten.",
+  "bron": "p. 7 (en p. 6: parkeren bij nieuwbouw vanaf het begin meenemen)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "verkeer-autoluw",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "s": 2,
+  "kern": "Zero-emissiezone in het centrum niet nodig; bereikbaarheid voor bedrijven.",
+  "toelichting": "De partij wil het plan voor een zero-emissiezone in het centrum niet doorzetten. Maatregelen voor schoner vervoer mogen volgens haar niet leiden tot onnodige lasten of praktische problemen voor lokale bedrijven.",
+  "citaat": "Maatregelen voor schoner vervoer mogen niet leiden tot onnodige lasten of praktische problemen voor lokale bedrijven.",
+  "bron": "Stemgids: 'Hilversum moet het plan voor een zero-emissiezone in het centrum niet opgeven' (tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-gas-tijdpad",
+  "s": 0,
+  "kern": "Wel een plan met tussendoelen, geen vaste deadlines",
+  "toelichting": "SCB steunt een duidelijk plan met haalbare tussendoelen om gebouwen van het aardgas te halen en stemde in de raad voor een routekaart met tussendoelen. Tegelijk wil de partij geen vooraf vastgestelde einddatum: betaalbaarheid en haalbaarheid moeten leidend zijn.",
+  "citaat": "Wij steunen een duidelijk plan met haalbare tussendoelen om gebouwen aardgasvrij te maken, maar willen 2050 niet als harde einddatum vastleggen.",
+  "bron": "Stemgids: 'plan met duidelijke tussendoelen ... in 2050 van het aardgas af' (tegen); Raad Hilversum, 04-03-2026: motie M26-016 Routekaart Warmtetransitie (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-kern-locatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-bomen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-maaien",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "s": 1,
+  "kern": "Meer ruimte voor natuur in het buitengebied, naast landbouw.",
+  "toelichting": "De partij wil in het buitengebied meer ruimte voor groen en natuur, naast ruimte voor landbouw. In het plassengebied geeft ze rust voor plant en dier meer gewicht, met recreatie waar dat goed samengaat.",
+  "citaat": "In het buitengebied willen we daarom ruimte houden voor groen, natuur en een aantrekkelijke leefomgeving, naast ruimte voor landbouw.",
+  "bron": "MijnStem: 'In het buitengebied meer ruimte geven aan' (71, richting natuur); MijnStem: 'In het plassengebied inzetten op'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -1,
+  "kern": "Minimaregelingen ook voor inwoners net boven bijstandsniveau.",
+  "toelichting": "De partij wil dat ook inwoners die net boven het bijstandsniveau zitten ondersteuning kunnen krijgen, met ruimte voor zelfstandigheid. Ze kiest dus voor een grens richting 130 procent.",
+  "citaat": "Ook inwoners die net boven het bijstandsniveau zitten kunnen moeite hebben om rond te komen.",
+  "bron": "MijnStem: 'Armoederegelingen voor inwoners op' (70, richting 130%)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 1,
+  "kern": "Cameratoezicht uitbreiden waar nodig.",
+  "toelichting": "De partij vindt cameratoezicht een middel voor een veilige openbare ruimte en wil het waar nodig uitbreiden. Het moet doelgericht worden ingezet en regelmatig worden geëvalueerd.",
+  "citaat": "Cameratoezicht kan bijdragen aan een veilige openbare ruimte.",
+  "bron": "MijnStem: 'Cameratoezicht op straat' (83, richting uitbreiden); Stemgids: cameratoezicht centrum moet blijven (voor)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "s": 1,
+  "kern": "Opvang blijven bieden, maar beheersbaar en met afspraken.",
+  "toelichting": "De partij wil asielzoekers blijven opvangen als de Spreidingswet wordt ingetrokken. De opvang moet beheersbaar zijn, met duidelijke afspraken over aantallen, veiligheid, leefbaarheid en voorzieningen, en niet meer dan het vastgestelde gemeentelijke aantal.",
+  "citaat": "Ook als de wettelijke verplichting verandert, willen we verantwoordelijkheid blijven nemen.",
+  "bron": "Stemgids: 'De gemeente moet asielzoekers blijven opvangen, ook als de Spreidingswet wordt ingetrokken' (voor); MijnStem: 'Opvangplekken voor asielzoekers'",
+  "soort": "stemgids"
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-regenbooggeld",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": -1,
+  "kern": "Op het Media Park de mediaclustering versterken.",
+  "toelichting": "De partij wil op het Media Park vooral ruimte voor mediabedrijven en andere ondernemers, vanwege de lokale economie en werkgelegenheid. Meer woningen zijn daar niet haar voorkeur.",
+  "citaat": "Het Media Park is belangrijk voor de lokale economie en werkgelegenheid.",
+  "bron": "MijnStem: 'Maak een keuze. Op het Media Park:' (72, richting mediabedrijven)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "s": -2,
+  "kern": "Bruisend Hart doorzetten zoals vastgesteld.",
+  "toelichting": "De partij steunt de uitvoering van het vastgestelde plan voor het Oosterspoorplein en wil geen uitstel. Ze bewaakt daarbij kosten, bereikbaarheid en leefbaarheid.",
+  "citaat": "Wij steunen de uitvoering van het vastgestelde plan Bruisend Hart voor het Oosterspoorplein.",
+  "bron": "Stemgids: 'Het plan Bruisend Hart voor het Oosterspoorplein moet doorgaan zoals de raad het heeft vastgesteld' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": 0,
+  "kern": "Extra cultuurgeld afwegen tegen andere voorzieningen.",
+  "toelichting": "De partij vindt kunst en cultuur belangrijk voor ontmoeting en een levendige gemeente en wil ruimte geven aan lokale initiatieven. Extra uitgaven moeten worden afgewogen tegen andere voorzieningen en de financiële mogelijkheden.",
+  "citaat": "Extra uitgaven moeten zorgvuldig worden afgewogen tegen andere belangrijke voorzieningen en de financiële mogelijkheden van de gemeente.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "s": -2,
+  "kern": "Middelen eerlijk verdelen naar behoefte, geen voorrang voor de dorpen.",
+  "toelichting": "De partij wil geen extra geld voor de dorpen ten koste van de stad. Ze wil gemeentelijke middelen eerlijk verdelen over stad en dorpen op basis van behoeften en bestaande voorzieningen, zodat elke wijk en elk dorp krijgt wat nodig is.",
+  "citaat": "SCB staat voor een eerlijke verdeling van gemeentelijke middelen tussen de stad en de dorpen.",
+  "bron": "Hilversums Nieuws 05-11-2026: 'De nieuwe gemeente moet meer geld investeren in de dorpen, ook als Hilversum daardoor minder geld overhoudt voor de stad' (Oneens)",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "s": 1,
+  "kern": "Voorzieningen behouden; lasten hooguit met inflatie omhoog",
+  "toelichting": "SCB wil dat woonlasten niet harder stijgen dan de inflatie, maar wil belangrijke voorzieningen behouden en ziet een beperkte lastenverhoging als alternatief voor te zware bezuinigingen. Verlaging van de OZB noemt de partij niet.",
+  "citaat": "Wij willen belangrijke voorzieningen en ondersteuning voor inwoners behouden. Als bezuinigingen daarop te grote gevolgen hebben, kan een beperkte verhoging van lokale lasten een alternatief zijn.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door: bezuinigen op voorzieningen of lokale lasten verhogen'; Stemgids: woonlasten niet harder dan inflatie (voor)",
+  "soort": "afgeleid"
+ }
+]

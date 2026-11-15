@@ -1,0 +1,245 @@
+[
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": 1,
+  "kern": "Inwoners met lokale binding vooraan bij sociale huur.",
+  "toelichting": "De partij wil dat inwoners van een dorp of buurt vooraan staan bij sociale huurwoningen in hun eigen gemeenschap en dat lokale binding en wachttijd veel zwaarder meewegen. Een percentage zoals de helft noemt het programma niet; wel pleit de partij landelijk voor een bindingsduur van tien jaar.",
+  "citaat": "inwoners van een dorp of buurt vooraan laten staan bij de toewijzing van sociale huurwoningen in hun eigen gemeenschap",
+  "bron": "p. 37; p. 47",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "s": 0,
+  "kern": "Premiewoningen liever dan alleen een starterslening.",
+  "toelichting": "De partij steunt de starterslening, maar wil liever premiewoningen: woningen waarbij de gemeente bijlegt en voorwaarden stelt aan wie koopt. Ze kiest dus geen van beide uitsluitend en wil dat starters en lokale inwoners betaalbaar kunnen kopen.",
+  "citaat": "Liever premiewoningen dan alleen een starterslening. De gemeente kan financieel bijdragen en voorwaarden stellen, zodat starters en lokale inwoners betaalbaar een huis kunnen kopen.",
+  "bron": "Stemgids: 'De gemeente moet starters helpen een huis te kopen met een starterslening' (voor); p. 36",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-bezoek",
+  "s": -2,
+  "kern": "Buiten het centrum geen betaald parkeren, dus ook gratis bezoek.",
+  "toelichting": "De partij wil niet dat bezoekers van bewoners in wijken een laag tarief betalen, maar wil buiten het centrum helemaal geen betaald parkeren, zodat bezoek gratis blijft.",
+  "citaat": "Buiten het centrum wil DvD geen betaald parkeren. Woonwijken zijn er om te wonen, niet om extra inkomsten voor de gemeente te genereren.",
+  "bron": "Stemgids: 'Bezoekers van bewoners moeten gratis kunnen parkeren in wijken met betaald parkeren' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-30-dorpswegen",
+  "s": -2,
+  "kern": "Geen 30 km/u voordat de weg is aangepast.",
+  "toelichting": "De partij is tegen het meteen invoeren van 30 km/u op drukke dorpsstraten waar de weg nog niet is aangepast. Ze wil een voorspelbaar, herkenbaar verkeersbeeld en wijst ook een algemene 30 km/u in de bebouwde kom af.",
+  "citaat": "Het verkeersbeeld moet voorspelbaar zijn. Duidelijke en herkenbare verkeerssituaties vergroten de veiligheid en voorkomen onnodige verwarring bij automobilisten, fietsers en voetgangers.",
+  "bron": "Stemgids: 'Op drukke dorpsstraten ... moet de gemeente meteen 30 kilometer per uur invoeren' (tegen); MijnStem: 'Maximumsnelheid van 30 km/u invoeren in de bebouwde kom'",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-gas-tijdpad",
+  "s": -1,
+  "kern": "Geen tijdpad aardgasvrij; eerst haalbaarheid en inwonerskeuze.",
+  "toelichting": "De partij was tegen een plan met tussendoelen om in 2050 van het aardgas af te zijn. Inwoners moeten zelf kunnen kiezen en plannen moeten eerst op technische haalbaarheid en betaalbaarheid worden onderzocht. Over een wijkgewijs tijdpad spreekt het programma zich niet uit.",
+  "citaat": "Inwoners moeten zelf kunnen bepalen wat zij in hun leefomgeving willen. Daarbij moet vooraf eerlijk worden onderzocht of plannen technisch haalbaar en betaalbaar zijn.",
+  "bron": "Stemgids: 'De gemeente moet een plan met duidelijke tussendoelen maken om alle gebouwen in 2050 van het aardgas af te hebben' (tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snelvaren",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-recreant-betaalt",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snippergroen",
+  "s": -1,
+  "kern": "Open ruimte en groen in dorpen en wijken beschermen.",
+  "toelichting": "De partij wil niet elke lege plek binnen een dorp volbouwen en wil grasvelden, speelplekken en open ruimte in dorpen en buurten beschermen. Als alternatief wil ze gecontroleerde uitbreiding aan de dorpsrand. In buurten met weinig groen mag volgens haar geen openbaar groen meer verdwijnen.",
+  "citaat": "Niet iedere lege vierkante meter binnen een dorp hoeft te worden volgebouwd.",
+  "bron": "p. 48; p. 49; Stemgids: 'In buurten met weinig groen mag er geen openbaar groen meer verdwijnen' (voor)",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": -1,
+  "kern": "Niet miljoenen bezuinigen op jeugdzorg; wel hervormen.",
+  "toelichting": "De partij vindt dat de gemeente niet miljoenen mag bezuinigen op de jeugdzorg, maar wil de jeugdzorg wel hervormen: problemen eerder herkennen, hulp dichter bij gezinnen en minder bureaucratie, zodat de zorg passend en betaalbaar wordt.",
+  "citaat": "DvD wil de jeugdzorg hervormen. Problemen moeten eerder worden herkend en hulp moet dichter bij gezinnen worden georganiseerd. Minder bureaucratie en betere samenwerking moeten leiden tot passende, betaalbare zorg.",
+  "bron": "Stemgids: 'De gemeente mag niet miljoenen bezuinigen op de jeugdzorg' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "veiligheid-coffeeshops-aantal",
+  "s": -1,
+  "kern": "Huidig coffeeshopbeleid handhaven; aantal niet verlagen.",
+  "toelichting": "De partij wil het huidige coffeeshopbeleid handhaven, om illegale handel te voorkomen en zicht te houden op de problematiek. Een lager maximum hoort daar niet bij.",
+  "citaat": "DvD is voor handhaving van het huidige beleid om illegale handel te voorkomen en zo zicht te kunnen blijven houden op deze problematiek.",
+  "bron": "MijnStem: 'Het aantal coffeeshops verminderen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": 1,
+  "kern": "Inwoners zwaar laten wegen, via referendum; raad houdt eindverantwoordelijkheid.",
+  "toelichting": "De partij wil inwoners vroeg betrekken bij opvangplannen en dorpsraden bij zulke besluiten een lokaal referendum laten starten. Ze streeft naar bindende referenda, maar zolang de wet dat niet toelaat respecteert ze de uitslag politiek; de gemeenteraad blijft wettelijk verantwoordelijk.",
+  "citaat": "Wij willen dat dorpsraden bij dergelijke onderwerpen, waar de wettelijke mogelijkheden dat toelaten, een lokaal referendum kunnen initiëren.",
+  "bron": "p. 6 (asielopvang genoemd als onderwerp); p. 44; Stemgids: 'Inwoners moeten een doorslaggevende stem hebben' (toelichting)",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "s": 0,
+  "kern": "Bruisend Hart niet meer stoppen; vervolg betaalbaar uitvoeren.",
+  "toelichting": "De partij vindt stoppen van Bruisend Hart niet meer realistisch en wil kijken hoe het vervolg verstandig en betaalbaar kan worden uitgevoerd. Uitstel zelf noemt ze niet; op doorgaan zoals vastgesteld koos ze neutraal.",
+  "citaat": "Stoppen is niet meer realistisch. DvD wil daarom kijken hoe het vervolg zo verstandig, betaalbaar en in het belang van inwoners kan worden uitgevoerd.",
+  "bron": "Stemgids: 'Het plan Bruisend Hart voor het Oosterspoorplein moet doorgaan zoals de raad het heeft vastgesteld' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": 1,
+  "kern": "Meer ruimte voor recreatie op de plassen, met respect voor natuur",
+  "toelichting": "Dorp voor Dorp wil in het plassengebied meer ruimte voor varen, zwemmen, wandelen en recreatie, met respect voor natuur en rust, zodat het gebied aantrekkelijk blijft voor inwoners en ondernemers. Tegelijk vindt de partij extra stimulering van toerisme niet nodig. Over nieuwe jachthavens, vakantieparken of horeca zegt zij niets concreets.",
+  "citaat": "Geef meer ruimte aan varen, zwemmen, wandelen en recreatie, met respect voor natuur en rust.",
+  "bron": "MijnStem: 'Maak een keuze. In het plassengebied inzetten op' (28, richting meer recreatie)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "cultuur-dorpsgarantie",
+  "s": 1,
+  "kern": "Dorpshuizen behouden en subsidie voor langere tijd zekerstellen",
+  "toelichting": "Dorp voor Dorp wil bestaande dorpshuizen en buurthuizen behouden en waar nodig versterken, en is voor subsidie aan buurtcentra voor vijf jaar in plaats van één jaar. Een garantie op hetzelfde subsidiebedrag na de fusie noemt de partij niet.",
+  "citaat": "bestaande dorpshuizen en buurthuizen behouden en waar nodig versterken;",
+  "bron": "p. 42",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "cultuur-sportevenementen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": 2,
+  "kern": "Een gekozen dorpsraad in ieder dorp, met eigen budget.",
+  "toelichting": "De partij wil in ieder dorp een gekozen dorpsraad (maximaal vijf leden, jaarlijks gekozen) met een eigen budget, en laat dit niet afhangen van een verzoek van inwoners. Ook wijkraden voor buurten staan in haar plannen.",
+  "citaat": "Daarom willen wij dat ieder dorp beschikt over een eigen dorpsbudget.",
+  "bron": "p. 6; p. 7; MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners'",
+  "soort": "programma"
+ },
+ {
+  "id": "bestuur-leges-dorpsevenementen",
+  "s": 1,
+  "kern": "Kleine dorpsevenementen leges-vrij, als algemeen beleid.",
+  "toelichting": "De partij wil dat kleine evenementen in de dorpen na de fusie geen leges betalen, maar dan als algemeen beleid en niet als losse uitzondering. Ze benadrukt duidelijke, eerlijke regels en gelijke behandeling, dus niet een apart regime voor de dorpen.",
+  "citaat": "Dit moet algemeen beleid zijn en niet afhankelijk van losse uitzonderingen of willekeur. Duidelijke, eerlijke regels zorgen voor voorspelbaarheid en gelijke behandeling.",
+  "bron": "Stemgids: 'Kleine evenementen in de dorpen moeten na de fusie geen leges hoeven te betalen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": 0,
+  "kern": "Subsidies zonder aantoonbaar resultaat eerst; bewezen waarde sparen.",
+  "toelichting": "De partij wil bij een tekort eerst snijden in subsidies zonder aantoonbaar resultaat, niet in alle cultuur, evenementen of maatschappelijke organisaties. Ze wil lokale evenementen en tradities juist behouden en buurthuizen een stabiele subsidie geven.",
+  "citaat": "Snijd in bureaucratie, externe inhuur, geldverslindende en ideologische projecten en subsidies zonder aantoonbaar resultaat, voordat we inwoners meer laten betalen.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door'; p. 89",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": 2,
+  "kern": "Afvalheffing als vast bedrag per huishouden.",
+  "toelichting": "De partij kiest voor een vast bedrag per huishouden en is tegen een heffing op basis van de hoeveelheid afval, vanwege het risico op illegaal dumpen, extra administratie en privacyvragen.",
+  "citaat": "DvD is tegen de kiloheffing vanwege het risico op illegale dumpingen, de toenemende administratieve kosten en de vragen die de heffing oproept over privacy.",
+  "bron": "MijnStem: 'Afvalheffing op basis van: vast bedrag per huishouden / hoeveelheid afval'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-toerist-forens-laag",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-investeringen-spreiden",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ }
+]

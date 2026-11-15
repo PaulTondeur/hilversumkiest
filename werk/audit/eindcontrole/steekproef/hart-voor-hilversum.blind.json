@@ -1,0 +1,152 @@
+[
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "thema": "wonen",
+  "stelling": "Hoge woongebouwen horen alleen bij de stations en in het centrum van Hilversum, niet in wijken zoals de Hilversumse Meent.",
+  "uitleg": "Hilversum bouwt de hoogste gebouwen vooral in het centrum en rond het station, en lager naar de randen. De Omgevingsvisie Hilversum 2040 wil zo ook het zogeheten illusielandschap sparen: vanaf de hei zie je weinig bebouwing boven de bomen uitkomen. Er wordt gediscussieerd over uitzonderingen elders; voor het winkelcentrum van de Meent staat de raad bebouwing tot 25 meter toe."
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "thema": "verkeer",
+  "stelling": "Het betaald parkeren dat in 2024 en 2025 is ingevoerd in de Hilversumse wijken tot aan de buitenring, wordt weer afgeschaft.",
+  "uitleg": "Tussen juli 2024 en mei 2025 is betaald parkeren wijk voor wijk uitgebreid naar heel Hilversum tot en met de buitenring; de raad besloot daartoe in 2023. Bewoners betalen daar nu voor een vergunning en bezoek betaalt een bezoekerstarief. Een onafhankelijk bureau onderzoekt de effecten; de uitkomst komt in 2027. Afschaffen betekent dat die wijken weer vrij parkeren; handhaven betekent dat het beleid hooguit wordt bijgesteld."
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "thema": "verkeer",
+  "stelling": "Het eerste uur parkeren wordt overal in de gemeente gratis, ook in het centrum van Hilversum.",
+  "uitleg": "In de betaalde gebieden van Hilversum betaal je vanaf de eerste minuut; in het centrum kost het eerste uur nu 3,20 euro. In de dorpen van Wijdemeren is parkeren gratis. Een gratis eerste uur maakt een korte boodschap of een kort bezoek goedkoper, maar kost parkeergeld en kan leiden tot meer korte autoritjes en zoekverkeer."
+ },
+ {
+  "id": "verkeer-autoluw",
+  "thema": "verkeer",
+  "stelling": "Het centrum van Hilversum wordt autoluw: auto's parkeren in garages aan de rand en de binnenstad is voor voetgangers en fietsers.",
+  "uitleg": "Auto's rijden nu via de centrumring naar parkeergarages als Hilvertshof en Gooiland, midden in het centrum. Plannen voor een autoluw centrum gaan over minder doorgaand autoverkeer, meer ruimte op straten en pleinen voor voetgangers en fietsers en op termijn garages aan de rand."
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "thema": "verkeer",
+  "stelling": "Bestelbussen en vrachtauto's op diesel of benzine blijven welkom in het centrum van Hilversum.",
+  "uitleg": "Hilversum heeft een zero-emissiezone onderzocht: een gebied binnen de centrumring waar vanaf 2027 alleen bestel- en vrachtauto's zonder uitstoot in zouden mogen. In april 2025 wees de gemeenteraad dat voorstel af; er ligt nu geen nieuw plan. Eens betekent: er komt ook later geen zone; oneens: de nieuwe raad komt met een nieuw voorstel."
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "thema": "klimaat",
+  "stelling": "Ook als omwonenden ervoor zijn, blijft de gemeente zich verzetten tegen grote windturbines in en vlak bij de gemeente.",
+  "uitleg": "De provincie Utrecht onderzoekt of er grote windturbines kunnen komen in de Hoeker- en Garstenpolder, direct tegenover Nederhorst den Berg; hoe hoog en hoeveel staat nog niet vast. De raad van Wijdemeren sprak zich er in 2025 en 2026 tegen uit. Sommige partijen wijzen grote windturbines hier altijd af, andere willen het laten afhangen van wat omwonenden ervan vinden. De gemeente kan zo'n draagvlakmeting zelf organiseren en meewegen, maar de provincie Utrecht beslist over deze plek."
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "thema": "klimaat",
+  "stelling": "Op boerenland mogen zonnepanelen komen, als de grond daarnaast gewoon voor landbouw gebruikt blijft.",
+  "uitleg": "Bijna alle partijen willen eerst zonnepanelen op daken. De vraag is of daarnaast ook in de polders en weilanden panelen mogen komen. Een tussenvorm is dat panelen boven of tussen gewassen of weidegrond staan, zodat de boer de grond blijft gebruiken. Waar dat mag, beslist de gemeente in het omgevingsplan."
+ },
+ {
+  "id": "natuur-groennorm",
+  "thema": "natuur",
+  "stelling": "Bij elk nieuwbouwplan is de groennorm 3-30-300 verplicht, ook als er daardoor minder woningen passen.",
+  "uitleg": "De 3-30-300-norm betekent: vanuit elk huis drie bomen zien, 30 procent van de buurt onder bladerdak en binnen 300 meter een park of groene plek. Veel partijen noemen de norm als richtlijn of ambitie. De vraag is of hij een harde eis wordt die voorgaat op het aantal woningen."
+ },
+ {
+  "id": "natuur-bomen",
+  "thema": "natuur",
+  "stelling": "Een boom mag wijken voor een bouw- of wegenplan, als er in de buurt een stevige nieuwe boom voor terugkomt.",
+  "uitleg": "Voor het kappen van grotere bomen is vaak een vergunning nodig: in Hilversum voor bomen vanaf 30 centimeter stamdoorsnede, in Wijdemeren voor bomen die op een speciale 'Groene Kaart' staan. Bij bouw- en wegenplannen sneuvelen regelmatig bomen, met een herplantplicht als compensatie. Partijen verschillen over de vraag of herplant genoeg is of dat bestaande bomen in principe moeten blijven staan."
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "thema": "natuur",
+  "stelling": "In de polders bij de plassen moet een deel van de landbouwgrond nieuwe natuur worden.",
+  "uitleg": "Met het Gebiedsakkoord Oostelijke Vechtplassen (2017) is afgesproken dat er tot 2027 honderden hectares nieuwe natuur bij komen, onder meer bij Kortenhoef, de Weersloot en de Ster van Loosdrecht. Dat gaat vaak ten koste van weidegrond. De provincie heeft het voortouw; de gemeente kan meewerken, aanjagen of afremmen."
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "thema": "zorg",
+  "stelling": "In elk dorp en elke wijk zonder buurthuis zorgt de gemeente voor een ontmoetingsplek, en betaalt zij die.",
+  "uitleg": "Niet elke wijk of elk dorp heeft een buurthuis of dorpshuis; in sommige dorpen draaien plekken zoals de Buurtkamer 3D (Kortenhoef, 's-Graveland, Ankeveen) op vrijwilligers. Een ontmoetingsplek helpt tegen eenzaamheid, maar kost geld voor ruimte en begeleiding. De keuze is of de gemeente dat overal regelt en betaalt, of overlaat aan bewoners waar die behoefte er is."
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "thema": "veiligheid",
+  "stelling": "Boa's besteden hun tijd vooral aan ernstige overlast en intimidatie, en minder aan foutparkeren, hondenpoep en andere kleine overtredingen.",
+  "uitleg": "Het aantal boa's is beperkt, dus de gemeente kiest waar zij op letten. Nu schrijven boa's ook bonnen voor kleine overtredingen zoals verkeerd parkeren of hondenpoep. Deze keuze gaat over de prioriteit: zware overlast eerst, of ook de kleine ergernissen streng aanpakken."
+ },
+ {
+  "id": "veiligheid-coffeeshops-aantal",
+  "thema": "veiligheid",
+  "stelling": "Hilversum verlaagt het maximum aantal coffeeshops.",
+  "uitleg": "Hilversum heeft een maximum van acht coffeeshops, en dat maximum is bereikt; voor zover bekend zijn er in de dorpen van Wijdemeren geen coffeeshops. De burgemeester stelt dit beleid vast; de raad kan wel vragen om een lager maximum. Een lager maximum betekent dat een gesloten coffeeshop niet terugkomt. Voorstanders willen minder drugsgebruik en overlast, tegenstanders vrezen meer straathandel."
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "thema": "asiel",
+  "stelling": "Als de Spreidingswet verdwijnt, houdt de gemeente haar opvangplekken voor asielzoekers gewoon open.",
+  "uitleg": "De Spreidingswet verplicht sinds 2024 elke gemeente om een deel van de opvang van asielzoekers te regelen. Een aantal Kamerleden heeft een wetsvoorstel ingediend om die wet in te trekken; de Raad van State raadde dat in 2026 af en er is nog niet over gestemd. Zonder de wet beslist de gemeente zelf of zij opvang blijft bieden. Hilversum vangt nu asielzoekers op in Hotel Gooiland en bereidt nieuwe locaties voor; de tijdelijke noodopvang in Loosdrecht stopte in oktober 2026."
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "thema": "asiel",
+  "stelling": "Bij een nieuwe opvanglocatie hebben de omwonenden het laatste woord, niet de gemeenteraad.",
+  "uitleg": "Bij de keuze van een opvanglocatie kunnen omwonenden worden geïnformeerd, advies geven of echt kunnen tegenhouden. Nu kiest het college de locaties, binnen de kaders van de gemeenteraad. Onder de Spreidingswet kan het Rijk een gemeente die niets regelt in het uiterste geval opdragen om opvang te realiseren."
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "thema": "economie",
+  "stelling": "Op het Media Park komen flink meer woningen, ook als er daardoor minder ruimte overblijft voor mediabedrijven.",
+  "uitleg": "Het Media Park in Hilversum is het grootste mediacluster van Nederland; volgens de gemeente komt meer dan een kwart van de banen in Hilversum uit de creatieve sector. De vraag is hoeveel van de vrije ruimte en lege gebouwen daar naar woningen gaat. Eens betekent: woningbouw krijgt daar een groot deel van de ruimte; oneens: mediabedrijven gaan voor en woningen zijn hooguit een aanvulling."
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "thema": "economie",
+  "stelling": "Rond de Loosdrechtse Plassen mag ruimte komen voor meer jachthavens, vakantieparken en horeca.",
+  "uitleg": "Het plassengebied is een belangrijk recreatiegebied en tegelijk beschermde natuur (Natura 2000). Ondernemers willen soms uitbreiden; de gemeente beslist via het omgevingsplan waar dat mag, binnen regels van provincie en Rijk voor de natuur. Partijen verschillen over de vraag of er groei bij mag komen of dat de huidige omvang genoeg is."
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "thema": "cultuur",
+  "stelling": "Hilversum gaat net zoveel geld aan kunst en cultuur uitgeven als andere steden van dezelfde grootte.",
+  "uitleg": "Hilversum geeft volgens onder meer PRO minder uit aan cultuur dan vergelijkbare gemeenten; een voorstel uit 2022 voor 250.000 euro per jaar extra kreeg geen meerderheid. Na de fusie worden de subsidieregels van Hilversum en Wijdemeren samengevoegd, en de nieuwe raad kiest hoeveel geld er naar cultuur gaat. Meer geld voor cultuur betekent minder ruimte voor andere uitgaven of hogere lasten, terwijl de gemeentefinanciën onder druk staan."
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "thema": "cultuur",
+  "stelling": "Een cultureel project krijgt hooguit vijf jaar subsidie; daarna moet het zonder geld van de gemeente verder.",
+  "uitleg": "Naast vaste subsidies voor instellingen geeft de gemeente projectsubsidies aan nieuwe culturele initiatieven. De VVD wil dat zulke steun altijd eindig is; andere partijen willen juist meerjarige zekerheid, zodat initiatieven en vrijwilligers vooruit kunnen plannen."
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "thema": "cultuur",
+  "stelling": "De regels voor monumenten worden soepeler, zodat eigenaren hun pand makkelijker kunnen verduurzamen of verbouwen.",
+  "uitleg": "De nieuwe gemeente telt veel monumenten, met veel werk van architect Dudok en beschermde dorpsgezichten in de dorpen. Voor veranderingen aan een monument, zoals zonnepanelen of isolatie, zijn vaak een vergunning en advies van een commissie nodig. Soepeler regels maken verduurzamen en verbouwen makkelijker, maar kunnen het historische karakter aantasten."
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "thema": "bestuur",
+  "stelling": "Elk dorp krijgt een eigen gemeenteloket dat minstens één dag per week open is, ook als dat extra geld kost.",
+  "uitleg": "Voor bijvoorbeeld een paspoort of rijbewijs konden inwoners terecht bij het stadskantoor in Hilversum en het gemeentehuis in Loosdrecht. Het loket in Loosdrecht sluit eind december 2026; vanaf januari 2027 is er alleen het stadskantoor in Hilversum. De vraag is hoe dichtbij de gemeente in de dorpen moet zijn: een vast loket per dorp, spreekuren in dorpshuizen, een mobiel loket dat langs de dorpen rijdt, of vooral hulp via internet en telefoon, op afspraak."
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "thema": "bestuur",
+  "stelling": "De nieuwe gemeente geeft de dorpen de komende jaren voorrang bij investeringen, ook als plannen in de stad daardoor moeten wachten.",
+  "uitleg": "De fusie volgde op financiële en bestuurlijke problemen in Wijdemeren; meerdere partijen wijzen op achterstallig onderhoud aan wegen en voorzieningen in de dorpen. De nieuwe gemeente moet kiezen hoe ze geld verdeelt tussen stad en dorpen. Sommige partijen willen de dorpen een gegarandeerd budget geven, andere willen investeren waar de nood het hoogst is, zonder vooraf onderscheid tussen stad en dorp."
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "thema": "bestuur",
+  "stelling": "Een referendum is een advies: de gemeenteraad mag na afweging anders besluiten dan de uitslag.",
+  "uitleg": "Hilversum heeft sinds 2017 een correctief raadgevend referendum: inwoners kunnen na een raadsbesluit om een stemming vragen, maar de raad beslist uiteindelijk zelf. In Wijdemeren werd een voorstel voor een referendumregeling in 2024 verworpen. Een bindend referendum, waarbij de uitslag de raad verplicht, kan volgens de huidige wet niet; sommige partijen willen dat de raad de uitslag toch altijd volgt."
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "thema": "financien",
+  "stelling": "De OZB blijft de komende vier jaar meestijgen met de inflatie, in plaats van omlaag te gaan.",
+  "uitleg": "De OZB wordt per 2027 in de hele gemeente gelijk getrokken op het Hilversumse niveau: woningeigenaren in Wijdemeren gaan daardoor minder betalen, in Hilversum stijgen de woonlasten in 2027 met ongeveer 4% omdat de inflatie hoger is. Daarna is het uitgangspunt dat de woonlasten (OZB, afval- en rioolheffing) jaarlijks met de inflatie meestijgen. Veel partijen willen dat zo houden; een kleinere groep wil de OZB echt verlagen door de gemeente minder te laten doen."
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "thema": "financien",
+  "stelling": "Voor afval betaalt elk huishouden hetzelfde vaste bedrag, hoeveel restafval het ook aanbiedt.",
+  "uitleg": "De afvalstoffenheffing is nu in Hilversum en Wijdemeren een vast bedrag per huishouden, dat alleen afhangt van het aantal personen en niet van de hoeveelheid afval. Een deel van de partijen wil dat je minder betaalt als je goed scheidt en weinig restafval hebt, bijvoorbeeld via een chip in de container. Tegenstanders vrezen illegaal dumpen, meer administratie en hogere rekeningen voor gezinnen met veel luiers of incontinentiemateriaal."
+ }
+]

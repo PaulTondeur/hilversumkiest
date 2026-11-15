@@ -1,0 +1,245 @@
+[
+ {
+  "id": "wonen-eigen-behoefte",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-kantoren-naar-wonen",
+  "s": 0,
+  "kern": "Open voor ombouw, maar per locatie en met behoud van werkruimte",
+  "toelichting": "De partij staat open voor het ombouwen van bestaande gebouwen tot woningen, maar wil voldoende ruimte houden voor bedrijven en wil industrieterreinen niet terugdringen. Of wonen en werk vermengd of verplaatst worden, wil zij per locatie bekijken; een vaste eis dat elders werkruimte bijkomt steunt ze niet en wijst ze ook niet af.",
+  "citaat": "Lokaal Eén is geen voorstander van het terugdringen van industrieparken. Relocatie of vermenging van productiviteit met wonen zal per locatie bezien worden.",
+  "bron": "Stemgids: 'Kantoren en bedrijfsruimtes mogen alleen woningen worden als er elders ruimte voor werk bijkomt' (neutraal); Verkiezingsprogramma 2027-2030, 'Ondernemende gemeente', Behoud van industrieterreinen; Partijprogramma (kernpunten), 'Bouwende gemeente'",
+  "soort": "stemgids"
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": 1,
+  "kern": "Voorrang voor eigen inwoners bij huur en koop",
+  "toelichting": "De partij wil de mogelijkheid benutten om eigen woningzoekende inwoners voorrang te geven bij huur en koop. Een percentage noemt ze niet.",
+  "citaat": "We willen de mogelijkheid creëren om voorrang te geven aan onze eigen inwoners, zowel bij huur- als koopwoningen.",
+  "bron": "Verkiezingsprogramma, Partijprogramma, 'Bouwende gemeente'; Verkiezingsprogramma 'Eerlijke kansen op de woningmarkt', Lokaal toewijzing",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "s": -1,
+  "kern": "Steunt de starterslening",
+  "toelichting": "De partij is voor een starterslening om starters te helpen een huis te kopen. Zij wil daarnaast de doorstroming bevorderen en eigen inwoners voorrang geven bij huur- en koopwoningen.",
+  "citaat": null,
+  "bron": "Stemgids: 'De gemeente moet starters helpen een huis te kopen met een starterslening' (voor, zonder toelichting)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "s": -1,
+  "kern": "Geen betaald parkeren buiten de ring; in wijken alleen in overleg",
+  "toelichting": "De partij wil geen betaald parkeren buiten de ring en in de dorpen en alleen in woonwijken waar inwoners dat willen, van 8 tot 19 uur. Afschaffen wil ze het dus niet overal.",
+  "citaat": "Lokaal Eén wil een afgewogen Betaald Parkeren beleid: geen betaald parkeren buiten de ring of in de dorpen; het eerste uur parkeren is gratis en in overleg met inwoners in de woonwijken betaald parkeren van 8 tot 19 uur.",
+  "bron": "Verkiezingsprogramma, 'Bereikbare gemeente', Eerlijk en afgewogen parkeerbeleid; Stemgids: 'De uitbreiding van betaald parkeren ... teruggedraaid' (voor); MijnStem: 'Betaald parkeren ...'",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": 1,
+  "kern": "Betaald parkeren in woonwijken alleen in overleg met inwoners",
+  "toelichting": "De partij wil betaald parkeren in de woonwijken alleen in overleg met inwoners en wil het terugdringen waar inwoners er geen behoefte aan hebben. Buiten de ring en in de dorpen wil zij helemaal geen betaald parkeren. Een bindende bewonersstemming noemt zij niet.",
+  "citaat": "Terugdringen daar waar inwoners geen behoefte aan betaald parkeren hebben.",
+  "bron": "MijnStem: 'Maak een keuze. Betaald parkeren in het centrum en de wijken van Hilversum'; Verkiezingsprogramma 2027-2030, 'Bereikbare gemeente', Eerlijk en afgewogen parkeerbeleid",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "verkeer-30-hoofdwegen",
+  "s": -1,
+  "kern": "Grotendeels 30 km/u in de hele bebouwde kom",
+  "toelichting": "De partij wil binnen de bebouwde kom de maximumsnelheid grotendeels naar 30 km/u brengen, dus verder dan alleen woonstraten en scholen. Dat gebeurt gefaseerd, in overleg met de buurt en met aanpassingen aan de weg. Op aangrenzende provinciale wegen wil zij 60 km/u.",
+  "citaat": "Lokaal Eén streeft naar verlaging van de maximum snelheid op aangrenzende provinciale wegen naar 60 km/u en binnen de bebouwde kom grotendeels naar 30 km/u.",
+  "bron": "Verkiezingsprogramma 2027-2030, 'Bereikbare gemeente', Gefaseerde snelheidsverlaging; MijnStem: 'Maximumsnelheid van 30 km/u invoeren in de bebouwde kom'",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-30-dorpswegen",
+  "s": -1,
+  "kern": "Wel 30 km/u op gedeelde dorpswegen, maar pas na herinrichting",
+  "toelichting": "De partij wil 30 km/u op wegen waar auto's, fietsers en voetgangers de weg delen, zoals het Mobiliteitsplan vastlegt. Volgens haar moet zo'n weg wel eerst worden heringericht: alleen borden plaatsen geeft schijnveiligheid en is niet te handhaven.",
+  "citaat": "Alleen borden neerzetten creëert schijnveiligheid, en dan kan de maximumsnelheid van 30 km niet worden gehandhaafd.",
+  "bron": "Stemgids: 'Op drukke dorpsstraten ... meteen 30 kilometer per uur' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-alleen-rijk",
+  "s": -2,
+  "kern": "Eigen klimaatdoel 2050 en ondersteuning blijven",
+  "toelichting": "De partij houdt vast aan het afgesproken klimaatdoel van uiterlijk 2050 en wil subsidies en ondersteuning voor verduurzaming behouden. Een eigen, sneller doel stelt ze niet.",
+  "citaat": "Lokaal Eén houdt vast aan het afgesproken klimaatdoel om uiterlijk in 2050 een volledig klimaatneutrale gemeente te zijn.",
+  "bron": "Verkiezingsprogramma, 'Duurzame gemeente', Koers op 2050",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-recreant-betaalt",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-bomen",
+  "s": 1,
+  "kern": "Herplantplicht houden, beeldbepalend groen beschermen",
+  "toelichting": "De partij wil een nieuw bomenbeleid waarin het kapbeleid en de herplantplicht worden geactualiseerd en beeldbepalend groen wordt beschermd. Gewone bomen kunnen dus met herplant wijken, maar beeldbepalende bomen moeten blijven.",
+  "citaat": "De groene hoofdstructuur is helder vastgelegd en het velbeleid en de herplantplicht worden geactualiseerd. Beeldbepalend groen wordt beschermd.",
+  "bron": "Verkiezingsprogramma 2027-2030, 'Groene en gezonde gemeente', Nieuw Bomenbeleid en versterking van biodiversiteit",
+  "soort": "programma"
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -2,
+  "kern": "Armoederegeling blijft op 130% van het sociaal minimum",
+  "toelichting": "De partij wil de armoederegelingen voor inwoners tot 130% van bijstandsniveau houden en dus niet beperken tot bijstandsniveau.",
+  "citaat": "Lokaal Eén wil de Armoederegeling voor inwoners op 130% houden.",
+  "bron": "MijnStem: 'Armoederegelingen voor inwoners op:'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-wmo-kwijtschelding",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 0,
+  "kern": "Camera's alleen waar nodig en wettelijk onderbouwd",
+  "toelichting": "De partij wil cameratoezicht alleen inzetten waar het wettelijk onderbouwd en nodig is en waarschuwt voor schijnveiligheid door een woud aan camera's.",
+  "citaat": "Cameratoezicht wordt ingezet waar dat wettelijk onderbouwd en noodzakelijk is voor de veiligheid.",
+  "bron": "Verkiezingsprogramma, 'Veilige gemeente', Cameratoezicht en lokale handhaving; MijnStem: 'Cameratoezicht op straat'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "s": 1,
+  "kern": "Kleinschalige opvang, verspreid door de hele gemeente",
+  "toelichting": "De partij wil kleinschalige opvang, verspreid door de gehele nieuwe gemeente. Het Hilversumse kader van 2023 noemt ze niet bij naam.",
+  "citaat": "Dat betekent kleinschalige opvang, verspreid door de gemeente, opdat maatschappelijke problemen worden voorkomen",
+  "bron": "Verkiezingsprogramma, 'Humane opvang', Vluchtelingenopvang",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": 0,
+  "kern": "Media Park: media en ICT, plus studentenwoningen",
+  "toelichting": "De partij kiest op het Media Park niet tussen wonen en mediabedrijven: ze wil doorontwikkeling voor media en ICT en daarbij studentenhuisvesting op de campus.",
+  "citaat": "In de campusopzet past het bieden van woonruimte voor studenten.",
+  "bron": "MijnStem: 'Maak een keuze. Op het Media Park:'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "economie-stadsfonds-afschaffen",
+  "s": 0,
+  "kern": "Stadsfonds herijken, alternatieve regeling zoeken",
+  "toelichting": "De partij wil het verplichte Stadsfonds herijken en met de betalers van OZB niet-woningen een alternatieve regeling zoeken. Afschaffen zegt ze niet.",
+  "citaat": "Het verplichte Stadsfonds wordt herijkt: in nauw overleg met de betalers van OZB niet-woningen wordt gezocht naar een alternatieve regeling die wél aansluit bij de lokale behoeften.",
+  "bron": "Verkiezingsprogramma, 'Solide gemeente', Focus op de kern",
+  "soort": "programma"
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentale-scholen",
+  "s": 0,
+  "kern": "Monumentaal of nieuw: als het gebouw maar gezond is",
+  "toelichting": "De partij kiest niet tussen monumentale en nieuwe schoolgebouwen: elke school heeft een eigen karakter, zolang het gebouw gezond is en goede buitenruimte heeft. Zij ontmoedigt sloop en wil erfgoed een nieuwe bestemming kunnen geven.",
+  "citaat": "Monumentale of nieuwe schoolgebouwen, elke school heeft zijn eigen karakter. Wat zij volgens Lokaal Eén gemeen hebben, is dat het een gezond gebouw is",
+  "bron": "Partijprogramma (kernpunten), 'Lerende gemeente'",
+  "soort": "programma"
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": -2,
+  "kern": "Tegen extra bestuurslaag; wel inwonersplatforms",
+  "toelichting": "De partij is tegen een extra bestuurslaag en wil inwoners wel laten verenigen in platforms. Een gekozen raad op verzoek van inwoners noemt ze niet.",
+  "citaat": "Lokaal Eén is tegen een extra bestuurslaag.",
+  "bron": "MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": -1,
+  "kern": "Geen extra bestuurslaag, wel platforms met mandaat en budget",
+  "toelichting": "De partij is tegen een extra bestuurslaag en daarmee tegen dorps- en wijkraden met eigen beslissingsmacht. Als alternatief wil zij wijk- en dorpsplatforms waarmee vooraf afspraken worden gemaakt over mandaat en wijkbudgetten.",
+  "citaat": "Lokaal Eén is tegen een extra bestuurslaag. Inwoners moeten zich wel kunnen verenigen in platforms om zich met elkaar en de gemeente te verbinden.",
+  "bron": "MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners'; Verkiezingsprogramma 2027-2030, 'Luisterende gemeente', Inwonerskracht en maatwerk per buurt",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": -1,
+  "kern": "Geen loket in elk dorp; wel online, telefoon, afspraak",
+  "toelichting": "De partij vindt een loket in elk dorp te duur en wil de gemeente wel goed bereikbaar maken, online, telefonisch of op afspraak.",
+  "citaat": "Lokaal Eén is geen voorstander van een loket in elk dorp. Dit brengt enorme kosten met zich mee.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "s": 1,
+  "kern": "Woonlasten maximaal met inflatie laten stijgen",
+  "toelichting": "De partij streeft ernaar dat OZB, riool- en afvalstoffenheffing maximaal met de inflatie stijgen. Een echte verlaging belooft ze niet.",
+  "citaat": "Het streven blijft de gemeentelijke woonlasten OZB, riool- en afvalstoffenheffing maximaal met het inflatiepercentage (volgens Consumenten Prijs Index) te laten stijgen.",
+  "bron": "Verkiezingsprogramma, 'Solide gemeente', Beheersbare woonlasten; Stemgids: woonlasten niet harder dan inflatie (neutraal)",
+  "soort": "programma"
+ }
+]

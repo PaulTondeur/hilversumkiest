@@ -1,0 +1,245 @@
+[
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "s": 1,
+  "kern": "Huidige hoogteregels volstaan; geen extra hoogbouw",
+  "toelichting": "De partij is tegen meer hoogbouw en vindt dat de huidige regels (hoger alleen rond centrum en station) volstaan om het landschap te beschermen. Over een uitzondering tot 25 meter bij de Meent is ze neutraal: dat wil ze per locatie beoordelen.",
+  "citaat": "De huidige kaders voldoen om het aanzicht van het landschap te beschermen. Hoogbouw past daar niet bij.",
+  "bron": "MijnStem: 'Meer hoogbouw toestaan'; Stemgids: 'Op enkele plekken, zoals het centrum van de Meent, mag bij uitzondering tot 25 meter hoog worden gebouwd' (neutraal)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": 1,
+  "kern": "Geen automatische sociale huur, meer betaalbare koop",
+  "toelichting": "De partij wil niet automatisch meer sociale huur bij nieuwbouw en is tegen een verplicht minimum van 40 procent; ze wil meer betaalbare koopwoningen. Afspraken per project noemt ze niet letterlijk; ze wil een woonvisie waarin de bouw aansluit op de vraag.",
+  "citaat": "Dat voordeel zetten we gerichter in: minder automatisch gesubsidieerde sociale huur, meer betaalbare koop voor starters.",
+  "bron": "Programma (fvd.nl/gemeentes/hilversum), hoofdstuk 5 (Wonen), punt 4; MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw'",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "s": 2,
+  "kern": "Geen milieuzones of zero-emissiezone in de binnenstad",
+  "toelichting": "De partij wil geen milieuzones, geen dieselverbod en geen zero-emissiezone in de binnenstad. Oudere bestelbussen blijven welkom.",
+  "citaat": "Geen milieuzones, geen dieselverbod, geen zero-emissiezones in de binnenstad.",
+  "bron": "Programma, hoofdstuk 9 (Landbouw, Milieu & Energie), punt 7; ook hoofdstuk 6, punt 3",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": -1,
+  "kern": "Gemeente zonder grootschalige zonneparken",
+  "toelichting": "De partij wil geen grootschalig zonnepark in de gemeente en noemt de gemeente zonneveldenvrij. Over panelen op daken van boerenbedrijven zegt ze niets.",
+  "citaat": "Geen enkele windturbine of grootschalig zonnepark in onze gemeente of direct aan de grenzen.",
+  "bron": "Programma, hoofdstuk 9 (Landbouw, Milieu & Energie), punt 1; MijnStem: 'Windturbines in het buitengebied toestaan'",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-bomen",
+  "s": -1,
+  "kern": "Bestaande bomen beschermen",
+  "toelichting": "De partij wil bestaande bomen en groenvoorzieningen beschermen. Of herplant elders een uitzondering mag zijn, zegt ze niet.",
+  "citaat": "Wij willen bestaande bomen, groenvoorzieningen en karakteristieke panden beschermen.",
+  "bron": "Stemgids: 'In buurten met weinig groen mag er geen openbaar groen meer verdwijnen' (voor)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "natuur-maaien",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": 1,
+  "kern": "Minimaregelingen tot 110% van bijstandsniveau",
+  "toelichting": "De partij wil minimaregelingen richten op de laagste inkomens en kiest een grens van 110 procent van het bijstandsniveau: veel lager dan de huidige 130 procent in Hilversum, maar net iets ruimer dan alleen bijstandsniveau.",
+  "citaat": "Wij willen minimaregelingen richten op de laagste inkomens. Een grens van 110% biedt ondersteuning waar die het hardst nodig is.",
+  "bron": "MijnStem: 'Maak een keuze. Armoederegelingen voor inwoners op: bijstandsniveau / 130% van bijstandsniveau'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": 0,
+  "kern": "Besparen mag niet ten koste van noodzakelijke hulp",
+  "toelichting": "De partij kiest neutraal. Ze wil meer inzetten op vroege ondersteuning op school en zegt dat besparingen noodzakelijke hulp niet mogen aantasten.",
+  "citaat": "Besparingen mogen noodzakelijke hulp niet aantasten.",
+  "bron": "Stemgids: 'De gemeente mag niet miljoenen bezuinigen op de jeugdzorg' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "zorg-aanbieders-een",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "s": -1,
+  "kern": "Eerst aantonen dat bestaande centra niet voldoen",
+  "toelichting": "De partij wil niet in elke wijk en elk dorp een buurthuis openen. Er zijn wijkcentra en dorpshuizen; nieuw budget komt pas als blijkt dat die niet volstaan.",
+  "citaat": "Voordat de gemeente budget vrijmaakt moet aangetoond worden dat bestaande centra niet voldoen.",
+  "bron": "MijnStem: 'In alle wijken en dorpen een buurthuis openen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": -2,
+  "kern": "Boa's pakken juist dagelijkse overlast aan",
+  "toelichting": "De partij wil dat boa's handhaven op hondenpoep, vuilnis, herrie en andere dagelijkse overlast. Ze blijven bij hun gemeentelijke kerntaken en worden geen alternatieve politie.",
+  "citaat": "Boa’s blijven bij hun gemeentelijke kerntaken en worden geen alternatieve politie; politietaken blijven bij volwaardige agenten.",
+  "bron": "Programma, hoofdstuk 2 (Veiligheid & Handhaving), punt 4",
+  "soort": "programma"
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 1,
+  "kern": "Gerichte camera's op overlastplekken en toegangswegen dorpen",
+  "toelichting": "De partij steunt gericht cameratoezicht op plekken met overlast en criminaliteit en wil camera's en kentekenregistratie op de toegangswegen van de dorpen, met korte bewaartermijnen en zonder permanente observatie. In een stemhulp kiest ze in het algemeen eerder voor beperken van cameratoezicht.",
+  "citaat": "Wij steunen gericht cameratoezicht op plekken met overlast en criminaliteit.",
+  "bron": "Stemgids: 'Het cameratoezicht op plekken met veel overlast, zoals in het centrum, moet blijven' (voor); Programma (fvd.nl/gemeentes/hilversum), hoofdstuk 2 (Veiligheid), punt 5; MijnStem: 'Cameratoezicht op straat: beperken / uitbreiden'",
+  "soort": "stemgids"
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "s": 2,
+  "kern": "Geen voorrang voor statushouders",
+  "toelichting": "De partij wil de voorrang voor statushouders bij sociale huur schrappen. Alleen urgente gevallen gaan voor; verder krijgen kerngebonden inwoners voorrang.",
+  "citaat": "Die voorrang schrappen we in de huisvestingsverordening. Alleen urgente gevallen gaan voor, op eerlijke gronden.",
+  "bron": "Programma, hoofdstuk 5 (Wonen), punt 3; ook Stemgids: 'Statushouders moeten voorrang houden bij een sociale huurwoning' (tegen)",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-centrum-compacter",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "s": -2,
+  "kern": "Winkels op zondag ruimer open",
+  "toelichting": "De partij wil dat ondernemers zelf bepalen wanneer ze open zijn. Ze is voor ruimere openstelling op zondag en tegen beperkingen.",
+  "citaat": "Ondernemers moeten zelf kunnen bepalen wanneer zij hun winkel openen.",
+  "bron": "Stemgids: 'Winkels moeten op zondag ruimer open mogen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-citymarketing",
+  "s": 1,
+  "kern": "Toerisme stimuleren; regiomarketing op effect beoordelen",
+  "toelichting": "De partij wil toerisme stimuleren, maar bijdragen aan regiomarketing beoordelen op effect voor de eigen kwaliteiten van Hilversum en Wijdemeren.",
+  "citaat": "Wij versterken de bereikbaarheid per auto, fiets, boot en openbaar vervoer en beoordelen regiomarketing op het effect voor de eigen kwaliteiten van Hilversum en Wijdemeren.",
+  "bron": "Programma, hoofdstuk 7 (Economie), punt 2; MijnStem: 'Toerisme in de gemeente stimuleren'",
+  "soort": "programma"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": 1,
+  "kern": "Culturele organisaties moeten zelf rondkomen",
+  "toelichting": "De partij vindt dat culturele organisaties waar mogelijk financieel zelfstandig moeten zijn en wil bijvoorbeeld dat het museum zichzelf terugverdient. Een vaste termijn van vijf jaar noemt ze niet.",
+  "citaat": "Organisaties moeten waar mogelijk financieel zelfstandig zijn.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur' (tegen, toelichting); Programma (fvd.nl/gemeentes/hilversum), hoofdstuk 4 (Cultuur), punt 6",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "cultuur-sportevenementen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": 1,
+  "kern": "Elk dorp krijgt een dorpsplatform",
+  "toelichting": "De partij wil dat Loosdrecht, 's-Graveland, Kortenhoef, Ankeveen, Breukeleveen en Nederhorst den Berg ieder een dorpsplatform krijgen, niet alleen op verzoek.",
+  "citaat": "Wij betrekken inwoners voordat plannen vaststaan en geven Loosdrecht, ’s-Graveland, Kortenhoef, Ankeveen, Breukeleveen en Nederhorst den Berg ieder een dorpsplatform dat als serieuze partner van de gemeente kan optreden.",
+  "bron": "Programma, hoofdstuk 1 (Democratie, Bestuur & Lokale Autonomie), punt 4",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "financien-tekort-lasten",
+  "s": -2,
+  "kern": "Bezuinigen in plaats van lasten verhogen",
+  "toelichting": "De partij wil een tekort oplossen door te bezuinigen en niet door lokale lasten te verhogen. Minder regels en minder ambtenaren moeten tot lagere belastingen leiden.",
+  "citaat": "Minder regels = minder ambtenaren = minder belastingen.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door: bezuinigen / lokale lasten verhogen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ }
+]

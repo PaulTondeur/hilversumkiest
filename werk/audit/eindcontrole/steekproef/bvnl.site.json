@@ -1,0 +1,263 @@
+[
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": 1,
+  "kern": "Voorrang voor lokaal gebonden woningzoekenden, maar in principe gelijke behandeling",
+  "toelichting": "De partij wil voorrang voor jongeren, mantelzorgers en mensen die in Hilversum werken. Ze zegt ook dat iedereen gelijk behandeld moet worden en voorrang alleen in uitzonderlijke situaties past. Een percentage noemt ze niet.",
+  "citaat": "Voorrang voor lokaal gebonden woningzoekenden jongeren, mantelzorgers, mensen met werk in Hilversum.",
+  "bron": "Programma (web, geen paginanummers), pijler 08 Wonen en woningbouw (spanning met Debatstelling 15)",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-parkeernorm",
+  "s": -2,
+  "kern": "Nieuwbouw krijgt altijd voldoende parkeerplaatsen",
+  "toelichting": "De partij wil dat nieuwbouw altijd voldoende parkeerplaatsen krijgt. Een lagere norm bij stations noemt ze niet.",
+  "citaat": "nieuwbouw krijgt altijd voldoende parkeerplaatsen.",
+  "bron": "Programma (web, geen paginanummers), pijler 09 Bereikbaarheid",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-opbrengst",
+  "s": 1,
+  "kern": "Parkeeropbrengsten terug naar bereikbaarheid, ook fietspaden en OV",
+  "toelichting": "De partij wil de parkeeropbrengsten besteden aan bereikbaarheid in brede zin, met ook fietspaden, OV en wegen. Groen noemt ze daarbij niet.",
+  "citaat": "Parkeeropbrengsten gaan terug naar bereikbaarheid; nieuwbouw krijgt altijd voldoende parkeerplaatsen.",
+  "bron": "Programma (web, geen paginanummers), pijler 09 Bereikbaarheid",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": -1,
+  "kern": "Fietspaden belangrijk, maar parkeerplaatsen niet opofferen",
+  "toelichting": "De partij wil fietspaden binnen de bebouwde kom uitbreiden, maar kiest bij investeringen eerder voor parkeerplekken dan voor fietspaden. De auto mag volgens haar niet worden weggejaagd en er moeten voldoende parkeerplaatsen blijven.",
+  "citaat": "Fietspaden zijn belangrijk, maar de auto mag niet worden weggejaagd. Investeringen moeten zorgen voor keuzevrijheid en voldoende parkeerplaatsen.",
+  "bron": "MijnStem: 'Maak een keuze. Investeren in: fietspaden of parkeerplekken' (78, richting parkeerplekken)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "s": -1,
+  "kern": "Windturbines alleen bij lokaal draagvlak en aantoonbare meerwaarde",
+  "toelichting": "De partij wil geen vast verzet tegen grote windturbines als omwonenden ze steunen: ze wil ze toestaan bij lokaal draagvlak en meerwaarde. Elders zegt ze nee tegen windturbines op onbebouwd gebied, wat hiermee schuurt.",
+  "citaat": "Alleen bij lokaal draagvlak en aantoonbare meerwaarde.",
+  "bron": "Programma (web, geen paginanummers), Debatstelling 25 Windturbines in het buitengebied (spanning met pijler 09: 'op onbebouwd gebied nee')",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "klimaat-houtstook",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-afsluiten",
+  "s": -1,
+  "kern": "Kwetsbare natuur beschermen, maar afsluitingen zo veel mogelijk voorkomen",
+  "toelichting": "De partij wil kwetsbare natuur beschermen, maar vindt dat wandelen en recreëren even zwaar moeten wegen en wil onnodige afsluitingen voorkomen. Natuurgebieden moeten zo veel mogelijk toegankelijk blijven; in het plassengebied kiest ze eerder voor recreatie dan voor rust.",
+  "citaat": "Bescherm kwetsbare natuur, maar voorkom onnodige afsluitingen. Wandelen, paardrijden, honden uitlaten en recreëren moeten zoveel mogelijk toegankelijk blijven.",
+  "bron": "Stemgids: 'In de natuurgebieden rond de stad moet vrij wandelen en recreëren net zo zwaar wegen als het beschermen van de natuur' (voor); MijnStem plassengebied (19, richting recreatie)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "natuur-recreant-betaalt",
+  "s": -1,
+  "kern": "Toeristenbelasting terughoudend gebruiken, niet als melkkoe",
+  "toelichting": "De partij wil terughoudend omgaan met toeristenbelasting en die niet als melkkoe gebruiken, in lijn met haar wens voor lage lokale lasten. Over belasting op boten zegt ze niets.",
+  "citaat": "Terughoudend mee omgaan en niet als melkkoe gebruiken.",
+  "bron": "Programma (web, geen paginanummers), debatstelling 44 'Toeristenbelasting'",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-stikstof-boeren",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-wmo-kwijtschelding",
+  "s": 1,
+  "kern": "Versobering Wmo stoppen; armoederegelingen tot ruim boven bijstand",
+  "toelichting": "De partij wil de versobering van onder meer de Wmo en het armoedebeleid stoppen en armoederegelingen laten gelden tot boven het bijstandsniveau, richting 130 procent. Over kwijtschelding van de Wmo-bijdrage zegt ze niets letterlijk; elders wil ze armoedesteun gericht op zelfredzaamheid.",
+  "citaat": "Armoederegelingen tot 130% voorkomen dat werken wordt bestraft en helpen inwoners die moeite hebben om rond te komen.",
+  "bron": "MijnStem: 'Maak een keuze. Armoederegelingen voor inwoners op' (68, richting 130%); programma pijler 10",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "s": -1,
+  "kern": "Huishoudelijke hulp voor wie het echt nodig heeft, snel op maatwerk",
+  "toelichting": "De partij wil huishoudelijke hulp toegankelijk houden voor wie het echt nodig heeft en wachtlijsten wegwerken met minder bureaucratie en snellere, gemotiveerde besluiten op maatwerk. Ze kiest dus voor sneller maatwerk, niet voor hulp zonder beoordeling.",
+  "citaat": "Wachtlijsten weg door minder bureaucratie en snellere, gemotiveerde besluiten op maatwerk.",
+  "bron": "Programma (web, geen paginanummers), pijler 10 'Zorg en onderwijs'; debatstelling 34 'Ondersteuning huishoudelijke hulp'",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "zorg-buurthuis-jaarsubsidie",
+  "s": 0,
+  "kern": "Meerjarig kan bij succes, maar met prestaties en evaluatie",
+  "toelichting": "De partij ziet voordeel in meerjarige zekerheid voor succesvolle buurtcentra, maar wil geen automatische subsidie. Ze wil heldere prestaties en periodieke evaluatie met de mogelijkheid bij te sturen.",
+  "citaat": "Meerjarige zekerheid kan goed zijn voor aantoonbaar succesvolle buurtcentra, maar geen automatische subsidie voor vijf jaar.",
+  "bron": "Stemgids: 'Wijk- en buurtcentra moeten voor vijf jaar subsidie krijgen in plaats van voor één jaar' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 1,
+  "kern": "Camera's op hotspots van overlast en criminaliteit, met waarborgen",
+  "toelichting": "De partij wil cameratoezicht op hotspots van criminaliteit en overlast. Het moet aantoonbaar nodig, tijdelijk, proportioneel en controleerbaar zijn, met respect voor privacy.",
+  "citaat": "Cameratoezicht op hotspots van criminaliteit en overlast, met heldere waarborgen.",
+  "bron": "Programma (web, geen paginanummers), pijler 07 Veiligheid als fundament",
+  "soort": "programma"
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "s": 1,
+  "kern": "Coffeeshops die zich aan de wet houden mogen blijven",
+  "toelichting": "De partij wil coffeeshops reguleren op orde, veiligheid en draagvlak en ziet geen reden ze te sluiten zolang ze zich aan de regels houden en geen overlast geven. De ligging bij een school noemt ze niet apart.",
+  "citaat": "Zolang coffeeshops zich aan de wet houden en geen overlast veroorzaken, is er weinig reden om het aantal kunstmatig te verminderen.",
+  "bron": "MijnStem: 'Het aantal coffeeshops verminderen'; Programma (web, geen paginanummers), Debatstelling 2 Coffeeshops",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "s": -2,
+  "kern": "Zonder wettelijke verplichting geen opvang meer dan landelijk verplicht",
+  "toelichting": "De partij wil dat de gemeente zonder wettelijke verplichting geen extra opvang organiseert en niet boven de landelijke taakstelling uitkomt. Eerst moeten woningen, zorg en voorzieningen voor eigen inwoners op orde zijn.",
+  "citaat": "Zonder wettelijke verplichting moet Hilversum geen extra opvang organiseren.",
+  "bron": "Stemgids: 'De gemeente moet asielzoekers blijven opvangen, ook als de Spreidingswet wordt ingetrokken' (tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": 1,
+  "kern": "Meer recreatie in het plassengebied, mits niet ten koste van natuur",
+  "toelichting": "De partij kiest in het plassengebied eerder voor meer recreatie dan voor rust voor plant en dier en verwelkomt groei van toerisme. Recreatie mag volgens haar niet ten koste gaan van natuur en inwoners; ze zoekt een balans tussen recreatie, natuur en ondernemerschap.",
+  "citaat": "Het plassengebied is er ook om van te genieten. Recreatie ondersteunt toerisme, lokale ondernemers en de leefbaarheid.",
+  "bron": "MijnStem: 'Maak een keuze. In het plassengebied inzetten op' (19, richting meer recreatie)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": 0,
+  "kern": "Meer cultuurgeld geen doel op zich; hangt af van maatschappelijke waarde",
+  "toelichting": "De partij is neutraal over meer geld voor kunst en cultuur. Cultuur draagt volgens haar bij aan een levendige gemeente, maar meer subsidie is geen doel op zich en mag niet ten koste gaan van kerntaken of lage lasten.",
+  "citaat": "Kunst en cultuur dragen bij aan een levendige gemeente, maar meer subsidie is geen doel op zichzelf.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur.' (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": -2,
+  "kern": "Geen gekozen dorps- en wijkraden; bewoners rechtstreeks invloed",
+  "toelichting": "De partij wil geen verkiezingen voor dorps- en wijkraden omdat die extra overleg, kosten en bestuurslagen geven. Ze wil dat bewoners rechtstreeks invloed hebben op de gemeente.",
+  "citaat": "Verkiezingen voor dorps- en wijkraden zorgen vooral voor extra overleg, bureaucratie en kosten.",
+  "bron": "MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": -2,
+  "kern": "Eén goed bereikbaar centraal loket en digitale dienstverlening",
+  "toelichting": "De partij wil geen loket in ieder dorp vanwege kosten en bureaucratie. Ze wil goede digitale dienstverlening en één centraal loket. Elders noemt ze wel dienstverlening dichtbij inwoners.",
+  "citaat": "Gemeenteloketten in ieder dorp zorgen voor extra kosten en bureaucratie.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'; spanning met Debatstelling 41",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-gelijke-regels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": 2,
+  "kern": "Vast bedrag per huishouden voor afval",
+  "toelichting": "De partij wil een vast tarief per huishouden voor afval en wil diftar (betalen per kilo) afschaffen.",
+  "citaat": "Een vast tarief is eerlijk, eenvoudig en voorkomt extra bureaucratie.",
+  "bron": "MijnStem: 'Afvalheffing op basis van: vast bedrag per huishouden / hoeveelheid afval'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-inhuur-vaste-banen",
+  "s": -1,
+  "kern": "Minder inhuur, maar de groei van het ambtelijk apparaat bevriezen",
+  "toelichting": "De partij wil minder externe inhuur en meer handen in de uitvoering, maar binnen een ambtelijk apparaat waarvan de groei wordt bevroren. Ze wijst groei van het apparaat dus nadrukkelijk af.",
+  "citaat": "Bevries de groei van het ambtelijk apparaat; minder externe inhuur, meer handen in de uitvoering.",
+  "bron": "Programma (web, geen paginanummers), pijler 06 'Open, sober en betrouwbaar bestuur'",
+  "soort": "programma"
+ }
+]

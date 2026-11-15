@@ -1,0 +1,1909 @@
+{
+ "meta": {
+  "opgesteld": "2026-11-15",
+  "bron_data": "data/stellingen.json",
+  "regels": "werk/briefs/codeer.md",
+  "methode": "Per stelling zijn alle posities naast elkaar gelegd en vergeleken met de stemhulpantwoorden in bronnen/<slug>/extra-stemhulp-antwoorden.txt (schuifbalkwaarde, Stemgids-antwoord, Hilversums Nieuws), het programma en het stemgedrag (bronnen/_stemgedrag). Nullen zijn gecontroleerd met trefwoordzoektochten in programma.txt en extra-*.txt. werk/codering/ en werk/audit/audit*.json zijn niet geraadpleegd.",
+  "ernst": "hoog = vrijwel dezelfde uitspraak krijgt een score in een andere richting of een ontbrekende score; middel = 1 punt verschil of een null tegenover een score bij vergelijkbaar bewijs; laag = etiket, presentatie of een te verdedigen verschil dat niet is uitgelegd"
+ },
+ "volgorde_ernst": [
+  "G01 (hoog) verkeer-terugdraaien: gewoon-hilversum, lokaal-een, lfd, bvnl, stop-betaald-parkeren-vip, scb",
+  "G02 (hoog) klimaat-kleine-windmolen: dorp-voor-dorp, volt, fvd, bbb, vvd, blanco-van-oostveen",
+  "G03 (hoog) natuur-landbouw-natuur: hart-voor-hilversum, christenunie, stop-betaald-parkeren-vip, sp, vvd, cda",
+  "G04 (hoog) asiel-omwonenden-beslissen: sp, lokaal-een, scb, hart-voor-hilversum",
+  "G05 (hoog) natuur-stikstof-boeren: sp, bbb",
+  "G06 (middel) natuur-landbouw-natuur: blanco-van-oostveen, bvnl, fvd",
+  "G07 (middel) wonen-bouwtempo: stop-betaald-parkeren-vip, bvnl, bbb",
+  "G08 (middel) verkeer-buurt-beslist: stop-betaald-parkeren-vip, bvnl, lokaal-een, christenunie, hart-voor-hilversum",
+  "G09 (middel) economie-mediapark-woningen: lfd, lokaal-een, volt",
+  "G10 (middel) veiligheid-coffeeshops-aantal: vvd, dorp-voor-dorp, gewoon-hilversum, stop-betaald-parkeren-vip, lokaal-een",
+  "G11 (middel) financien-centrum-sober: gewoon-hilversum, opstand-nu, dorp-voor-dorp, volt, vvd, cda, pro",
+  "G12 (middel) zorg-wmo-zonderindicatie: bvnl, gewoon-hilversum",
+  "G13 (middel) klimaat-houtstook: d66, lfd, sp, cda",
+  "G14 (laag) asiel-omwonenden-beslissen: vvd, christenunie, bvnl, lfd",
+  "G15 (laag) wonen-kantoren-naar-wonen: bvnl, christenunie, scb",
+  "G16 (laag) verkeer-terugdraaien: fvd, scb, opstand-nu",
+  "G17 (laag) natuur-stikstof-boeren: volt",
+  "G18 (laag) economie-mediapark-woningen: d66, cda",
+  "G19 (laag) wonen-bouwtempo: opstand-nu, dorp-voor-dorp, sp",
+  "G20 (laag) bestuur-referendum-advies: pro, cda, vvd, d66",
+  "G21 (laag) wonen-kantoren-naar-wonen: opstand-nu, pro, gewoon-hilversum, lokaal-een",
+  "T01 (middel) klimaat-kleine-windmolen: bbb, vvd, fvd",
+  "T02 (middel) natuur-stikstof-boeren: bbb, sp",
+  "T03 (laag) verkeer-terugdraaien: volt",
+  "T04 (laag) wonen-bouwtempo: blanco-van-oostveen",
+  "T05 (laag) cultuur-budget-niveau: christenunie, blanco-van-oostveen",
+  "T06 (laag) veiligheid-coffeeshops-aantal: lokaal-een",
+  "T07 (laag) (hele bank): pvdd, blanco-van-oostveen, hart-voor-hilversum",
+  "T08 (laag) (hele bank): vvd"
+ ],
+ "stellingen": {
+  "wonen-bouwtempo": {
+   "ongelijkheden": [
+    {
+     "nr": "G07",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "wonen-bouwtempo",
+     "partijen": [
+      "stop-betaald-parkeren-vip",
+      "bvnl",
+      "bbb"
+     ],
+     "probleem": "BVNL krijgt +1 voor 'versnel bouw door eenvoudigere vergunningen'. SBP heeft een programmakop 'Ruimte geven en sneller bouwen' met dezelfde soort maatregelen (procedures parallel, vastgelopen plannen vlottrekken, hoogbouw) en staat op null.",
+     "citaten": [
+      {
+       "slug": "bvnl",
+       "s": 1,
+       "citaat": "Versnel bouw door eenvoudigere vergunningen en aangepaste bestemmingsplannen.",
+       "bron": "programma pijler 08"
+      },
+      {
+       "slug": "stop-betaald-parkeren-vip",
+       "s": null,
+       "citaat": "We voorkomen onnodig wachten. Procedures en onderzoeken die tegelijk kunnen worden uitgevoerd, laten we waar mogelijk parallel lopen.",
+       "bron": "programma p. 19, kop 'Ruimte geven en sneller bouwen'"
+      }
+     ],
+     "voorstel": "SBP naar +1 (afgeleid of programma), zoals BVNL. VVD ('100-dagenaanpak ... houden we tempo in woningbouw', p. 28) kan null blijven: tempo houden is geen tempo verhogen."
+    },
+    {
+     "nr": "G19",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "wonen-bouwtempo",
+     "partijen": [
+      "opstand-nu",
+      "dorp-voor-dorp",
+      "sp"
+     ],
+     "probleem": "'Bouwen alleen lost het niet op' wordt bij Opstand -1, bij DvD 0 en bij SP null ('Bijbouwen alleen is niet genoeg'). Opstand voegt eraan toe 'niet eindeloos doorgaan', DvD 'bouwen is nodig'. Het verschil is klein, maar de uitspraken liggen dicht bij elkaar.",
+     "citaten": [
+      {
+       "slug": "opstand-nu",
+       "s": -1,
+       "citaat": "Ook bouwen, maar bouwen alleen lost de woningnood niet op. Bovendien kunnen we daar niet eindeloos mee doorgaan.",
+       "bron": "programma p. 5"
+      },
+      {
+       "slug": "dorp-voor-dorp",
+       "s": 0,
+       "citaat": "Bouwen is nodig. Maar alleen méér woningen bouwen zonder naar de oorzaken, doorstroming en verdeling te kijken, lost het probleem volgens ons niet structureel op.",
+       "bron": "programma p. 38"
+      },
+      {
+       "slug": "sp",
+       "s": null,
+       "citaat": "Bijbouwen alleen is niet genoeg.",
+       "bron": "programma p. 11"
+      }
+     ],
+     "voorstel": "Scores kunnen blijven. Controleer wel of SP null moet blijven: 'De woningnood is te groot om plannen af te wijzen die nu al kunnen' wijst eerder op 0 of +1."
+    },
+    {
+     "nr": "T04",
+     "ernst": "laag",
+     "soort": "toon",
+     "id": "wonen-bouwtempo",
+     "partijen": [
+      "blanco-van-oostveen"
+     ],
+     "probleem": "De kern 'Sceptisch over steeds meer bouwen' is een typering door de codeur. De toelichting gebruikt de persoon ('Van Oostveen vindt ... en zegt dat ...'), terwijl andere lijsten 'De partij' krijgen. Over de hele bank staat bij Blanco 13 keer 'Van Oostveen'.",
+     "citaten": [
+      {
+       "slug": "blanco-van-oostveen",
+       "s": -1,
+       "citaat": "Al die megabouwprojecten zijn helemaal niet nodig.",
+       "bron": "Stemgids"
+      }
+     ],
+     "voorstel": "Kern: 'Grote bouwprojecten niet nodig; liever kleinschalig.' In alle Blanco-toelichtingen 'De lijst' of 'De partij' gebruiken, net als bij de andere partijen."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "wonen-bouwtempo",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": true,
+     "citaat": "We voorkomen onnodig wachten. Procedures en onderzoeken die tegelijk kunnen worden uitgevoerd, laten we waar mogelijk parallel lopen.",
+     "bron": "programma p. 19 (kop 'Ruimte geven en sneller bouwen')",
+     "opmerking": "Te vergelijken met BVNL +1; voorstel +1 (zie G07)."
+    },
+    {
+     "id": "wonen-bouwtempo",
+     "slug": "vvd",
+     "gevonden": false,
+     "citaat": "Zo voorkomen we onnodige vertraging, houden we tempo in woningbouw en economische ontwikkeling",
+     "bron": "programma p. 28",
+     "opmerking": "Tempo houden, geen hoger tempo; null is te verdedigen."
+    },
+    {
+     "id": "wonen-bouwtempo",
+     "slug": "sp",
+     "gevonden": false,
+     "citaat": "Bijbouwen alleen is niet genoeg.",
+     "bron": "programma p. 11",
+     "opmerking": "Geen uitspraak over tempo; zie G19."
+    },
+    {
+     "id": "wonen-bouwtempo",
+     "slug": "hart-voor-hilversum",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-stemhulp-antwoorden",
+     "opmerking": "Alleen 'meer betaalbare koop- en sociale huurwoningen', geen tempo."
+    },
+    {
+     "id": "wonen-bouwtempo",
+     "slug": "scb",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-*",
+     "opmerking": "Doorstroming en betaalbaarheid, geen tempo."
+    }
+   ]
+  },
+  "wonen-kantoren-naar-wonen": {
+   "ongelijkheden": [
+    {
+     "nr": "G15",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "wonen-kantoren-naar-wonen",
+     "partijen": [
+      "bvnl",
+      "christenunie",
+      "scb"
+     ],
+     "probleem": "BVNL krijgt +2 terwijl het eigen antwoord een voorbehoud heeft ('behoud ruimte voor werk waar die aantoonbaar nodig is'). CU ('niet te veel aanvullende regels') en SCB ('per locatie') krijgen +1 voor een vergelijkbare nuance.",
+     "citaten": [
+      {
+       "slug": "bvnl",
+       "s": 2,
+       "citaat": "Behoud ruimte voor werk waar die aantoonbaar nodig is, maar voorkom starre compensatieregels die woningbouw onnodig vertragen.",
+       "bron": "Stemgids (tegen compensatie)"
+      },
+      {
+       "slug": "christenunie",
+       "s": 1,
+       "citaat": "We willen de transformatie bevorderen en dus niet te veel aanvullende regels opleggen.",
+       "bron": "Stemgids (tegen compensatie)"
+      }
+     ],
+     "voorstel": "BVNL naar +1, of CU naar +2. DvD en LFD (+2) hebben geen voorbehoud en kunnen blijven."
+    },
+    {
+     "nr": "G21",
+     "ernst": "laag",
+     "soort": "presentatie",
+     "id": "wonen-kantoren-naar-wonen",
+     "partijen": [
+      "opstand-nu",
+      "pro",
+      "gewoon-hilversum",
+      "lokaal-een"
+     ],
+     "probleem": "Bij Opstand is het citaat de kop van de Stemgids-stelling met het antwoord ervoor ('Voor: Kantoren alleen ombouwen als werkruimte bijkomt'; bij financien-centrum-sober 'Neutraal: Kerkbrink soberder en goedkoper'), geen tekst van de partij zelf. Bij PRO, GH en LE, die ook geen toelichting gaven, is het citaat leeg gelaten.",
+     "citaten": [
+      {
+       "slug": "opstand-nu",
+       "s": -1,
+       "citaat": "Voor: Kantoren alleen ombouwen als werkruimte bijkomt",
+       "bron": "extra-stemgids-standpunten"
+      },
+      {
+       "slug": "opstand-nu",
+       "s": 0,
+       "citaat": "Neutraal: Kerkbrink soberder en goedkoper",
+       "bron": "extra-stemgids-standpunten (financien-centrum-sober)"
+      }
+     ],
+     "voorstel": "Citaat bij Opstand leeg laten (of een programmacitaat gebruiken, zoals p. 5 over leegstand), net als bij de andere partijen zonder toelichting."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "wonen-kantoren-naar-wonen",
+     "slug": "(geen)",
+     "gevonden": false,
+     "citaat": null,
+     "bron": null,
+     "opmerking": "Geen enkele partij heeft hier null; null-controle niet van toepassing."
+    }
+   ]
+  },
+  "verkeer-terugdraaien": {
+   "ongelijkheden": [
+    {
+     "nr": "G01",
+     "ernst": "hoog",
+     "soort": "score",
+     "id": "verkeer-terugdraaien",
+     "partijen": [
+      "gewoon-hilversum",
+      "lokaal-een",
+      "lfd",
+      "bvnl",
+      "stop-betaald-parkeren-vip",
+      "scb"
+     ],
+     "probleem": "Zelfde patroon, tegengestelde score. Alle zes kozen in MijnStem voor 'terugdringen' (GH 7, LE 26, LFD 24, BVNL 0, SBP 0, SCB 17), antwoordden 'voor' op de Stemgids-stelling 'uitbreiding herzien en zo nodig terugdraaien', en willen terugdraaien waar het niet nodig is, maar niet overal afschaffen. LFD, BVNL, SBP en SCB krijgen +1, GH en LE -1. Het verschil lijkt te komen doordat GH en LE in Hilversums Nieuws schreven dat volledig gratis parkeren niet terugkomt. Dat gaat over de hele gemeente, dus ook het centrum, en niet over de wijken tot de buitenring. SCB zei daar 'eens, maar niet overal' en LFD 'waar geen aantoonbare parkeerdruk bestaat'. LE wil volgens het programma bovendien 'geen betaald parkeren buiten de ring'.",
+     "citaten": [
+      {
+       "slug": "gewoon-hilversum",
+       "s": -1,
+       "citaat": "Betaald parkeren is een noodzakelijk kwaad. Alleen als er een aanleiding is, dan moet betaald parkeren ingezet worden. Als er geen parkeerprobleem is, dan niet.",
+       "bron": "MijnStem 'Betaald parkeren in het centrum en de wijken' (7, terugdringen); Stemgids herzien (voor, geen toelichting)"
+      },
+      {
+       "slug": "lokaal-een",
+       "s": -1,
+       "citaat": "Terugdringen daar waar inwoners geen behoefte aan betaald parkeren hebben.",
+       "bron": "MijnStem idem (26); Stemgids herzien (voor); programma: 'geen betaald parkeren buiten de ring of in de dorpen'"
+      },
+      {
+       "slug": "lfd",
+       "s": 1,
+       "citaat": "Waar de noodzaak ontbreekt, draaien we betaald parkeren terug.",
+       "bron": "Stemgids herzien (voor); MijnStem 24"
+      },
+      {
+       "slug": "bvnl",
+       "s": 1,
+       "citaat": "Waar nut, noodzaak en draagvlak ontbreken, moet uitbreiding worden teruggedraaid.",
+       "bron": "Stemgids herzien (voor); MijnStem 0"
+      },
+      {
+       "slug": "stop-betaald-parkeren-vip",
+       "s": 1,
+       "citaat": "Bestaand parkeerbeleid bekijken we opnieuw en wat niet werkt, draaien we terug.",
+       "bron": "MijnStem 0"
+      },
+      {
+       "slug": "scb",
+       "s": 1,
+       "citaat": "Eens, maar niet overal. SCB wil de uitbreiding van betaald parkeren terugdraaien",
+       "bron": "Hilversums Nieuws 29-10-2026; MijnStem 17"
+      }
+     ],
+     "voorstel": "Eén regel toepassen. Wie gericht wil terugdraaien waar het niet nodig is, krijgt +1. Dan gaan LE en GH naar +1, of minstens naar 0 als je het 'noodzakelijk kwaad' van GH zwaar laat wegen. Kies je juist voor -1, dan moeten LFD, BVNL, SBP en SCB ook naar beneden. Leg de regel vast in de toelichting van alle zes."
+    },
+    {
+     "nr": "G16",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "verkeer-terugdraaien",
+     "partijen": [
+      "fvd",
+      "scb",
+      "opstand-nu"
+     ],
+     "probleem": "FVD krijgt +2 met een voorbehoud ('sluit maatwerk niet uit voor buurten met ruimtegebrek'). SCB krijgt +1 voor 'eens, maar niet overal'. Opstand krijgt -2 bij soort mijnstem op schuifbalk 83, die volgens de brief gematigd is. Andere bronnen (Stemgids tegen, stemgedrag A26-60) ondersteunen -2 wel.",
+     "citaten": [
+      {
+       "slug": "fvd",
+       "s": 2,
+       "citaat": "Wij schaffen de schiltarieven op korte termijn af. Dat sluit maatwerk niet uit voor buurten met ruimtegebrek.",
+       "bron": "Hilversums Nieuws 29-10-2026 (eens)"
+      },
+      {
+       "slug": "scb",
+       "s": 1,
+       "citaat": "Eens, maar niet overal.",
+       "bron": "Hilversums Nieuws 29-10-2026"
+      }
+     ],
+     "voorstel": "FVD naar +1, of de toelichting laten uitleggen waarom het voorbehoud kleiner is dan bij SCB. Bij Opstand de soort op programma/stemgids zetten of in de toelichting op de schuifbalk ingaan."
+    },
+    {
+     "nr": "T03",
+     "ernst": "laag",
+     "soort": "toon",
+     "id": "verkeer-terugdraaien",
+     "partijen": [
+      "volt"
+     ],
+     "probleem": "De kern bij Volt, 'Wijken en dorpen beslissen zelf over parkeerbeleid; geen eigen lijn.', klinkt afwijzend. Elders staat een tussenpositie neutraal beschreven, bijvoorbeeld bij GH 'Kiest niet voor meer of minder cultuurgeld'.",
+     "citaten": [
+      {
+       "slug": "volt",
+       "s": 0,
+       "citaat": "Wijken en dorpen beslissen zelf hoe ze omgaan met parkeren.",
+       "bron": "MijnStem (51)"
+      }
+     ],
+     "voorstel": "Kern: 'Wijken en dorpen beslissen zelf over betaald parkeren.'"
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "verkeer-terugdraaien",
+     "slug": "(geen)",
+     "gevonden": false,
+     "citaat": null,
+     "bron": null,
+     "opmerking": "Geen enkele partij heeft hier null."
+    }
+   ]
+  },
+  "verkeer-buurt-beslist": {
+   "ongelijkheden": [
+    {
+     "nr": "G08",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "verkeer-buurt-beslist",
+     "partijen": [
+      "stop-betaald-parkeren-vip",
+      "bvnl",
+      "lokaal-een",
+      "christenunie",
+      "hart-voor-hilversum"
+     ],
+     "probleem": "LE ('in overleg met inwoners'), CU ('voldoende draagvlak') en HvH ('waar bewoners het steunen') krijgen +1 zonder dat ze een meerderheidsregel noemen. SBP wil inwoners vooraf raadplegen via een eigen stemplatform en BVNL noemt 'draagvlak' als voorwaarde. Toch staan beide op null.",
+     "citaten": [
+      {
+       "slug": "stop-betaald-parkeren-vip",
+       "s": null,
+       "citaat": "Bij grote veranderingen in parkeer- en verkeersbeleid raadplegen we inwoners vooraf, onder andere via HilversumStemt.nl en WijdemerenStemt.nl.",
+       "bron": "programma p. 10"
+      },
+      {
+       "slug": "bvnl",
+       "s": null,
+       "citaat": "Waar nut, noodzaak en draagvlak ontbreken, moet uitbreiding worden teruggedraaid.",
+       "bron": "Stemgids 'uitbreiding herzien' (voor)"
+      },
+      {
+       "slug": "lokaal-een",
+       "s": 1,
+       "citaat": "Terugdringen daar waar inwoners geen behoefte aan betaald parkeren hebben.",
+       "bron": "MijnStem (afgeleid)"
+      },
+      {
+       "slug": "christenunie",
+       "s": 1,
+       "citaat": "Uitbreiding van betaald parkeren in woonbuurten gebeurt alleen bij voldoende draagvlak van bewoners",
+       "bron": "programma p. 48"
+      }
+     ],
+     "voorstel": "SBP naar +1 (afgeleid). BVNL naar +1 (afgeleid), of null houden met de uitleg dat draagvlak bij BVNL één van drie voorwaarden is."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": true,
+     "citaat": "Bij grote veranderingen in parkeer- en verkeersbeleid raadplegen we inwoners vooraf, onder andere via HilversumStemt.nl en WijdemerenStemt.nl.",
+     "bron": "programma p. 10",
+     "opmerking": "Zie G08."
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "bvnl",
+     "gevonden": true,
+     "citaat": "Waar nut, noodzaak en draagvlak ontbreken, moet uitbreiding worden teruggedraaid.",
+     "bron": "Stemgids 'uitbreiding herzien' (voor)",
+     "opmerking": "Zwakke aanwijzing: draagvlak is één van drie voorwaarden. Zie G08."
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "gewoon-hilversum",
+     "gevonden": false,
+     "citaat": "geen parkeerprobleem betekent ook geen reden om betaald parkeren in te voeren.",
+     "bron": "extra-partij-site",
+     "opmerking": "Het criterium is parkeerdruk, geen bewonersmeerderheid."
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "lfd",
+     "gevonden": false,
+     "citaat": "Alleen aantoonbare parkeerdruk rechtvaardigt regulering.",
+     "bron": "MijnStem 'Betaald parkeren in het centrum en de wijken'",
+     "opmerking": "Het criterium is parkeerdruk."
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "dorp-voor-dorp",
+     "gevonden": false,
+     "citaat": "Betaald parkeren alleen waar het nodig is",
+     "bron": "programma p. 53"
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "cda",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma p. 21, extra-stemhulp",
+     "opmerking": "Drie zones; geen bewonerskeuze."
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "fvd",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma hfst. 6, extra-*"
+    },
+    {
+     "id": "verkeer-buurt-beslist",
+     "slug": "bbb",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma p. 24, extra-*"
+    }
+   ]
+  },
+  "klimaat-houtstook": {
+   "ongelijkheden": [
+    {
+     "nr": "G13",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "klimaat-houtstook",
+     "partijen": [
+      "d66",
+      "lfd",
+      "sp",
+      "cda"
+     ],
+     "probleem": "D66 krijgt +1 op het programma, maar stemde in 2024 (A24-07) en 2025 (M25-073) tegen houtstookregels. De toelichting zegt daar niets over. Bij andere partijen staat zo'n spanning wel in de toelichting (SP hier, LFD en CDA bij cultuur), zoals regel 5 vraagt.",
+     "citaten": [
+      {
+       "slug": "d66",
+       "s": 1,
+       "citaat": "bereiden maatregelen voor om ernstige overlast te beperken, zoals een stookverbod bij code rood van de Stookwijzer.",
+       "bron": "programma p. 26; Raad Hilversum A24-07 en M25-073: D66 tegen"
+      }
+     ],
+     "voorstel": "De score kan blijven. Voeg aan de D66-toelichting toe: 'In de raad stemde D66 in 2024 en 2025 tegen voorstellen voor houtstookregels.'"
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "klimaat-houtstook",
+     "slug": "bvnl",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "scb",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "gewoon-hilversum",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "dorp-voor-dorp",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "blanco-van-oostveen",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "volt",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "bbb",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: hout, stook, kachel, Stookwijzer, fijnstof, luchtkwaliteit)"
+    },
+    {
+     "id": "klimaat-houtstook",
+     "slug": "lfd",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-*; stemmingen.json A24-07",
+     "opmerking": "Geen tekst. Durlacher stemde als BVNL-fractie in 2024 tegen A24-07 (continuïteit voor LFD 'helder' alleen vanaf dec. 2024). Eén stemming is te weinig voor een score; null is te verdedigen."
+    }
+   ]
+  },
+  "klimaat-kleine-windmolen": {
+   "ongelijkheden": [
+    {
+     "nr": "G02",
+     "ernst": "hoog",
+     "soort": "score",
+     "id": "klimaat-kleine-windmolen",
+     "partijen": [
+      "dorp-voor-dorp",
+      "volt",
+      "fvd",
+      "bbb",
+      "vvd",
+      "blanco-van-oostveen"
+     ],
+     "probleem": "Een algemeen 'nee tegen windturbines' wordt bij FVD, BBB, VVD en Blanco als -1 (afgeleid) gecodeerd, maar bij Dorp voor Dorp en Volt staat null, terwijl hun programma even ongekwalificeerd is. Andersom worden algemene MijnStem-'ja's' (PRO, D66, SCB, PvdD) wel als +1 meegenomen. Bij partijen die uitdrukkelijk alleen 'grote' of 'grootschalige' turbines afwijzen (HvH, SP, LE, GH, SBP) is null wel terecht.",
+     "citaten": [
+      {
+       "slug": "dorp-voor-dorp",
+       "s": null,
+       "citaat": "Dorp voor Dorp wil geen nieuwe windturbines.",
+       "bron": "programma p. 71; MijnStem 'Windturbines in het buitengebied toestaan' (0): 'DvD is pertinent tegen windturbines!'"
+      },
+      {
+       "slug": "volt",
+       "s": null,
+       "citaat": "We hebben geen ruimte voor windturbines, die tasten ons natuurschoon aan.",
+       "bron": "programma p. 16 (MijnStem 19 noemt wel 'grote windturbines')"
+      },
+      {
+       "slug": "fvd",
+       "s": -1,
+       "citaat": "Geen enkele windturbine of grootschalig zonnepark in onze gemeente of direct aan de grenzen.",
+       "bron": "programma hfst. 9"
+      },
+      {
+       "slug": "bbb",
+       "s": -1,
+       "citaat": "BBB is absoluut tegen windturbines op of bij Hilversums grondgebied.",
+       "bron": "programma p. 22"
+      },
+      {
+       "slug": "vvd",
+       "s": -1,
+       "citaat": "Geen windmolens. Niet op de hei, niet in het weiland.",
+       "bron": "MijnStem (0)"
+      }
+     ],
+     "voorstel": "Dorp voor Dorp naar -1 (afgeleid), met in de toelichting dat de partij de oude, kleine windmolen (ongeveer 25 m) uitdrukkelijk onderscheidt van moderne turbines. Volt naar -1 (afgeleid), of null houden en dan uitleggen waarom MijnStem ('grote') zwaarder weegt dan het programma."
+    },
+    {
+     "nr": "T01",
+     "ernst": "middel",
+     "soort": "toon",
+     "id": "klimaat-kleine-windmolen",
+     "partijen": [
+      "bbb",
+      "vvd",
+      "fvd"
+     ],
+     "probleem": "BBB wordt in sterkere woorden beschreven dan vergelijkbare tegenstanders: 'categorisch tegen' (de bron zegt 'absoluut tegen') en 'de felste kritiek richt zich op grote turbines'. Bij VVD staat het zakelijk: 'De partij onderbouwt dat vooral met grote windturbines'. Over de hele bank heeft BBB de meeste intensiteitswoorden (fel 4, felste 1, categorisch 1, absoluut 2), deels uit eigen bronnen.",
+     "citaten": [
+      {
+       "slug": "bbb",
+       "s": -1,
+       "citaat": "BBB is absoluut tegen windturbines op of bij Hilversums grondgebied.",
+       "bron": "programma p. 22"
+      }
+     ],
+     "voorstel": "'BBB is tegen windturbines op of bij het grondgebied ... Kleine windmolens bij boerderijen noemt de partij niet apart; haar kritiek gaat vooral over grote turbines.'"
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "dorp-voor-dorp",
+     "gevonden": true,
+     "citaat": "Dorp voor Dorp wil geen nieuwe windturbines.",
+     "bron": "programma p. 71; MijnStem 'Windturbines in het buitengebied toestaan' (0)",
+     "opmerking": "Zie G02."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "volt",
+     "gevonden": true,
+     "citaat": "We hebben geen ruimte voor windturbines, die tasten ons natuurschoon aan.",
+     "bron": "programma p. 16",
+     "opmerking": "Zie G02; in MijnStem (19) staat wel 'grote windturbines'."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "hart-voor-hilversum",
+     "gevonden": false,
+     "citaat": "Geen grote windmolens of windturbines bij onze dorpen of in het buitengebied.",
+     "bron": "programma p. 9",
+     "opmerking": "'grote', dus null is terecht. MijnStem (8) zegt wel 'geen windturbines in ons buitengebied'."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "sp",
+     "gevonden": false,
+     "citaat": "Wij zijn tegen grote windmolens op plekken waar ze niet passen bij het landschap en de schaal van onze dorpen.",
+     "bron": "programma p. 34",
+     "opmerking": "'grote'."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "lokaal-een",
+     "gevonden": false,
+     "citaat": "Lokaal Eén is tegen de komst van grootschalige windturbines in en direct rondom onze gemeente",
+     "bron": "programma, 'Groene en gezonde gemeente'",
+     "opmerking": "'grootschalige'."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "gewoon-hilversum",
+     "gevonden": false,
+     "citaat": "We zijn kritisch op grootschalige windturbines in onze gemeente.",
+     "bron": "programma p. 6",
+     "opmerking": "'grootschalige'."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": false,
+     "citaat": "Grootschalige windmolenparken en zonneparken passen niet bij de beperkte ruimte",
+     "bron": "programma p. 35",
+     "opmerking": "'grootschalige'."
+    },
+    {
+     "id": "klimaat-kleine-windmolen",
+     "slug": "bvnl",
+     "gevonden": false,
+     "citaat": "Windturbines en zonneparken op onbebouwd gebied nee.",
+     "bron": "programma pijler 01",
+     "opmerking": "Een boerenerf is bebouwd gebied, dus niet eenduidig. Verwant aan Blanco (-1), toch null te verdedigen."
+    }
+   ]
+  },
+  "natuur-stikstof-boeren": {
+   "ongelijkheden": [
+    {
+     "nr": "G05",
+     "ernst": "hoog",
+     "soort": "score",
+     "id": "natuur-stikstof-boeren",
+     "partijen": [
+      "sp",
+      "bbb"
+     ],
+     "probleem": "SP en BBB zeggen bijna woordelijk hetzelfde: de rekening mag niet eenzijdig bij de boer liggen. SP krijgt 0, BBB +1. De andere bron van BBB gaat over onteigening voor natuurdoelen, niet over stikstofregels. Ook de toon verschilt. Bij SP staat 'erkent dat stikstof een echt probleem is', bij BBB 'verzet zich fel' plus een extra zin die de stelling bestrijdt ('Dat de natuur daardoor trager herstelt, zegt BBB niet').",
+     "citaten": [
+      {
+       "slug": "sp",
+       "s": 0,
+       "citaat": "De rekening mag niet eenzijdig bij de boer worden neergelegd.",
+       "bron": "programma p. 14 (kop: 'Stikstof niet alleen maar afwentelen op de boeren')"
+      },
+      {
+       "slug": "bbb",
+       "s": 1,
+       "citaat": "Toch komt de rekening en de regeldruk nog steeds te vaak eenzijdig op het bord van de boer terecht, terwijl ook andere sectoren hun aandeel hebben in de uitstoot",
+       "bron": "extra-natuurdebat (verslag debat Ankeveen)"
+      }
+     ],
+     "voorstel": "SP en BBB gelijk trekken: allebei 0, of allebei +1 (afgeleid). De BBB-toelichting inkorten tot het standpunt, zonder 'fel' en zonder de zin over natuurherstel."
+    },
+    {
+     "nr": "G17",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "natuur-stikstof-boeren",
+     "partijen": [
+      "volt"
+     ],
+     "probleem": "Volt krijgt -2 (soort mijnstem) op een antwoord bij een andere MijnStem-vraag (landbouw of natuur, schuifbalk 65 = gematigd). De tekst over de bufferzone is inhoudelijk duidelijk, maar volgens de regels hoort dit 'afgeleid' te zijn, met maximaal -1.",
+     "citaten": [
+      {
+       "slug": "volt",
+       "s": -2,
+       "citaat": "Land dat in de bufferzone van de natuur ligt, moet de natuur ondersteunen.",
+       "bron": "MijnStem 'In het buitengebied meer ruimte geven aan' (65)"
+      }
+     ],
+     "voorstel": "Volt naar -1 (afgeleid), tenzij het programma een uitspraak over de stikstofzones bevat."
+    },
+    {
+     "nr": "T02",
+     "ernst": "middel",
+     "soort": "toon",
+     "id": "natuur-stikstof-boeren",
+     "partijen": [
+      "bbb",
+      "sp"
+     ],
+     "probleem": "In de BBB-toelichting staat een zin die de stelling tegenspreekt in plaats van het standpunt te beschrijven: 'Dat de natuur daardoor trager herstelt, zegt BBB niet: volgens de partij kunnen boeren en natuur samengaan.' Ook 'verzet zich fel'. SP wordt welwillender beschreven ('erkent dat stikstof een echt probleem is').",
+     "citaten": [
+      {
+       "slug": "bbb",
+       "s": 1,
+       "citaat": null,
+       "bron": "toelichting"
+      }
+     ],
+     "voorstel": "De zin weglaten of neutraal maken: 'Volgens de partij kunnen boeren en natuur samengaan.'"
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "hart-voor-hilversum",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "d66",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "vvd",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "cda",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "christenunie",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "scb",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "gewoon-hilversum",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "opstand-nu",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "blanco-van-oostveen",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: stikstof, bufferzone, veestapel, regeldruk boeren)"
+    },
+    {
+     "id": "natuur-stikstof-boeren",
+     "slug": "bvnl",
+     "gevonden": false,
+     "citaat": "Boeren krijgen ruimte om te ondernemen en vrijwillig te verduurzamen, met eerlijke prijzen en bescherming van eigendom en landbouwgrond.",
+     "bron": "extra-partij-site / programma pijler 01",
+     "opmerking": "Niets over stikstofregels; null is terecht."
+    }
+   ]
+  },
+  "natuur-landbouw-natuur": {
+   "ongelijkheden": [
+    {
+     "nr": "G03",
+     "ernst": "hoog",
+     "soort": "score",
+     "id": "natuur-landbouw-natuur",
+     "partijen": [
+      "hart-voor-hilversum",
+      "christenunie",
+      "stop-betaald-parkeren-vip",
+      "sp",
+      "vvd",
+      "cda"
+     ],
+     "probleem": "SP, VVD en CDA krijgen 0 op grond van een MijnStem-antwoord rond het midden (50, 50, 51) met als boodschap 'balans tussen landbouw en natuur'. HvH (49), CU (55) en SBP (50) gaven op dezelfde vraag hetzelfde soort antwoord, maar staan op null.",
+     "citaten": [
+      {
+       "slug": "hart-voor-hilversum",
+       "s": null,
+       "citaat": "Wij kiezen voor een balans tussen natuur en landbouw.",
+       "bron": "MijnStem 'In het buitengebied meer ruimte geven aan' (49)"
+      },
+      {
+       "slug": "christenunie",
+       "s": null,
+       "citaat": "De ChristenUnie kiest in het buitengebied voor een goede balans tussen natuur, recreatie en duurzame landbouw.",
+       "bron": "MijnStem idem (55)"
+      },
+      {
+       "slug": "stop-betaald-parkeren-vip",
+       "s": null,
+       "citaat": "Wij zoeken de balans. Natuur en economie hoeven voor ons geen tegenstanders te zijn.",
+       "bron": "MijnStem idem (50)"
+      },
+      {
+       "slug": "sp",
+       "s": 0,
+       "citaat": "De huidige balans is goed.",
+       "bron": "MijnStem idem (50)"
+      },
+      {
+       "slug": "vvd",
+       "s": 0,
+       "citaat": "We willen natuur beschermen, maar het buitengebied is er ook om te werken en te recreëren.",
+       "bron": "MijnStem idem (50)"
+      }
+     ],
+     "voorstel": "HvH, CU en SBP naar 0 (soort mijnstem). Of anders SP, VVD en CDA naar null, als je vindt dat de MijnStem-vraag te ver van deze stelling af staat. Dan geldt dat ook voor de ±2-scores die alleen op die vraag rusten (zie G06)."
+    },
+    {
+     "nr": "G06",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "natuur-landbouw-natuur",
+     "partijen": [
+      "blanco-van-oostveen",
+      "bvnl",
+      "fvd"
+     ],
+     "probleem": "Drie uitgesproken MijnStem-antwoorden richting landbouw (Blanco 2, BVNL 0, FVD 11) krijgen verschillende scores: Blanco -1, BVNL en FVD -2. De MijnStem-vraag (meer ruimte voor landbouw of natuur in het hele buitengebied) is bovendien ruimer dan de stelling (een deel van de landbouwgrond in de polders wordt natuur). Dat pleit eerder voor ±1 voor iedereen die alleen op die vraag rust. D66 krijgt +2 op MijnStem 100 met een algemene tekst. PvdD heeft de stelling vrijwel letterlijk in haar antwoord staan.",
+     "citaten": [
+      {
+       "slug": "blanco-van-oostveen",
+       "s": -1,
+       "citaat": "We moeten veel inzetten op regeneratieve landbouw die een meerwaarde is voor de biodiversiteit.",
+       "bron": "MijnStem (2)"
+      },
+      {
+       "slug": "bvnl",
+       "s": -2,
+       "citaat": "Natuur is belangrijk, maar mag niet betekenen dat steeds meer landbouwgrond verdwijnt.",
+       "bron": "MijnStem (0)"
+      },
+      {
+       "slug": "fvd",
+       "s": -2,
+       "citaat": "Zonder boeren geen eten. Boeren onderhouden het landschap al sinds middeleeuwen.",
+       "bron": "MijnStem (11)"
+      },
+      {
+       "slug": "d66",
+       "s": 2,
+       "citaat": "D66 kiest ervoor onze natuur te beschermen en versterken.",
+       "bron": "MijnStem (100)"
+      }
+     ],
+     "voorstel": "Alle scores die alleen op deze MijnStem-vraag rusten op ±1 zetten (BVNL, FVD en D66 naar ±1). Of Blanco naar -2. Hoe dan ook: dezelfde schuifbalkwaarde moet dezelfde score geven."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "natuur-landbouw-natuur",
+     "slug": "hart-voor-hilversum",
+     "gevonden": true,
+     "citaat": "Wij kiezen voor een balans tussen natuur en landbouw.",
+     "bron": "MijnStem 'In het buitengebied meer ruimte geven aan' (49)",
+     "opmerking": "Zie G03."
+    },
+    {
+     "id": "natuur-landbouw-natuur",
+     "slug": "christenunie",
+     "gevonden": true,
+     "citaat": "De ChristenUnie kiest in het buitengebied voor een goede balans tussen natuur, recreatie en duurzame landbouw.",
+     "bron": "MijnStem idem (55)",
+     "opmerking": "Zie G03."
+    },
+    {
+     "id": "natuur-landbouw-natuur",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": true,
+     "citaat": "Wij zoeken de balans. Natuur en economie hoeven voor ons geen tegenstanders te zijn.",
+     "bron": "MijnStem idem (50)",
+     "opmerking": "Zie G03."
+    }
+   ]
+  },
+  "zorg-wmo-zonderindicatie": {
+   "ongelijkheden": [
+    {
+     "nr": "G12",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "zorg-wmo-zonderindicatie",
+     "partijen": [
+      "bvnl",
+      "gewoon-hilversum"
+     ],
+     "probleem": "BVNL krijgt -1 (afgeleid) omdat de partij 'snellere besluiten op maatwerk' wil. GH wil vrijwel hetzelfde (Wmo-aanvragen voortvarend en met minder bureaucratie) en staat op null. Geen van beide zegt iets over hulp zonder indicatie.",
+     "citaten": [
+      {
+       "slug": "bvnl",
+       "s": -1,
+       "citaat": "Wachtlijsten weg door minder bureaucratie en snellere, gemotiveerde besluiten op maatwerk.",
+       "bron": "programma pijler 10"
+      },
+      {
+       "slug": "gewoon-hilversum",
+       "s": null,
+       "citaat": "WMO-aanvragen moeten zorgvuldig maar ook voortvarend worden behandeld. We willen minder bureaucratie,",
+       "bron": "programma p. 29"
+      }
+     ],
+     "voorstel": "BVNL naar null (regel 6). Het programma zegt niets over algemene voorzieningen."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "gewoon-hilversum",
+     "gevonden": false,
+     "citaat": "WMO-aanvragen moeten zorgvuldig maar ook voortvarend worden behandeld.",
+     "bron": "programma p. 29",
+     "opmerking": "Niets over hulp zonder indicatie; wel vergelijkbaar met BVNL -1 (zie G12)."
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "vvd",
+     "gevonden": false,
+     "citaat": "Meer hulp in het voorveld (voorzieningen voor hulpvragen zonder indicatie).",
+     "bron": "programma p. 19",
+     "opmerking": "Gaat over jeugdzorg, niet over Wmo-hulp; null is te verdedigen."
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "bbb",
+     "gevonden": false,
+     "citaat": "Geen onnodige herindicaties.",
+     "bron": "programma p. 12",
+     "opmerking": "Herindicatie is iets anders dan hulp zonder indicatie."
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "lfd",
+     "gevonden": false,
+     "citaat": "Eén persoon moet niet verdwalen tussen verschillende loketten, indicaties, organisaties en dossiers.",
+     "bron": "programma p. 29"
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "d66",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: indicatie, algemene voorziening, huishoudelijke hulp, dagbesteding, Wmo)"
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "lokaal-een",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: indicatie, algemene voorziening, huishoudelijke hulp, dagbesteding, Wmo)"
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "christenunie",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: indicatie, algemene voorziening, huishoudelijke hulp, dagbesteding, Wmo)"
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "pvdd",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: indicatie, algemene voorziening, huishoudelijke hulp, dagbesteding, Wmo)"
+    },
+    {
+     "id": "zorg-wmo-zonderindicatie",
+     "slug": "opstand-nu",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "programma, extra-* (gezocht: indicatie, algemene voorziening, huishoudelijke hulp, dagbesteding, Wmo)"
+    }
+   ]
+  },
+  "veiligheid-coffeeshops-aantal": {
+   "ongelijkheden": [
+    {
+     "nr": "G10",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "veiligheid-coffeeshops-aantal",
+     "partijen": [
+      "vvd",
+      "dorp-voor-dorp",
+      "gewoon-hilversum",
+      "stop-betaald-parkeren-vip",
+      "lokaal-een"
+     ],
+     "probleem": "Vijf partijen zetten de schuifbalk op of rond 50, wat volgens de brief 'midden' is. VVD en DvD krijgen toch -1 op hun tekst, GH, SBP en LE 0. De tekst van VVD ('geen noodzaak om te verminderen') en DvD ('huidig beleid handhaven') wijkt inhoudelijk weinig af van die van LE ('weinig overlast') en GH ('zonder overlast kan het aantal gelijk blijven').",
+     "citaten": [
+      {
+       "slug": "vvd",
+       "s": -1,
+       "citaat": "De VVD wil het aantal coffeeshops niet uitbreiden, maar ziet ook geen noodzaak om het bestaande aantal te verminderen.",
+       "bron": "MijnStem (50)"
+      },
+      {
+       "slug": "dorp-voor-dorp",
+       "s": -1,
+       "citaat": "DvD is voor handhaving van het huidige beleid om illegale handel te voorkomen",
+       "bron": "MijnStem (50)"
+      },
+      {
+       "slug": "gewoon-hilversum",
+       "s": 0,
+       "citaat": "Gewoon Hilversum kijkt niet naar het aantal, maar of er sprake is van overlast.",
+       "bron": "MijnStem (50)"
+      },
+      {
+       "slug": "lokaal-een",
+       "s": 0,
+       "citaat": "De coffeeshops in Hilversum zorgen voor relatief weinig overlast.",
+       "bron": "MijnStem (52)"
+      }
+     ],
+     "voorstel": "Eén regel kiezen. Houd je de schuifbalk aan, dan gaan VVD en DvD naar 0. Laat je de tekst voorgaan, dan moet bij elk van de vijf staan waarom de tekst de schuifbalk overrulet."
+    },
+    {
+     "nr": "T06",
+     "ernst": "laag",
+     "soort": "toon",
+     "id": "veiligheid-coffeeshops-aantal",
+     "partijen": [
+      "lokaal-een"
+     ],
+     "probleem": "'De partij zegt dat de coffeeshops weinig overlast geven' zet afstand ('zegt'), en de toelichting noemt het standpunt over het maximum niet. Bij D66, SP en andere partijen staat 'vindt' of een directe beschrijving van het standpunt.",
+     "citaten": [
+      {
+       "slug": "lokaal-een",
+       "s": 0,
+       "citaat": "De coffeeshops in Hilversum zorgen voor relatief weinig overlast.",
+       "bron": "MijnStem (52)"
+      }
+     ],
+     "voorstel": "'De partij vindt verminderen niet per se nodig: de coffeeshops geven volgens haar weinig overlast. Haar enige bezwaar is dat enkele dicht bij scholen liggen.'"
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "veiligheid-coffeeshops-aantal",
+     "slug": "(geen)",
+     "gevonden": false,
+     "citaat": null,
+     "bron": null,
+     "opmerking": "Geen enkele partij heeft hier null."
+    }
+   ]
+  },
+  "asiel-omwonenden-beslissen": {
+   "ongelijkheden": [
+    {
+     "nr": "G04",
+     "ernst": "hoog",
+     "soort": "score",
+     "id": "asiel-omwonenden-beslissen",
+     "partijen": [
+      "sp",
+      "lokaal-een",
+      "scb",
+      "hart-voor-hilversum"
+     ],
+     "probleem": "SP krijgt -1 op een antwoord dat alleen zegt dat de partij opvang wil, in overleg met de buurt. De toelichting zegt zelf: 'Een laatste woord voor omwonenden noemt ze niet.' Lokaal Eén en SCB gaven bijna hetzelfde antwoord (verantwoordelijkheid nemen, overleg, niet overvallen) en staan op null. HvH neigt zelfs naar de andere kant ('zonder overeenstemming een zeer moeilijke opgave') en staat ook op null. Waar een partij de Spreidingswet of de raad als beslisser noemt (CDA, Volt, PvdD, VVD, PRO, CU), is -1 of -2 wel te onderbouwen.",
+     "citaten": [
+      {
+       "slug": "sp",
+       "s": -1,
+       "citaat": "Mensen mogen niet meer voor een voldongen feit komen te staan.",
+       "bron": "programma p. 13; HN 12-11-2026: 'Niet meer dan 50 tot 100 mensen per locatie. In overleg met de buurt.'"
+      },
+      {
+       "slug": "lokaal-een",
+       "s": null,
+       "citaat": "Inwoners mogen niet overvallen worden.",
+       "bron": "Hilversums Nieuws 12-11-2026"
+      },
+      {
+       "slug": "scb",
+       "s": null,
+       "citaat": "SCB vindt dat omwonenden vanaf het begin serieus betrokken moeten worden bij plannen voor nieuwe opvanglocaties.",
+       "bron": "Hilversums Nieuws 12-11-2026"
+      },
+      {
+       "slug": "hart-voor-hilversum",
+       "s": null,
+       "citaat": "Als er geen overeenstemming is met de buurt en de directe omgeving is het opvangen van asielzoekers dan wel statushouders een zeer moeilijke opgave.",
+       "bron": "Hilversums Nieuws 12-11-2026"
+      }
+     ],
+     "voorstel": "SP naar null (regel 6: twijfel betekent null), zodat SP, LE en SCB hetzelfde worden behandeld. Of alle drie naar -1 met dezelfde redenering ('wil opvang, betrekt de buurt, geeft geen veto'). Dan moet die redenering wel in elke toelichting staan."
+    },
+    {
+     "nr": "G14",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "asiel-omwonenden-beslissen",
+     "partijen": [
+      "vvd",
+      "christenunie",
+      "bvnl",
+      "lfd"
+     ],
+     "probleem": "VVD wijst instemming van omwonenden net zo duidelijk af als CU, maar krijgt -1 tegen -2 voor CU. BVNL en LFD zeggen allebei 'daadwerkelijk instemmen' en krijgen +2 en +1. Het verschil bij LFD is wel uitgelegd: het programma zegt dat de raad beslist.",
+     "citaten": [
+      {
+       "slug": "vvd",
+       "s": -1,
+       "citaat": "De gemeente moet met alle betrokkenen in gesprek, maar wat als bewoners nergens mee instemmen? Raadsleden en wethouders hebben zich te houden aan de wet",
+       "bron": "Hilversums Nieuws 12-11-2026; programma p. 7"
+      },
+      {
+       "slug": "christenunie",
+       "s": -2,
+       "citaat": "De keuze voor de locatie ligt echter bij de gemeenteraad en niet bij de omwonenden.",
+       "bron": "Hilversums Nieuws 12-11-2026"
+      }
+     ],
+     "voorstel": "VVD naar -2, of in de toelichting uitleggen waarom -1 (bijvoorbeeld de opening 'verleidelijk eens te roepen'). BVNL en LFD kunnen blijven."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "asiel-omwonenden-beslissen",
+     "slug": "hart-voor-hilversum",
+     "gevonden": false,
+     "citaat": "Als er geen overeenstemming is met de buurt en de directe omgeving is het opvangen van asielzoekers dan wel statushouders een zeer moeilijke opgave.",
+     "bron": "Hilversums Nieuws 12-11-2026",
+     "opmerking": "Neigt naar 'eens', maar zegt niet wie beslist. Zie G04."
+    },
+    {
+     "id": "asiel-omwonenden-beslissen",
+     "slug": "lokaal-een",
+     "gevonden": false,
+     "citaat": "Inwoners mogen niet overvallen worden.",
+     "bron": "Hilversums Nieuws 12-11-2026",
+     "opmerking": "Bijna gelijk aan SP (-1). Zie G04."
+    },
+    {
+     "id": "asiel-omwonenden-beslissen",
+     "slug": "scb",
+     "gevonden": false,
+     "citaat": "SCB vindt dat omwonenden vanaf het begin serieus betrokken moeten worden bij plannen voor nieuwe opvanglocaties.",
+     "bron": "Hilversums Nieuws 12-11-2026",
+     "opmerking": "Zie G04."
+    },
+    {
+     "id": "asiel-omwonenden-beslissen",
+     "slug": "fvd",
+     "gevonden": false,
+     "citaat": "Wij willen in Hilversum en de Wijdemeerse kernen geen opvanglocaties, AZC’s of noodopvang",
+     "bron": "Hilversums Nieuws 12-11-2026",
+     "opmerking": "Wijst opvang helemaal af en zegt niets over wie beslist; null is terecht."
+    }
+   ]
+  },
+  "economie-mediapark-woningen": {
+   "ongelijkheden": [
+    {
+     "nr": "G09",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "economie-mediapark-woningen",
+     "partijen": [
+      "lfd",
+      "lokaal-een",
+      "volt"
+     ],
+     "probleem": "LFD heeft wel een eigen MijnStem-antwoord (50, 'kiest niet tussen woningen en mediabedrijven'), maar staat op null. LE (51) en Volt (44), die ook geen kant kiezen, staan op 0.",
+     "citaten": [
+      {
+       "slug": "lfd",
+       "s": null,
+       "citaat": "De LFD kiest niet tussen woningen en mediabedrijven op het Media Park.",
+       "bron": "MijnStem 'Maak een keuze. Op het Media Park:' (50)"
+      },
+      {
+       "slug": "lokaal-een",
+       "s": 0,
+       "citaat": "In de campusopzet past het bieden van woonruimte voor studenten.",
+       "bron": "MijnStem (51)"
+      },
+      {
+       "slug": "volt",
+       "s": 0,
+       "citaat": "We versterken de innovatiekracht (start-ups) en werkgelegenheid.",
+       "bron": "MijnStem (44)"
+      }
+     ],
+     "voorstel": "LFD naar 0 (mijnstem), met in de toelichting dat de partij de keuze aan eigenaren en ondernemers laat."
+    },
+    {
+     "nr": "G18",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "economie-mediapark-woningen",
+     "partijen": [
+      "d66",
+      "cda"
+     ],
+     "probleem": "D66 (MijnStem 34, 'Beide dus') en CDA (MijnStem 39) neigen op de schuifbalk naar woningen, maar krijgen -1 op andere teksten ('zolang het aantal vierkante meters voor bedrijven niet afneemt'; 'economische functie voorop'). De score is te verdedigen, maar de spanning staat niet in de toelichting (regel 5).",
+     "citaten": [
+      {
+       "slug": "d66",
+       "s": -1,
+       "citaat": "Extra woningen op bedrijventerreinen en in bestaande gebouwen zijn welkom, zolang het aantal vierkante meters voor bedrijven niet afneemt.",
+       "bron": "Stemgids kantoren (voor); MijnStem Media Park 34"
+      },
+      {
+       "slug": "cda",
+       "s": -1,
+       "citaat": "Voor ons blijft de economische functie vooropstaan.",
+       "bron": "MijnStem Media Park (39)"
+      }
+     ],
+     "voorstel": "Eén zin over het MijnStem-antwoord toevoegen aan beide toelichtingen."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "economie-mediapark-woningen",
+     "slug": "lfd",
+     "gevonden": true,
+     "citaat": "De LFD kiest niet tussen woningen en mediabedrijven op het Media Park.",
+     "bron": "MijnStem 'Maak een keuze. Op het Media Park:' (50)",
+     "opmerking": "Zie G09."
+    }
+   ]
+  },
+  "cultuur-budget-niveau": {
+   "ongelijkheden": [
+    {
+     "nr": "T05",
+     "ernst": "laag",
+     "soort": "toon",
+     "id": "cultuur-budget-niveau",
+     "partijen": [
+      "christenunie",
+      "blanco-van-oostveen"
+     ],
+     "probleem": "Bij CU staat 'De partij koos bewust 'neutraal''. Het woord 'bewust' is een interpretatie, want er was geen toelichting bij het antwoord. Bij Blanco staat opnieuw 'Van Oostveen wil'.",
+     "citaten": [
+      {
+       "slug": "christenunie",
+       "s": 0,
+       "citaat": "moet de overheid blijven investeren in cultuursubsidies, erfgoed en voldoende sportfaciliteiten voor de toekomst.",
+       "bron": "programma p. 27"
+      }
+     ],
+     "voorstel": "'De partij antwoordde neutraal op de vraag ...' en 'De partij wil meer geld ...'."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "cultuur-budget-niveau",
+     "slug": "(geen)",
+     "gevonden": false,
+     "citaat": null,
+     "bron": null,
+     "opmerking": "Geen enkele partij heeft hier null."
+    }
+   ]
+  },
+  "bestuur-referendum-advies": {
+   "ongelijkheden": [
+    {
+     "nr": "G20",
+     "ernst": "laag",
+     "soort": "score",
+     "id": "bestuur-referendum-advies",
+     "partijen": [
+      "pro",
+      "cda",
+      "vvd",
+      "d66"
+     ],
+     "probleem": "Dezelfde soort afleiding (een partij tegen meebeslissende referenda vindt dat de raad beslist) heet bij PRO 'stemgids' en bij CDA, VVD en D66 'afgeleid'. De score (+1) is gelijk, alleen het etiket verschilt.",
+     "citaten": [
+      {
+       "slug": "pro",
+       "s": 1,
+       "citaat": "Beslissen is voorbehouden aan de gemeenteraad.",
+       "bron": "Stemgids 'referendum meebeslissen' (tegen)"
+      },
+      {
+       "slug": "cda",
+       "s": 1,
+       "citaat": "We kennen in ons land een vertegenwoordigende democratie, en middelen om in grote projecten te participeren.",
+       "bron": "Stemgids idem (tegen)"
+      }
+     ],
+     "voorstel": "PRO naar soort 'afgeleid'."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "hart-voor-hilversum",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "sp",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "christenunie",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "gewoon-hilversum",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "opstand-nu",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "volt",
+     "gevonden": false,
+     "citaat": "Dorpen en wijken kunnen meebeslissen en via een burgerberaad kunnen inwoners meebeslissen over grote besluiten van de gemeente.",
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "scb",
+     "gevonden": false,
+     "citaat": "Een referendum kan daarbij nuttig zijn, maar is niet in elke situatie het beste middel.",
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "blanco-van-oostveen",
+     "gevonden": false,
+     "citaat": null,
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "bbb",
+     "gevonden": false,
+     "citaat": "is een referendum een onmisbaar instrument om het draagvlak te toetsen",
+     "bron": "Stemgids 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten'",
+     "opmerking": "Het antwoord gaat over wel of geen referendum, niet over adviserend of bindend."
+    },
+    {
+     "id": "bestuur-referendum-advies",
+     "slug": "stop-betaald-parkeren-vip",
+     "gevonden": false,
+     "citaat": "Een referendum is een prachtig middel om écht naar inwoners te luisteren voordat we besluiten nemen die grote impact hebben op de omgeving.",
+     "bron": "Stemgids idem (voor)",
+     "opmerking": "Lichte aanwijzing voor 'adviserend'; null volgens regel 6. Volgens Hilversums Nieuws wil SBP de uitkomst van de eigen raadplegingen 'rechtstreeks vertalen naar raadsbesluiten', wat eerder op bindend wijst."
+    }
+   ]
+  },
+  "financien-centrum-sober": {
+   "ongelijkheden": [
+    {
+     "nr": "G11",
+     "ernst": "middel",
+     "soort": "score",
+     "id": "financien-centrum-sober",
+     "partijen": [
+      "gewoon-hilversum",
+      "opstand-nu",
+      "dorp-voor-dorp",
+      "volt",
+      "vvd",
+      "cda",
+      "pro"
+     ],
+     "probleem": "Een kaal Stemgids-'neutraal' zonder toelichting wordt bij GH en Opstand 0. DvD en Volt antwoordden ook 'neutraal', mét toelichting, en staan op null. Bij het stemgedrag: PRO krijgt -1 mede omdat GL en PvdA in 2023 voor het duurdere Kerkbrink-ontwerp stemden. VVD en CDA stemden net zo, maar dat stemgedrag is bij hen niet gebruikt.",
+     "citaten": [
+      {
+       "slug": "gewoon-hilversum",
+       "s": 0,
+       "citaat": null,
+       "bron": "Stemgids 'Kerkbrink soberder en goedkoper' (neutraal, geen toelichting)"
+      },
+      {
+       "slug": "dorp-voor-dorp",
+       "s": null,
+       "citaat": "Nu stoppen kan niet meer. Het is belangrijk om verdere keuzes zorgvuldig te maken, onnodige kosten te voorkomen en de belangen van inwoners centraal te stellen.",
+       "bron": "Stemgids idem (neutraal)"
+      },
+      {
+       "slug": "volt",
+       "s": null,
+       "citaat": "Plan wordt al uitgevoerd, niet meer aanpassen.",
+       "bron": "Stemgids idem (neutraal)"
+      },
+      {
+       "slug": "vvd",
+       "s": null,
+       "citaat": "De grote investeringen Bruisend Hart (Oosterspoorplein) en de Hilversumse Meent worden uitgesteld omdat we die nu niet kunnen betalen.",
+       "bron": "programma p. 29; Raad Hilversum 06-12-2023 Kerkbrink (VVD voor)"
+      }
+     ],
+     "voorstel": "Een kaal 'neutraal' zonder toelichting op null zetten (GH en Opstand), of DvD en Volt op 0. Het Kerkbrink-stemgedrag bij PRO, VVD en CDA op dezelfde manier wegen, of bij geen van drieën."
+    }
+   ],
+   "nullcontroles": [
+    {
+     "id": "financien-centrum-sober",
+     "slug": "dorp-voor-dorp",
+     "gevonden": true,
+     "citaat": "Nu stoppen kan niet meer. Het is belangrijk om verdere keuzes zorgvuldig te maken, onnodige kosten te voorkomen en de belangen van inwoners centraal te stellen.",
+     "bron": "Stemgids 'Kerkbrink soberder en goedkoper' (neutraal)",
+     "opmerking": "Bij GH en Opstand werd 'neutraal' 0. Zie G11."
+    },
+    {
+     "id": "financien-centrum-sober",
+     "slug": "volt",
+     "gevonden": true,
+     "citaat": "Plan wordt al uitgevoerd, niet meer aanpassen.",
+     "bron": "Stemgids idem (neutraal)",
+     "opmerking": "Zie G11."
+    },
+    {
+     "id": "financien-centrum-sober",
+     "slug": "vvd",
+     "gevonden": false,
+     "citaat": "De grote investeringen Bruisend Hart (Oosterspoorplein) en de Hilversumse Meent worden uitgesteld omdat we die nu niet kunnen betalen.",
+     "bron": "programma p. 29; Raad 06-12-2023 Kerkbrink (VVD voor)",
+     "opmerking": "Uitstellen is iets anders dan sober uitvoeren, en de stem voor het duurdere Kerkbrink-ontwerp wijst de andere kant op. Gemengd; zie G11."
+    },
+    {
+     "id": "financien-centrum-sober",
+     "slug": "cda",
+     "gevonden": false,
+     "citaat": "De vernieuwde Kerkbrink laten we leven",
+     "bron": "programma p. 48; Raad 06-12-2023 Kerkbrink (CDA voor)",
+     "opmerking": "Geen uitspraak over materialen; het stemgedrag is niet gebruikt (zie G11)."
+    }
+   ]
+  }
+ },
+ "hele_bank": {
+  "toon": [
+   {
+    "nr": "T07",
+    "ernst": "laag",
+    "soort": "toon",
+    "id": "(hele bank)",
+    "partijen": [
+     "pvdd",
+     "blanco-van-oostveen",
+     "hart-voor-hilversum"
+    ],
+    "probleem": "Het woord 'zelfs' klinkt verbaasd: PvdD (klimaat-2040, kern 'de partij mikt zelfs op 2030'), Blanco (financien-toerist-forens-laag, kern 'Wil toeristenbelasting zelfs afschaffen') en HvH (financien-ozb-meestijgen). Bij PvdD (veiligheid-camera-uitbreiden) staat 'Ze noemt het slechts schijnveiligheid'. Het woord 'slechts' staat niet in de bron.",
+    "citaten": [
+     {
+      "slug": "pvdd",
+      "s": null,
+      "citaat": "schijnveiligheid",
+      "bron": "programma (camera's)"
+     }
+    ],
+    "voorstel": "'zelfs' en 'slechts' weghalen."
+   },
+   {
+    "nr": "T08",
+    "ernst": "laag",
+    "soort": "toon",
+    "id": "(hele bank)",
+    "partijen": [
+     "vvd"
+    ],
+    "probleem": "De VVD heet in 72 van de 74 toelichtingen 'De VVD', bijna alle andere partijen 'De partij'. Dat is geen oordeel, maar het maakt de VVD-teksten herkenbaarder dan die van de andere partijen.",
+    "citaten": [],
+    "voorstel": "Overal 'De partij', of overal de partijnaam."
+   }
+  ],
+  "woordentelling": [
+   {
+    "p": "hart-voor-hilversum",
+    "n": 58,
+    "len": 206,
+    "A": {},
+    "B": {
+     "kritisch": 2,
+     "zelfs": 1
+    },
+    "C": {
+     "wel": 3,
+     "vindt": 5,
+     "zegt": 2
+    },
+    "stilte": 9
+   },
+   {
+    "p": "pro",
+    "n": 79,
+    "len": 186,
+    "A": {},
+    "B": {
+     "kritisch": 1
+    },
+    "C": {
+     "wel": 6,
+     "vindt": 17,
+     "zegt": 5
+    },
+    "stilte": 15
+   },
+   {
+    "p": "d66",
+    "n": 66,
+    "len": 198,
+    "A": {
+     "onduidelijk": 2
+    },
+    "B": {
+     "bewust": 1,
+     "uitgesproken": 1
+    },
+    "C": {
+     "wel": 10,
+     "vindt": 9,
+     "zegt": 7
+    },
+    "stilte": 18
+   },
+   {
+    "p": "vvd",
+    "n": 74,
+    "len": 191,
+    "A": {},
+    "B": {
+     "kritisch": 4
+    },
+    "C": {
+     "vindt": 10,
+     "zegt": 8,
+     "wel": 6
+    },
+    "stilte": 13
+   },
+   {
+    "p": "cda",
+    "n": 71,
+    "len": 205,
+    "A": {
+     "realistisch": 2
+    },
+    "B": {
+     "kritisch": 1
+    },
+    "C": {
+     "wel": 19,
+     "vindt": 10,
+     "zegt": 5,
+     "erkent": 1
+    },
+    "stilte": 11
+   },
+   {
+    "p": "lokaal-een",
+    "n": 70,
+    "len": 183,
+    "A": {},
+    "B": {
+     "kritisch": 2
+    },
+    "C": {
+     "wel": 19,
+     "vindt": 6,
+     "zegt": 12
+    },
+    "stilte": 21
+   },
+   {
+    "p": "sp",
+    "n": 68,
+    "len": 196,
+    "A": {
+     "terecht": 2
+    },
+    "B": {},
+    "C": {
+     "vindt": 17,
+     "zegt": 6,
+     "wel": 7,
+     "erkent": 1
+    },
+    "stilte": 15
+   },
+   {
+    "p": "christenunie",
+    "n": 64,
+    "len": 220,
+    "A": {},
+    "B": {
+     "bewust": 1,
+     "kritisch": 1
+    },
+    "C": {
+     "zegt": 6,
+     "vindt": 13,
+     "wel": 12
+    },
+    "stilte": 15
+   },
+   {
+    "p": "bvnl",
+    "n": 67,
+    "len": 174,
+    "A": {},
+    "B": {
+     "dogmatisch": 1,
+     "kritisch": 2
+    },
+    "C": {
+     "wel": 6,
+     "zegt": 6,
+     "vindt": 5
+    },
+    "stilte": 11
+   },
+   {
+    "p": "scb",
+    "n": 49,
+    "len": 206,
+    "A": {},
+    "B": {},
+    "C": {
+     "zegt": 7,
+     "vindt": 11,
+     "wel": 5
+    },
+    "stilte": 9
+   },
+   {
+    "p": "gewoon-hilversum",
+    "n": 64,
+    "len": 197,
+    "A": {
+     "realistisch": 2,
+     "ambitieus": 2
+    },
+    "B": {
+     "dogmatisch": 1,
+     "absoluut": 2
+    },
+    "C": {
+     "wel": 9,
+     "vindt": 18,
+     "zegt": 5
+    },
+    "stilte": 15
+   },
+   {
+    "p": "dorp-voor-dorp",
+    "n": 56,
+    "len": 225,
+    "A": {
+     "realistisch": 4
+    },
+    "B": {
+     "pertinent": 1
+    },
+    "C": {
+     "vindt": 12,
+     "zegt": 7,
+     "wel": 11
+    },
+    "stilte": 15
+   },
+   {
+    "p": "stop-betaald-parkeren-vip",
+    "n": 50,
+    "len": 206,
+    "A": {},
+    "B": {
+     "uitgesproken": 1,
+     "kritisch": 6
+    },
+    "C": {
+     "vindt": 7,
+     "wel": 4,
+     "zegt": 7,
+     "toch": 1
+    },
+    "stilte": 13
+   },
+   {
+    "p": "opstand-nu",
+    "n": 61,
+    "len": 189,
+    "A": {
+     "realistisch": 1
+    },
+    "B": {
+     "kritisch": 6
+    },
+    "C": {
+     "wel": 12,
+     "zegt": 8,
+     "vindt": 14,
+     "toch": 1
+    },
+    "stilte": 14
+   },
+   {
+    "p": "pvdd",
+    "n": 69,
+    "len": 198,
+    "A": {
+     "ambitieus": 2,
+     "slechts": 1
+    },
+    "B": {
+     "uitgesproken": 4,
+     "zelfs": 1,
+     "kritisch": 3
+    },
+    "C": {
+     "erkent": 1,
+     "zegt": 4,
+     "vindt": 8,
+     "wel": 7
+    },
+    "stilte": 16
+   },
+   {
+    "p": "blanco-van-oostveen",
+    "n": 51,
+    "len": 204,
+    "A": {},
+    "B": {
+     "sceptisch": 1,
+     "zelfs": 1
+    },
+    "C": {
+     "zegt": 6,
+     "vindt": 13,
+     "wel": 8
+    },
+    "stilte": 11
+   },
+   {
+    "p": "lfd",
+    "n": 68,
+    "len": 208,
+    "A": {},
+    "B": {
+     "bewust": 2,
+     "absoluut": 2,
+     "kritisch": 2
+    },
+    "C": {
+     "wel": 11,
+     "zegt": 7,
+     "vindt": 15
+    },
+    "stilte": 16
+   },
+   {
+    "p": "volt",
+    "n": 58,
+    "len": 167,
+    "A": {},
+    "B": {
+     "geen eigen lijn": 1
+    },
+    "C": {
+     "zegt": 5,
+     "wel": 6,
+     "vindt": 3
+    },
+    "stilte": 20
+   },
+   {
+    "p": "fvd",
+    "n": 69,
+    "len": 172,
+    "A": {},
+    "B": {
+     "uitgesproken": 1,
+     "fel": 1
+    },
+    "C": {
+     "wel": 7,
+     "vindt": 7,
+     "zegt": 7
+    },
+    "stilte": 19
+   },
+   {
+    "p": "bbb",
+    "n": 60,
+    "len": 184,
+    "A": {
+     "realistisch": 1
+    },
+    "B": {
+     "fel": 4,
+     "absoluut": 2,
+     "felste": 1,
+     "categorisch": 1,
+     "kritisch": 4
+    },
+    "C": {
+     "wel": 5,
+     "vindt": 11,
+     "zegt": 9
+    },
+    "stilte": 17
+   }
+  ]
+ }
+}

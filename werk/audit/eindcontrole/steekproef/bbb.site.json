@@ -1,0 +1,263 @@
+[
+ {
+  "id": "wonen-eigen-behoefte",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": 2,
+  "kern": "Maatwerk per project in plaats van een vast percentage",
+  "toelichting": "De partij wil geen vast minimumpercentage sociale huur. Elk project heeft andere kosten en met maatwerk per project komt de bouw sneller van de grond.",
+  "citaat": "Een vast percentage van sociale huur remt de woningbouw. Elk project is anders en heeft andere kosten.",
+  "bron": "MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "s": -1,
+  "kern": "Wil de starterslening, naast voldoende betaalbare woningen",
+  "toelichting": "De partij is voor de starterslening als hulp bij een eerste koopwoning, met beheersbare risico's. Ze zegt wel dat de lening pas echt effect heeft als er ook genoeg betaalbare huizen worden gebouwd.",
+  "citaat": "Een starterslening helpt om de eerste koopwoning te bereiken.",
+  "bron": "Stemgids: 'De gemeente moet starters helpen een huis te kopen met een starterslening' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "wonen-parkeernorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "s": 2,
+  "kern": "Betaald parkeren in de wijken terugdraaien",
+  "toelichting": "De partij verzet zich fel tegen betaald parkeren in woonwijken en winkelgebieden en wil het terugdringen. Alleen in het centrum, waar de parkeerdruk sturing vraagt, kunnen heffingen blijven.",
+  "citaat": "waarbij we ons fel verzetten tegen uitbreiding naar woonwijken en winkelgebieden en juist inzetten op het terugdringen ervan om de lokale economie te ondersteunen.",
+  "bron": "p. 24; Stemgids: parkeren terugdraaien (voor); MijnStem: betaald parkeren (0, terugdringen)",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": 0,
+  "kern": "Wil én veilige fietspaden én voldoende parkeerplaatsen",
+  "toelichting": "De partij vindt veilige fietspaden essentieel, maar wil niet dat die ten koste gaan van voldoende en betaalbare parkeergelegenheid. Ze kiest nadrukkelijk voor beide.",
+  "citaat": "Goede, veilige fietspaden zijn essentieel, maar de auto blijft voor velen onmisbaar.",
+  "bron": "MijnStem: 'Investeren in: fietspaden of parkeerplekken'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "verkeer-autoluw",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "klimaat-warmtenet-markt",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "s": -1,
+  "kern": "Tegen alle windturbines op het grondgebied",
+  "toelichting": "BBB is categorisch tegen windturbines op of bij het grondgebied, om het open landschap te beschermen, en kiest liever voor zonnepanelen op daken. Kleine windmolens bij boerderijen noemt de partij niet apart; de felste kritiek richt zich op grote turbines.",
+  "citaat": "BBB is absoluut tegen windturbines op of bij Hilversums grondgebied. Het groene en open landschap is waardevol en moet worden beschermd.",
+  "bron": "p. 22 (Klimaat en duurzaamheid)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "klimaat-kern-locatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snippergroen",
+  "s": -1,
+  "kern": "Openbaar groen moet groen blijven",
+  "toelichting": "De partij wil niet dat buurten worden volgebouwd ten koste van schaars groen. Tegelijk noemt ze een 'straatje erbij' als maatwerk tegen de woningnood.",
+  "citaat": "BBB wil niet dat buurten worden volgebouwd ten koste van het schaarse groen.",
+  "bron": "Stemgids: 'In buurten met weinig groen mag er geen openbaar groen meer verdwijnen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": -1,
+  "kern": "Groennorm 3-30-300 zoveel mogelijk halen, niet als harde eis",
+  "toelichting": "De partij wil de groennorm 3-30-300 bij nieuwbouwprojecten zoveel als mogelijk halen. Een verplichte norm die voorgaat op het aantal woningen stelt ze niet.",
+  "citaat": "bij nieuwbouwprojecten, zoveel als mogelijk de groennorm 3-30-300 bereiken.",
+  "bron": "p. 16",
+  "soort": "programma"
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": -2,
+  "kern": "Niet miljoenen bezuinigen op jeugdzorg; bureaucratie aanpakken",
+  "toelichting": "De partij wil niet miljoenen korten op de jeugdzorg. Ze wil de bureaucratie aanpakken zodat elke euro bij het kind terechtkomt.",
+  "citaat": "In plaats van miljoenen te korten op hulp, moeten we de bureaucratie aanpakken zodat elke euro bij het kind terechtkomt.",
+  "bron": "Stemgids: 'De gemeente mag niet miljoenen bezuinigen op de jeugdzorg' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "s": 1,
+  "kern": "Een buurthuis in elk dorp en elke wijk, gedragen door vrijwilligers",
+  "toelichting": "De partij wil een buurthuis in elke wijk en elk dorp. Het beheer laat ze liever aan inwoners en vrijwilligers dan dat de gemeente het overneemt; of de gemeente alles betaalt, zegt ze niet.",
+  "citaat": "Een buurthuis in elke wijk en elk dorp is de centrale plek waar inwoners elkaar écht zien en horen.",
+  "bron": "MijnStem: 'In alle wijken en dorpen een buurthuis openen'; p. 12",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 2,
+  "kern": "Meer cameratoezicht op plekken met veel overlast",
+  "toelichting": "De partij wil het cameratoezicht uitbreiden op plekken waar vaker ongeregeldheden plaatsvinden.",
+  "citaat": "Op plekken waar vaker ongeregeldheden plaatsvinden, pleit BBB voor een uitbreiding van het cameratoezicht.",
+  "bron": "p. 23; MijnStem: 'Cameratoezicht op straat' (100 = uitbreiden)",
+  "soort": "programma"
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": 1,
+  "kern": "Opvang alleen met draagvlak: omwonenden vooraf laten instemmen",
+  "toelichting": "De partij is het eens dat nieuwe opvanglocaties alleen komen met instemming van omwonenden. Ze legt de nadruk op tijdige communicatie en het serieus betrekken van inwoners.",
+  "citaat": "Daarnaast kan opvanglocatie kan alleen slagen als er voldoende draagvlak is in de buurt.",
+  "bron": "Hilversums Nieuws, 12-11-2026; p. 25",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "asiel-regenbooggeld",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "s": 0,
+  "kern": "Plan kritisch heroverwegen op betaalbaarheid en haalbaarheid",
+  "toelichting": "De partij vindt het stationsgebied belangrijk voor extra woningen, maar wil het plan kritisch heroverwegen op kosten en risico's. De belastingbetaler mag niet opdraaien voor tekorten; een uitstel noemt ze niet.",
+  "citaat": "BBB wil dat het plan kritisch wordt heroverwogen op betaalbaarheid en haalbaarheid, zonder dat de lokale belastingbetaler opdraait voor tekorten.",
+  "bron": "Stemgids: Bruisend Hart moet doorgaan zoals vastgesteld (neutraal)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "s": -2,
+  "kern": "Winkels op zondag ruimer open, op vrijwillige basis",
+  "toelichting": "De partij wil winkeliers de vrijheid geven om op zondag ruimer open te zijn, zonder verplichting. Ze wil de openingstijden dus niet beperken.",
+  "citaat": "BBB gunt winkeliers de vrijheid om zelf te bepalen wanneer zij hun deuren openen.",
+  "bron": "Stemgids: 'Winkels moeten op zondag ruimer open mogen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": -1,
+  "kern": "Geen hoger cultuurbudget; liever verenigingen, erfgoed en basistaken",
+  "toelichting": "BBB wil het geld voor kunst en cultuur niet algemeen verhogen. De partij besteedt het liever aan lokale verenigingen, erfgoed en de basistaken van de gemeente, die alle inwoners direct ten goede komen.",
+  "citaat": "BBB investeert liever in lokale verenigingen, erfgoed en de basistaken van de gemeente die alle inwoners direct ten goede komen, in plaats van het algemeen verhogen van subsidies voor kunst en cultuur.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur' (tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-leges-dorpsevenementen",
+  "s": 2,
+  "kern": "Kleine evenementen in de dorpen zonder leges",
+  "toelichting": "De partij vindt dat vrijwilligers die kleine evenementen organiseren niet met gemeentelijke rekeningen bestraft moeten worden, en wil dat leges voor evenementen laag blijven.",
+  "citaat": "BBB vindt dat vrijwilligers die zich inzetten voor de leefbaarheid niet bestraft moeten worden met gemeentelijke rekeningen.",
+  "bron": "Stemgids: kleine evenementen in de dorpen geen leges na de fusie (voor); p. 8",
+  "soort": "stemgids"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": -1,
+  "kern": "Bij korten eerst kijken naar de eigen organisatie",
+  "toelichting": "De partij wil bij bezuinigingen eerst kritisch kijken naar de eigen organisatie en het ambtenarenapparaat. Ze wil verenigingen en lokale initiatieven juist ondersteunen.",
+  "citaat": "Als de gemeente moet korten, kijken we eerst kritisch naar de eigen organisatie en het ambtenarenapparaat.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door'; p. 8",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": 2,
+  "kern": "Vast bedrag per huishouden voor afval",
+  "toelichting": "De partij kiest voor een vast bedrag per huishouden, omdat betalen per hoeveelheid afval volgens haar tot meer zwerfafval en illegaal dumpen leidt.",
+  "citaat": "Als BBB kiezen we voor een vast bedrag per huishouden.",
+  "bron": "MijnStem: 'Afvalheffing op basis van' (0 = vast bedrag)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-inhuur-vaste-banen",
+  "s": 1,
+  "kern": "Minder dure externe inhuur, meer inzet op eigen ambtelijke expertise",
+  "toelichting": "De partij wil stoppen met zomaar dure externe bureaus inschakelen en meer investeren in eigen ambtelijke expertise. Tegelijk wil ze bij bezuinigingen kritisch kijken naar het ambtenarenapparaat.",
+  "citaat": "De gemeente moet stoppen met het zomaar inschakelen van duur onderzoeks- en adviesbureaus",
+  "bron": "p. 26",
+  "soort": "programma"
+ },
+ {
+  "id": "financien-investeringen-spreiden",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ }
+]

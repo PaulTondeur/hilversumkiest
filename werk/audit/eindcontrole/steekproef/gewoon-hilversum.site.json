@@ -1,0 +1,245 @@
+[
+ {
+  "id": "wonen-eigen-behoefte",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-dorpsrand",
+  "s": 1,
+  "kern": "Wil meer woningbouw buiten de bebouwde kom, zonder groen te schaden",
+  "toelichting": "De partij wil alle kansen voor woningbouw pakken, ook buiten de bebouwde kom, zolang het niet ten koste gaat van groen, natuur en een prettige leefomgeving. Over het gebruik van landbouwgrond voor woningbouw is ze terughoudender.",
+  "citaat": "Gewoon, Hilversum vind dat we alle kansen voor woningbouw moeten pakken. En kijken waar het past om woonruimte te creëren, zonder dat het ten koste van groen en natuur en prettige leefomgeving.",
+  "bron": "MijnStem: 'Meer woningbouw buiten de bebouwde kom toestaan' (91/100)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": 1,
+  "kern": "Meer woningen naar mensen met lokale binding, maar niet absoluut",
+  "toelichting": "De partij wil de juridische mogelijkheden gebruiken om woningen vaker aan mensen met een lokale binding te geven, zonder dat die binding een absoluut criterium wordt. Een aandeel van precies de helft noemt ze niet.",
+  "citaat": "We benutten de juridische mogelijkheden om woningen vaker terecht te laten komen bij mensen met een lokale binding, zonder lokale binding tot een absoluut criterium te maken.",
+  "bron": "p. 19",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "s": -1,
+  "kern": "Parkeerbeleid bijstellen, niet geheel afschaffen",
+  "toelichting": "De partij ziet betaald parkeren als noodzakelijk kwaad en wil het beleid heroverwegen en aanpassen, onder meer op dagen en tijden. Volledig gratis parkeren ziet ze niet terugkeren.",
+  "citaat": "Volledig gratis parkeren in onze gemeente zien we niet terugkeren. Wel aanpassing op dagen en tijden.",
+  "bron": "Hilversums Nieuws (29-10-2026): 'Gratis parkeren moet op termijn terugkeren in Hilversum'; Stemgids: uitbreiding 'opnieuw bekijken en zo nodig terugdraaien' (voor); MijnStem: 'Betaald parkeren in het centrum en de wijken' (7/100, terugdringen)",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-bezoek",
+  "s": 1,
+  "kern": "Bezoekerstarieven realistisch en betaalbaar; geen gratis bezoek",
+  "toelichting": "De partij wil bezoekerstarieven realistisch en betaalbaar houden, zodat parkeren voor iedereen betaalbaar blijft. In 2025 stemde ze in de raad tegen een gratis bezoekersregeling.",
+  "citaat": "Bezoekerstarieven en vergunningen moeten realistisch zijn qua budget, zodat parkeren voor iedereen betaalbaar blijft.",
+  "bron": "p. 21; Raad Hilversum, 12-11-2025: A25-108 'Bezoekersregeling betaald parkeren gratis' (Van de Linde tegen)",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-vergunning",
+  "s": -1,
+  "kern": "Eerste vergunning zo goedkoop mogelijk, maar niet gratis",
+  "toelichting": "De partij wil de eerste parkeervergunning per huishouden zo goedkoop mogelijk houden en de onlangs verlaagde tarieven niet verhogen. Een gratis vergunning stelt ze niet voor; volledig gratis parkeren ziet ze niet terugkeren.",
+  "citaat": "De huidige vergunningstarieven zijn recent al fors verlaagd: ons uitgangspunt is dat we die lijn niet doorkruisen met verhogingen. De eerste parkeervergunning per huishouden houden we zo goedkoop mogelijk",
+  "bron": "p. 21; Hilversums Nieuws 29-10-2026: 'Gratis parkeren moet op termijn terugkeren'",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": 0,
+  "kern": "Fietspaden en parkeerplekken zijn allebei nodig; per gebied kijken",
+  "toelichting": "De partij ziet geen keuze tussen fietspaden en parkeerplekken: allebei zijn nodig en per gebied moet worden bekeken wat past. Ze kiest dus niet vooraf voor het fietspad als parkeerplaatsen verdwijnen.",
+  "citaat": "Allebei zijn nodig, en er moet vooral gebiedsgericht gekeken worden naar wat nodig is en wat past.",
+  "bron": "MijnStem: 'Investeren in: fietspaden of parkeerplekken' (53/100)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "verkeer-autoluw",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "s": 2,
+  "kern": "Geen zero-emissiezone in centrum en winkelgebieden",
+  "toelichting": "De partij wil geen zero-emissiezone in het centrum en de winkelgebieden, omdat de noodzaak onvoldoende is onderbouwd en ondernemers er hard door getroffen worden. Ze noemt het een speerpunt.",
+  "citaat": "Voor onze gemeente zien we op basis daarvan onvoldoende grond voor een zero-emissiezone, en daar zijn we helder over: die voeren we niet in.",
+  "bron": "p. 22; Stemgids: 'zero-emissiezone ... niet opgeven' (tegen)",
+  "soort": "programma"
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": 1,
+  "kern": "Geen nieuwe zonnevelden, wel panelen bij dubbel ruimtegebruik",
+  "toelichting": "De partij staat geen nieuwe zonnevelden meer toe, omdat grond dan maar voor één doel gebruikt wordt. Waar ruimte schaars is, kiest ze voor meervoudig ruimtegebruik; zonnepanelen op daken hebben haar voorkeur.",
+  "citaat": "Nieuwe zonnevelden staan we niet meer toe: waar ruimte schaars is, kiezen we voor meervoudig in plaats van enkelvoudig ruimtegebruik.",
+  "bron": "p. 6",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "natuur-afsluiten",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-recreant-betaalt",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-bomen",
+  "s": 2,
+  "kern": "Boom mag wijken als er minstens één voor terugkomt",
+  "toelichting": "De partij houdt vast aan de regel dat voor elke boom die verdwijnt er minimaal één terugkomt, en dat een bijzondere of grote boom door een stevigere nieuwe wordt vervangen. Ze vindt wel dat er genoeg ruimte voor bomen moet blijven.",
+  "citaat": "voor iedere boom die verdwijnt, komt er minimaal één terug, tenzij bomen uitsluitend gekapt worden om omringende bomen meer ruimte te geven om gezond te groeien (dunning).",
+  "bron": "p. 26",
+  "soort": "programma"
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -2,
+  "kern": "Minimaregelingen blijven gelden tot 130% van het sociaal minimum",
+  "toelichting": "De partij houdt de minimaregelingen en de huidige grens van 130% van het sociaal minimum in stand. Ze wil harde grenzen voorkomen waardoor iemand die net te veel verdient alle hulp verliest.",
+  "citaat": "Waar mogelijk voorkomen we harde grenzen waardoor iemand die nét te veel verdient direct alle ondersteuning verliest.",
+  "bron": "MijnStem: 'Armoederegelingen voor inwoners op: bijstandsniveau of 130%' (100/100); p. 31",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "s": 1,
+  "kern": "Alleen ingrijpen bij overlast, niet om de ligging",
+  "toelichting": "De partij wil alleen ingrijpen bij coffeeshops die overlast veroorzaken. Zonder overlast hoeft de gemeente zich er niet mee te bemoeien. Over de afstand tot scholen zegt ze niets.",
+  "citaat": "Gewoon Hilversum kijkt niet naar het aantal, maar of er sprake is van overlast.",
+  "bron": "MijnStem: 'Het aantal coffeeshops verminderen' (50/100)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "s": 1,
+  "kern": "Kleinschalige, structurele opvang; geen noodopvang",
+  "toelichting": "De partij kiest voor kleinschalige, structurele opvang van vluchtelingen met een verblijfsstatus en is tegen noodopvang. Ze noemt een maximum van 100 mensen per locatie en 500 plekken in de hele gemeente.",
+  "citaat": "Gewoon, Hilversum kiest voor kleinschalige, structurele opvang van echte vluchtelingen met een verblijfsstatus",
+  "bron": "p. 32",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": -1,
+  "kern": "Woningen op het Media Park mogen niet ten koste van bedrijvigheid",
+  "toelichting": "De partij vindt woningen op het Media Park prima, maar niet als dat ten koste gaat van de economische functie.",
+  "citaat": "Woningen toevoegen op het Media Park is prima, maar mag niet ten koste gaan van de economische functie.",
+  "bron": "MijnStem: 'Op het Media Park: meer woningen of meer mediabedrijven' (54/100)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "s": -2,
+  "kern": "Winkels mogen zelf bepalen of ze zondag open zijn",
+  "toelichting": "De partij vindt dat winkels op zondag ruimer open mogen en dat ondernemers dat zelf kunnen bepalen.",
+  "citaat": "Ondernemers kunnen heel goed zelf bepalen of ze open willen zijn.",
+  "bron": "Stemgids: 'Winkels moeten op zondag ruimer open mogen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-citymarketing",
+  "s": 1,
+  "kern": "Citymarketing alleen met aantoonbare waarde",
+  "toelichting": "De partij is positief over toerisme, maar wil dat citymarketing aantoonbaar iets oplevert. Ze richt zich liever op bezoekers die bijdragen aan de lokale economie.",
+  "citaat": "Citymarketing is geen doel op zichzelf. We willen duidelijk hebben welke aantoonbare waarde het oplevert.",
+  "bron": "MijnStem: 'Toerisme in de gemeente stimuleren' (66/100); Raad Hilversum, 01-07-2026: A26-89 (Van de Linde tegen korting op citymarketing)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": 1,
+  "kern": "Verduurzamen van monumenten makkelijker maken",
+  "toelichting": "De partij wil het verduurzamen van monumenten makkelijker maken door overbodige bureaucratie te schrappen en ruimte te geven voor praktische oplossingen, zolang de monumentale kwaliteit behouden blijft.",
+  "citaat": "Gewoon, Hilversum wil het verduurzamen van monumenten en karakteristieke panden makkelijker maken.",
+  "bron": "p. 40",
+  "soort": "programma"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": 2,
+  "kern": "Gemeenteloketten en hulp dicht bij inwoners, ook in alle dorpen",
+  "toelichting": "De partij is voor gemeenteloketten in alle dorpen, zodat inwoners eenvoudig terechtkunnen. Of het loket minstens één dag per week open is, zegt ze niet.",
+  "citaat": "We willen ondersteuning dicht bij inwoners organiseren, in onze wijken én dorpskernen.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen' (100/100)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-tekort-lasten",
+  "s": 0,
+  "kern": "Eerst eigen uitgaven bekijken, woonlasten beheersbaar houden",
+  "toelichting": "De partij wil bij een tekort eerst naar de eigen uitgaven en keuzes kijken voordat de belastingen omhooggaan, en de woonlasten beheersbaar houden. Hogere lasten sluit ze daarna niet uit.",
+  "citaat": "Inwoners mogen erop vertrouwen dat de gemeente eerst naar haar eigen uitgaven en keuzes kijkt voordat de belastingen worden verhoogd.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door: bezuinigen of lokale lasten verhogen' (45/100); p. 14",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-toerist-forens-laag",
+  "s": 1,
+  "kern": "Geen nieuwe belastingen zonder duidelijke noodzaak",
+  "toelichting": "De partij voert geen nieuwe belastingen in zonder duidelijke noodzaak. In november 2025 stemde Van de Linde tegen invoering van een forensenbelasting in Hilversum.",
+  "citaat": "We voeren geen nieuwe belastingen in als daar geen duidelijke noodzaak voor bestaat.",
+  "bron": "Raad Hilversum, 12-11-2025: M25-109 'Voer in Hilversum Forensenbelasting in' (Van de Linde tegen); p. 15",
+  "soort": "stemgedrag"
+ }
+]

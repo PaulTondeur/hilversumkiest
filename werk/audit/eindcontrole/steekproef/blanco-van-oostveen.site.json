@@ -1,0 +1,218 @@
+[
+ {
+  "id": "wonen-hoogbouw",
+  "s": -1,
+  "kern": "Liever 3 tot 4 lagen; hoogbouw alleen onder strikte voorwaarden",
+  "toelichting": "De partij wil niet vaker hogere gebouwen: drie tot vier lagen vindt ze het best voor een gezonde leefomgeving. Hoogbouw kan hooguit op plekken die al bebouwd zijn, met veel openbare ruimte en balkons. Uitzonderingen op hoogtegrenzen, zoals 25 meter bij de Meent, wijst ze af.",
+  "citaat": "3 tot 4 hoog is eigenlijk gewenst voor een goede gezonde leefbaarheid.",
+  "bron": "MijnStem: 'Meer hoogbouw toestaan'; Stemgids: 'Bij uitzondering tot 25 meter bouwen' (tegen)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "s": -1,
+  "kern": "Wil wel een starterslening, via een revolverend fonds",
+  "toelichting": "Van Oostveen wil de starterslening juist houden: een lening voor mensen met een laag inkomen van alle leeftijden, via een fonds waarin het geld terugkomt. Over goedkope starterswoningen als alternatief zegt ze niets.",
+  "citaat": "Een starterslening is een mooie stap om een woning te kunnen kopen.",
+  "bron": "Stemgids: 'De gemeente moet starters helpen een huis te kopen met een starterslening' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": 0,
+  "kern": "Wil gescheiden routes voor fiets en auto, geen keuze",
+  "toelichting": "Van Oostveen kiest niet tussen fietspaden en parkeerplaatsen. Ze wil investeren in aparte, veiligere routes voor fietsers, voetgangers en auto's, en stoplichten of borden bij gevaarlijke kruispunten.",
+  "citaat": "Investeren in meer gescheiden vervoerstromen. Dus aparte en veiligere routes voor fietsers, voetgangers en auto's",
+  "bron": "MijnStem: 'Investeren in: fietspaden of parkeerplekken'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "klimaat-kern-locatie",
+  "s": -2,
+  "kern": "Geen kernenergie in Hilversum",
+  "toelichting": "De partij wijst kernenergie in Hilversum af omdat de gevolgen te groot zijn, en wil dus geen plek vrijhouden voor een kerncentrale. Ze noemt water, zon en slimmer verdelen als alternatief.",
+  "citaat": "Geen kernenergie in Hilversum: de gevolgen zijn te groot en niet te overzien.",
+  "bron": "Stemgids: 'Onderzoek kleine kerncentrale' (tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "natuur-snelvaren",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snippergroen",
+  "s": 1,
+  "kern": "Onder voorwaarden: kleine, tijdelijke woonvormen in het groen",
+  "toelichting": "De partij vindt dat groen onder voorwaarden gebruikt mag worden voor kleine, verplaatsbare woonvormen zoals tiny houses en flexwoningen, waarbij het groen overheerst. Grote woonwijken in het groen wil ze niet, en in buurten met weinig groen mag geen openbaar groen verdwijnen.",
+  "citaat": "Eens. Alleen onder bepaalde voorwaarden. Die groene ruimte gebruiken voor kleine woon- en werkinitiatieven die samenleven met de natuur",
+  "bron": "Hilversums Nieuws, 22-10-2026: 'Hilversum moet desnoods groen opofferen om woningnood aan te pakken' (eens, onder voorwaarden); Stemgids: 'Groen behouden in groenarme buurten' (voor)",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "s": -1,
+  "kern": "Buitengebied vooral voor (regeneratieve) landbouw, niet voor natuur",
+  "toelichting": "De partij kiest in het buitengebied voor meer ruimte voor landbouw, in de vorm van regeneratieve landbouw met meerwaarde voor biodiversiteit, voedselbossen en collectieve tuinen.",
+  "citaat": "We moeten veel inzetten op regeneratieve landbouw die een meerwaarde is voor de biodiversiteit.",
+  "bron": "MijnStem: 'In het buitengebied meer ruimte geven aan' (2, landbouw)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -1,
+  "kern": "Tegen een harde grens; maatwerk, ook voor mensen erboven",
+  "toelichting": "Van Oostveen wil armoedehulp niet beperken tot mensen op bijstandsniveau, omdat veel mensen die steun nodig hebben er nu al buiten vallen. Ze kiest liever voor maatwerk per situatie dan voor een vaste inkomensgrens.",
+  "citaat": "Maak armoedebestrijding voor iedereen mogelijk. Bekijk de situatie en pas maatwerk toe. Veel mensen vallen er nu buiten terwijl ze wel ondersteuning nodig hebben.",
+  "bron": "MijnStem: 'Armoederegelingen voor inwoners op: bijstandsniveau of 130% van bijstandsniveau'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": -2,
+  "kern": "Niet bezuinigen op jeugdzorg, wel kijken naar de inzet van middelen",
+  "toelichting": "De partij vindt dat de gemeente niet miljoenen mag bezuinigen op jeugdzorg, maar wil wel bekijken of de ingezette middelen en hulp de juiste zijn.",
+  "citaat": "Je mag niet bezuinigen op jeugdzorg maar je kan wel kijken naar de middelen die worden ingezet of dat de juiste keuze is of dat andere hulp beter is.",
+  "bron": "Stemgids: 'Jeugdzorg ontzien bij bezuinigingen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": -1,
+  "kern": "Camera's niet uitbreiden; hooguit verplaatsen",
+  "toelichting": "De partij vindt het huidige cameratoezicht voldoende en wil niet meer camera's, hooguit minder of verplaatst naar verkeersonveilige plekken. Ze is tegen een overheid die alles controleert.",
+  "citaat": "Volgens mij is er op dit moment al voldoende cameratoezicht.",
+  "bron": "MijnStem: 'Cameratoezicht op straat'; Stemgids: 'Cameratoezicht behouden' (voor)",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "s": 2,
+  "kern": "Statushouders wachten net als ieder ander op een huurwoning",
+  "toelichting": "De partij is tegen voorrang voor statushouders bij sociale huur, gezien het aantal spoedzoekers, urgenten en dak- en thuislozen dat geen woning krijgt.",
+  "citaat": "Gewoon net als ieder ander wachten tot je aan de beurt bent.",
+  "bron": "Stemgids: 'Voorrang statushouders bij sociale huur' (tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": 0,
+  "kern": "Balans per gebied; vooral natuurvriendelijke recreatie",
+  "toelichting": "Van Oostveen wil in het plassengebied een balans tussen recreatie en rust voor plant en dier, en per gebied kijken wat gewenst is. Ze wil vooral natuurvriendelijke recreatie en natuurbeleving stimuleren. Over jachthavens of vakantieparken zegt ze niets.",
+  "citaat": "Een goede balans maken tussen beiden en per gebied kijken wat gewenst is. Stimuleren natuurvriendelijke recreatie en inzetten op natuurbeleving voor meer verbinding en begrip.",
+  "bron": "MijnStem: 'In het plassengebied inzetten op: meer recreatie of meer rust voor plant en dier'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": 1,
+  "kern": "Meer geld voor cultuur, met een eerlijke verdeling",
+  "toelichting": "Van Oostveen wil meer geld voor kunst en cultuur. Ze wil wel eerst een eerlijke verdeling tussen vaste subsidie en geld voor projecten, en steun voor cultuureducatie, -participatie, -innovatie en cultuurbeleving. Een vergelijking met andere steden noemt ze niet.",
+  "citaat": "Allereerst moet er een eerlijke verdeling komen tussen structurele ondersteuning en projectmatige ondersteuning.",
+  "bron": "Stemgids: 'De gemeente moet meer geld uitgeven aan kunst en cultuur' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": 1,
+  "kern": "Wijken en dorpen krijgen eigen zeggenschap en kernbudgetten",
+  "toelichting": "De partij wil dat elke wijk en elk dorp eigen zeggenschap, kernbudgetten en rechten heeft; projecten die verder reiken worden met de adviesraden besproken. Of raden formeel besluiten mogen nemen, zegt ze niet.",
+  "citaat": "hebben ieder ons eigen zeggenschap, kernbudgetten en rechten.",
+  "bron": "Hilversums Nieuws 5-11-2026: 'Meer geld investeren in de dorpen'",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": 2,
+  "kern": "Een of twee dagen per week een loket in elk dorp",
+  "toelichting": "De partij vindt gemeenteloketten in alle dorpen van essentieel belang: een of twee dagen per week open in alle wijken, buurten en dorpen, omdat burgerzaken in Hilversum ver weg ligt en betaald parkeren heeft.",
+  "citaat": "Een of twee dagen gemeente loket openen in alle wijken, buurten en dorpen is van groot belang.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "s": 0,
+  "kern": "Dorpen en stad even belangrijk: niet het een of het ander",
+  "toelichting": "De partij wil niet kiezen tussen dorpen en stad: elk dorp, wijk en buurt is even belangrijk en heeft eigen zeggenschap en budget.",
+  "citaat": "Het is niet of of maar en en.",
+  "bron": "Hilversums Nieuws 5-11-2026: 'Meer geld investeren in de dorpen'",
+  "soort": "hilversumsnieuws"
+ },
+ {
+  "id": "bestuur-gelijke-regels",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "bestuur-leges-dorpsevenementen",
+  "s": 1,
+  "kern": "Geen leges voor kleine evenementen, maar dan overal",
+  "toelichting": "Van Oostveen wil dat kleine evenementen in de dorpen geen leges betalen, maar vindt dat dat dan ook voor Hilversum moet gelden: iedereen gelijk. Blijven er leges, dan wil ze die laten betalen uit de buurtbudgetten waar alle wijken recht op hebben.",
+  "citaat": "Als dat nu niet verplicht is dan zou dit ook voor Hilversumse activiteiten moeten gelden. Immers zijn we allemaal gelijk.",
+  "bron": "Stemgids: 'Kleine evenementen in de dorpen moeten na de fusie geen leges hoeven te betalen' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "s": 0,
+  "kern": "Woonlasten hooguit met inflatie; liefst OZB niet laten stijgen",
+  "toelichting": "De partij wil dat de woonlasten niet harder stijgen dan de inflatie en zou het liefst zien dat de OZB helemaal niet stijgt.",
+  "citaat": "Het liefste zou ik willen voorstellen dat de OZB komende tijd helemaal niet stijgt immers kun je van kale kippen niet plukken.",
+  "bron": "Stemgids: 'Woonlasten beperken tot de inflatie' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "financien-toerist-forens-laag",
+  "s": 1,
+  "kern": "Wil toeristenbelasting zelfs afschaffen",
+  "toelichting": "De partij gaat verder dan laag houden: ze wil de toeristenbelasting afschaffen en toerisme stimuleren.",
+  "citaat": "Afschaffen toeristen belasting.",
+  "bron": "MijnStem: 'Toerisme in de gemeente stimuleren'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "financien-centrum-sober",
+  "s": 1,
+  "kern": "Eenvoudige, goedkopere inrichting met groen en bankjes",
+  "toelichting": "De partij wil projecten soberder en goedkoper aanpakken, zoals de Kerkbrink met groen, bankjes en ruimte voor kleine evenementen, en wil bezuinigen op prestigeprojecten.",
+  "citaat": "Er is al zoveel geld verspild, de Kerkbrink is al tig x over de kop gegaan",
+  "bron": "Stemgids: 'Kerkbrink soberder en goedkoper' (voor)",
+  "soort": "stemgids"
+ }
+]

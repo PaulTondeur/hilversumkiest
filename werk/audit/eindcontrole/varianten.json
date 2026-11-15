@@ -1,0 +1,826 @@
+{
+ "site": {
+  "willekeurTop": {
+   "hart-voor-hilversum": 2.87,
+   "pro": 7.94,
+   "d66": 4.8,
+   "vvd": 6.82,
+   "cda": 5.6,
+   "lokaal-een": 5.52,
+   "sp": 6.44,
+   "christenunie": 5.12,
+   "bvnl": 5.69,
+   "scb": 3.37,
+   "gewoon-hilversum": 3.43,
+   "dorp-voor-dorp": 4.24,
+   "stop-betaald-parkeren-vip": 3.01,
+   "opstand-nu": 4.6,
+   "pvdd": 5.84,
+   "blanco-van-oostveen": 3.04,
+   "lfd": 7,
+   "volt": 3.8,
+   "fvd": 7.72,
+   "bbb": 3.15
+  },
+  "mengTop": {
+   "hart-voor-hilversum": 4.06,
+   "pro": 6.88,
+   "d66": 5.06,
+   "vvd": 6.01,
+   "cda": 5.57,
+   "lokaal-een": 5.33,
+   "sp": 5.36,
+   "christenunie": 4.88,
+   "bvnl": 5.71,
+   "scb": 2.77,
+   "gewoon-hilversum": 5.18,
+   "dorp-voor-dorp": 4.75,
+   "stop-betaald-parkeren-vip": 3.18,
+   "opstand-nu": 4.69,
+   "pvdd": 6.06,
+   "blanco-van-oostveen": 3.11,
+   "lfd": 5.79,
+   "volt": 4.36,
+   "fvd": 6.23,
+   "bbb": 5.02
+  },
+  "herkend": {
+   "hart-voor-hilversum": 72.69,
+   "pro": 99.57,
+   "d66": 89.83,
+   "vvd": 96.7,
+   "cda": 94.47,
+   "lokaal-een": 92.17,
+   "sp": 94.24,
+   "christenunie": 89.49,
+   "bvnl": 94.91,
+   "scb": 54.56,
+   "gewoon-hilversum": 83.64,
+   "dorp-voor-dorp": 82.3,
+   "stop-betaald-parkeren-vip": 59.17,
+   "opstand-nu": 87.42,
+   "pvdd": 95.54,
+   "blanco-van-oostveen": 65.8,
+   "lfd": 95.36,
+   "volt": 80.86,
+   "fvd": 97.67,
+   "bbb": 88.8
+  },
+  "masker": {
+   "hart-voor-hilversum": {
+    "anderVoor": 5.26,
+    "anderNa": 2.17,
+    "eigenVoor": 77.33,
+    "eigenNa": 22.67
+   },
+   "pro": {
+    "anderVoor": 6.81,
+    "anderNa": 4.96,
+    "eigenVoor": 99.33,
+    "eigenNa": 83.67
+   },
+   "d66": {
+    "anderVoor": 5.33,
+    "anderNa": 2.35,
+    "eigenVoor": 93.33,
+    "eigenNa": 48.83
+   },
+   "vvd": {
+    "anderVoor": 6.52,
+    "anderNa": 4.67,
+    "eigenVoor": 94.67,
+    "eigenNa": 80.17
+   },
+   "cda": {
+    "anderVoor": 5.41,
+    "anderNa": 3.61,
+    "eigenVoor": 93.33,
+    "eigenNa": 72.83
+   },
+   "lokaal-een": {
+    "anderVoor": 5.33,
+    "anderNa": 3.41,
+    "eigenVoor": 93.33,
+    "eigenNa": 60
+   },
+   "sp": {
+    "anderVoor": 5.26,
+    "anderNa": 3.76,
+    "eigenVoor": 94,
+    "eigenNa": 71.33
+   },
+   "christenunie": {
+    "anderVoor": 5.85,
+    "anderNa": 3.76,
+    "eigenVoor": 88,
+    "eigenNa": 48
+   },
+   "bvnl": {
+    "anderVoor": 4.52,
+    "anderNa": 2.35,
+    "eigenVoor": 95.33,
+    "eigenNa": 65.67
+   },
+   "scb": {
+    "anderVoor": 2.74,
+    "anderNa": 0.91,
+    "eigenVoor": 55.33,
+    "eigenNa": 14.5
+   },
+   "gewoon-hilversum": {
+    "anderVoor": 4.81,
+    "anderNa": 2.11,
+    "eigenVoor": 90.67,
+    "eigenNa": 48.67
+   },
+   "dorp-voor-dorp": {
+    "anderVoor": 5.19,
+    "anderNa": 2.41,
+    "eigenVoor": 75.33,
+    "eigenNa": 43.33
+   },
+   "stop-betaald-parkeren-vip": {
+    "anderVoor": 2.89,
+    "anderNa": 0.81,
+    "eigenVoor": 50.67,
+    "eigenNa": 11.83
+   },
+   "opstand-nu": {
+    "anderVoor": 4.22,
+    "anderNa": 2.44,
+    "eigenVoor": 90.67,
+    "eigenNa": 50.67
+   },
+   "pvdd": {
+    "anderVoor": 6.67,
+    "anderNa": 4.11,
+    "eigenVoor": 96.67,
+    "eigenNa": 65.67
+   },
+   "blanco-van-oostveen": {
+    "anderVoor": 2.89,
+    "anderNa": 1.07,
+    "eigenVoor": 62.67,
+    "eigenNa": 28.83
+   },
+   "lfd": {
+    "anderVoor": 5.48,
+    "anderNa": 3.46,
+    "eigenVoor": 92,
+    "eigenNa": 68.33
+   },
+   "volt": {
+    "anderVoor": 4.37,
+    "anderNa": 1.93,
+    "eigenVoor": 76.67,
+    "eigenNa": 38.17
+   },
+   "fvd": {
+    "anderVoor": 5.48,
+    "anderNa": 4.11,
+    "eigenVoor": 98.67,
+    "eigenNa": 81.33
+   },
+   "bbb": {
+    "anderVoor": 5.26,
+    "anderNa": 2.44,
+    "eigenVoor": 89.33,
+    "eigenNa": 37
+   }
+  },
+  "samenvatting": {
+   "willekeurMin": 2.87,
+   "willekeurMax": 7.94,
+   "willekeurCorrBekend": 0.86,
+   "mengMin": 2.77,
+   "mengMax": 6.88,
+   "mengCorrBekend": 0.95,
+   "herkendGem": 85.76,
+   "herkendMin": 54.56,
+   "herkendCorrBekend": 0.92,
+   "maskerAnder": "5.01 → 2.84",
+   "maskerEigen": "85.37 → 52.07",
+   "vastSpreiding": "0.12 / 0.11 / 0.19 / 0.11 / 0.1",
+   "deelDunneWinst": 0.3,
+   "deelHoofdpartijWint": 75.65
+  }
+ },
+ "zBekend": {
+  "willekeurTop": {
+   "hart-voor-hilversum": 3.62,
+   "pro": 4.11,
+   "d66": 5,
+   "vvd": 4.52,
+   "cda": 4.2,
+   "lokaal-een": 4.15,
+   "sp": 5.12,
+   "christenunie": 5.23,
+   "bvnl": 4.7,
+   "scb": 6.81,
+   "gewoon-hilversum": 3.07,
+   "dorp-voor-dorp": 6.18,
+   "stop-betaald-parkeren-vip": 6.19,
+   "opstand-nu": 5.43,
+   "pvdd": 4.95,
+   "blanco-van-oostveen": 5.78,
+   "lfd": 5.59,
+   "volt": 5.46,
+   "fvd": 6.28,
+   "bbb": 3.61
+  },
+  "mengTop": {
+   "hart-voor-hilversum": 4.54,
+   "pro": 5.28,
+   "d66": 5.06,
+   "vvd": 5.23,
+   "cda": 4.82,
+   "lokaal-een": 4.76,
+   "sp": 5.08,
+   "christenunie": 4.95,
+   "bvnl": 5.23,
+   "scb": 4.17,
+   "gewoon-hilversum": 4.82,
+   "dorp-voor-dorp": 5.42,
+   "stop-betaald-parkeren-vip": 4.43,
+   "opstand-nu": 4.82,
+   "pvdd": 5.84,
+   "blanco-van-oostveen": 4.19,
+   "lfd": 5.39,
+   "volt": 5.07,
+   "fvd": 5.72,
+   "bbb": 5.18
+  },
+  "herkend": {
+   "hart-voor-hilversum": 80.75,
+   "pro": 96.09,
+   "d66": 93.57,
+   "vvd": 93.81,
+   "cda": 91.39,
+   "lokaal-een": 88.96,
+   "sp": 94.03,
+   "christenunie": 91.72,
+   "bvnl": 93.74,
+   "scb": 77.98,
+   "gewoon-hilversum": 84.76,
+   "dorp-voor-dorp": 92.09,
+   "stop-betaald-parkeren-vip": 79.21,
+   "opstand-nu": 91.28,
+   "pvdd": 96.12,
+   "blanco-van-oostveen": 83.55,
+   "lfd": 95.55,
+   "volt": 91.65,
+   "fvd": 96.3,
+   "bbb": 93.28
+  },
+  "masker": {
+   "hart-voor-hilversum": {
+    "anderVoor": 5.41,
+    "anderNa": 5.87,
+    "eigenVoor": 86,
+    "eigenNa": 83.5
+   },
+   "pro": {
+    "anderVoor": 6,
+    "anderNa": 5.83,
+    "eigenVoor": 98,
+    "eigenNa": 96.17
+   },
+   "d66": {
+    "anderVoor": 5.33,
+    "anderNa": 5.43,
+    "eigenVoor": 95.33,
+    "eigenNa": 93.17
+   },
+   "vvd": {
+    "anderVoor": 5.33,
+    "anderNa": 5.43,
+    "eigenVoor": 94,
+    "eigenNa": 93.5
+   },
+   "cda": {
+    "anderVoor": 4.81,
+    "anderNa": 4.69,
+    "eigenVoor": 91.33,
+    "eigenNa": 89.67
+   },
+   "lokaal-een": {
+    "anderVoor": 4.44,
+    "anderNa": 4.59,
+    "eigenVoor": 91.33,
+    "eigenNa": 90.17
+   },
+   "sp": {
+    "anderVoor": 4.59,
+    "anderNa": 4.78,
+    "eigenVoor": 92.67,
+    "eigenNa": 91.67
+   },
+   "christenunie": {
+    "anderVoor": 6,
+    "anderNa": 5.98,
+    "eigenVoor": 92.67,
+    "eigenNa": 90
+   },
+   "bvnl": {
+    "anderVoor": 3.93,
+    "anderNa": 4.04,
+    "eigenVoor": 94,
+    "eigenNa": 92.33
+   },
+   "scb": {
+    "anderVoor": 3.78,
+    "anderNa": 3.91,
+    "eigenVoor": 80,
+    "eigenNa": 78.33
+   },
+   "gewoon-hilversum": {
+    "anderVoor": 4.37,
+    "anderNa": 4.26,
+    "eigenVoor": 91.33,
+    "eigenNa": 87.83
+   },
+   "dorp-voor-dorp": {
+    "anderVoor": 5.78,
+    "anderNa": 5.52,
+    "eigenVoor": 90,
+    "eigenNa": 85.83
+   },
+   "stop-betaald-parkeren-vip": {
+    "anderVoor": 4.15,
+    "anderNa": 4.09,
+    "eigenVoor": 75.33,
+    "eigenNa": 75.33
+   },
+   "opstand-nu": {
+    "anderVoor": 4.22,
+    "anderNa": 4.13,
+    "eigenVoor": 94.67,
+    "eigenNa": 92.17
+   },
+   "pvdd": {
+    "anderVoor": 6.52,
+    "anderNa": 6.59,
+    "eigenVoor": 95.33,
+    "eigenNa": 95.83
+   },
+   "blanco-van-oostveen": {
+    "anderVoor": 4.07,
+    "anderNa": 4.56,
+    "eigenVoor": 80,
+    "eigenNa": 80
+   },
+   "lfd": {
+    "anderVoor": 4.81,
+    "anderNa": 4.72,
+    "eigenVoor": 94.67,
+    "eigenNa": 91.5
+   },
+   "volt": {
+    "anderVoor": 4.89,
+    "anderNa": 5.02,
+    "eigenVoor": 86,
+    "eigenNa": 87.33
+   },
+   "fvd": {
+    "anderVoor": 4.89,
+    "anderNa": 5.13,
+    "eigenVoor": 96,
+    "eigenNa": 96.67
+   },
+   "bbb": {
+    "anderVoor": 5.48,
+    "anderNa": 5.57,
+    "eigenVoor": 94.67,
+    "eigenNa": 93.33
+   }
+  },
+  "samenvatting": {
+   "willekeurMin": 3.07,
+   "willekeurMax": 6.81,
+   "willekeurCorrBekend": -0.48,
+   "mengMin": 4.17,
+   "mengMax": 5.84,
+   "mengCorrBekend": 0.64,
+   "herkendGem": 90.29,
+   "herkendMin": 77.98,
+   "herkendCorrBekend": 0.76,
+   "maskerAnder": "4.94 → 5.01",
+   "maskerEigen": "90.67 → 89.22",
+   "vastSpreiding": "0.16 / 0.14 / 0.24 / 0.14 / 0.13",
+   "deelDunneWinst": 1.68,
+   "deelHoofdpartijWint": 76.26
+  }
+ },
+ "zKrimp": {
+  "willekeurTop": {
+   "hart-voor-hilversum": 5.95,
+   "pro": 2.83,
+   "d66": 5.15,
+   "vvd": 3.92,
+   "cda": 4.52,
+   "lokaal-een": 8.2,
+   "sp": 4.23,
+   "christenunie": 4.77,
+   "bvnl": 3.26,
+   "scb": 8.63,
+   "gewoon-hilversum": 4.7,
+   "dorp-voor-dorp": 5.04,
+   "stop-betaald-parkeren-vip": 8.93,
+   "opstand-nu": 4.52,
+   "pvdd": 3.68,
+   "blanco-van-oostveen": 6.01,
+   "lfd": 4.75,
+   "volt": 4.82,
+   "fvd": 3.43,
+   "bbb": 2.66
+  },
+  "mengTop": {
+   "hart-voor-hilversum": 4.97,
+   "pro": 5.14,
+   "d66": 5.09,
+   "vvd": 5.21,
+   "cda": 4.88,
+   "lokaal-een": 5.3,
+   "sp": 4.99,
+   "christenunie": 4.93,
+   "bvnl": 4.99,
+   "scb": 4.28,
+   "gewoon-hilversum": 4.96,
+   "dorp-voor-dorp": 5.27,
+   "stop-betaald-parkeren-vip": 4.67,
+   "opstand-nu": 4.81,
+   "pvdd": 5.67,
+   "blanco-van-oostveen": 4.14,
+   "lfd": 5.3,
+   "volt": 5.03,
+   "fvd": 5.43,
+   "bbb": 4.94
+  },
+  "herkend": {
+   "hart-voor-hilversum": 82.91,
+   "pro": 95.65,
+   "d66": 94.61,
+   "vvd": 92.78,
+   "cda": 91.39,
+   "lokaal-een": 92.37,
+   "sp": 93.21,
+   "christenunie": 92.32,
+   "bvnl": 90.41,
+   "scb": 79.17,
+   "gewoon-hilversum": 86.06,
+   "dorp-voor-dorp": 89.08,
+   "stop-betaald-parkeren-vip": 80.34,
+   "opstand-nu": 91.08,
+   "pvdd": 95.16,
+   "blanco-van-oostveen": 81.6,
+   "lfd": 94,
+   "volt": 90.63,
+   "fvd": 93.77,
+   "bbb": 90.22
+  },
+  "masker": {
+   "hart-voor-hilversum": {
+    "anderVoor": 5.93,
+    "anderNa": 6.59,
+    "eigenVoor": 90,
+    "eigenNa": 85.83
+   },
+   "pro": {
+    "anderVoor": 5.7,
+    "anderNa": 5.74,
+    "eigenVoor": 97.33,
+    "eigenNa": 93
+   },
+   "d66": {
+    "anderVoor": 5.26,
+    "anderNa": 5.26,
+    "eigenVoor": 95.33,
+    "eigenNa": 92.5
+   },
+   "vvd": {
+    "anderVoor": 5.41,
+    "anderNa": 5.46,
+    "eigenVoor": 93.33,
+    "eigenNa": 91.5
+   },
+   "cda": {
+    "anderVoor": 4.81,
+    "anderNa": 4.69,
+    "eigenVoor": 90,
+    "eigenNa": 89.5
+   },
+   "lokaal-een": {
+    "anderVoor": 5.04,
+    "anderNa": 5.17,
+    "eigenVoor": 94.67,
+    "eigenNa": 93.83
+   },
+   "sp": {
+    "anderVoor": 4.89,
+    "anderNa": 4.8,
+    "eigenVoor": 92.67,
+    "eigenNa": 90.17
+   },
+   "christenunie": {
+    "anderVoor": 5.7,
+    "anderNa": 5.85,
+    "eigenVoor": 92,
+    "eigenNa": 89
+   },
+   "bvnl": {
+    "anderVoor": 3.78,
+    "anderNa": 3.8,
+    "eigenVoor": 90.67,
+    "eigenNa": 87.5
+   },
+   "scb": {
+    "anderVoor": 3.85,
+    "anderNa": 4.07,
+    "eigenVoor": 82.67,
+    "eigenNa": 78.83
+   },
+   "gewoon-hilversum": {
+    "anderVoor": 4.67,
+    "anderNa": 4.56,
+    "eigenVoor": 89.33,
+    "eigenNa": 87
+   },
+   "dorp-voor-dorp": {
+    "anderVoor": 5.33,
+    "anderNa": 5.41,
+    "eigenVoor": 86.67,
+    "eigenNa": 83.33
+   },
+   "stop-betaald-parkeren-vip": {
+    "anderVoor": 4.22,
+    "anderNa": 4.22,
+    "eigenVoor": 80.67,
+    "eigenNa": 78
+   },
+   "opstand-nu": {
+    "anderVoor": 4.3,
+    "anderNa": 4.19,
+    "eigenVoor": 91.33,
+    "eigenNa": 90.67
+   },
+   "pvdd": {
+    "anderVoor": 6.37,
+    "anderNa": 6.24,
+    "eigenVoor": 94.67,
+    "eigenNa": 93.5
+   },
+   "blanco-van-oostveen": {
+    "anderVoor": 4.3,
+    "anderNa": 4.56,
+    "eigenVoor": 80,
+    "eigenNa": 78.17
+   },
+   "lfd": {
+    "anderVoor": 4.59,
+    "anderNa": 4.61,
+    "eigenVoor": 92.67,
+    "eigenNa": 89
+   },
+   "volt": {
+    "anderVoor": 4.74,
+    "anderNa": 4.83,
+    "eigenVoor": 84.67,
+    "eigenNa": 84.5
+   },
+   "fvd": {
+    "anderVoor": 4.67,
+    "anderNa": 4.89,
+    "eigenVoor": 96,
+    "eigenNa": 93.33
+   },
+   "bbb": {
+    "anderVoor": 5.19,
+    "anderNa": 5.13,
+    "eigenVoor": 90.67,
+    "eigenNa": 90
+   }
+  },
+  "samenvatting": {
+   "willekeurMin": 2.66,
+   "willekeurMax": 8.93,
+   "willekeurCorrBekend": -0.61,
+   "mengMin": 4.14,
+   "mengMax": 5.67,
+   "mengCorrBekend": 0.68,
+   "herkendGem": 89.84,
+   "herkendMin": 79.17,
+   "herkendCorrBekend": 0.85,
+   "maskerAnder": "4.94 → 5",
+   "maskerEigen": "90.27 → 87.96",
+   "vastSpreiding": "0.15 / 0.14 / 0.23 / 0.13 / 0.13",
+   "deelDunneWinst": 1.26,
+   "deelHoofdpartijWint": 75.59
+  }
+ },
+ "afstandBekend": {
+  "willekeurTop": {
+   "hart-voor-hilversum": 6.76,
+   "pro": 1.18,
+   "d66": 4.4,
+   "vvd": 3.8,
+   "cda": 6.61,
+   "lokaal-een": 15.63,
+   "sp": 2.74,
+   "christenunie": 4.41,
+   "bvnl": 1.79,
+   "scb": 14.36,
+   "gewoon-hilversum": 5.81,
+   "dorp-voor-dorp": 1.78,
+   "stop-betaald-parkeren-vip": 12.57,
+   "opstand-nu": 3.72,
+   "pvdd": 1.08,
+   "blanco-van-oostveen": 4.83,
+   "lfd": 3.19,
+   "volt": 3.34,
+   "fvd": 1.27,
+   "bbb": 0.76
+  },
+  "mengTop": {
+   "hart-voor-hilversum": 4.96,
+   "pro": 4.98,
+   "d66": 5.05,
+   "vvd": 5.2,
+   "cda": 5.01,
+   "lokaal-een": 5.26,
+   "sp": 4.92,
+   "christenunie": 4.97,
+   "bvnl": 5.07,
+   "scb": 4.76,
+   "gewoon-hilversum": 5.07,
+   "dorp-voor-dorp": 5.09,
+   "stop-betaald-parkeren-vip": 4.86,
+   "opstand-nu": 4.92,
+   "pvdd": 5.46,
+   "blanco-van-oostveen": 4.27,
+   "lfd": 5.3,
+   "volt": 4.87,
+   "fvd": 5.28,
+   "bbb": 4.74
+  },
+  "herkend": {
+   "hart-voor-hilversum": 86.84,
+   "pro": 95.54,
+   "d66": 95.02,
+   "vvd": 94.02,
+   "cda": 93.65,
+   "lokaal-een": 94.18,
+   "sp": 93.52,
+   "christenunie": 93.84,
+   "bvnl": 93.74,
+   "scb": 85.71,
+   "gewoon-hilversum": 88.85,
+   "dorp-voor-dorp": 89.74,
+   "stop-betaald-parkeren-vip": 85.54,
+   "opstand-nu": 92.8,
+   "pvdd": 93.41,
+   "blanco-van-oostveen": 85.93,
+   "lfd": 94.87,
+   "volt": 90.84,
+   "fvd": 93.39,
+   "bbb": 90.53
+  },
+  "masker": {
+   "hart-voor-hilversum": {
+    "anderVoor": 5.63,
+    "anderNa": 6.39,
+    "eigenVoor": 92.67,
+    "eigenNa": 91.92
+   },
+   "pro": {
+    "anderVoor": 5.56,
+    "anderNa": 5.57,
+    "eigenVoor": 97.33,
+    "eigenNa": 95.5
+   },
+   "d66": {
+    "anderVoor": 5.26,
+    "anderNa": 5.17,
+    "eigenVoor": 94,
+    "eigenNa": 94.33
+   },
+   "vvd": {
+    "anderVoor": 5.19,
+    "anderNa": 5.27,
+    "eigenVoor": 95.33,
+    "eigenNa": 93.08
+   },
+   "cda": {
+    "anderVoor": 4.81,
+    "anderNa": 4.76,
+    "eigenVoor": 93.33,
+    "eigenNa": 92.83
+   },
+   "lokaal-een": {
+    "anderVoor": 5.26,
+    "anderNa": 5.28,
+    "eigenVoor": 95.33,
+    "eigenNa": 95.5
+   },
+   "sp": {
+    "anderVoor": 4.67,
+    "anderNa": 4.83,
+    "eigenVoor": 92.67,
+    "eigenNa": 91.5
+   },
+   "christenunie": {
+    "anderVoor": 5.93,
+    "anderNa": 5.94,
+    "eigenVoor": 92,
+    "eigenNa": 91.42
+   },
+   "bvnl": {
+    "anderVoor": 4,
+    "anderNa": 3.99,
+    "eigenVoor": 92.67,
+    "eigenNa": 92
+   },
+   "scb": {
+    "anderVoor": 4.15,
+    "anderNa": 4.51,
+    "eigenVoor": 86.67,
+    "eigenNa": 85.17
+   },
+   "gewoon-hilversum": {
+    "anderVoor": 4.52,
+    "anderNa": 4.67,
+    "eigenVoor": 92.67,
+    "eigenNa": 90.67
+   },
+   "dorp-voor-dorp": {
+    "anderVoor": 5.07,
+    "anderNa": 5.09,
+    "eigenVoor": 86,
+    "eigenNa": 84
+   },
+   "stop-betaald-parkeren-vip": {
+    "anderVoor": 4.37,
+    "anderNa": 4.56,
+    "eigenVoor": 86,
+    "eigenNa": 86.33
+   },
+   "opstand-nu": {
+    "anderVoor": 4.37,
+    "anderNa": 4.38,
+    "eigenVoor": 94.67,
+    "eigenNa": 93.33
+   },
+   "pvdd": {
+    "anderVoor": 6,
+    "anderNa": 6.08,
+    "eigenVoor": 93.33,
+    "eigenNa": 93
+   },
+   "blanco-van-oostveen": {
+    "anderVoor": 4.44,
+    "anderNa": 4.69,
+    "eigenVoor": 83.33,
+    "eigenNa": 83.17
+   },
+   "lfd": {
+    "anderVoor": 4.59,
+    "anderNa": 4.8,
+    "eigenVoor": 93.33,
+    "eigenNa": 91.83
+   },
+   "volt": {
+    "anderVoor": 4.85,
+    "anderNa": 4.73,
+    "eigenVoor": 84.67,
+    "eigenNa": 85.33
+   },
+   "fvd": {
+    "anderVoor": 4.81,
+    "anderNa": 4.75,
+    "eigenVoor": 94,
+    "eigenNa": 93.75
+   },
+   "bbb": {
+    "anderVoor": 4.81,
+    "anderNa": 5.05,
+    "eigenVoor": 89.33,
+    "eigenNa": 90.5
+   }
+  },
+  "samenvatting": {
+   "willekeurMin": 0.76,
+   "willekeurMax": 15.63,
+   "willekeurCorrBekend": -0.38,
+   "mengMin": 4.27,
+   "mengMax": 5.46,
+   "mengCorrBekend": 0.64,
+   "herkendGem": 91.6,
+   "herkendMin": 85.54,
+   "herkendCorrBekend": 0.89,
+   "maskerAnder": "4.91 → 5.03",
+   "maskerEigen": "91.47 → 90.76",
+   "vastSpreiding": "0.11 / 0.11 / 0.13 / 0.11 / 0.11",
+   "deelDunneWinst": 1.64,
+   "deelHoofdpartijWint": 77.35
+  }
+ }
+}

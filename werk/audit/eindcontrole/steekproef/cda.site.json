@@ -1,0 +1,254 @@
+[
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "s": 2,
+  "kern": "Hoogbouw alleen bij het station en de centrumzones (piramidemodel).",
+  "toelichting": "De partij houdt vast aan het piramidemodel: hoogte rond het spoor en het centrum, aflopend naar de groene randen. Bij het centrum van de Meent was ze neutraal over een uitzondering tot 25 meter.",
+  "citaat": "Echte hoogbouw hoort bij het station en de centrumzones, niet in groene wijken of dorpskernen.",
+  "bron": "p. 17; Stemgids: 'Op enkele plekken, zoals het centrum van de Meent... 25 meter' (neutraal)",
+  "soort": "programma"
+ },
+ {
+  "id": "wonen-kantoren-naar-wonen",
+  "s": 1,
+  "kern": "Kantoren mogen wonen worden; bedrijventerreinen alleen met terughoudendheid.",
+  "toelichting": "De partij wil kantoren niet laten wachten op compensatie elders, omdat er volgens haar voldoende kantoorruimte is. Bij bedrijventerreinen is ze terughoudender en wil ze voldoende betaalbare werkruimte bewaken.",
+  "citaat": "Een recent rapport laat zien dat er voldoende kantoorgelegenheid is in Hilversum; er zijn daarmee meer mogelijkheden om zowel voldoende banen te behouden als woningen te bouwen op interessante locaties.",
+  "bron": "Stemgids: 'Kantoren en bedrijfsruimtes mogen alleen woningen worden als er elders ruimte voor werk bijkomt' (tegen); programma p. 52",
+  "soort": "stemgids"
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-parkeernorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "s": 2,
+  "kern": "Eerste uur parkeren overal gratis.",
+  "toelichting": "De partij wil het eerste uur overal gratis maken, ook in het centrum en de garages Gooische Brink en Gooiland. De kosten (circa 3 miljoen euro) dekt ze met besparingen elders. In de dorpen is parkeren al gratis.",
+  "citaat": "In alle gebieden maken wij het eerste uur parkeren gratis.",
+  "bron": "p. 21 (kosten p. 7); MijnStem: 'Parkeren in het centrum op zondag gratis'",
+  "soort": "programma"
+ },
+ {
+  "id": "verkeer-opbrengst",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-30-dorpswegen",
+  "s": -1,
+  "kern": "Eerst de weg aanpassen, dan pas 30 km/u invoeren.",
+  "toelichting": "De partij vindt dat een 30-zone pas werkt als de weg ook is aangepast. Ze stemde in 2025 tegen een motie voor direct 30 km/u op het Zuidereinde. In de dorpen wil ze wel 30 waar verkeer niet veilig te scheiden is.",
+  "citaat": "Het is belangrijk dat een weg ook aangepast wordt wanneer een 30km zone wordt ingevoerd; die aanpassingen zijn dan noodzakelijk voordat verkeersveiligheidswinst behaald kan worden.",
+  "bron": "Stemgids: 'Op drukke dorpsstraten... meteen 30 kilometer per uur' (neutraal); Raad Wijdemeren, 13-2-2025: motie 30km Zuidereinde (CDA tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "klimaat-alleen-rijk",
+  "s": -1,
+  "kern": "Wil duidelijke klimaatdoelen, maar realistisch.",
+  "toelichting": "De partij wil niet schrappen: ze vindt doelen stellen belangrijk en wil de voortgang meetbaar maken met heldere indicatoren. De doelen moeten wel realistisch zijn; harde tussendoelen wijst ze af.",
+  "citaat": "Doelen stellen is belangrijk tegen klimaatverandering, maar realistische doelen stellen is beter.",
+  "bron": "MijnStem: 'De gemeente eerder dan 2050 klimaatneutraal maken'; programma p. 29",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "klimaat-gas-tijdpad",
+  "s": -1,
+  "kern": "Verduurzamen in eigen tempo van bewoners; geen vaste tussendoelen.",
+  "toelichting": "De partij wil het aardgas wijk voor wijk loslaten, maar in het tempo en naar de keuze van inwoners. Vaste tussendoelen vindt ze te onflexibel; ze stemde in 2026 tegen de routekaart met meetbare tussendoelen.",
+  "citaat": "Het vastleggen van tussentijdse doelen kan ertoe leiden dat er inefficiënte of dure opties gekozen moeten worden om aan de doelen te voldoen.",
+  "bron": "Stemgids: 'plan met duidelijke tussendoelen... van het aardgas af in 2050' (tegen); Raad Hilversum, 4-3-2026: M26-016 (CDA tegen); programma p. 28",
+  "soort": "stemgids"
+ },
+ {
+  "id": "natuur-afsluiten",
+  "s": 1,
+  "kern": "Natuur moet toegankelijk blijven, maar soms hersteltijd.",
+  "toelichting": "De partij wil dat natuur toegankelijk blijft voor recreatie, maar erkent dat natuurgebieden in overleg met het Goois Natuurreservaat soms tijdelijk rust nodig hebben.",
+  "citaat": "De natuur moet toegankelijk blijven voor recreatie, maar in overleg met het GNR heeft de natuur soms hersteltijd nodig in bepaalde gebieden.",
+  "bron": "Stemgids: 'In de natuurgebieden rond de stad moet vrij wandelen en recreëren net zo zwaar wegen als het beschermen van de natuur' (voor)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "natuur-snelvaren",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snippergroen",
+  "s": 0,
+  "kern": "Soms groen opofferen kan, met vervangend groen; liever niet.",
+  "toelichting": "De partij vindt dat openbaar groen soms voor woningbouw kan wijken, mits er vervangend groen komt. Elders zegt ze juist dat groen niet voor de woningnood moet worden opgeofferd, en het programma wil verdichting niet ten koste van het groen. Ze stemde in 2024 tegen het amendement dat groen in versteende wijken beschermt.",
+  "citaat": "Het kan soms nodig zijn om openbaar groen op te offeren om woningbouw mogelijk te maken. Wel streven we dan naar vervangend groen",
+  "bron": "Stemgids: 'In buurten met weinig groen mag er geen openbaar groen meer verdwijnen' (neutraal); Hilversums Nieuws 22-10-2026 (oneens); Raad Hilversum, 15-5-2024: A24-66 (CDA tegen)",
+  "soort": "stemgids"
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-maaien",
+  "s": 1,
+  "kern": "Verzorgd groen in plantsoenen en lanen, natuurlijk beheer in bermen.",
+  "toelichting": "De partij vindt natuurlijk niet hetzelfde als verwaarloosd en maakt per wijk afspraken over het onderhoudsniveau. Verzorgd groen hoort in plantsoenen, lanen en speelplekken; natuurlijk beheer in bermen en natuurranden, met inheemse beplanting.",
+  "citaat": "Natuurlijk is niet hetzelfde als verwaarloosd.",
+  "bron": "p. 26",
+  "soort": "programma"
+ },
+ {
+  "id": "natuur-stikstof-boeren",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": 1,
+  "kern": "Jeugdzorg anders organiseren; stemde tegen schrappen van de besparing.",
+  "toelichting": "De partij wil lichtere, snellere hulp via scholen en wijkteams zodat zware jeugdzorg beschikbaar blijft voor wie het nodig heeft. Ze stemde in 2026 tegen het schrappen van de besparing, maar bezuinigt volgens haar programma niet op de kwaliteit van zorg.",
+  "citaat": "Het is belangrijk dat we de jeugdzorg anders gaan organiseren: meer laagdrempelige en snelle ondersteuning",
+  "bron": "Stemgids: 'De gemeente mag niet miljoenen bezuinigen op de jeugdzorg' (neutraal); Raad Hilversum, 1-7-2026: A26-88 (CDA tegen schrappen besparing)",
+  "soort": "stemgedrag"
+ },
+ {
+  "id": "zorg-aanbieders-een",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 1,
+  "kern": "Flexibel cameratoezicht ook op andere overlastplekken.",
+  "toelichting": "De partij wil cameratoezicht uitbreiden naar plekken waar het iets toevoegt, zoals uitgaansgebieden en het Lindeplein, en het flexibel inzetten.",
+  "citaat": "Het CDA pleit voor flexibel cameratoezicht, maar wel op locaties waar toegevoegde waarde is zoals uitgaansgebieden of het Lindeplein.",
+  "bron": "MijnStem: 'Cameratoezicht op straat: beperken / uitbreiden'",
+  "soort": "mijnstem"
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "s": 1,
+  "kern": "De Hilversumse afspraken uit 2023 blijven leidend",
+  "toelichting": "Het CDA noemt de afspraken die in 2023 met de stad en de raad zijn gemaakt leidend en zegt dat zijn lijn niet verandert: kleinschalige opvang, spreiding en investeren in de wijk. Dat de dorpen er na de fusie ook onder vallen, staat er niet letterlijk.",
+  "citaat": "Naar aanleiding van deze gesprekken en een internetconsultatie zijn er afspraken gemaakt met de stad en met de gemeenteraad en die afspraken zijn leidend voor de gekozen aanpak.",
+  "bron": "p. 8",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": -1,
+  "kern": "Economische functie van het Media Park blijft voorop",
+  "toelichting": "Het CDA wil dat de economische functie van het Media Park voorop blijft staan. Wonen voor studenten, starters en jonge professionals ziet het als aanvulling die de campus levendig maakt, maar niet ten koste van de mediabedrijven.",
+  "citaat": "Voor ons blijft de economische functie vooropstaan. Maar onderwijs, wonen voor studenten, starters en jonge professionals en voorzieningen maken het geheel levendig.",
+  "bron": "MijnStem: 'Op het Media Park: meer woningen / meer mediabedrijven'; programma p. 53",
+  "soort": "programma"
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": 0,
+  "kern": "Perspectief voor plasondernemers, met balans tussen natuur en recreatie.",
+  "toelichting": "De partij geeft watersport, jachthavens, horeca en verblijfsrecreatie perspectief en langjarige duidelijkheid. Natuur, recreatie en leefbaarheid moeten in balans blijven; ze waakt voor massatoerisme.",
+  "citaat": "Natuur, recreatie en leefbaarheid moeten daarbij in balans blijven.",
+  "bron": "p. 53; p. 51; MijnStem: 'In het plassengebied inzetten op: recreatie / rust voor plant en dier'",
+  "soort": "programma"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": -1,
+  "kern": "Bescherming van monumenten niet afzwakken, wel steun voor eigenaren.",
+  "toelichting": "De partij wil de bescherming van monumenten en beschermde gezichten niet afzwakken. Eigenaren steunt ze wel, onder meer via het Gevelherstelfonds en extra aandacht bij verduurzaming.",
+  "citaat": "De bescherming van onze monumenten en beschermde gezichten zwakken wij niet af",
+  "bron": "p. 17",
+  "soort": "programma"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "s": 1,
+  "kern": "Raad beslist; liever geen referendum",
+  "toelichting": "Het CDA is tegen referenda over grote besluiten: in een vertegenwoordigende democratie beslist de gekozen raad, en inwoners moeten vooral tijdig en goed worden betrokken. Als er een referendum is, ligt een raad die het laatste woord houdt in die lijn.",
+  "citaat": "We kennen in ons land een vertegenwoordigende democratie, en middelen om in grote projecten te participeren.",
+  "bron": "Stemgids: 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten van de gemeente' (tegen)",
+  "soort": "afgeleid"
+ },
+ {
+  "id": "financien-tekort-lasten",
+  "s": -1,
+  "kern": "Bij tekort eerst eigen uitgaven bekijken, daarna pas de inwoner.",
+  "toelichting": "De partij wil bij een tekort eerst kritisch naar de eigen uitgaven kijken en de lokale lasten niet harder laten stijgen dan de inflatie. Op de zorg voor kwetsbaren bezuinigt ze niet.",
+  "citaat": "Bij tekorten kijken wij eerst naar onze eigen uitgaven voordat wij een beroep doen op de inwoner",
+  "bron": "p. 6; MijnStem: 'Tekorten op de begroting oplossen door: bezuinigen / lokale lasten verhogen'",
+  "soort": "programma"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": -1,
+  "kern": "Niet bezuinigen op sport en verenigingen; subsidies indexeren",
+  "toelichting": "Het CDA wil de komende jaren niet bezuinigen op sport en verenigingen, indexeert subsidies van organisaties met personeel volgens de cao en houdt bestaande initiatieven in de dorpen overeind. Tegelijk wil het tekorten liever met zuinigheid dan met hogere lasten oplossen; alleen de zorg voor kwetsbaren sluit het daarbij uitdrukkelijk uit.",
+  "citaat": "Het CDA vindt dat de komende jaren niet op sport en verenigingen mag worden bezuinigd.",
+  "bron": "p. 41; p. 32; p. 47; MijnStem: 'Tekorten op de begroting oplossen door'",
+  "soort": "programma"
+ },
+ {
+  "id": "financien-investeringen-spreiden",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-centrum-sober",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ }
+]
