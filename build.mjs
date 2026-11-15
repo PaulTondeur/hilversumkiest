@@ -156,6 +156,8 @@ function biljet({ voet = '' } = {}) {
 
 // De video op de voorpagina: zet het adres van het bestand in data/site.json ("video") zodra hij er is.
 const VIDEO = (bestaat('data/site.json') ? lees('data/site.json').video : '') || '';
+// Een YouTube-adres wordt een omslag met een afspeelknop: YouTube wordt pas geladen als de bezoeker erop tikt.
+const YOUTUBE = (VIDEO.match(/(?:youtu\.be\/|youtube(?:-nocookie)?\.com\/(?:watch\?v=|embed\/|shorts\/))([\w-]{11})/) || [])[1] || '';
 const logos = bestaat('data/logos.json') ? lees('data/logos.json') : {};
 // Het logo van een partij, of haar naam als er geen logo is (de blanco lijst).
 const logoHtml = (p, { versiering = false } = {}) => {
@@ -191,12 +193,18 @@ schrijf('index.html', pagina({
 </dl>
 
 <section class="video" id="waarom">
-  ${VIDEO ? `<video class="video__beeld" controls preload="metadata" src="${e(VIDEO)}"></video>` : `<div class="video__beeld video__beeld--leeg"><span>Hier komt de video</span></div>`}
+  ${YOUTUBE ? `<div class="video__beeld video__speler" id="speler">
+    <button type="button" class="video__start" id="speel" aria-label="Speel de video af. De video komt van YouTube.">
+      <img src="/assets/video-poster.jpg" alt="" width="1280" height="720">
+      <span class="video__knop" aria-hidden="true"></span>
+    </button>
+  </div>` : VIDEO ? `<video class="video__beeld" controls preload="metadata" src="${e(VIDEO)}"></video>` : `<div class="video__beeld video__beeld--leeg"><span>Hier komt de video</span></div>`}
   <div>
     <h2>Waarom dit er is, en hoe je het gebruikt</h2>
     <p>${VIDEO ? 'De maker legt in een paar minuten uit waarom Hilversum kiest er is en hoe je er het meeste uit haalt.' : 'Binnenkort legt de maker hier in een korte video uit waarom Hilversum kiest er is en hoe je er het meeste uit haalt.'}</p>
-    <p><a href="/verantwoording/">Lees intussen hoe dit gemaakt is</a></p>
+    ${YOUTUBE ? `<p class="video__klein">De video staat op YouTube en wordt pas geladen als je op afspelen tikt. <a href="https://youtu.be/${e(YOUTUBE)}">Bekijk hem op YouTube</a></p>` : `<p><a href="/verantwoording/">Lees intussen hoe dit gemaakt is</a></p>`}
   </div>
+  ${YOUTUBE ? `<script>document.getElementById('speel').onclick=function(){var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/${e(YOUTUBE)}?autoplay=1&rel=0';f.title='Video: waarom Hilversum kiest er is, en hoe je het gebruikt';f.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';f.allowFullscreen=true;var s=document.getElementById('speler');s.textContent='';s.appendChild(f);f.focus();if(window.meet)window.meet('Video gestart');};</script>` : ''}
 </section>
 
 <h2>Anders dan je gewend bent</h2>
