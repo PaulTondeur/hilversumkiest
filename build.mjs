@@ -49,6 +49,8 @@ const VINDER = '/stembureauvinder/';
 // Bezoeken tellen met Plausible op een eigen server (data/site.json, "plausible"): zonder cookies. Het script meet
 // niets uit zichzelf; wij sturen het paginabezoek en een paar handelingen, steeds met alleen het pad van de pagina.
 // Wat achter # of ? staat (een gedeelde uitslag, gekozen lijsten) gaat nooit mee, en antwoorden ook niet.
+// Het script stuurt ook de vorige pagina mee (document.referrer); daarom geeft elke pagina die alleen als domein door
+// (meta referrer hieronder), anders ging bij doorklikken een adres als /vergelijk/?a=d66&b=vvd toch mee.
 const PLAUSIBLE = (bestaat('data/site.json') ? lees('data/site.json').plausible : null) || null;
 const meetKop = PLAUSIBLE ? `<script defer data-domain="${e(PLAUSIBLE.domein)}" src="${e(PLAUSIBLE.server)}/js/script.manual.js"></script>
 <script>window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)};(function(){var p=new URLSearchParams(location.search),q=new URLSearchParams();['utm_source','utm_medium','utm_campaign','utm_content','utm_term','ref','source'].forEach(function(k){if(p.has(k))q.set(k,p.get(k))});var s=q.toString(),u=location.origin+location.pathname+(s?'?'+s:'');window.meet=function(naam,props){var o={u:u};if(props)o.props=props;window.plausible(naam,o)};window.meet('pageview');document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a[href]');if(a&&a.host&&a.host!==location.host&&/^https?:$/.test(a.protocol))window.meet('Outbound Link: Click',{url:a.origin+a.pathname})},true)})();</script>` : `<script>window.meet=function(){}</script>`;
@@ -59,6 +61,7 @@ function pagina({ titel, beschrijving, pad, inhoud, scripts = '', kop = '' }) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin">
 <title>${e(titel)}</title>
 <meta name="description" content="${e(beschrijving)}">
 <meta property="og:title" content="${e(titel)}">
