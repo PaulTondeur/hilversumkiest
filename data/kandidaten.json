@@ -377,10 +377,10 @@
    "naam": "Henrieke Abrahamse",
    "woonplaats": "Kortenhoef",
    "geslacht": "v",
-   "foto": null,
+   "foto": "pro/21.jpg",
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/henrieke-abrahamse-117bb485/"
   },
   {
    "nr": 22,
@@ -1453,10 +1453,10 @@
    "naam": "Ymkje Meijer",
    "woonplaats": "Kortenhoef",
    "geslacht": "v",
-   "foto": null,
+   "foto": "cda/20.jpg",
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/ymkje-meijer-3b2196390/"
   },
   {
    "nr": 21,
@@ -2994,7 +2994,7 @@
    "foto": null,
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/wopkepostumabijl/"
   },
   {
    "nr": 9,
