@@ -56,7 +56,8 @@ function toonKaartje(nrs) {
       const a = document.createElement('a');
       a.href = `https://www.openstreetmap.org/?mlat=${li.dataset.lat}&mlon=${li.dataset.lon}#map=18/${li.dataset.lat}/${li.dataset.lon}`;
       a.rel = 'noopener';
-      a.textContent = 'Open in OpenStreetMap';
+      a.target = '_blank';
+      a.innerHTML = 'Open in OpenStreetMap<span class="sr"> (opent in een nieuw venster)</span>';
       deel.append(a);
     }
     kaartje.append(deel);

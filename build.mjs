@@ -33,6 +33,17 @@ function schrijf(rel, html) {
   const p = path.join(DIST, rel);
   fs.mkdirSync(path.dirname(p), { recursive: true });
   if (BASIS !== '/' && rel.endsWith('.html')) html = html.replace(/(href|src)="\/(?!\/)/g, `$1="${BASIS}`);
+  // Links naar andere sites openen in een nieuw venster; de eigen site blijft in hetzelfde venster.
+  // Een schermlezer hoort dat erbij: een onzichtbare toevoeging, of in de aria-label als de link die heeft.
+  if (rel.endsWith('.html')) {
+    html = html.replace(/(<a\b[^>]*\bhref="https?:\/\/[^"]*"[^>]*>)([\s\S]*?)<\/a>/g, (geheel, a, tekst) => {
+      if (/\btarget=/.test(a) || /href="https?:\/\/(www\.)?hilversumkiest\.nl/.test(a)) return geheel;
+      const metRel = /\brel="/.test(a) ? a.replace(/\brel="([^"]*)"/, (m, r) => `rel="${/noopener/.test(r) ? r : `${r} noopener`.trim()}"`) : a.replace(/>$/, ' rel="noopener">');
+      const open = metRel.replace(/>$/, ' target="_blank">');
+      if (/\baria-label="/.test(open)) return `${open.replace(/\baria-label="([^"]*)"/, 'aria-label="$1, opent in een nieuw venster"')}${tekst}</a>`;
+      return `${open}${tekst}<span class="sr"> (opent in een nieuw venster)</span></a>`;
+    });
+  }
   fs.writeFileSync(p, html);
 }
 
