@@ -1,6 +1,8 @@
 # Hilversum kiest
 
-Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum + Wijdemeren). Statische site, geen backend, geen afhankelijkheden behalve Node.
+Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum + Wijdemeren). Statische site zonder backend: bouwen kan met alleen Node. Voor de kaart en de kandidaten zijn er Python-scripts (met `uv`), en three.js staat in de repository zelf.
+
+Live op https://hilversumkiest.nl. Wil je hetzelfde voor een andere verkiezing: de volledige opdracht staat in `data/prompt.md` en op de pagina Zelf maken van de site, en verwijst naar deze repository als voorbeeld.
 
 ## Bouwen en bekijken
 

@@ -517,8 +517,16 @@ ${toets ? toets.html : ''}`,
 }));
 
 // ---------- Zelf maken ----------
-const repoBlok = REPO ? `Er bestaat een uitgewerkt voorbeeld voor Hilversum: ${REPO}
-Lees daar eerst README.md, de opdrachten aan de agents in werk/briefs/, de rekenkern in src/engine.mjs en de eerlijkheidstoets in tools/toets.mjs, en hergebruik wat past. Neem geen stellingen of posities over: die gelden alleen voor die ene verkiezing.
+const repoBlok = REPO ? `Er bestaat een uitgewerkt voorbeeld voor Hilversum, met alle code open: ${REPO}
+Haal die repository eerst op en lees haar, en bouw daarop voort in plaats van opnieuw te beginnen:
+- README.md: hoe alles in elkaar zit en in welke volgorde het gebouwd wordt;
+- werk/briefs/: de letterlijke opdrachten aan de hulpagenten (programma uitlezen, stellingen, de vier rondes, feitencheck, kandidaten en de controle daarop);
+- src/engine.mjs en tools/toets.mjs: de rekenkern en de eerlijkheidstoets;
+- tools/voeg_samen.mjs, tools/maak_kandidaten.py: het samenvoegen van de rondes en de controles op kandidaten;
+- tools/kaart/ en src/assets/js/kaart3d.js: de gegevens en de 3D-kaart van de stembureauvinder;
+- build.mjs en src/: de site zelf, met de bezoektelling;
+- video/: het script en de opbouw van de uitlegvideo.
+Hergebruik de code, de opdrachten en de werkwijze. Neem geen stellingen, posities, kandidaatgegevens of teksten over: die gelden alleen voor die ene verkiezing en moeten voor mijn verkiezing opnieuw uit de bronnen komen.
 
 ` : '';
 const promptTekst = (bestaat('data/prompt.md') ? fs.readFileSync(path.join(ROOT, 'data/prompt.md'), 'utf8') : '').replace('REPO_BLOK\n', repoBlok);
