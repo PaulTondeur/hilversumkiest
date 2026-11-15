@@ -56,7 +56,17 @@ function maakSet() {
   }
 }
 
+// Voor de bezoektelling: alleen aantallen, nooit welke lijsten of welke antwoorden.
+function meld(stap) {
+  const aantal = (x) => (Array.isArray(x) ? x.length : Object.keys(x || {}).length);
+  const props = { lijsten: aantal(staat.lijsten) };
+  if (stap !== 'themas') { props.themas = aantal(staat.themas); props.stellingen = aantal(staat.set); }
+  if (stap === 'uitslag') props.beantwoord = Object.values(staat.antwoorden || {}).filter((v) => v !== null && v !== undefined).length;
+  window.meet?.({ themas: 'Stemwijzer: lijsten gekozen', stellingen: 'Stemwijzer: gestart', uitslag: 'Stemwijzer: uitslag' }[stap] || 'Stemwijzer: terug naar lijsten', props);
+}
+
 function ga(stap) {
+  if (stap !== staat.stap) meld(stap);
   staat.stap = stap;
   bewaar();
   history.replaceState(null, '', stap === 'lijsten' ? location.pathname : '#' + stap);
@@ -166,6 +176,7 @@ function tekenStelling() {
 </article>`;
   // Standpunten van de lijsten bij deze stelling: eerst de eigen keuze, op verzoek alle lijsten.
   const blikKnop = app.querySelector('[data-blik]');
+  blikKnop?.addEventListener('click', () => { if (blikKnop.getAttribute('aria-expanded') !== 'true') window.meet?.('Stemwijzer: wat vinden de lijsten'); });
   const blik = app.querySelector('[data-blik-inhoud]');
   const tekenBlik = (alle) => {
     const lijsten = alle ? data.partijen : gekozenPartijen();
@@ -242,6 +253,7 @@ ${themaIds.map((t) => `<h3 class="themakop">${e(data.themas.find((x) => x.id ===
     return `<li><details><summary><span class="st">${e(st.stelling)}</span><span class="sub">${a === undefined ? 'Overgeslagen' : `Jij: ${ANTWOORD[a].toLowerCase()}`}${staat.zwaar.includes(st.id) ? ' (telt dubbel)' : ''}${a !== undefined ? ` · Dicht bij jou: ${eens.length ? eens.map((p) => e(p.kort)).join(', ') : 'geen van je lijsten'}` : ''}</span></summary><div class="inhoud">${spectrumHtml(st, partijen, a)}${partijen.filter((p) => pos(st, p.slug) !== null).sort((x, y) => pos(st, y.slug) - pos(st, x.slug)).map((p) => standpuntHtml(st, p)).join('')}</div></details></li>`;
   }).join('')}</ul>`).join('')}`;
   app.querySelector('[data-deel]').onclick = async (ev) => {
+    window.meet?.('Stemwijzer: link gekopieerd');
     const url = `${location.origin}${location.pathname}#u=${codeer()}`;
     let veld = app.querySelector('[data-deelveld]');
     if (!veld) {

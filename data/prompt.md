@@ -58,7 +58,7 @@ STAP 5. REKENEN
 - Overeenkomst per stelling: de afstand tussen antwoord en positie. Alleen afstand tellen bevoordeelt lijsten met veel middenposities, want het midden ligt nooit ver weg. Standaardiseer de afstand daarom per positie, zodat een willekeurige invuller bij elke positie gemiddeld 0 scoort met dezelfde spreiding. Controleer met de toets dat een willekeurige invuller bij elke lijst ongeveer even vaak uitkomt.
 - Geen standpunt bekend telt neutraal (0). Toon in de uitslag op hoeveel stellingen een standpunt bekend is.
 - Stellingen kiezen: per thema de stellingen met de grootste spreiding tussen de gekozen lijsten, met een korting op herhaling van hetzelfde onderwerp.
-- Alles in de browser berekenen. Geen antwoorden versturen of opslaan op een server, geen cookies, geen trackers.
+- Alles in de browser berekenen. Geen antwoorden versturen of opslaan op een server, geen cookies. Wil ik weten hoe de site gebruikt wordt, tel dan alleen anoniem en zonder cookies (bijvoorbeeld Plausible op een eigen server): paginabezoek, herkomst en een paar handelingen, nooit de antwoorden of de gekozen lijsten, en zeg dat op de site.
 
 STAP 6. EERLIJKHEID TOETSEN, IN MEERDERE RONDES
 

@@ -39,6 +39,7 @@ function teken() {
 }
 
 function kies(nieuw) {
+  if (nieuw.length >= 2 && nieuw.join() !== keuze.join()) window.meet?.('Vergelijking', { lijsten: nieuw.length });
   keuze = nieuw;
   const p = new URLSearchParams();
   keuze.forEach((s, i) => p.set('abcd'[i], s));

@@ -1,4 +1,8 @@
 {
  "repo": "",
- "video": ""
+ "video": "",
+ "plausible": {
+  "server": "https://pa.paultondeur.com",
+  "domein": "hilversumkiest.nl"
+ }
 }

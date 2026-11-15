@@ -46,6 +46,13 @@ const NAV = [
 ];
 const VINDER = '/stembureauvinder/';
 
+// Bezoeken tellen met Plausible op een eigen server (data/site.json, "plausible"): zonder cookies. Het script meet
+// niets uit zichzelf; wij sturen het paginabezoek en een paar handelingen, steeds met alleen het pad van de pagina.
+// Wat achter # of ? staat (een gedeelde uitslag, gekozen lijsten) gaat nooit mee, en antwoorden ook niet.
+const PLAUSIBLE = (bestaat('data/site.json') ? lees('data/site.json').plausible : null) || null;
+const meetKop = PLAUSIBLE ? `<script defer data-domain="${e(PLAUSIBLE.domein)}" src="${e(PLAUSIBLE.server)}/js/script.manual.js"></script>
+<script>window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)};(function(){var p=new URLSearchParams(location.search),q=new URLSearchParams();['utm_source','utm_medium','utm_campaign','utm_content','utm_term','ref','source'].forEach(function(k){if(p.has(k))q.set(k,p.get(k))});var s=q.toString(),u=location.origin+location.pathname+(s?'?'+s:'');window.meet=function(naam,props){var o={u:u};if(props)o.props=props;window.plausible(naam,o)};window.meet('pageview');document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a[href]');if(a&&a.host&&a.host!==location.host&&/^https?:$/.test(a.protocol))window.meet('Outbound Link: Click',{url:a.origin+a.pathname})},true)})();</script>` : `<script>window.meet=function(){}</script>`;
+
 function pagina({ titel, beschrijving, pad, inhoud, scripts = '', kop = '' }) {
   return `<!doctype html>
 <html lang="nl">
@@ -61,6 +68,7 @@ function pagina({ titel, beschrijving, pad, inhoud, scripts = '', kop = '' }) {
 <link rel="preload" href="/assets/fonts/jost.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/site.css">
 ${kop}
+${meetKop}
 </head>
 <body>
 <a class="sr" href="#inhoud">Naar de inhoud</a>
@@ -83,7 +91,7 @@ ${inhoud}
       <ul class="voet__feiten">
         <li><b>Onafhankelijk.</b> Een eigen initiatief, niet verbonden aan een partij of aan de gemeente.</li>
         <li><b>Uit de programma's.</b> De standpunten komen uit de verkiezingsprogramma's en uit wat lijsten zelf elders antwoordden. De lijsten hebben ze niet gecontroleerd.</li>
-        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser.</li>
+        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser. Bezoeken tellen we anoniem.</li>
       </ul>
       <p class="voet__links"><a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>Hoe dit gemaakt is</a><a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>Zelf zoiets maken</a>${REPO ? `<a href="${e(REPO)}" rel="noopener">Broncode</a>` : ''}</p>
     </div>
@@ -526,7 +534,7 @@ ${REPO ? `<p>Alles wat hiervoor gemaakt is, staat openbaar op GitHub: de code va
 <li>Zet op de site hoe het gemaakt is en wat het niet kan. <a href="/verantwoording/">Zo hebben wij dat gedaan</a>.</li>
 </ul>
 </div>`,
-  scripts: `<script>document.getElementById('kopieer').onclick=async(ev)=>{const t=document.getElementById('prompt').textContent;try{await navigator.clipboard.writeText(t);ev.target.textContent='Gekopieerd';}catch{const r=document.createRange();r.selectNodeContents(document.getElementById('prompt'));const s=getSelection();s.removeAllRanges();s.addRange(r);ev.target.textContent='Geselecteerd: kopieer met Ctrl+C';}};</script>`,
+  scripts: `<script>document.getElementById('kopieer').onclick=async(ev)=>{const t=document.getElementById('prompt').textContent;try{await navigator.clipboard.writeText(t);ev.target.textContent='Gekopieerd';window.meet('Opdracht gekopieerd');}catch{const r=document.createRange();r.selectNodeContents(document.getElementById('prompt'));const s=getSelection();s.removeAllRanges();s.addRange(r);ev.target.textContent='Geselecteerd: kopieer met Ctrl+C';}};</script>`,
 }));
 
 // ---------- Data voor de browser ----------
@@ -550,5 +558,5 @@ if (BASIS !== '/') {
 }
 schrijf('.nojekyll', '');
 if (process.env.DOMEIN) schrijf('CNAME', process.env.DOMEIN + '\n');
-schrijf('404.html', pagina({ titel: 'Pagina niet gevonden – Hilversum kiest', beschrijving: 'Deze pagina bestaat niet.', pad: '/404', inhoud: '<h1>Deze pagina bestaat niet</h1><p>Misschien is het adres verkeerd overgenomen. <a href="/">Ga naar de voorpagina</a> of <a href="/stemwijzer/">start de stemwijzer</a>.</p>' }));
+schrijf('404.html', pagina({ titel: 'Pagina niet gevonden – Hilversum kiest', beschrijving: 'Deze pagina bestaat niet.', pad: '/404', scripts: `<script>window.meet('404',{pad:location.pathname})</script>`, inhoud: '<h1>Deze pagina bestaat niet</h1><p>Misschien is het adres verkeerd overgenomen. <a href="/">Ga naar de voorpagina</a> of <a href="/stemwijzer/">start de stemwijzer</a>.</p>' }));
 console.log(`Gebouwd: ${partijen.length} lijsten, ${stellingen.length} stellingen, ${bureaus.length} stembureaus -> dist/`);

@@ -88,5 +88,5 @@ De gedownloade programma's en volledige teksten (`bronnen/*/origineel/`, `progra
 - De posities zijn niet door de lijsten bevestigd. Lees een steekproef na, vooral bij de lijsten die je zelf overweegt.
 - Er staat geen naam of contactadres op de site. Beslis of je dat wilt, en waar lijsten correcties kunnen melden.
 - De partijkleuren zijn benaderingen, geen officiële huisstijlkleuren.
-- De site laadt niets van buiten: ook de kaart van de stembureaus staat op de site zelf. De knop "waar ben ik" vraagt de browser om je plek en stuurt die nergens heen.
+- De kaart van de stembureaus staat op de site zelf. De knop "waar ben ik" vraagt de browser om je plek en stuurt die nergens heen.
 - Stembureaus zijn via hun adres aan een gebouw gekoppeld. Bij vier adressen die de BAG niet kent (Pinetum Blijdenstein, Campus Zonnestraal, de stationshal en zwembad De Lieberg) is het dichtstbijzijnde gebouw bij het eerder gevonden punt genomen. Loop die vier na op de kaart.

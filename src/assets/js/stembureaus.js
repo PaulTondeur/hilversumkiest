@@ -34,6 +34,7 @@ function toonKaartje(nrs) {
   for (const li of items) li.classList.toggle('gekozen', !!nrs && nrs.includes(+li.dataset.nr));
   kaartje.hidden = !nrs;
   if (!nrs) return;
+  window.meet?.('Stembureau bekeken', { stembureau: items.find((x) => +x.dataset.nr === nrs[0])?.querySelector('b').textContent || '' });
   kaartje.replaceChildren();
   for (const nr of nrs) {
     const li = items.find((x) => +x.dataset.nr === nr);
@@ -74,6 +75,7 @@ try {
     knop.addEventListener('click', () => {
       const plat = knop.dataset.weergave === 'plat';
       kaart.weergave(plat);
+      window.meet?.('Kaart: weergave', { weergave: plat ? 'plat' : '3D' });
       vak.classList.toggle('kaartvak--plat', plat);
       for (const k of wissel) k.setAttribute('aria-pressed', String(k === knop));
     });
@@ -81,6 +83,7 @@ try {
   for (const knop of vak.querySelectorAll('[data-kaart]')) {
     knop.addEventListener('click', () => {
       if (knop.dataset.kaart !== 'hier') return kaart.acties[knop.dataset.kaart]();
+      window.meet?.('Kaart: waar ben ik');
       if (!navigator.geolocation) return meld('Deze browser kan je plek niet bepalen.');
       navigator.geolocation.getCurrentPosition(
         (p) => { if (!kaart.hier(...naarRd(p.coords.latitude, p.coords.longitude))) meld('Je bent nu buiten de gemeente.'); },
