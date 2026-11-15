@@ -48,7 +48,8 @@ const VINDER = '/stembureauvinder/';
 
 // Bezoeken tellen met Plausible op een eigen server (data/site.json, "plausible"): zonder cookies. Het script meet
 // niets uit zichzelf; wij sturen het paginabezoek en een paar handelingen, steeds met alleen het pad van de pagina.
-// Wat achter # of ? staat (een gedeelde uitslag, gekozen lijsten) gaat nooit mee, en antwoorden ook niet.
+// Wat achter # of ? staat (een gedeelde uitslag, gekozen lijsten) gaat nooit mee, en antwoorden ook niet. Bij een uitslag
+// sturen we wel welke drie lijsten bovenaan staan (stemwijzer.js, meld), zodat te zien is waar mensen uitkomen.
 // Het script stuurt ook de vorige pagina mee (document.referrer); daarom geeft elke pagina die alleen als domein door
 // (meta referrer hieronder), anders ging bij doorklikken een adres als /vergelijk/?a=d66&b=vvd toch mee.
 const PLAUSIBLE = (bestaat('data/site.json') ? lees('data/site.json').plausible : null) || null;
@@ -94,7 +95,7 @@ ${inhoud}
       <ul class="voet__feiten">
         <li><b>Onafhankelijk.</b> Een eigen initiatief, niet verbonden aan een partij of aan de gemeente.</li>
         <li><b>Uit de programma's.</b> De standpunten komen uit de verkiezingsprogramma's en uit wat lijsten zelf elders antwoordden. De lijsten hebben ze niet gecontroleerd.</li>
-        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser. Bezoeken tellen we anoniem.</li>
+        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser. We tellen anoniem hoeveel mensen langskomen en welke lijsten bovenaan hun uitslag staan, nooit wat je antwoordt.</li>
       </ul>
       <p class="voet__links"><a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>Hoe dit gemaakt is</a><a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>Zelf zoiets maken</a>${REPO ? `<a href="${e(REPO)}" rel="noopener">Broncode</a>` : ''}</p>
     </div>

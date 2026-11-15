@@ -56,12 +56,19 @@ function maakSet() {
   }
 }
 
-// Voor de bezoektelling: alleen aantallen, nooit welke lijsten of welke antwoorden.
+// Voor de bezoektelling: aantallen, en bij de uitslag welke drie lijsten bovenaan staan. Nooit de antwoorden zelf.
 function meld(stap) {
   const aantal = (x) => (Array.isArray(x) ? x.length : Object.keys(x || {}).length);
   const props = { lijsten: aantal(staat.lijsten) };
   if (stap !== 'themas') { props.themas = aantal(staat.themas); props.stellingen = aantal(staat.set); }
-  if (stap === 'uitslag') props.beantwoord = Object.values(staat.antwoorden || {}).filter((v) => v !== null && v !== undefined).length;
+  if (stap === 'uitslag') {
+    props.beantwoord = Object.values(staat.antwoorden || {}).filter((v) => v !== null && v !== undefined).length;
+    if (props.beantwoord) {
+      const pm = P();
+      bereken(setStellingen(), staat.lijsten, staat.antwoorden, staat.zwaar).filter((u) => u.score !== null).slice(0, 3)
+        .forEach((u, i) => { props[['nummer1', 'nummer2', 'nummer3'][i]] = pm[u.slug].kort; });
+    }
+  }
   window.meet?.({ themas: 'Stemwijzer: lijsten gekozen', stellingen: 'Stemwijzer: gestart', uitslag: 'Stemwijzer: uitslag' }[stap] || 'Stemwijzer: terug naar lijsten', props);
 }
 
