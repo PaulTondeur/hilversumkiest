@@ -70,11 +70,10 @@ main { padding: 2.5rem 0 5rem; }
 .voet__maker { margin-top: 1.25rem; font: 500 1.0625rem/1.5 var(--kop); color: #fff; }
 .voet__maker .klein { font: 400 0.875rem/1.5 var(--tekst); color: #aab4c2; }
 .voet h3 { font: 600 1.05rem/1.2 var(--kop); color: #fff; margin: 0.45rem 0 0.8rem; }
-.voet__feiten { list-style: none; padding: 0; margin: 0 0 1.2rem; display: grid; gap: 0.6rem; font-size: 0.9375rem; max-width: 44ch; }
-.voet__feiten li { margin: 0; }
-.voet__feiten b { color: #fff; font-weight: 600; }
-.voet__links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font: 500 1rem/1.3 var(--kop); }
-.voet__links a[aria-current="page"] { color: var(--baksteen); }
+.voet__code { font: 600 0.9rem/1 ui-monospace, "SFMono-Regular", Menlo, monospace; color: var(--baksteen); margin-right: 0.55rem; }
+.voet__raster > div:last-child p { font-size: 0.9375rem; color: #d5dbe4; max-width: 46ch; }
+.voet a[aria-current="page"] { color: var(--baksteen); }
+.voet .voet__klein { font-size: 0.875rem; color: #aab4c2; border-top: 1px solid #2b3a50; padding-top: 0.8rem; margin-top: 1.1rem; }
 @media (max-width: 46rem) { .voet__raster { grid-template-columns: 1fr; } }
 
 /* Het stemvakje: wit rondje, rood kleuren */

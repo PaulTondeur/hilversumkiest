@@ -91,13 +91,10 @@ ${inhoud}
       <p class="voet__maker"><a href="https://www.linkedin.com/in/paultondeur/" rel="noopener">Paul Tondeur</a>, inwoner van Hilversum<br><span class="klein">Ook van Paul: <a href="https://www.paultondeur.com/" rel="noopener">paultondeur.com</a> en <a href="https://wbso.ai/" rel="noopener">WBSO.ai</a></span></p>
     </div>
     <div>
-      <h3>Over deze site</h3>
-      <ul class="voet__feiten">
-        <li><b>Onafhankelijk.</b> Een eigen initiatief, niet verbonden aan een partij of aan de gemeente.</li>
-        <li><b>Uit de programma's.</b> De standpunten komen uit de verkiezingsprogramma's en uit wat partijen zelf elders antwoordden. De partijen hebben ze niet gecontroleerd.</li>
-        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser. We tellen anoniem hoeveel mensen langskomen en welke partijen bovenaan hun uitslag staan, nooit wat je antwoordt.</li>
-      </ul>
-      <p class="voet__links"><a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>Hoe dit gemaakt is</a><a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>Zelf zoiets maken</a>${REPO ? `<a href="${e(REPO)}" rel="noopener">Broncode</a>` : ''}</p>
+      <h3><span class="voet__code" aria-hidden="true">&lt;/&gt;</span>Open tot en met de code</h3>
+      <p>Hilversum kiest hoort bij geen partij en niet bij de gemeente. De standpunten komen uit de verkiezingsprogramma's en uit wat partijen zelf elders antwoordden; de partijen hebben ze niet nagekeken. Juist daarom ligt alles open: <a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>lees hoe het gemaakt is</a>${REPO ? `, of <a href="${e(REPO)}" rel="noopener">kijk mee in de code op GitHub</a>. Zie je iets wat niet klopt? <a href="${e(REPO)}/issues" rel="noopener">Meld het daar</a>, dan kijk ik ernaar` : ''}.</p>
+      <p>Zin om er zelf een te maken voor jouw gemeente? <a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>De hele opdracht staat voor je klaar</a>.</p>
+      <p class="voet__klein">Geen cookies. Wat je antwoordt blijft in je eigen browser; ik tel alleen anoniem hoeveel mensen langskomen en welke partijen bovenaan hun uitslag staan.</p>
     </div>
   </div>
 </div></footer>
