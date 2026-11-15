@@ -50,7 +50,7 @@ Alleen blokken die in beeld zijn worden opgehaald; wat lang uit beeld is, wordt 
 
 Gebouwen: 3D BAG, TU Delft en 3DGI, CC BY 4.0. Ondergrond: © OpenStreetMap-bijdragers, ODbL. Grenzen en adressen: PDOK (Kadaster), CC0 en CC BY 4.0.
 
-De kaart heeft schaduwen (een dieptebeeld vanuit de zon), ramen en dakkleuren in de tekenwijze van de gebouwen, bomen (het bos gevuld op een rooster, plus de losse bomen uit OpenStreetMap) en wat beweegt: treinen over het spoor, zeilboten op de plassen, herten op de hei en eenden in de vijvers. Die modellen zijn opgebouwd uit gekleurde dozen in `kaart3d.js`; er zijn geen 3D-modellen van anderen gebruikt.
+De kaart heeft schaduwen (een dieptebeeld vanuit de zon), ramen en dakkleuren in de tekenwijze van de gebouwen, bomen (het bos gevuld op een rooster, plus de losse bomen uit OpenStreetMap) en wat beweegt: treinen over het spoor, zeilboten op de plassen, herten op de hei en eenden in de vijvers. De trein, de zeilboot, het hert en de eend zijn vrije 3D-modellen (Quaternius, CC0; de eend van Poly by Google, CC BY 3.0); herkomst en licenties staan in `bronnen/_kaart/modellen/LICENTIES.md`. `uv run tools/kaart/modellen.py` zet ze om naar `src/assets/kaart/modellen.bin.gz`; de trein krijgt daarbij de kleuren van een NS-intercity en een NS-sprinter.
 
 ## Kandidaten en logo's
 

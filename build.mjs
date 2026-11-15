@@ -76,19 +76,18 @@ ${inhoud}
     <div>
       <h2>Kies op inhoud. En ga stemmen.</h2>
       <p>Ik heb dit gemaakt omdat ik geloof dat een gemeente beter wordt als veel mensen meedoen en weten waar ze voor kiezen. Met goede informatie kan iedereen zelf een keuze maken: op inhoud, en op de mensen die het gaan doen. Kijk rond, vergelijk, en kom op woensdag 18 november naar de stembus.</p>
-      <p class="voet__maker">Gemaakt door <a href="https://www.linkedin.com/in/paultondeur/" rel="noopener">Paul Tondeur</a>, inwoner van Hilversum.<br><span class="klein">Ook van Paul: <a href="https://www.paultondeur.com/" rel="noopener">paultondeur.com</a> en <a href="https://wbso.ai/" rel="noopener">WBSO.ai</a>.</span></p>
+      <p class="voet__maker"><a href="https://www.linkedin.com/in/paultondeur/" rel="noopener">Paul Tondeur</a>, inwoner van Hilversum<br><span class="klein">Ook van Paul: <a href="https://www.paultondeur.com/" rel="noopener">paultondeur.com</a> en <a href="https://wbso.ai/" rel="noopener">WBSO.ai</a></span></p>
     </div>
-    <nav aria-label="Over deze site">
+    <div>
       <h3>Over deze site</h3>
-      <ul>
-        <li><a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>Verantwoording: hoe dit gemaakt is</a></li>
-        <li><a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>Zelf maken: de opdracht om het na te bouwen</a></li>
-        ${REPO ? `<li><a href="${e(REPO)}" rel="noopener">De broncode op GitHub</a></li>` : ''}
-        <li><a href="/stemmen/">Alles over stemmen op 18 november</a></li>
+      <ul class="voet__feiten">
+        <li><b>Onafhankelijk.</b> Een eigen initiatief, niet verbonden aan een partij of aan de gemeente.</li>
+        <li><b>Uit de programma's.</b> De standpunten komen uit de verkiezingsprogramma's en uit wat lijsten zelf elders antwoordden. De lijsten hebben ze niet gecontroleerd.</li>
+        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser.</li>
       </ul>
-    </nav>
+      <p class="voet__links"><a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>Hoe dit gemaakt is</a><a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>Zelf zoiets maken</a>${REPO ? `<a href="${e(REPO)}" rel="noopener">Broncode</a>` : ''}</p>
+    </div>
   </div>
-  <p class="voet__klein">Hilversum kiest is een onafhankelijk initiatief voor de gemeenteraadsverkiezing van woensdag 18 november 2026, niet verbonden aan een partij of aan de gemeente. De standpunten zijn afgeleid uit de verkiezingsprogramma's en uit wat lijsten zelf elders hebben geantwoord; ze zijn niet door de lijsten gecontroleerd. Deze site plaatst geen cookies en stuurt je antwoorden nergens heen: alles wordt in je eigen browser berekend.</p>
 </div></footer>
 ${scripts}
 </body>
@@ -194,7 +193,7 @@ schrijf('stemwijzer/index.html', pagina({
 const kandidaten = bestaat('data/kandidaten.json') ? lees('data/kandidaten.json') : {};
 function kandidaatHtml(k) {
   const links = [k.linkedin ? `<a href="${e(k.linkedin)}" rel="noopener">LinkedIn</a>` : '', k.bron ? `<a href="${e(k.bron)}" rel="noopener">bron</a>` : ''].filter(Boolean).join('');
-  return `<li class="kandidaat" id="kandidaat-${k.nr}"><span class="portret">${k.foto ? `<img src="/assets/kandidaten/${e(k.foto)}" alt="" width="132" height="132" loading="lazy">` : ''}</span><div><b><span class="knr">${k.nr}</span> ${e(k.naam)}</b><span class="grijs">${e(k.woonplaats)}</span>${k.bio ? `<p>${e(k.bio)}</p>` : ''}${links ? `<span class="klinks">${links}</span>` : ''}</div></li>`;
+  return `<li class="kandidaat" id="kandidaat-${k.nr}"><span class="portret${k.foto ? '' : ` portret--${k.geslacht || 'x'}`}">${k.foto ? `<img src="/assets/kandidaten/${e(k.foto)}" alt="" width="132" height="132" loading="lazy">` : ''}</span><div><b><span class="knr">${k.nr}</span> ${e(k.naam)}</b><span class="grijs">${e(k.woonplaats)}</span>${k.bio ? `<p>${e(k.bio)}</p>` : ''}${links ? `<span class="klinks">${links}</span>` : ''}</div></li>`;
 }
 function kandidatenHtml(p) {
   const rij = kandidaten[p.slug] || [];
@@ -269,10 +268,10 @@ schrijf('lijsten/index.html', pagina({
 ${partijen.map((p) => {
     const rij = kandidaten[p.slug] || [];
     return `<li><a class="lijstkaart__kop" href="/lijsten/${p.slug}/">${logoHtml(p)}<span class="lijstkaart__naam"><span class="grijs">Lijst ${p.nr}</span><b>${e(p.naam)}</b><span class="grijs">Lijsttrekker ${e(p.lijsttrekker)}</span></span></a>
-  <div class="gezichten" aria-label="Kandidaten van ${e(p.kort)}">${rij.map((k) => `<a href="/lijsten/${p.slug}/#kandidaat-${k.nr}" title="${k.nr}. ${e(k.naam)}" aria-label="${k.nr}. ${e(k.naam)}"${k.foto ? '' : ' class="leeg"'}>${k.foto ? `<img src="/assets/kandidaten/${e(k.foto.replace('.jpg', '-k.jpg'))}" alt="" width="40" height="40" loading="lazy">` : ''}</a>`).join('')}</div></li>`;
+  <div class="gezichten" aria-label="Kandidaten van ${e(p.kort)}">${rij.map((k) => `<a href="/lijsten/${p.slug}/#kandidaat-${k.nr}" title="${k.nr}. ${e(k.naam)}" aria-label="${k.nr}. ${e(k.naam)}"${k.foto ? '' : ` class="leeg portret--${k.geslacht || 'x'}"`}>${k.foto ? `<img src="/assets/kandidaten/${e(k.foto.replace('.jpg', '-k.jpg'))}" alt="" width="40" height="40" loading="lazy">` : ''}</a>`).join('')}</div></li>`;
   }).join('\n')}
 </ul>
-<p class="klein">Elk rondje is een kandidaat, in de volgorde van het stembiljet; een leeg rondje betekent dat er geen foto is gevonden die zeker bij die persoon hoort. Tik op een rondje voor de kandidaat.</p>
+<p class="klein">Elk rondje is een kandidaat, in de volgorde van het stembiljet; een getekend figuurtje betekent dat er geen foto is gevonden die zeker bij die persoon hoort. Tik op een rondje voor de kandidaat.</p>
 <p><a class="knop knop--licht" href="/vergelijk/">Vergelijk lijsten met elkaar</a></p>`,
 }));
 
@@ -452,7 +451,7 @@ schrijf('stembureauvinder/index.html', pagina({
   <p class="kaartmelding" id="kaartmelding" role="status" hidden></p>
   <p class="kaartlaadt" hidden>Kaart laden</p>
 </div>
-<p class="klein">Gebouwen: <a href="https://3dbag.nl" rel="noopener">3D BAG</a> (TU Delft en 3DGI, CC BY 4.0). Ondergrond: © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a>-bijdragers. De kaart staat op deze site zelf: er wordt niets bij anderen opgehaald.</p>
+<p class="klein">Gebouwen: <a href="https://3dbag.nl" rel="noopener">3D BAG</a> (TU Delft en 3DGI, CC BY 4.0). Ondergrond: © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a>-bijdragers. Trein, zeilboot en hert: <a href="https://quaternius.com" rel="noopener">Quaternius</a> (CC0); eend: Poly by Google (CC BY 3.0). De kaart staat op deze site zelf: er wordt niets bij anderen opgehaald.</p>
 <div class="zoek">
   <input type="search" id="zoek" placeholder="Zoek op naam, straat of plaats" aria-label="Zoek een stembureau">
   <select id="plaats" aria-label="Plaats"><option value="">Alle plaatsen</option>${plaatsen.map((p) => `<option>${e(p)}</option>`).join('')}</select>

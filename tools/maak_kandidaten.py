@@ -95,7 +95,7 @@ def main():
             sleutel = (slug, k["nr"])
             a, b = ronde["A"].get(sleutel, {}), ronde["B"].get(sleutel, {})
             red = redactie.get(f"{slug}/{k['nr']}", {})
-            item = {"nr": k["nr"], "naam": k["naam"], "woonplaats": k["woonplaats"], "foto": None, "bio": None, "bron": None, "linkedin": None}
+            item = {"nr": k["nr"], "naam": k["naam"], "woonplaats": k["woonplaats"], "geslacht": k.get("geslacht") if k.get("geslacht") in ("m", "v") else "x", "foto": None, "bio": None, "bron": None, "linkedin": None}
 
             if b.get("bio") and b.get("bio_oordeel") in ("akkoord", "aangepast", "nieuw"):
                 item["bio"] = " ".join(b["bio"].split())
