@@ -3,7 +3,6 @@ Bouw voor mij een onafhankelijke stemwijzer met een complete informatiesite voor
   Verkiezing: [bijvoorbeeld: gemeenteraadsverkiezing in GEMEENTE op DATUM]
   Website-adres (als ik dat al heb): [domein]
   Maker, voor de voettekst: [naam, en eventueel links naar LinkedIn of een eigen site]
-  Bezoeken tellen (mag leeg): [adres van een eigen Plausible-server]
 
 REPO_BLOK
 Werk zelfstandig en kom pas terug als er een werkende, eerlijke stemwijzer staat. Geef onderweg kort aan waar je bent. Leg alle tussenresultaten vast in bestanden, zodat het werk controleerbaar en herhaalbaar is: de bronnen, de opdrachten die je aan hulpagenten gaf, de uitkomst van elke ronde en de scripts die alles samenvoegen.
@@ -124,10 +123,9 @@ Een kaart van de hele gemeente die op de site zelf staat, zonder kaartdienst van
 - Laat iets leven: treinen die over doorgaande routes rijden en op de stations stoppen (zoek in het net van sporen de kortste weg van rand tot rand, want sporen zijn bij elke wissel geknipt), zeilboten op het water, een paar dieren. Gebruik vrije 3D-modellen (CC0 of met naamsvermelding) en noem de makers. Uitgezoomd zijn ze veel groter dan echt en rijden ze sneller, ingezoomd komen ze bijna op ware grootte; treinen houden afstand van elkaar en er is altijd een trein in beeld als er spoor in beeld is.
 - Bediening: slepen, zoomen, een kwartslag draaien, terug naar de hele gemeente, "waar ben ik". Een tik op een stembureau toont naam, adres en openingstijd; onder de kaart een doorzoekbare lijst die de kaart meestuurt.
 
-STAP 10. ONLINE ZETTEN EN METEN
+STAP 10. ONLINE ZETTEN
 
 - Zet de code in een openbare repository en publiceer de site als statische pagina's (bijvoorbeeld GitHub Pages met een workflow die bij elke push bouwt). Koppel het domein: de DNS-records bij de registrar naar de host, het domein instellen bij de host, en https afdwingen zodra het certificaat er is. Een nieuw domein kan er een paar uur over doen.
-- Wil ik weten hoe de site gebruikt wordt: tel anoniem en zonder cookies met Plausible op mijn eigen server. Stuur zelf het paginabezoek en een paar handelingen (stemwijzer gestart en afgerond, vergelijking, stembureau bekeken, klik naar buiten), steeds met alleen het pad van de pagina: wat achter # of ? staat gaat nooit mee, en de antwoorden ook niet. Leg op de verantwoordingspagina precies uit wat er geteld wordt. Wil ik meer tellen dan dit (bijvoorbeeld welke partijen bovenaan een uitslag staan), vraag het me dan eerst en zet het erbij.
 
 STAP 11. UITLEGVIDEO (ALS IK EROM VRAAG)
 

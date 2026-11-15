@@ -524,7 +524,7 @@ Haal die repository eerst op en lees haar, en bouw daarop voort in plaats van op
 - src/engine.mjs en tools/toets.mjs: de rekenkern en de eerlijkheidstoets;
 - tools/voeg_samen.mjs, tools/maak_kandidaten.py: het samenvoegen van de rondes en de controles op kandidaten;
 - tools/kaart/ en src/assets/js/kaart3d.js: de gegevens en de 3D-kaart van de stembureauvinder;
-- build.mjs en src/: de site zelf, met de bezoektelling;
+- build.mjs en src/: de site zelf;
 - video/: het script en de opbouw van de uitlegvideo.
 Hergebruik de code, de opdrachten en de werkwijze. Neem geen stellingen, posities, kandidaatgegevens of teksten over: die gelden alleen voor die ene verkiezing en moeten voor mijn verkiezing opnieuw uit de bronnen komen.
 
