@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "economie-mediapark-woningen",
+    "onderwerp": "Media Park",
+    "kop": "Woningen op Media Park",
+    "stelling": "Op het Media Park komen flink meer woningen, ook als er daardoor minder ruimte overblijft voor mediabedrijven.",
+    "uitleg": "Het Media Park in Hilversum is het grootste mediacluster van Nederland; de mediasector is goed voor ruim een vijfde van de Hilversumse economie. Er wordt gewerkt aan een 'Media Campus' en de vraag is hoeveel van de vrije ruimte en lege gebouwen naar woningen gaat. Eens betekent: woningbouw krijgt daar een groot deel van de ruimte; oneens: mediabedrijven gaan voor en woningen zijn hooguit een aanvulling.",
+    "voor": "Er is een groot woningtekort en het Media Park is een goed bereikbare plek naast het station waar snel woningen kunnen komen.",
+    "tegen": "Het Media Park is de economische motor van de stad en woningen kunnen ook elders; wonen naast studio's beperkt bedrijven.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "media behouden; woningen bij blijvende leegstand",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "woningbouw versnellen naast meer mediabedrijven; campus",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "beide: motor voor media én extra woningen",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "kiest voor media; hooguit enkele woningen",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "economie voorop, maar ook wonen voor studenten en starters",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "doorontwikkeling media, plus studentenhuisvesting",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "betaalbare woningen en jongerencampus, ook op Heksenweitje",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "ruimte voor media; woningen alleen als ze campus versterken",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "economische motor; woningen op andere plekken",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "mediaclustering daar versterken",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "woningen prima, mits economische functie blijft",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "geen uitbreiding media, wel woningen",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "ruimte en leegstand volop ombouwen tot woningen",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "wonen alleen voor specifieke groepen, werk voorop",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "mix met starterswoningen; Heksenweitje groen houden",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "goede plek voor woningen voor studenten en jongeren",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "kiest niet; eigenaren en ondernemers bepalen",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "start-ups én woningen voor studenten en starters",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "geen woonwijk; vrije kavels naar mediabedrijven",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "mediabedrijven; woningen daar niet haalbaar",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "PRO, Dorp voor Dorp en Stop Betaald Parkeren-VIP staan tegenover VVD, BVNL en BBB; de stelling scheidt de lokale partijen (SBP-VIP en Dorp voor Dorp tegenover Opstand.nu) en links (Opstand.nu tegenover PRO en SP) en de middenpartijen ChristenUnie en CDA/D66.",
+    "twijfel": "Posities komen uit de MijnStem-schuifbalk (0 = meer woningen, 100 = meer media), omgezet: <=20 +2, 21-40 +1, 41-59 0, 60-79 -1, >=80 -2. CDA (39) en Hart voor Hilversum (47) schrijven in hun programma dat de economische functie voorop staat, maar scoren op de balk midden of iets richting woningen."
+  },
+  {
+    "id": "economie-citymarketing",
+    "onderwerp": "citymarketing",
+    "kop": "Geld voor citymarketing",
+    "stelling": "De gemeente blijft geld uitgeven aan citymarketing om bezoekers naar Hilversum en de plassen te trekken.",
+    "uitleg": "Hilversum betaalt mee aan Hilversum Marketing, dat de stad promoot als 'Mediastad'; regionaal is er Visit Gooi & Vecht. Na de fusie kan die promotie ook de dorpen en de Loosdrechtse Plassen gaan omvatten. Oneens betekent: minder of geen gemeentegeld voor promotie, en het geld anders besteden.",
+    "voor": "Promotie trekt bezoekers die geld uitgeven bij winkels, horeca en recreatiebedrijven, ook in de dorpen.",
+    "tegen": "Bezoekers komen toch wel; het geld kan beter naar buurten, voorzieningen of natuurbeheer.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "toerisme stimuleren dat ondernemers en horeca versterkt",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "toeristische highlights blijven promoten met regio",
+        "basis": "programma p.33"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "toerisme stimuleren; groot mediaevenement halen",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "citymarketing behouden en verbreden naar dorpen en plassen",
+        "basis": "programma p.15"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "besparen op City Marketing; wel plassen in marketing",
+        "basis": "programma p.7"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "stoppen met City Marketing; gebiedsregisseur ervoor in de plaats",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "minder of geen geld voor reclame voor bezoekers",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "toerisme stimuleren levert bestedingen op",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "alleen als het aantoonbare waarde oplevert",
+        "basis": "programma p.39"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "extra stimuleren van toerisme niet nodig",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "toerisme stimuleren is geen gemeentetaak",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "faciliteren, niet subsidiëren",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 0,
+        "kern": "regiomarketing beoordelen op effect",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "voor stimuleren toerisme, bezoekers versterken economie",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "VVD, PRO, D66 en BBB staan tegenover Lokaal Eén, SP, CDA en PvdD; de stelling scheidt CDA van VVD en D66 in het midden, BBB van LFD rechts, PRO van SP links en Hart voor Hilversum van Lokaal Eén.",
+    "twijfel": "Voor HvH, D66, BVNL en BBB is de positie afgeleid uit hun MijnStem-antwoord op 'toerisme stimuleren', niet uit een uitspraak over citymarketing zelf; ChristenUnie, SCB, Volt en Opstand.nu zijn onbekend."
+  },
+  {
+    "id": "economie-stadsfonds-afschaffen",
+    "onderwerp": "Stadsfonds",
+    "kop": "Stadsfonds afschaffen",
+    "stelling": "De verplichte ondernemersbijdrage aan het Stadsfonds wordt afgeschaft.",
+    "uitleg": "Sinds 2015 betalen eigenaren en gebruikers van bedrijfspanden in Hilversum een opslag op de OZB (nu 10,25 procent) voor het Stadsfonds, ongeveer 1,5 miljoen euro per jaar. Ondernemers besteden dat geld zelf aan onder meer evenementen, 'schoon, heel en veilig' en Hilversum Marketing. Na de fusie moet worden besloten of het fonds ook voor de dorpen gaat gelden.",
+    "voor": "Het is een verplichte extra belasting voor alle ondernemers, ook voor wie er weinig aan heeft.",
+    "tegen": "Het fonds laat ondernemers zelf samen investeren in hun winkelgebied; zonder fonds verdwijnen veel activiteiten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 0,
+        "kern": "alle ondernemerssteun in kaart brengen en evalueren",
+        "basis": "programma p.35"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "Stadsfonds is stevig fundament; strikt en eerlijk beheren",
+        "basis": "programma p.16"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "fonds respecteren, wel openheid; uitbreiding geen automatisme",
+        "basis": "programma p.52"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "verplichte fonds herijken; alternatief met de betalers",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "fonds houden, geld naar gebieden buiten het centrum",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "vervangen door Buurtfondsen per buurt of dorp",
+        "basis": "programma p.22"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "ondernemersfonds van 1,5 miljoen afschaffen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "alleen als meerderheid ondernemers instemt en zeggenschap krijgt",
+        "basis": "programma p.19"
+      }
+    },
+    "spreiding": "FVD en Lokaal Eén staan tegenover VVD, CDA, SP en Dorp voor Dorp; de stelling scheidt FVD van VVD en BBB aan de rechterkant en Lokaal Eén van Dorp voor Dorp onder de lokale partijen.",
+    "twijfel": "Weinig lijsten noemen het fonds; 12 lijsten onbekend. Lokaal Eén wil 'herijken' met een alternatieve regeling, wat geen volledige afschaffing hoeft te zijn."
+  },
+  {
+    "id": "economie-bedrijventerrein-werk-voor-wonen",
+    "onderwerp": "bedrijventerreinen",
+    "kop": "Werk voor wonen",
+    "stelling": "Op bedrijventerreinen gaat ruimte voor bedrijven voor, ook als er woningen zouden kunnen komen.",
+    "uitleg": "Door het woningtekort wordt gekeken of bedrijventerreinen en kantoren woonwijk kunnen worden. Dat levert woningen op, maar bedrijven en banen moeten dan ergens anders heen. In juni 2026 verwierp de Hilversumse raad een voorstel om omzetting van werklocaties naar wonen alleen 'nee, tenzij' toe te staan.",
+    "voor": "Bedrijventerreinen zijn schaars; zonder werkruimte verdwijnen banen en wordt de gemeente een slaapstad.",
+    "tegen": "Het woningtekort is zo groot dat elke geschikte plek moet kunnen meetellen, per locatie bekeken.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "maatwerk; stemde voor 'nee, tenzij' bij omzetting",
+        "basis": "stemgedrag"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "tegen verplichte compensatie van werkruimte",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "woningen welkom zolang bedrijfsruimte niet afneemt",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "bedrijventerreinen beschermen tegen woningdruk",
+        "basis": "programma p.14"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "terughoudend met omzetten van bedrijventerreinen",
+        "basis": "programma p.52"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "geen terugdringen van industrieterreinen; per locatie",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "per geval bekijken; niet altijd werkruimte terug",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "transformatie bevorderen, geen extra regels",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "leegstaand snel naar woningen; geen starre compensatie",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "per locatie beoordelen, geen algemene plicht",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "beschermen waar waardevol, maar niet automatisch",
+        "basis": "programma p.37"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "woningnood niet koppelen aan bedrijfsruimte",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "verdwenen bedrijfsruimte vooraf compenseren",
+        "basis": "programma p.23"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "voor compensatie; stemde voor 'nee, tenzij'",
+        "basis": "stemgedrag"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "terreinen zonder toekomst ombouwen tot wonen en groen",
+        "basis": "programma p.33"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "bedrijfsbestemmingen behouden, geen slaapstad",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "ombouw tot woningen vrijlaten, geen compensatie",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "per bedrijf bekijken of het op terrein hoort",
+        "basis": "programma p.39"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "geen banen opofferen voor wonen",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "behoud van bedrijfsruimte cruciaal",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Een bijna gelijke tweedeling: VVD, CDA, D66, Lokaal Eén, FVD en BBB tegenover PRO, SP, ChristenUnie, BVNL, LFD en Volt; de stelling scheidt binnen rechts (FVD/BBB tegenover BVNL/LFD), binnen het midden (CDA/D66 tegenover ChristenUnie/Volt) en lokaal (Lokaal Eén/SBP-VIP/Opstand.nu tegenover Dorp voor Dorp).",
+    "twijfel": "Veel posities komen uit de Stemgids-stelling over compensatie van kantoren en bedrijfsruimte, die breder is dan alleen bedrijventerreinen; CDA en VVD stemden in juni 2026 tegen het 'nee, tenzij'-amendement, ondanks hun programma."
+  },
+  {
+    "id": "economie-rading-ter-sype",
+    "onderwerp": "bedrijventerreinen",
+    "kop": "De Rading naar Ter Sype",
+    "stelling": "De bedrijven van De Rading verhuizen op termijn naar Ter Sype, zodat er op De Rading woningen kunnen komen.",
+    "uitleg": "De Rading is een bedrijventerrein bij Nieuw-Loosdrecht, op de grens met Hilversum. Ter Sype is een open gebied bij Loosdrecht waar al jaren een woningbouwplan (ongeveer 500 woningen) voor ligt. Eens betekent: Ter Sype wordt vooral bedrijventerrein en De Rading wordt woongebied.",
+    "voor": "Bedrijven krijgen een betere, ruimere plek en op De Rading ontstaat ruimte voor woningen dicht bij voorzieningen.",
+    "tegen": "Het woonplan voor Ter Sype loopt al lang en verhuizen van bedrijven kost tijd, geld en onzekerheid voor ondernemers.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": -1,
+        "kern": "Ter Sype als woningbouwproject juist versnellen",
+        "basis": "programma p.11"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "onderzoek verhuizing De Rading naar Ter Sype; Rading wonen",
+        "basis": "programma p.16"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "Rading houdt volwaardige plek als werklocatie",
+        "basis": "programma p.52"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "relocatie of menging per locatie bekijken",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "transformatie niet dogmatisch, wel met alternatief",
+        "basis": "programma p.38"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "grote bedrijven naar randen, alleen vrijwillig",
+        "basis": "programma p.24"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": -1,
+        "kern": "woonplan Ter Sype van 500 woningen laten doorgaan",
+        "basis": "programma p.7"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "verplaatsing steunen als bedrijven willen; Ter Sype ook wonen",
+        "basis": "programma p.19"
+      }
+    },
+    "spreiding": "VVD en SBP-VIP staan tegenover CDA, D66 en Volt; de stelling scheidt VVD van CDA en D66 in het midden-rechts en speelt in Loosdrecht.",
+    "twijfel": "Slechts 8 lijsten hebben een (deels afgeleide) positie. Of De Rading formeel in Loosdrecht of Hilversum ligt en hoe ver het plan Ter Sype is, moet de eindredactie checken. BBB noemt Ter Sype als voorbeeld van passende woningbouw én steunt vrijwillige verplaatsing van bedrijven."
+  },
+  {
+    "id": "economie-bruisend-hart-uitstel",
+    "onderwerp": "centrum Hilversum",
+    "kop": "Bruisend Hart uitstellen",
+    "stelling": "De bouw van Bruisend Hart op het Oosterspoorplein wordt uitgesteld tot de gemeente het financieel weer aankan.",
+    "uitleg": "Bruisend Hart is het plan voor de oostkant van station Hilversum (Oosterspoorplein) met woningen, winkels en een nieuw plein; de raad stelde het stedenbouwkundig plan in mei 2024 vast. Het is een grote investering in een tijd waarin de gemeente moet bezuinigen. Uitstel spaart nu geld, maar vertraagt woningen en kan later extra kosten geven.",
+    "voor": "De gemeente kan deze grote investering nu niet betalen zonder te bezuinigen op basisvoorzieningen.",
+    "tegen": "Stoppen of uitstellen kost ook geld en vertraagt broodnodige woningen en de opknapbeurt van het stationsgebied.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "voor het plan, maar temporisering mogelijk nodig",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "voor het plan zoals vastgesteld",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "tempo maken, maar sommige projecten mogelijk later",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "Bruisend Hart uitstellen omdat het nu onbetaalbaar is",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": -2,
+        "kern": "stoppen kost veel en vergroot woningnood",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "democratisch besluit niet terugdraaien; meer groen",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "voor doorgaan",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "kan doorgaan, kosten scherp bewaken",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -2,
+        "kern": "steunt uitvoering van vastgesteld plan",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "neutraal, geen toelichting",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "stoppen niet realistisch; verstandig vervolg",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "eerst kritisch naar kosten en alternatieven",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "bijstellen als kosten te hoog blijken",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "tegen dit plan; terug naar eerdere visie",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "steunt het plan, niet tegen elke prijs",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "voor doorgaan",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "kritisch heroverwegen op betaalbaarheid",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "VVD, BBB, SBP-VIP en Hart voor Hilversum staan tegenover CDA, PRO, SCB en een brede middengroep; de stelling scheidt VVD van CDA en D66, BBB en VVD van BVNL en SCB aan de rechterkant, en Hart voor Hilversum van Lokaal Eén en Dorp voor Dorp.",
+    "twijfel": "SP, FVD en Opstand.nu zijn tegen het huidige plan, maar om andere redenen (meer sociale huur, meer woningen, onbekend) en niet om uitstel; daarom null. Blanco wil vooral een ander plan, niet per se uitstel."
+  },
+  {
+    "id": "economie-centrum-compacter",
+    "onderwerp": "centrum en leegstand",
+    "kop": "Kleiner winkelhart",
+    "stelling": "Het winkelgebied in het centrum van Hilversum wordt kleiner; lege winkels aan de randen worden woningen.",
+    "uitleg": "In het centrum van Hilversum staan winkels leeg, vooral in de aanloopstraten rond het kernwinkelgebied zoals de Havenstraat, Emmastraat en Langestraat. Een kleiner winkelgebied concentreert bezoekers en maakt woningen mogelijk in de randen. De andere keuze is de aanloopstraten juist versterken, bijvoorbeeld met gevelsubsidie.",
+    "voor": "Een compact winkelhart blijft levendig en lege winkelpanden worden nuttige woningen.",
+    "tegen": "De aanloopstraten met hun speciaalzaken maken het centrum juist bijzonder en verdienen steun in plaats van opgeven.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "voorkeur voor compacte winkelgebieden",
+        "basis": "programma p.35"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "winkelfuncties beschermen tegen omzetting naar wonen",
+        "basis": "programma p.16"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "per winkelgebied kiezen: versterken, concentreren of transformeren",
+        "basis": "programma p.51"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "aanloopstraten Havenstraat en Emmastraat koesteren",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "gevelsubsidie voor alle winkelstraten voortzetten",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "compacte winkelgebieden; lege winkels naar woningen",
+        "basis": "programma p.31"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "compacter kernwinkelgebied met functiemix",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "mix van functies, niet ombouwen zonder visie",
+        "basis": "programma p.38"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "centrum juist vergroten en verlevendigen",
+        "basis": "programma p.2"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 2,
+        "kern": "winkels concentreren, achterblijvende panden naar wonen",
+        "basis": "programma p.37"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Volt, BVNL, ChristenUnie en PRO staan tegenover Opstand.nu, Lokaal Eén, SP, Gewoon Hilversum en VVD; de stelling scheidt PRO van SP en Opstand.nu links, BVNL van VVD rechts en ChristenUnie/Volt van CDA in het midden.",
+    "twijfel": "VVD's bescherming van winkelfuncties gaat in het programma vooral over wijk- en dorpscentra (Gijsbrecht, Meenthof), niet over het centrum; daarom maar -1."
+  },
+  {
+    "id": "economie-sturen-winkelaanbod",
+    "onderwerp": "centrum en leegstand",
+    "kop": "Sturen op winkelaanbod",
+    "stelling": "De gemeente bepaalt mee welk soort winkels en horeca in het centrum komt, bijvoorbeeld door nieuwe fastfoodzaken te weren.",
+    "uitleg": "In het centrum van Hilversum zijn de laatste jaren veel fastfoodzaken bijgekomen. Een gemeente kan via het omgevingsplan tot op zekere hoogte sturen op het soort bedrijf in een pand ('branchering'). Eens betekent: de gemeente stuurt actief op een gevarieerd aanbod; oneens: ondernemers en eigenaren bepalen zelf.",
+    "voor": "Zonder sturing verdringen ketens en fastfood de speciaalzaken en wordt het centrum eenzijdig.",
+    "tegen": "De gemeente moet ondernemerschap niet vanuit het gemeentehuis ontwerpen; klanten bepalen wat er overleeft.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "branchering: gevarieerder, gezonder aanbod, minder fastfood",
+        "basis": "programma p.14"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "centrum met visie op mix van functies",
+        "basis": "programma p.38"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "nieuwe fastfoodketens weren",
+        "basis": "programma p.63"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "gemeente ontwerpt ondernemerschap niet vanuit gemeentehuis",
+        "basis": "programma p.7"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "initiatief ondernemers zonder voorschriften van bovenaf",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "PRO, PvdD en Gewoon Hilversum staan tegenover LFD en FVD; de stelling scheidt Gewoon Hilversum van de andere lokale partijen die het vrijlaten.",
+    "twijfel": "Slechts 5 posities; de positie van Gewoon Hilversum is afgeleid uit zijn pleidooi voor een centrum met visie op de mix van functies. De eindredactie kan deze stelling laten vallen als er te weinig posities zijn."
+  },
+  {
+    "id": "economie-horeca-spreiden",
+    "onderwerp": "horeca",
+    "kop": "Horeca ook buiten centrum",
+    "stelling": "Nieuwe cafés en restaurants krijgen ook ruimte buiten het uitgaansgebied in het centrum, bijvoorbeeld in Hilversum-Oost en de dorpskernen.",
+    "uitleg": "Hilversum houdt horeca nu vooral bij elkaar in het centrum, rond de Groest (het 'horeca-concentratiebeleid'). Dat houdt overlast op één plek, maar betekent dat er in wijken als Hilversum-Oost weinig cafés en restaurants zijn. In de dorpen is horeca belangrijk voor de levendigheid van de kern.",
+    "voor": "Horeca dichtbij maakt wijken en dorpskernen levendiger en is een ontmoetingsplek voor buurtbewoners.",
+    "tegen": "Horeca in woonwijken geeft geluidsoverlast en trekt bezoekers weg uit het centrum.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "meer ruimte voor horeca in Hilversum-Oost",
+        "basis": "programma p.12"
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "meer ruimte voor terrassen bij wijkwinkelcentra",
+        "basis": "programma p.15"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "geen winkelgebieden die zonder visie horecagebied worden",
+        "basis": "programma p.38"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "ruimte voor terrassen in winkelgebieden en dorpscentra",
+        "basis": "programma p.23"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "breken met het horeca-concentratiebeleid",
+        "basis": "programma p.4"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "bij horecavergunning rekening houden met omwonenden",
+        "basis": "programma p.35"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "horeca maakt dorpskernen levendig",
+        "basis": "programma p.18"
+      }
+    },
+    "spreiding": "Opstand.nu, Hart voor Hilversum en VVD staan tegenover Gewoon Hilversum en PvdD; de stelling scheidt de lokale partijen Hart voor Hilversum en Opstand.nu van Gewoon Hilversum.",
+    "twijfel": "De tegenposities zijn afgeleid (GH over winkelgebieden die horecagebied worden, PvdD over geluid bij vergunningen); 13 lijsten onbekend."
+  },
+  {
+    "id": "economie-leges-dorpsevenementen",
+    "onderwerp": "evenementen",
+    "kop": "Gratis vergunning dorpsfeest",
+    "stelling": "Kleine evenementen zonder winstdoel, zoals dorpsfeesten en buurtfeesten, betalen na de fusie geen leges voor hun vergunning.",
+    "uitleg": "In Wijdemeren betalen kleine dorpsevenementen nu geen leges (kosten voor een vergunning); in Hilversum wel. Na de fusie moeten de regels gelijk worden. In november 2025 stemde de Wijdemeerse raad over moties om de vrijstelling te behouden; de vraag is of die voor de hele nieuwe gemeente gaat gelden.",
+    "voor": "Vrijwilligers die een dorpsfeest of sloepentocht organiseren, moeten niet afgeschrikt worden door kosten.",
+    "tegen": "Een vergunning kost de gemeente werk; ook kleine evenementen kunnen een redelijke bijdrage betalen, en een vrijstelling moet uit andere belastingen komen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "kleine niet-commerciële dorpsevenementen vrij van leges",
+        "basis": "programma p.12"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "eenvoudige en betaalbare procedures; stemde tegen vrijstelling",
+        "basis": "stemgedrag"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "stemde voor behoud legesvrije dorpsevenementen",
+        "basis": "stemgedrag"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "stemde voor legesvrije dorpsevenementen",
+        "basis": "stemgedrag"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "diende motie in: dorpsevenementen legesvrij houden",
+        "basis": "stemgedrag"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "stemde tegen beide moties",
+        "basis": "stemgedrag"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "vergunningskosten afhankelijk van hoe groen het is",
+        "basis": "programma p.35"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "melding volstaat waar mogelijk, geen vergunning",
+        "basis": "programma p.21"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "lagere kosten voor niet-commerciële evenementen",
+        "basis": "programma p.23"
+      },
+      "fvd": {
+        "s": 0,
+        "kern": "leges kostendekkend, geen verdienmodel",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "lage leges voor lokale evenementen",
+        "basis": "programma"
+      }
+    },
+    "spreiding": "Hart voor Hilversum, CDA en VVD staan tegenover ChristenUnie, PRO en PvdD; de stelling scheidt ChristenUnie van CDA in het midden en Volt (lagere kosten) van PRO.",
+    "twijfel": "Stemgedrag komt uit de Wijdemeerse raad (PvdA-GL daar gelezen als PRO); Hilversumse fracties stemden er niet over. Volt en BBB willen lagere kosten, niet per se nul."
+  },
+  {
+    "id": "economie-groot-evenement",
+    "onderwerp": "evenementen",
+    "kop": "Groot landelijk evenement",
+    "stelling": "De gemeente investeert in het binnenhalen van een groot landelijk evenement, zoals het Glazen Huis of The Passion.",
+    "uitleg": "Hilversum presenteert zich als mediastad en heeft al evenementen als de Top 2000-activiteiten. Een groot televisie-evenement trekt veel bezoekers en aandacht, maar vraagt gemeentegeld voor organisatie, veiligheid en schoonmaak. Eens betekent: daar actief geld en moeite in steken.",
+    "voor": "Een landelijk evenement zet Hilversum als mediastad op de kaart en levert omzet op voor horeca en winkels.",
+    "tegen": "Prestige-evenementen kosten veel publiek geld en passen niet bij de schaal van de gemeente; geld kan beter naar lokale initiatieven.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "grote en kleine evenementen stimuleren",
+        "basis": "programma p.33"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "groot mediaevenement naar Hilversum halen",
+        "basis": "programma p.41"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "meer ruimte voor evenementen zoals Dutch Media Week",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "evenementen passend bij schaal en karakter",
+        "basis": "programma p.39"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "dure prestige-evenementen van publiek geld ontmoedigen",
+        "basis": "programma p.36"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "gemeente organiseert niet zelf; aanbod van ondernemers",
+        "basis": "programma p.23"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "geen prestigeprojecten vóór de basis",
+        "basis": "programma p.17"
+      }
+    },
+    "spreiding": "D66, PRO en BVNL staan tegenover PvdD, Gewoon Hilversum, LFD en BBB; de stelling scheidt PRO van PvdD links en BVNL van BBB en LFD rechts.",
+    "twijfel": "BBB's 'geen prestigeprojecten' gaat in het programma vooral over bouwprojecten; afgeleid. Veel lijsten (13) onbekend."
+  },
+  {
+    "id": "economie-plassen-rust",
+    "onderwerp": "plassen en recreatie",
+    "kop": "Rustgebieden op de plassen",
+    "stelling": "Kwetsbare delen van de plassen mogen een deel van het jaar dicht voor boten en zwemmers, zodat planten en dieren rust krijgen.",
+    "uitleg": "De Loosdrechtse Plassen en de Ankeveense en Kortenhoefse plassen zijn natuurgebied én een belangrijk recreatiegebied met jachthavens, sloepenverhuur en vakantieparken. Een deel is beschermd natuurgebied (Natura 2000). Tijdelijk afsluiten geeft broedvogels en waterplanten rust, maar beperkt varen en recreatie en raakt ondernemers.",
+    "voor": "Natuur herstelt alleen als er plekken zijn waar het echt stil is, en een gezonde natuur is ook de basis voor toerisme.",
+    "tegen": "Natuur moet je kunnen beleven; afsluiten schaadt watersporters en de recreatiebedrijven in de dorpen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "kwetsbare plekken beschermen; levendigheid passend bij gebied",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "balans met natuurbehoud en waterkwaliteit",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "recreatie niet ten koste van natuur en dieren",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "natuur beleven, niet alleen van afstand bekijken",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "recreatie en natuur kunnen goed naast elkaar",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "balans tussen toegankelijke natuur en stiltegebieden",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "huidige balans is goed",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "ruimte voor recreatie en kwetsbare natuur beschermen",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "natuur mag niet leiden tot onnodige beperkingen",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "rust, groen en natuur voldoende ruimte geven",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "balans; inwoners moeten kunnen blijven genieten",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "meer ruimte voor varen, zwemmen en recreatie",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "recreatie en watersport krijgen ruimte",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "natuurbehoud gaat voor uitbreiding recreatie",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "gebieden afsluiten zodat dieren en planten kunnen herstellen",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "per gebied kijken wat gewenst is",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "varen en zwemmen moeten mogelijk blijven",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "kleinschalig, elektrisch, stiller; natuurherstel",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "water en landschap zijn economische kracht",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "natuur hoeft niet op slot",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "PvdD en Opstand.nu staan tegenover BBB, BVNL en FVD; de stelling scheidt Hart voor Hilversum van Dorp voor Dorp en SBP-VIP onder de lokale partijen, SCB van de rest van rechts, en D66 van VVD in het midden.",
+    "twijfel": "Posities komen uit de MijnStem-schuifbalk (0 = meer recreatie, 100 = meer rust), aangevuld met de toelichting: HvH (51) +1 vanwege 'kwetsbare plekken vragen om bescherming', VVD (43) en LFD (50) -1 vanwege hun toelichting tegen beperkingen. Alleen PvdD noemt afsluiten expliciet."
+  },
+  {
+    "id": "economie-plassen-strandjes",
+    "onderwerp": "plassen en recreatie",
+    "kop": "Meer strandjes en aanlegplekken",
+    "stelling": "Aan de plassen komen meer strandjes, ligplaatsen en aanlegplekken voor bezoekers.",
+    "uitleg": "Rond de Loosdrechtse Plassen zijn weinig vrij toegankelijke strandjes; bestaande, zoals De Zuwe aan de N201, zijn slecht bereikbaar. Meer recreatieplekken trekt bezoekers en helpt ondernemers, maar brengt ook drukte, verkeer en verstoring van natuur in de dorpen.",
+    "voor": "Inwoners en bezoekers moeten van het water kunnen genieten, en recreatie houdt de dorpseconomie draaiende.",
+    "tegen": "Het is op mooie dagen al druk op en rond de plassen; uitbreiding gaat ten koste van natuur en rust in de dorpen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "ruimte voor recreatie, met respect voor natuur en rust",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "recreatiesector verbeteren in balans met natuur",
+        "basis": "programma p.35"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "meer strandjes en meer plekken voor elektrische boten",
+        "basis": "programma p.41"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "recreatie is speerpunt, met respect voor natuur",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "langjarige duidelijkheid voor ondernemers; beide functies",
+        "basis": "programma p.53"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "geen massatoerisme; kwaliteitsrecreant",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "huidige balans is goed",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "recreatie en toerisme intensiveren, duurzaam",
+        "basis": "programma p.32"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "plassengebied is er om van te genieten",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "recreatie waar het goed samengaat met natuur",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "balans tussen natuurbehoud en recreatie",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "meer ruimte voor varen, zwemmen en recreatie",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "ruimte waar dat past, in balans",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "natuurbehoud gaat voor uitbreiding recreatie",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "recreatie mag niet ten koste gaan van natuur",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "per gebied kijken, natuurvriendelijke recreatie",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "recreatie mogelijk houden; gemeente organiseert niet",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "tegen grootschalige recreatieontwikkeling",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "bereikbaarheid per auto, fiets en boot versterken",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "mensen moeten kunnen blijven genieten",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "D66, ChristenUnie, VVD en de rechtse lijsten staan tegenover PvdD, Volt, SP, Opstand.nu en Lokaal Eén; dit is de tweede laag op de plassen: hij scheidt D66 van Volt en PRO (die op rust ongeveer gelijk scoren) en ChristenUnie van CDA.",
+    "twijfel": "Behalve D66, ChristenUnie, Volt en Lokaal Eén zijn de posities afgeleid uit de MijnStem-plassenvraag; acht lijsten staan op 0, dus de stelling scheidt vooral aan de randen."
+  },
+  {
+    "id": "economie-vakantieparken-wonen",
+    "onderwerp": "plassen en recreatie",
+    "kop": "Woonverbod vakantieparken",
+    "stelling": "De gemeente blijft het verbod op permanent wonen op vakantieparken handhaven, ook voor wie er nu al woont.",
+    "uitleg": "Rond de Loosdrechtse Plassen liggen veel vakantieparken. Permanent wonen is daar niet toegestaan, maar gebeurt wel, vaak door mensen die geen andere woning vinden. De gemeente kan dat verbod handhaven of permanente bewoning onder voorwaarden toestaan, wat het recreatieve karakter van parken kan veranderen.",
+    "voor": "Vakantieparken zijn voor recreatie; permanente bewoning verdringt toerisme en maakt handhaving tegen misstanden lastiger.",
+    "tegen": "Mensen die noodgedwongen op een park wonen, verdienen duidelijkheid in een tijd van woningnood.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "permanent woonverbod op vakantieparken handhaven",
+        "basis": "programma p.17"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "omgevingsplan voorkomt permanente bewoning van parken",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "toezicht en handhaving op strijdig gebruik van parken",
+        "basis": "programma p.58"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "langer verblijf in vakantiewoningen benutten waar de wet het toestaat",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "permanente bewoning onder goede voorwaarden mogelijk maken",
+        "basis": "programma p.11"
+      }
+    },
+    "spreiding": "VVD, Lokaal Eén en ChristenUnie staan tegenover BBB en FVD; de stelling scheidt BBB van VVD rechts en speelt vooral in Loosdrecht.",
+    "twijfel": "Slechts 5 posities. De ChristenUnie-positie is afgeleid uit handhaving van strijdig gebruik. Het onderwerp raakt ook het thema wonen."
+  },
+  {
+    "id": "economie-brede-welvaart",
+    "onderwerp": "werkgelegenheid",
+    "kop": "Brede welvaart boven groei",
+    "stelling": "In het economisch beleid van de gemeente tellen natuur, gezondheid en leefbaarheid zwaarder dan economische groei.",
+    "uitleg": "Sommige partijen willen dat de gemeente actief bedrijven aantrekt en het ondernemersklimaat verbetert om groei en banen te krijgen. Andere kiezen voor 'brede welvaart': ook gezondheid, natuur, leefbaarheid en gelijkheid tellen mee, en groei is geen doel op zich. De keuze speelt bij elk besluit over nieuwe bedrijven, bedrijventerreinen en evenementen.",
+    "voor": "Groei ten koste van natuur, rust en woonruimte maakt de gemeente niet beter; brede welvaart is een betere maatstaf.",
+    "tegen": "Groei en banen leveren inkomen, voorzieningen en belastinggeld op waar de hele gemeente van profiteert.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "beste ondernemersklimaat; actief bedrijven binnenhalen",
+        "basis": "programma p.14"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "groei welkom, maar in balans met leefomgeving",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "economie van het genoeg, verder kijken dan groei",
+        "basis": "programma p.29"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "ondernemers zorgen voor banen, innovatie en groei",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "gemeente schept geen banen, verbetert voorwaarden",
+        "basis": "programma p.37"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "economie altijd samen met leefbaarheid bekijken",
+        "basis": "programma p.21"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "geen groei als doel; brede welvaart leidend",
+        "basis": "programma p.32"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "ondernemers vrijheid geven om welvaart te maken",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "PvdD en ChristenUnie staan tegenover VVD, BVNL en FVD; de stelling scheidt ChristenUnie van CDA en VVD in het midden.",
+    "twijfel": "Geen lijst zegt letterlijk 'groei gaat voor'; de groeikant is afgeleid uit hun nadruk op ondernemersklimaat en banen. 12 lijsten onbekend."
+  },
+  {
+    "id": "economie-zondag-beperken",
+    "onderwerp": "koopzondag",
+    "kop": "Zondag rustiger",
+    "stelling": "De gemeente beperkt de openingstijden van winkels op zondag weer.",
+    "uitleg": "Met de Winkeltijdenverordening 2024 mogen winkels in Hilversum op zondagen en feestdagen ruimer open; winkeliers kiezen zelf of ze opengaan. Na de fusie moeten de regels voor stad en dorpen gelijk worden. Tegenstanders van ruime zondagsopening wijzen op de zondagsrust en op kleine winkeliers die het niet kunnen bijbenen tegen grote ketens.",
+    "voor": "Een gezamenlijk rustmoment is waardevol, en kleine zelfstandigen verliezen het van ketens die wel elke zondag open kunnen.",
+    "tegen": "Ondernemers en klanten kunnen zelf kiezen; niemand is verplicht om op zondag open te gaan of te winkelen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "waar men het wil moet het kunnen, geen verplichting",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "voor ruimere zondagsopening",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "voor ruimere tijden; supermarkt op zondag vanaf 9.00",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "voor ruimere zondagsopening; stemde voor verordening",
+        "basis": "stemgedrag"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "nadeel voor kleine ondernemers; eerst onderzoek",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "verordening 2024 is helder; ondernemer kiest",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "kleine winkels verliezen het van ketens",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "zondag als collectief rustmoment",
+        "basis": "programma p.31"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "zo vrij mogelijke winkeltijden",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "ruimte voor ondernemers, belangen werknemers meewegen",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "ondernemers bepalen zelf of ze open zijn",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "ondernemers bepalen zelf; gemeente terughoudend",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "neutraal, geen toelichting",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "neutraal, geen toelichting",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "neutraal, geen toelichting",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "keuze van ondernemer; 10 tot 20 uur redelijk",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "ondernemer bepaalt zelf, ook op zondag",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "voor ruimere zondagsopening",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "ondernemersvrijheid; niemand verplicht",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "vrijheid voor winkeliers, nooit verplicht",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "ChristenUnie, CDA en SP staan tegenover vrijwel alle anderen; de stelling scheidt CDA en ChristenUnie van VVD en D66 in het midden en SP van PRO, Volt en D66 links.",
+    "twijfel": "Te scheef: maar 3 van 17 lijsten met een uitgesproken positie aan de eens-kant, dus onder de kwart-eis. Opgenomen omdat koopzondag in de afbakening staat en het de enige plek is waar ChristenUnie, CDA en SP samen apart staan; de eindredactie kan hem als losse 'herkenningsstelling' gebruiken of schrappen. Volt, PRO en VVD gaven geen toelichting; de PvdA-fractie stemde in 2024 tegen de verruiming."
+  },
+  {
+    "id": "economie-toeristenbelasting-laag",
+    "onderwerp": "toeristenbelasting",
+    "kop": "Toeristenbelasting niet hoger",
+    "stelling": "De toeristenbelasting blijft de komende jaren gelijk of gaat omlaag.",
+    "uitleg": "Toeristenbelasting betalen gasten per overnachting in hotels, campings, B&B's en op vakantieparken; die laatste liggen vooral rond de plassen. Na de fusie moeten de tarieven van Hilversum en Wijdemeren gelijk worden. De opbrengst gaat nu naar de algemene gemeentekas; sommige partijen willen hem verhogen of oormerken.",
+    "voor": "Een hogere belasting maakt verblijf duurder en raakt de recreatiebedrijven, die al veel lasten hebben.",
+    "tegen": "Bezoekers gebruiken wegen, natuur en voorzieningen; het is eerlijk dat zij meer meebetalen in plaats van inwoners.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "toeristenbelasting niet zomaar verhogen",
+        "basis": "programma p.12"
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "let op stapeling van lasten bij ondernemers",
+        "basis": "programma p.16"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "jaarlijks laten zien wat opbrengst is en waarheen",
+        "basis": "programma p.53"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -1,
+        "kern": "toeristen- en forensenbelasting in hele gemeente",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "terughoudend, niet als melkkoe gebruiken",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "opbrengst gebruiken voor verduurzaming en natuur",
+        "basis": "programma p.36"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "toeristenbelasting afschaffen",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "was tegen invoering; niet steeds verhogen",
+        "basis": "programma p.23"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "laag basistarief; opbrengst terug naar recreatie",
+        "basis": "programma p.19"
+      }
+    },
+    "spreiding": "LFD, Blanco en de rechtse lijsten staan tegenover SP en PvdD; de stelling geeft de kleine lijsten LFD en Blanco een duidelijke plek en scheidt Hart voor Hilversum van SP en PvdD.",
+    "twijfel": "Scheef (6 tegen 2) en onder de kwart-eis. SP en PvdD zeggen niet letterlijk 'verhogen' maar 'in de hele gemeente heffen' en 'opbrengst naar natuur'; afgeleid -1. Hoe hoog de huidige tarieven in Hilversum en Wijdemeren zijn moet de eindredactie nagaan."
+  }
+]

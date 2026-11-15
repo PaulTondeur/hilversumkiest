@@ -1,0 +1,545 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|lokaal-een",
+  "id": "wonen-eigen-behoefte",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Kleinschalig, gericht op de lokale woningbehoefte",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|lokaal-een",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Hoogbouw in buitengebied alleen uitzondering",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "wonen-kantoren-naar-wonen|lokaal-een",
+  "id": "wonen-kantoren-naar-wonen",
+  "slug": "lokaal-een",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "wonen-kantoren-naar-wonen",
+   "s": 1,
+   "kern": "Open voor kantoren naar woningen, met ruimte voor bedrijven",
+   "toelichting": "De lijst staat open voor omvorming van bestaande bebouwing tot woningen, maar wil wel voldoende ruimte voor andere functies houden. Industrieterreinen wil ze behouden.",
+   "citaat": "Lokaal Eén kijkt met een open blik naar transformatie van bestaande bebouwing om woonfuncties toe te voegen. Wel houden we voldoende ruimte voor andere functies, zoals in de woonomgeving passende bedrijven.",
+   "bron": "Verkiezingsprogramma, Partijprogramma, 'Bouwende gemeente'; ook 'Eerst kijken naar wat er al is'",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "Industrieterreinen behouden; per locatie bekijken",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|lokaal-een",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "33% sociaal, 50% midden, 17% duur",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-starterswoning-boven-lening|lokaal-een",
+  "id": "wonen-starterswoning-boven-lening",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-starterswoning-boven-lening",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Voor starterslening, zonder toelichting",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-grondbeleid|lokaal-een",
+  "id": "wonen-grondbeleid",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-grondbeleid",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Volkshuisvesting onder versterkte gemeentelijke regie",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|lokaal-een",
+  "id": "verkeer-buurt-beslist",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "in woonwijken alleen in overleg met inwoners",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "verkeer-fietspad|lokaal-een",
+  "id": "verkeer-fietspad",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-fietspad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "auto is een gegeven; fiets groeit",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "verkeer-30-hoofdwegen|lokaal-een",
+  "id": "verkeer-30-hoofdwegen",
+  "slug": "lokaal-een",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "verkeer-30-hoofdwegen",
+   "s": 1,
+   "kern": "Grotendeels 30 km/u in de bebouwde kom",
+   "toelichting": "De lijst wil de maximumsnelheid binnen de bebouwde kom grotendeels naar 30 km/u brengen, in overleg met de buurt en met aanpassingen aan de weg, en op aangrenzende provinciale wegen naar 60.",
+   "citaat": "Lokaal Eén streeft naar verlaging van de maximum snelheid op aangrenzende provinciale wegen naar 60 km/u en binnen de bebouwde kom grotendeels naar 30 km/u.",
+   "bron": "Verkiezingsprogramma, 'Bereikbare gemeente', Gefaseerde snelheidsverlaging; MijnStem: 'Maximumsnelheid van 30 km/u invoeren in de bebouwde kom' (75)",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "grotendeels 30 binnen de bebouwde kom",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "klimaat-gas-tijdpad|lokaal-een",
+  "id": "klimaat-gas-tijdpad",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-gas-tijdpad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Voor plan met tussendoelen naar aardgasvrij",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|lokaal-een",
+  "id": "klimaat-zon-boerenland",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Prioriteit voor het volleggen van onbenutte daken",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "klimaat-kern-locatie|lokaal-een",
+  "id": "klimaat-kern-locatie",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kern-locatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Al onderzocht en niet haalbaar gebleken",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|lokaal-een",
+  "id": "natuur-groennorm",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "groen moet passen bij de bebouwingsdichtheid",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "natuur-bomen|lokaal-een",
+  "id": "natuur-bomen",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-bomen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "herplantplicht actualiseren, beeldbepalend groen beschermen",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "natuur-landbouw-natuur|lokaal-een",
+  "id": "natuur-landbouw-natuur",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-landbouw-natuur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "landbouw en natuur onlosmakelijk verbonden",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|lokaal-een",
+  "id": "veiligheid-boa-taken",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "kordaat optreden tegen afvaldumpen, zwerfafval en huftergedrag",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|lokaal-een",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "voldoet aan de wet, wil structureel landelijk beleid",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "asiel-blijvende-opvang|lokaal-een",
+  "id": "asiel-blijvende-opvang",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-blijvende-opvang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "duurzame oplossingen in plaats van spoedmaatregelen",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|lokaal-een",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "balans; vakantieparken geen besloten villaparken",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "cultuur-dorpsgarantie|lokaal-een",
+  "id": "cultuur-dorpsgarantie",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-dorpsgarantie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "verdeelsleutel cultuursubsidies herijken voor evenwichtige verdeling",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|lokaal-een",
+  "id": "cultuur-monumentenregels",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "erfgoed koesteren, Gevelherstelfonds, sterkere adviescommissie",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentale-scholen|lokaal-een",
+  "id": "cultuur-monumentale-scholen",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentale-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "monumentaal of nieuw, als het gebouw gezond is",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|lokaal-een",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "lokaal-een",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": 0,
+   "kern": "Wijk- en dorpsplatforms met mandaat en budget, geen extra laag",
+   "toelichting": "De lijst wil wijk- en dorpsplatforms met afspraken over mandaat en wijkbudgetten, maar is tegen een extra bestuurslaag. Zelf besluiten nemen noemt ze niet.",
+   "citaat": "Iedere buurt of dorp krijgt gemeentelijke ondersteuning bij het inrichten van een eigen wijk- of dorpsplatform, volledig afgestemd op de lokale behoefte. Hierbij worden vooraf heldere afspraken gemaakt over mandaat en wijkbudgetten.",
+   "bron": "Verkiezingsprogramma, 'Luisterende gemeente', Inwonerskracht en maatwerk per buurt; MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners' (41)",
+   "soort": "programma",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": -2,
+   "kern": "tegen een extra bestuurslaag",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-gelijke-regels|lokaal-een",
+  "id": "bestuur-gelijke-regels",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-gelijke-regels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "gelijkwaardigheid van wijken en dorpen, met maatwerk",
+   "basis": "programma p.1"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|lokaal-een",
+  "id": "financien-subsidies-korten",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "voor meer geld naar kunst en cultuur",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|lokaal-een",
+  "id": "financien-heffing-draagkracht",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "kostendekkend vast bedrag, meer keus naar huishoudgrootte",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|lokaal-een",
+  "id": "financien-investeringen-spreiden",
+  "slug": "lokaal-een",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "geen schuldenlast doorgeven aan toekomstige generaties",
+   "basis": "programma p.1"
+  }
+ }
+]

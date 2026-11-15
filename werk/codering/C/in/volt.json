@@ -1,0 +1,382 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|volt",
+  "id": "wonen-eigen-behoefte",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Woningen voor studenten en starters om jong talent te binden",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-gas-tijdpad|volt",
+  "id": "klimaat-gas-tijdpad",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-gas-tijdpad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Eigen energieplan per dorp en wijk",
+   "basis": "programma p.15"
+  }
+ },
+ {
+  "sleutel": "klimaat-warmtenet-markt|volt",
+  "id": "klimaat-warmtenet-markt",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-warmtenet-markt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Energiegemeenschappen van bewoners, met steun van de gemeente",
+   "basis": "programma p.15"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|volt",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Geen ruimte voor windturbines in de gemeente",
+   "basis": "programma p.16"
+  }
+ },
+ {
+  "sleutel": "klimaat-kern-locatie|volt",
+  "id": "klimaat-kern-locatie",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kern-locatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Steunt SMR, maar zoekt oplossing in de regio",
+   "basis": "programma p.16"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|volt",
+  "id": "natuur-afsluiten",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "natuur beschermen én genoeg ruimte voor wandelen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-snelvaren|volt",
+  "id": "natuur-snelvaren",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-snelvaren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "overlast beperken door handhaving op bootsnelheid en geluid",
+   "basis": "programma p.14"
+  }
+ },
+ {
+  "sleutel": "natuur-gifzone|volt",
+  "id": "natuur-gifzone",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-gifzone",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "landbouw mag geen bestrijdingsmiddelen naar de natuur brengen",
+   "basis": "mijnstem, afgeleid"
+  }
+ },
+ {
+  "sleutel": "zorg-wmo-zonderindicatie|volt",
+  "id": "zorg-wmo-zonderindicatie",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-wmo-zonderindicatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "welzijn biedt eenvoudige hulp sneller aan",
+   "basis": "programma p.29"
+  }
+ },
+ {
+  "sleutel": "zorg-aanbieders-een|volt",
+  "id": "zorg-aanbieders-een",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-aanbieders-een",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "één centraal expertisepunt in plaats van losse hulpaanbieders",
+   "basis": "programma p.28"
+  }
+ },
+ {
+  "sleutel": "veiligheid-coffeeshops-scholen|volt",
+  "id": "veiligheid-coffeeshops-scholen",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-coffeeshops-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "alleen sluiten bij overlast of regelovertreding",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|volt",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "vangt op op basis van de Spreidingswet",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "asiel-kader-dorpen|volt",
+  "id": "asiel-kader-dorpen",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-kader-dorpen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "nieuw gezamenlijk plan via meedenkbijeenkomsten",
+   "basis": "programma p.33"
+  }
+ },
+ {
+  "sleutel": "asiel-regenbooggeld|volt",
+  "id": "asiel-regenbooggeld",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-regenbooggeld",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "eigen regenboogbeleid met meldpunt en opvangplekken",
+   "basis": "programma p.34"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|volt",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "per onderwerp bekijken hoe dorpen en wijken beslissen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|volt",
+  "id": "bestuur-referendum-advies",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal; liever burgerberaad",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|volt",
+  "id": "financien-heffing-draagkracht",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "sterkste schouders meer laten dragen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-afval-vast-bedrag|volt",
+  "id": "financien-afval-vast-bedrag",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-afval-vast-bedrag",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "afvalbeleid wordt door de regio bepaald",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-centrum-sober|volt",
+  "id": "financien-centrum-sober",
+  "slug": "volt",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-centrum-sober",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "plan wordt al uitgevoerd, niet meer aanpassen",
+   "basis": "stemgids"
+  }
+ }
+]

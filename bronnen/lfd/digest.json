@@ -1,0 +1,976 @@
+{
+  "slug": "lfd",
+  "kernboodschap": "LFD is een nieuwe libertaire lokale partij die de gemeente wil beperken tot haar kerntaken en de bewijslast bij de overheid legt: de gemeente moet aantonen waarom een regel, uitgave of ingreep nodig is. Zij benadrukt eigendomsrechten, lage lasten, privacy en keuzevrijheid, en wil dat Hilversum, de Hilversumse Meent en de dorpen van Wijdemeren na de herindeling hun eigen karakter en bereikbaar bestuur behouden.",
+  "speerpunten": [
+    "Geen verdere uitbreiding van betaald parkeren naar woonwijken; bestaande gebieden herbeoordelen",
+    "Lokale lasten zo laag mogelijk; geen nieuwe belasting zonder aantoonbare noodzaak",
+    "Geen gedwongen grootschalige asielopvang zonder lokale instemming",
+    "Raadgevend referendum en burgerinitiatief",
+    "Bewijslast bij de gemeente: geen regel zonder aantoonbare noodzaak, vergunning vervangen door melding waar mogelijk",
+    "Bestuur dichtbij na de herindeling: servicepunten in de kernen en geen automatische harmonisatie naar het strengste niveau",
+    "Eigendomsrechten en meer ruimte om te bouwen, splitsen en op te toppen",
+    "Privacy: geen gezichtsherkenning of massasurveillance, openbaar algoritmeregister"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "hoogbouw",
+        "standpunt": "Kwalitatieve hoogbouw kan een oplossing zijn waar ruimte schaars is; de gemeente versnelt procedures en hanteert stabiele, voorspelbare regels.",
+        "citaat": "Waar ruimte schaars is, kan kwalitatieve hoogbouw een oplossing zijn. De gemeente versnelt procedures en zorgt voor stabiele, voorspelbare regels.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "splitsen, optoppen en transformatie",
+        "standpunt": "De partij wil meer ruimte voor woningsplitsing, optoppen, woningdelen, transformatie van leegstaande kantoren en winkels, mantelzorgwoningen, flexibele woonvormen en particulier opdrachtgeverschap.",
+        "citaat": "LFD wil meer ruimte voor woningsplitsing, optoppen, woningdelen, transformatie van leegstaande kantoren en winkels, mantelzorgwoningen, flexibele woonvormen en particulier opdrachtgeverschap.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bezwaren van omwonenden",
+        "standpunt": "Veiligheid, bereikbaarheid, infrastructuur, waterhuishouding en ernstige aantoonbare hinder zijn legitieme aandachtspunten bij bouwplannen; smaak of de wens dat een buurt niet verandert is geen reden om woningbouw tegen te houden.",
+        "citaat": "Persoonlijke smaak of de wens dat een buurt nooit verandert, is op zichzelf onvoldoende reden om woningbouw tegen te houden.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitzicht en bebouwingsdichtheid",
+        "standpunt": "Omwonenden hebben volgens de partij geen automatisch recht op een onveranderd uitzicht of dezelfde bebouwingsdichtheid.",
+        "citaat": "Dat betekent niet automatisch een recht op een onveranderd uitzicht, dezelfde bebouwingsdichtheid of het tegenhouden van iedere ontwikkeling op andermans eigendom.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "eigendomsrechten en compensatie",
+        "standpunt": "Beperkingen aan het gebruik van grond en gebouwen moeten noodzakelijk, proportioneel en juridisch zorgvuldig zijn; bij zeer zware beperkingen komt waar passend redelijke compensatie.",
+        "citaat": "Bij zeer zware beperkingen horen goede rechtsbescherming en, waar passend, redelijke compensatie.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "natuurvoorschriften bij bouwen",
+        "standpunt": "Bij bouwen wordt rekening gehouden met natuur en dieren, maar symbolische voorschriften die kosten en vertraging veroorzaken worden geschrapt; maatregelen moeten aantoonbaar effectief zijn.",
+        "citaat": "Symbolische voorschriften die vooral kosten en vertraging veroorzaken, worden geschrapt.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verdeling van schaarse woningen",
+        "standpunt": "De gemeente verdeelt schaarste niet op basis van politieke voorkeur voor groepen maar met eerlijke en transparante regels (geen voorrang voor bepaalde groepen genoemd).",
+        "citaat": "De gemeente verdeelt schaarste niet op basis van politieke voorkeur voor groepen, maar zorgt voor eerlijke en transparante regels.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "appartement zonder parkeerplaats",
+        "standpunt": "Een appartement zonder parkeerplaats moet mogelijk zijn als ontwikkelaar en koper daar bewust voor kiezen.",
+        "citaat": "Een appartement zonder parkeerplaats moet bijvoorbeeld mogelijk zijn wanneer ontwikkelaar en koper daar bewust voor kiezen.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "rol van de gemeente",
+        "standpunt": "De gemeente bouwt zelf niet via beleidsnota's maar maakt bouwen, verbouwen en doorstromen mogelijk door eigenaren, corporaties en ondernemers meer ruimte te geven.",
+        "citaat": "De woningmarkt komt in beweging wanneer inwoners, eigenaren, woningcorporaties en ondernemers meer ruimte krijgen om woningen te realiseren en bestaande gebouwen beter te benutten.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren uitbreiding",
+        "standpunt": "De verdere uitbreiding van betaald parkeren naar woonwijken stopt.",
+        "citaat": "De verdere uitbreiding van betaald parkeren naar woonwijken stopt.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaald parkeren in bestaande gebieden",
+        "standpunt": "Betaald parkeren geldt alleen waar aantoonbare parkeerdruk regulering nodig maakt; bestaande gebieden worden herbeoordeeld en waar de noodzaak ontbreekt kan het worden teruggedraaid of vervangen door een lichtere oplossing.",
+        "citaat": "Bestaande gebieden met betaald parkeren worden opnieuw beoordeeld. Waar de noodzaak ontbreekt, wordt bekeken of betaald parkeren kan worden teruggedraaid of vervangen door een minder ingrijpende oplossing.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeertarieven en garages",
+        "standpunt": "Parkeergarages krijgen aantrekkelijke tarieven zodat bezoekers ze gebruiken; kort parkeren op straat blijft waar mogelijk eenvoudig; tarieven zijn kostentransparant en geen verborgen belasting.",
+        "citaat": "Parkeergarages worden aantrekkelijk geprijsd zodat bezoekers daar graag gebruik van maken. Kort parkeren op straat blijft waar mogelijk eenvoudig.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeren als sturing of belasting",
+        "standpunt": "Parkeren wordt niet gebruikt als verborgen belasting of om inwoners tot een andere vervoerskeuze te dwingen.",
+        "citaat": "Parkeren wordt niet gebruikt als verborgen belasting of om inwoners tot een andere vervoerskeuze te dwingen.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeernormen nieuwbouw",
+        "standpunt": "Initiatiefnemers zijn in beginsel zelf verantwoordelijk voor de parkeerbehoefte van hun ontwikkeling; geen generieke minimumaantallen zonder aantoonbare noodzaak, maar de rekening mag niet bij bestaande woonwijken terechtkomen.",
+        "citaat": "De gemeente schrijft geen generieke minimumaantallen parkeerplaatsen voor wanneer daarvoor geen aantoonbare noodzaak bestaat.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afwenteling parkeerdruk",
+        "standpunt": "Kosten en parkeerdruk van nieuwe ontwikkelingen worden niet afgewenteld op bestaande woonwijken of op inwoners die de voorziening niet gebruiken.",
+        "citaat": "Kosten en parkeerdruk mogen echter niet ongemerkt worden afgewenteld op bestaande woonwijken of inwoners die geen gebruik maken van de betreffende voorziening.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "30 km/u",
+        "standpunt": "De partij is tegen een algemene 30 km/u-norm; snelheidsbeperkingen alleen waar de lokale situatie daar aantoonbaar aanleiding toe geeft.",
+        "citaat": "LFD is tegen een algemene 30 km/u-norm. Snelheidsbeperkingen worden toegepast waar de lokale situatie daar aantoonbaar aanleiding toe geeft.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zero-emissiezones",
+        "standpunt": "Milieu- en zero-emissiezones worden niet boven wettelijke verplichtingen uitgebreid als dat de bereikbaarheid of keuzevrijheid onevenredig beperkt.",
+        "citaat": "Milieu- en zero-emissiezones worden niet boven wettelijke verplichtingen uitgebreid wanneer daarmee de bereikbaarheid of keuzevrijheid van inwoners en ondernemers onevenredig wordt beperkt.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "15-minutenstad",
+        "standpunt": "De partij is tegen de 15-minutenstad wanneer die als sturingsmodel de bewegingsvrijheid of vervoerskeuze beperkt.",
+        "citaat": "Wij zijn tegen de 15-minutenstad wanneer deze wordt gebruikt als sturingsmodel om bewegingsvrijheid of vervoerskeuze van inwoners te beperken.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geen gedragssturing in verkeersbeleid",
+        "standpunt": "Verkeersbeleid richt zich op veiligheid, bereikbaarheid en doorstroming en niet op gedragsbeïnvloeding of sturing van vervoerskeuze.",
+        "citaat": "Verkeersbeleid is gericht op veiligheid, bereikbaarheid en doorstroming, niet op gedragsbeïnvloeding.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "deelmobiliteit en subsidies",
+        "standpunt": "Nieuwe vormen van mobiliteit krijgen ruimte bij aantoonbare vraag; geen kunstmatige vraag via subsidies of beperkend parkeerbeleid; deelmobiliteit moet zichzelf bewijzen.",
+        "citaat": "De gemeente creëert geen kunstmatige vraag met subsidies of beperkend parkeerbeleid.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "paaltjes en afsluitingen",
+        "standpunt": "Verkeersmaatregelen zoals paaltjes en afsluitingen mogen de aanrijtijden van hulpdiensten niet onnodig vertragen.",
+        "citaat": "Paaltjes, afsluitingen en andere verkeersmaatregelen mogen aanrijtijden niet onnodig vertragen.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toegankelijkheid openbare ruimte",
+        "standpunt": "Toegankelijkheid voor mensen met een beperking wordt vanaf het ontwerp meegenomen.",
+        "citaat": "Toegankelijkheid wordt vanaf het ontwerp meegenomen.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "onderhoud wegen en fietspaden",
+        "standpunt": "De gemeente zorgt voor veilige, bereikbare en goed onderhouden wegen, fietspaden en stoepen zonder inwoners in hun vervoerskeuze te sturen.",
+        "citaat": "De gemeente zorgt voor veilige, bereikbare en goed onderhouden wegen, fietspaden, stoepen en openbare ruimte, zonder inwoners te sturen in hun vervoerskeuze.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "windturbines en zonnevelden",
+        "standpunt": "Geen gemeentelijke dwang voor en geen principieel verbod op windturbines en zonnevelden wanneer particuliere eigenaren dat vrijwillig op eigen grond willen; beoordeling op eigendomsrechten, veiligheid en aantoonbare hinder.",
+        "citaat": "LFD is niet voor gemeentelijke dwang vóór zulke projecten, maar evenmin voor een principieel verbod wanneer particuliere eigenaren vrijwillig op hun eigen grond iets willen realiseren.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geen voorgeschreven techniek",
+        "standpunt": "De gemeente schrijft niet voor welke technologie inwoners en ondernemers gebruiken en gebruikt geen subsidies of voorkeursbeleid om specifieke technieken door te drukken.",
+        "citaat": "De gemeente schrijft inwoners en ondernemers niet voor welke technologie zij moeten gebruiken en gebruikt subsidies of voorkeursbeleid niet om politieke voorkeuren voor specifieke technieken door te drukken.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verduurzaming gemeentelijk vastgoed",
+        "standpunt": "De gemeente verduurzaamt haar eigen gebouwen en terreinen waar dat technisch zinvol en financieel verantwoord is.",
+        "citaat": "Zij verduurzaamt die waar dat technisch zinvol en financieel verantwoord is.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokale koppen op regelgeving",
+        "standpunt": "De partij verzet zich tegen lokale koppen op landelijke en Europese regelgeving, ook bij circulaire economie, stikstof en energiebeleid.",
+        "citaat": "LFD verzet zich tegen lokale koppen op landelijke en Europese regelgeving.",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "klimaatbeleid toetsen op lokaal effect",
+        "standpunt": "Klimaatmaatregelen worden vooraf beoordeeld op aantoonbaar lokaal effect, betaalbaarheid, haalbaarheid en proportionaliteit; geen mondiale ambities met lokaal symboolbeleid.",
+        "citaat": "Iedere maatregel wordt vooraf beoordeeld op aantoonbaar lokaal effect, betaalbaarheid, technische haalbaarheid en proportionaliteit.",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "rechten omwonenden bij verduurzaming",
+        "standpunt": "Verduurzaming rechtvaardigt geen aantasting van de rechten van omwonenden; omgekeerd geeft een voorkeur voor een landschap geen automatisch recht om vrijwillige initiatieven op andermans eigendom tegen te houden.",
+        "citaat": "Verduurzaming rechtvaardigt geen aantasting van de rechten van omwonenden.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "riool- en afvalstoffenheffing",
+        "standpunt": "Riool- en afvalstoffenheffingen zijn transparant en uitsluitend kostendekkend.",
+        "citaat": "Riool- en afvalstoffenheffingen zijn transparant en uitsluitend kostendekkend.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "herplant van bomen",
+        "standpunt": "Bij verdwijnende gemeentelijke bomen gaat daadwerkelijke herplant in de omgeving voor een afkoopfonds; niet iedere boom hoeft te blijven staan.",
+        "citaat": "Wanneer gemeentelijke bomen verdwijnen, heeft daadwerkelijke herplant in de omgeving onze voorkeur boven een afkoopfonds terwijl het groen uit de buurt verdwijnt.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "maaibeheer",
+        "standpunt": "Doelgericht maaibeheer: ecologisch beheer waar dat aantoonbaar zinvol is, tijdig maaien waar veiligheid, recreatie, speelvoorzieningen of verkeersoverzicht dat vragen.",
+        "citaat": "Wij kiezen voor doelgericht maaibeheer.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groen bij particuliere ontwikkeling",
+        "standpunt": "Bij particuliere ontwikkelingen schrijft de gemeente niet meer voor dan nodig voor concrete publieke belangen en rechten van derden; eigenaren en ontwikkelaars bepalen zelf de inrichting van hun terrein.",
+        "citaat": "Bij particuliere ontwikkelingen schrijft de gemeente niet méér voor dan noodzakelijk is ter bescherming van concrete publieke belangen en rechten van derden.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groen op gemeentelijke grond",
+        "standpunt": "Bij ontwikkelingen op gemeentelijke grond maakt de gemeente als eigenaar vanaf het begin keuzes over groen en openbare ruimte.",
+        "citaat": "Bij ontwikkelingen op gemeentelijke grond kan de gemeente als eigenaar vanaf het begin keuzes maken over groen en openbare ruimte.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "recreatie in natuur en op de plassen",
+        "standpunt": "Wandelen, fietsen, varen, zwemmen en paardrijden moeten mogelijk blijven, onder meer op de heide, in de bossen en op de Loosdrechtse Plassen.",
+        "citaat": "Wandelen, fietsen, varen, zwemmen, paardrijden en andere vormen van recreatie moeten mogelijk blijven.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "beheer boven nieuwe natuurprojecten",
+        "standpunt": "Goed beheer gaat voor steeds nieuwe natuurprojecten; bewezen beheervormen hebben de voorkeur boven beleidsmodes.",
+        "citaat": "Goed beheer gaat vóór steeds nieuwe natuurprojecten.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "beperkingen op particuliere eigendom",
+        "standpunt": "Nieuwe natuurbeperkingen op particuliere eigendom en bestaande gebruiksrechten moeten onderbouwd en proportioneel zijn en volwaardige bezwaar- en beroepsmogelijkheden bieden.",
+        "citaat": "Nieuwe beperkingen worden onderbouwd, zijn proportioneel en bieden volwaardige bezwaar- en beroepsmogelijkheden.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "samenwerking boven verboden",
+        "standpunt": "Samenwerking met eigenaren, terreinbeheerders, agrariërs en gebruikers heeft de voorkeur boven eenzijdige verboden.",
+        "citaat": "Samenwerking met eigenaren, terreinbeheerders, agrariërs en gebruikers heeft de voorkeur boven eenzijdige verboden.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "stikstof en agrariërs",
+        "standpunt": "De gemeente voorkomt binnen haar bevoegdheden dat agrariërs en anderen met disproportionele eisen worden geconfronteerd bij stikstof- en energiebeleid.",
+        "citaat": "Ook bij circulaire economie, stikstof en energiebeleid voorkomt de gemeente binnen haar bevoegdheden dat inwoners, agrariërs, verenigingen en ondernemers met disproportionele eisen worden geconfronteerd.",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "richting"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "bezuinigen in de zorg",
+        "standpunt": "Bij bezuinigingen op gemeentelijke zorg mag noodzakelijke hulp niet verdwijnen of onbereikbaar worden; eerst wordt naar bureaucratie, overhead en andere onnodige uitgaven gekeken.",
+        "citaat": "Eerst wordt gekeken naar bureaucratie, overhead en andere onnodige uitgaven.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "keuzevrijheid aanbieders",
+        "standpunt": "Inwoners moeten waar mogelijk kunnen kiezen tussen verschillende aanbieders en oplossingen.",
+        "citaat": "Inwoners moeten waar mogelijk kunnen kiezen tussen verschillende aanbieders en oplossingen.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mantelzorgers en vrijwilligers",
+        "standpunt": "Vrijwillige inzet mag niet als vanzelfsprekend worden opgeëist of gebruikt als goedkope vervanging voor taken waarvoor de gemeente zelf verantwoordelijk is.",
+        "citaat": "Hun inzet is vrijwillig en mag nooit als vanzelfsprekend worden opgeëist of gebruikt als goedkope vervanging voor taken waarvoor de gemeente zelf verantwoordelijkheid heeft genomen.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "één aanspreekpunt in het sociaal domein",
+        "standpunt": "Eén persoon moet niet verdwalen tussen loketten, indicaties, organisaties en dossiers; de partij noemt één vast aanspreekpunt per gezin bij jeugdhulp.",
+        "citaat": "Minder bureaucratie, kortere wachtlijsten en één vast aanspreekpunt voor ieder gezin.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "jeugdhulp en uithuisplaatsing",
+        "standpunt": "Vrijwillige hulp staat voorop; ondertoezichtstelling en uithuisplaatsing zijn uiterste middelen met onafhankelijke toetsing en sterke rechtsbescherming.",
+        "citaat": "Ondertoezichtstellingen, uithuisplaatsingen en andere zeer ingrijpende maatregelen zijn uiterste middelen en vereisen maximale zorgvuldigheid, onafhankelijke toetsing en sterke rechtsbescherming.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "privacy in het sociaal domein",
+        "standpunt": "Gegevens in het sociaal domein worden alleen verzameld en gedeeld als dat noodzakelijk, proportioneel en juridisch toegestaan is.",
+        "citaat": "Gegevens worden alleen gedeeld wanneer dit noodzakelijk, proportioneel en juridisch toegestaan is.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bijstand en re-integratie",
+        "standpunt": "Afspraken over scholing, re-integratie en maatschappelijke inzet zijn individueel, proportioneel en tijdelijk; uitkeringsgerechtigden zijn geen gratis arbeidskrachten en verdringen geen regulier werk.",
+        "citaat": "Maar uitkeringsgerechtigden zijn evenmin een reservoir van gratis arbeidskrachten.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "werken moet lonen",
+        "standpunt": "Werk en inkomen: hulp gericht op zelfstandigheid, opleiding en passend werk; wie niet kan werken krijgt ondersteuning zonder vernederende bureaucratie.",
+        "citaat": "Wie niet kan werken, verdient passende ondersteuning zonder vernederende bureaucratie.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "overheid niet overal in",
+        "standpunt": "De partij kiest niet voor een volledige terugtrekking van de overheid uit zorg en welzijn, maar ook niet voor het tot gemeentelijk beleid maken van ieder menselijk probleem.",
+        "citaat": "LFD kiest niet voor een samenleving waarin de overheid zich uit alles terugtrekt.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "gezichtsherkenning en massasurveillance",
+        "standpunt": "De partij wil geen gezichtsherkenning in de openbare ruimte en geen ongerichte massasurveillance.",
+        "citaat": "LFD wil geen gezichtsherkenning in de openbare ruimte en geen ongerichte massasurveillance.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "camera's en kentekenregistratie",
+        "standpunt": "Camera's, sensoren en kentekenregistratie alleen na aangetoonde noodzaak, proportionaliteit en effectiviteit; bewaartermijn niet langer dan nodig en gebruik openbaar en controleerbaar.",
+        "citaat": "Camera’s, sensoren, kentekenregistratie en andere toezichtstechnologie worden alleen ingezet wanneer noodzaak, proportionaliteit en effectiviteit zijn aangetoond.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "beroepsbrandweer Hilversum",
+        "standpunt": "De beroepsbrandweer in Hilversum en de specialistische brandweerzorg (onder meer redding op hoogte) blijven behouden; regionale keuzes worden getoetst aan de gevolgen voor de brandweerzorg in Hilversum-Wijdemeren.",
+        "citaat": "De beroepsbrandweer in Hilversum vervult daarin een belangrijke functie.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vrijwillige brandweerposten dorpen",
+        "standpunt": "Bij de vorming van de nieuwe gemeente moet aandacht zijn voor positie en kwaliteit van de brandweerposten in Loosdrecht, 's-Graveland en Nederhorst den Berg.",
+        "citaat": "Bij de vorming van de nieuwe gemeente moet nadrukkelijk aandacht zijn voor de positie en kwaliteit van de brandweerposten in Loosdrecht, ’s-Graveland en Nederhorst den Berg.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokale brandweercapaciteit en regio",
+        "standpunt": "Regionale samenwerking en schaalvergroting mogen niet leiden tot minder lokale slagkracht; de partij wil voldoende lokale capaciteit en goed materieel.",
+        "citaat": "LFD wil voldoende lokale capaciteit, goed materieel en behoud van de specialistische brandweerzorg die nodig is voor onder meer hulpverlening en redding op hoogte.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "noodsteunpunten en weerbaarheid",
+        "standpunt": "Brandweerposten kunnen waar praktisch geschikt dienen als coördinatie- of noodsteunpunt bij langdurige uitval; noodsteunpunten alleen waar aantoonbaar nodig; lokale weerbaarheidsplannen krijgen ruimte.",
+        "citaat": "Brandweerposten kunnen, waar zij daarvoor praktisch geschikt zijn, een rol vervullen als coördinatie- of noodsteunpunt.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "natuurbrandbeheersing",
+        "standpunt": "Natuurbrandbeheersing krijgt bijzondere aandacht: preventie, bereikbaarheid van natuurgebieden en voldoende bestrijdingscapaciteit.",
+        "citaat": "Preventie, bereikbaarheid van natuurgebieden en voldoende capaciteit voor effectieve natuurbrandbestrijding maken onderdeel uit van de voorbereiding op crises.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "handhaving en boa's",
+        "standpunt": "Handhaving richt zich op concrete schade, bedreiging, geweld, diefstal, vernieling en ernstige overlast; boa's handelen proportioneel, herkenbaar en aanspreekbaar.",
+        "citaat": "Boa’s en andere toezichthouders handelen proportioneel, herkenbaar en aanspreekbaar.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vuurwerkverbod",
+        "standpunt": "De partij was tegen een algemeen vuurwerkverbod, wil geen extra gemeentelijke verboden bovenop landelijke regels en kiest voor gerichte handhaving op illegaal bezit, geweld, vernieling en overlast.",
+        "citaat": "LFD was tegen een algemeen vuurwerkverbod waarbij de vrijheid van alle inwoners werd beperkt vanwege het wangedrag van een deel van de bevolking.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "georganiseerd vuurwerk",
+        "standpunt": "Waar de wet ruimte laat voor georganiseerde vuurwerkinitiatieven behandelt de gemeente aanvragen transparant, tijdig en zonder onnodige bureaucratie.",
+        "citaat": "Waar binnen de wet ruimte bestaat voor georganiseerde initiatieven, behandelt de gemeente aanvragen transparant, tijdig en zonder onnodige bureaucratie.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "overlast door wie dan ook",
+        "standpunt": "Overlast, intimidatie en criminaliteit worden gericht aangepakt ongeacht de dader; geen collectieve schuld maar individuele verantwoordelijkheid.",
+        "citaat": "Overlast, intimidatie en criminaliteit worden gericht aangepakt, ongeacht door wie zij worden veroorzaakt.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "grootschalige opvang",
+        "standpunt": "Geen gedwongen grootschalige opvang zonder lokale instemming; wettelijke taken transparant, tijdelijk en beheersbaar.",
+        "citaat": "Geen gedwongen grootschalige opvang zonder lokale instemming.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "nieuwe opvanglocaties",
+        "standpunt": "Nieuwe langdurige of grootschalige opvanglocaties krijgen niet vanzelfsprekend medewerking; vooraf worden de gevolgen voor woningen, voorzieningen, veiligheid, onderwijs, zorg, financiën en leefbaarheid openbaar gemaakt.",
+        "citaat": "Nieuwe langdurige of grootschalige opvanglocaties krijgen niet vanzelfsprekend medewerking.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorwaarden bij wettelijke opvangtaak",
+        "standpunt": "Zolang wettelijke opvangtaken gelden: maximale lokale zeggenschap, kleinschaligheid, tijdelijke en toetsbare afspraken en volledige kostenvergoeding door het Rijk.",
+        "citaat": "kiest LFD voor maximale lokale zeggenschap, kleinschaligheid, tijdelijke en toetsbare afspraken en volledige vergoeding van de kosten door het Rijk.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "besluitvorming en inspraak",
+        "standpunt": "Inwoners worden vroegtijdig betrokken bij opvangplannen en de gemeenteraad beslist in het openbaar.",
+        "citaat": "Inwoners worden vroegtijdig betrokken en de gemeenteraad beslist in het openbaar.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "opvang en woningtekort",
+        "standpunt": "Opvang mag niet worden gebruikt om bestuurlijk falen, woningtekorten of onvoldoende handhaving af te wentelen op inwoners en buurten.",
+        "citaat": "Opvang mag niet worden gebruikt om bestuurlijk falen, woningtekorten of onvoldoende handhaving af te wentelen op inwoners en buurten.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "inburgering en taal",
+        "standpunt": "Van nieuwkomers wordt verwacht dat zij Nederlands leren, de rechtsorde respecteren en zo snel mogelijk zelfstandig deelnemen.",
+        "citaat": "Van nieuwkomers verwachten wij dat zij Nederlands leren, de rechtsorde respecteren en zo snel mogelijk zelfstandig deelnemen aan de samenleving.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "asielbeleid is landelijk",
+        "standpunt": "Asielbeleid is in hoofdzaak een landelijke verantwoordelijkheid; de gemeente doet geen beloften die zij juridisch niet kan waarmaken.",
+        "citaat": "Asielbeleid is in hoofdzaak een landelijke verantwoordelijkheid.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "quota en identiteitspolitiek",
+        "standpunt": "Geen quota of streefcijfers op basis van groepsidentiteit; benoemingen op geschiktheid en kwaliteit; mensen worden als individuen behandeld.",
+        "citaat": "Quota en streefcijfers op basis van groepsidentiteit passen daar niet bij.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gelijke behandeling",
+        "standpunt": "De gemeente deelt inwoners niet onnodig in groepen in op basis van afkomst, geslacht, geloof, seksuele gerichtheid of andere identiteitskenmerken.",
+        "citaat": "De gemeente deelt inwoners niet onnodig in groepen in op basis van afkomst, geslacht, geloof, seksuele gerichtheid of andere identiteitskenmerken.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "vergunningen voor ondernemers",
+        "standpunt": "Vergunningstrajecten voor ondernemers worden sneller en eenvoudiger.",
+        "citaat": "Vergunningstrajecten worden sneller en eenvoudiger.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gelijke behandeling ondernemers",
+        "standpunt": "Geen voorkeursbeleid voor grote bedrijven of organisaties; opdrachten worden op transparante, objectieve voorwaarden verleend.",
+        "citaat": "Er is geen voorkeursbeleid voor grote bedrijven of organisaties.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toeristenbelasting",
+        "standpunt": "De partij was tegen invoering van toeristenbelasting en wil voorkomen dat deze steeds wordt verhoogd om andere uitgaven te financieren.",
+        "citaat": "LFD was tegen de invoering van toeristenbelasting.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "recreatie en toerisme",
+        "standpunt": "De gemeente zorgt voor randvoorwaarden, openbare veiligheid en bereikbaarheid maar organiseert recreatie niet zelf; hotels, campings, horeca en evenementen komen van ondernemers, inwoners en verenigingen.",
+        "citaat": "De gemeente zorgt voor heldere randvoorwaarden, openbare veiligheid en goede bereikbaarheid, maar hoeft recreatie niet zelf te organiseren.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "winkelgebieden en bedrijventerreinen",
+        "standpunt": "Winkelgebieden, bedrijventerreinen en dorpskernen moeten bereikbaar en veilig zijn; de gemeente ontwerpt ondernemerschap niet vanuit het gemeentehuis.",
+        "citaat": "Winkelgebieden, bedrijventerreinen en dorpskernen moeten bereikbaar en veilig zijn.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "evenementen",
+        "standpunt": "Terugkerende evenementen die probleemloos verlopen hoeven niet elk jaar opnieuw dezelfde procedure te doorlopen; waar een melding volstaat is geen vergunning nodig.",
+        "citaat": "Terugkerende evenementen en activiteiten die aantoonbaar probleemloos verlopen, horen niet ieder jaar opnieuw dezelfde bureaucratische hindernisbaan te doorlopen.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Media Park als onderdeel van aantrekkelijkheid",
+        "standpunt": "Het Media Park wordt genoemd als een van de elementen die de nieuwe gemeente aantrekkelijk maken; er staat geen concreet beleid voor.",
+        "citaat": "De combinatie van Hilversum, het Media Park, de Hilversumse Meent, de zes dorpen van Wijdemeren, de Loosdrechtse Plassen, natuur, cultuur en erfgoed maakt onze nieuwe gemeente aantrekkelijk voor inwoners én bezoekers.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ondernemers en regels",
+        "standpunt": "De gemeente helpt ondernemers vooral door regels te vereenvoudigen en schrijft niet voor hoe zij hun organisatie inrichten.",
+        "citaat": "Ondernemers creëren banen. De gemeente helpt vooral door regels te vereenvoudigen, procedures overzichtelijk te houden en ondernemers niet voor te schrijven hoe zij hun organisatie moeten inrichten.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "financiering van cultuur",
+        "standpunt": "Culturele activiteiten worden niet vanzelfsprekend door de gemeente gefinancierd; vrijwillige financiering, sponsoring, kaartverkoop, contributies, donaties en particuliere fondsen krijgen voorrang.",
+        "citaat": "Culturele activiteiten hoeven niet vanzelfsprekend door de gemeente te worden gefinancierd.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geen ideologie in cultuur",
+        "standpunt": "De gemeente gebruikt cultuur niet om politieke of ideologische boodschappen uit te dragen en is geen smaakpolitie.",
+        "citaat": "De gemeente is geen smaakpolitie en gebruikt cultuur niet om politieke of ideologische boodschappen uit te dragen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "erfgoed en tradities",
+        "standpunt": "Monumenten, lokale tradities, historische evenementen en karakteristieke plekken worden gekoesterd; ook in de fusiegemeente blijven de verhalen en tradities van de kernen zichtbaar.",
+        "citaat": "Wij koesteren monumenten, lokale tradities, historische evenementen en karakteristieke plekken.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "melding in plaats van vergunning bij culturele activiteiten",
+        "standpunt": "Waar een melding volstaat hoeft geen ingewikkelde vergunningprocedure voor evenementen, exposities, muziek en amateurkunst te bestaan.",
+        "citaat": "Waar een melding voldoende is, hoeft geen ingewikkelde vergunningprocedure te bestaan.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sportverenigingen en accommodaties",
+        "standpunt": "De gemeente beheert eigen sportaccommodaties transparant en doelmatig; haar bijdrage aan sport is vooral ruimte en eenvoudige regels, niet financiering of voorschriften.",
+        "citaat": "De belangrijkste bijdrage van de gemeente is vaak niet financiering, maar ruimte: eenvoudige regels, toegankelijke procedures en het wegnemen van onnodige belemmeringen.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "thuisonderwijs",
+        "standpunt": "De gemeente respecteert binnen de wet de keuze van ouders voor thuisonderwijs en behandelt aanvragen voor vrijstelling zorgvuldig en neutraal.",
+        "citaat": "Binnen de wettelijke mogelijkheden respecteert de gemeente de keuze van ouders voor thuisonderwijs.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kinderopvang",
+        "standpunt": "Bij kinderopvang en buitenschoolse opvang staat keuzevrijheid centraal; een gelijk speelveld en geen voorkeurspositie voor grote aanbieders.",
+        "citaat": "Ook bij kinderopvang en buitenschoolse opvang staat keuzevrijheid centraal.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "schoolgebouwen en leerlingenvervoer",
+        "standpunt": "De gemeente zorgt binnen haar verantwoordelijkheid voor veilige, toekomstbestendige schoolgebouwen, een veilige schoolomgeving en betrouwbaar leerlingenvervoer.",
+        "citaat": "De gemeente draagt binnen haar verantwoordelijkheid zorg voor veilige en toekomstbestendige schoolgebouwen, een veilige schoolomgeving, betrouwbaar leerlingenvervoer en een goede aansluiting tussen onderwijs en jeugdhulp.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bibliotheken en buurthuizen",
+        "standpunt": "Bibliotheken, buurthuizen en culturele instellingen zijn er voor alle inwoners; de gemeente treedt niet op als opvoeder of ideologische gids.",
+        "citaat": "Bibliotheken, buurthuizen, culturele instellingen en andere publieke voorzieningen zijn er voor alle inwoners.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vrijwilligers bij verenigingen",
+        "standpunt": "Verenigingen zijn geen uitvoeringsorganisaties van de gemeente; de gemeente schrijft hun organisatie niet voor.",
+        "citaat": "Zij zijn geen uitvoeringsorganisaties van de gemeente.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "raadgevend referendum",
+        "standpunt": "Bij grote, omkeerbare gemeentelijke besluiten moet een raadgevend referendum mogelijk zijn, aan te vragen met een haalbaar aantal handtekeningen.",
+        "citaat": "Bij grote, omkeerbare gemeentelijke besluiten moet een raadgevend referendum mogelijk zijn.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "burgerinitiatief en volgsysteem",
+        "standpunt": "Een laagdrempelig burgerinitiatief en een openbaar volgsysteem voor aangenomen voorstellen, toezeggingen en participatie-uitkomsten.",
+        "citaat": "Naast referenda wil LFD een laagdrempelig burgerinitiatief en een openbaar volgsysteem waarin inwoners kunnen zien wat er gebeurt met aangenomen voorstellen, toezeggingen en participatie-uitkomsten.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "schijnparticipatie",
+        "standpunt": "De gemeente maakt vooraf duidelijk waar inwoners invloed op hebben en welke keuzes vaststaan; participatie is geen middel om achteraf draagvlak te suggereren.",
+        "citaat": "Participatie is geen formaliteit en zeker geen middel om achteraf draagvlak te suggereren voor een besluit dat feitelijk al genomen is.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "servicepunten in de kernen",
+        "standpunt": "Lokale servicepunten, herkenbare contactpersonen en aantoonbare bereikbaarheid in alle delen van de nieuwe gemeente; veelvoorkomende diensten ook in of nabij de eigen kern.",
+        "citaat": "LFD wil lokale servicepunten, herkenbare contactpersonen en aantoonbare bereikbaarheid in alle delen van de nieuwe gemeente.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "harmonisatie na herindeling",
+        "standpunt": "Bestaande lokale regelingen worden niet vanzelfsprekend geharmoniseerd naar het duurste, bureaucratischste of meest beperkende niveau; maatwerk voor Hilversum, de Meent en de dorpen.",
+        "citaat": "Bestaande lokale regelingen worden niet vanzelfsprekend geharmoniseerd naar het duurste, bureaucratischste of meest beperkende niveau.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verantwoording over de herindeling",
+        "standpunt": "De kosten, personele gevolgen, beloofde besparingen en werkelijke resultaten van de herindeling worden jaarlijks openbaar gemaakt.",
+        "citaat": "De kosten, personele gevolgen, beloofde besparingen en werkelijke resultaten van de herindeling worden jaarlijks openbaar gemaakt.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpen, wijken en buurten",
+        "standpunt": "Dorpen, wijken en buurten krijgen ruimte voor eigen initiatieven en lokaal maatwerk binnen heldere gemeentelijke kaders; besluiten zo dicht mogelijk bij de inwoners.",
+        "citaat": "Dorpen, wijken en buurten krijgen ruimte voor eigen initiatieven en lokaal maatwerk binnen heldere en transparante gemeentelijke kaders.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ombudsfunctie en bezwaar",
+        "standpunt": "Een onafhankelijke ombudsfunctie voor inwoners die vastlopen; bezwaarprocedures worden begrijpelijk, termijnen nageleefd en eerst wordt bemiddeling gezocht.",
+        "citaat": "Een onafhankelijke ombudsfunctie moet bereikbaar zijn voor inwoners die tussen loketten of procedures vastlopen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "openbaarheid van stukken",
+        "standpunt": "Begrotingen, subsidies, aanbestedingen, externe inhuur, grote contracten en uitvoering van raadsbesluiten worden begrijpelijk digitaal toegankelijk gemaakt.",
+        "citaat": "Openbaarheid is de standaard.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bewijslast bij de gemeente",
+        "standpunt": "Bij nieuwe regels, uitgaven en bevoegdheden moet de gemeente aantonen welk probleem zij oplost en waarom een minder ingrijpende oplossing niet volstaat.",
+        "citaat": "Bij nieuwe regels, uitgaven en bevoegdheden moet de gemeente aantonen welk probleem zij oplost, waarom gemeentelijk optreden noodzakelijk is en waarom een minder ingrijpende oplossing niet volstaat.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regels schrappen en evalueren",
+        "standpunt": "Iedere gemeentelijke regel krijgt een reden, verantwoordelijke afdeling en evaluatiemoment; regels waarvan noodzaak of effect niet meer aantoonbaar is worden geschrapt.",
+        "citaat": "Iedere regel krijgt een duidelijke reden, verantwoordelijke afdeling en evaluatiemoment.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vergunning of melding",
+        "standpunt": "Een vergunning wordt alleen geëist als voorafgaande toestemming echt nodig is; waar mogelijk algemene regels of een melding in plaats van een vergunning.",
+        "citaat": "Waar mogelijk kiest de gemeente voor algemene regels of een melding in plaats van een vergunning.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "algoritmeregister en menselijke beoordeling",
+        "standpunt": "Openbaar register van gemeentelijke algoritmen en AI-systemen; besluiten met ingrijpende gevolgen niet uitsluitend door een algoritme.",
+        "citaat": "LFD wil een openbaar register van gemeentelijke algoritmen en AI-systemen.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "persoonlijk en telefonisch contact",
+        "standpunt": "Digitale toegang is een aanvulling; voor essentiële diensten blijft persoonlijk en telefonisch contact bestaan.",
+        "citaat": "Digitale toegang is een aanvulling, geen verplichting.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "raad en college",
+        "standpunt": "De raad moet haar controlerende taak onafhankelijk kunnen uitvoeren en het college informeert de raad volledig, tijdig en juist.",
+        "citaat": "Het college informeert de raad volledig, tijdig en juist.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "informeren is geen participeren",
+        "standpunt": "Een opiniestuk op de partijsite stelt dat informeren geen participeren is en noemt Hilversum daarbij; de inhoud is niet in het materiaal opgenomen, alleen de kop.",
+        "citaat": "Informeren is geen participeren. Behalve in Hilversum",
+        "bron": "extra-home.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "lokale lasten",
+        "standpunt": "De partij wil de lokale lasten verlagen; in het programma blijven belastingen en heffingen zo laag mogelijk en komt verhoging pas na kritische blik op eigen uitgaven.",
+        "citaat": "LFD wil onder meer de lokale lasten verlagen, eigendomsrechten beter beschermen en geen verdere uitbreiding van betaald parkeren.",
+        "bron": "extra-kandidatenlijst.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "belastingverhoging als laatste middel",
+        "standpunt": "Belastingen en heffingen blijven zo laag mogelijk; eerst worden eigen taken, uitgaven, organisatie, externe inhuur en projecten kritisch bekeken.",
+        "citaat": "Belastingen en heffingen blijven zo laag mogelijk.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "nieuwe lokale belasting",
+        "standpunt": "Geen nieuwe lokale belasting zonder aantoonbare noodzaak en volledige openbare onderbouwing.",
+        "citaat": "LFD wil geen nieuwe lokale belasting zonder aantoonbare noodzaak en volledige openbare onderbouwing.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sluitende begroting en reserves",
+        "standpunt": "Sluitende begroting, gezonde reserves en beheersbare schuldenlast; structurele uitgaven uit structurele inkomsten.",
+        "citaat": "LFD streeft naar een sluitende begroting, gezonde reserves en een beheersbare schuldenlast.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "financiële meevallers",
+        "standpunt": "Meevallers leiden niet automatisch tot nieuwe structurele uitgaven maar kunnen naar lastenverlichting, schuldreductie of reserves.",
+        "citaat": "Financiële meevallers leiden niet automatisch tot nieuwe structurele uitgaven.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "totale kosten grote investeringen",
+        "standpunt": "Bij grote investeringen publiceert de gemeente ook financiering, onderhoud, risico's en totale kosten over de levensduur.",
+        "citaat": "Bij grote investeringen publiceert de gemeente niet alleen de aanschafprijs, maar ook financiering, onderhoud, risico’s en totale kosten over de levensduur.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "subsidiebeleid",
+        "standpunt": "Subsidie is een gemotiveerde uitzondering; vrijwillige financiering (contributies, sponsoring, donaties, fondsen, crowdfunding) krijgt de voorkeur.",
+        "citaat": "Gemeentelijke subsidie is een gemotiveerde uitzondering, geen vanzelfsprekend beleidsinstrument.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "einddatum subsidies",
+        "standpunt": "Subsidies krijgen vooraf een einddatum; verlenging is geen automatisme en volgt na openbare beoordeling, waarbij ook wordt bekeken of de subsidie lager kan of kan stoppen.",
+        "citaat": "Subsidies krijgen een vooraf vastgestelde einddatum, tenzij een wettelijke verplichting dit onmogelijk maakt.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "subsidietransparantie",
+        "standpunt": "De gemeente publiceert jaarlijks welke organisaties subsidie ontvingen, voor welk doel, bedrag, voorwaarden en resultaat.",
+        "citaat": "De gemeente publiceert jaarlijks welke organisaties subsidie ontvingen, voor welk doel, voor welk bedrag, onder welke voorwaarden en welk resultaat is bereikt.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geen subsidie voor ideologie",
+        "standpunt": "Publiek geld wordt niet gebruikt om vooral een bepaalde politieke of ideologische richting te ondersteunen.",
+        "citaat": "Publiek geld wordt niet gebruikt om vooral een bepaalde politieke of ideologische richting te ondersteunen.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "externe inhuur",
+        "standpunt": "Externe inhuur wordt kritisch bekeken voordat inwoners om hogere bijdragen wordt gevraagd en wordt openbaar gemaakt.",
+        "citaat": "Voordat inwoners en ondernemers om hogere bijdragen worden gevraagd, kijkt de gemeente eerst kritisch naar eigen taken, uitgaven, organisatie, externe inhuur en projecten.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "toeristenbelasting niet blijven verhogen",
+        "standpunt": "De partij wil voorkomen dat toeristenbelasting steeds opnieuw wordt verhoogd om andere uitgaven te financieren.",
+        "citaat": "Wij willen voorkomen dat toeristenbelasting steeds opnieuw wordt verhoogd om andere gemeentelijke uitgaven te financieren.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "nieuwe projecten toetsen op gemeentelijke taak",
+        "standpunt": "Voor ieder nieuw project moet eerst duidelijk zijn waarom het een gemeentelijke taak is; een efficiënt project is geen goed project als de overheid het niet had hoeven uitvoeren.",
+        "citaat": "Een efficiënt uitgevoerd overheidsproject is nog steeds geen goed project wanneer de overheid het niet had hoeven uitvoeren.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      }
+    ]
+  },
+  "opvallend": [
+    "Wil meer woningsplitsing, optoppen, woningdelen en kwalitatieve hoogbouw en vindt smaak of de wens dat een buurt niet verandert geen reden om woningbouw te blokkeren",
+    "Tegen een algemene 30 km/u-norm, tegen uitbreiding van zero-emissiezones boven wettelijke verplichtingen en tegen de 15-minutenstad als sturingsmodel",
+    "Wil betaald parkeren in bestaande gebieden herbeoordelen en eventueel terugdraaien; stelt geen minimumaantal parkeerplaatsen en acht een appartement zonder parkeerplaats mogelijk",
+    "Noch dwang voor, noch verbod op windturbines en zonnevelden op particuliere grond; geen subsidiegestuurde voorkeur voor een techniek",
+    "Was tegen de invoering van toeristenbelasting en tegen een algemeen vuurwerkverbod",
+    "Wil subsidies standaard een einddatum geven en vrijwillige financiering voorrang geven, ook bij cultuur en sport",
+    "Specifiek brandweerstandpunt: behoud van de beroepsbrandweer in Hilversum en de vrijwillige posten in Loosdrecht, 's-Graveland en Nederhorst den Berg",
+    "Verzet tegen quota en streefcijfers op groepsidentiteit; respect voor thuisonderwijs"
+  ],
+  "dun": [
+    "Geen concrete woningbouwaantallen, locaties of percentages sociale huur/middenhuur genoemd; geen voorrangsregels voor starters of senioren",
+    "Geen lokale dossiers bij naam (stationsgebied, Arenapark, Crailo, Hoorneboeg, Zuidsingel, vliegveld Hilversum, azc-locaties en dergelijke); alleen de Hilversumse Meent, het Media Park en de Loosdrechtse Plassen worden genoemd, zonder concrete plannen",
+    "Weinig over OV, fiets en laadpalen; klimaatadaptatie, warmtenet, aardgasvrij en energiearmoede worden niet behandeld",
+    "Geen standpunt over drugs/coffeeshops, ondermijning, koopzondag, horeca, bedrijventerreinen en het Mediapark als economisch project",
+    "Geen bedragen of percentages voor OZB of bezuinigingen; geen standpunt over zwembaden, dorpshuizen of het gemeentehuis van Wijdemeren",
+    "Het programma noemt geen Forensische woonlocatie Geuzenweg of azc's bij naam; alleen de koppen van opiniestukken op de partijsite verwijzen daarnaar"
+  ]
+}

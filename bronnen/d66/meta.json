@@ -1,0 +1,20 @@
+{
+  "naam": "D66",
+  "lijstnummer": 3,
+  "slug": "d66",
+  "lijsttrekker": "Jarno Deen",
+  "website": "https://d66.nl/hilversum/",
+  "programma_url": "https://media.d66.nl/uploads/sites/44/2026/10/Verkiezingprogramma-D66-Hilversum-2026-2030.pdf",
+  "programma_titel": "Verkiezingsprogramma D66 Hilversum 2026-2030 - Samen sterker (Het kan wél)",
+  "programma_paginas": 55,
+  "programma_woorden": 14047,
+  "opgehaald_op": "2026-11-15",
+  "type": "landelijke partij, lokale afdeling",
+  "achtergrond": "Afdeling van de landelijke D66; programma is gezamenlijk geschreven door de D66-fracties van Hilversum en Wijdemeren voor de nieuwe gemeente. Zetelaantal niet zelfstandig gestaafd.",
+  "bronnen": [
+    "https://media.d66.nl/uploads/sites/44/2026/10/Verkiezingprogramma-D66-Hilversum-2026-2030.pdf",
+    "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/op-wie-kan-ik-stemmen",
+    "https://stemgidshilversum.nl/partijen/d66/"
+  ],
+  "opmerkingen": "Programma is voor de nieuwe gemeente (voorwoord Jarno Deen). Twee-kolomslayout; pdftotext -layout levert leesbare tekst met afbrekingen ('wo-nen'). Zetels niet gestaafd; stemgidshilversum.nl noemt 6 Hilversum / 1 Wijdemeren (niet geverifieerd)."
+}

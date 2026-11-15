@@ -1,0 +1,446 @@
+[
+ {
+  "sleutel": "wonen-dorpsrand|vvd",
+  "id": "wonen-dorpsrand",
+  "slug": "vvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "wonen-dorpsrand",
+   "s": 1,
+   "kern": "Kleine woningbouw aan dorps- en wijkranden, onder strikte voorwaarden.",
+   "toelichting": "De VVD staat positief-kritisch tegenover een 'straatje erbij' aan de rand van dorpen en wijken, maar alleen onder strikte voorwaarden en met draagvlak. Vooral bouwen binnen de kernen blijft de voorkeur.",
+   "citaat": "Kleinschalige woningbouw aan dorps- en wijkranden benaderen we positief-kritisch. Onder strikte voorwaarden en met draagvlak.",
+   "bron": "p. 5",
+   "soort": "programma",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": -1,
+   "kern": "Vooral binnen bestaand gebied; groen rond kernen beschermen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|vvd",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "vvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": 0,
+   "kern": "Nationale verdeling als uitgangspunt, met maatwerk per project.",
+   "toelichting": "De VVD volgt de landelijke verdeling (30% sociaal, 40% midden, 30% vrije sector) als uitgangspunt bij grotere projecten, met maatwerk waar nodig. Bij projecten tot 20 woningen geldt geen verplicht sociaal aandeel. Een hoger lokaal minimum wil de partij niet.",
+   "citaat": "Bij grotere projecten is de bovenstaande verdeling het uitgangspunt, met maatwerk waar nodig.",
+   "bron": "p. 6-7; MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw' (1)",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 2,
+   "kern": "Landelijke 30% volgen, niets extra; kleine projecten vrij",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "wonen-lokale-binding-helft|vvd",
+  "id": "wonen-lokale-binding-helft",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-lokale-binding-helft",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Doorstromers binnen Hilversum voorrang bij nieuwbouw",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "wonen-parkeernorm|vvd",
+  "id": "wonen-parkeernorm",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-parkeernorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Parkeernorm geen obstakel; transformatie zonder parkeernorm",
+   "basis": "programma p.5"
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|vvd",
+  "id": "verkeer-eerste-uur",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "overdag betalen bij winkels is logisch om plekken te verdelen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|vvd",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Geen windmolens, niet op de hei, niet in het weiland",
+   "basis": "programma p.26"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|vvd",
+  "id": "klimaat-zon-boerenland",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Kernenergie beter alternatief dan zonneparken",
+   "basis": "programma p.26"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|vvd",
+  "id": "natuur-groennorm",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "groen mag soms wijken als het echt niet anders kan",
+   "basis": "hilversumsnieuws, afgeleid"
+  }
+ },
+ {
+  "sleutel": "natuur-bomen|vvd",
+  "id": "natuur-bomen",
+  "slug": "vvd",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "natuur-bomen",
+   "s": 1,
+   "kern": "Bomen mogen soms wijken, als het echt niet anders kan.",
+   "toelichting": "De VVD vindt dat bomen soms mogen wijken voor bouw of mobiliteit, maar alleen als het echt niet anders kan. Over herplanten van een nieuwe boom zegt de partij niets.",
+   "citaat": "Wat de VVD betreft mag dat, als het echt niet anders kan, soms best ten koste gaan van een paar bomen, maar we willen ook niet gaan bouwen op de hei.",
+   "bron": "Hilversums Nieuws, 22-10-2026: 'Hilversum moet desnoods groen opofferen om woningnood aan te pakken'",
+   "soort": "hilversumsnieuws",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null
+  }
+ },
+ {
+  "sleutel": "zorg-wmo-zonderindicatie|vvd",
+  "id": "zorg-wmo-zonderindicatie",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-wmo-zonderindicatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "meer hulp in het voorveld zonder indicatie",
+   "basis": "programma p.19"
+  }
+ },
+ {
+  "sleutel": "zorg-buurthuis-elkewijk|vvd",
+  "id": "zorg-buurthuis-elkewijk",
+  "slug": "vvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "zorg-buurthuis-elkewijk",
+   "s": 1,
+   "kern": "Ontmoetingsplekken waar behoefte is, niet overal een buurthuis.",
+   "toelichting": "De VVD zou graag overal een buurthuis hebben, maar vindt dat financieel waarschijnlijk niet haalbaar. Ze wil investeren in goede ontmoetingsplekken waar daar behoefte aan is en helpen bij betaalbare ruimtes.",
+   "citaat": "De VVD zou graag in alle wijken en dorpen een buurthuis hebben, maar dat is waarschijnlijk financieel niet haalbaar. Daarom willen we vooral investeren in goede ontmoetingsplekken waar daar behoefte aan is.",
+   "bron": "MijnStem: 'In alle wijken en dorpen een buurthuis openen' (91); p. 21",
+   "soort": "mijnstem",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": -1,
+   "kern": "zou het willen, maar financieel niet haalbaar; alleen waar behoefte",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|vvd",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "vvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": 1,
+   "kern": "Betere verlichting op onverlichte fietspaden, zoals de N201.",
+   "toelichting": "De VVD wil onverlichte fietstrajecten in het buitengebied, zoals langs de N201, voorzien van adequate verlichting. Of dat bewegingsgestuurde lampen moeten zijn, zegt het programma niet.",
+   "citaat": "Verlichting fietsroutes: vergroten van de fietsveiligheid in de openbare ruimte door onverlichte fietstrajecten in het buitengebied, zoals de N201, te voorzien van adequate verlichting.",
+   "bron": "p. 12",
+   "soort": "programma",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": -1,
+   "kern": "onverlichte fietstrajecten zoals de N201 goed verlichten",
+   "basis": "programma p.12"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|vvd",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "kritisch, maar de Spreidingswet is ook een wet",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "asiel-welkomstprogramma|vvd",
+  "id": "asiel-welkomstprogramma",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-welkomstprogramma",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "integratie in de wijk via verenigingen en vrijwilligers",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "economie-centrum-compacter|vvd",
+  "id": "economie-centrum-compacter",
+  "slug": "vvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "economie-centrum-compacter",
+   "s": 1,
+   "kern": "Winkels stimuleren naar een compacter centrum.",
+   "toelichting": "De VVD stimuleert winkels om naar een compacter centrum te verhuizen en maakte winkels-naar-woningen in aanloopstraten mogelijk. In de wijkcentra en dorpskernen beschermt ze winkels juist tegen omzetting naar wonen.",
+   "citaat": "Winkels worden gestimuleerd om naar een compacter centrum te verhuizen.",
+   "bron": "p. 14; p. 5; p. 16",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "winkelfuncties beschermen tegen omzetting naar wonen",
+   "basis": "programma p.16"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|vvd",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "recreatie is geen restpost maar een speerpunt",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|vvd",
+  "id": "cultuur-budget-niveau",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "kritisch op cultuursubsidies: niet alles kan",
+   "basis": "programma p.24"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|vvd",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "raad is instrument om te betrekken; liever dorpswethouders",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|vvd",
+  "id": "bestuur-referendum-advies",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "geen voorstander van referenda",
+   "basis": "programma p.28"
+  }
+ },
+ {
+  "sleutel": "financien-ozb-meestijgen|vvd",
+  "id": "financien-ozb-meestijgen",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-ozb-meestijgen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "woonlasten stijgen hooguit met inflatie",
+   "basis": "programma p.29"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|vvd",
+  "id": "financien-subsidies-korten",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "kritisch op cultuursubsidies; niet alles kan",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-centrum-sober|vvd",
+  "id": "financien-centrum-sober",
+  "slug": "vvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-centrum-sober",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "tegen een soberder Kerkbrink",
+   "basis": "stemgids"
+  }
+ }
+]

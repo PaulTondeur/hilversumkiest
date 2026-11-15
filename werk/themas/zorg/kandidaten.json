@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "zorg-minima-grens",
+    "onderwerp": "inkomensgrens minimaregelingen",
+    "kop": "Minimaregelingen alleen op bijstandsniveau",
+    "stelling": "Alleen inwoners met een inkomen op bijstandsniveau krijgen nog minimaregelingen, zoals hulp bij schoolkosten, sport of de collectieve zorgverzekering.",
+    "uitleg": "Hilversum geeft minimaregelingen aan inwoners met een inkomen tot 130% van het sociaal minimum, dus ook aan werkenden met een laag loon; in Wijdemeren ligt die grens nu lager. Na de fusie moet de nieuwe gemeente één grens kiezen. Een lagere grens kost minder geld en maakt meer verdienen aantrekkelijker; een hogere grens helpt ook mensen die net boven de bijstand zitten.",
+    "voor": "Steun alleen op bijstandsniveau voorkomt dat iemand die meer gaat verdienen er netto op achteruitgaat, en houdt de regelingen betaalbaar.",
+    "tegen": "Ook werkenden en gepensioneerden net boven de bijstand komen vaak niet rond, en die groep valt dan buiten elke hulp.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -2,
+        "kern": "minimaregelingen tot 130%, ook voor werkenden",
+        "basis": "programma p.10 | mijnstem"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "grens blijft 130% van de bijstandsnorm",
+        "basis": "programma p.15 | mijnstem"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "niet bezuinigen op grens van 130%",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "minimaregelingen alleen bij inkomen op bijstandsnorm (100%)",
+        "basis": "programma p.19 | mijnstem"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "meedoen ook boven minimum, met nadruk op werk",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "armoederegeling op 130% houden",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "130% voor hele nieuwe gemeente, ook de dorpen",
+        "basis": "programma p.16 | mijnstem"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "grens blijft op 130%",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "steun ook net boven bijstand, maar gericht op zelfredzaamheid",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "steun ook net boven bijstand als het echt nodig is",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "130%-grens in stand houden",
+        "basis": "programma p.31 | mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "vangnet gericht op wie echt niet rondkomt; bijstandsniveau",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "mensen net boven bijstand gericht ondersteunen",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "minimaal 130% van bijstandsniveau",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "minimabeleid tot 130%, ook vermogensnormen",
+        "basis": "programma p.37 | mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "maatwerk; kijk naar situatie in plaats van harde grens",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "130% om de armoedeval te beperken",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "geld voor wie het nodig heeft, liefst zonder losse regelingen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "grens van 110%, gericht op laagste inkomens",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "kiest voor 130%, ook voor werkenden",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "VVD, Dorp voor Dorp en FVD staan tegenover vrijwel alle anderen; scheidt Dorp voor Dorp van de andere lokale partijen en VVD/FVD van BBB, LFD en BVNL.",
+    "twijfel": "Haalt de kwart-eis niet (3 eens, 1 midden, 16 oneens); toch opgenomen omdat het het centrale armoededossier is en voor de paren VVD-CDA, DvD-Gewoon Hilversum en FVD-BBB direct scheidt. HvH en D66 stemden in 2020-2021 nog vóór verlaging naar 120%; hun huidige programma zegt 130%."
+  },
+  {
+    "id": "zorg-minima-vrijbudget",
+    "onderwerp": "vorm van armoedehulp",
+    "kop": "Eén vrij besteedbaar budget",
+    "stelling": "De gemeente voegt de losse minimaregelingen samen tot één geldbedrag dat inwoners zelf mogen besteden, zonder bonnetjes in te leveren.",
+    "uitleg": "Inwoners met een laag inkomen moeten nu voor elke regeling apart aanvragen en vaak met bonnetjes bewijzen waaraan ze het geld uitgaven, bijvoorbeeld bij het Kindpakket of de sportregeling. Een vrij budget, zoals het 'Maatschappelijk Meedoen Budget' in Wageningen, geeft mensen zelf de keus. Gerichte regelingen of een pas houden juist zicht op waar het geld heen gaat.",
+    "voor": "Eén bedrag zonder bewijsplicht scheelt papierwerk en wantrouwen, en mensen weten zelf het best wat ze nodig hebben.",
+    "tegen": "Met gerichte regelingen of een pas weet je zeker dat het geld naar kinderen, sport of school gaat in plaats van naar vaste lasten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "onderzoekt Maatschappelijk Meedoen Budget zonder bonnetjes",
+        "basis": "programma p.16"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "inkomen automatisch aanvullen tot Nibud-bestaansminimum",
+        "basis": "programma p.28"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -1,
+        "kern": "liever Gooise Pas voor kindpakket, sport, schoolreisjes en OV",
+        "basis": "programma p.16"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "liefst een vorm van basisinkomen",
+        "basis": "programma p.10"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "vraagt het Rijk om pilot met basisinkomen",
+        "basis": "programma p.37"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 2,
+        "kern": "alle regelingen in één vrij te besteden persoonlijk budget",
+        "basis": "programma p.27"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt SP (gerichte pas) van Volt, D66 en PRO (vrij budget) binnen links; van de overige lijsten is geen positie bekend.",
+    "twijfel": "Haalt de kwart-eis niet door gebrek aan bekende posities aan de oneens-kant (5 eens, 1 oneens, 14 onbekend). Waardevol als tweede laag om links onderling te scheiden."
+  },
+  {
+    "id": "zorg-wmo-kwijtschelding",
+    "onderwerp": "eigen bijdrage Wmo",
+    "kop": "Wmo-bijdrage kwijtschelden lage inkomens",
+    "stelling": "De gemeente scheldt de eigen bijdrage voor Wmo-hulp kwijt voor inwoners met een inkomen tot 130% van het sociaal minimum.",
+    "uitleg": "Wie hulp uit de Wmo krijgt, zoals huishoudelijke hulp, begeleiding of een hulpmiddel, betaalt een eigen bijdrage: nu een vast bedrag per maand. Hilversum schold die bijdrage eerder kwijt voor lage inkomens; voorstellen in 2024 en 2025 om dat te behouden of terug te brengen kregen geen meerderheid. Kwijtschelding kost de gemeente geld dat elders gevonden moet worden.",
+    "voor": "Voor mensen met weinig geld is ook een klein maandbedrag een reden om hulp te mijden, met zwaardere zorg later als gevolg.",
+    "tegen": "Het vaste bedrag is al laag en de gemeente kan het geld beter besteden aan de hulp zelf dan aan het kwijtschelden van bijdragen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "stemde in 2025 voor, in 2024 tegen",
+        "basis": "stemgedrag"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "GL en PvdA stemden tegen; wil liever inkomensafhankelijke bijdrage",
+        "basis": "stemgedrag | programma p.13"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "stemde in 2024 en 2025 tegen",
+        "basis": "stemgedrag"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "stemde tegen; minimaregelingen alleen op bijstandsniveau",
+        "basis": "stemgedrag | programma p.19"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "stemde in 2024 en 2025 tegen",
+        "basis": "stemgedrag"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": 2,
+        "kern": "stemde twee keer voor kwijtschelding tot 130%",
+        "basis": "stemgedrag"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "stemde voor; eigen bijdrage mag nooit tot zorgmijding leiden",
+        "basis": "stemgedrag | programma p.11"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "stemde in 2024 voor behoud kwijtschelding",
+        "basis": "stemgedrag"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "stemde in 2025 voor opnieuw invoeren",
+        "basis": "stemgedrag"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "vermogensnorm voor kwijtschelding Wmo-bijdrage gelijk aan 130%",
+        "basis": "programma p.37"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "SP, ChristenUnie, Opstand.nu en HvH tegenover PRO, D66, CDA en VVD; scheidt SP van PRO en ChristenUnie van CDA en D66.",
+    "twijfel": "Posities van PRO berusten op het stemgedrag van GroenLinks en PvdA in de Hilversumse raad; de fracties uit Wijdemeren zijn niet meegeteld. HvH stemde wisselend."
+  },
+  {
+    "id": "zorg-wmo-inkomen",
+    "onderwerp": "eigen bijdrage Wmo",
+    "kop": "Wmo-bijdrage naar inkomen",
+    "stelling": "Wie een hoger inkomen heeft, betaalt een hogere eigen bijdrage voor Wmo-hulp, zoals huishoudelijke hulp.",
+    "uitleg": "Sinds 2019 betaalt iedereen met Wmo-hulp hetzelfde lage maandbedrag, ongeacht inkomen. Het Rijk bereidt een wet voor waarmee gemeenten de bijdrage weer van het inkomen kunnen laten afhangen. De keuze is of mensen met meer geld meer moeten meebetalen aan hun eigen zorg, of dat dit via de gewone belastingen loopt.",
+    "voor": "Wie het kan betalen, draagt zelf meer bij, zodat er geld overblijft voor mensen die echt afhankelijk zijn van hulp.",
+    "tegen": "Een inkomenstoets aan het loket leidt tot meer papierwerk en zorgmijding; hogere inkomens dragen al bij via de belasting.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "werkt toe naar inkomensafhankelijke Wmo-bijdrage",
+        "basis": "programma p.13"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "kijkt bij hulp ook naar eigen draagkracht",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "geen inkomenstoets aan het loket; bijdrage laag en gelijk",
+        "basis": "programma p.18"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "eigen bijdrage mag nooit tot zorgmijding leiden",
+        "basis": "afgeleid"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "eerst kijken wat iemand zelf kan regelen of inkopen",
+        "basis": "afgeleid"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt PRO van SP binnen links, en Lokaal Eén van andere lokale partijen; de meeste lijsten zeggen er niets over.",
+    "twijfel": "Veel onbekende posities (15). FVD en ChristenUnie zijn afgeleid uit algemene uitspraken. Hangt af van landelijke wetgeving."
+  },
+  {
+    "id": "zorg-wmo-zonderindicatie",
+    "onderwerp": "toegang tot Wmo-hulp",
+    "kop": "Lichte hulp zonder aanvraag",
+    "stelling": "Lichte hulp, zoals huishoudelijke hulp of dagbesteding, is zoveel mogelijk zonder aanvraag en beoordeling te krijgen, ook als die hulp minder op maat is.",
+    "uitleg": "Bij de Wmo kan de gemeente hulp regelen als 'algemene voorziening' (vrij binnenlopen, voor iedereen hetzelfde, zonder indicatie) of als maatwerk na een persoonlijk onderzoek en besluit. Hilversum heeft bijvoorbeeld dagbesteding al vrij toegankelijk gemaakt. Algemene voorzieningen zijn sneller en goedkoper; maatwerk past beter bij de persoon en geeft meer rechten om bezwaar te maken.",
+    "voor": "Zonder aanvraag krijgen meer mensen sneller hulp, met minder bureaucratie en zonder dat de kosten evenredig stijgen.",
+    "tegen": "Mensen hebben recht op hulp die bij hun situatie past, met een besluit waartegen ze bezwaar kunnen maken.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "activiteiten zonder indicatie uitbreiden; maatwerk bij complexe vragen",
+        "basis": "programma p.12"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "meer hulp in het voorveld zonder indicatie",
+        "basis": "programma p.19"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "zorg zoveel mogelijk als algemene voorziening zonder indicatie",
+        "basis": "programma p.32"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -2,
+        "kern": "bij Wmo-aanvragen maatwerk boven algemene voorziening",
+        "basis": "programma p.19"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "maatwerk als mensen het niet alleen redden; pgb behouden",
+        "basis": "programma p.11"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "snellere, gemotiveerde besluiten op maatwerk",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 1,
+        "kern": "welzijn biedt eenvoudige hulp sneller aan",
+        "basis": "programma p.29"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "passende zorg via heldere indicatie, Wmo of pgb",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "CDA, PRO, VVD en Volt tegenover SP, ChristenUnie, BVNL en FVD; scheidt CDA van ChristenUnie, PRO van SP en VVD van FVD.",
+    "twijfel": "VVD en PRO spreken vooral over jeugdhulp en activiteiten; doortrekken naar huishoudelijke hulp is een interpretatie. 'Zonder aanvraag' moet in de eindredactie misschien concreter."
+  },
+  {
+    "id": "zorg-aanbieders-een",
+    "onderwerp": "zorgaanbieders en marktwerking",
+    "kop": "Eén zorgaanbieder per wijk",
+    "stelling": "Per wijk of dorp werkt de gemeente met één vaste zorgaanbieder voor jeugdhulp en Wmo, ook als inwoners dan minder te kiezen hebben.",
+    "uitleg": "De gemeente koopt jeugdhulp en Wmo-hulp in bij veel verschillende zorgbedrijven; in een wijk zijn soms twaalf aanbieders actief. Minder aanbieders geeft vaste gezichten en meer grip op kwaliteit en kosten. Meer aanbieders geeft inwoners keuze, bijvoorbeeld voor zorg die bij hun geloof of situatie past, en uitwijkmogelijkheden bij wachtlijsten.",
+    "voor": "Eén vaste aanbieder kent de wijk, geeft rust bij zorgverleners en maakt het makkelijker om kwaliteit te controleren.",
+    "tegen": "Inwoners moeten kunnen kiezen wie hen helpt, en bij één aanbieder zit je vast als die slecht presteert of een wachtlijst heeft.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "liefst één aanbieder per wijk of dorp in plaats van twaalf",
+        "basis": "programma p.13"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": 1,
+        "kern": "wil zorg minder via markt; huishoudelijke hulp in eigen beheer",
+        "basis": "programma p.18"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "pgb behouden, ook voor identiteitsgebonden zorg",
+        "basis": "programma p.11"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "inwoners moeten kunnen kiezen tussen aanbieders",
+        "basis": "programma p.29"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "één centraal expertisepunt in plaats van losse hulpaanbieders",
+        "basis": "programma p.28"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "zorg zelf kunnen inkopen of via pgb",
+        "basis": "afgeleid"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "bij wachtlijsten uitwijken naar aanbieders buiten de gemeente",
+        "basis": "programma p.12"
+      }
+    },
+    "spreiding": "PRO, SP en Volt tegenover LFD, BBB, ChristenUnie en FVD; scheidt ChristenUnie van PRO en LFD van VVD (die geen positie heeft).",
+    "twijfel": "SP wil eigenlijk zorg in eigen beheer (geen markt); Volt's expertisepunt gaat over jeugd, niet over Wmo. FVD afgeleid uit pgb-uitspraak."
+  },
+  {
+    "id": "zorg-jeugd-besparing",
+    "onderwerp": "geld voor jeugdzorg",
+    "kop": "Besparing jeugdzorg gaat door",
+    "stelling": "De geplande besparing van miljoenen op de jeugdzorg in 2029 en 2030 gaat door.",
+    "uitleg": "De kosten van jeugdzorg stijgen al jaren harder dan het geld dat de gemeente van het Rijk krijgt. In de begroting staat een besparing op jeugdzorg voor 2029 en 2030, vooral door meer lichte hulp via school en wijkteam en minder zware zorg. Een voorstel om die besparing te schrappen kreeg in juli 2026 geen meerderheid.",
+    "voor": "Zonder besparing loopt het tekort op en gaat het geld ten koste van andere voorzieningen; met snelle lichte hulp kan het ook goedkoper.",
+    "tegen": "Een vast bedrag besparen terwijl er wachtlijsten zijn, raakt kinderen die nu al te lang op hulp wachten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "in principe meer geld als nodig, geen blanco cheque",
+        "basis": "stemgids | stemgedrag"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "niet bezuinigen als hulp wegvalt; stemde wel tegen schrappen",
+        "basis": "stemgids | stemgedrag"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "preventie en specialistische hulp; fractie verdeeld",
+        "basis": "stemgids | stemgedrag"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "stemde tegen schrappen; vindt besparing nodig",
+        "basis": "stemgids | stemgedrag"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "jeugdzorg anders organiseren; stemde tegen schrappen besparing",
+        "basis": "stemgids | stemgedrag"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "transitie loopt; vroegsignalering voorkomt extra uitgaven",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "stemde voor schrappen van de besparing",
+        "basis": "stemgids | stemgedrag"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "kosten moeten omlaag, maar niet ten koste van kwaliteit",
+        "basis": "stemgids | stemgedrag"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "bespaar op bureaucratie, niet op noodzakelijke zorg",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -2,
+        "kern": "stemde voor schrappen; noodzakelijke hulp mag niet verdwijnen",
+        "basis": "stemgids | stemgedrag | programma p.5"
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "tegen miljoenenbezuiniging op jeugdzorg",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "jeugdzorg hervormen in plaats van korten",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "niet botweg bezuinigen, wel slimmer organiseren",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "stemde voor schrappen van de besparing",
+        "basis": "stemgids | stemgedrag"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "meer budget voor jeugd-ggz, wachtlijsten omlaag",
+        "basis": "stemgids | programma p.63"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "niet bezuinigen, wel kijken of middelen goed worden ingezet",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "bespaar op het systeem, niet op hulp",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "hulp anders organiseren vanuit scholen",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "stemde voor schrappen; specialistische zorg moet blijven",
+        "basis": "stemgids | stemgedrag"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "tegen kille bezuinigingsdrang op jeugdzorg",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "VVD, CDA en ChristenUnie tegenover SP, Opstand.nu, SCB, PvdD en BBB; scheidt PRO (stemde voor de besparing) van SP en Opstand.nu, en VVD van FVD en BBB.",
+    "twijfel": "Haalt de kwart-eis net niet (3 eens, 3 midden, 14 oneens). PRO's stemgidsantwoord ('voor', dus tegen bezuinigen) botst met het stemgedrag van GL en PvdA; daarom 0. ChristenUnie en CDA zijn alleen 'eens met voorbehoud'."
+  },
+  {
+    "id": "zorg-bijstand-tegenprestatie",
+    "onderwerp": "voorwaarden bijstand",
+    "kop": "Tegenprestatie voor bijstand",
+    "stelling": "Wie bijstand krijgt en kan werken, moet iets terugdoen voor de samenleving, zoals vrijwilligerswerk.",
+    "uitleg": "De Participatiewet geeft gemeenten de mogelijkheid om van mensen in de bijstand een tegenprestatie te vragen, zoals vrijwilligerswerk of klussen in de buurt. Gemeenten bepalen zelf of en hoe streng ze dat toepassen. Voorstanders zien het als wederkerigheid; tegenstanders als dwang die mensen niet helpt aan werk.",
+    "voor": "Wie een uitkering krijgt van de gemeenschap, mag ook iets teruggeven; dat houdt mensen bovendien actief en in contact.",
+    "tegen": "Verplichte klusjes voelen als straf, verdringen gewoon werk en helpen mensen niet aan een baan.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "van uitkeringsontvangers mag een bijdrage aan de samenleving worden verwacht",
+        "basis": "programma p.18"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "duidelijke grens bij niet willen werken",
+        "basis": "programma p.20"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "iedereen doet mee naar vermogen; vrijwilligerswerk telt ook",
+        "basis": "programma p.31"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "geen verplichte tegenprestatie voor een uitkering",
+        "basis": "programma p.51"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "eigen inzet verwacht van nieuwkomers; vrijwilligerswerk als opstap",
+        "basis": "programma p.30"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "'meedoen' is verkapte arbeidsdwang; bestaanszekerheid voorop",
+        "basis": "programma p.10"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "uitkeringsgerechtigden niet verplichten tot vrijwilligerswerk",
+        "basis": "programma p.37"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "afspraken individueel en tijdelijk; geen gratis arbeidskrachten",
+        "basis": "programma p.26"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "actieve tegenprestatie hoort bij de uitkering; sancties bij weigeren",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "VVD, FVD en ChristenUnie tegenover Dorp voor Dorp, PvdD en Opstand.nu; scheidt Dorp voor Dorp van VVD en FVD, LFD van FVD, en ChristenUnie van PvdD.",
+    "twijfel": "Positie van Stop Betaald Parkeren-VIP gaat over nieuwkomers, niet over alle bijstandsontvangers. Van PRO, D66, CDA, SP en de meeste lokale partijen geen positie gevonden."
+  },
+  {
+    "id": "zorg-bijstand-controle",
+    "onderwerp": "voorwaarden bijstand",
+    "kop": "Strenger zoeken naar uitkeringsfraude",
+    "stelling": "Om bijstandsfraude op te sporen mag de gemeente gegevens uit verschillende bestanden koppelen en anonieme meldingen onderzoeken.",
+    "uitleg": "Gemeenten controleren of mensen terecht een uitkering krijgen. Sommige gemeenten koppelen daarvoor bestanden of hebben een meldpunt waar inwoners anoniem vermoedens kunnen doorgeven. Na de toeslagenaffaire is er kritiek op opsporing op basis van vermoedens en algoritmen.",
+    "voor": "Fraude ondermijnt het draagvlak voor de bijstand; wie de regels ontduikt, moet gevonden kunnen worden.",
+    "tegen": "Opsporen op basis van tips en gekoppelde bestanden zet onschuldige mensen onder verdenking, zoals de toeslagenaffaire liet zien.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "niet als fraudeur bestempelen op vermoedens of algoritmen; wel grens bij misbruik",
+        "basis": "programma p.20"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "uitvoering zonder wantrouwen en vernedering",
+        "basis": "programma p.10"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "geen kliklijn over uitkeringsfraude",
+        "basis": "programma p.38"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "gegevens alleen als noodzakelijk en proportioneel; geen institutioneel wantrouwen",
+        "basis": "programma p.12"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "vertrouwen in plaats van steeds opnieuw bewijzen",
+        "basis": "programma p.27"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "gegevenskoppeling en anoniem melden; volledig terugvorderen met boete",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "FVD tegenover ChristenUnie, LFD, Opstand.nu, Volt en PvdD; scheidt FVD van LFD binnen rechts.",
+    "twijfel": "Haalt de kwart-eis niet (1 eens, 5 oneens, 14 onbekend). VVD, BBB, BVNL en CDA zeggen niets over fraudecontrole in de bijstand. Alleen houden als de eindredactie rechts onderling wil scheiden."
+  },
+  {
+    "id": "zorg-buurthuis-elkewijk",
+    "onderwerp": "buurthuizen en ontmoeting",
+    "kop": "Gemeente betaalt ontmoetingsplek overal",
+    "stelling": "In elk dorp en elke wijk zonder buurthuis zorgt de gemeente voor een ontmoetingsplek, en betaalt zij die.",
+    "uitleg": "Niet elke wijk of elk dorp heeft een buurthuis of dorpshuis; in sommige dorpen draaien plekken zoals de Buurtkamer 3D (Kortenhoef, 's-Graveland, Ankeveen) op vrijwilligers. Een ontmoetingsplek helpt tegen eenzaamheid, maar kost geld voor ruimte en begeleiding. De keuze is of de gemeente dat overal regelt en betaalt, of overlaat aan bewoners waar die behoefte er is.",
+    "voor": "Een plek om elkaar te ontmoeten is een basisvoorziening en de goedkoopste manier om eenzaamheid en zwaardere zorg te voorkomen.",
+    "tegen": "Niet elke buurt heeft er behoefte aan; als bewoners een plek willen, kunnen zij die zelf organiseren met steun van de gemeente.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "in elke wijk en elk dorp een ontmoetingsplek, in bestaande gebouwen",
+        "basis": "programma p.12 | mijnstem"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "buurtkamer in elke wijk of dorp zonder buurthuis",
+        "basis": "programma p.7 | mijnstem"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "buurthuis is middel, geen doel; vorm per buurt",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "zou het willen, maar financieel niet haalbaar; alleen waar behoefte",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "in elke wijk en dorp een aanlandplek, bij voorkeur bestaand",
+        "basis": "programma p.37 | mijnstem"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "overal ruimte voor ontmoeting in bestaande locaties",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "buurthuis in elke wijk en elk dorp",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "goede ontmoetingsplek, vorm mag verschillen",
+        "basis": "mijnstem | programma p.12"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "bewoners kunnen dit zelf organiseren; gemeente faciliteert",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 2,
+        "kern": "buurthuizen belangrijk tegen eenzaamheid",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "ieder dorp en iedere buurt een ontmoetingsplek",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "kernwaarde: jouw plek in jouw buurt",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "maatwerk; bestaande ruimtes slimmer delen",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "waar behoefte is, met voorrang voor wijken met meeste behoefte",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "investeren in buurthuizen en ontmoetingsplekken",
+        "basis": "programma p.61 | mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "ontmoetingsruimte als basisvoorziening",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "bestaande voorzieningen en initiatieven gaan voor",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "dorpen en wijken beslissen zelf; starters worden geholpen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "eerst aantonen dat bestaande centra niet voldoen",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "buurthuis in elke wijk en elk dorp, gedragen door inwoners",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Linkse en de meeste lokale lijsten tegenover BVNL, FVD, LFD, D66 en VVD; scheidt BBB en SCB van BVNL, FVD en LFD binnen rechts, en D66 van PRO en Volt.",
+    "twijfel": "Gebaseerd op MijnStem-schuifbalken; het 'en betaalt zij die' maakt het scherper dan MijnStem, waardoor VVD op -1 staat ondanks score 91. CDA en Lokaal Eén willen vooral bestaande plekken benutten."
+  },
+  {
+    "id": "zorg-buurthuis-jaarsubsidie",
+    "onderwerp": "buurthuizen en ontmoeting",
+    "kop": "Buurthuissubsidie elk jaar toetsen",
+    "stelling": "De gemeente beoordeelt de subsidie van buurthuizen en wijkcentra elk jaar opnieuw, op basis van wat ze hebben bereikt.",
+    "uitleg": "Wijk- en buurtcentra krijgen nu elk jaar opnieuw subsidie en moeten die elk jaar aanvragen en verantwoorden. Een voorstel om ze voor vijf jaar subsidie te geven kreeg in november 2025 geen meerderheid. Jaarlijks toetsen geeft de raad grip op het geld; meerjarige subsidie geeft vrijwilligers zekerheid en minder papierwerk.",
+    "voor": "Gemeenschapsgeld moet controleerbaar worden besteed; jaarlijks kijken voorkomt dat subsidie een automatisme wordt.",
+    "tegen": "Buurthuizen draaien op vrijwilligers die niet elk jaar opnieuw kunnen vrezen voor hun geld en verdrinken in formulieren.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -2,
+        "kern": "langjarige subsidie; diende motie mee in",
+        "basis": "stemgids | stemgedrag | programma p.12"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "voor meerjarige subsidie, maar niet langer dan raadsperiode",
+        "basis": "stemgids | stemgedrag"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "doorlopend toetsen op effectiviteit; stemde tegen vijf jaar",
+        "basis": "stemgids | stemgedrag"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "tegen vijfjarige subsidie",
+        "basis": "stemgids | stemgedrag"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "stemde tegen vijfjarige subsidie",
+        "basis": "stemgedrag"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "vijf jaar vooraf toezeggen ontneemt eigen initiatief",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "stemde voor vijfjarige subsidie",
+        "basis": "stemgids | stemgedrag"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "stemgids voor meerjarig, stemde wel tegen vijf jaar",
+        "basis": "stemgids | stemgedrag"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "meerjarig alleen bij aantoonbaar succes, met evaluaties",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "meerjarige zekerheid voor vrijwilligers",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "zekerheid nodig voor activiteiten",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "langetermijnplanning nodig",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -2,
+        "kern": "vijf jaar zekerheid, geen overbodig papierwerk",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "stemde voor vijfjarige subsidie",
+        "basis": "stemgids | stemgedrag"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "vijf jaar subsidie",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "basissubsidie vijf jaar met jaarlijkse evaluatie op locatie",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "subsidie geen automatisme; regelmatig toetsen",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "vijf jaar subsidie helpt bewoners organiseren",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "jaarlijkse verantwoording met aantoonbare resultaten",
+        "basis": "stemgids | stemgedrag"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "jaarlijkse aanvragen geven onnodige druk",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "VVD, FVD, LFD, D66, CDA en Lokaal Eén tegenover HvH, SP, Opstand.nu, BBB en Stop Betaald Parkeren-VIP; scheidt BBB van VVD/FVD/LFD, Lokaal Eén van HvH en Gewoon Hilversum, en PRO van SP.",
+    "twijfel": "ChristenUnie antwoordde in de Stemgids voor, maar stemde tegen de motie; daarom 0. CDA staat niet in de Stemgids; positie alleen uit stemgedrag. Bewust omgedraaid ten opzichte van de Stemgids-stelling."
+  },
+  {
+    "id": "zorg-mantelzorg-geld",
+    "onderwerp": "mantelzorg",
+    "kop": "Mantelzorggeld naar praktische hulp",
+    "stelling": "Het geld voor mantelzorgers gaat naar praktische hulp zoals vervangende zorg, in plaats van naar een jaarlijks geldbedrag per mantelzorger.",
+    "uitleg": "Gemeenten geven mantelzorgers vaak een jaarlijkse waardering in geld of cadeaubonnen, en betalen daarnaast ondersteuning zoals respijtzorg (iemand neemt de zorg tijdelijk over) en advies. In Hilversum is het bedrag van de mantelzorgwaardering de afgelopen jaren verlaagd. De keuze is waar het beperkte budget het meest oplevert.",
+    "voor": "Vervangende zorg en praktische steun voorkomen dat mantelzorgers overbelast raken; een klein bedrag per jaar doet dat niet.",
+    "tegen": "Een geldbedrag is een directe erkenning voor wat mantelzorgers doen en helpt hen met kosten die ze maken.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": 1,
+        "kern": "mantelzorgagenda voortzetten met respijtzorg",
+        "basis": "afgeleid"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -2,
+        "kern": "waardering terug naar bedrag van voor de verlaging",
+        "basis": "programma p.19"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "financiële steun voor mantelzorgers",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "mantelzorgvergoeding weer toekennen, plus respijtzorg",
+        "basis": "programma p.30"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "mantelzorgers (financieel) ondersteunen",
+        "basis": "programma p.64"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 1,
+        "kern": "mantelzorgtafel per dorp of wijk bepaalt besteding; praktische hulp",
+        "basis": "programma p.29"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt Gewoon Hilversum en SP van Volt en CDA; alle lijsten willen mantelzorgers steunen, maar alleen enkelen kiezen voor geld.",
+    "twijfel": "Haalt de kwart-eis niet door onbekende posities (2 eens, 4 oneens, 14 onbekend). CDA's positie is afgeleid uit hun nadruk op respijtzorg; dat zij de verlaging steunden is niet vastgesteld. Feit over verlaging komt uit het SP-programma; nagaan."
+  },
+  {
+    "id": "zorg-preventie-ongezond",
+    "onderwerp": "preventie en gezondheid",
+    "kop": "Snackbars en vapeshops weren",
+    "stelling": "De gemeente stelt regels om nieuwe snackbars en vapeshops te weren, vooral in de buurt van scholen.",
+    "uitleg": "In leegstaande winkelpanden komen steeds vaker fastfoodzaken, en rond scholen zitten tabakswinkels en vapeshops. Met bestemmingsplannen, vergunningen of 'brancheringsbeleid' kan de gemeente sturen welke winkels waar mogen komen. Dat helpt de gezondheid van jongeren, maar beperkt ondernemers en de keuze van inwoners.",
+    "voor": "Kinderen worden dagelijks verleid tot ongezond eten en roken; de gemeente kan dat rond scholen beperken.",
+    "tegen": "Wat mensen eten of kopen is hun eigen keuze; de gemeente moet ondernemers niet tegenhouden om gezondheidsredenen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "brancheringsbeleid met minder fastfood; reclame ongezond beperken via APV",
+        "basis": "programma p.12"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "geen nieuwe tabakswinkels en vapeshops bij scholen",
+        "basis": "programma p.26"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "nieuwe fastfoodketens weren; geen reclame voor ongezond voedsel",
+        "basis": "programma"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "niet ieder menselijk probleem tot gemeentelijk beleid maken",
+        "basis": "afgeleid"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "betutteling past niet bij de gemeente",
+        "basis": "afgeleid"
+      }
+    },
+    "spreiding": "PRO, PvdD en D66 tegenover BBB en LFD; de meeste lijsten noemen het niet.",
+    "twijfel": "Dun: posities van BBB en LFD zijn afgeleid uit algemene uitspraken over betutteling en vrijheid. D66 noemt alleen tabak en vapes, niet snackbars."
+  },
+  {
+    "id": "zorg-ouderen-zorgvastgoed",
+    "onderwerp": "ouderenzorg in de dorpen",
+    "kop": "Regie op zorggebouwen zoals Veenstaete",
+    "stelling": "De gemeente neemt zelf de regie over zorggebouwen zoals Veenstaete in Kortenhoef, zodat daar ouderenzorg blijft in plaats van dure appartementen.",
+    "uitleg": "Bij woonzorgcentrum Veenstaete in Kortenhoef sluit de verpleegafdeling en komen er koopappartementen. Zorgvastgoed is meestal van zorgorganisaties, die het bij verkoop aan de markt overlaten. De gemeente kan via grondbeleid, bestemmingsplan of aankoop sturen, maar dat kost geld en risico.",
+    "voor": "Met de vergrijzing zijn verpleeghuisplekken in de dorpen hard nodig; als de gemeente niets doet, verdwijnen ze voorgoed.",
+    "tegen": "Een gemeente is geen vastgoedbelegger of zorgorganisatie; zij kan beter afspraken maken met zorgorganisaties en de verzekeraar.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -1,
+        "kern": "verpleeghuizen als open wijkpartner; samenwerken met zorgverzekeraar",
+        "basis": "afgeleid"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": 2,
+        "kern": "gemeente neemt regie over zorgvastgoed; Veenstaete als voorbeeld",
+        "basis": "programma p.18"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "zorg dichtbij, kleinschalige woonomgeving voor ouderen",
+        "basis": "afgeleid"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "overheid hoeft niet alles over te nemen",
+        "basis": "afgeleid"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "ruimte en locaties voor kleinschalige bejaardenhuizen in eigen kernen",
+        "basis": "afgeleid"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "SP (met FVD en Dorp voor Dorp) tegenover CDA en LFD; speelt vooral in de dorpen.",
+    "twijfel": "Zeer dun: alleen SP heeft een expliciete positie, de rest is afgeleid. Opgenomen omdat het een concreet dorpsdossier is; de eindredactie kan het schrappen."
+  },
+  {
+    "id": "zorg-dakloos-eerstopvang",
+    "onderwerp": "daklozen",
+    "kop": "Eerst opvang, dan woning",
+    "stelling": "Daklozen gaan eerst naar de nachtopvang en krijgen pas een eigen woning als ze daar klaar voor zijn.",
+    "uitleg": "Hilversum is centrumgemeente voor de opvang van daklozen in de regio, met onder meer noodopvang de Cocon. Bij 'Housing First' krijgt iemand meteen een eigen woning met begeleiding, zonder eerst te bewijzen dat hij zelfstandig kan wonen. Daarvoor zijn extra woningen nodig in een krappe markt.",
+    "voor": "Eerst opvang en begeleiding zorgt ervoor dat mensen klaar zijn om zelfstandig te wonen, zodat schaarse woningen goed terechtkomen.",
+    "tegen": "Zonder vast dak lukt herstel nauwelijks; een eigen woning met begeleiding werkt beter en voorkomt terugval.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -2,
+        "kern": "Housing First: eerst onderdak, daarna hulp",
+        "basis": "programma p.5"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -1,
+        "kern": "daklozen krijgen urgentie voor een huurwoning",
+        "basis": "programma p.37"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "basisopvang bieden en snel begeleiden naar zelfstandigheid",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "dak boven je hoofd is beste remedie tegen dakloosheid",
+        "basis": "programma p.5"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "woning ongeacht zelfredzaamheid of herkomstgemeente",
+        "basis": "programma p.46"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": -1,
+        "kern": "Housing First, met Cocon als eerste opvang",
+        "basis": "programma p.27"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "BVNL tegenover PRO, PvdD, Volt, SP en Opstand.nu; van midden en rechts is verder weinig bekend.",
+    "twijfel": "Haalt de kwart-eis niet (1 eens, 5 oneens). CDA, ChristenUnie en Lokaal Eén willen vooral voldoende opvang, maar zeggen niets over de volgorde. Alleen houden als de daklozenvraag in de bank moet."
+  }
+]

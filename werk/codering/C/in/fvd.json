@@ -1,0 +1,427 @@
+[
+ {
+  "sleutel": "wonen-bouwtempo|fvd",
+  "id": "wonen-bouwtempo",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-bouwtempo",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Tekort komt door instroom, niet door te weinig huizen",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|fvd",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Hoogbouw past niet bij het landschap",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|fvd",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "Minder sociale huur, meer betaalbare koop",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "wonen-grondbeleid|fvd",
+  "id": "wonen-grondbeleid",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-grondbeleid",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Projecten zonder overheidssteun aan de markt laten",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "verkeer-fietspad|fvd",
+  "id": "verkeer-fietspad",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-fietspad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "investeren in parkeren",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "verkeer-30-hoofdwegen|fvd",
+  "id": "verkeer-30-hoofdwegen",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-30-hoofdwegen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "auto is noodzaak; tegen 30 in bebouwde kom",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|fvd",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Geen enkele windturbine in de gemeente",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|fvd",
+  "id": "natuur-afsluiten",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "ontspanning in de natuur moet mogelijk blijven",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "zorg-minima-grens|fvd",
+  "id": "zorg-minima-grens",
+  "slug": "fvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "zorg-minima-grens",
+   "s": -1,
+   "kern": "Minimaregelingen tot 110% van bijstandsniveau",
+   "toelichting": "De lijst wil minimaregelingen richten op de laagste inkomens, maar met een grens van 110% in plaats van alleen bijstandsniveau.",
+   "citaat": "Een grens van 110% biedt ondersteuning waar die het hardst nodig is.",
+   "bron": "MijnStem: 'Armoederegelingen voor inwoners op: bijstandsniveau / 130%' (10)",
+   "soort": "mijnstem",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": 1,
+   "kern": "grens van 110%, gericht op laagste inkomens",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "zorg-wmo-zonderindicatie|fvd",
+  "id": "zorg-wmo-zonderindicatie",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-wmo-zonderindicatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "passende zorg via heldere indicatie, Wmo of pgb",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "veiligheid-camera-uitbreiden|fvd",
+  "id": "veiligheid-camera-uitbreiden",
+  "slug": "fvd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "veiligheid-camera-uitbreiden",
+   "s": 1,
+   "kern": "Gericht cameratoezicht op plekken met overlast",
+   "toelichting": "De lijst steunt gericht cameratoezicht op plekken met overlast en criminaliteit, met korte bewaartermijnen. Ze noemt vooral toegangswegen van de dorpen; in MijnStem kiest ze licht voor beperken.",
+   "citaat": "Wij steunen gericht cameratoezicht op plekken met overlast en criminaliteit.",
+   "bron": "Stemgids: 'Het cameratoezicht op plekken met veel overlast ... moet blijven' (voor); MijnStem: 'Cameratoezicht op straat' (26)",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "alleen gericht op toegangswegen dorpen; geen permanente observatie",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-coffeeshops-scholen|fvd",
+  "id": "veiligheid-coffeeshops-scholen",
+  "slug": "fvd",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "veiligheid-coffeeshops-scholen",
+   "s": 1,
+   "kern": "Coffeeshops niet verminderen",
+   "toelichting": "De lijst wil het aantal coffeeshops niet verminderen. Over coffeeshops bij scholen noemt ze niets.",
+   "citaat": "Het drugsbeleid is al jaren incoherent en hypocriet.",
+   "bron": "MijnStem: 'Het aantal coffeeshops verminderen' (14)",
+   "soort": "afgeleid",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "asiel-taal-tijdens-procedure|fvd",
+  "id": "asiel-taal-tijdens-procedure",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-taal-tijdens-procedure",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "geen subsidie voor 'wederzijdse' integratie",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "economie-bruisend-hart-uitstel|fvd",
+  "id": "economie-bruisend-hart-uitstel",
+  "slug": "fvd",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "economie-bruisend-hart-uitstel",
+   "s": 1,
+   "kern": "Bruisend Hart niet doorzetten zoals vastgesteld",
+   "toelichting": "De lijst wil het plan niet laten doorgaan zoals vastgesteld, maar met meer woningen op dezelfde hoogte als het stationsgebouw. Een uitstel om financiële redenen noemt ze niet.",
+   "citaat": "Dat kan meer woningen opleveren dan het huidige plan.",
+   "bron": "Stemgids: 'Het plan Bruisend Hart ... moet doorgaan zoals de raad het heeft vastgesteld' (tegen)",
+   "soort": "stemgids",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|fvd",
+  "id": "cultuur-budget-niveau",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "extra subsidies niet vanzelfsprekend",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|fvd",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "organisaties moeten waar mogelijk financieel zelfstandig zijn",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-subsidie-bezoekers|fvd",
+  "id": "cultuur-subsidie-bezoekers",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-subsidie-bezoekers",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "gemeentelijke bijdrage moet aansluiten op werkelijk gebruik",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "cultuur-sportevenementen|fvd",
+  "id": "cultuur-sportevenementen",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-sportevenementen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "evenementen die inwoners zelf dragen; organisaties financieel zelfstandig",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|fvd",
+  "id": "cultuur-monumentenregels",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "monumenten en historische gezichten beschermen tegen verdozing",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "bestuur-gelijke-regels|fvd",
+  "id": "bestuur-gelijke-regels",
+  "slug": "fvd",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "bestuur-gelijke-regels",
+   "s": -1,
+   "kern": "Hilversumse regels niet opleggen aan de dorpen",
+   "toelichting": "De lijst wil dat de dure parkeerregels van Hilversum niet in de dorpen gelden en dat de dorpen gratis parkeren houden. Gelijktrekken van regels en tarieven wijst ze op dit punt af.",
+   "citaat": "De dure parkeerregels van Hilversum mogen niet worden opgelegd aan Loosdrecht, ’s-Graveland, Kortenhoef, Ankeveen, Breukeleveen en Nederhorst den Berg.",
+   "bron": "Programma, hoofdstuk 6 (Infrastructuur & Mobiliteit), punt 1",
+   "soort": "afgeleid",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|fvd",
+  "id": "financien-heffing-draagkracht",
+  "slug": "fvd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "geen extra heffingen; kiest voor eenvoud",
+   "basis": "mijnstem"
+  }
+ }
+]

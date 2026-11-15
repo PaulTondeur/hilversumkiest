@@ -1,0 +1,744 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "<u>Windturbines </u><i class=\"fa-solid fa-circle-info\"></i> in het buitengebied toestaan",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB is tegen windturbines.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Windturbines zijn een enorme landschapsvervuiling. Plaats ze waar de vervuiling al is, zoals bedrijventerrein of langs snelwegen. Ook zorgen ze voor enorm veel onnodig afval later. We kunnen in Hilversum beter inzetten op energieopwekkening via water.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "25 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Windturbines tasten het landschap aan en zorgen vaak voor overlast voor omwonenden. De energietransitie mag niet ten koste gaan van leefbaarheid, natuur en draagvlak. Lokale bewoners moeten hierin een doorslaggevende stem hebben.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "14 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen geen grootschalige windturbines in of net buiten de grenzen van de nieuwe gemeente. Daar hebben we, bijvoorbeeld in Nederhorst, altijd tegen gestreden en dat blijven we doen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil vooraf geen oplossingen uitsluiten. Lokale opwek moet passen in de omgeving en voldoende draagvlak hebben. Grote windturbines vinden we daarom niet haalbaar, maar kleine windmolens bij boerderijen misschien wel.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "68 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "D66 is groot voorstander van duurzame energie uit zon, wind en water. Windenergie op zee is de basis. Windturbines in of naast onze gemeente verkennen we, met oog voor overlast voor bewoners en dieren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "DvD is pertinent tegen windturbines!",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "1 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Onze gemeente windturbine- en zonneveldenvrij.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We zijn kritisch op grootschalige windturbines. Onze gemeente kent veel waardevolle natuur en landschap, waardoor grootschalige windenergie niet voor de hand ligt. Prioriteit geven we aan energiebesparing, isolatie en zonne-energie op geschikte daken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "8 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen geen windturbines in ons buitengebied. We beschermen het landschap, de natuur en de rust van omwonenden. Voor verduurzaming richten we ons liever op passende alternatieven, zoals zonnepanelen op daken en energiebesparing.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD is tegen gemeentelijke sturing op windturbines, maar ook tegen een principieel verbod. Particuliere initiatieven worden per locatie en omvang beoordeeld op eigendomsrechten, veiligheid en aantoonbare hinder of schade voor derden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "6 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén geeft de voorkeur aan het benutten van zonne-energie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "30 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Buitengebied is grotendeels beschermde natuur en cultuurlandschap. OpStand is geen fan van windmolens in kwetsbare natuur, al steunen we de energietransitie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Om in de toekomst te voorzien in ons eigen energiegebruik, moeten we beslissingen nemen over alternatieve energiebronnen. PRO is voor zonneweides en windenergie. Wij gaan alle mogelijk geschikte plaatsen identificeren om snel projecten te starten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "91 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De PvdD wil zo snel mogelijk naar een duurzame energieopwekking. Wel zijn we kritisch op locatie en inzet van windturbines. Ze mogen minimaal overlast geven voor mens en natuur. De plaatsing en vormgeving houdt rekening met vogeltrek.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "69 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij sluiten windturbines niet op voorhand uit. Besluiten hierover moeten zorgvuldig worden genomen, met aandacht voor de omgeving, leefbaarheid en de belangen van inwoners.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De overstap naar nieuwe energiebronnen is nodig, en windenergie kan daaraan bijdragen, maar in onze gemeente zien wij geen plekken waar dat zorgvuldig kan worden ingepast.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Grootschalige windmolens passen niet bij onze beperkte ruimte en ons groene karakter. Wij beschermen het waardevolle natuur- en buitengebied. Verduurzamen is belangrijk, maar we geven voorrang aan zonnepanelen op bestaande daken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "19 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "In onze gemeente is geen ruimte voor grote windturbines. Geen windturbines in beschermd gebied. Eerst zonnepanelen op daken. We onderzoeken alternatieven voor energieopwekking.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Geen windmolens. Niet op de hei, niet in het weiland. De VVD vindt dat grote windturbines niet passen in het landschap van het Gooi en de Vechtstreek.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Afvalheffing op basis van:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Als BBB kiezen we voor een vast bedrag per huishouden. Betalen per hoeveelheid afval leidt in de praktijk tot meer zwerfafval, illegaal dumpen en rommel op straat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Als je gaat inzetten op betalen naar hoeveelheid dan ga je weer mensen controleren en dupeer je mensen die weinig geld maar veel afval hebben.\n\nBeter inzetten op campagnes hoe je afval kan verminderen, hergebruik en ondernemers aanspreken op verpakkingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Een vast tarief is eerlijk, eenvoudig en voorkomt extra bureaucratie. Afvalinzameling is een basisvoorziening. Zo houden we de kosten laag en voorkomen we illegale dumpingen en afvaltoerisme.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "38 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Het principe de vervuiler betaalt klinkt goed, tot je nadenkt over de gevolgen. Wanneer mensen structureel meer gaan betalen voor hun afval, vergroot je de kans dat afval gedumpt wordt of bij anderen in de afvalbak gestopt wordt. Dat is onwenselijk.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "74 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De ChristenUnie wil afval scheiden belonen. Minder restafval mag voordeel opleveren, maar zonder onnodige administratie. Daarnaast moet het niet leiden tot meer zwerfafval.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "54 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "D66 vindt dat de vervuiler moet betalen en wil minder restafval: van 200 naar 150 kilo per inwoner in 2030. Betalen naar hoeveelheid moet wel uitvoerbaar en eerlijk zijn. We zetten vooral in op afval voorkomen, hergebruik en reparatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "DvD is tegen de kiloheffing vanwege het risico op illegale dumpingen, de toenemende administratieve kosten en de vragen die de heffing oproept over privacy.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "17 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Geen extra heffingen via chips in de kliko. Zodra het kan, gaan we over op nascheiden: minder bakken in de tuin. Ophalen van grofvuil weer gratis maken om illegaal storten te voorkomen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "33 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Afvalheffing op basis van hoeveelheid lijkt eerlijk, want 'de vervuiler betaalt', maar het werkt afvaldumping in de hand. Bovendien kan een huishouden ook niet altijd iets doen aan extra afval (luiers en incontinentiemateriaal).",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "60 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Wij kiezen voor een betaalbare afvalheffing die rekening houdt met de omvang van het huishouden. Afval scheiden moet lonen, maar betalen per hoeveelheid mag niet leiden tot meer dumping, hoge uitvoeringskosten of problemen voor lage inkomens.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "23 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De LFD kiest voor een eenvoudige en transparante afvalheffing tegen zo laag mogelijke kosten. Afvalinzameling moet geen verdienmodel of middel voor gedragssturing worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "27 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Vast bedrag per huishouden. Dit is overzichtelijk. Een bedrag per hoeveelheid afval heeft het risico dat het leidt tot illegale vuilnisdump. Lokaal Eén ziet wel graag een bredere keus in de grootte van huishoudens.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "99 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "OpStand.nu wil een eerlijkere heffing op basis van kosten en moeite om afval op te halen, zeker ook tuin-/groenafval.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "50 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Bij het vaststellen van de tarieven geldt voor PRO dat de vervuiler betaalt én de sterkste schouders de zwaarste lasten dragen. Niet iedereen kan de bakken die nodig zijn voor het scheiden kwijt. Met name in de appartementen is dit een probleem.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De vervuiler betaalt. De PvdD is voor een afvalheffing op basis van hoeveelheid afval. De PvdD wil dat de gemeente gaat onderzoeken welke opties er zijn om de gemeentebelasting te verlagen naarmate bedrijven en huishoudens minder restafval aanbieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "25 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Een vast bedrag is eenvoudig, duidelijk en voorspelbaar voor inwoners. De afvalheffing moet niet leiden tot onnodige administratie of extra uitvoeringskosten, maar bijdragen aan een schone gemeente.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "50 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De afvalstoffenheffing is nu voor iedereen even hoog. Daardoor betaalt iemand in een sociale huurwoning evenveel als iemand in een villa. Wij willen die kosten verschuiven naar de onroerendezaakbelasting. Dan betaalt wie meer heeft ook meer.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "1 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Wij kiezen voor een vast bedrag. Heffen op hoeveelheid leidt in de praktijk vaak tot afvaldumping. Wij willen juist schone, goed onderhouden buurten. Beleid moet praktisch werken en geen nieuwe overlast of kosten veroorzaken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "50 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Het afvalbeleid wordt vastgesteld door de regio, niet door de gemeente.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "14 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De VVD wil een vast bedrag per huishouden, zoals het nu is. Betalen naar de hoeveelheid afval leidt tot extra administratie en kan afvaldumping in de hand werken. De afvalstoffenheffing moet bovendien betaalbaar blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "De gemeente eerder dan 2050 klimaatneutraal maken",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB is tegen. Wij willen enkel maatregelen nemen die haalbaar en betaalbaar zijn voor inwoners en ondernemers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "20 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Klimaatacties en verduurzaming zijn gewoon verdienmodellen onder het mom van de wereld redden. Kijk hoe je mensen en natuur meer kan samenbrengen om zo meer respect te krijgen wat gedragsverandering in beweging brengt. Zoek naar natuurlijke oplossingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Klimaatbeleid moet haalbaar en betaalbaar blijven. Extra lokale ambities bovenop landelijke doelen leiden vaak tot hogere lasten voor inwoners en ondernemers, zonder aantoonbaar extra effect op het klimaat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Doelen stellen is belangrijk tegen klimaatverandering, maar realistische doelen stellen is beter. Te snel afdwingen te veranderen zorgt niet alleen voor weerstand, het leidt ook tot onnodig hoge kosten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil zo snel mogelijk verduurzamen, maar houdt als doel klimaatneutraal in 2050 aan.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Het klimaat verandert en dat heeft grote impact op ons en onze leefomgeving. D66 wil zo snel mogelijk naar een klimaatneutrale gemeente, dus eerder dan 2050. Dat betekent sneller aan de slag met besparen van energie én duurzaam opwekken van energie!",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dorp voor Dorp is tegen een harde klimaatdoelstelling voor 2050, bij ons staan de mensen en de samenleving centraal, niet de internationale verdragen. Beleid moet realistisch en haalbaar zijn, waarbij er breder moet worden gekeken dan 'klimaat'.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "1 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij zetten geen deadline op energieneutraliteit of klimaatneutraliteit.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "2050 halen is al ambitieus. Daar nog op voor willen gaan lopen is wat Gewoon, Hilversum onverstandig. We moeten geen lokale 'kop' op landelijke of internationale regels gaan zetten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "27 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen verduurzamen met haalbare maatregelen die inwoners kunnen betalen. Eerder klimaatneutraal dan 2050 is geen doel op zichzelf. We kiezen voor aantoonbaar resultaat en energiebesparing, zonder overhaaste stappen of onbetaalbare lasten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD jaagt geen versnelde klimaatdoelen na. Klimaatmaatregelen moeten aantoonbaar lokaal effect hebben en betaalbaar, technisch haalbaar en proportioneel zijn. Een politieke deadline is voor ons geen doel op zichzelf.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "36 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hoe graag we dit ook zouden willen, Lokaal Eén ziet hiertoe weinig mogelijkheden vanuit betaalbaarheid en maatschappelijk draagvlak.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "17 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Eerder dan 2050 niet als doel, hooguit als mooi resultaat van inspanningen. Bovenal geldt voor OpStand.nu dat iedereen mee moet kunnen doen. Zogenaamd klimaatneutraal is nu nog te veel een luxe voor wie het zich kan permitteren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Klimaatverandering is een groot probleem. PRO erkent dit en zet zich 100% in om zo duurzaam mogelijk te zijn. We bereiden ons voor op de effecten van klimaatverandering (klimaatadaptatie). We kunnen niet wachten tot 2050 om klimaatneutraal te zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokale overheden spelen een belangrijke rol bij het halen van de klimaatdoelen. Het beste moment om hier stappen in te zetten was gisteren. Daarom moet Hilversum zo snel mogelijk stappen zetten om klimaatneutraal te worden in 2030.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "33 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen een schone en leefbare gemeente, maar stellen geen eigen klimaatdoel vóór 2050. Maatregelen moeten verstandig, haalbaar en betaalbaar zijn en passen bij wat lokaal nodig is.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "73 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We zijn hier voor, maar niet ten koste van alles.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "16 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen dit niet versnellen. Verduurzamen moet in de eerste plaats werken én betaalbaar blijven. We kiezen voor haalbare stappen, zoals isolatie. Eerst de basis op orde, in plaats van blind te jagen op nieuwe, dure ambities.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen in 2040 klimaatneutraal zijn. De gezondheid van natuur, mens en dier staan centraal. Dat betekent minder uitstoot, meer groene energie en meer ruimte voor natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De VVD wil verduurzamen, maar wel realistisch, betaalbaar en uitvoerbaar. We zijn wel groen, maar niet gek. Daarom hoeft Hilversum niet eerder dan 2050 klimaatneutraal te zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Hilversum moet het plan voor een zero-emissiezone in het centrum niet opgeven: een gebied waar alleen bestel- en vrachtauto's zonder uitstoot in mogen.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners en ondernemers worden hier enorm door geraakt en op kosten gejaagd. Ondernemers door het moeten doen van investeringen en inwoners door doorbelasting van hogere kosten. Bijkomend risico is dat ondernemers werk in het centrum gaan mijden en inwoners de dupe worden. Zie ook ervaringen elders.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Pro wil stapsgewijs toewerken naar emissievrij verkeer in Hilversum",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "We willen dat de gemeente slimme keuzes maakt die duurzame mobiliteit voorrang geven. Een zero-emissiezone kan heel goed worden ingevoerd in het centrum van Hilversum, met alle ruimte voor uitzonderingen de komende jaren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Het invoeren van zero-emissiezones leidt in verschillende steden tot onbetaalbare dienstverlening van bouwvakkers of zelfs tot onbeschikbaarheid. Dat is een onwenselijke ontwikkeling. Ook zet deze ontwikkeling Hilversumse ondernemers op achterstand tegenover omliggende gemeentes.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "neutraal",
+    "toelichting": "De kosten van klimaatmaatregelen moeten bij grote vervuilers en multinationals liggen, en niet bij gewone burgers, mkb'ers of zzp'ers. De SP vindt het oneerlijk als kleine ondernemers gedwongen worden om een dure elektrische bestelbus aan te schaffen. Stop te veel lokale regels.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Geen zero-emissiezone die ondernemers en inwoners dwingt vervroegd een duur nieuw voertuig te kopen. Elk RDW-goedgekeurd voertuig moet welkom blijven. Stimuleer schoner vervoer zonder verboden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "We willen een bereikbaar centrum waar ondernemers hun werk goed kunnen blijven doen. Maatregelen voor schoner vervoer mogen niet leiden tot onnodige lasten of praktische problemen voor lokale bedrijven. Bereikbaarheid, uitvoerbaarheid en leefbaarheid moeten zorgvuldig worden afgewogen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "DvD stelt de mens centraal, niet het zero-emissiebeleid. Maatregelen moeten praktisch, betaalbaar en haalbaar zijn. Inwoners en ondernemers mogen niet onnodig worden beperkt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Wij kiezen voor een bruisend en gastvrij centrum dat voor iedereen toegankelijk is. Ondernemers moeten kunnen ondernemen zonder torenhoge kosten voor nieuwe, elektrische bussen. Verduurzamen doen we graag samen, niet met dwingende regels.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Er komt een zero-emissiezone van toepassing op commercieel verkeer in het centrum van Hilversum.”",
+    "herkomst": "Verkiezingsprogramma, p. 57"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Dit is niet wenselijk en helemaal niet haalbaar immers is er zoveel eenrichtingsverkeer dat je vaak door het centrum heen moet om ergens te komen. De gevolgen zijn groot voor grote en kleine ondernemers. Ondernemers die geen aanvoer en klanten krijgen en kleine zzp'ers die er niet kunnen werken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Schone lucht is belangrijk, maar ondernemers verplichten hun bestel- of vrachtauto te vervangen gaat te ver. LFD kiest voor keuzevrijheid, bereikbaarheid en betaalbare oplossingen. De gemeente moet verduurzaming niet afdwingen met extra verboden en hoge kosten voor ondernemers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Hilversum-Centrum wordt een zero-emissiezone omdat we iedereen schone lucht gunnen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Een verplichte zero-emissiezone brengt extra kosten mee voor ondernemers en vervoerders. Het is een dure maatregel die vooral kleine ondernemers raakt. Elektrische busjes en vrachtwagens zijn duurder en hebben minder actieradius. Forum voor Democratie is tegen dwang.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "Een zero-emissiezone haalt lokale ondernemers en winkeliers volledig onderuit. Veel MKB’ers en zzp'ers kunnen de verplichte overstap naar dure elektrische bussen simpelweg niet betalen. BBB kiest voor een bereikbare binnenstad en weigert onze ondernemers op kosten te jagen.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente moet laten onderzoeken of een kleine kerncentrale in Hilversum of in de regio mogelijk is.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Gezien de huidige technologische ontwikkelingen zou het in minder dan 10 jaar wellicht wel mogelijk moeten zijn in de regio. Dat is een gevolg van voortschrijdende techniek...",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "Een kleine kerncentrale is voor PRO onbespreekbaar. We moeten juist volop inzetten op duurzame energiebronnen zoals wind, zon en, waar mogelijk, aqua- en geothermie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "neutraal",
+    "toelichting": "Uit onderzoek blijkt het niet mogelijk. We blijven technologische ontwikkelingen volgen, bijvoorbeeld op het gebied van kleine modulaire kernreactoren of geothermie, om die op termijn in te kunnen zetten. We zijn daarbij geen proeftuin: we kiezen voor bewezen en veilige methodes.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„Onderzoek maar geothermie en kernenergie blijven we steunen als veel betere alternatieven voor windmolens en zonneparken.”",
+    "herkomst": "Verkiezingsprogramma, p. 26"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "Het CDA heeft een motie ingediend om een SMR te verkennen in de regio. Een SMR is een veilige manier om een goede bijdrage te leveren in onze energiebehoefte en groene energiemix. Wij vinden dat Hilversum deze ontwikkelingen moet blijven volgen en een voortrekkersrol kan spelen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Lokaal Eén zou ervoor zijn, maar de gemeente heeft dit al onderzocht en dit blijkt niet haalbaar.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Sinds begin 2026 is er een staatsbedrijf voor kernenergie. Ook hebben wij als SP concrete plannen voor een gemeentelijk energiebedrijf. De SMR hoeft dus helemaal niet naar marktpartijen te zoeken. Wel stellen wij duidelijke eisen. Er moet vooraf helderheid zijn over het kernafval en het koelwater.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Kernenergie kan betrouwbare stroom leveren met weinig ruimtebeslag en zonder CO₂-uitstoot tijdens de productie. Onderzoek objectief de haalbaarheid, veiligheid, kosten en regionale mogelijkheden van een kleine kerncentrale.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "We vinden het verstandig om nieuwe mogelijkheden voor een betrouwbare en betaalbare energievoorziening te onderzoeken. Daarbij moeten veiligheid, kosten, ruimte en gevolgen voor omwonenden zorgvuldig worden meegewogen. Onderzoek betekent niet dat vooraf al voor een kerncentrale wordt gekozen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Nieuwe energie voor een nieuw Hilversum. DvD wil praktische, betaalbare energieoplossingen die passen bij onze dorpen en wijken, met zeggenschap voor inwoners.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Grootschalige energieprojecten, zoals kerncentrales of enorme windmolenparken, passen simpelweg niet bij de beperkte ruimte en het prachtige, groene karakter van onze dorpen en stad. Wij kiezen voor slimme, lokale verduurzaming op bestaande daken!",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "tegen",
+    "toelichting": "„Er komt geen kerncentrale in Hilversum. Kernenergie is niet de oplossing voor de klimaatcrisis.”",
+    "herkomst": "Verkiezingsprogramma, p. 11"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Geen kernenergie in Hilversum: de gevolgen zijn te groot en niet te overzien. Wel kun je onderzoek doen naar andere manieren van energie opwekken en/of opslaan die veel beter passen hier en die natuurvriendelijker zijn denk aan water, zon en energie anders verdelen en gebruiken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "LFD staat open voor onderzoek naar nieuwe energiebronnen, waaronder kleine kernreactoren. Onderzoek is nog geen besluit tot bouw. Veiligheid, haalbaarheid, kosten en de rol van de overheid moeten zorgvuldig worden afgewogen. Geen blanco cheque voor een gemeentelijk energieproject.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We steunen het onderzoek naar een kleine modulaire kernreactor in de regio.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "In plaats van onrendabele biomassacentrales of warmtenetten reserveren wij planologische ruimte en werken we mee aan locatieverkenning voor een moderne kleine veilige energiecentrale. Vergunning en bouw liggen bij ANVS, provincie en Rijk; daar agenderen wij versnelling.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Onze energiemix heeft behoefte aan nuchtere, leveringszekere oplossingen. BBB ondersteunt landelijke en regionale verkenningen naar kernenergie van harte. Het biedt schone energie zonder de overlast en ruimte-inname van grote windparken.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente moet zich verzetten tegen de komst van grote windmolens vlak bij de dorpen, zoals bij Nederhorst den Berg.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "HvH stelt voor om op de daken van grote bedrijven zonnepanelen aan te wenden voor verduurzaming in plaats van de komst van zeer hoge windmolens (provincie Utrecht) die het leefklimaat in Wijdemeren in grote mate negatief beïnvloeden. De kosten voor energie opwekken met zonnepanelen liggen beduidend lager.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "Om in de toekomst te voorzien in ons eigen energiegebruik moeten we beslissingen nemen over alternatieve en duurzame energiebronnen. PRO is voor zonneweides en windenergie. We gaan geschikte plaatsen identificeren en zo snel mogelijk projecten opstarten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "D66 is voorstander van duurzame energie uit zon, wind en water. Windturbines in of naast onze gemeente verkennen we, met oog voor overlast voor bewoners en dieren. Draagvlak van inwoners en een goed participatieproces zijn daarbij een randvoorwaarde.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„Geen windmolens in het Gooi en de Vechtstreek.”",
+    "herkomst": "Verkiezingsprogramma, p. 26"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "Grootschalige windmolenparken passen niet in het beschermde landschap om ons heen. Ook voor de inwoners van Nederhorst den Berg zou dit desastreus uitpakken qua woongenot.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "Lokaal Eén is tegen de komst van grootschalige windturbines in en direct rondom onze gemeente, om onze rust en het waardevolle landschap te beschermen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Wij zijn tegen grote windmolens op plekken waar ze niet passen bij de schaal van onze dorpen. Het plan voor grote windmolens bij Nederhorst den Berg past daar wat ons betreft niet. Zulke molens geven een enorme slagschaduw waar omwonenden last van krijgen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Grote windmolens vlak bij dorpen kunnen gezondheid, leefbaarheid en landschap aantasten. Geen plaatsing zonder voldoende afstand, overtuigend onafhankelijk onderzoek en aantoonbaar draagvlak onder omwonenden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wij zijn voor windmolens op geschikte locaties in het buitengebied en willen plannen niet bij voorbaat afwijzen. Ook bij Nederhorst den Berg moet onderzoek uitwijzen of de afstand tot woningen voldoende is en de gevolgen voor leefbaarheid, natuur en landschap aanvaardbaar zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "DvD wil geen windmolens in onze leefomgeving. We kiezen voor kleinschaligere energieoplossingen die passen bij het landschap en waarbij inwoners zelf zeggenschap hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "We zijn ontzettend trots op onze natuur en dat willen we beschermen! Grote windmolens tasten ons mooie landschap aan en zorgen voor veel overlast. Wij zeggen krachtig 'nee' tegen de komst van grote windmolens in onze groene randen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "De PvdD wil zo snel mogelijk naar een duurzame energieopwekking. Wel zijn we kritisch op locatie en inzet van windturbines. Ze mogen minimaal overlast geven voor mens en natuur en de inzet en vormgeving houdt rekening met vogeltrek.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Windmolens zijn een aantasting van het landschap. Hilversum is bij uitstek een regio die het van zijn landschappelijke kwaliteit moet hebben op meerdere gebieden. Kijk of je ouderwetse windmolens zou kunnen inzetten en stromend water. Kijk in Flevoland en zie het resultaat: dat wil je echt niet.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "LFD is niet tegen windenergie, maar wel tegen het doordrukken van grootschalige projecten ten koste van omwonenden. Eigendomsrechten, gezondheid en leefomgeving verdienen bescherming. De overheid moet inwoners beschermen, niet over hun bezwaren heen walsen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "We hebben in onze gemeente geen ruimte voor windturbines, die tasten ons natuurschoon aan. Windmolens buiten onze gemeente die geen geluidsoverlast en geen slagschaduw veroorzaken moeten mogelijk blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Wij verzetten ons tegen grote windturbines in en direct rond onze gemeente. Het landschap, de leefomgeving en de belangen van omwonenden verdienen bescherming. Wij kiezen voor betaalbare en betrouwbare energie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Onze dorpen en het polderlandschap mogen niet worden opgeofferd voor 260m+ hoge turbines. Alle omliggende gemeenten zeggen 'nee'. BBB Lijsttrekker Stijn Visée strijdt al lange tijd tegen deze provinciale doordrukpolitiek. BBB wil ons prachtige landschap niet opofferen voor onhaalbare ideologieën.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente moet een plan met duidelijke tussendoelen maken om alle gebouwen in 2050 van het aardgas af te hebben.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "Als de net-congestie niet is opgelost dan kan je de inwoners & ondernemers niet verplichten om in 2050 van het aardgas af te zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Gezien de enorme taakstelling die er voor Hilversum ligt om de huizen van onze inwoners van het aardgas af te helpen is een haalbaar plan met tussendoelen onontbeerlijk. Zo kan de gemeenteraad ook tijdig en adequaat bijsturen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Waar het kan stappen we van het aardgas af. Met warmtewijkplannen weten inwoners hoe en wanneer ze van het gas gaan. De gemeente pakt regie: we werken toe naar aardgasvrij ruim voor 2040.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "„Er worden geen kwantitatieve doelen vastgesteld voor de warmte- en energietransitie of ander duurzaamheidsbeleid. De VVD wil voorkomen dat de gemeente zich juridisch kwetsbaar maakt met onhaalbare doelstellingen.”",
+    "herkomst": "Verkiezingsprogramma, p. 26"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Het vastleggen van tussentijdse doelen kan ertoe leiden dat er inefficiënte of dure opties gekozen moeten worden om aan de doelen te voldoen. Door flexibiliteit te behouden zorgen we voor balans tussen verduurzaming en kosten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De gemeente wijst deze raadsperiode ten minste één wijk of dorp aan dat van het gas af gaat. Daarbij komt een plan waarin vooraf vaststaat wat het bewoners kost, ook als er bijvoorbeeld verbouwd moet worden. De kosten mogen niet meer zijn dan wat zij nu aan gas kwijt zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Geen gemeentelijk stappenplan dat inwoners onder druk zet tot onbetaalbare verbouwingen. Verduurzaming moet vrijwillig, technisch haalbaar en betaalbaar zijn. Gasgestookte cv-ketels en hybride oplossingen moeten mogelijk blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wij steunen een duidelijk plan met haalbare tussendoelen om gebouwen aardgasvrij te maken, maar willen 2050 niet als harde einddatum vastleggen. Betaalbaarheid, technische haalbaarheid en ondersteuning van inwoners moeten leidend zijn, niet een vooraf vastgestelde deadline.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners moeten zelf kunnen bepalen wat zij in hun leefomgeving willen. Daarbij moet vooraf eerlijk worden onderzocht of plannen technisch haalbaar en betaalbaar zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Verduurzamen is belangrijk, maar moet bovenal betaalbaar en haalbaar zijn. We leggen onze inwoners geen peperdure, dwingende plannen op. We helpen u liever vooruit met slimme en praktische isolatie-oplossingen die echt werken en u direct geld besparen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Daarom maakt de gemeente in samenwerking met inwoners en relevante partners per dorp en wijk een concreet transitieplan. Hierin staan plannen voor energiebesparing en de opwekking en opslag van duurzame energie en warmte”",
+    "herkomst": "Verkiezingsprogramma, p. 8"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Onzin om alles van het gas af te halen; half-half zou ik zeggen. Als er een probleem is met stroom heb je gas en andersom. In deze turbulente tijden kunnen we ons niet op 1 pijl richten maar moeten we ons op meerdere oplossingen en meerdere energiebronnen richten als noodzakelijk spreidingsbeleid.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Verduurzamen moet een keuze blijven, geen gemeentelijk dwangproject. LFD wil inwoners en ondernemers niet met tussendoelen, verplichtingen en hoge kosten van het aardgas af dwingen. De gemeente moet ruimte geven aan betaalbare, vrijwillige oplossingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners moeten vanuit de gemeente ondersteuning krijgen om van het aardgas af te kunnen gaan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners mogen niet worden gedwongen tot kostbare aanpassingen aan hun woning. Wij kiezen voor betaalbaarheid, betrouwbare energie en keuzevrijheid, in plaats van een verplicht gemeentelijk tijdpad om van aardgas af te gaan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "BBB is fel tegen starre tussendoelen en dwang om van het aardgas af te gaan. Het opjagen van inwoners leidt tot extreem hoge kosten voor huiseigenaren en huurders. Verduurzaming moet haalbaar en betaalbaar zijn op basis van vrijwilligheid, niet via gemeentelijke druk.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ }
+]

@@ -1,0 +1,23 @@
+{
+  "naam": "Libertaire Fractie Durlacher (LFD)",
+  "lijstnummer": 17,
+  "slug": "lfd",
+  "lijsttrekker": "Frederique Durlacher",
+  "website": "https://stemlfd.nl/",
+  "programma_url": "https://stemlfd.nl/wp-content/uploads/2026/09/Libertaire-Fractie-Durlacher-%E2%80%93-Verkiezingsprogramma-2026.pdf",
+  "programma_titel": "Libertaire Fractie Durlacher - Verkiezingsprogramma 2026 (A-Z standpunten)",
+  "programma_paginas": 30,
+  "programma_woorden": 6536,
+  "opgehaald_op": "2026-11-15",
+  "type": "lokale partij",
+  "achtergrond": "Frederique Durlacher zit sinds 2022 in de Hilversumse gemeenteraad, waar zij begon namens BVNL; sinds november 2024 gaat zij verder als zelfstandig raadslid onder de naam Fractie Durlacher (eenpitter), volgens stemlfd.nl. LFD is een nieuwe lokale partij die voor het eerst meedoet aan de herindelingsverkiezingen.",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/lfd/",
+    "https://stemlfd.nl/",
+    "https://stemlfd.nl/standpunten/",
+    "https://stemlfd.nl/onze-mensen/",
+    "https://stemlfd.nl/lfd-presenteert-kandidatenlijst-voor-herindelingsverkiezingen-hilversum-wijdemeren/",
+    "https://stemlp.nl/libertair-geluid-doet-mee-aan-de-herindelingsverkiezingen-hilversum-wijdemeren/"
+  ],
+  "opmerkingen": "Programma is een PDF met tekstlaag (pdftotext -layout), compleet. Geen lokale interviews met de lijsttrekker gevonden via zoeken. extra-lp-nieuws.txt is erg kort (pagina grotendeels dynamisch). Exacte aantal zetels in de huidige raad niet via een bron vastgesteld; \"eenpitter\" volgens LFD-site. In officiele stukken ook \"Belang van Nederland\" als label gezien."
+}

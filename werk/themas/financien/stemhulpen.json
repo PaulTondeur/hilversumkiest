@@ -1,0 +1,739 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Tekorten op de begroting oplossen door:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "BBB kiest voor bezuinigen. Inwoners en ondernemers mogen niet de dupe worden van hogere lokale lasten. Als de gemeente moet korten, kijken we eerst kritisch naar de eigen organisatie en het ambtenarenapparaat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "51 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Tekorten los je niet op door op voorzieningen te bezuinigen. Maar wel door te bezuinigen op prestige projecten en onnodige marketing uitgaves die niet ieders belang dienen. Kijken wat er wel is en wat er mogelijk is i.p.v. te sturen op onrendabele acties.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "2 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "De gemeente moet eerst kritisch kijken naar uitgaven, inefficiëntie en overhead voordat inwoners extra belastingen betalen. Lokale lasten verhogen is wat ons betreft het laatste middel, niet het eerste.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "30 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Wij willen de lokale lasten niet met meer dan de inflatie laten stijgen. Dat betekent dat we voorzichtig met uitgaven moeten omgaan, ook om in de toekomst te kunnen blijven investeren in voorzieningen. Op de zorg voor kwetsbaren bezuinigen we niet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "50 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "De ChristenUnie wil tekorten voorkomen door realistische keuzes en efficiëntie. Zorg, veiligheid en voorzieningen voor kwetsbare inwoners worden zo veel mogelijk ontzien.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "43 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "D66 kijkt eerst naar bestaande uitgaven en is terughoudend met hogere lasten. Het probleem is de oplopende schuld: die los je niet op met bezuinigen op korte termijn. Investeren in gezonde scholen is nodig, ook als dat op termijn hogere lasten betekent.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "10 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Snijd in bureaucratie, externe inhuur, geldverslindende en ideologische projecten en subsidies zonder aantoonbaar resultaat, voordat we inwoners meer laten betalen. De gemeente moet eerst zelf zuiniger en slimmer omgaan met belastinggeld.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "0 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Doe mensen geen pijn en pak hun spullen niet af. Inwoners kunnen zelf prima bepalen wat ze met hun geld doen. Minder regels = minder ambtenaren = minder belastingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "45 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Inwoners mogen erop vertrouwen dat de gemeente eerst naar haar eigen uitgaven en keuzes kijkt voordat de belastingen worden verhoogd. Wij willen de gemeentelijke woonlasten voor inwoners beheersbaar houden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "52 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Wij beschermen belangrijke voorzieningen en kijken kritisch naar uitgaven, grote projecten en onnodige kosten. Waar nodig zijn gerichte lastenverhogingen bespreekbaar, met oog voor draagkracht. De gemeente moet keuzes helder uitleggen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "23 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "De LFD verhoogt de lokale lasten niet om begrotingstekorten te dichten. Eerst wordt gesneden in niet-kerntaken, onnodig beleid, subsidies en bureaucratie. Noodzakelijke voorzieningen en kerntaken moeten op orde blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "50 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Bij tekorten zullen lastige keuzes gemaakt moeten worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "60 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Hangt van de voorziening af. Lokale lasten verhogen ligt meer voor de hand mits de rekening niet vooral bij de lagere en middeninkomens terecht komt. Het zal dus uit o.a. de OZB en forensenbelasting moeten komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "71 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "PRO Hilversum wil een betaalbare gemeente voor iedereen. Dat betekent dat de sterkste schouders de zwaarste lasten dragen. Wij zorgen voor eerlijke OZB-lasten. Dat doen we ook met riool en afval. Zo hoeven wij niet te bezuinigen op voorzieningen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "74 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "PvdD kiest bij een begrotingstekort voor het beschermen van kwetsbaren en sociale voorzieningen. Tekorten worden teruggedrongen door het schrappen van prestigeprojecten en een verhoging van lokale lasten, waarbij met name de vervuiler betaalt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "60 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Wij willen belangrijke voorzieningen en ondersteuning voor inwoners behouden. Als bezuinigingen daarop te grote gevolgen hebben, kan een beperkte verhoging van lokale lasten een alternatief zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "74 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "We willen voorzieningen beschermen, maar niet de rekening blind bij iedere inwoner neerleggen. Als er extra geld nodig is, kijken we eerst naar wie meer daadkracht heeft. De sterkste schouders moeten de zwaarste lasten dragen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "21 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Wij willen de gemeentelijke lasten voor inwoners zo laag mogelijk houden. Bij financiële tekorten moet de gemeente eerst kritisch kijken naar haar eigen uitgaven en subsidies, voordat we de rekening direct bij de inwoner neerleggen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "64 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "Dorpen en wijken beslissen zelf welke voorzieningen ze belangrijk vinden. Als we geld nodig hebben, laten we de sterkste schouders meer dragen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "21 (schuifbalk 0=bezuinigen op voorzieningen, 100=lokale lasten verhogen)",
+    "toelichting": "We willen tekorten niet oplossen door de lokale lasten te verhogen. De begroting moet structureel sluitend zijn. Daarom moeten we eerst besparen, efficiënter werken en scherpe keuzes maken in wat de gemeente wel en niet doet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Afvalheffing op basis van:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Als BBB kiezen we voor een vast bedrag per huishouden. Betalen per hoeveelheid afval leidt in de praktijk tot meer zwerfafval, illegaal dumpen en rommel op straat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Als je gaat inzetten op betalen naar hoeveelheid dan ga je weer mensen controleren en dupeer je mensen die weinig geld maar veel afval hebben.\n\nBeter inzetten op campagnes hoe je afval kan verminderen, hergebruik en ondernemers aanspreken op verpakkingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Een vast tarief is eerlijk, eenvoudig en voorkomt extra bureaucratie. Afvalinzameling is een basisvoorziening. Zo houden we de kosten laag en voorkomen we illegale dumpingen en afvaltoerisme.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "38 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Het principe de vervuiler betaalt klinkt goed, tot je nadenkt over de gevolgen. Wanneer mensen structureel meer gaan betalen voor hun afval, vergroot je de kans dat afval gedumpt wordt of bij anderen in de afvalbak gestopt wordt. Dat is onwenselijk.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "74 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De ChristenUnie wil afval scheiden belonen. Minder restafval mag voordeel opleveren, maar zonder onnodige administratie. Daarnaast moet het niet leiden tot meer zwerfafval.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "54 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "D66 vindt dat de vervuiler moet betalen en wil minder restafval: van 200 naar 150 kilo per inwoner in 2030. Betalen naar hoeveelheid moet wel uitvoerbaar en eerlijk zijn. We zetten vooral in op afval voorkomen, hergebruik en reparatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "DvD is tegen de kiloheffing vanwege het risico op illegale dumpingen, de toenemende administratieve kosten en de vragen die de heffing oproept over privacy.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "17 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Geen extra heffingen via chips in de kliko. Zodra het kan, gaan we over op nascheiden: minder bakken in de tuin. Ophalen van grofvuil weer gratis maken om illegaal storten te voorkomen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "33 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Afvalheffing op basis van hoeveelheid lijkt eerlijk, want 'de vervuiler betaalt', maar het werkt afvaldumping in de hand. Bovendien kan een huishouden ook niet altijd iets doen aan extra afval (luiers en incontinentiemateriaal).",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "60 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Wij kiezen voor een betaalbare afvalheffing die rekening houdt met de omvang van het huishouden. Afval scheiden moet lonen, maar betalen per hoeveelheid mag niet leiden tot meer dumping, hoge uitvoeringskosten of problemen voor lage inkomens.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "23 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De LFD kiest voor een eenvoudige en transparante afvalheffing tegen zo laag mogelijke kosten. Afvalinzameling moet geen verdienmodel of middel voor gedragssturing worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "27 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Vast bedrag per huishouden. Dit is overzichtelijk. Een bedrag per hoeveelheid afval heeft het risico dat het leidt tot illegale vuilnisdump. Lokaal Eén ziet wel graag een bredere keus in de grootte van huishoudens.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "99 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "OpStand.nu wil een eerlijkere heffing op basis van kosten en moeite om afval op te halen, zeker ook tuin-/groenafval.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "50 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Bij het vaststellen van de tarieven geldt voor PRO dat de vervuiler betaalt én de sterkste schouders de zwaarste lasten dragen. Niet iedereen kan de bakken die nodig zijn voor het scheiden kwijt. Met name in de appartementen is dit een probleem.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De vervuiler betaalt. De PvdD is voor een afvalheffing op basis van hoeveelheid afval. De PvdD wil dat de gemeente gaat onderzoeken welke opties er zijn om de gemeentebelasting te verlagen naarmate bedrijven en huishoudens minder restafval aanbieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "25 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Een vast bedrag is eenvoudig, duidelijk en voorspelbaar voor inwoners. De afvalheffing moet niet leiden tot onnodige administratie of extra uitvoeringskosten, maar bijdragen aan een schone gemeente.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "50 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De afvalstoffenheffing is nu voor iedereen even hoog. Daardoor betaalt iemand in een sociale huurwoning evenveel als iemand in een villa. Wij willen die kosten verschuiven naar de onroerendezaakbelasting. Dan betaalt wie meer heeft ook meer.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "1 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Wij kiezen voor een vast bedrag. Heffen op hoeveelheid leidt in de praktijk vaak tot afvaldumping. Wij willen juist schone, goed onderhouden buurten. Beleid moet praktisch werken en geen nieuwe overlast of kosten veroorzaken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "50 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "Het afvalbeleid wordt vastgesteld door de regio, niet door de gemeente.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "14 (schuifbalk 0=vast bedrag per huishouden, 100=hoeveelheid afval)",
+    "toelichting": "De VVD wil een vast bedrag per huishouden, zoals het nu is. Betalen naar de hoeveelheid afval leidt tot extra administratie en kan afvaldumping in de hand werken. De afvalstoffenheffing moet bovendien betaalbaar blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De woonlasten (OZB, afvalstoffenheffing en rioolheffing samen) mogen niet harder stijgen dan de inflatie.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Helemaal mee eens en dit geldt uiteraard ook voor Wijdemeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "PRO is van mening dat de OZB-inkomsten van de gemeente Hilversum ten minste moeten stijgen met de inflatie en de lasten voor riool, afval en OZB afzonderlijk van elkaar moeten worden beschouwd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "We sturen op een OZB-tarief onder het landelijk gemiddelde, in plaats van op de optelsom van alle lokale lasten. We zijn terughoudend met hogere lasten, maar investeren in gezonde scholen en de toekomst als dat nodig is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„Woonlasten stijgen de komende vier jaar met niet meer dan de inflatie.”",
+    "herkomst": "Verkiezingsprogramma, p. 29"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "De OZB mag wat betreft het CDA niet harder stijgen dan de inflatie. De overige elementen moeten vooral kostenneutraal blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Het streven blijft de gemeentelijke woonlasten OZB, riool- en afvalstoffenheffing maximaal met het inflatiepercentage (volgens Consumenten Prijs Index) te laten stijgen. Wanneer gemeentelijke tekorten dreigen zullen scherpe keuzes gemaakt moeten worden: bezuinigen-lastenverzwaring",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De afvalstoffenheffing en de reinigingsheffing zijn nu voor iedereen even hoog. Daardoor betaalt iemand in een sociale huurwoning evenveel als iemand in een villa. Wij willen die kosten verschuiven naar de onroerendezaakbelasting. Dan betaalt wie meer heeft ook meer.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners mogen niet automatisch opdraaien voor hogere gemeentelijke uitgaven. Houd woonlasten maximaal op inflatieniveau en zoek besparingen eerst bij overhead, inefficiëntie en prestigeprojecten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners moeten kunnen rekenen op betaalbare woonlasten. De gemeente moet zorgvuldig omgaan met gemeenschapsgeld en onnodige lastenstijgingen voorkomen. Betaalbaarheid en goede gemeentelijke voorzieningen moeten met elkaar in evenwicht blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "DvD wil een efficiënte overheid die verstandig met gemeenschapsgeld omgaat. Ons streven is lastenverlaging voor inwoners, geen onnodige lastenverhoging.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners moeten kunnen rekenen op lage en voorspelbare gemeentelijke lasten. Voordat we om meer geld vragen, kijken we kritisch naar de gemeentelijke uitgaven. We pakken budgetoverschrijdingen bij projecten aan, zodat we zorgvuldig omgaan met belastinggeld en inwoners niet onnodig meer betalen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "neutraal",
+    "toelichting": "Gedeeltelijk eens als het om afvalstoffen- en rioolheffing gaat. OpStand.nu pleit voor een eerlijkere heffingssystematiek. De scherpe verlaging van de OZB in Wijdemeren, vanwege de herindeling (harmonisatie), vinden wij onverkoopbaar in tijden van bezuinigingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "tegen",
+    "toelichting": "De PvdD gaat uit van het principe 'de vervuiler betaalt'. Dat betekent dat huishoudens en bedrijven die minder afval produceren minder afvalstoffenheffing gaan betalen en huishoudens en bedrijven met meer afval meer. De lasten kunnen voor mensen met veel afval dus harder stijgen dan de inflatie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Tegenwoordig kunnen mensen al helemaal niet meer rondkomen doordat alles duurder wordt. We moeten dit inzien en niet de inwoners ook nog extra belasten. Het liefste zou ik willen voorstellen dat de OZB komende tijd helemaal niet stijgt immers kun je van kale kippen niet plukken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "De belastingbetaler is geen pinautomaat van de gemeente. LFD wil de lokale lasten niet alleen begrenzen, maar waar mogelijk verlagen. Stijgende kosten zijn geen vrijbrief voor hogere belastingen. De gemeente moet eerst kritisch kijken naar haar eigen uitgaven, ambities en kerntaken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We zorgen dat de inkomsten en uitgaven in balans blijven en dat belastingen niet sterker stijgen dan de inflatie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners betalen al genoeg. Gemeentelijke woonlasten mogen niet harder stijgen dan de inflatie. Wij willen kritisch kijken naar gemeentelijke uitgaven en de organisatie efficiënter maken om lasten betaalbaar te houden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners worden toch al geconfronteerd met stijgende kosten. BBB vindt dat de gemeente haar eigen begroting op orde moet brengen in plaats van tekorten af te wentelen op de inwoners. De lokale woonlasten mogen daarom maximaal met de inflatie meestijgen.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente moet meer geld uitgeven aan kunst en cultuur.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Het op voorhand meer geld uitgeven aan kunst en cultuur dient per saldo een goed onderbouwd doel te dienen. E.e.a. dient te beginnen met een goed onderbouwd plan. Door de huidige financiële toestand van Hilversum is het niet verstandig om zomaar geld uit te keren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Hilversum geeft in vergelijking met gemeenten van gelijke omvang relatief weinig geld uit aan cultuur. Dat budget wil PRO verhogen ten behoeve van een goed en modern aanbod van culturele voorzieningen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Cultuur is geen luxe maar een basisvoorwaarde voor een levendige gemeente. We willen niet bezuinigen op cultuur, maar slim investeren en cultuur toegankelijk houden voor iedereen, ook met een kleine beurs.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "„De VVD kijkt kritisch naar cultuursubsidies. We maken keuzes: niet alles kan.”",
+    "herkomst": "Verkiezingsprogramma, p. 24"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Een levendige stad is belangrijk, maar het is ook belangrijk om te kijken waar dit geld aan besteed wordt en ten koste van welke andere uitgaven extra subsidie verstrekt kan worden. Zonder degelijke plannen is extra geld weinig effectief.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Kunst en cultuur verbinden mensen. Er moeten genoeg ruimtes en genoeg geld zijn voor culturele activiteiten. Er wordt niet verder bezuinigd op cultuur. We steunen juist ook kleinere culturele initiatieven, clubs en verenigingen. Zo laten we meer mensen zien dat de gemeente er ook voor hen is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "neutraal",
+    "toelichting": "Kunst en cultuur dragen bij aan een levendige gemeente, maar meer subsidie is geen doel op zichzelf. Ondersteuning moet aantoonbare maatschappelijke waarde hebben en mag niet ten koste gaan van kerntaken of lagere lasten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "neutraal",
+    "toelichting": "Kunst en cultuur dragen bij aan ontmoeting en een levendige gemeente. We willen ruimte geven aan lokale culturele initiatieven en verenigingen. Extra uitgaven moeten zorgvuldig worden afgewogen tegen andere belangrijke voorzieningen en de financiële mogelijkheden van de gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "DvD wil binnen dit domein meer nadruk leggen op cultuur. Cultuur verbindt mensen, versterkt de lokale identiteit en brengt inwoners samen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "neutraal",
+    "toelichting": "Cultuur maakt onze gemeente bruisend en kleurrijk, en verenigingen ondersteunen we van harte! Wel kijken we scherp naar de financiën: we investeren pas in nieuwe plannen als de basisvoorzieningen, zorg en veiligheid helemaal op orde zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd, niet alleen om meer te kunnen programmeren, maar ook om de Fair Practice Code voor eerlijke beloning in de culturele sector te kunnen realiseren.”",
+    "herkomst": "Verkiezingsprogramma, p. 72"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Allereerst moet er een eerlijke verdeling komen tussen structurele ondersteuning en projectmatige ondersteuning. Daarnaast financieel ondersteunen van de vier verschillende poten zoals Cultuureducatie, -participatie, - innovatie & cultuurbeleving. Cultuur is de basis van ons bestaan en koester dit.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Kunst en cultuur zijn waardevol, maar meer gemeentelijke subsidies zijn niet vanzelfsprekend. LFD geeft ruimte aan particuliere initiatieven en vindt dat de gemeente eerst haar kerntaken op orde moet hebben. Gemeenschapsgeld is geen onbeperkte subsidiepot.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Investeringen in kunst en cultuur betalen zich dubbel en dwars terug: in gezondheid, werkgelegenheid en gemeenschapszin.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Cultuur en evenementen zijn belangrijk voor onze gemeente. Wij steunen initiatieven met aantoonbare lokale waarde, maar extra subsidies zijn niet vanzelfsprekend. Organisaties moeten waar mogelijk financieel zelfstandig zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "Belastinggeld moet verstandig en doelgericht worden besteed. BBB investeert liever in lokale verenigingen, erfgoed en de basistaken van de gemeente die alle inwoners direct ten goede komen, in plaats van het algemeen verhogen van subsidies voor kunst en cultuur.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente mag niet miljoenen bezuinigen op de jeugdzorg.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Wat ons betreft mag er, als dat nodig blijkt, in principe meer geld aan deze zaken besteed worden. Wij schrijven echter geen blanco cheque uit.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO wil niet bezuinigen als dat betekent dat mensen niet de ondersteuning of zorg krijgen die ze nodig hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "neutraal",
+    "toelichting": "We investeren in preventie, zodat minder jongeren zware jeugdzorg nodig hebben, en blijven inzetten op specialistische jeugdhulp voor kinderen die dat het hardst nodig hebben. Problemen vroeg signaleren, bijvoorbeeld op scholen, vergroot het welzijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Het is belangrijk dat we de jeugdzorg anders gaan organiseren: meer laagdrempelige en snelle ondersteuning, en met hulp van scholen meer inzet op normalisering in plaats van problematisering. Daardoor blijft de jeugdzorg beschikbaar voor die kinderen die het echt nodig hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Op dit moment wordt de transitie van de Jeugdzorg uitgevoerd. Hierbij wordt nadrukkelijk ingezet op vroegsignalering en snelle ondersteuning om zo leed en extra uitgaven te voorkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Daarnaast is doorlopende zorg voor jongeren boven de 18 belangrijk. Jongeren in de jeugdzorg die 18 worden vallen nu vaak tussen twee soorten zorg in. Er moet een goede overgangsregeling zijn, zodat de hulp gewoon doorloopt. Wij letten erop dat dit ook echt gebeurt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "We moeten blijven zoeken naar mogelijkheden om de stijgende kosten omlaag te brengen. Uitgangspunt daarbij is wel: het mag niet ten koste gaan van de kwaliteit van de zorg.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Kinderen die werkelijk hulp nodig hebben, moeten die tijdig krijgen. Bespaar op bureaucratie, versnippering en overhead, niet op noodzakelijke zorg. Investeer daarnaast in vroege ondersteuning op school om zwaardere problemen te voorkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Kinderen en jongeren die hulp nodig hebben, mogen niet tussen wal en schip vallen. We willen problemen vroeg aanpakken, gezinnen ondersteunen en onnodige bureaucratie verminderen. Bezuinigingen mogen niet ten koste gaan van noodzakelijke hulp aan kwetsbare jongeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "DvD wil de jeugdzorg hervormen. Problemen moeten eerder worden herkend en hulp moet dichter bij gezinnen worden georganiseerd. Minder bureaucratie en betere samenwerking moeten leiden tot passende, betaalbare zorg.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Goede zorg voor onze jeugd is cruciaal. We bezuinigen niet botweg op de kwaliteit van hulp, maar organiseren het wel véél slimmer: we zetten stevig in op preventie en werken lokaal samen, zodat we problemen aanpakken voordat ze onnodig zwaar en duur worden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„De overbelasting van de jeugdzorg pakken we adequaat aan door wachtlijsten te beperken en knelpunten in de ggz op te lossen.”",
+    "herkomst": "Verkiezingsprogramma, p. 63"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Je mag niet bezuinigen op jeugdzorg maar je kan wel kijken naar de middelen die worden ingezet of dat de juiste keuze is of dat andere hulp beter is. De jeugd heeft de toekomst en die moeten we hun geven. Ook moeten we niet onderschatten wat de invloed van corona en social media op deze doelgroep is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Kinderen en gezinnen mogen niet de dupe worden van gemeentelijke bezuinigingen. LFD wil goede, tijdige jeugdhulp, maar ook minder bureaucratie en verspilling. Bespaar op het systeem, niet op de hulp die kinderen daadwerkelijk nodig hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We willen de hulp anders organiseren door ondersteuning te bieden vanuit scholen. En bij gezinsproblemen krijgt een gezin een hulpverlener die ondersteunt in plaats van allerlei losse regelingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "neutraal",
+    "toelichting": "Wij willen meer inzetten op vroegtijdige ondersteuning op school, zodat problemen niet onnodig groter worden. Specialistische jeugdzorg moet beschikbaar blijven voor kinderen die deze echt nodig hebben. Besparingen mogen noodzakelijke hulp niet aantasten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Kwetsbare kinderen en gezinnen mogen nooit de dupe worden van kille bezuinigingsdrang. BBB wil dat jeugdzorg toegankelijk, dichtbij en menselijk blijft. In plaats van miljoenen te korten op hulp, moeten we de bureaucratie aanpakken zodat elke euro bij het kind terechtkomt.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De herinrichting van de Kerkbrink moet soberder en goedkoper.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "Achterhaald, de werkzaamheden zijn al bijna afgerond. Hart voor Hilversum streeft ernaar om bouwprojecten soberder en goedkoper uit te voeren zoals echter nabij de Kerkbrink niet gelukt is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "Het cultuurplein Kerkbrink is het hart van ons centrum. D66 wil daar ruimte bieden aan grote evenementen en lokale initiatieven, zodat cultuur zichtbaar is voor de hele gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "lokaal-een": {
+    "antwoord": "tegen",
+    "toelichting": "De herinrichting is bijna klaar. Voor de aantrekkelijkheid van het centrum is het belangrijk dat er meer ruimte voor cultuur en terrassen is. Lokaal Eén ziet wel graag dat het plein ook veel groen heeft.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De Kerkbrink lag er nog prima bij. De SP was tegen de miljoenen kostende nieuwe inrichting van de Kerkbrink.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "Helaas niets meer aan te doen, maar het heeft te veel geld gekost. Een dure fontein en Portugees natuursteen hadden bijvoorbeeld niet gehoeven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Een aantrekkelijke Kerkbrink is wenselijk, maar gemeenschapsgeld moet zorgvuldig worden besteed. Kies een sobere, functionele en betaalbare inrichting met ruimte voor bereikbaarheid, cultuur, horeca en ontmoeting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen de Kerkbrink aantrekkelijk, veilig en toekomstbestendig herinrichten. Een soberder plan is niet vanzelf goedkoper op de lange termijn of beter voor de omgeving. We beoordelen de investering op kwaliteit, gebruik en totale kosten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "neutraal",
+    "toelichting": "Nu stoppen kan niet meer. Het is belangrijk om verdere keuzes zorgvuldig te maken, onnodige kosten te voorkomen en de belangen van inwoners centraal te stellen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Prachtige ontmoetingsplekken zijn belangrijk, maar we springen wel heel verstandig om met gemeenschapsgeld. We brengen eerst de basis in Hilversum keurig op orde. Met slimme, budgetvriendelijke keuzes maken we de Kerkbrink minstens zo gezellig en sfeervol!",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "De herinrichting van de Kerkbrink hoeft niet bij voorbaat soberder of goedkoper, maar PvdD kiest bij een begrotingstekort voor het beschermen van kwetsbaren en sociale voorzieningen. Tekorten worden dan teruggedrongen door het bijstellen van projecten zoals de Kerkbrink.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Er is al zoveel geld verspild, de Kerkbrink is al tig x over de kop gegaan ... Nu weer totale waanzin en geld verspillen. Terwijl de oplossing simpel is en niet duur: flink wat groen toevoegen, wat bankjes voor ontmoeting en ruimte voor kleine evenementen & ook doorgang voor de fiets behouden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Een aantrekkelijke Kerkbrink hoeft geen peperduur prestigeproject te worden. LFD wil een sobere, functionele inrichting met oog voor bereikbaarheid, ondernemers en bezoekers. Gemeenschapsgeld moet zorgvuldig worden besteed. Mooi mag, maar niet tegen elke prijs.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "Plan wordt al uitgevoerd, niet meer aanpassen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "\"Minder mooi\" is normatief, terwijl er geen hard criterium is voor \"mooi\". Daarom gebruiken wij \"traditioneel\", wat dus betekent dat het aansluit bij de historische gebouwen. Wij kiezen voor een praktische, sfeervolle en betaalbare herinrichting, met ruimte voor terrassen en ontmoeting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Gemeenschapsgeld moet verstandig worden uitgegeven. BBB wil geen dure herinrichting van de Kerkbrink. Een soberder en goedkoper plan zorgt ervoor dat het plein netjes en gezellig wordt ingericht, zonder de belastingbetaler op te zadelen met hoge kosten.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "hilversumsnieuws",
+  "stelling": "De nieuwe gemeente moet meer geld investeren in de dorpen, ook als Hilversum daardoor minder geld overhoudt voor de stad",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Het is niet zo dat het of of is maar en en. De vraag is wat meer geld in dit geval inhoudt. Ons streven is om de voorzieningen op peil te houden in de dorpen om zo bij te dragen aan de leefbaarheid. Voor de sociale samenhang zetten wij in op buurthuizen, of een vorm daarvan, in elk dorp. Sterker…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "pro": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "PRO zet zich in voor leefbare dorpen én wijken. Wij staan voor betaalbaar wonen, een groene omgeving en een eerlijke verdeling voor iedereen, of je nou in een dorp of in de stad woont. Het geld moet gaan naar waar het het hardste nodig is. Zowel in de dorpen als in de wijken kiezen we voor een lokale aanpak, en…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "d66": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "We investeren fors in het wegwerken van achterstallig onderhoud aan wegen en riolering. Daarbij maken we geen verschil tussen stad en dorp. We investeren waar de behoefte het grootst is. D66 wil dat alle wijken en dorpen goede voorzieningen hebben en houden. Denk aan goede scholen, voldoende groen, spelen en bewegen op loopafstand, een plek om samen te komen en…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "vvd": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Zoals altijd zal er gekeken worden naar prioriteiten want je kunt een euro maar één keer uitgeven. Dat kan soms wat meer zijn in één van de dorpen, soms wat meer in Hilversum. Wat de VVD vooral wil voorkomen is dat er een wij-zij discussie ontstaat. Vanaf 1 januari 2027 zijn we één gemeente die al haar inwoners gelijk…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "cda": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Als het aan het CDA ligt, investeert de gemeente in de dorpen én in Hilversum, niet in de een ten koste van de ander. Eén gemeente betekent ruimte voor verschil: wat een dorp nodig heeft, is niet hetzelfde als wat een stadswijk nodig heeft. Wij investeren in veilige wegen, woningen, zorg dichtbij en verenigingen. Op sport en verenigingen bezuinigen wij…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "lokaal-een": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De nieuwe gemeente Hilversum is een heel diverse gemeente. Lokaal Eén koestert die verschillen. Elke wijk en elk dorp heeft een eigen, unieke identiteit met eigen kwaliteiten, uitdagingen, wensen en mogelijkheden. Investeringen dienen gebaseerd te zijn op wat nodig is. Dat kan gaan over groot onderhoud, verbeteren van de kwaliteit van de leefomgeving, versterken van de gemeenschap, voorzieningen op niveau…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "sp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De fusie tussen Hilversum en Wijdemeren is uit nood geboren. Bestuurlijk en financieel kon Wijdemeren niet zelfstandig voortbestaan. Partijen die zeggen dat Wijdemeren zelfstandig had moeten blijven, geven geen reëel beeld van de financiële en bestuurlijke problemen van Wijdemeren. In de praktijk zal de fusie betekenen dat er in de toekomst veel geld naar de dorpen zal gaan, omdat we…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "christenunie": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. We investeren waar dat nodig is, of dat nu in een dorp of in een wijk van Hilversum is. Daarbij kijken we niet naar de locatie, maar naar wat een wijk of dorp daadwerkelijk nodig heeft. Tegelijkertijd blijven we kritisch op onze uitgaven. We willen verstandig investeren én voorkomen dat de schulden van de gemeente onnodig oplopen. Zo zorgen…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "bvnl": {
+    "antwoord": "Eens, mits het geld aantoonbaar terechtkomt w",
+    "toelichting": "Eens, mits het geld aantoonbaar terechtkomt waar inwoners er direct profijt van hebben. Een nieuwe gemeente hoort geen wedstrijd te worden tussen Hilversum en de dorpen. Dorpen verdienen ruimte om hun eigen karakter, voorzieningen, bereikbaarheid en leefbaarheid te behouden. BVNL kiest daarbij niet automatisch voor méér gemeentelijke uitgaven, maar voor eerlijke verdeling, lagere lasten en doelmatige besteding van belastinggeld. Minder…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "scb": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. SCB staat voor een eerlijke verdeling van gemeentelijke middelen tussen de stad en de dorpen. Bij het verdelen van gemeentelijke middelen kijken we naar de behoeften van inwoners en de bestaande voorzieningen. Iedere wijk en ieder dorp verdient de aandacht en investeringen die nodig zijn om voorzieningen en leefbaarheid op peil te houden. Daarbij houden we rekening met de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De gemeente moet meer geld investeren in de dorpen ook als dat ten kosten gaat van het huidige Hilversum lees ik dan maar, immers ook Hilversum is een dorp. De infra in alle dorpen (ook Hilversum) vraagt om een investering, zo ook behoud van identiteit van de wijken, buurten en dorpen. Gewoon Hilversum ziet hier geen tegenstelling maar een vraag…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Goed beleid begint bij de voorwaarden die je als overheid schept, niet bij de hoogte van belastingen. Zonder een brede visie hebben inwoners weinig aan een verhoging of verlaging van de lasten. Het verschil tussen dorpen en de stad zit vooral in rust, autonomie en natuur, niet in enkele euro’s meer of minder aan afvalstoffenheffing of ozb. Die dorpse kwaliteiten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Eén grote gemeente betekent niet dat de stad alle middelen mag opslokken. Onze dorpen hebben een uniek karakter dat bescherming verdient. Ieder dorp krijgt daarom een eigen, lokaal bepaalde dorpsagenda mét een gegarandeerd uitvoeringsbudget. Voorzieningen beoordelen we op hun onmisbare waarde voor leefbaarheid en ontmoeting. De fusie mag niet leiden tot meer afstand: de dorpen tellen volwaardig mee. Via…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "opstand-nu": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Uiteraard moet de gemeente in de dorpen investeren, maar ook in de Hilversumse wijken en dan in buurten waar dat het hardst nodig is. OpStand.nu maakt zich zorgen over toenemende ongeletterdheid, gebrek aan sociale cohesie en aan voorzieningen. En we zien wooncomplexen die niet zijn toegerust op klimaatverandering. Dan hebben we het over isolatie en energietransitie, en vooral ook over…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "pvdd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De Partij voor de Dieren kiest voor behoud en bevordering van de leefbaarheid voor iedereen in de nieuwe gemeente, inclusief dieren en natuur, en het beschermen van kwetsbaren en sociale voorzieningen. We willen geen tweedeling tussen stad en dorpen. Dat vraagt om (blijvende) investeringen in goede voorzieningen in álle dorpen en wijken. Dit hoeft niet te betekenen dat er meer…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Het is niet of of maar en en. Elk dorp, wijk en buurt zijn even belangrijk, immers zijn we straks een gemeente met verschillende dorpskernen en wijken. Samen zijn we Hilversum maar hebben ieder ons eigen zeggenschap, kernbudgetten en rechten. Alle projecten die wijk of dorp overstijgend zijn dienen dan ook te worden overlegt met de adviesraden van die wijken…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "lfd": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De herindeling mag geen financiële strijd worden tussen stad en dorpen. LFD vindt dat iedere inwoner recht heeft op goede gemeentelijke dienstverlening, ongeacht waar die woont. De zes dorpen van Wijdemeren hebben ieder hun eigen karakter en behoeften, net zoals de wijken van Hilversum. Dat vraagt om lokaal maatwerk, niet om het bevoordelen van de ene kern ten koste…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "volt": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Om de dorpen aantrekkelijk te houden, is het belangrijk om te investeren in lokale voorzieningen, in overleg met inwoners. Investeren in de dorpen voorkomt dat er nog meer druk op de stad komt. Dorpen en wijken beslissen wat de behoeften zijn voor hun dorp of wijk. De gemeenteraad weegt af wat voorrang heeft. Goede dorps- en wijkoverstijgende voorzieningen zijn ook…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "fvd": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Een gemeentefusie is ondermijnend voor de democratie. De schade wil FvD beperken door dorpsplatforms of dorpsraden aan te stellen die een bindend advies afgeven aan de gemeenteraad. Op die manier kunnen we zorgen dat de Hilversummers niet vanwege hun numeriek overwicht de mensen in Wijdemeren zaken kunnen opleggen die voor de inwoners van de dorpen nadelig zijn. De argumentatie…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "bbb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Wijdemeren wordt opgenomen in Hilversum en daar hoort volledige zorg en aandacht voor de dorpen bij. Door financieel en bestuurlijk drama zijn in Wijdemeren noodzakelijke basistaken, zoals het onderhoud aan wegen en voorzieningen, blijven liggen. Hilversum moet dit nu voortvarend oppakken. De fusie mag nooit een excuus zijn om voorzieningen uit de dorpen weg te halen. BBB staat voor harde…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   }
+  }
+ }
+]

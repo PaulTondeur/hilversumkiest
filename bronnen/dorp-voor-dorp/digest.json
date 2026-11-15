@@ -1,0 +1,1015 @@
+{
+  "slug": "dorp-voor-dorp",
+  "kernboodschap": "Dorp voor Dorp, een nieuwe lokale partij van inwoners van Wijdemeren uit onvrede over de fusie met Hilversum, wil dat inwoners en dorpen meer te zeggen krijgen via dorpsraden met eigen budget en bevoegdheden, bindende referenda en een zeer transparante gemeente. Het programma legt het accent op lokale binding bij wonen en voorzieningen dichtbij in de dorpen. Daarnaast staan concrete keuzes tegen nieuwe AZC's en nieuwe windturbines, voor betaald parkeren alleen in het centrum en voor een middelbare school in het dorpengebied.",
+  "speerpunten": [
+    "Dorpsraden met eigen budget en zoveel mogelijk overgedragen bevoegdheden, in plaats van alleen adviseren",
+    "Lokale referenda die uiteindelijk bindend moeten worden (drempel circa 3%, opkomst circa 50%)",
+    "Meest transparante gemeente: iedere uitgave binnen drie klikken vanaf de begroting",
+    "Sociale huur en koop: wachttijd en lokale binding zwaarder laten wegen, betaalbare koop terug, geen voorrang voor statushouders",
+    "Geen nieuwe AZC's en geen nieuwe windturbines",
+    "Betaald parkeren alleen in het centrum en gratis parkeren bij het gemeentehuis",
+    "Een middelbare school voor de dorpen onderzoeken en een Techniekcampus Gooi & Vecht",
+    "Buurtfondsen in plaats van één centraal Stadsfonds"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "sociale huur eigen dorp of buurt",
+        "standpunt": "Inwoners van een dorp of buurt moeten vooraan staan bij de toewijzing van sociale huurwoningen in hun eigen gemeenschap; lokale binding moet zwaar meewegen.",
+        "citaat": "Daarom wil Dorp voor Dorp dat inwoners van een dorp of buurt vooraan staan bij de toewijzing van sociale huurwoningen in hun eigen gemeenschap.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wachttijd en binding bij woningtoewijzing",
+        "standpunt": "Wachttijd en aantoonbare binding met dorpen en buurten moeten veel zwaarder wegen bij de verdeling van schaarse woningen.",
+        "citaat": "Dorp voor Dorp vindt dat wachttijd en aantoonbare binding met onze dorpen en buurten veel zwaarder moeten wegen.",
+        "bron": "programma",
+        "pagina": 45,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bindingsduur tien jaar",
+        "standpunt": "De partij wil zich landelijk inzetten voor de mogelijkheid van een minimale verblijfs- of bindingsduur, met tien jaar als uitgangspunt voordat nieuwkomers op gelijke voet aanspraak maken op schaarse reguliere woonruimte.",
+        "citaat": "Ons uitgangspunt daarbij is een termijn van tien jaar voordat nieuwkomers op gelijke voet aanspraak kunnen maken op schaarse reguliere woonruimte.",
+        "bron": "programma",
+        "pagina": 46,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang statushouders",
+        "standpunt": "Statushouder zijn is op zichzelf geen reden voor voorrang op een sociale huurwoning.",
+        "citaat": "Dorp voor Dorp vindt dat statushouder zijn op zichzelf geen reden voor voorrang op een sociale huurwoning moet zijn.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaalbare koop (premiewoningen)",
+        "standpunt": "De gemeente brengt betaalbare koopvormen naar het voorbeeld van de vroegere premiewoningen terug, met voorwaarden over wie koopt, doorverkoop en wat er met de winst gebeurt.",
+        "citaat": "Dorp voor Dorp wil dit soort betaalbare koopvormen terugbrengen.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "woning verkopen, grond niet",
+        "standpunt": "Woningen goedkoper maken door de woning wel te verkopen maar de grond in handen van de gemeente te houden (erfpacht, pacht of latere aankoop van de grond).",
+        "citaat": "De gemeente kan er daarom voor kiezen de woning wel te verkopen, maar de grond niet.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "waardestijging betaalbare koop",
+        "standpunt": "Afspraken over waardestijging, zodat betaalbare woningen na één verkoop niet uit het betaalbare segment verdwijnen.",
+        "citaat": "afspraken maken over waardestijging, zodat betaalbare woningen niet na één verkoop uit het betaalbare segment verdwijnen;",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "essentiële beroepen",
+        "standpunt": "Ruimte reserveren voor leerkrachten, zorgmedewerkers, wijkagenten en andere mensen met essentiële beroepen.",
+        "citaat": "ruimte maken voor mensen die essentieel zijn voor onze dorpen en buurten, zoals leerkrachten, zorgmedewerkers en wijkagenten;",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaalbaar voor modaal inkomen",
+        "standpunt": "Wonen moet weer bereikbaar worden voor één modaal inkomen; jongeren moeten in hun eigen dorp of buurt kunnen blijven wonen.",
+        "citaat": "Eén modaal inkomen voor één modaal huis",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "senioren en doorstroming",
+        "standpunt": "Meer woonvormen tussen zelfstandig wonen en verzorgingshuis (aanleunwoning, levensloopbestendig, extra woning op eigen grond, aanbouw voor mantelzorg, splitsen van woningen); doorstroming via een aantrekkelijk alternatief, niet via druk.",
+        "citaat": "Dorp voor Dorp wil daarom opnieuw ruimte maken voor verschillende woonvormen tussen volledig zelfstandig wonen en het verzorgingshuis.",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kleinschalige woonwijken aan dorpsrand",
+        "standpunt": "Onderzoeken of aan de randen van dorpen kleinschalige woonwijken met de uitstraling van een groen recreatiepark kunnen komen, voor ouderen, mensen die rust en overzicht zoeken en essentiële beroepen.",
+        "citaat": "Dorp voor Dorp wil onderzoeken of aan de randen van dorpen en buurten kleinschalige woonwijken kunnen ontstaan met de uitstraling van een groen recreatiepark.",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "weigeren passende woning",
+        "standpunt": "Binnen de wet duidelijke consequenties verbinden aan het zonder zwaarwegende reden weigeren van een aangeboden passende woning door een statushouder.",
+        "citaat": "Daarom wil Dorp voor Dorp dat binnen de mogelijkheden van de wet duidelijke consequenties gelden wanneer passende huisvesting zonder zwaarwegende reden wordt geweigerd.",
+        "bron": "programma",
+        "pagina": 46,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "rode contouren en bouwgrenzen",
+        "standpunt": "Bestaande bouw- en contourgrenzen opnieuw beoordelen waar ze woningbouw onnodig beperken, zodat dorpen aan de rand gecontroleerd kunnen groeien in plaats van alles binnen de dorpsgrenzen te persen.",
+        "citaat": "bestaande bouw- en contourgrenzen opnieuw beoordelen waar deze woningbouw onnodig beperken;",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitbreiding aan dorpsranden",
+        "standpunt": "Gecontroleerde uitbreiding aan dorpsranden mogelijk maken waar dat ruimtelijk verantwoord is; nieuwbouw moet passen bij karakter en schaal van het dorp.",
+        "citaat": "gecontroleerde uitbreiding aan dorpsranden mogelijk maken waar dat ruimtelijk verantwoord is;",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groen binnen dorpen versus verdichting",
+        "standpunt": "Niet alle open plekken binnen dorpen volbouwen; open ruimte, groen en leefkwaliteit binnen dorpen beschermen.",
+        "citaat": "Niet iedere lege vierkante meter binnen een dorp hoeft te worden volgebouwd.",
+        "bron": "programma",
+        "pagina": 48,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "groen versus woningbouw",
+        "standpunt": "Onderscheid maken tussen kwetsbare, waardevolle natuur die bescherming verdient en locaties waar woningbouw verantwoord kan worden ingepast.",
+        "citaat": "We willen daarom onderscheid maken tussen kwetsbare en waardevolle natuur die bescherming verdient en locaties waar woningbouw verantwoord kan worden ingepast.",
+        "bron": "programma",
+        "pagina": 48,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bouwen voor wie, niet alleen hoeveel",
+        "standpunt": "Bij woningbouw niet alleen naar aantallen kijken maar naar voor wie wordt gebouwd; er worden in het programma geen aantallen genoemd.",
+        "citaat": "bij woningbouw niet alleen kijken naar hoeveel woningen er komen, maar vooral ook voor wie we bouwen.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "richting"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren alleen in het centrum",
+        "standpunt": "Betaald parkeren beperken tot het centrum; daarbuiten alleen vrij parkeren.",
+        "citaat": "betaald parkeren in het centrum, daarbuiten alleen vrij parkeren.",
+        "bron": "programma",
+        "pagina": 53,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitbreiding betaald parkeren",
+        "standpunt": "Voorkomen dat betaald parkeren steeds verder wordt uitgebreid naar gebieden waar het geen duidelijke noodzaak heeft.",
+        "citaat": "Dorp voor Dorp wil daarom voorkomen dat betaald parkeren steeds verder wordt uitgebreid naar gebieden waar het geen duidelijke noodzaak heeft.",
+        "bron": "programma",
+        "pagina": 53,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaald parkeren en bezoek of mantelzorg",
+        "standpunt": "Parkeergeld mag geen drempel zijn voor kinderen die ouders bezoeken, mantelzorgers en zorgmedewerkers die thuis komen.",
+        "citaat": "Het is absurd dat we mensen aanmoedigen om naar elkaar om te kijken, maar daar vervolgens parkeergeld voor vragen?",
+        "bron": "programma",
+        "pagina": 53,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gratis parkeren gemeentehuis",
+        "standpunt": "Vanaf januari 2027 direct een oplossing voor betaald parkeren bij het gemeentehuis van Hilversum: gratis parkeren voor bezoekers van Burgerzaken en voor inwoners die een openbare raads- of commissievergadering bijwonen.",
+        "citaat": "Daarom vindt Dorp voor Dorp dat er vanaf januari 2027 direct een oplossing moet komen voor betaald parkeren bij het gemeentehuis van Hilversum.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "alternatieven gratis parkeren gemeentehuis",
+        "standpunt": "Als volledig gratis parkeren niet direct kan: de eerste 30 of 60 minuten gratis, kentekenregistratie gekoppeld aan een afspraak, uitrijkaart of een regeling voor raadsvergaderingen.",
+        "citaat": "de eerste 30 of 60 minuten gratis parkeren;",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "parkeerplaatsen bij nieuwbouw",
+        "standpunt": "Bij woningbouw voldoende parkeerplaatsen realiseren en het aantal parkeerplaatsen per woning verhogen wanneer het huidige quotum onvoldoende blijkt.",
+        "citaat": "bij woningbouw voldoende parkeerplaatsen realiseren;",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeernorm omhoog",
+        "standpunt": "Het aantal parkeerplaatsen per woning moet omhoog kunnen wanneer het quotum onvoldoende is voor de parkeerbehoefte van bewoners.",
+        "citaat": "het aantal parkeerplaatsen per woning verhogen wanneer dat nodig is.",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "spoor ondergronds in centraal Hilversum",
+        "standpunt": "Een onafhankelijke haalbaarheidsstudie naar het verdiept of ondergronds brengen van een deel van het spoor door centraal Hilversum, met kosten en opbrengsten van de vrijkomende ruimte; pas daarna een besluit.",
+        "citaat": "Dorp voor Dorp wil serieus laten onderzoeken of het mogelijk is om een deel van het spoor door centraal Hilversum verdiept of ondergronds aan te leggen.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Stationshart en verbinding centrum-Oost",
+        "standpunt": "Erkent het Stationshart als belangrijke stap voor de verbinding tussen centrum en Oost, maar wil verder kijken dan die plannen.",
+        "citaat": "In het Stationshart wordt gewerkt aan een aantrekkelijkere verbinding tussen het centrum en Oost.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "veilige fietsverbinding naar dorpsschool",
+        "standpunt": "Een veilige fietsverbinding vanaf de omliggende dorpen hoort onderdeel te zijn van het plan voor een middelbare school in het dorpengebied.",
+        "citaat": "En wanneer een veilige fietsverbinding vanaf de omliggende dorpen onderdeel wordt van het plan, versterken onderwijs en infrastructuur elkaar.",
+        "bron": "programma",
+        "pagina": 62,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gemeentehuis bereikbaar per auto",
+        "standpunt": "Het gemeentehuis moet ook per auto bereikbaar blijven; de keuze voor een vervoermiddel mag geen voorwaarde zijn voor toegang tot dienstverlening en democratie, naast goede bereikbaarheid per fiets, te voet en met OV.",
+        "citaat": "De keuze voor een vervoermiddel mag geen voorwaarde worden voor laagdrempelige toegang tot gemeentelijke dienstverlening en lokale democratie.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "windturbines (nieuw)",
+        "standpunt": "Geen nieuwe windturbines; moderne turbines van rond de 300 meter zijn volgens de partij qua schaal niet te vergelijken met oude windmolens.",
+        "citaat": "Dorp voor Dorp wil geen nieuwe windturbines.",
+        "bron": "programma",
+        "pagina": 71,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bestaande windturbines",
+        "standpunt": "Bestaande overlastgevende windturbines waar mogelijk laten verdwijnen.",
+        "citaat": "bestaande overlastgevende windturbines waar mogelijk laten verdwijnen;",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vervanging of vergroting turbines",
+        "standpunt": "Bij het einde van de levensduur van een bestaande turbine niet automatisch kiezen voor vervanging of vergroting.",
+        "citaat": "bij het einde van de levensduur van bestaande turbines niet automatisch kiezen voor vervanging of vergroting.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "energieprojecten en dorpsstem",
+        "standpunt": "Dorpsraden moeten bij grote besluiten, waaronder windmolens en andere energieprojecten, een lokaal referendum kunnen initiëren.",
+        "citaat": "Denk aan grote woningbouwprojecten, infrastructuur, windmolens en andere energieprojecten, asielopvang of ingrijpende veranderingen in de ruimtelijke ordening.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "landschap versus energieopwekking",
+        "standpunt": "Landschap, natuur, uitzicht en leefomgeving zwaar laten meewegen bij ruimtelijke keuzes over energieopwekking; de ruimtelijke impact telt hier zwaarder dan de hoeveelheid opgewekte energie.",
+        "citaat": "landschap, natuur, uitzicht en leefomgeving zwaar laten meewegen bij ruimtelijke keuzes;",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "richting"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "gedwongen uitkoop boeren",
+        "standpunt": "Tegen gedwongen uitkoop van boeren voor natuurontwikkeling of uitbreiding van Natura 2000-gebieden.",
+        "citaat": "Dorp voor Dorp is tegen gedwongen uitkoop van boeren voor natuurontwikkeling of uitbreiding van Natura 2000-gebieden.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voedselproductie en agrarische grond",
+        "standpunt": "Voedselproductie behandelen als strategisch belang en agrarische gronden niet onnodig laten verdwijnen.",
+        "citaat": "Daarom ziet Dorp voor Dorp voedselproductie als een strategisch belang.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "nevenactiviteiten boeren",
+        "standpunt": "Ruimte geven aan boerderijwinkels, zorgboerderijen, educatie en kleinschalige recreatie; gemeentelijke regels die dit onnodig belemmeren kritisch bekijken.",
+        "citaat": "Dorp voor Dorp wil daarom dat de gemeente meedenkt met agrariërs die passende nevenactiviteiten willen ontwikkelen.",
+        "bron": "programma",
+        "pagina": 77,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "landbouw naast natuur",
+        "standpunt": "Landbouw en natuur laten samengaan met samenwerking, innovatie en vrijwillige oplossingen in plaats van dwang.",
+        "citaat": "Daarom kiezen wij voor samenwerking, innovatie en vrijwillige oplossingen in plaats van dwang.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gemeentelijke regie over natuurbeleid",
+        "standpunt": "Onderzoeken of de gemeente een grotere regierol kan krijgen bij natuurbeleid en natuurbeheer, binnen de wettelijke kaders.",
+        "citaat": "onderzoeken hoe de gemeente een grotere regierol kan krijgen bij natuurbeleid en natuurbeheer;",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "natuurorganisaties onder democratische kaders",
+        "standpunt": "Natuurorganisaties (Natuurmonumenten, Staatsbosbeheer, Goois Natuurreservaat) waar wettelijk mogelijk laten werken binnen door de gemeente vastgestelde kaders; hun kennis blijft benut.",
+        "citaat": "natuurorganisaties laten werken binnen democratisch vastgestelde kaders waar dat mogelijk is;",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "wettelijke bescherming",
+        "standpunt": "Bestaande wettelijke beschermingsregimes (Natura 2000, Natuurnetwerk Nederland) worden gerespecteerd.",
+        "citaat": "bestaande wettelijke beschermingsregimes respecteren;",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groen en waardevolle natuur beschermen",
+        "standpunt": "Open ruimte, groen en leefkwaliteit binnen dorpen beschermen en kwetsbare, waardevolle natuur blijven beschermen.",
+        "citaat": "kwetsbare en waardevolle natuur blijven beschermen;",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wolf en probleemwolven",
+        "standpunt": "Onderzoeken welke rol de wolf in het ecosysteem speelt; onderscheid maken tussen wolven met natuurlijk gedrag en probleemwolven; onderzoeken of gericht afschot van probleemwolven de goedkoopste en meest humane oplossing is.",
+        "citaat": "Volgens Dorp voor Dorp zou de goedkoopste en meest humane oplossing kunnen zijn om probleemwolven gericht af te schieten, terwijl andere wolven waar mogelijk hun natuurlijke gebied kunnen behouden.",
+        "bron": "programma",
+        "pagina": 79,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "rol wolf in ecosysteem",
+        "standpunt": "Onderzoek naar de natuurlijke rol van de wolf, de invloed op gedrag en verspreiding van prooidieren en de gevolgen voor natuurontwikkeling en verkeersveiligheid.",
+        "citaat": "Daarom wil Dorp voor Dorp onderzoeken welke rol de wolf op natuurlijke wijze in ons ecosysteem kan spelen,",
+        "bron": "programma",
+        "pagina": 78,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "inwoners eerder betrekken bij natuurplannen",
+        "standpunt": "Inwoners eerder betrekken bij keuzes over natuur en landschap en lokale kennis van bewoners, boeren en ondernemers serieus meenemen.",
+        "citaat": "inwoners eerder betrekken bij plannen die hun directe leefomgeving raken;",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "hobbydieren Horstermeer",
+        "standpunt": "Hobbydieren (paarden, schapen, kippen) horen bij de Horstermeer; de gemeente moet bestaande rechten respecteren en niet onnodig moeilijk doen over verantwoord gehouden hobbydieren.",
+        "citaat": "Dorp voor Dorp vindt dat hobbydieren gewoon bij de Horstermeer horen.",
+        "bron": "extra-partij-site.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "talenten in het sociaal domein",
+        "standpunt": "In het sociaal domein veel meer kijken naar mogelijkheden en talenten van inwoners, en vraag en aanbod van hulp lokaal verbinden.",
+        "citaat": "binnen het sociaal domein veel meer kijken naar mogelijkheden en talenten;",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "geen verplichte tegenprestatie",
+        "standpunt": "Deelname aan wederzijdse hulp is vrijwillig en mag niet veranderen in een verplichte tegenprestatie voor een uitkering.",
+        "citaat": "voorkomen dat dit verandert in een verplichte tegenprestatie voor een uitkering;",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpshuizen en dorpsraden voor vraag en aanbod",
+        "standpunt": "Dorpshuizen en dorpsraden gebruiken om hulpvraag en hulpaanbod lokaal bij elkaar te brengen.",
+        "citaat": "dorpshuizen en dorpsraden gebruiken om vraag en aanbod lokaal bij elkaar te brengen;",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "professionele zorg en gemeenschap",
+        "standpunt": "Professionele zorg inzetten waar nodig en daarnaast de kracht van de gemeenschap beter benutten.",
+        "citaat": "professionele zorg en ondersteuning inzetten waar die nodig zijn, maar daarnaast de kracht van de gemeenschap beter benutten.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zorg dichtbij in de woonomgeving",
+        "standpunt": "Voorzieningen en zorg zoveel mogelijk dichtbij organiseren, onder meer in een kleinschalige groene woonomgeving voor ouderen.",
+        "citaat": "voorzieningen en zorg zoveel mogelijk dichtbij organiseren;",
+        "bron": "programma",
+        "pagina": 41,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "openbare toiletten",
+        "standpunt": "Voldoende volwaardige openbare toiletten in centra, recreatiegebieden en drukbezochte plekken, bij evenementen met voldoende capaciteit voor vrouwen.",
+        "citaat": "voldoende volwaardige openbare toiletten in centra, recreatiegebieden en andere drukbezochte plekken;",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toilet als veilig steunpunt",
+        "standpunt": "Onderzoeken of strategisch gelegen toiletten ook als veilige plek kunnen dienen, met een discrete mogelijkheid om hulp in te schakelen.",
+        "citaat": "onderzoeken of strategisch gelegen toiletten ook als veilige plek kunnen functioneren;",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "steunpunten langs fietsroutes",
+        "standpunt": "Onderzoeken waar veilige, herkenbare, open en verlichte schuil- en steunpunten langs afgelegen fietsroutes passen, eventueel met oplaadpunten en intercom.",
+        "citaat": "onderzoeken waar veilige, herkenbare schuil- en steunpunten kunnen worden geplaatst;",
+        "bron": "programma",
+        "pagina": 68,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "verlichting fietsroutes",
+        "standpunt": "Donkere fietsroutes tussen dorpen, wijken, scholen en uitgaansgebieden in kaart brengen en gericht verlichten, met aandacht voor natuur en energiegebruik.",
+        "citaat": "Donker waar het kan, licht waar het voor de veiligheid nodig is.",
+        "bron": "programma",
+        "pagina": 67,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "Cameratoezicht alleen onderzoeken waar een concrete noodzaak bestaat en privacyregels het toelaten; geen algemeen cameratoezicht.",
+        "citaat": "cameratoezicht alleen onderzoeken waar daar een concrete noodzaak voor bestaat en dit juridisch en privacytechnisch verantwoord kan;",
+        "bron": "programma",
+        "pagina": 68,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "preventie via inrichting openbare ruimte",
+        "standpunt": "Veiligheid ook benaderen via de inrichting van de openbare ruimte (verlichting, overzicht, fietsverbindingen, toiletten), met aandacht voor veiligheidsbeleving van vrouwen en meisjes.",
+        "citaat": "Veiligheidsbeleid gaat niet alleen over handhaving nadat het misgaat.",
+        "bron": "programma",
+        "pagina": 65,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "azc",
+        "standpunt": "Geen nieuwe AZC's in de gemeente; de partij erkent wel dat gemeenten onder de Spreidingswet een wettelijke taak hebben en zet in op maximale lokale zeggenschap binnen de wet.",
+        "citaat": "Dorp voor Dorp wil geen nieuwe AZC's in onze gemeente.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokale zeggenschap over opvang",
+        "standpunt": "Binnen de ruimte die de wet biedt maximaal lokale zeggenschap houden over opvang.",
+        "citaat": "binnen de ruimte die de wet biedt maximaal lokaal zeggenschap houden over opvang;",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Spreidingswet",
+        "standpunt": "Erkent dat de huidige Spreidingswet gemeenten een wettelijke taak geeft; de keuze 'geen nieuwe AZC's' geldt waar de gemeente zelf beleidsruimte heeft.",
+        "citaat": "Onder de huidige Spreidingswet hebben gemeenten een wettelijke taak bij het realiseren van asielopvang.",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "impact van opvang vooraf inzichtelijk",
+        "standpunt": "Bij plannen voor opvang vooraf inzichtelijk maken wat dit betekent voor wonen, zorg, onderwijs, veiligheid, leefbaarheid en gemeentelijke financiën.",
+        "citaat": "vooraf inzichtelijk maken wat opvang betekent voor wonen, zorg, onderwijs, veiligheid, leefbaarheid en gemeentelijke financiën;",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inwoners vroeg betrekken bij opvang",
+        "standpunt": "Inwoners vroegtijdig en volledig betrekken bij opvangplannen die hun dorp of buurt raken, over omvang, locatie, duur, kosten en gevolgen.",
+        "citaat": "inwoners vroegtijdig en volledig betrekken bij plannen die hun dorp of buurt raken;",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "statushouders en sociale huur",
+        "standpunt": "Geen voorrang op een sociale huurwoning uitsluitend vanwege de status als statushouder; de belangen van bestaande woningzoekenden meewegen.",
+        "citaat": "geen voorrang op een sociale huurwoning uitsluitend vanwege de status als statushouder;",
+        "bron": "programma",
+        "pagina": 45,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bindingsduur tien jaar (landelijk)",
+        "standpunt": "Landelijk pleiten voor meer mogelijkheden om een minimale verblijfs- of bindingsduur te hanteren, met tien jaar als uitgangspunt.",
+        "citaat": "landelijk pleiten voor meer mogelijkheden om een minimale verblijfs- of bindingsduur te hanteren, waarbij Dorp voor Dorp uitgaat van tien jaar;",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "weigeren aangeboden woning",
+        "standpunt": "Wie een schaars en passend huisvestingsaanbod krijgt, mag daar niet vrijblijvend mee omgaan; consequenties alleen binnen wat de wet toestaat (een gemeente kan niet zelf voorwaarden aan een verblijfsrecht verbinden).",
+        "citaat": "Wie een schaars en passend aanbod krijgt, mag daar niet vrijblijvend mee omgaan.",
+        "bron": "programma",
+        "pagina": 46,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "referendum over opvanglocatie",
+        "standpunt": "Een grootschalige opvanglocatie hoort bij de besluiten waarover inwoners een referendum moeten kunnen aanvragen.",
+        "citaat": "de komst van een grootschalige opvanglocatie;",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "arbeidsmigratie",
+        "standpunt": "Door zelf meer technisch talent op te leiden (Techniekcampus) de afhankelijkheid van arbeidsmigratie en werknemers van buiten de regio verminderen.",
+        "citaat": "Wanneer we zelf onvoldoende technisch talent opleiden, wordt de afstand tussen onderwijs en arbeidsmarkt steeds groter en neemt de afhankelijkheid van werknemers van buiten de regio en arbeidsmigratie toe.",
+        "bron": "programma",
+        "pagina": 60,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "Stadsfonds wordt Buurtfonds",
+        "standpunt": "Het huidige centrale Stadsfonds (ondernemersbijdrage) vervangen door Buurtfondsen per buurt of dorp, waarin ondernemers, inwoners en lokale organisaties meebeslissen.",
+        "citaat": "het huidige model van één centraal Stadsfonds vervangen door Buurtfondsen;",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bijdrage ondernemers per gebied",
+        "standpunt": "De bijdrage van ondernemers aan een Buurtfonds moet per gebied kunnen verschillen, zodat een hoge verplichte bijdrage in een zwak winkelgebied niet averechts werkt.",
+        "citaat": "Ook de bijdrage van ondernemers aan een Buurtfonds moet daarom per gebied kunnen verschillen.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokale economie en leefbaarheid",
+        "standpunt": "Lokaal economisch beleid (winkelstraten, bedrijventerreinen) hoort samen met leefbaarheid te worden gezien.",
+        "citaat": "Daarom zien wij lokaal economisch beleid niet als iets dat losstaat van leefbaarheid.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "betaald parkeren in het centrum",
+        "standpunt": "Betaald parkeren is in het centrum acceptabel om parkeerruimte te verdelen; daarbuiten kan het een onnodige drempel zijn.",
+        "citaat": "In het centrum kan betaald parkeren een functie hebben om de beschikbare parkeerruimte goed te verdelen.",
+        "bron": "programma",
+        "pagina": 53,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regels voor agrarische ondernemers",
+        "standpunt": "Gemeentelijke regels die agrarische ondernemers onnodig belemmeren kritisch tegen het licht houden.",
+        "citaat": "gemeentelijke regels die agrarische ondernemers onnodig belemmeren kritisch tegen het licht houden;",
+        "bron": "programma",
+        "pagina": 77,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "onderwijs en regionale arbeidsmarkt",
+        "standpunt": "De aansluiting tussen onderwijs en de regionale arbeidsmarkt veel sterker maken via de Techniekcampus, met regionale technische bedrijven structureel betrokken.",
+        "citaat": "de aansluiting tussen onderwijs en de regionale arbeidsmarkt veel sterker maken.",
+        "bron": "programma",
+        "pagina": 61,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "Techniekcampus Gooi & Vecht",
+        "standpunt": "Een regionale Techniekcampus voor gezamenlijk technisch praktijkonderwijs van scholen en regionale bedrijven; fase 1 is een regionaal technisch praktijkcentrum.",
+        "citaat": "Dorp voor Dorp wil daarom werken aan een Techniekcampus voor Gooi & Vecht:",
+        "bron": "programma",
+        "pagina": 58,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "opbouw Techniekcampus",
+        "standpunt": "Stapsgewijs groeien: eerst een praktijkcentrum waar leerlingen verbonden blijven aan hun eigen school, later technische theorievakken en een leerlijn VMBO-MBO-HBO.",
+        "citaat": "Fase 1 is een regionaal technisch praktijkcentrum.",
+        "bron": "programma",
+        "pagina": 60,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "middelbare school voor de dorpen",
+        "standpunt": "Onderzoeken of een middelgrote middelbare school voor de dorpen haalbaar is, met Nederhorst den Berg, Ankeveen en Kortenhoef als verzorgingsgebied; geen belofte van een school, wel een serieus haalbaarheidsonderzoek.",
+        "citaat": "onderzoeken of een middelgrote middelbare school voor de dorpen haalbaar is;",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "locatie dorpenschool",
+        "standpunt": "Een centrale locatie tussen Nederhorst den Berg, Ankeveen en Kortenhoef, nog niet aangewezen; geen enorme scholengemeenschap.",
+        "citaat": "Wij zien kansen voor een school op een centraal gelegen locatie tussen Nederhorst den Berg, Ankeveen en Kortenhoef.",
+        "bron": "programma",
+        "pagina": 61,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "omvang dorpenschool",
+        "standpunt": "Een middelgrote school op menselijke schaal in plaats van een enorme scholengemeenschap.",
+        "citaat": "Dorp voor Dorp denkt nadrukkelijk niet aan een enorme scholengemeenschap.",
+        "bron": "programma",
+        "pagina": 62,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bibliotheek",
+        "standpunt": "De huidige locatie van de bibliotheek in Hilversum voor de toekomst behouden en de bibliotheek goed bereikbaar houden vanuit alle dorpen.",
+        "citaat": "de huidige locatie van de bibliotheek in Hilversum voor de toekomst behouden;",
+        "bron": "programma",
+        "pagina": 85,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpshuis in elke buurt of dorp",
+        "standpunt": "In ieder dorp en iedere buurt een centrale ontmoetingsplek (dorpshuis); bestaande dorpshuizen en buurthuizen behouden en versterken.",
+        "citaat": "in ieder dorp en iedere buurt een centrale ontmoetingsplek;",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bestaande dorpshuizen",
+        "standpunt": "Bestaande dorpshuizen en buurthuizen behouden en waar nodig versterken.",
+        "citaat": "bestaande dorpshuizen en buurthuizen behouden en waar nodig versterken;",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "eigen club in elk dorp",
+        "standpunt": "Elk dorp ruimte geven voor een eigen, betaalbare club of uitgaansplek die overdag en 's avonds wordt gebruikt; de dorpen bepalen zelf de invulling.",
+        "citaat": "ieder dorp ruimte geven voor een eigen club of uitgaansplek;",
+        "bron": "programma",
+        "pagina": 83,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "betaalbaar uitgaan",
+        "standpunt": "Uitgaan betaalbaar en laagdrempelig houden en voorkomen dat iedere ontmoetingsplek een duur of commercieel concept moet worden.",
+        "citaat": "uitgaan betaalbaar en laagdrempelig houden;",
+        "bron": "programma",
+        "pagina": 83,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokale evenementen en tradities",
+        "standpunt": "Jaarmarkten, de Sloepentocht, ijsbanen en andere lokale evenementen zoveel mogelijk behouden.",
+        "citaat": "jaarmarkten, de Sloepentocht, ijsbanen en andere lokale evenementen zoveel mogelijk behouden;",
+        "bron": "programma",
+        "pagina": 89,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "buurtfeesten in Hilversum",
+        "standpunt": "Meer ruimte voor buurtfeesten en kleinschalige evenementen in Hilversum.",
+        "citaat": "meer ruimte geven aan buurtfeesten en kleinschalige evenementen in Hilversum;",
+        "bron": "programma",
+        "pagina": 89,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "evenementen niet centraliseren",
+        "standpunt": "Evenementen niet centraliseren of gemeentebreed organiseren.",
+        "citaat": "niet alles centraliseren of gemeentebreed organiseren;",
+        "bron": "programma",
+        "pagina": 89,
+        "soort": "concreet"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "dorpsraden: samenstelling",
+        "standpunt": "Gekozen dorpsraden van maximaal vijf leden en een voorzitter, jaarlijks gekozen in een openbare jaarvergadering waarvoor iedere inwoner zich verkiesbaar kan stellen.",
+        "citaat": "Een dorpsraad bestaat uit maximaal vijf leden en een voorzitter die de continuïteit bewaakt.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpsraden: bevoegdheden",
+        "standpunt": "Dorpsraden niet alleen laten adviseren maar laten beslissen: zoveel mogelijk bevoegdheden overdragen binnen de Gemeentewet.",
+        "citaat": "Binnen de mogelijkheden van de huidige wet willen we daarom zoveel mogelijk bevoegdheden overdragen aan dorpsraden.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpsbudget",
+        "standpunt": "Ieder dorp krijgt een eigen dorpsbudget dat de dorpsraad met inwoners besteedt binnen kaders; het formele begrotingsrecht blijft bij de gemeenteraad. Een bedrag wordt niet genoemd.",
+        "citaat": "Daarom willen wij dat ieder dorp beschikt over een eigen dorpsbudget.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpsraden als tegenmacht",
+        "standpunt": "Als minstens twee derde van alle dorpsraden het vertrouwen in een wethouder opzegt, moet dat een zwaarwegend politiek gevolg hebben; onder de huidige wet minimaal een openbare behandeling door de gemeenteraad.",
+        "citaat": "Ons streven is dat wanneer ten minste twee derde van alle dorpsraden het vertrouwen opzegt in het functioneren van een wethouder, dit een zwaarwegend politiek gevolg heeft.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "referendum geïnitieerd door dorpsraad",
+        "standpunt": "Dorpsraden moeten bij grote besluiten (woningbouwprojecten, infrastructuur, windmolens, asielopvang, ruimtelijke ordening) een lokaal referendum kunnen initiëren.",
+        "citaat": "Denk aan grote woningbouwprojecten, infrastructuur, windmolens en andere energieprojecten, asielopvang of ingrijpende veranderingen in de ruimtelijke ordening.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bindende referenda",
+        "standpunt": "Streven naar bindende lokale referenda; waar de wet dat niet toelaat de uitslag politiek respecteren voor zover uitvoering binnen de wet kan, en bepleiten dat de wet wordt verruimd.",
+        "citaat": "Dorp voor Dorp streeft daarom naar bindende lokale referenda.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "referendum: drempel aanvragen",
+        "standpunt": "Een ondersteuningsdrempel van ongeveer 3% van de kiesgerechtigden voor een definitief referendumverzoek (nu in Hilversum 2,5% en daarna 5% in twee fasen); precies percentage in de nieuwe verordening.",
+        "citaat": "Wij denken aan een ondersteuningsdrempel van ongeveer 3% van de kiesgerechtigden voor een definitief referendumverzoek.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "referendum: bedenktijd",
+        "standpunt": "Geen maximale bedenktijd voor het aanvragen van een referendum.",
+        "citaat": "Daarom vinden wij dat er geen maximale bedenktijd mag gelden voor het aanvragen van een referendum, zoals momenteel in Oud-Hilversum.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "referendum: opkomst",
+        "standpunt": "Een referendumuitslag is geldig bij een minimale opkomst van circa 50% van de kiesgerechtigden.",
+        "citaat": "Dorp voor Dorp kiest voor een minimale opkomst van circa 50% van de kiesgerechtigden.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "referendum: schaalniveaus",
+        "standpunt": "Referenda op buurt-, dorps- of wijk- en gemeentelijk niveau, waarbij in beginsel stemt wie door het besluit wordt geraakt.",
+        "citaat": "Daarom wil Dorp voor Dorp referenda mogelijk maken op verschillende schaalniveaus:",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "referendum over bestaande regels",
+        "standpunt": "Een referendum of een democratische route moet ook mogelijk zijn over bestaande gemeentelijke verordeningen, niet alleen over nieuwe raadsbesluiten.",
+        "citaat": "Een referendum moet wat ons betreft niet uitsluitend mogelijk zijn over een nieuw raadsbesluit.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "transparantie: drie klikken",
+        "standpunt": "Iedere gemeentelijke uitgave moet in maximaal drie klikken vanaf de hoofdbegroting bereikbaar zijn, doorzoekbaar op onderwerp, wijk, dorp, project, leverancier en organisatie.",
+        "citaat": "Iedere uitgave moet in maximaal drie klikken vanaf de hoofdbegroting bereikbaar zijn.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "meest transparante gemeente",
+        "standpunt": "Doel: Hilversum wordt de meest transparante gemeente van Nederland, met actieve openbaarheid van besluiten, uitvoering en financiële afwijkingen.",
+        "citaat": "Hilversum moet de meest transparante gemeente van Nederland worden.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "openbaar tenzij",
+        "standpunt": "Openbaar als uitgangspunt met uitzonderingen voor privacy, bedrijfsgevoelige informatie en wettelijke geheimhouding; actieve openbaarheid om Woo-verzoeken te verminderen.",
+        "citaat": "Ons uitgangspunt is openbaar, tenzij.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "stemgedrag raadsleden zichtbaar",
+        "standpunt": "Waar mogelijk zichtbaar maken hoe gekozen vertegenwoordigers hebben gestemd en welke moties en verkiezingsbeloften zijn uitgevoerd.",
+        "citaat": "We willen waar mogelijk ook zichtbaar maken hoe gekozen vertegenwoordigers daadwerkelijk hebben gestemd.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "één digitaal platform en app",
+        "standpunt": "Eén gemeentelijke app en webomgeving voor dienstverlening, raadsvergaderingen live gekoppeld aan stukken en besluiten, peilingen en meldingen.",
+        "citaat": "Wij willen één volwaardig digitaal gemeentelijk platform waarop dienstverlening, informatie, lokale democratie en contact met de gemeente samenkomen.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Dorpsraad-app",
+        "standpunt": "Een Dorpsraad-app voor melden en volgen van problemen, vroegtijdig meepraten, vraag en aanbod van hulp en contact met de eigen dorpsraad.",
+        "citaat": "Dorp voor Dorp wil daarom een Dorpsraad-app ontwikkelen:",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "digitaal stemmen",
+        "standpunt": "Digitaal stemmen bij lokale referenda alleen invoeren als en zodra dat juridisch is toegestaan en aantoonbaar veilig en betrouwbaar kan.",
+        "citaat": "Daarom voeren we digitaal stemmen alleen in als en zodra dit juridisch is toegestaan én aantoonbaar veilig en betrouwbaar kan worden georganiseerd.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "AI in de gemeente",
+        "standpunt": "Onderzoeken of de gemeente kan werken met afgeschermde, bij voorkeur open-source of Europese AI-toepassingen; mensen blijven verantwoordelijk voor besluiten.",
+        "citaat": "Daarom willen wij onderzoeken hoe de gemeente kan werken met afgeschermde AI-toepassingen die onder controle van de gemeente of een betrouwbare publieke/Europese omgeving draaien.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "communicatieplatform raadsleden",
+        "standpunt": "Raadsleden krijgen een eigen, goed beveiligd communicatieplatform van de gemeente in plaats van apps als WhatsApp.",
+        "citaat": "Wij willen dat raadsleden voor hun raadswerk gebruik kunnen maken van een eigen, goed beveiligd digitaal communicatieplatform van de gemeente, in plaats van daarvoor afhankelijk te zijn van apps zoals bijvoorbeeld WhatsApp.",
+        "bron": "programma",
+        "pagina": 32,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "niet-digitale dienstverlening behouden",
+        "standpunt": "Telefonische en persoonlijke dienstverlening behouden voor inwoners die niet digitaal kunnen of willen deelnemen.",
+        "citaat": "traditionele dienstverlening behouden voor inwoners die niet digitaal kunnen of willen deelnemen;",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Belletje in de raad",
+        "standpunt": "In de raad een 'Belletje' als signaal bij onnodig ingewikkeld taalgebruik, afkortingen bij eerste gebruik uitleggen, een begrippenlijst en een korte samenvatting na elke raadsvergadering.",
+        "citaat": "Daarom introduceert Dorp voor Dorp het Belletje in de raad.",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tegenspraak en groepsdenken",
+        "standpunt": "Een bepaalde afbeelding ophangen in kantoren en vergaderruimten van het gemeentehuis als herinnering aan tegenspraak en het voorkomen van groepsdenken; de titel van het onderdeel is in het programma deels afgekort.",
+        "citaat": "Daarom stelt Dorp voor Dorp voor om deze afbeelding een plaats te geven op kantoren en in vergaderruimten van het gemeentehuis.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorzieningen niet naar Hilversum concentreren",
+        "standpunt": "Voorkomen dat door de nieuwe gemeente steeds meer voorzieningen automatisch in Hilversum worden geconcentreerd; de dorpen mogen geen buitengebied worden.",
+        "citaat": "voorkomen dat door de nieuwe gemeente steeds meer voorzieningen automatisch in Hilversum worden geconcentreerd;",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpshuis als thuisbasis dorpsraad",
+        "standpunt": "Het dorpshuis wordt de thuisbasis van de dorpsraad en een plek voor post, servicepunt en hulp bij digitale overheidszaken.",
+        "citaat": "het dorpshuis gebruiken als thuisbasis van de dorpsraad;",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gemeentehuis bereikbaar vanuit alle dorpen",
+        "standpunt": "Het gemeentehuis goed bereikbaar houden voor inwoners uit alle buurten en dorpen van de nieuwe gemeente.",
+        "citaat": "het gemeentehuis goed bereikbaar houden voor inwoners uit alle buurten en dorpen van de nieuwe gemeente.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "referendumregels na herindeling",
+        "standpunt": "Na de herindeling de huidige Hilversumse referendumregels opnieuw bekijken.",
+        "citaat": "Dorp voor Dorp wil na de herindeling opnieuw naar die regels kijken.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "dorpen en buurten na de fusie",
+        "standpunt": "Buurten, wijken en dorpen herkenbaar laten blijven en invloed laten houden op besluiten over hun omgeving; de gemeente moet democratischer, transparanter en toegankelijker worden in plaats van groter en logger.",
+        "citaat": "Wij willen dat buurten, wijken en dorpen herkenbaar blijven en daadwerkelijk invloed houden op besluiten die hun eigen omgeving raken.",
+        "bron": "extra-partij-site.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "Buurtfondsen",
+        "standpunt": "Geld dat lokaal wordt opgebracht lokaal laten besteden via Buurtfondsen, met toezicht door de gemeente op rechtmatige besteding en volledige openbaarheid van inkomsten en toekenningen.",
+        "citaat": "Niet één fonds voor de hele gemeente, maar Buurtfondsen, waarbij buurten en dorpen veel meer invloed krijgen op het geld dat in hun eigen omgeving wordt opgebracht en besteed.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpsbudget",
+        "standpunt": "Ieder dorp een eigen budget, besteed binnen vooraf vastgestelde kaders; geen bedrag genoemd.",
+        "citaat": "Binnen vooraf vastgestelde kaders kan de dorpsraad samen met inwoners bepalen waar dat geld het hardst nodig is.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "begroting toegankelijk maken",
+        "standpunt": "De gemeentelijke begroting en jaarrekening via een doorklikstructuur toegankelijk maken (vergelijkbaar met Wikipedia), met korte uitleg in begrijpelijke taal.",
+        "citaat": "Wij willen de gemeentelijke financiën toegankelijk maken via een heldere doorklikstructuur, vergelijkbaar met de manier waarop je op Wikipedia steeds verder de informatie in kunt.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afwijkingen en subsidies zichtbaar",
+        "standpunt": "Voortgang en financiële afwijkingen van projecten, subsidies, investeringen en grote opdrachten zichtbaar maken.",
+        "citaat": "voortgang en financiële afwijkingen van gemeentelijke projecten zichtbaar maken;",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kosten en baten spoorstudie",
+        "standpunt": "Bij het onderzoek naar een ondergronds spoor kosten én mogelijke opbrengsten van de vrijgekomen ruimte volledig inzichtelijk maken en pas daarna besluiten; geen blanco cheque.",
+        "citaat": "de kosten én mogelijke opbrengsten van de vrijkomende ruimte volledig inzichtelijk maken;",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "investeringen pas na haalbaarheid",
+        "standpunt": "Over locatie, omvang en investering van een dorpenschool pas besluiten na onderzoek; wijst op financiële druk in de kadernota 2027-2030 van de nieuwe gemeente.",
+        "citaat": "pas over locatie, omvang en investering besluiten wanneer de haalbaarheid goed is onderzocht.",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "richting"
+      }
+    ]
+  },
+  "opvallend": [
+    "Dorpsraden met formele tegenmacht: bij vertrouwensverlies door twee derde van de dorpsraden in een wethouder moet de gemeenteraad dat minimaal openbaar behandelen",
+    "Referendum met lage aanvraagdrempel (circa 3%), geen maximale bedenktijd en referendum ook over bestaande verordeningen; als einddoel bindend",
+    "Bouwgrenzen en rode contouren opnieuw beoordelen en gecontroleerde uitbreiding aan dorpsranden mogelijk maken",
+    "Tien jaar verblijfs- of bindingsduur als landelijk bepleit uitgangspunt voor gelijke aanspraak op schaarse reguliere woonruimte",
+    "Betaald parkeren beperken tot het centrum en het aantal parkeerplaatsen per woning bij nieuwbouw verhogen als dat nodig blijkt",
+    "Geen nieuwe windturbines en bestaande overlastgevende turbines waar mogelijk laten verdwijnen",
+    "Onderzoek naar een ondergronds spoor door centraal Hilversum als gebiedsontwikkeling voor tientallen jaren",
+    "Wolf: onderzoeken of gericht afschot van probleemwolven de goedkoopste en meest humane oplossing is",
+    "Eigen club of uitgaansplek in ieder dorp en een Belletje in de raad tegen jargon",
+    "Gemeente een grotere regierol bij natuurbeleid; natuurorganisaties werken waar mogelijk binnen democratisch vastgestelde kaders",
+    "Programma noemt bijna nergens aantallen, bedragen of percentages voor woningbouw, budgetten of belastingen"
+  ],
+  "dun": [
+    "klimaat: alleen windturbines; niets over aardgasvrij, warmtenet, zonne-energie, kernenergie, isolatie, energiearmoede, klimaatadaptatie of afval",
+    "veiligheid: niets over politie, boa's en handhaving, drugs en coffeeshops, vuurwerk of ondermijning; wel toiletten, verlichting en fietssteunpunten",
+    "economie: niets over Mediapark, koopzondag, horeca, toerisme, bedrijventerreinen of werkgelegenheid buiten het Buurtfonds en de Techniekcampus",
+    "zorg: niets over Wmo, jeugdzorg, ouderen- en thuiszorg, armoede, schulden, bijstandsbeleid of eenzaamheid; wel de talenten-benadering",
+    "financien: niets over OZB en andere lasten, reserves, bezuinigingen of externe inhuur",
+    "verkeer: niets over OV, fiets (behalve veilige routes), 30 km/u, autoluw centrum of laadpalen",
+    "natuur: niets over Loosdrechtse Plassen, heide of vliegveld Hilversum; in het programma staan geen lokale locaties behalve de dorpsnamen",
+    "wonen: geen aantallen woningen, percentages sociale huur of middenhuur en geen genoemde bouwlocaties (geen Crailo, Anna's Hoeve, De Rading enzovoort)",
+    "cultuur: niets over erfgoed, sportaccommodaties of zwembaden",
+    "asiel: niets over integratie, discriminatie of religie; niets specifieks over Oekraïners of arbeidsmigranten"
+  ]
+}

@@ -1,0 +1,965 @@
+[
+ {
+  "slug": "hart-voor-hilversum",
+  "nr": 1,
+  "naam": "Hart voor Hilversum",
+  "kort": "Hart voor Hilversum",
+  "kleur": "#E8451E",
+  "lijsttrekker": "Ron Lancé",
+  "website": "https://www.hartvoorhilversum.nl/",
+  "achtergrond": "Lokale partij. Werd in 2022 met 8 zetels de grootste in Hilversum en zat tot mei 2024 in het college, daarna in de oppositie. Drie raadsleden stapten in die jaren over naar andere fracties. De lijst heeft twee lijsttrekkers: Ron Lancé uit Hilversum en Jan-Jaap de Kloet uit Kortenhoef.",
+  "basis": null,
+  "programma": {
+   "titel": "Hart voor Hilversum - Inwoners aan het roer. Verkiezingsprogramma 2027-2030 (voor Hilversum en de dorpen van Wijdemeren)",
+   "url": "https://www.hartvoorhilversum.nl/documents/1556106/1743557/HvH-Verkiezingsprogramma-2027-2030.pdf/f23d472c-fa93-b28e-2e1f-bf7f8d88c4ee",
+   "paginas": 17,
+   "woorden": 4077
+  },
+  "kernboodschap": "Hart voor Hilversum is een lokale partij die zich 'onafhankelijk, pragmatisch, niet links en niet rechts' noemt, met als rode draad 'Inwoners aan het roer'. Participatie vanaf het begin, blijvende zeggenschap in buurten en dorpen en het behoud van het eigen karakter van de dorpen van Wijdemeren staan voorop. Daarnaast zet de partij in op lage woonlasten, geen uitbreiding van betaald parkeren, zichtbaar toezicht, kleinschalige asielopvang zonder noodopvang of groot AZC, en geen grote windmolens bij de dorpen.",
+  "speerpunten": [
+   "Participatie vanaf het begin van plannen, met openbare terugkoppeling en een vaste termijn voor antwoord",
+   "Blijvende zeggenschap in buurten en dorpen via gebiedsagenda's, gebiedsbudgetten en eventueel gekozen dorps- of wijkraden",
+   "Geen uitbreiding van betaald parkeren in Kerkelanden, de Hilversumse Meent en Wijdemeren tenzij bewoners dat willen; geen onnodige 30 km-zones",
+   "Meer zichtbare politie en boa's, ook 's avonds en in het uitgaansgebied, gerichte inzet van camera's",
+   "Betaalbaar wonen: ambitie circa 40% sociale huur bij nieuwbouw waar haalbaar, pilot starterslening, eerst bouwen binnen de bebouwde kom",
+   "Woonlasten (OZB, riool, afval) stijgen niet harder dan de inflatie; geen prestigeprojecten",
+   "Kleinschalige asielopvang: geen noodopvang en geen groot of regionaal AZC",
+   "Geen grote windmolens bij de dorpen; geen zero-emissiezone in het winkelgebied; afschaffing van de bootjesbelasting"
+  ],
+  "opvallend": [
+   "Geen voorrang voor statushouders op de sociale huurlijst ten koste van mensen die al lang wachten (genoemd in zowel wonen als asiel)",
+   "Asiel: geen noodopvang en geen groot of regionaal AZC; Spreidingswet alleen opvolgen als het Rijk zijn afspraken nakomt en de instroom beperkt",
+   "Geen zero-emissiezone in het Hilversumse winkelgebied en afschaffing van de bootjesbelasting",
+   "Geen grote windmolens bij de dorpen of in het buitengebied; eerder klimaatneutraal dan 2050 'geen doel op zich'",
+   "40% sociale huur is nadrukkelijk een ambitie, geen vaste norm per project; groenregels mogen woningbouw niet blokkeren",
+   "Geen betaald parkeren in Kerkelanden, de Hilversumse Meent en Wijdemeren tenzij bewoners het zelf willen",
+   "Minder coffeeshops in het centrum, en geen landbouwbestrijdingsmiddelen rond woningen en scholen",
+   "Uitdaagrecht, gebiedsbudgetten en gekozen dorps- of wijkraden als vorm van blijvende zeggenschap; geen verdere gemeentelijke schaalvergroting"
+  ],
+  "dun": [
+   "klimaat: geen standpunt over aardgasvrij, warmtenet, kernenergie of energiearmoede",
+   "veiligheid: niets over vuurwerk, drugsbeleid buiten coffeeshops of ondermijning",
+   "natuur: niets over vliegveld Hilversum, heide of bomenbeleid in concrete aantallen",
+   "wonen: geen aantallen nieuwe woningen, geen concrete locaties (Crailo, Hoorneboeg, Anna's Hoeve, Ter Sype e.d. niet genoemd), geen standpunt over hoogbouw in het stationsgebied of opkoopbescherming",
+   "verkeer: geen standpunt over openbaar vervoer, laadpalen of tarieven van parkeervergunningen",
+   "economie: niets over koopzondag, bedrijventerrein-locaties of evenementen met namen",
+   "cultuur: geen standpunt over zwembaden of concrete accommodaties",
+   "financien: geen OZB-percentages, reserves of bezuinigingsbedragen"
+  ]
+ },
+ {
+  "slug": "pro",
+  "nr": 2,
+  "naam": "PRO (GroenLinks-PvdA)",
+  "kort": "PRO",
+  "kleur": "#C2185B",
+  "lijsttrekker": "Stan Poels",
+  "website": "https://hilversum.progressiefnederland.nl/",
+  "achtergrond": "Gezamenlijke lijst van GroenLinks en PvdA. In Hilversum haalden zij in 2022 als aparte partijen 4 en 2 zetels; GroenLinks zit sinds 2022 in het college, de PvdA sinds mei 2024. In Wijdemeren deden ze in 2022 al samen mee (2 zetels).",
+  "basis": null,
+  "programma": {
+   "titel": "Samen voor een eerlijker Hilversum (PRO Hilversum verkiezingsprogramma)",
+   "url": "https://cdn.groenlinkspvda.nl/wp-content/uploads/2026/09/237/programma.pdf",
+   "paginas": 40,
+   "woorden": 13951
+  },
+  "kernboodschap": "PRO Hilversum (Progressief Nederland, de nieuwe partij van GroenLinks en PvdA) presenteert zich onder het motto 'PRO Wonen, PRO Sociaal en PRO Groen'. Het programma zet in op meer en sneller bouwen met vaste minimumpercentages sociale huur en middenhuur, op een fiets- en voetgangersvriendelijke openbare ruimte met 30 km/uur binnen de bebouwde kom en een autoluw centrum, en op lastenverdeling naar draagkracht ('sterkste schouders, zwaarste lasten'). Daarnaast zijn zorg en minimaregelingen, natuur en plassenbescherming, en gelijke behandeling en inclusie terugkerende accenten, met expliciete aandacht voor zowel de stad als de zeven dorpen.",
+  "speerpunten": [
+   "Woningtekort aanpakken: extra betaalbare woningen, ook op nieuwe locaties, plus splitsen, optoppen, hoger bouwen waar het past en leegstand herbestemmen",
+   "Betaalbare gemeente: sterkste schouders dragen de zwaarste lasten, eerlijke OZB, ruime minimaregelingen, bij riool- en afvalheffing 'de vervuiler betaalt'",
+   "Fietsgemeente: meer brede doorfietspaden, overal maximaal 30 km/uur binnen de bebouwde kom, autoluw centrum",
+   "Zorgzame gemeenschappen: preventie, wijk- en dorpsgerichte zorg, hulp aan nieuwkomers bij taal en werk",
+   "Meer ruimte voor groen, wandelen en spelen; betaald parkeren waar geparkeerde auto's veel ruimte innemen, niet in de dorpen",
+   "Duurzaamheid, natuur en biodiversiteit: versnelde verduurzaming (isolatie voor wie het niet zelf kan betalen), circulair en natuurinclusief bouwen, kwaliteit van bossen, heide en plassen verbeteren",
+   "Proactieve, goed bereikbare en betrouwbare gemeentelijke overheid met goede dienstverlening en communicatie"
+  ],
+  "opvallend": [
+   "Overweegt expliciet gedwongen afsluiting van het gas bij collectieve warmteprojecten ('vrije individuele keuzes maken de energietransitie onbetaalbaar')",
+   "Wil de maximumsnelheid binnen elke bebouwde kom op 30 km/uur, ook enkele dorpsontsluitingswegen, en experimenteert met een fatbikeverbod en 20 km/uur voor fietsers in delen van het centrum",
+   "Stelt als eis bij nieuwbouw minimaal 33 tot 40 procent sociale huur en 33 procent middenhuur of betaalbare koop, en wil regionaal naar minimaal 66 procent betaalbaar",
+   "Geeft bij bouwen voorrang aan appartementen boven eengezinswoningen en bouwt geen woningen kleiner dan 30 m2",
+   "Schaft toewijzingsregelingen voor specifieke beroepsgroepen af en reserveert minimaal 25 procent van de woningen voor Hilversummers",
+   "Wil het snelvaren op de plassen beëindigen en steunt de kabinets-stikstofplannen met beperkingen voor boeren in de bufferzone van 500 meter",
+   "Sluit intensieve landbouw en veehouderij in de gemeente uit",
+   "Beperkt het aantal coffeeshops tot maximaal zes en onderzoekt aansluiting bij het experiment met legaal gekweekte wiet",
+   "Verbiedt reclame voor gokken en fast fashion en beperkt reclame voor ongezonde keuzes via de APV; wil brancheringsbeleid tegen fastfood",
+   "Kort basisscholen met een ouderbijdrage boven 50 euro per leerling op subsidies uit de Hilversumse Educatieve Agenda",
+   "Voert een inkomensafhankelijke Wmo-bijdrage in vooruitlopend op de wetswijziging en wil per wijk liefst één zorgaanbieder voor jeugdzorg en Wmo",
+   "Zegt dat collectieve belangen (woningnood, van het gas af) zwaarder wegen dan individuele bezwaren bij participatie",
+   "Ondersteunt versnelde bouw op het Arenapark en Mediapark en wil de Media Campus een mix van bedrijvigheid en wonen geven",
+   "Zet in op betaald parkeren in overvolle wijken, met uitbreiding naar buurten net buiten de buitenring, maar niet in de dorpen"
+  ],
+  "dun": [
+   "asiel: geen standpunt over (nieuwe) azc-locaties of aantallen opvangplekken; het azc wordt alleen genoemd in verband met taallessen voor statushouders",
+   "veiligheid: geen standpunt over cameratoezicht, vuurwerk, aantal boa's of politiecapaciteit",
+   "economie: niets over koopzondag, horeca-openingstijden, uitbreiding van bedrijventerreinen of een eigen standpunt over het centrum van Hilversum als winkelgebied buiten compacte winkelgebieden",
+   "bestuur: geen standpunt over referendum, wijkraden/dorpsraden als formele organen of gemeentehuis en loketten in de dorpen (alleen decentrale aanspreekpunten en balie-optie)",
+   "natuur: vliegveld Hilversum komt alleen voor als locatie van een zonneweide; niets over Loosdrechtse Plassen-recreatiedruk buiten snelvaren, Crailo of Hoorneboeg",
+   "wonen: geen standpunt over Anna's Hoeve, Ter Sype, Nederhorst-Noord of Zuidsingel als bouwlocatie; geen aantal woningen voor het Stationsgebied",
+   "cultuur: geen standpunt over zwembaden of dorpshuizen als gebouw",
+   "financien: geen concrete bedragen, percentages voor OZB-verhoging boven inflatie of bezuinigingspakket"
+  ]
+ },
+ {
+  "slug": "d66",
+  "nr": 3,
+  "naam": "D66",
+  "kort": "D66",
+  "kleur": "#00A85A",
+  "lijsttrekker": "Jarno Deen",
+  "website": "https://d66.nl/hilversum/",
+  "achtergrond": "Lokale afdeling van D66. In 2022 de tweede partij van Hilversum met 7 zetels, en 1 zetel in Wijdemeren. In Hilversum zit D66 in de oppositie.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma D66 Hilversum 2026-2030 - Samen sterker (Het kan wél)",
+   "url": "https://media.d66.nl/uploads/sites/44/2026/10/Verkiezingprogramma-D66-Hilversum-2026-2030.pdf",
+   "paginas": 55,
+   "woorden": 14047
+  },
+  "kernboodschap": "D66 Hilversum presenteert onder de titel 'Samen sterker (Het kan wél)' een programma voor de nieuwe gemeente Hilversum-Wijdemeren, met accenten op meer woningen (minimaal 400 per jaar, 33% sociale huur), meer groen, gezonde schoolgebouwen, energietransitie en minder regels. Het programma zet in op inwonerinvloed, een begrijpelijke overheid en een financieel gezonde start, met prioritering van investeringen omdat het budget onder druk staat.",
+  "speerpunten": [
+   "Minimaal 400 woningen per jaar, waarvan ten minste 33% sociale huur",
+   "Meer groen en minder steen, met de 3-30-300-norm en vergroening van drukke buurten",
+   "Gezonde, duurzame schoolgebouwen via het Integraal Huisvestingsplan zonder verdere vertraging",
+   "Aardgasvrij ruim voor 2040 en energiearmoede in 2030 gehalveerd",
+   "Veilig en bereikbaar: 30 km/uur waar mogelijk, veilige schoolroutes, parkeeruitbreiding alleen na overleg met inwoners",
+   "Minder regels en een begrijpelijke overheid: Kafkaloket, recht op vergissen, regionale ombudsman",
+   "Meer invloed voor inwoners via pilots, wijk- en dorpsoverleg en een raad voor woningzoekenden",
+   "Financiele koers: OZB onder het landelijk gemiddelde en een prioriteitenlijst voor investeringen"
+  ],
+  "opvallend": [
+   "Wil bij nieuwbouw een deel van de woningen reserveren voor mensen uit de eigen wijk of het eigen dorp.",
+   "Noemt hoogbouw bij OV-knooppunten (Sportpark), woningen rond vliegveld Hilversum met aangepaste banen, en het herontwikkelen van bedrijventerreinen en Kerkelanden-parkeerterreinen als woonlocaties.",
+   "Kiest voor nieuwbouw boven behoud van monumentale schoolgebouwen als dat financieel gunstiger is, en noemt de huidige monumentenzorg vaak te streng.",
+   "Biologische en natuurinclusieve voorwaarden worden standaard bij nieuwe verpachting van gemeentelijke landbouwgrond.",
+   "Pilot met een testlocatie voor drugs bij evenementen of in het nachtleven.",
+   "Evalueert het sekswerkbeleid en wil ruimte voor kleinschalige samenwerkingsvormen via een vergunning-lightconstructie.",
+   "Besteedbaar inkomen automatisch aanvullen tot een bestaansminimum volgens Nibud-normen.",
+   "Rioolheffing laten meewegen met de grootte van de aansluiting; sturen op OZB-tarief in plaats van op de som van alle lokale lasten.",
+   "Staat open voor kleine modulaire kernreactoren en windenergie als verkenning, met draagvlak als randvoorwaarde.",
+   "Bepleit een regionale ombudsman, een Kafkaloket en 'recht op vergissen' bij contact met de gemeente."
+  ],
+  "dun": [
+   "Referendum en vaste wijk- of dorpsraden: alleen pilots en wijkoverleg genoemd, geen standpunt.",
+   "Koopzondag, vuurwerk en coffeeshops worden niet genoemd.",
+   "Arbeidsmigranten en Oekraïners worden niet bij naam behandeld; asiel gaat vooral over kleinschalige opvang en inburgering.",
+   "Arenapark, Crailo, Hoorneboeg, Anna's Hoeve, De Rading, Porseleinhaven en Zuidsingel komen niet voor; Stationsgebied alleen als lopend project dat versneld moet worden.",
+   "Externe inhuur en reserves worden niet behandeld; bezuinigingen zijn niet concreet gemaakt.",
+   "Bibliotheek, dorpshuizen en loketten in specifieke dorpen: alleen algemene fysieke loketten in de buurt genoemd."
+  ]
+ },
+ {
+  "slug": "vvd",
+  "nr": 4,
+  "naam": "VVD",
+  "kort": "VVD",
+  "kleur": "#0A2D6E",
+  "lijsttrekker": "Hidde Fennema",
+  "website": "https://www.vvdhilversum.nl/",
+  "achtergrond": "Lokale afdeling van de VVD. In 2022 goed voor 5 zetels in Hilversum en 2 in Wijdemeren. In Hilversum is de VVD collegepartij.",
+  "basis": null,
+  "programma": {
+   "titel": "VVD Hilversum Verkiezingsprogramma 2026 (Definitief)",
+   "url": "https://www.vvdhilversum.nl/Verkiezingsprogramma%20VVD%20Hilversum%202026.pdf",
+   "paginas": 30,
+   "woorden": 9017
+  },
+  "kernboodschap": "VVD Hilversum zet in op doorstroming op de woningmarkt, een bereikbare en veilige gemeente met parkeren dat kostendekkend blijft, en een ondernemersvriendelijke gemeente met lage lasten en een slankere ambtelijke organisatie. Op klimaat en natuur kiest de partij voor minimale lokale eisen en recreatie als volwaardig belang naast natuurbeheer, en bij asiel voor een kritische opstelling zolang het Rijk de instroom niet beperkt. Voor de fusiegemeente vraagt de partij om behoud van de eigenheid van de dorpen en om geen hogere lasten voor inwoners.",
+  "speerpunten": [
+   "Doorstroming in de eigen wijk ('Bouwen voor de Buurt'), met voorrang voor doorstromers binnen Hilversum bij nieuwbouw",
+   "Parkeren is geen melkkoe: geen betaald parkeren in de dorpen en de Hilversumse Meent, nieuwe betaalde zones alleen op verzoek van een meerderheid van de bewoners",
+   "De ring weer laten rijden (geen 30 km/u op de buitenring) en keiharde handhaving op verkeershufters met vijf extra BOA's",
+   "Extra inzet tegen ondermijning en overlast door jongeren (jeugd-BOA's herstarten en intensiveren)",
+   "Kritisch op uitbreiding van asielopvang zolang het Rijk de instroom onvoldoende beperkt",
+   "Het beste ondernemersklimaat van Gooi en Vechtstreek, met werk vóór wonen op bedrijventerreinen",
+   "Woonlasten stijgen niet meer dan de inflatie, 5% taakstelling op de interne organisatie en uitstel van Bruisend Hart en de Hilversumse Meent",
+   "Geen windmolens in het Gooi, geen extra lokale duurzaamheidseisen en geen deelname meer aan de RES"
+  ],
+  "opvallend": [
+   "Wil niet meer meedoen aan de Regionale Energiestrategie (RES Noord-Holland-Zuid) en stelt geen kwantitatieve doelen voor energie- en warmtetransitie.",
+   "Steunt kernenergie en geothermie als alternatief voor windmolens en zonneparken, en wil geen windmolens in het Gooi, ook niet net over de provinciegrens.",
+   "Geen betaald parkeren in de dorpen en de Hilversumse Meent; nieuwe betaalde zones alleen als een meerderheid van de bewoners erom vraagt; parkeren kostendekkend en opbrengsten alleen voor parkeren.",
+   "Stelt uitstel voor van de grote investeringen Bruisend Hart (Oosterspoorplein) en de Hilversumse Meent omdat ze nu niet betaalbaar zijn.",
+   "Wil sociale woningbouw onderzoeken door marktpartijen in plaats van corporaties, en geen verplicht sociaal aandeel bij projecten tot 20 woningen.",
+   "Participatie en asielinspraak via willekeurig geselecteerde, representatieve inwoners; geen voorstander van referenda.",
+   "Stopt met Open 035-subsidie en de functie van stadsdichter, en maakt projectsubsidies eindig (drie tot vijf jaar).",
+   "ICT zoveel mogelijk onafhankelijk van Amerikaanse aanbieders, ook ten koste van functionaliteit; 5% taakstelling op de interne organisatie en veel minder communicatiemedewerkers.",
+   "Wil dat de einddatum 1 november 2026 voor de opvang in het gemeentehuis in Loosdrecht gehandhaafd wordt, en locaties voor opvang voor maximaal 10 jaar aanwijst.",
+   "Wil het Asielkader van Hilversum herzien en opnieuw bespreken met inwoners inclusief Wijdemeren."
+  ],
+  "dun": [
+   "Wmo en ouderenzorg buiten jeugdzorg, schuldhulp en mantelzorg: weinig concreets.",
+   "Drugs en coffeeshops: niet genoemd.",
+   "Oekraïners en arbeidsmigranten: niet genoemd.",
+   "Landbouw en boeren, dierenwelzijn en vliegveld Hilversum: niet genoemd.",
+   "Koopzondag en toerisme (naast watersport en buitenplaatsen): nauwelijks uitgewerkt.",
+   "Sociale huur als percentage buiten de landelijke 30/40/30-verdeling, opkoopbescherming en flexwoningen: niet genoemd.",
+   "Erfgoed (behalve monumenten en Dudok-scholen) en bibliotheek: weinig concreets.",
+   "Zuidsingel, Anna's Hoeve, Hoorneboeg, zwembaden buiten Arenapark en loketten in de dorpen: niet genoemd."
+  ]
+ },
+ {
+  "slug": "cda",
+  "nr": 5,
+  "naam": "CDA",
+  "kort": "CDA",
+  "kleur": "#007B5F",
+  "lijsttrekker": "Gerben van Voorden",
+  "website": "https://www.cda.nl/noord-holland/hilversum/",
+  "achtergrond": "Lokale afdeling van het CDA. In 2022 goed voor 4 zetels in Hilversum en 3 in Wijdemeren. In Hilversum is het CDA collegepartij; lijsttrekker Gerben van Voorden is er wethouder.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma CDA Hilversum 2026-2030",
+   "url": "https://d2vs36cx04qmpo.cloudfront.net/images/hilversum/Verkiezingsprogramma-CDA-Hilversum-2026-2030.pdf",
+   "paginas": 57,
+   "woorden": 18231
+  },
+  "kernboodschap": "CDA Hilversum stelt maatschappelijk initiatief, verenigingen en vrijwilligers centraal en wil dat de gemeente mogelijk maakt in plaats van overneemt. Het programma legt accenten op behoud van het Gooise landschap en de dorpen bij de fusie met Wijdemeren, voorrang voor eigen inwoners bij woningen, gratis eerste uur parkeren en gematigde lasten. Op energie kiest de partij tegen windturbines en zonneweides in het landschap en voor verkenning van een kleine kernreactor.",
+  "speerpunten": [
+   "Eerste uur parkeren gratis en geen betaald parkeren in de dorpen",
+   "Voorrang voor inwoners met binding en voor cruciale beroepen bij woningen",
+   "Behoud illusielandschap: niet bouwen op de hei, geen windturbines op de hei, geen zonneweides in de polder",
+   "Verkenning kleine kernreactor (SMR) afmaken en locatie vrijhouden",
+   "Eenzaamheid, waardig ouder worden en aanlandplekken in elke wijk en elk dorp",
+   "Vrijwilligers en verenigingen: subsidie volgt initiatief, dorpsgarantie bij de fusie",
+   "OZB niet harder dan inflatie en niet bezuinigen op zorg",
+   "Deltaplan fietsverkeersveiligheid en aanpak van asociaal verkeersgedrag"
+  ],
+  "opvallend": [
+   "Wil kernenergie (kleine reactor, SMR) opnemen in de omgevingsvisie en een geschikte locatie vrijhouden, naast verzet tegen windturbines en zonneweides",
+   "Wil het eerste uur parkeren in alle gebieden gratis maken en noemt de kosten (circa 3,0 miljoen euro) met een dekkingsvoorstel",
+   "Wil vuurwerkverbod aanvullen met mogelijkheid van carbidschieten buiten de bebouwde kom",
+   "Wil de koppeling tussen OZB, afval- en rioolheffing loslaten",
+   "Voorrang voor mensen met binding en cruciale beroepen bij zowel koop als huur 'met de volle wettelijke ruimte'",
+   "Wil terugkeer van een stadsbouwmeester en een aanjaagteam voor stationsgebied, Arenapark, Circusterrein en Meent",
+   "Wil geen nieuw verbodsgebied voor jongeren zonder tegelijk een aangewezen plek waar zij welkom zijn",
+   "Pleit voor Premie-A-achtige gesubsidieerde koopwoningen en een volwaardig theater"
+  ],
+  "dun": [
+   "Vliegveld Hilversum: niet genoemd",
+   "Percentages sociale huur en bouwaantallen: geen cijfers genoemd, alleen bewaken van middenhuur",
+   "Statushouders en Oekraieners: niet specifiek genoemd",
+   "Koopzondag en horeca-openingstijden: niet genoemd (alleen gratis parkeren op zon- en feestdagen)",
+   "Referendum en inspraakvormen: weinig concreet; participatie wordt vooral kritisch benaderd",
+   "Stadsfonds, Mediapark en dorpshuizen: wel genoemd, maar zonder cijfers over geld"
+  ]
+ },
+ {
+  "slug": "lokaal-een",
+  "nr": 6,
+  "naam": "Lokaal Eén",
+  "kort": "Lokaal Eén",
+  "kleur": "#7A4FA3",
+  "lijsttrekker": "Margriet Rademaker-Verdegaal",
+  "website": "https://lokaaleen.nl/",
+  "achtergrond": "Nieuwe lokale partij, ontstaan uit Democraten Hilversum en de Wijdemeerse partijen De Lokale Partij en DorpsBelangen. De Lokale Partij werd in 2022 met 8 van de 19 zetels de grootste in Wijdemeren. Democraten Hilversum zit sinds mei 2024 in het Hilversumse college.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma 2027-2030 (webpagina) + Partijprogramma (kernpunten)",
+   "url": "https://lokaaleen.nl/verkiezingsprogramma-2027-2030/",
+   "paginas": null,
+   "woorden": 9967
+  },
+  "kernboodschap": "Lokaal Eén is een nieuwe, onafhankelijke lokale partij (voortgekomen uit Democraten Hilversum, De Lokale Partij en DorpsBelangen) zonder landelijke binding. Zij zet in op gelijkwaardigheid van alle wijken en dorpen, uitnodigend bestuur dicht bij inwoners en behoud van het groene karakter met de bestaande bebouwde kom als grens. Op geld kiest zij een prudente koers met onderhoud van de basis vooraf.",
+  "speerpunten": [
+   "Gelijkwaardigheid van alle wijken en dorpen: wijk- en dorpsregisseurs, vaste ontmoetingsplekken en een eigen wethouder per buurt",
+   "Behoud van de grenzen van de bestaande bebouwde kom en van het groen ('laadvermogen'); eerst bestaande ruimte benutten",
+   "Afgewogen betaald parkeren: niet buiten de ring of in de dorpen, eerste uur gratis",
+   "Sociale huur behouden (32% inzet), voorrang voor eigen inwoners, geen verkoop van sociale huurwoningen",
+   "Gefaseerde verlaging naar 30 km/u binnen de bebouwde kom en 60 km/u op provinciale wegen, in overleg met de buurt",
+   "Tegen grootschalige windturbines; zon op dak eerst",
+   "Prudent financieel beleid: woonlasten maximaal inflatie, onderhoud boven nieuwe projecten, minder externe inhuur",
+   "Consultatie- en referendumverordening met richtinggevende uitkomsten"
+  ],
+  "opvallend": [
+   "Betaald parkeren alleen in woonwijken na overleg met inwoners (8-19 uur, eerste uur gratis) en nergens buiten de ring of in de dorpen",
+   "Een eigen wethouder per wijk of dorp met maandelijks inloopspreekuur",
+   "Wil stoppen met City Marketing en het verplichte Stadsfonds herijken",
+   "Wil gratis ophalen van grofvuil weer mogelijk maken",
+   "Wil vooruitlopend op wetgeving de voorrangsregeling voor statushouders omzetten naar reguliere urgentie",
+   "Tegen het terugdringen van industrieparken; terughoudend met hoogbouw in het buitengebied (uitzondering boven drie woonlagen)",
+   "Lobby via de VNG om verkeerscamera's voor handhaving bij gemeenten te leggen, met opbrengst voor verkeersveiligheid",
+   "Fietsers voorrang op alle rotondes binnen de bebouwde kom"
+  ],
+  "dun": [
+   "Geen concrete bouwaantallen, locaties of percentages voor middenhuur/koop buiten de 32% sociale voorraad; Arenapark, stationsgebied, Crailo, Hoorneboeg e.d. worden niet genoemd",
+   "Vliegveld Hilversum, Loosdrechtse Plassen (beleid) en Nederhorst-Noord worden niet als dossier uitgewerkt",
+   "Coffeeshops, drugsbeleid en vuurwerk niet behandeld",
+   "Koopzondag en horecabeleid nauwelijks (alleen De Groest)",
+   "Kernenergie, aardgasvrij en warmtenet niet genoemd",
+   "Geen concrete bedragen bij investeringen of bezuinigingen"
+  ]
+ },
+ {
+  "slug": "sp",
+  "nr": 7,
+  "naam": "SP",
+  "kort": "SP",
+  "kleur": "#EC1B23",
+  "lijsttrekker": "Paul Vonk",
+  "website": "https://hilversum.sp.nl/",
+  "achtergrond": "Lokale afdeling van de SP. Sinds 2022 met 2 zetels in de Hilversumse raad, in de oppositie. In de raad van Wijdemeren is de SP niet vertegenwoordigd.",
+  "basis": null,
+  "programma": {
+   "titel": "SP Hilversum - Verkiezingsprogramma 2026-2030",
+   "url": "https://cdn.sp.nl/sites/8/noord-holland/8/Programma.pdf",
+   "paginas": 37,
+   "woorden": 9764
+  },
+  "kernboodschap": "De SP Hilversum wil dat voorzieningen die zij onmisbaar vindt (wonen, zorg, onderwijs, energie, sport) publiek worden beheerd of publiek gestuurd, met een gemeentelijk woonbedrijf, energiebedrijf en sportbedrijf. Zij zet in op betaalbaarheid voor lage inkomens, uitgebreide minimaregelingen en een gemeente die dichtbij blijft met servicepunten, eigen raden en budgetten voor dorpen en wijken. Bouwen kan alleen binnen de bestaande contouren, het nieuwe parkeerbeleid gaat stil en in de dorpen komt geen betaald parkeren.",
+  "speerpunten": [
+   "40-40-20 bij nieuwbouw (40% sociale huur, 40% middeldure huur en koop, hooguit 20% vrije sector) en een gemeentelijk woonbedrijf",
+   "Verkoopstop op sociale huurwoningen en één regeling voor opkoopbescherming en zelfbewoningsplicht met een boete van 50.000 euro per woning",
+   "Gekozen dorps- en wijkraden met eigen budget en servicepunten (loketten) in de dorpen",
+   "Het nieuwe parkeerbeleid stilzetten; geen betaald parkeren in de dorpen en gratis parkeren bij het ziekenhuis",
+   "Bouwen niet buiten de groen/paarse contouren van Hilversum; behoud van vliegveld Hilversum",
+   "Minima-regelingen met de 130%-grens voor de hele nieuwe gemeente, Gooise Pas, gemeentelijke kredietbank",
+   "Gemeentelijk energie- en warmtebedrijf en minstens één wijk of dorp van het gas af in deze raadsperiode",
+   "Kleinschalige asielopvang van 50 tot 100 mensen per locatie, verspreid over de gemeente, in overleg met de buurt"
+  ],
+  "opvallend": [
+   "Gemeentelijk woonbedrijf, energie- en warmtebedrijf en sportbedrijf: drie nieuwe publieke bedrijven voor voorzieningen die de partij als nutsvoorziening ziet",
+   "Opkoopbescherming/zelfbewoningsplicht met een boete van 50.000 euro per woning en een verbod op winstgevende doorverkoop binnen tien jaar",
+   "Verkoopstop op sociale huurwoningen door corporaties",
+   "Gekozen dorps- en wijkraden, gekozen tegelijk met de gemeenteraad, met eigen budget en zeggenschap",
+   "Het nieuwe parkeerbeleid stilzetten en geen betaald parkeren in de dorpen, ook niet bij natuurgebieden; gratis parkeren bij Tergooi",
+   "Steun voor het behoud van vliegveld Hilversum",
+   "De deur voor een kleine kernreactor (SMR) in de gemeente openhouden, onder voorwaarden over kernafval en koelwater, terwijl tegelijk grote windmolens bij Nederhorst den Berg worden afgewezen",
+   "Asielopvang in kleine locaties van 50 tot 100 mensen, uitdrukkelijk ook in de villawijken, plus een gemengd woonproject van jongeren en statushouders",
+   "Onderzoek naar uitvoering van huishoudelijke hulp in eigen beheer in plaats van via aanbesteding en markt",
+   "Gemeentelijke kredietbank die problematische schulden overneemt",
+   "Minder tot mogelijk geen geld meer voor citymarketing; de partij meet succes niet af aan het aantal bezoekers",
+   "Geen verbod op fatbikes, wel handhaving op opgevoerde voertuigen",
+   "Hogere OZB op bedrijfspanden en afvalstoffenheffing herverdeeld via de OZB"
+  ],
+  "dun": [
+   "Veiligheid: geen standpunt over boa's, cameratoezicht, vuurwerk of ondermijning; alleen wijkagenten, coffeeshops en fatbikes",
+   "Economie: niets over Mediapark/mediastad, koopzondag, horeca of bedrijventerreinen",
+   "Financiën: geen begroting, reserves, bezuinigingsopgave of dekking van de voorgestelde uitgaven; alleen belastingmaatregelen",
+   "Wonen: geen aantallen te bouwen woningen en, behalve het Sportpark, het Heksenweitje en het Stationsgebied, geen benoemde bouwlocaties (niets over Arenapark, Crailo, Anna's Hoeve of Kerkelanden)",
+   "Verkeer: niets over laadpalen, autoluw centrum of een parkeertarief; alleen het stilzetten van het nieuwe beleid",
+   "Natuur: heide en bomen worden niet apart behandeld"
+  ]
+ },
+ {
+  "slug": "christenunie",
+  "nr": 8,
+  "naam": "ChristenUnie",
+  "kort": "ChristenUnie",
+  "kleur": "#00A7EB",
+  "lijsttrekker": "Bas Nanninga",
+  "website": "https://hilversum.christenunie.nl/",
+  "achtergrond": "Gezamenlijke lijst van de afdelingen Hilversum en Wijdemeren van de ChristenUnie. In 2022 goed voor 1 zetel in elk van beide raden.",
+  "basis": null,
+  "programma": {
+   "titel": "Samen opstaan voor het goede - Verkiezingsprogramma 2026-2030",
+   "url": "https://hilversum.christenunie.nl/wp-content/uploads/sites/120/2026/11/Verkiezingsprogramma-ChristenUnie-Hilversum-2026-2030.pdf",
+   "paginas": 62,
+   "woorden": 17940
+  },
+  "kernboodschap": "De ChristenUnie Hilversum/Wijdemeren presenteert een programma voor de nieuwe gemeente Hilversum (inclusief de dorpen van Wijdemeren), vanuit een christelijke rentmeesterschaps- en barmhartigheidsvisie. De accenten liggen op kinderen en kwetsbare inwoners, een betaalbaar huis, groen en een klimaatneutrale en circulaire gemeente, lopen, fietsen en OV vóór de auto, en een betrouwbare overheid met een behoudende financiële koers.",
+  "speerpunten": [
+   "Toekomst voor kinderen en jongeren: stabiele gezinnen, preventie en jeugdhulp dicht bij school",
+   "Zorg voor wie het niet vanzelf gaat: eenzaamheid, armoede en schulden (sociaal incasseren, schuldhulp binnen twee weken)",
+   "Betaalbaar huis voor jong en oud: bouwen in alle prijsklassen, verdichten en hoogte in bij OV-knooppunten, voorrang voor jongeren",
+   "Groen en circulair: 3-30-300-norm, klimaatneutraal en circulair Hilversum uiterlijk 2050, warmtenet en isolatie",
+   "Bereikbaarheid volgens STOMP: 30 km/u als norm, fietsagenda en betere busverbindingen, betaald parkeren alleen met draagvlak",
+   "Betrouwbare, open overheid: dorpsbudgetten, right to challenge, fysiek loket",
+   "Veilige en weerbare samenleving: aanpak van drank, drugs, gokken, ondermijning en mensenhandel",
+   "Financieel gezond: schuldquote maximaal 130% en geen risicovolle investeringen"
+  ],
+  "opvallend": [
+   "30 km/u als norm binnen de bebouwde kom, behalve op verbindingswegen, en snorfietsen en snelle fietsen naar de rijbaan",
+   "Geen betaald parkeren in de dorpen om Hilversum heen; parkeeropbrengst mag niet naar de algemene middelen",
+   "Recht op parkeervergunning voor de eerste auto en van de POET-lijst af voor wie een eigen parkeerplaats vergroent",
+   "Interne CO2-schaduwprijs van 1.000 euro per ton bij alle inkoop- en investeringsbeslissingen vanaf 2028",
+   "Onderzoek naar een gemeentelijk publiek warmtebedrijf met afnemersraad",
+   "Heroverweging van de 20 miljoen euro voor een ondergrondse regenwatergracht onder de Minkelerstraat ten gunste van een Vituspark op de Schapenkamp",
+   "Winkeliers mogen niet gedwongen worden op zondag open te zijn (zondagsrust vanuit christelijke overtuiging)",
+   "Geen nieuwe coffeeshops en geen nieuwe seksinrichtingen; reclamebeleid dat gokken, alcohol en roken weert",
+   "Kerken en andere geloofsgemeenschappen expliciet opgenomen in de sociale structuur, het erfgoed- en het crisisbeleid",
+   "Opvang van vluchtelingen alleen kleinschalig, met statushouders verspreid over alle wijken en dorpskernen",
+   "Verbod op binnen houtstoken bij code rood of oranje van de Stookwijzer",
+   "Voorstel voor een 'Jongerencentrum in elke wijk' en een tegeltaxi"
+  ],
+  "dun": [
+   "Asiel: geen concrete azc-locaties of aantallen, en niets over Oekraïense ontheemden",
+   "Klimaat: niets over kernenergie of grootschalige windturbines (alleen een windmolen op het boerenerf)",
+   "Wonen: geen opkoopbescherming, geen hoogtes of aantallen woningen voor hoogbouw, geen aantal woningen per jaar",
+   "Natuur: niets over het vliegveld Hilversum of de Loosdrechtse Plassen als gebied; dierenwelzijn alleen bij vuurwerk",
+   "Economie: niets over Mediapark/mediastad, horeca-uitbreiding of evenementenbeleid in detail",
+   "Cultuur: niets over zwembaden of dorpshuizen bij naam",
+   "Bestuur: niets over referendum of het gemeentehuis/de loketten per dorp bij naam; wel een fysiek loket in het algemeen",
+   "Financiën: geen standpunt over OZB-hoogte of externe inhuur",
+   "Lokale dossiers: Crailo, Hoorneboeg, Kerkelanden, Ter Sype, De Rading, Porseleinhaven, Nederhorst-Noord en Zuidsingel komen niet voor"
+  ]
+ },
+ {
+  "slug": "bvnl",
+  "nr": 9,
+  "naam": "BVNL",
+  "kort": "BVNL",
+  "kleur": "#2B3A8F",
+  "lijsttrekker": "Joost van Beers",
+  "website": "https://www.gezamenlijkbelang.nl/",
+  "achtergrond": "Lokale afdeling van Belang van Nederland. BVNL haalde in 2022 één zetel in Hilversum; het raadslid, Frederique Durlacher, ging eind 2024 onder eigen naam verder en heeft nu een eigen lijst. De BVNL-lijst van nu heeft een nieuwe lijsttrekker en geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "Standpunten Wijdemeren en Hilversum - Beter voor Wijdemeren en Hilversum, 11 pijlers (Gezamenlijk Belang)",
+   "url": "https://www.gezamenlijkbelang.nl/standpunten",
+   "paginas": null,
+   "woorden": 1879
+  },
+  "kernboodschap": "BVNL Hilversum presenteert zich als enige klassiek liberale partij in Hilversum, onder de naam Gezamenlijk Belang. De partij wil een kleine overheid die zich richt op kerntaken (veiligheid, wonen, mobiliteit, zorg, lokale economie), lagere lasten, minder bureaucratie en meer vrijheid voor inwoners en ondernemers. Het programma combineert Hilversum en Wijdemeren en legt accenten op wonen voor eigen inwoners, harde handhaving, auto-bereikbaarheid en duurzaamheid zonder dwang.",
+  "speerpunten": [
+   "Lagere lokale lasten op wonen, afval en parkeren; geen prestigeprojecten",
+   "Bevriezen van de groei van het ambtelijk apparaat en minder externe inhuur",
+   "Wonen voor eigen inwoners, met voorrang voor lokaal gebonden woningzoekenden",
+   "Meer wijkagenten en boa's, cameratoezicht op hotspots en harde aanpak van overlast",
+   "Bindende referenda en openbare coalitieonderhandelingen",
+   "Auto-bereikbaarheid: voldoende parkeerplaatsen, geen zero-emissiezones, geen windturbines en zonneparken op onbebouwd gebied",
+   "Behoud van natuur, open landschap en boerenbedrijven in Wijdemeren",
+   "Zo vrij mogelijke winkel- en horecatijden en minder regels voor het MKB"
+  ],
+  "opvallend": [
+   "Enige partij die zich de 'enige klassiek liberale partij in Hilversum' noemt en andere partijen collectivistisch noemt",
+   "Combineert lagere lasten met stoppen van de versobering van bijstand, Wmo, jeugdzorg en armoedebeleid, plus gratis lokaal OV voor 65+",
+   "Hoogcomplexe jeugdzorg terug naar het Rijk",
+   "Afschaffing van diftar en nascheiding van afval",
+   "Geen zero-emissiezones en geen windturbines of zonneparken op onbebouwd gebied",
+   "Geen voorrang voor statushouders op sociale huur, en asielopvang niet boven de landelijke taakstelling",
+   "Gemeente doet geen uitspraken over internationale conflicten",
+   "Ouders hebben het laatste woord over deelname aan seksuele voorlichting",
+   "Bindende referenda en openbare coalitieonderhandelingen",
+   "Afdrachten aan Regio Gooi en Vechtstreek herzien"
+  ],
+  "dun": [
+   "Geen concrete aantallen woningen of percentages sociale huur; alleen tegen 'starre quota'",
+   "Geen concrete locaties voor woningbouw of asielopvang genoemd",
+   "Weinig over fusie en de dorpen/kernen buiten een nieuwsbericht; Hilversum-specifieke dossiers (stationsgebied, Arenapark, Crailo, Hoorneboeg, Kerkelanden, De Rading, vliegveld) niet behandeld",
+   "Cultuur en sport beperkt tot steun aan verenigingen en erfgoed; zwembaden en sportaccommodaties niet genoemd",
+   "Geen concrete bedragen of dekking bij de uitgavenwensen (gratis OV 65+, behoud subsidies)",
+   "Programma combineert Wijdemeren en Hilversum en noemt geen pagina's (webprogramma)"
+  ]
+ },
+ {
+  "slug": "scb",
+  "nr": 10,
+  "naam": "SCB",
+  "kort": "SCB",
+  "kleur": "#8C6D3F",
+  "lijsttrekker": "Haidar al Ibrahim",
+  "website": "https://www.scb.nl/",
+  "achtergrond": "Sociaal-Conservatieve Beweging, opgericht door Haidar al Ibrahim. Hij stond in 2022 op de lijst van GroenLinks en zit sinds januari 2026 voor SCB in de Hilversumse raad.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma 2026 Hilversum - SCB | Verstandig Vernieuwen",
+   "url": "https://irp.cdn-website.com/a213bcc1/files/uploaded/SCBVerstandigVernieuwen.pdf",
+   "paginas": 9,
+   "woorden": 1825
+  },
+  "kernboodschap": "SCB (Sociaal-Conservatieve Beweging) presenteert een kort programma met een tienpuntenplan onder de noemer 'nuchtere en sociale koers'. De accenten liggen op gezin en gemeenschap, rechten en plichten, voorrang voor woningzoekenden met een sterke lokale binding, beheersbare asielopvang met integratie-eisen, en minder betaald parkeren. Het programma is vooral gericht op Hilversum en bevat weinig cijfers of namen van locaties.",
+  "speerpunten": [
+   "Voorrang op een woning voor mensen met een sterke lokale binding, binnen de wettelijke mogelijkheden",
+   "Meer betaalbare starters- en gezinswoningen, seniorenwoningen en doorstroming",
+   "Consequent optreden tegen ernstige en herhaalde overlast, naast sterk jongerenwerk",
+   "Opvang van asielzoekers beheersbaar houden, met investeringen in taal, participatie en werk",
+   "Uitbreiding van betaald parkeren tot de buitenring bij voorkeur terugdraaien",
+   "Ondersteuning van gezinnen, mantelzorgers, vrijwilligers en verenigingen",
+   "Transparant bestuur en zorgvuldig omgaan met gemeenschapsgeld"
+  ],
+  "opvallend": [
+   "Voorrang bij woningtoewijzing voor mensen met een sterke lokale binding (geboren/opgegroeid, werk, gezin, lang wonend), weliswaar 'binnen de wettelijke mogelijkheden'; SCB zet dit als eerste punt van het tienpuntenplan.",
+   "Wil de uitbreiding van betaald parkeren tot de buitenring bij voorkeur terugdraaien en gratis parkeren voor bezoekers en (mantel)zorgverleners mogelijk maken.",
+   "Stelt een bovengrens aan asielopvang: niet meer dan het vastgestelde gemeentelijke aantal, binnen wettelijke verplichtingen, naast een jaarlijkse rapportage over deelname en resultaten van inburgering.",
+   "Benoemt gezin en gemeenschap als basis van de samenleving en ouders als eerst verantwoordelijken voor opvoeding.",
+   "Combineert een conservatief-sociale invalshoek met gelijke behandeling 'ongeacht afkomst, achtergrond of geloof'."
+  ],
+  "dun": [
+   "klimaat (energietransitie, aardgasvrij, zon/wind, klimaatadaptatie: niets in het materiaal)",
+   "natuur (alleen groen in woonwijken en onderhoud; niets over Loosdrechtse Plassen, heide, landbouw of vliegveld)",
+   "cultuur, erfgoed, sport en onderwijs (alleen een zin over toegankelijke voorzieningen)",
+   "financien (geen OZB, reserves, bezuinigingen of subsidies; alleen transparantie)",
+   "fusie en de dorpen van Wijdemeren (programma gaat uitsluitend over Hilversum; fusie, dorpsraden en loketten niet genoemd)",
+   "lokale dossiers bij naam (geen enkele locatie of project genoemd: geen stationsgebied, Mediapark, Crailo, Loosdrechtse Plassen e.d.)",
+   "economie (geen standpunt over koopzondag, horeca, Mediapark of bedrijventerreinen)",
+   "verkeer (geen standpunt over fiets, OV, 30 km/u of autoluw centrum)",
+   "aantallen en percentages (geen woningbouwaantallen of sociale-huurpercentages)"
+  ]
+ },
+ {
+  "slug": "gewoon-hilversum",
+  "nr": 11,
+  "naam": "Gewoon, Hilversum",
+  "kort": "Gewoon, Hilversum",
+  "kleur": "#F2B705",
+  "lijsttrekker": "Regie Redmeijer",
+  "website": "https://www.gewoonhilversum.nl/",
+  "achtergrond": "Nieuwe lokale partij van de Hilversumse raadsleden Regie Redmeijer, tot 2026 fractievoorzitter van Hart voor Hilversum, en Haitske van de Linde, tot 2025 lid van de VVD-fractie.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma herindelingsverkiezingen 18 november 2026 - Gewoon doen wat nodig is",
+   "url": "https://www.gewoonhilversum.nl/_downloads/dc9d30643fd1273903d1aec9586775a4",
+   "paginas": 40,
+   "woorden": 16585
+  },
+  "kernboodschap": "Gewoon, Hilversum is een nieuwe lokale partij die inwoners vanaf het begin bij plannen wil betrekken en zeggenschap dichtbij, in buurten en dorpen, wil organiseren. Zij wil dat dorpen en wijken hun eigen identiteit houden in de nieuwe gemeente, en kiest voor een sluitende begroting met woonlasten die bij voorkeur niet sneller stijgen dan de inflatie. Op onderwerpen als parkeren, wind- en zonne-energie en asielopvang formuleert zij concrete afwijzingen, naast een bestuursstijl zonder coalitie tegen oppositie.",
+  "speerpunten": [
+   "Inspraak aan het begin van beleid: eerst inwoners, dan het plan",
+   "Zeggenschap in buurten en dorpen: vier rechten (informatie, advies, instemming, initiatief), jaarlijkse vergadering per dorp, wijk en buurt",
+   "Eigen identiteit van dorpen en wijken behouden in de nieuwe gemeente",
+   "Geen uitbreiding van betaald parkeren naar De Meent en de dorpen van Wijdemeren",
+   "Geen zero-emissiezones in winkelgebieden en centrum",
+   "Kleinschalige asielopvang (max. 100 per locatie, 500 in totaal), geen groot AZC",
+   "Kritisch op grootschalige windenergie, geen nieuwe zonnevelden, prioriteit voor besparing en zon op daken",
+   "Gezond huishoudboekje: woonlasten bij voorkeur niet boven inflatie, geen nieuwe megaprojecten"
+  ],
+  "opvallend": [
+   "Breed raadsakkoord in plaats van een coalitieakkoord van een minimale meerderheid, met wethouders die raadsbreed op kwaliteit worden geselecteerd.",
+   "Geen nieuwe zonnevelden toestaan (naast kritiek op grootschalige wind), met prioriteit voor zon op daken en isolatie.",
+   "Eigen opvangkader: tegen noodopvang, maximaal 100 personen per locatie en 500 plekken in totaal; omwonenden krijgen adviesrecht, uitdrukkelijk geen vetorecht.",
+   "Uitgewerkt participatiestelsel: vier zeggenschapsrechten in een verordening, ambtenaar voor buurtperspectief aan de Omgevingstafel, gemeentelijke participatieregie bij ontwikkelaars tegen hogere leges, maar geen besluitvormende dorpsraad.",
+   "Aanwijzing van gemeentelijke monumenten terug naar de gemeenteraad en een brede belangenafweging bij monumentenzorg.",
+   "Parkeren: geen betaald parkeren in De Meent en Wijdemeren, geen verhoging van vergunningstarieven, eerder eindtijdstip onderzocht en blauwe kaart in winkelgebieden (behalve centrum).",
+   "Fatbikes: gedrag aanpakken en geen verbod als vertrekpunt; een beperking alleen als die juridisch mogelijk en aantoonbaar effectief is.",
+   "Maaibeleid: meer balans tussen biodiversiteit en een nette openbare ruimte; grofvuil ophalen weer gratis.",
+   "Bevat expliciete zelfbeperking: geen nieuwe megaprojecten, en het eigen programma belooft niet overal tegelijk extra investeringen."
+  ],
+  "dun": [
+   "wonen: geen percentages sociale huur of middenhuur, geen hoogbouw- of bouwlocaties bij naam (Arenapark, Crailo, Hoorneboeg, Anna's Hoeve, Kerkelanden, Ter Sype, De Rading, Porseleinhaven, Nederhorst-Noord, Zuidsingel komen niet voor); alleen het tempo van 300 tot 350 woningen per jaar",
+   "verkeer: geen standpunt over 30 km/u, autoluw centrum, fietsinfrastructuur in detail of laadpalen",
+   "klimaat: niets over warmtenet, kernenergie of een planning aardgasvrij; geen afvalbeleid anders dan gratis grofvuil",
+   "natuur: niets over de Loosdrechtse Plassen (alleen onderhoudskosten van de plassen), vliegveld Hilversum, landbouw/boeren of heide",
+   "veiligheid: niets over camera's, coffeeshops of drugsbeleid, sterkte van de politie of het vuurwerkverbod zelf",
+   "asiel: niets over concrete opvanglocaties, Oekraïners of arbeidsmigranten",
+   "economie: niets over koopzondag, horeca-openingstijden, De Rading/Ter Sype of Arenapark",
+   "cultuur: niets over zwembaden of bibliotheek-specifiek beleid, weinig concreet over sportaccommodaties",
+   "bestuur: niets over een referendum of over loketten en gemeentehuis in de dorpen van Wijdemeren",
+   "financien: geen bedragen of percentages voor OZB, reserves of bezuinigingen; geen cijfers over het begrotingstekort van de nieuwe gemeente"
+  ]
+ },
+ {
+  "slug": "dorp-voor-dorp",
+  "nr": 12,
+  "naam": "Dorp voor Dorp",
+  "kort": "Dorp voor Dorp",
+  "kleur": "#5E8C31",
+  "lijsttrekker": "Diederick Volkers",
+  "website": "https://www.dorpvoordorp.nl/",
+  "achtergrond": "Nieuwe lokale partij, opgericht door inwoners van Wijdemeren die kritisch waren over de fusie met Hilversum. De partij zet in op zeggenschap en eigenheid van de dorpen. Geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "Partijprogramma 2026 - Voor Nieuw-Hilversum (Jij bent de democratie)",
+   "url": "https://www.dorpvoordorp.nl/_downloads/36b52cc862bbee386895dfad41bc5796",
+   "paginas": 90,
+   "woorden": 29349
+  },
+  "kernboodschap": "Dorp voor Dorp, een nieuwe lokale partij van inwoners van Wijdemeren uit onvrede over de fusie met Hilversum, wil dat inwoners en dorpen meer te zeggen krijgen via dorpsraden met eigen budget en bevoegdheden, bindende referenda en een zeer transparante gemeente. Het programma legt het accent op lokale binding bij wonen en voorzieningen dichtbij in de dorpen. Daarnaast staan concrete keuzes tegen nieuwe AZC's en nieuwe windturbines, voor betaald parkeren alleen in het centrum en voor een middelbare school in het dorpengebied.",
+  "speerpunten": [
+   "Dorpsraden met eigen budget en zoveel mogelijk overgedragen bevoegdheden, in plaats van alleen adviseren",
+   "Lokale referenda die uiteindelijk bindend moeten worden (drempel circa 3%, opkomst circa 50%)",
+   "Meest transparante gemeente: iedere uitgave binnen drie klikken vanaf de begroting",
+   "Sociale huur en koop: wachttijd en lokale binding zwaarder laten wegen, betaalbare koop terug, geen voorrang voor statushouders",
+   "Geen nieuwe AZC's en geen nieuwe windturbines",
+   "Betaald parkeren alleen in het centrum en gratis parkeren bij het gemeentehuis",
+   "Een middelbare school voor de dorpen onderzoeken en een Techniekcampus Gooi & Vecht",
+   "Buurtfondsen in plaats van één centraal Stadsfonds"
+  ],
+  "opvallend": [
+   "Dorpsraden met formele tegenmacht: bij vertrouwensverlies door twee derde van de dorpsraden in een wethouder moet de gemeenteraad dat minimaal openbaar behandelen",
+   "Referendum met lage aanvraagdrempel (circa 3%), geen maximale bedenktijd en referendum ook over bestaande verordeningen; als einddoel bindend",
+   "Bouwgrenzen en rode contouren opnieuw beoordelen en gecontroleerde uitbreiding aan dorpsranden mogelijk maken",
+   "Tien jaar verblijfs- of bindingsduur als landelijk bepleit uitgangspunt voor gelijke aanspraak op schaarse reguliere woonruimte",
+   "Betaald parkeren beperken tot het centrum en het aantal parkeerplaatsen per woning bij nieuwbouw verhogen als dat nodig blijkt",
+   "Geen nieuwe windturbines en bestaande overlastgevende turbines waar mogelijk laten verdwijnen",
+   "Onderzoek naar een ondergronds spoor door centraal Hilversum als gebiedsontwikkeling voor tientallen jaren",
+   "Wolf: onderzoeken of gericht afschot van probleemwolven de goedkoopste en meest humane oplossing is",
+   "Eigen club of uitgaansplek in ieder dorp en een Belletje in de raad tegen jargon",
+   "Gemeente een grotere regierol bij natuurbeleid; natuurorganisaties werken waar mogelijk binnen democratisch vastgestelde kaders",
+   "Programma noemt bijna nergens aantallen, bedragen of percentages voor woningbouw, budgetten of belastingen"
+  ],
+  "dun": [
+   "klimaat: alleen windturbines; niets over aardgasvrij, warmtenet, zonne-energie, kernenergie, isolatie, energiearmoede, klimaatadaptatie of afval",
+   "veiligheid: niets over politie, boa's en handhaving, drugs en coffeeshops, vuurwerk of ondermijning; wel toiletten, verlichting en fietssteunpunten",
+   "economie: niets over Mediapark, koopzondag, horeca, toerisme, bedrijventerreinen of werkgelegenheid buiten het Buurtfonds en de Techniekcampus",
+   "zorg: niets over Wmo, jeugdzorg, ouderen- en thuiszorg, armoede, schulden, bijstandsbeleid of eenzaamheid; wel de talenten-benadering",
+   "financien: niets over OZB en andere lasten, reserves, bezuinigingen of externe inhuur",
+   "verkeer: niets over OV, fiets (behalve veilige routes), 30 km/u, autoluw centrum of laadpalen",
+   "natuur: niets over Loosdrechtse Plassen, heide of vliegveld Hilversum; in het programma staan geen lokale locaties behalve de dorpsnamen",
+   "wonen: geen aantallen woningen, percentages sociale huur of middenhuur en geen genoemde bouwlocaties (geen Crailo, Anna's Hoeve, De Rading enzovoort)",
+   "cultuur: niets over erfgoed, sportaccommodaties of zwembaden",
+   "asiel: niets over integratie, discriminatie of religie; niets specifieks over Oekraïners of arbeidsmigranten"
+  ]
+ },
+ {
+  "slug": "stop-betaald-parkeren-vip",
+  "nr": 13,
+  "naam": "Stop Betaald Parkeren-VIP",
+  "kort": "Stop Betaald Parkeren-VIP",
+  "kleur": "#4A4A4A",
+  "lijsttrekker": "Gerke Kleinsmit",
+  "website": "https://viphilversum.nl/",
+  "achtergrond": "Nieuwe lokale partij, voortgekomen uit het bewonerscollectief dat zich verzette tegen de uitbreiding van betaald parkeren in Hilversum. Geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma 2027 - 2030 (Stop Betaald Parkeren - VIP)",
+   "url": "https://viphilversum.nl/programma2026.pdf",
+   "paginas": 39,
+   "woorden": 12139
+  },
+  "kernboodschap": "Stop Betaald Parkeren - VIP is een nieuwe lokale partij die voortkomt uit het verzet tegen uitbreiding van betaald parkeren en dat als aanleiding, maar niet als eindpunt ziet. De partij wil dat de gemeente eerst luistert, feiten onderzoekt en alternatieven bekijkt voordat ze besluit, en dat maatregelen alleen worden genomen bij een aantoonbaar probleem. Verder legt ze accenten op betaalbare woningen voor jongeren, starters en ouderen, bereikbaarheid, maatwerk per wijk en dorp, en lage en uitlegbare gemeentelijke lasten.",
+  "speerpunten": [
+   "Verdere uitbreiding van betaald parkeren stoppen en bestaand parkeerbeleid gebied voor gebied opnieuw bekijken",
+   "Eerst een goed alternatief, dan pas een maatregel (geen parkeerplaatsen schrappen of parkeren duurder maken zonder alternatief)",
+   "Inwoners en ondernemers vooraf laten meepraten, ook via de eigen platforms hilversumstemt.nl en wijdemerenstemt.nl",
+   "Betaalbare en passende woningen voor jongeren, starters en ouderen, gericht op doorstroming",
+   "Maatwerk voor elke wijk en elk dorp, met een eigen agenda en budget en een lokaal aanspreekpunt in de dorpen",
+   "Eerst besparen, dan pas lasten verhogen; eerst de basis op orde, dan nieuwe ambities",
+   "Eén ondernemersloket en minder regels voor ondernemers"
+  ],
+  "opvallend": [
+   "Het partijprogramma is opgebouwd rond één procesprincipe (eerst meten, dan beslissen; alleen maatregelen bij een aantoonbaar probleem en met een werkbaar alternatief) en past dat toe op parkeren, verkeer, bouwplannen en financiën, met zes vaste toetsvragen bij belangrijke plannen.",
+   "De partij raadpleegt de eigen achterban structureel via de eigen platforms hilversumstemt.nl en wijdemerenstemt.nl en wil die uitkomsten betrekken bij raadsbesluiten; ze noemt 139 van de 142 polls terug te vinden in het programma.",
+   "Op parkeren wil de partij verdere uitbreiding stoppen en bestaand beleid gebied voor gebied herzien, met een blauwe zone als eerste alternatief; het programma noemt geen aparte regeling voor het centrum van Hilversum.",
+   "De partij is in de Stemgids tegen het behouden van het zero-emissiezone-plan, tegen een aardgasvrij-plan tot 2050 en tegen een onderzoek naar een kleine kerncentrale, en wil grootschalige wind- en zonneparken niet in het groen.",
+   "Bij cameratoezicht kiest de partij voor camera's alleen als uiterste middel na verlichting en handhaving.",
+   "Voor statushouders geen voorrang op sociale huur op grond van verblijfsstatus, maar wel flexwoningen en tijdelijke huisvesting, en tijdelijke asielopvang met vaste einddatum waarvan verlenging een nieuw besluit vraagt.",
+   "Het programma noemt vrijwel geen aantallen, percentages, bedragen of tarieven; keuzes zijn procedureel en voorwaardelijk geformuleerd."
+  ],
+  "dun": [
+   "Geen woningbouwaantallen, geen percentages sociale huur of middenhuur en geen concrete bouwlocaties bij naam in het programma",
+   "Geen lokale dossiers bij naam in het programma (zoals Mediapark, Arenapark, Crailo, Loosdrechtse Plassen als dossier, vliegveld, zwembaden); alleen Bruisend Hart, Kerkbrink, de Meent en Nederhorst den Berg komen via de Stemgids voor",
+   "Geen concrete OZB-percentages of bedragen, afgezien van de Stemgids-lijn dat woonlasten niet harder stijgen dan de inflatie",
+   "Geen standpunt over koopzondag in het programma (alleen neutraal zonder toelichting in de Stemgids), coffeeshops of vuurwerk",
+   "Weinig over de specifieke positie van het centrum van Hilversum, de Mediastad en toerisme",
+   "Geen concrete aantallen voor boa's, politie of handhaving",
+   "Natuur, dierenwelzijn en landbouw: geen standpunten over boeren, dierenwelzijn of het vliegveld Hilversum"
+  ]
+ },
+ {
+  "slug": "opstand-nu",
+  "nr": 14,
+  "naam": "Opstand.nu",
+  "kort": "Opstand.nu",
+  "kleur": "#E6007E",
+  "lijsttrekker": "Joop Lahaise",
+  "website": "https://opstand.nu/",
+  "achtergrond": "Lokale partij van raadslid Joop Lahaise, die in 2025 de PvdA-fractie verliet. Eén zetel in de Hilversumse raad.",
+  "basis": null,
+  "programma": {
+   "titel": "OpStand.nu verkiezingsprogramma 2026 - Scherp, sociaal voor ons allemaal",
+   "url": "https://opstand.nu/wp-content/uploads/2026/10/verkprogr2026.pdf",
+   "paginas": 12,
+   "woorden": 4581
+  },
+  "kernboodschap": "OpStand.nu is een nieuwe vrijzinnig sociaaldemocratische partij rond raadslid Joop Lahaise, met als thema's kansengelijkheid, solidariteit en bestaanszekerheid. Het programma legt de nadruk op voorrang voor voetganger en fietser, gereguleerd parkeren met opbrengst voor parkeeroplossingen, een autoluw centrum en een levendige mediastad. Bouwen alleen lost de woningnood volgens de partij niet op; zij wil gemengde wijken en pleit voor lasten naar draagkracht.",
+  "speerpunten": [
+   "Kansengelijkheid: onderwijs, laaggeletterdheid, gratis bibliotheekpas en voorzieningen in achterstandsbuurten",
+   "Verkeersveiligheid met voorrang voor voetganger, fietser en OV; autoluw centrum",
+   "Gereguleerd parkeren: vergunning maximaal EUR 50 per jaar, minimaal driekwart van de opbrengst naar parkeeroplossingen",
+   "Sociale huur ook in de 'betere' buurten; bouwen met mate en bestaande voorraad beter benutten",
+   "Hittestress en wateroverlast aanpakken, met voorrang voor wijken waar dat het hardst nodig is",
+   "Bestaanszekerheid boven baanzekerheid, met een vorm van basisinkomen als ideaal",
+   "Lasten naar draagkracht: de breedste schouders dragen de zwaarste lasten",
+   "Een levendige mediastad en een ongedeeld Hilversum met betere verbindingen tussen Oost, Centrum, Noord en Mediapark"
+  ],
+  "opvallend": [
+   "Wil bestaanszekerheid en liefst een vorm van basisinkomen in plaats van nadruk op 'meedoen'",
+   "Wil sociale huur ook in de 'betere' buurten, en de bebouwing rond het station en Bruisend Hart herzien",
+   "Wil de Hilvertshof-parking op termijn laten verdwijnen en is tegen een fietsenstalling op de Groest",
+   "Is tegen het POET-parkeerbeleid en wil de parkeervergunning op maximaal EUR 50 per jaar met een vaste bestedingsregel voor de opbrengst",
+   "Noemt expliciet toeristen, forensen en villabewoners aan de plas als groepen om minder te bedienen, en pleit voor een gratis bibliotheek en afschaffen of maximeren van de ouderbijdrage",
+   "Besteedt een eigen punt aan burgerweerbaarheid, noodsteunpunten en schuilplaatsen bij militaire dreiging",
+   "Zegt ja tegen een azc met participatie, maar niet wijken voor de hardste nee-roepers",
+   "Wil de sloopkamer alleen in hoogste nood gebruiken en de OZB-verlaging in Wijdemeren is volgens de partij onverkoopbaar"
+  ],
+  "dun": [
+   "Loosdrechtse Plassen en vliegveld Hilversum (alleen watertoerisme genoemd)",
+   "Landbouw en dierenwelzijn buiten hondenbelasting",
+   "Aantallen woningen, percentage sociale huur en senioren/doorstroming",
+   "Schulden, Wmo, eenzaamheid en ouderenzorg",
+   "Politie, boa's, drugs/coffeeshops, vuurwerk en ondermijning",
+   "Warmtenet, isolatie- en zonne-energiebeleid, afvalbeleid",
+   "Regionale samenwerking, participatie en wijkraden (alleen titel van standpunt), reserves en externe inhuur",
+   "Koopzondag, bedrijventerreinen en evenementen (alleen stemgids)"
+  ]
+ },
+ {
+  "slug": "pvdd",
+  "nr": 15,
+  "naam": "Partij voor de Dieren",
+  "kort": "Partij voor de Dieren",
+  "kleur": "#006B2D",
+  "lijsttrekker": "Jojanneke Vanderveen",
+  "website": "https://hilversum.partijvoordedieren.nl/",
+  "achtergrond": "Lokale afdeling van de Partij voor de Dieren. Doet hier voor het eerst mee aan de gemeenteraadsverkiezing en heeft geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma beleidsversie, Gemeenteraad 2026-2030 Partij voor de Dieren Hilversum-Wijdemeren",
+   "url": "https://assets.partijvoordedieren.nl/assets/site/hilversum/PvdD-beleidsversie-GR2026-Hilversum-Wijdemeren.pdf",
+   "paginas": 79,
+   "woorden": 28194
+  },
+  "kernboodschap": "De Partij voor de Dieren Hilversum-Wijdemeren stelt dierenrechten en dierenwelzijn, natuur en klimaat centraal en wil dat in alle beleidsterreinen laten doorwerken. Ze kiest voor beschermen en vergroenen boven bouwen in het groen en autoverkeer, en combineert dat met sociaal beleid (sociale huur, armoedebestrijding, inclusie, opvang van vluchtelingen). Het is haar eerste deelname aan de verkiezingen in Hilversum en Wijdemeren.",
+  "speerpunten": [
+   "Kies voor groen: goed voor dier, mens en planeet",
+   "Alle dieren hebben het recht om te kunnen leven naar hun aard",
+   "Een gezonde samenleving: een gifvrije leefomgeving en ruimte om te foreren",
+   "Een betaalbaar en duurzaam huis voor iedereen",
+   "Schoon onderweg: ruim baan voor voetgangers, fietsers en OV",
+   "Iedereen hoort erbij: inclusief, rechtvaardig en solidair"
+  ],
+  "opvallend": [
+   "Wil een wethouder Dierenrechten & Dierenwelzijn, een Nota Dieren en een voogd die de stem van de natuur vertegenwoordigt (rechten van de natuur, Zoöp).",
+   "Kapvergunning vanaf 10 cm stamdoorsnede (nu 30 cm in Hilversum, 20 cm in Wijdemeren) en verbod op honingbijen op openbare grond, jacht op gemeentegrond en hengelen in gemeentelijke wateren.",
+   "Woonladder met een limiet op het aantal toe te voegen woningen in Hilversum; als die grens bereikt is moeten oplossingen buiten Hilversum worden gezocht.",
+   "Wil het vliegveld Hilversum bij sluiting laten omzetten in natuur, niet in woningbouw, en vanaf 2030 alleen elektrische, roei- en zeilboten op gemeentelijk water.",
+   "Betaald parkeren in heel Hilversum, geen nieuwe autoparkeerplekken op straat, 30 km/u als hoofdregel en streefdoel van 85% van de verplaatsingen per fiets.",
+   "Gebruikersruimtes voor drugsverslaafden, geen boete voor harddrugsgebruik in de openbare ruimte en proeven met lokale wietteelt.",
+   "Bed-bad-broodregeling voor ongedocumenteerden, geen medewerking aan uitzetting van kinderen en opvang ongeacht verblijfsstatus.",
+   "Werkt niet samen met organisaties die de IHRA-definitie hanteren; spreekt uit dat Palestina een onafhankelijke staat is en gaat geen stedenbanden aan met gemeenten in landen met een door de VN erkende illegale bezetting.",
+   "Reclame in de openbare ruimte stopt, met een reclamebelasting als tussenstap; economische groei is geen beleidsdoel.",
+   "Wil legalisering van kraken van langdurig leegstaande panden bepleiten en het groepscontract in de verhuur verbieden."
+  ],
+  "dun": [
+   "financien: geen doorrekening, geen standpunt over het niveau van OZB of de begroting als geheel; alleen losse belastingen (reclame-, toeristen-, geen hondenbelasting) en 'de vervuiler betaalt'.",
+   "economie: bijna niets over het centrum en de winkels, koopzondag of Mediapark als mediastad; het Mediapark komt alleen voor bij lokaal eigendom van energieopwek.",
+   "wonen: geen woningbouwaantallen of vaste bouwlocaties (Anna's Hoeve, Hoorneboeg, Nederhorst-Noord, Ter Sype, Porseleinhaven, Zuidsingel e.d. worden niet genoemd) en geen standpunt over het stationsgebied; Circusterrein aan de Diependaalselaan is de enige bouwlocatie bij naam.",
+   "bestuur: de fusie en de dorpen komen vooral terug in dorpsspecifieke transitieplannen en dorpsraden; niets over loketten in Wijdemeren, dorpshuizen of zwembaden.",
+   "natuur: Loosdrechtse Plassen en recreatie op de plassen krijgen geen eigen standpunt buiten elektrisch varen en waterkwaliteit; Crailo komt alleen voor als dierenasiel en als aandeelhouderschap in GEM Crailo.",
+   "veiligheid: geen concrete aantallen boa's of agenten; Arenapark komt alleen voor bij de biomassacentrale.",
+   "asiel: geen locaties of aantallen voor azc of noodopvang; verwijst naar eerder gemaakte inspraakafspraken. Standpunten over Spreidingswet, zondagsopening, starterslening, Bruisend Hart en Kerkbrink komen uit de Stemgids Hilversum, niet uit het programma."
+  ]
+ },
+ {
+  "slug": "blanco-van-oostveen",
+  "nr": 16,
+  "naam": "Blanco lijst (Van Oostveen)",
+  "kort": "Lijst Van Oostveen",
+  "kleur": "#9AA0A6",
+  "lijsttrekker": "Jacqueline van Oostveen",
+  "website": null,
+  "achtergrond": "Lijst zonder partijnaam van Jacqueline van Oostveen uit Hilversum, eerder commissielid voor Leefbaar Hilversum. Geen raadsleden.",
+  "basis": "Deze lijst heeft geen verkiezingsprogramma gepubliceerd. De standpunten hier komen uit haar eigen antwoorden in MijnStem en, met meer voorbehoud, uit Stemgids Hilversum. Er zijn daardoor minder standpunten bekend dan bij andere lijsten, en ze zijn minder goed te controleren.",
+  "programma": {
+   "titel": null,
+   "url": null,
+   "paginas": null,
+   "woorden": null
+  },
+  "kernboodschap": null,
+  "speerpunten": [
+   "Uitbreiding van betaald parkeren herzien en bezoekers gratis laten parkeren",
+   "Woonlasten niet harder laten stijgen dan de inflatie",
+   "Geen hoogbouw boven de bestaande grens en geen 'megabouwprojecten'",
+   "Starterslening via een revolverend fonds",
+   "Meer geld voor kunst en cultuur",
+   "Referendum over grote besluiten"
+  ],
+  "opvallend": [
+   "Tegen voorrang voor statushouders bij sociale huur, met als argument het aantal spoedzoekers, urgenten en dak- en thuislozen",
+   "Wil dat de uitbreiding van betaald parkeren wordt herzien en zo nodig teruggedraaid",
+   "Tegen een plan voor aardgasvrij in 2050; wil gas en stroom naast elkaar houden"
+  ],
+  "dun": [
+   "Geen eigen programma of website: het materiaal beperkt zich tot antwoorden op 24 stemgidsstellingen, redactioneel samengesteld en niet door de lijst gecontroleerd",
+   "Niet vastgelegd: aantallen woningen, sociale huur, fiets en OV, drugs en handhaving, ondernemers en Mediapark, onderwijs en sport, fusie en loketten, reserves en bezuinigingen",
+   "Citaten komen uit de toelichting bij stellingen; ze zijn geen programmateksten"
+  ]
+ },
+ {
+  "slug": "lfd",
+  "nr": 17,
+  "naam": "Libertaire Fractie Durlacher (LFD)",
+  "kort": "LFD",
+  "kleur": "#C9A200",
+  "lijsttrekker": "Frederique Durlacher",
+  "website": "https://stemlfd.nl/",
+  "achtergrond": "De lijst van raadslid Frederique Durlacher. Zij werd in 2022 gekozen voor BVNL en zit sinds eind 2024 als zelfstandige fractie in de Hilversumse raad.",
+  "basis": null,
+  "programma": {
+   "titel": "Libertaire Fractie Durlacher - Verkiezingsprogramma 2026 (A-Z standpunten)",
+   "url": "https://stemlfd.nl/wp-content/uploads/2026/09/Libertaire-Fractie-Durlacher-%E2%80%93-Verkiezingsprogramma-2026.pdf",
+   "paginas": 30,
+   "woorden": 6536
+  },
+  "kernboodschap": "LFD is een nieuwe libertaire lokale partij die de gemeente wil beperken tot haar kerntaken en de bewijslast bij de overheid legt: de gemeente moet aantonen waarom een regel, uitgave of ingreep nodig is. Zij benadrukt eigendomsrechten, lage lasten, privacy en keuzevrijheid, en wil dat Hilversum, de Hilversumse Meent en de dorpen van Wijdemeren na de herindeling hun eigen karakter en bereikbaar bestuur behouden.",
+  "speerpunten": [
+   "Geen verdere uitbreiding van betaald parkeren naar woonwijken; bestaande gebieden herbeoordelen",
+   "Lokale lasten zo laag mogelijk; geen nieuwe belasting zonder aantoonbare noodzaak",
+   "Geen gedwongen grootschalige asielopvang zonder lokale instemming",
+   "Raadgevend referendum en burgerinitiatief",
+   "Bewijslast bij de gemeente: geen regel zonder aantoonbare noodzaak, vergunning vervangen door melding waar mogelijk",
+   "Bestuur dichtbij na de herindeling: servicepunten in de kernen en geen automatische harmonisatie naar het strengste niveau",
+   "Eigendomsrechten en meer ruimte om te bouwen, splitsen en op te toppen",
+   "Privacy: geen gezichtsherkenning of massasurveillance, openbaar algoritmeregister"
+  ],
+  "opvallend": [
+   "Wil meer woningsplitsing, optoppen, woningdelen en kwalitatieve hoogbouw en vindt smaak of de wens dat een buurt niet verandert geen reden om woningbouw te blokkeren",
+   "Tegen een algemene 30 km/u-norm, tegen uitbreiding van zero-emissiezones boven wettelijke verplichtingen en tegen de 15-minutenstad als sturingsmodel",
+   "Wil betaald parkeren in bestaande gebieden herbeoordelen en eventueel terugdraaien; stelt geen minimumaantal parkeerplaatsen en acht een appartement zonder parkeerplaats mogelijk",
+   "Noch dwang voor, noch verbod op windturbines en zonnevelden op particuliere grond; geen subsidiegestuurde voorkeur voor een techniek",
+   "Was tegen de invoering van toeristenbelasting en tegen een algemeen vuurwerkverbod",
+   "Wil subsidies standaard een einddatum geven en vrijwillige financiering voorrang geven, ook bij cultuur en sport",
+   "Specifiek brandweerstandpunt: behoud van de beroepsbrandweer in Hilversum en de vrijwillige posten in Loosdrecht, 's-Graveland en Nederhorst den Berg",
+   "Verzet tegen quota en streefcijfers op groepsidentiteit; respect voor thuisonderwijs"
+  ],
+  "dun": [
+   "Geen concrete woningbouwaantallen, locaties of percentages sociale huur/middenhuur genoemd; geen voorrangsregels voor starters of senioren",
+   "Geen lokale dossiers bij naam (stationsgebied, Arenapark, Crailo, Hoorneboeg, Zuidsingel, vliegveld Hilversum, azc-locaties en dergelijke); alleen de Hilversumse Meent, het Media Park en de Loosdrechtse Plassen worden genoemd, zonder concrete plannen",
+   "Weinig over OV, fiets en laadpalen; klimaatadaptatie, warmtenet, aardgasvrij en energiearmoede worden niet behandeld",
+   "Geen standpunt over drugs/coffeeshops, ondermijning, koopzondag, horeca, bedrijventerreinen en het Mediapark als economisch project",
+   "Geen bedragen of percentages voor OZB of bezuinigingen; geen standpunt over zwembaden, dorpshuizen of het gemeentehuis van Wijdemeren",
+   "Het programma noemt geen Forensische woonlocatie Geuzenweg of azc's bij naam; alleen de koppen van opiniestukken op de partijsite verwijzen daarnaar"
+  ]
+ },
+ {
+  "slug": "volt",
+  "nr": 18,
+  "naam": "Volt",
+  "kort": "Volt",
+  "kleur": "#502379",
+  "lijsttrekker": "Leonie Kok",
+  "website": "https://voltnederland.org/noord-holland/hilversum",
+  "achtergrond": "Lokale afdeling van Volt. Doet hier voor het eerst mee aan de gemeenteraadsverkiezing en heeft geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "Bouw aan je toekomst - Verkiezingsprogramma Hilversum-Wijdemeren 2026-2030",
+   "url": "https://voltnederland.org/storage/noordholland/gooivecht/volt-hilversum-wijdemeren-v20260829-(1).pdf",
+   "paginas": 43,
+   "woorden": 11898
+  },
+  "kernboodschap": "Volt Hilversum/Wijdemeren is een nieuwe lokale afdeling van een Europese partij die voorbeelden uit andere Europese steden (Parijs, Lissabon, Utrecht, Nijkerk) naar de nieuwe gemeente wil halen. Het programma zet in op veel woningbouw binnen de bestaande bebouwing, voorrang voor fiets, ov en deelmobiliteit, en op meer zeggenschap voor dorpen en wijken via eigen budgetten en een geloot burgerberaad. Kansengelijkheid, preventie in zorg en jeugdhulp, inclusie en natuurbehoud zijn terugkerende lijnen.",
+  "speerpunten": [
+   "6.000 extra woningen in Hilversum en 800 in Wijdemeren vóór 2040, binnen de bestaande stads- en dorpsgrenzen",
+   "Vliegveld Hilversum op termijn opheffen: driekwart van ruim 50 hectare naar natuur, minstens 1.500 woningen aan de rand",
+   "Eerst goede alternatieven (ov, deelauto's, fiets), daarna de ruimte voor de auto stap voor stap beperken; 30 km/u in woonwijken",
+   "Elk dorp en elke wijk een eigen budget en een permanent, geloot burgerberaad waarvan het voorstel de gemeente alleen bij onoverkomelijke bezwaren mag weigeren",
+   "Grootschalig isolatieoffensief, slim energieplan per dorp en wijk, en steun voor onderzoek naar een kleine kernreactor in plaats van windturbines",
+   "Gebundelde gemeentelijke regelingen met een persoonlijk budget, jeugdhulp via één centraal expertisepunt en gratis psychische hulp tot 25 jaar",
+   "Een gezamenlijk plan voor asielopvang naar het voorbeeld van Nijkerk en Utrecht, ook als de spreidingswet wordt ingetrokken",
+   "Europese samenwerking, EU-subsidies en een zero-emissiezone in het centrum van Hilversum"
+  ],
+  "opvallend": [
+   "Steun voor onderzoek naar een kleine modulaire kernreactor (SMR) in de regio, met tegelijk een afwijzing van windturbines vanwege het natuurschoon",
+   "Vliegveld Hilversum op termijn opheffen voor minstens 1.500 woningen en nieuwe natuur, en daarmee ook Ter Sype in Loosdrecht (500 woningen) mogelijk maken",
+   "Bouwhoogte verhogen van twaalf naar vijftien meter en afwijken van de parkeernorm, met parkeervergunningen uitgesloten voor bewoners van die woningen",
+   "Fietsen die structureel harder gaan dan 25 km/u van het fietspad naar de rijbaan verplaatsen",
+   "Permanent burgerberaad van ingelote inwoners waarvan voorstellen alleen bij onoverkomelijke bezwaren (zoals strijd met de wet) kunnen worden geweigerd",
+   "Alle gemeentelijke regelingen bundelen tot één persoonlijk budget zonder bewijsplicht, en gratis psychische hulp voor jongeren tot 25 jaar",
+   "Een eigen budget voor elk dorp en elke wijk, en een eigen mantelzorgtafel per dorp en wijk die over het mantelzorgbudget beslist",
+   "Gemeentelijke diensten overzetten op open source en Europese technologie, en niet communiceren via X",
+   "Een eigen asielopvangplan naar het voorbeeld van Nijkerk en Utrecht, ook als de spreidingswet wordt ingetrokken"
+  ],
+  "dun": [
+   "betaald parkeren (geen standpunt over vergunningen, tarieven of betaald parkeren in woonwijken)",
+   "sociale huur: geen percentage of aantal, alleen een mix zonder getallen",
+   "stationsgebied, Arenapark, Crailo, Hoorneboeg, Anna's Hoeve, Kerkelanden, De Rading, Porseleinhaven, Nederhorst-Noord en Zuidsingel: niet genoemd",
+   "politie, boa's, cameratoezicht, drugs en coffeeshops, vuurwerk en ondermijning: niet genoemd",
+   "arbeidsmigranten en Oekraïners: niet genoemd; concrete azc-locaties of aantallen ook niet",
+   "aardgasvrij, warmtenet en afval: niet genoemd",
+   "dierenwelzijn, koopzondag, zwembaden en dorpshuizen als gebouwen: niet of nauwelijks genoemd",
+   "OZB en reserves: niet genoemd; alleen harmonisatie van belastingen en maximaal inflatiestijging",
+   "referendum en loketten of gemeentehuis in de dorpen: niet genoemd (burgerberaad en dorpsbudgetten wel)"
+  ]
+ },
+ {
+  "slug": "fvd",
+  "nr": 19,
+  "naam": "Forum voor Democratie",
+  "kort": "FVD",
+  "kleur": "#7B1E1E",
+  "lijsttrekker": "Willem Joustra",
+  "website": "https://fvd.nl/gemeentes/hilversum",
+  "achtergrond": "Lokale afdeling van Forum voor Democratie. Doet hier voor het eerst mee aan de gemeenteraadsverkiezing en heeft geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "Verkiezingsprogramma Hilversum (10 hoofdstukken, alleen als webpagina)",
+   "url": "https://fvd.nl/gemeentes/hilversum",
+   "paginas": null,
+   "woorden": 5532
+  },
+  "kernboodschap": "Forum voor Democratie wil meer lokale zeggenschap via bindende referenda en dorpsplatforms, en is tegen de fusie van Hilversum en Wijdemeren. De partij zet in op lagere lasten en een kleinere gemeentelijke organisatie, gratis parkeren in de dorpen, geen nieuwe of bestaande opvanglocaties voor asielzoekers en geen windturbines of grootschalige zonneparken. Daarnaast kiest zij voor strengere handhaving, behoud van erfgoed en lokale tradities, en meer betaalbare koop voor starters.",
+  "speerpunten": [
+   "Bindend lokaal referendum, ook over de fusie, en dorpsplatforms voor zes dorpen",
+   "Geen nieuwe azc's of noodopvang, sluiting van bestaande opvang in Loosdrecht en Gooiland",
+   "Lagere OZB door kleinere ambtelijke organisatie, afschaffing ondernemersfonds",
+   "Gratis parkeren in de dorpen en afschaffen van schiltarieven in Hilversum",
+   "Geen windturbines of grootschalige zonneparken, RES-bijdrage stoppen, ruimte voor een kleine kerncentrale",
+   "Verdubbeling van het aantal boa's en gericht cameratoezicht in de dorpen",
+   "Betaalbare koop voor starters rond 180.000 euro, minder nadruk op sociale huur",
+   "Behoud van De Groest en nachthoreca, erfgoed en lokale tradities"
+  ],
+  "opvallend": [
+   "Het programma wil de banden met COA en Vluchtelingenwerk verbreken en de noodopvang in Loosdrecht en opvang in Gooiland sluiten.",
+   "Het programma wil subsidies voor 'activistische' organisaties en diversiteitsbeleid schrappen, en geen regenboogzebrapaden of politieke vlaggen.",
+   "Het programma wil planologische ruimte reserveren voor een kleine kerncentrale (SMR) en geen warmtenetten of warmtepompsubsidies.",
+   "Het programma wil een wolfvrije zone en afschot van probleemwolven bij de provincie bepleiten.",
+   "Het programma wil het ondernemersfonds afschaffen en het nieuwe zwembad door gebruikers laten bekostigen.",
+   "Het programma wil geen gemeentelijke Sustainable Development Goals en geen digitale ID-plicht; wel een fysieke balie en contant geld.",
+   "Het programma wil sociale huur niet automatisch uitbreiden maar inzetten op betaalbare koop voor starters (circa 180.000 euro).",
+   "Het programma wil een eerlijk woonwagenbeleid met uitbreiding van standplaatsen in Hilversum."
+  ],
+  "dun": [
+   "Geen concrete woningbouwaantallen of bouwlocaties genoemd, behalve Weversplein als voorbeeld van wat niet moet; stationsgebied, Mediapark, Arenapark, Kerkelanden en Anna's Hoeve komen niet voor",
+   "Geen standpunt over Loosdrechtse Plassen, vliegveld Hilversum of fietsbeleid en 30 km/u",
+   "Geen standpunt over koopzondag of coffeeshops",
+   "Geen aantallen of percentages voor sociale huur in nieuwbouw",
+   "Geen OZB-percentage of begrotingsbedrag genoemd bij lastenverlaging",
+   "Geen standpunt over klimaatadaptatie in concrete maatregelen (hittestress, wateroverlast) buiten rioolscheiding"
+  ]
+ },
+ {
+  "slug": "bbb",
+  "nr": 20,
+  "naam": "BBB",
+  "kort": "BBB",
+  "kleur": "#94C11F",
+  "lijsttrekker": "Stijn Visee",
+  "website": "https://bbb-hilversum.nl/",
+  "achtergrond": "Lokale afdeling van BBB. Doet hier voor het eerst mee aan de gemeenteraadsverkiezing en heeft geen raadsleden.",
+  "basis": null,
+  "programma": {
+   "titel": "BBB Verkiezingsprogramma GR26 Hilversum - Wijdemeren (v. 21.09.26)",
+   "url": "https://bbb-hilversum.nl/wp-content/uploads/2026/10/BBB-Verkiezingsprogramma-GR26-Hilversum-Wijdemeren.pdf",
+   "paginas": 28,
+   "woorden": 5966
+  },
+  "kernboodschap": "BBB Hilversum doet voor het eerst mee en zet in op leefbare dorpen en wijken, minder regels en meer vertrouwen in inwoners, ondernemers en boeren. De partij was tegen de fusie en wil dat de dorpen van Wijdemeren eigen identiteit, voorzieningen en zeggenschap behouden. Verder wil ze eerst woningen voor eigen inwoners, geen windturbines, lage lasten en leges, en toegankelijke natuur.",
+  "speerpunten": [
+   "Sterke dorpen: steun voor verenigingen, vrijwilligers en evenementen, lage heffingen en leges voor ondernemers en lokale evenementen",
+   "Wijdemeren niet laten opgaan in Hilversum: servicepunt, dorpsbudgetten, wethouder voor de dorpen en het buitengebied, fusietoets",
+   "Betaalbaar wonen met eerst ruimte voor eigen inwoners, meer woningen voor starters en jonge gezinnen, extra seniorenwoningen",
+   "Betrouwbaar bestuur: echte participatie vooraf, open informatie en verantwoording over wat met input is gedaan",
+   "Landschap beschermen: geen windturbines of zonneparken, bossen en heide toegankelijk houden, ruimte voor boeren",
+   "Geen betaald parkeren in woonwijken en winkelgebieden; eerst de basis op orde voor prestigeprojecten",
+   "Statushouders geen voorrang bij woningtoewijzing en intrekking van de Spreidingswet"
+  ],
+  "opvallend": [
+   "Absoluut verzet tegen windturbines en ook tegen zonneparken, uitdrukkelijk ook in buurgemeenten; zon alleen op geschikte daken",
+   "Tegen het volledig afsluiten van natuurgebieden door natuurbeheerders zoals Natuurmonumenten; natuurherstel mag volgens de partij niet via afsluiting",
+   "Voorrang voor mensen met lokale binding bij sociale huur en verkoop nieuwbouw, en uitdrukkelijk geen voorrang voor statushouders; geen woning voor ongedocumenteerden",
+   "Voor intrekking van de Spreidingswet en opvang in verhouding tot het aantal inwoners van de buurt",
+   "Fusiemaatregelen als verplichte fusietoets, fusie servicenorm en een openbare financiële nulmeting binnen 100 dagen",
+   "Wethouder met specifieke verantwoordelijkheid voor de dorpen en het buitengebied, servicepunt en raadsvergaderingen op locatie in de dorpen",
+   "Kernenergie omarmd als betrouwbare stroombron",
+   "Permanente bewoning van vakantieparken onder voorwaarden mogelijk maken",
+   "Een camperplek in Hilversum",
+   "Betaald parkeren alleen in het centrum waar de parkeerdruk hoog is; fel verzet tegen uitbreiding naar woonwijken en winkelgebieden",
+   "Ambtenaren minimaal drie maatschappelijke stages per jaar"
+  ],
+  "dun": [
+   "Fietsbeleid, 30 km/u en autoluw centrum: geen concrete standpunten",
+   "Laadpalen en parkeertarieven: niet genoemd",
+   "Hoogbouw en locaties als stationsgebied, Arenapark, Crailo, Hoorneboeg en Anna's Hoeve: niet genoemd",
+   "Mediapark en mediastad: niet genoemd",
+   "Aantallen woningen en percentages sociale huur: niet genoemd",
+   "Coffeeshops en drugsbeleid: alleen algemene aanpak van drugsoverlast",
+   "Cultuur, erfgoed en bibliotheek buiten de dorpstradities: nauwelijks concreet; zwembaden niet genoemd",
+   "OZB-tarieven en concrete bezuinigingen of investeringen in euro's: niet genoemd",
+   "Vliegveld Hilversum en Loosdrechtse Plassen: alleen een waterambassadeur en riooloverstorten",
+   "Koopzondag en horeca: nauwelijks (alleen terrassen)",
+   "Armoede, schulden en bijstand: niet genoemd"
+  ]
+ }
+]

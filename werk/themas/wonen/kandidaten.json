@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "wonen-dorpsrand",
+    "onderwerp": "bouwen buiten de bebouwing",
+    "kop": "Dorpen laten groeien",
+    "stelling": "De vaste bouwgrens rond de dorpen mag worden verlegd, zodat er aan de dorpsrand nieuwe straten met woningen kunnen komen.",
+    "uitleg": "Rond de kernen van Hilversum en de dorpen van Wijdemeren liggen grenzen (vaak 'rode contour' genoemd) waarbuiten nauwelijks gebouwd mag worden; de provincie beslist daarover mee. Een 'straatje erbij' aan de rand van bijvoorbeeld Kortenhoef of Nederhorst den Berg kan alleen als die grens opschuift. Binnen de grens bouwen betekent verdichten; erbuiten bouwen kost open landschap.",
+    "voor": "Dorpen kunnen alleen hun eigen jongeren en ouderen houden als er aan de rand ruimte komt, in plaats van alles in de bestaande kern te proppen.",
+    "tegen": "Het open landschap rond de dorpen en het Gooi is uniek en onvervangbaar; wat eenmaal bebouwd is, komt nooit meer terug.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "Beperkte uitbreiding buiten de kom, alleen na zorgvuldige afweging",
+        "basis": "programma p.8"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "Straatje erbij en bouwen in randen van het groen",
+        "basis": "programma p.4"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "Kleinschalig straatje erbij aan de rand van de kern",
+        "basis": "programma p.13"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "Vooral binnen bestaand gebied; groen rond kernen beschermen",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "Waar inpasbaar en toegestaan; niet in beschermde natuur",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "Grenzen van de bestaande bebouwde kom behouden",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "Eerst binnen de kom en in Hilversum zelf",
+        "basis": "programma p.11"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "Buiten de kom mogelijk als het past en natuur spaart",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "Buiten de kom bouwen moet kunnen, geen grootschalige verstedelijking",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "Eerst binnen de bestaande gemeente passend bouwen",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "Alle bouwkansen pakken, zonder groen en natuur te schaden",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "Contourgrenzen opnieuw beoordelen, gecontroleerd uitbreiden aan dorpsranden",
+        "basis": "programma p.49"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "Bouwen buiten de kom als het nodig is, natuur compenseren",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "Mogelijkheden in Wijdemeren onderzoeken, Gooi beschermen",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "Niet in het groen; hooguit aan de rand na andere stappen",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "Alleen kleinschalige, gemeenschappelijke woon-werkplekken",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "Niet bij voorbaat uitsluiten; eigendom en omgeving wegen mee",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "Alleen binnen huidige stads- en dorpsgrenzen bouwen",
+        "basis": "programma p.6"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "Groene ruimte beschermen",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "Straatje erbij waar echt nodig, niet op waardevolle landbouwgrond",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Dorp voor Dorp, BBB en SBP-VIP staan tegenover Lokaal Eén, SP, Volt en FVD; scheidt Dorp voor Dorp van Lokaal Eén en FVD van BBB/BVNL, en Volt van D66/PRO.",
+    "twijfel": "Veel posities komen uit de MijnStem-schuifbalk 'buiten de bebouwde kom', die breder is dan alleen de dorpsrand. PvdD scoorde daar 0 maar noemt in haar woonladder wel 'bijbouwen aan de rand van bestaande kernen' als derde stap; daarom -1."
+  },
+  {
+    "id": "wonen-nederhorst-noord-open",
+    "onderwerp": "bouwen buiten de bebouwing",
+    "kop": "Nederhorst-Noord open houden",
+    "stelling": "Het open gebied Nederhorst-Noord, aan de noordkant van Nederhorst den Berg, moet open polder blijven in plaats van een woonwijk te worden.",
+    "uitleg": "Nederhorst-Noord wordt al jaren genoemd als mogelijke grotere woningbouwlocatie in Wijdemeren. Het gebied ligt buiten de huidige bebouwing; volgens Hart voor Hilversum is het aangewezen als weidevogelleefgebied, zodat bouwen alleen kan met toestemming van de provincie en natuurcompensatie elders.",
+    "voor": "Een nieuwe wijk in het open polderlandschap tast het dorpse karakter en het leefgebied van weidevogels blijvend aan.",
+    "tegen": "Een echte nieuwe wijk levert in één keer honderden woningen op voor de dorpen, waar inbreiden maar kleine aantallen geeft.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "Onderzoeken, mits groen elders goed wordt gecompenseerd",
+        "basis": "hilversumsnieuws"
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": -2,
+        "kern": "Nederhorst Noord versnellen en verkennen voor lange termijn",
+        "basis": "programma p.11"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "Nederhorst-Noord als geschikte locatie aan de dorpsrand",
+        "basis": "programma p.7"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "Binnen de bestaande rode contouren blijven",
+        "basis": "afgeleid"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "Niet in de dorpen bouwen wat in Hilversum niet past",
+        "basis": "afgeleid"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "Meer bouwlocaties buiten de kom, met respect voor landschap",
+        "basis": "afgeleid"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "Eerst binnen bestaande bebouwing kijken",
+        "basis": "afgeleid"
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "Gecontroleerde uitbreiding aan dorpsranden",
+        "basis": "afgeleid"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "Buiten de kom bouwen waar nodig, natuur compenseren",
+        "basis": "afgeleid"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "Mogelijkheden in Wijdemeren verdienen onderzoek",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "Geen woningbouw in het groen",
+        "basis": "afgeleid"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 2,
+        "kern": "Alleen binnen huidige dorpsgrenzen, niet in het groen",
+        "basis": "afgeleid"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "Groene ruimte beschermen",
+        "basis": "afgeleid"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "Nederhorst Noord zo snel mogelijk onderzoeken en voortgang stimuleren",
+        "basis": "programma p.10"
+      }
+    },
+    "spreiding": "Volt, SP, PvdD en Lokaal Eén (eens) tegenover D66, BBB en VVD; trekt VVD, die op de algemene vraag over bouwen buiten de kom terughoudend is, naar de woningbouwkant en scheidt D66 van Volt.",
+    "twijfel": "Alleen D66, BBB, VVD en Hart noemen de locatie zelf; de overige posities zijn afgeleid uit hun algemene houding over bouwen buiten de kom. CDA ('niet in de polder', maar MijnStem 72 op buiten de kom) is bewust op null gezet. De status als weidevogelgebied komt alleen uit de toelichting van Hart voor Hilversum."
+  },
+  {
+    "id": "wonen-groen-in-wijk",
+    "onderwerp": "groen binnen de bebouwing",
+    "kop": "Bouwen op wijkgroen",
+    "stelling": "Kleine grasvelden en groenstroken in wijken en dorpen mogen worden bebouwd als daar woningen nodig zijn.",
+    "uitleg": "Wie niet buiten de kernen wil bouwen, kijkt naar plekken in de wijken: snippergroen, een veldje, de rand van een park zoals het Heksenweitje bij het Media Park. Hilversum heeft in 2024 volgens de SP afgesproken dat in de meest versteende wijken geen groen meer verdwijnt. De keuze is of groen binnen de bebouwing mag wijken voor woningen.",
+    "voor": "Een paar grasvelden bebouwen spaart het grote groen rondom en levert snel woningen op bestaande wegen en leidingen.",
+    "tegen": "Groen in de wijk is juist waar mensen spelen, verkoeling vinden en elkaar ontmoeten; dat moet er eerder bij dan af.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "In principe niet, alleen met goede compensatie",
+        "basis": "hilversumsnieuws"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "Verdichten en hoogbouw, zodat er ruimte voor groen komt",
+        "basis": "hilversumsnieuws"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "Liever niet, maar slim kijken wat kan",
+        "basis": "hilversumsnieuws"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "Soms ten koste van een paar bomen, niet grootschalig",
+        "basis": "hilversumsnieuws"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "De natuur om ons heen niet opgeven",
+        "basis": "hilversumsnieuws"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "Balans tussen groen en bebouwingsdichtheid bewaken",
+        "basis": "afgeleid"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "Deel van het Heksenweitje bebouwen, niet in versteende wijken",
+        "basis": "hilversumsnieuws"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "Juist meer groen in wijken en dorpen",
+        "basis": "hilversumsnieuws"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "Eerst transformatie en snellere procedures, groen behouden",
+        "basis": "hilversumsnieuws"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "Eerst bestaande locaties; waardevol openbaar groen sparen",
+        "basis": "hilversumsnieuws"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "Snippergroen en plekken met veel groen mogen woningen krijgen",
+        "basis": "hilversumsnieuws"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "Niet iedere lege plek in het dorp volbouwen",
+        "basis": "programma p.48"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "Eerst bestaande ruimte benutten, groen vanaf begin meenemen",
+        "basis": "hilversumsnieuws"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "Onbenutte percelen zoals het Heksenweitje deels benutten",
+        "basis": "hilversumsnieuws"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "Niet bouwen in het groen",
+        "basis": "programma p.43"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "Alleen kleine woon-werkinitiatieven die het groen versterken",
+        "basis": "hilversumsnieuws"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "Groen opofferen is niet automatisch de oplossing",
+        "basis": "hilversumsnieuws"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "Geen keuze tussen wonen en groen; bouwen op lege plekken",
+        "basis": "hilversumsnieuws"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "Groen en karakter beschermen",
+        "basis": "hilversumsnieuws"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Gewoon Hilversum, SP en VVD (eens) tegenover CU, PvdD, FVD en Dorp voor Dorp; scheidt SP van PRO/PvdD, VVD van CDA/FVD, en Gewoon Hilversum van Lokaal Eén en Dorp voor Dorp.",
+    "twijfel": "De Hilversums Nieuws-stelling ging over 'groen opofferen' in het algemeen; partijen dachten daarbij deels aan groen buiten de kernen. Blanco's 'eens' ging over kleine initiatieven in de groene ruimte en is daarom +1."
+  },
+  {
+    "id": "wonen-hoogbouw",
+    "onderwerp": "bouwhoogte",
+    "kop": "Vaker hoger bouwen",
+    "stelling": "De gemeente moet vaker toestaan dat nieuwe woongebouwen duidelijk hoger worden dan de huizen eromheen.",
+    "uitleg": "Hilversum is een tuinstad met vooral lage bebouwing; hoger bouwen gebeurt nu vooral rond het station en het centrum. Hoger bouwen levert meer woningen op dezelfde grond op, maar verandert het aanzien van straat, wijk of dorp.",
+    "voor": "Wie de hoogte in gaat, hoeft minder groen en landschap op te offeren voor hetzelfde aantal woningen.",
+    "tegen": "Hoge gebouwen passen niet bij het karakter van de tuinstad en de dorpen, en geven schaduw, drukte en minder privacy.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "Open voor hoogbouw op geschikte plekken, niet overal",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "Hoger bouwen onderzoeken, zeker bij OV-knooppunten",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "Meer hoogbouw bij OV-knooppunten, zoals het Sportpark",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 0,
+        "kern": "Iets hoger bij Sportpark, centrum en stations; geen grootschalige hoogbouw",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "Tuinstad behouden; een laagje erop kan wel",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "Maximaal zes bouwlagen in de stad, drie in buitengebied",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "Slim de hoogte in, bijvoorbeeld boven winkels en bij station",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "Hoger bouwen waar nodig, vooral rond OV-knooppunten",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "Meer bouwhoogte op geschikte locaties nodig",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "Kan helpen, mits passend bij de buurt",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "Op sommige plekken iets hoger, lang niet overal",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "Kan waar wenselijk; inwoners beslissen mee",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "Kijken naar hoogte op geschikte plekken; geen doel op zich",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "Terughoudend, hangt af van plek en dichtheid",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "Kan, met groene gevel en maximaal vier woonlagen",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "Drie tot vier lagen hoog is eigenlijk gewenst",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "Open voor kwalitatieve hoogbouw waar ruimte schaars is",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "Liever de hoogte in dan bouwen in het groen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "Hoogbouw past niet bij het landschap",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "Bouwen waar mogelijk, maar niet de hoogte in",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "D66, SP en BVNL (eens) tegenover BBB, FVD en Lokaal Eén; scheidt BVNL en LFD van BBB en FVD op rechts, en SP van Opstand.nu.",
+    "twijfel": "PvdD scoorde 74 maar bedoelt hoogbouw tot vier woonlagen; dat is hoger dan veel buurten, maar geen hoogbouw in de gangbare zin."
+  },
+  {
+    "id": "wonen-hoogbouw-alleen-station",
+    "onderwerp": "bouwhoogte",
+    "kop": "Hoogbouw alleen bij station",
+    "stelling": "Echt hoge woongebouwen horen alleen bij de stations en in het centrum van Hilversum.",
+    "uitleg": "Hilversum hanteert een 'piramidemodel': hoger in het centrum en rond het station, lager naar de randen, mede om het zogeheten illusielandschap te sparen (vanaf de hei zie je weinig bebouwing boven de bomen). Er wordt gediscussieerd over uitzonderingen elders, zoals tot 25 meter bij het winkelcentrum van de Meent.",
+    "voor": "Door hoogbouw op een paar centrale plekken te houden blijven de groene wijken en dorpen zoals ze zijn.",
+    "tegen": "Ook in wijkcentra zoals de Meent kan iets hogere bouw ouderen en starters laten blijven in hun eigen buurt.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "Hoogte afhankelijk van omliggende gebouwen; in de Meent niet",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "Hoger bouwen per locatie onderzoeken, ook de Meent",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "Hoogbouw bij OV-knooppunten, zoals het Sportpark",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "Hoger in centrum en bij de stations, waar dat past",
+        "basis": "programma p.5"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "Piramidemodel: hoogbouw bij station en centrum, niet in groene wijken",
+        "basis": "programma p.17"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "Hoogbouw in buitengebied alleen uitzondering",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "In de Meent iets de hoogte in, zodat bewoners kunnen blijven",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "Maximaal verdichten rond OV-knooppunten",
+        "basis": "programma p.22"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "Per locatie beoordelen, ook buiten het centrum",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "Hoger bouwen op geschikte locaties, ook buiten centrum",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "Geen hoogbouw in de Meent; bouwen passend bij buurt",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "Uitzondering op hoogte alleen bij tweederdemeerderheid",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "Bij uitzondering tot 25 meter, zoals in de Meent",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "Voor uitzonderlijk tot 25 meter, zoals de Meent",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "Hoogbouw kan, maar bij 25 meter wordt inpassen lastig",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "Geen uitzonderingen op de hoogtegrens",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "Ook in de Meent maatwerk mogelijk",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "Hoogbouw waar voorzieningen en OV zijn",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "Hoogbouw past niet bij het landschap",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "Liefst helemaal niet de hoogte in; draagvlak doorslaggevend",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "CDA en Gewoon Hilversum (eens) tegenover SP en LFD; scheidt Hart voor Hilversum en Gewoon Hilversum van SBP-VIP en Opstand.nu, CDA van CU/D66, en VVD/FVD/BBB van LFD/BVNL/SCB.",
+    "twijfel": "BBB en FVD zijn tegen hoogbouw in het algemeen; ze zijn het eens met het 'niet in wijken en dorpen'-deel, maar mogelijk niet met hoogbouw bij het station. Posities zijn deels afgeleid uit de Stemgids-stelling over 25 meter bij de Meent."
+  },
+  {
+    "id": "wonen-sociale-huur-per-project",
+    "onderwerp": "woningmix nieuwbouw",
+    "kop": "Sociale huur per project",
+    "stelling": "De gemeente spreekt per nieuwbouwproject af hoeveel sociale huur er komt, in plaats van een vast minimum van 40 procent.",
+    "uitleg": "Landelijk is afgesproken dat twee derde van de nieuwbouw betaalbaar moet zijn, waarvan 30 procent sociale huur. Partijen willen lokaal 30, 33 of 40 procent, of juist geen vaste eis per project. Een hogere eis levert meer sociale huur op per project, maar ontwikkelaars zeggen dat projecten dan moeilijker rondkomen.",
+    "voor": "Elk project heeft andere kosten; met maatwerk komen meer projecten rond en worden er per saldo meer woningen gebouwd.",
+    "tegen": "Sociale huurwoningen zijn het grootste tekort; zonder harde ondergrens bouwt de markt vooral wat het meeste oplevert.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "Circa 40% als ambitie waar haalbaar, geen starre norm",
+        "basis": "programma p.8"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "Eis van minimaal 33 tot 40 procent sociale huur",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "Minimaal 33% sociale huur, ruimte voor midden en koop",
+        "basis": "programma p.9"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "Landelijke 30% volgen, niets extra; kleine projecten vrij",
+        "basis": "programma p.6"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "Lager minimum, meer middenhuur, sneller bouwen",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "33% sociaal, 50% midden, 17% duur",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "40% sociaal, 40% middelduur, hoogstens 20% vrije sector",
+        "basis": "programma p.10"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "Voorlopig landelijke 30% sociaal",
+        "basis": "programma p.22"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "Geen starre quota die projecten vertragen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "40% kan passend zijn, niet overal hetzelfde",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "Vaste norm maakt kleinere projecten lastig",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "Mix per dorp en wijk naar lokale behoefte",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "Geen vaste verplichting; evenwichtige mix als maatwerk",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "Tekort is vooral echt betaalbare huur",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "40% van de huurwoningen sociaal",
+        "basis": "programma p.41"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "Liefst zelfs 50 procent sociaal, gespecificeerd naar segment",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "Geen opgelegde percentages",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "Minimaal 40% sociaal bij nieuwe wijken, maatwerk in dorpen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "Minder sociale huur, meer betaalbare koop",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "Vast percentage remt de bouw; maatwerk per project",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "VVD, CDA, BBB, FVD en LFD (eens) tegenover SP, PRO, Opstand.nu en Blanco; scheidt PRO/SP/Volt van D66 in het progressieve blok en Hart voor Hilversum van Dorp voor Dorp bij de lokalen.",
+    "twijfel": "Posities komen grotendeels uit de MijnStem-stelling 'minimaal 40% verplicht', hier gespiegeld. PvdD formuleert 40 procent 'van de huurwoningen', niet van alle nieuwbouw. Lijsten die 30 of 33 procent willen (D66, CU, Lokaal Eén) willen wel een vaste ondergrens, alleen lager; zij staan op +1 en kunnen het 'per project' bezwaarlijk vinden."
+  },
+  {
+    "id": "wonen-lokale-binding-helft",
+    "onderwerp": "voorrang bij toewijzing",
+    "kop": "Helft voor eigen inwoners",
+    "stelling": "De gemeente geeft de helft van alle nieuwe en vrijkomende huurwoningen met voorrang aan mensen die hier al wonen of werken.",
+    "uitleg": "De Huisvestingswet laat gemeenten een deel van de vrijkomende sociale huurwoningen, tot de helft, met voorrang toewijzen aan mensen met een economische of maatschappelijke band met de gemeente. Nu werkt de regio Gooi en Vechtstreek grotendeels met één regionale wachtlijst. Meer lokale voorrang helpt eigen inwoners, maar verkleint de kans voor woningzoekenden van buiten.",
+    "voor": "Jongeren en ouderen die hier zijn opgegroeid of werken, moeten in hun eigen gemeente kunnen blijven wonen.",
+    "tegen": "Wie van buiten komt voor werk, liefde of een nieuwe start, verdient een gelijke kans; voorrang op herkomst maakt wachtlijsten niet korter.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "Lokale binding bij toewijzing laten toetsen",
+        "basis": "programma p.8"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "Minimaal 25% naar Hilversummers; verder wachttijd telt",
+        "basis": "programma p.6"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "Bij nieuwbouw een deel reserveren voor eigen inwoners",
+        "basis": "programma p.10"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "Doorstromers binnen Hilversum voorrang bij nieuwbouw",
+        "basis": "programma p.6"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "Woningen maximaal toewijzen aan inwoners met binding",
+        "basis": "programma p.16"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "Actief woningzoekende eigen inwoners voorrang bij huur en koop",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "Onderzoeken of jongeren voorrang in eigen dorp kunnen krijgen",
+        "basis": "programma p.23"
+      },
+      "bvnl": {
+        "s": 0,
+        "kern": "Voorrang lokaal gebonden, maar iedereen gelijk behandelen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "Binnen de wet voorrang voor sterke lokale binding",
+        "basis": "programma p.6"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "Vaker lokale binding, maar geen absoluut criterium",
+        "basis": "programma p.19"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "Inwoners van dorp of buurt vooraan bij sociale huur",
+        "basis": "programma p.36"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "Voorrang alleen op urgentie, dezelfde regels voor iedereen",
+        "basis": "afgeleid"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "Wisselende inhaalslagen per groep, geen vaste rangorde",
+        "basis": "programma p.5"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "Geen voorrang op basis van groepen; transparante regels",
+        "basis": "programma p.11"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "Voorrang voor kerngebonden Hilversummers en Wijdemeerders",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "Woningen in eerste instantie naar sterke lokale binding",
+        "basis": "programma p.10"
+      }
+    },
+    "spreiding": "CDA, BBB, Dorp voor Dorp en FVD (eens) tegenover LFD, PRO en D66; scheidt LFD van de rest van rechts, en CDA van CU en D66.",
+    "twijfel": "De verhouding is scheef: veel lijsten willen 'iets' lokale voorrang, weinig zijn expliciet tegen; aan de oneens-kant staat net een kwart. De positie van SBP-VIP is afgeleid uit haar regel 'voorrang alleen op urgentie' en kan ook anders bedoeld zijn. Het precieze wettelijke maximum kan veranderen door nieuwe landelijke wetgeving; de eindredactie moet dat controleren."
+  },
+  {
+    "id": "wonen-voorrang-beroepen-weg",
+    "onderwerp": "voorrang bij toewijzing",
+    "kop": "Beroepsvoorrang afschaffen",
+    "stelling": "De voorrang bij huurwoningen voor cruciale beroepen, zoals leraren, zorgmedewerkers en agenten, moet verdwijnen.",
+    "uitleg": "In de sociale huur bestaat nu een voorrangsregeling voor mensen met een cruciaal beroep. Sommige partijen willen die uitbreiden naar koopwoningen of woningen reserveren, andere willen haar juist afschaffen zodat alleen inschrijfduur en urgentie tellen.",
+    "voor": "Elke voorrangsgroep schuift andere woningzoekenden naar achteren; eerlijker is dat iedereen op wachttijd en urgentie wordt beoordeeld.",
+    "tegen": "Zonder leraren, verpleegkundigen en agenten die hier wonen, loopt de gemeente vast; zij kunnen de huizenprijzen vaak niet betalen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "Regelingen voor specifieke beroepsgroepen afschaffen",
+        "basis": "programma p.5"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "Met scholen en corporaties kijken naar voorrang voor leraren",
+        "basis": "programma p.24"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -2,
+        "kern": "Voorrang bij koop en huur voor zorg, onderwijs, politie, brandweer",
+        "basis": "programma p.16"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "Voorrang cruciale beroepen in sociale huur houden, met evaluatie",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "Iedereen gelijk; voorrang alleen in uitzonderlijke situaties",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "Ruimte reserveren voor leerkrachten, zorgmedewerkers en wijkagenten",
+        "basis": "programma p.37"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "Voorrang alleen op aantoonbare urgentie",
+        "basis": "afgeleid"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "Soms een inhaalslag voor cruciale beroepen, soms voor anderen",
+        "basis": "programma p.5"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "Schaarste niet verdelen naar politieke voorkeur voor groepen",
+        "basis": "programma p.11"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "Woningen reserveren voor essentiële beroepsgroepen",
+        "basis": "programma p.8"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "PRO en LFD (eens) tegenover CDA, Dorp voor Dorp en Volt; scheidt PRO van D66 en Volt in het progressieve blok, en LFD van CDA.",
+    "twijfel": "Half de lijsten heeft geen standpunt in het materiaal. SBP-VIP en BVNL zijn afgeleid uit algemene uitspraken over gelijke regels."
+  },
+  {
+    "id": "wonen-bouwtempo",
+    "onderwerp": "hoeveel bouwen",
+    "kop": "Bouwtempo omhoog",
+    "stelling": "De gemeente moet veel sneller woningen bijbouwen dan nu gepland, ook als buurten daardoor sneller veranderen.",
+    "uitleg": "De huidige woonvisies gaan uit van gemiddeld zo'n 300 woningen per jaar in Hilversum en ongeveer 600 in vier jaar in de dorpen (volgens PRO). Partijen willen dat verhogen (PRO, D66, Volt), ongeveer gelijk houden (Gewoon Hilversum: 300 tot 350 per jaar) of juist een grens stellen. Meer bouwen betekent meer bouwplaatsen, verdichting en drukte in bestaande buurten.",
+    "voor": "De wachtlijsten zijn zo lang dat alleen een veel hoger bouwtempo jongeren en gezinnen een kans geeft.",
+    "tegen": "Een buurt kan niet onbeperkt groeien: scholen, wegen, groen en voorzieningen moeten eerst meegroeien.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "Van 300 naar 400 per jaar in Hilversum, 750 in dorpen",
+        "basis": "programma p.4"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "Minimaal 400 woningen per jaar; tempo maken",
+        "basis": "programma p.10"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -1,
+        "kern": "Autonome groei: bouwen voor eigen behoefte",
+        "basis": "programma p.16"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "Laadvermogen van buurt bepaalt; eerst projecten afronden",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "Voldoende woningen per jaar, grote locaties versnellen",
+        "basis": "programma p.22"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "Bouw versnellen, maar geen grootschalige verstedelijking",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "Bouwen naar de behoefte van Hilversum",
+        "basis": "programma p.6"
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "300 tot 350 per jaar; kwaliteit boven aantallen",
+        "basis": "programma p.18"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "Niet alleen hoeveel, vooral voor wie",
+        "basis": "programma p.37"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "Woningen hoogste prioriteit; procedures versnellen",
+        "basis": "programma p.18"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "Bouwen kan niet eindeloos doorgaan",
+        "basis": "programma p.5"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "Woonladder met harde limiet aan het aantal woningen",
+        "basis": "programma p.43"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "Megabouwprojecten zijn helemaal niet nodig",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "Wens dat een buurt niet verandert is geen reden om te stoppen",
+        "basis": "programma p.10"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "6.000 woningen in Hilversum en 800 in Wijdemeren voor 2040",
+        "basis": "programma p.6"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "Tekort komt door instroom, niet door te weinig huizen",
+        "basis": "hilversumsnieuws"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "Meer en sneller bouwen, fabrieksmatig en snellere vergunningen",
+        "basis": "programma p.10"
+      }
+    },
+    "spreiding": "PRO, Volt, D66 en LFD (eens) tegenover PvdD, Gewoon Hilversum, Lokaal Eén en Blanco; scheidt PRO/Volt van PvdD op links, SBP-VIP van Gewoon Hilversum en Lokaal Eén bij de lokalen, en LFD van FVD op rechts.",
+    "twijfel": "Wat 'nu gepland' is, verschilt per bron; de eindredactie moet het actuele getal van de woonvisies controleren. FVD is afgeleid uit haar reactie in Hilversums Nieuws."
+  },
+  {
+    "id": "wonen-eigen-behoefte",
+    "onderwerp": "hoeveel bouwen",
+    "kop": "Bouwen voor eigen inwoners",
+    "stelling": "De gemeente bouwt alleen zoveel woningen als de eigen inwoners en hun kinderen nodig hebben.",
+    "uitleg": "Een deel van de partijen wil 'autonome groei': bouwen voor de kinderen en ouderen van de eigen gemeente. Anderen zien de gemeente als deel van een regio met een groot tekort en willen ook bouwen voor mensen die hier komen werken of studeren, bijvoorbeeld op het Media Park.",
+    "voor": "Zo blijft de groei beheersbaar en worden de woningen gebouwd voor de mensen die hier al hun leven hebben.",
+    "tegen": "Een gemeente die niet groeit vergrijst; nieuwe inwoners brengen werk, voorzieningen en jong talent mee.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "Regionaal minstens 66 procent betaalbaar aanbod; tempo omhoog",
+        "basis": "programma p.4"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "Minimaal 400 per jaar; ook woningzoekenden van buiten",
+        "basis": "programma p.10"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": 2,
+        "kern": "Autonome groei en bouwen voor de eigen behoefte",
+        "basis": "programma p.16"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "Kleinschalig, gericht op de lokale woningbehoefte",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "Bouwen naar de behoefte van eigen inwoners",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "Bouwen naar de behoefte van Hilversum",
+        "basis": "programma p.6"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "Sturen op kwaliteit voor de buurt en lokale doorstroming",
+        "basis": "programma p.18"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "Groei door instroom vraagt uitbreiding, met voorrang voor inwoners",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "Grens aan de groei; verdere oplossingen buiten Hilversum",
+        "basis": "programma p.43"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "Bouwen naar de vraag, ook die van buiten",
+        "basis": "programma p.10"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "Woningen voor studenten en starters om jong talent te binden",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "Bouwen voor eigen inwoners, rekening houden met immigratie",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "Bouwen passend bij behoefte van buurt of dorpskern",
+        "basis": "programma p.10"
+      }
+    },
+    "spreiding": "CDA en FVD (eens) tegenover D66, Volt en LFD; scheidt FVD van LFD op rechts, CDA van D66 in het midden en PvdD van Volt/PRO op links.",
+    "twijfel": "PvdD's grens aan de groei heeft een andere reden (ruimte en natuur) dan die van CDA en FVD; de +1 is afgeleid. LFD's positie volgt uit 'vraag en markt leidend' en uit het woondebat, waar LFD koos voor 'ook mensen van buiten'."
+  },
+  {
+    "id": "wonen-kantoren-naar-wonen",
+    "onderwerp": "bestaande gebouwen",
+    "kop": "Kantoren worden woningen",
+    "stelling": "Leegstaande kantoren en bedrijfspanden mogen woningen worden, ook als er daardoor minder ruimte voor bedrijven overblijft.",
+    "uitleg": "Door thuiswerken staan in Hilversum kantoren leeg; ombouwen tot woningen gaat relatief snel. Tegelijk is er weinig ruimte voor bedrijven en willen sommige partijen dat elke vierkante meter werkruimte die verdwijnt, elders terugkomt. Dat geldt ook voor bedrijventerreinen als de Middenweg en de Industrieweg in Loosdrecht.",
+    "voor": "Een leeg kantoor helpt niemand; als woning lost het meteen een stukje woningnood op zonder nieuwe grond te gebruiken.",
+    "tegen": "Zonder ruimte voor bedrijven verdwijnen banen en wordt de gemeente een slaapstad.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "Woningen alleen waar bedrijfsruimte niet meer nodig is",
+        "basis": "programma p.8"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "Herontwikkeling van kantoren combineren met woningbouw",
+        "basis": "programma p.5"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "Woningen welkom, zolang bedrijfsruimte niet afneemt",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "Op bedrijventerreinen gaat werk voor wonen",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "Er is genoeg kantoorruimte, dus ruimte voor woningen",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "Industrieterreinen behouden; per locatie bekijken",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "Per geval bekijken; werkruimte hoeft niet altijd terug",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "Transformatie bevorderen, geen extra regels",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "Kantoren snel ombouwen, geen starre compensatieregels",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "Geen algemene compensatieplicht; per locatie bekijken",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "Werkruimte behouden, maar niet elk gebouw automatisch",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "Ombouw moet kunnen zonder compensatie elders",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -2,
+        "kern": "Altijd voldoende ruimte voor lokale ondernemers",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "Ombouw alleen als elders werkruimte bijkomt",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "Eerst bestaande bebouwing benutten, zoals kantoren",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "Bedrijfs- en maatschappelijke bestemmingen behouden",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "Minder regels, vrijheid om bestemming te veranderen",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "Ongebruikte kantoren ombouwen, gebruikte niet",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "Geen banen opofferen voor wonen",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "Werkgelegenheid cruciaal; opvangkantoren wel blijvend woning",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "BVNL, CU, Dorp voor Dorp en LFD (eens) tegenover VVD, FVD, SBP-VIP en Blanco; scheidt BVNL/LFD van FVD/VVD op rechts, Dorp voor Dorp van SBP-VIP bij de lokalen, CU/CDA van D66 in het midden en PRO/SP van Opstand.nu op links.",
+    "twijfel": "Omgekeerde invalshoek van de Stemgids-stelling ('alleen als werkruimte bijkomt'); posities zijn daaruit gespiegeld. PRO en Opstand.nu gaven daar geen toelichting."
+  },
+  {
+    "id": "wonen-media-park",
+    "onderwerp": "concrete locaties",
+    "kop": "Woningen op Media Park",
+    "stelling": "Op het Media Park moet de vrije ruimte vooral naar woningen gaan, en minder naar nieuwe mediabedrijven.",
+    "uitleg": "Het Media Park is het centrum van de Nederlandse omroepen en mediabedrijven. Er is ruimte om te ontwikkelen; de gemeente wil er een campus met wonen, werken en leren. De keuze is wat voorgaat als ruimte schaars is: woningen (vooral voor studenten en starters) of ruimte voor mediabedrijven en banen.",
+    "voor": "Het Media Park ligt naast een station en heeft ruimte; daar kunnen snel veel woningen voor jongeren komen.",
+    "tegen": "Het Media Park is de economische motor van Hilversum; woningen kunnen elders, ruimte voor mediabedrijven niet.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "Mediabedrijven ruimte geven; woningen bij blijvende leegstand",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "Woningbouw op het Media Park versnellen",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "Beide: economische motor met extra woningen",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "Kiest voor media; hooguit enkele woningen",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "Economische functie voorop, wel wonen voor studenten en starters",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "Doorontwikkeling media, met studentenhuisvesting",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "Betaalbare woningen en een jongerencampus",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "Ruimte voor mediabedrijven; woningen mits campus versterkt",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "Media Park is economische motor; woningen elders",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "Mediaclustering versterken",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "Woningen prima, niet ten koste van economische functie",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "Media Park is groot genoeg; nieuwe ruimte naar woningen",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "Ruimte en leegstand op Media Park volop benutten voor woningen",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "Wonen voor specifieke groepen, mediasector voorop",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "Mix van bedrijven en starterswoningen, met vergroening",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "Geschikte plek voor studenten- en jongerenwoningen",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "Gemeente kiest niet; eigenaren en ondernemers bepalen",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "Woningen voor studenten en starters, ook innovatie",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "Media Park is geen woonwijk",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "Woningbouw daar niet haalbaar door geluid en bedrijvigheid",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Dorp voor Dorp, PRO en SBP-VIP (eens) tegenover VVD, BVNL en BBB; scheidt Dorp voor Dorp en SBP-VIP van Hart voor Hilversum, Gewoon Hilversum en Lokaal Eén, CDA van CU, en PRO van Volt.",
+    "twijfel": "Omzetting van een schuifbalk (0 = woningen, 100 = media) naar de schaal; waarden rond 40-60 zijn als 0 gelezen."
+  },
+  {
+    "id": "wonen-bruisend-hart",
+    "onderwerp": "concrete locaties",
+    "kop": "Bruisend Hart heroverwegen",
+    "stelling": "Het vastgestelde plan Bruisend Hart voor het Oosterspoorplein moet opnieuw worden bekeken, ook als de bouw daardoor vertraagt.",
+    "uitleg": "Bruisend Hart is het plan om het gebied aan de oostkant van station Hilversum (Oosterspoorplein) te vernieuwen met woningen, winkels en een nieuw plein. De raad heeft het plan vastgesteld; er is kritiek op de kosten, de hoeveelheid sociale huur en de dichte bebouwing langs het spoor. Opnieuw bekijken kan het plan veranderen, maar levert vertraging en mogelijk extra kosten op.",
+    "voor": "Het plan is duur, risicovol en sluit de stad af met een gesloten wand langs het spoor; beter nu bijsturen dan later spijt.",
+    "tegen": "Het plan is democratisch vastgesteld en levert woningen op; opnieuw beginnen kost jaren en veel geld.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "Doorgaan, eventueel temporiseren; zorgen bewoners wegnemen",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "Voor het plan Bruisend Hart",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "Tempo maken; plannen met meer woningen eerst",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "Uitstellen omdat het nu niet te betalen is",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": -2,
+        "kern": "Nu stoppen geeft hoge kosten en meer woningnood",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "Democratisch besluit niet terugdraaien; meer groen",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "Meer sociale huur en meer spreiding over de stad",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "Plan laten doorgaan",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "Doorgaan, kosten en risico's scherp bewaken",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "Vastgesteld plan uitvoeren, kosten bewaken",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "Neutraal, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "Stoppen is niet realistisch; verstandig uitvoeren",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "Eerst kritisch naar kosten en alternatieven kijken",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "Terug naar de tekentafel, open verbinding met de stad",
+        "basis": "programma p.6"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "Bijstellen als kosten te hoog blijken",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "Terug naar de tekentafel, participatie is genegeerd",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "Steunt doorgaan, niet tegen elke prijs",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "Plan laten doorgaan",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "Ander plan kan meer woningen opleveren",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "Kritisch heroverwegen op kosten en haalbaarheid",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Opstand.nu en Blanco (eens) tegenover CDA en PRO; scheidt SP van PRO op links, VVD en FVD van CDA, BVNL en LFD op rechts, en SBP-VIP van Hart voor Hilversum en Lokaal Eén.",
+    "twijfel": "Gespiegeld uit de Stemgids-stelling 'moet doorgaan zoals vastgesteld'. VVD wil uitstellen om geld, niet herontwerpen; daarom +1. CU en Volt gaven geen toelichting."
+  },
+  {
+    "id": "wonen-vliegveld",
+    "onderwerp": "concrete locaties",
+    "kop": "Woningen bij vliegveld",
+    "stelling": "Bij Vliegveld Hilversum moet ruimte komen voor woningen, ook als het vliegveld daarvoor moet krimpen of verdwijnen.",
+    "uitleg": "Vliegveld Hilversum ligt tussen Hilversum en Loosdrecht. Volgens Volt staat het vliegveld ook het Loosdrechtse woonplan Ter Sype (500 woningen) in de weg. De gemeente heeft een langlopende overeenkomst over het vliegveld en kan het niet zelf sluiten.",
+    "voor": "Het vliegveld neemt veel ruimte in voor weinig mensen; woningen en natuur daar helpen veel meer inwoners.",
+    "tegen": "Het vliegveld en de natuur eromheen horen bij de omgeving; als het verdwijnt, hoort er natuur te komen en geen woonwijk.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": 1,
+        "kern": "In gesprek over woningen rond vliegveld, banen aanpassen",
+        "basis": "programma p.11"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -2,
+        "kern": "Vliegveld en natuur eromheen behouden",
+        "basis": "programma p.29"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "Vliegveld sluiten, maar gebied omzetten in natuur",
+        "basis": "programma p.57"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 2,
+        "kern": "Vliegveld opheffen; 1.500 woningen aan de rand, rest natuur",
+        "basis": "programma p.7"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Volt en D66 tegenover SP en PvdD; scheidt lijsten binnen het progressieve blok die elders vaak samen optrekken.",
+    "twijfel": "Slechts vier lijsten hebben een standpunt; als verdiepingsvraag voor wie Volt, D66, SP of PvdD overweegt. Het verband met Ter Sype komt alleen van Volt; BBB, VVD en D66 noemen Ter Sype los daarvan als bouwlocatie."
+  },
+  {
+    "id": "wonen-parkeernorm",
+    "onderwerp": "eisen aan nieuwbouw",
+    "kop": "Minder parkeerplaatsen bij nieuwbouw",
+    "stelling": "Bij nieuwbouw dicht bij een station mag de gemeente veel minder parkeerplaatsen per woning eisen dan nu.",
+    "uitleg": "Bij elk bouwplan geldt een parkeernorm: het aantal parkeerplaatsen dat per woning moet worden aangelegd. Parkeerplaatsen kosten ruimte en geld en maken projecten als het Sportpark (Arenapark) duurder. Minder plaatsen eisen maakt bouwen goedkoper en dichter, maar kan de parkeerdruk in de straat verhogen.",
+    "voor": "Wie bij een station woont heeft minder vaak een auto nodig; dure parkeerplaatsen maken woningen onbetaalbaar.",
+    "tegen": "Minder parkeerplaatsen betekent niet minder auto's; het probleem verschuift naar de straat en de buren.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "Maatwerk in parkeernormen waar wonen en zorg samengaan",
+        "basis": "programma p.7"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "Parkeernorm geen obstakel; transformatie zonder parkeernorm",
+        "basis": "programma p.5"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "Parkeren hoort bij het bouwplan zelf",
+        "basis": "programma p.16"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "Lagere parkeernormen voor locaties als het Sportpark",
+        "basis": "programma p.22"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "Nieuwbouw krijgt altijd voldoende parkeerplaatsen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "Parkeren vanaf het begin meenemen bij nieuwbouw",
+        "basis": "programma p.6"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "Parkeernorm is middel, geen doel",
+        "basis": "programma p.18"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "Geen woningen zonder parkeerplaatsen; norm zo nodig omhoog",
+        "basis": "programma p.54"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "Parkeerbehoefte niet kunstmatig wegrekenen",
+        "basis": "programma p.9"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "Bij hoogbouw horen ook parkeeroplossingen",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "Zo laag mogelijke parkeernorm voor nieuwbouw",
+        "basis": "programma p.56"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "Appartement zonder parkeerplaats moet kunnen als koper kiest",
+        "basis": "programma p.20"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "Afwijken van parkeernorm bij goed OV; geen vergunning bewoners",
+        "basis": "programma p.7"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "CU, Volt en PvdD (eens) tegenover Dorp voor Dorp en BVNL; scheidt VVD en LFD van BVNL op rechts, en CU van CDA in het midden.",
+    "twijfel": "Overlapt met het thema verkeer; de eindredactie kan hem daar onderbrengen. PRO's positie gaat alleen over wonen-met-zorg en is daarom +1."
+  },
+  {
+    "id": "wonen-grondbeleid",
+    "onderwerp": "rol van de gemeente",
+    "kop": "Gemeente koopt grond",
+    "stelling": "De gemeente moet zelf meer grond en gebouwen kopen, zodat zij kan bepalen dat daar betaalbare woningen komen.",
+    "uitleg": "Een gemeente die zelf grond bezit (actief grondbeleid) kan bij verkoop of in erfpacht eisen stellen aan wat er gebouwd wordt en voor wie. Dat kost geld en geeft financieel risico. De andere route is de markt laten bouwen binnen regels die de gemeente stelt.",
+    "voor": "Met eigen grond hoeft de gemeente niet te onderhandelen met ontwikkelaars maar kan zij betaalbare woningen afdwingen.",
+    "tegen": "Grond kopen is duur en riskant voor de gemeentekas; ontwikkelaars en corporaties bouwen sneller als de gemeente hen ruimte geeft.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "Onderzoeken of marktpartijen meer sociale woningen bouwen",
+        "basis": "afgeleid"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "Volkshuisvesting onder versterkte gemeentelijke regie",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "Gemeentelijk woonbedrijf; geschikte panden niet meer afstoten",
+        "basis": "programma p.10"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "Vraag van inwoners en markt leidend",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "Strategische grondpositie alleen waar dat echt meerwaarde heeft",
+        "basis": "programma p.19"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "Woning verkopen, grond in handen van de gemeente houden",
+        "basis": "programma p.36"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "Actief grondbeleid voor betaalbare woningen; anti-speculatiebeding",
+        "basis": "programma p.42"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "Gemeente bouwt niet zelf, maar geeft eigenaren ruimte",
+        "basis": "programma p.10"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "Projecten zonder overheidssteun aan de markt laten",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "PvdD en SP (eens) tegenover LFD, FVD en VVD; scheidt Dorp voor Dorp en Lokaal Eén van Gewoon Hilversum bij de lokalen.",
+    "twijfel": "Elf lijsten hebben hier geen standpunt in het materiaal. VVD is afgeleid uit haar voorkeur voor marktpartijen. FVD wil ook lagere grondprijzen voor collectieve zelfbouw, wat juist gemeentegrond veronderstelt."
+  },
+  {
+    "id": "wonen-starterswoning-boven-lening",
+    "onderwerp": "starters",
+    "kop": "Bouwen in plaats van lenen",
+    "stelling": "Het geld voor startersleningen kan de gemeente beter besteden aan het laten bouwen van goedkope starterswoningen.",
+    "uitleg": "Met een starterslening overbrugt de gemeente het verschil tussen wat een starter bij de bank kan lenen en de prijs van een woning; de lening wordt later terugbetaald. Het CDA diende hierover een motie in. Tegenstanders vrezen hogere schulden en hogere huizenprijzen en zetten het geld liever in voor goedkope (starters)woningen of premiekoopwoningen.",
+    "voor": "Een lening lost het tekort niet op en kan de prijzen opdrijven; een extra betaalbare woning helpt een starter echt.",
+    "tegen": "Een starterslening helpt nu meteen; nieuwe goedkope woningen duren jaren en de lening komt bovendien terug in de gemeentekas.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "Pilot met een starterslening",
+        "basis": "programma p.8"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "Starterslening is effectief, ook voor lagere inkomens",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "Starterslening kan helpen bij hoge prijzen",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "Voor starterslening, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "Starterslening (eigen motie) én premiekoopwoning verkennen",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "Voor starterslening, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "Elke mogelijkheid benutten, ook de starterslening",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "Starters helpen, bijvoorbeeld met starterslening",
+        "basis": "programma p.23"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "Lening voor starters, mits verantwoord en tijdelijk",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": 2,
+        "kern": "Betaalbare starterswoningen in plaats van extra schulden",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "Voor starterslening, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "Liever premiewoningen dan alleen een starterslening",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "Starterslening gericht inzetten als die echt helpt",
+        "basis": "programma p.17"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "Tegen starterslening; tekort zit in betaalbare woningen",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "Betaalbare nieuwbouw voor starters; lening heeft nadelen",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "Starterslening voor lage inkomens via revolverend fonds",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "Gemeente moet niet voor bank spelen; bouwen makkelijker maken",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "Experimenten met starterslening en koopkorting steunen",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "Liever meer betaalbare woningen dan leningen",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "Lening helpt, maar werkt pas met genoeg betaalbare huizen",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "SCB, FVD, PvdD en Opstand.nu (eens) tegenover de brede groep die de starterslening steunt; scheidt FVD/SCB/LFD van BBB, BVNL en VVD op rechts, Opstand.nu en PvdD van SP en PRO op links, en Dorp voor Dorp van de andere lokalen.",
+    "twijfel": "Gespiegeld en herwogen vanuit de Stemgids-stelling over de starterslening: de meeste 'voor'-partijen zijn op -1 gezet omdat ze de lening willen, maar vaak óók betaalbare woningen. Dorp voor Dorp (liever premiewoningen) en PvdD (betaalbare nieuwbouw, twijfel over lening) zijn op +1 gezet. LFD wil geen gemeente die bank speelt, maar ook geen gemeente die zelf bouwt; daarom +1 en niet +2. Of Hilversum nu al een starterslening heeft, staat niet in het materiaal."
+  }
+]

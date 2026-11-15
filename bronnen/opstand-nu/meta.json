@@ -1,0 +1,30 @@
+{
+  "naam": "OpStand.nu",
+  "lijstnummer": 14,
+  "lijsttrekker": "Joop Lahaise",
+  "website": "https://opstand.nu/",
+  "programma_url": "https://opstand.nu/wp-content/uploads/2026/10/verkprogr2026.pdf",
+  "programma_titel": "OpStand.nu verkiezingsprogramma 2026 - Scherp, sociaal voor ons allemaal",
+  "programma_paginas": 12,
+  "type": "lokale partij (vereniging), alleen Hilversum",
+  "achtergrond": "Door raadslid Joop Lahaise opgericht na zijn afsplitsing van de PvdA-fractie Hilversum in het voorjaar van 2025 (volgens opstand.nu verschil van mening over de coalitierol en het samengaan met GroenLinks). Lahaise is sinds 2022 gemeenteraadslid; OpStand.nu heeft 1 zetel in Hilversum, 0 in Wijdemeren (opstand.nu, stemgidshilversum.nl).",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/opstand/",
+    "https://opstand.nu/",
+    "https://opstand.nu/wp-content/uploads/2026/10/verkprogr2026.pdf",
+    "https://opstand.nu/opstandpunten/",
+    "https://opstand.nu/fractie-lahaise-opstand/",
+    "https://opstand.nu/over-opstand-nu"
+  ],
+  "opmerkingen": "Programma is kort (12 pagina's, lay-out met twee kolommen via Pages; pdftotext -layout geeft kolommen naast elkaar, leesvolgorde kan door elkaar lopen). Wijdemeren komt weinig voor: partij doet alleen mee in Hilversum. Blogposts op opstand.nu niet allemaal opgeslagen.",
+  "slug": "opstand-nu",
+  "opgehaald_op": "2026-11-15",
+  "programma_woorden": 4581,
+  "extra_bestanden": [
+    "extra-fractie-lahaise.txt",
+    "extra-opstandpunten.txt",
+    "extra-over-opstand.txt",
+    "extra-stemgids-standpunten.txt",
+    "extra-website-home.txt"
+  ]
+}

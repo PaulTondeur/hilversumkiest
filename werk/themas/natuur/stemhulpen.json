@@ -1,0 +1,739 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Landbouwgrond gebruiken voor woningbouw",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij zijn voor het behoud van agrarische gronden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "67 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Alleen inzetten voor kleinschalige collectieve woon/werk voorzieningen die een toegevoegde waarde hebben voor de natuur, voedselproductie, buurt, culturele klimaat, zorgvraag, educatie en natuurlijke recreatie. Geen hele woonwijken dus, maar kleinschalig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "36 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Boeren moeten kunnen blijven boeren. Alleen wanneer een grondeigenaar vrijwillig wil verkopen en daar een eerlijke prijs voor krijgt, kan woningbouw een optie zijn. Gedwongen uitkoop of onteigening van landbouwgrond past daar niet bij.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Alleen wanneer een boer zelf woningbouw op eigen terrein wil ontwikkelen, bekijken we per situatie of we als gemeente mee kunnen werken aan bestemmingswijzigingen. De gemeente moet agrariërs niet dwingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond is niet de eerste keuze, maar de vraag naar nieuwe woningen is groot. Per locatie moet een zorgvuldige afweging plaatsvinden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn snel meer woningen nodig. D66 kiest voor betaalbare woningen voor jong en oud. We kiezen voor gemengde wijken en dorpen en bouwen bij waar het kan, met speciale aandacht voor doelgroepen die nu extra moeilijk aan een woning komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "27 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De woningnood los je niet op door boeren van hun land te verdrijven. Geen gedwongen onteigening voor woningbouw. Pak ook de oorzaken van de woningnood aan, waaronder het open-grenzenbeleid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "8 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De agrarische sector moet kunnen investeren en innoveren, zonder onnodige hinder, met ruimte voor nevenactiviteiten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "1 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn meer woningen nodig, maar dit leest als 'boeren pesten'. Mocht een bedrijf niet meer economisch rendabel zijn, dan gaan we nadenken over een andere bestemming. Maar dit is een valse tegenstelling die de verhoudingen onnodig verhard.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "53 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond kan op geschikte plekken ruimte bieden voor betaalbare woningen voor onze inwoners. Wij wegen dat zorgvuldig af met grondeigenaren, met oog voor boeren, landschap en voorzieningen. Niet iedere akker is een bouwlocatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil niet dat de gemeente landbouwgrond opoffert voor woningbouw of daarvoor boeren uitkoopt. Kiest een eigenaar zelf voor woningbouw op eigen grond, dan moet dat mogelijk zijn als dit verantwoord kan. Eigendomsrecht en vrijwilligheid staan voorop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén wil de identiteit van de dorpslandschappen en open zichtlijnen behouden. Wel kan woonruimte toegevoegd worden door schuren tot woonruimte om te bouwen en boerderijen te splitsen in meerdere woningen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "70 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Kan een oplossing zijn voor met name de dorpen. Eerst onderzoeken of dat kan qua bodemgesteldheid, natuur en bereikbaarheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "92 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Pro is voorstander van slim combineren van wonen en moderne vormen van duurzame landbouw. Het wijzigen van de bestemming landbouw naar wonen is mogelijk op die locaties die nu al grenzen aan bebouwing en of de bebouwde kom.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond is bedoeld voor plantaardige voedselproductie en natuurontwikkeling. Als landbouwgrond vrijkomt doordat de veehouderij fors krimpt, kan een deel van de grond worden ingezet voor woningbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "26 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond is waardevolle ruimte en moet niet zomaar worden gebruikt voor woningbouw. We willen bouwen naar lokale behoefte en eerst kijken naar locaties die daarvoor beter geschikt zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "64 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij sluiten dit niet uit, maar we kijken eerst naar mogelijkheden binnen de bebouwde kom.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een passende woning voor onze inwoners heeft hoge prioriteit. Als bouwen op landbouwgrond lokaal nodig is, maken we daar verantwoord ruimte voor. Dit moet wel passen bij de omgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "15 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Eerst benutten we de ruimte binnen de bebouwde kom. We onderzoeken sluiting vliegveld voor woningbouw en nieuwe natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "57 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen vooral binnen de kernen bouwen, maar sluiten woningbouw op landbouwgrond niet uit. Op geschikte locaties aan de rand van dorpen, zoals Nederhorst-Noord, moet woningbouw mogelijk zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Meer woningbouw buiten de bebouwde kom toestaan",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB wil eerst lokale kansen benutten, zoals het ombouwen van oude stallen en schuren tot woningen. Waar het echt nodig is, mag bouwen buiten de bebouwde kom. Dit mag echter nooit ten koste gaan van waardevolle landbouwgrond of onvervangbare natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "66 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hier moet je goed over nadenken en  je afvragen of je nog groter wilt worden of dat het zo goed is. Ik zie kansen voor gemeenschappelijke, duurzame en innovatieve woon/werk plekken met kleine footprint, dienstbaar aan de natuur, de gemeenschap en de buurt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Om de woningnood aan te pakken moeten er meer bouwlocaties beschikbaar komen. Woningbouw buiten de bebouwde kom moet mogelijk zijn, met respect voor natuur en landschap, zodat er sneller en betaalbaarder gebouwd kan worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "72 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Op plekken waar woningbouw goed in te passen is en toegestaan is, kunnen hier mogelijkheden voor geboden worden. Maar in beschermde natuurgebieden kan het niet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "73 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie vindt dat woningbouw buiten de bebouwing mogelijk moet zijn, zolang het past in de omgeving en niet ten koste gaat van natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "87 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We bouwen niet op de hei of in de natuur. In de dorpen kan een straatje erbij: kleinschalig, aan de rand van de kern en passend bij het dorpse karakter. Ook verkennen we plekken zoals Nederhorst Noord. Natuur en landschap blijven daarbij beschermd.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Door de groeiende bevolking als gevolg van het opengrenzenbeleid moet Nieuw Hilversum uitbreiden. Door dit buiten de bestaande bouw te doen, geef je de buurten meer ruimte.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "18 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij beschermen de groene ruimte.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "91 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn genoeg plekken waar woningen gebouwd kunnen worden. Gewoon, Hilversum vind dat we alle kansen voor woningbouw moeten pakken. En kijken waar het past om woonruimte te creëren, zonder dat het ten koste van groen en natuur en prettige leefomgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "55 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij onderzoeken beperkte woningbouw buiten de bebouwde kom, waar het echt bijdraagt aan de woningbehoefte. Geen ongerichte uitbreiding: natuur, landschap en bereikbare voorzieningen wegen zwaar. Elke locatie vraagt om een zorgvuldige afweging.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil woningbouw buiten de bebouwde kom niet bij voorbaat uitsluiten. Waar bouwen verantwoord mogelijk is, moet daarvoor ruimte zijn. Meer bouwen is echter geen doel op zich; eigendomsrecht, natuur, landschap en gevolgen voor de omgeving wegen mee.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "16 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén koestert de schoonheid van het open landschap en het illusielandschap. Ontwikkelingen binnen de bestaande ‘rode contouren’.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Mogelijkheden Wijdemeren verdienen onderzoek. In Hilversum dient het GNR te worden beschermd tegen bouwen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "60 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Buiten de bebouwde kom bouwen mag als het gaat om het verdichten in de lintbebouwing of in de randen van het groen. Dit mag niet ten koste gaan van de open ruimte tussen de dorpen of kwetsbare natuur. Natuurcompensatie kan hiervoor ingezet worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hilversum is prachtig gelegen in de natuur. Die natuur moeten we koesteren. Woningen en woonplekken creëren we daarom zo veel mogelijk binnen de bebouwde kom in bestaande gebouwen, zoals leegstaande kantoorpanden, en binnen bestaande wijken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "37 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen bouwen naar lokale behoefte, maar woningbouw moet goed aansluiten op bestaande buurten en voorzieningen. Eerst moet worden gekeken waar binnen de gemeente passend kan worden gebouwd.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "14 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit is niet nodig, er moet eerst gebouwd worden binnen de bebouwde kom, en dan ook echt in Hilversum zelf. De dorpen zijn er niet voor alles wat in het centrum niet meer past. Plekken genoeg, denk aan het Sportpark en een deel van het Heksenweitje.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "99 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een passende woning voor jong en oud heeft hoge prioriteit. Woningbouw krijgt daarom de ruimte waar dat verantwoord kan. Als bouwen buiten de bebouwde kom daarvoor echt nodig is, compenseren we de natuur per saldo.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "18 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Eerst de ruimte binnen de bebouwde kom benutten. We willen woningen en nieuwe natuur op Vliegveld Hilversum. Bij sluiting vliegveld kan woonwijk Ter Sype (500 woningen) wél doorgaan. We bouwen niet in het groen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "27 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen vooral bouwen binnen bestaand stedelijk gebied en op geschikte locaties zoals Crailo of Nederhorst-Noord. Het groen rond Hilversum en de dorpen willen we beschermen. De hei blijft heilig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. In het plassengebied inzetten op:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "BBB wil dat mensen kunnen blijven genieten van het plassengebied. Wij geloven dat recreatie en natuurbehoud prima in harmonie samen kunnen gaan. Onze natuur hoeft niet op slot.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Een goede balans maken tussen beiden en per gebied kijken wat gewenst is. Stimuleren natuurvriendelijke recreatie en inzetten op natuurbeleving voor meer verbinding en begrip. Onderzoeken waar de vragen liggen en waar en welk aanbod op aan kan sluiten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "19 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is er ook om van te genieten. Recreatie ondersteunt toerisme, lokale ondernemers en de leefbaarheid. Natuur blijft belangrijk, maar mag niet leiden tot onnodige beperkingen voor inwoners en bezoekers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "49 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is een uitzonderlijk gebied, omdat beide functies goed naast elkaar kunnen bestaan. Wat ons betreft zit dit elkaar dan ook niet in de weg.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De ChristenUnie wil ruimte voor recreatie, maar ook kwetsbare natuur beschermen. We zoeken daarin balans in overleg met de recreatieve sector.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "66 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is waardevol voor watersporters. D66 investeert in goede voorzieningen en veiligheid, maar recreatie mag niet ten koste gaan van natuur en dieren. We willen een goede balans tussen economische kansen, recreatie en natuurbescherming.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "28 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Geef meer ruimte aan varen, zwemmen, wandelen en recreatie, met respect voor natuur en rust. Zo houden we het plassengebied levendig, toegankelijk en aantrekkelijk voor inwoners en ondernemers. Opbrengsten uit recreatie komen ten goede aan de natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "17 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Water en het Gooise landschap zijn economische kracht voor toerisme. Bijdragen aan regiomarketing beoordelen we op effect: de unieke eigenschappen van Hilversum en Wijdemeren voorop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Gewoon, Hilversum vindt het belangrijk dat de balans tussen natuurbehoud en recreatie goed gewaarborgd blijft. We koesteren onze natuurgebieden, maar inwoners moeten ook kunnen blijven genieten van onze natuurgebieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "51 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De plassen zijn er om van te genieten én om te beschermen. Wij geven recreatie en lokale ondernemers ruimte, met respect voor natuur en de rust van bewoners. Kwetsbare plekken vragen om bescherming; levendigheid moet passen bij het gebied.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De LFD kiest niet tussen recreatie en natuur. De plassen zijn er om zorgvuldig te beheren én te beleven. Varen, zwemmen en andere recreatie moeten mogelijk blijven, met respect voor natuur, eigendomsrechten en bestaande gebruiksrechten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "46 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Voor Lokaal Eén zijn beide van groot belang. Het gaat om een goede balans tussen toegankelijke natuur en stiltegebieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "80 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het een hoeft het ander niet te bijten; maar natuurbehoud gaat bij ons voor uitbreiding van recreatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "71 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Pro is voor een goede balans tussen natuurbehoud, biodiversiteit, waterkwaliteit en een goed verdienmodel voor onze recreatieve sector. We werken samen met ondernemers aan verduurzaming, uitbaggeren van de plassen en het bestrijden van ongewenste exoten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het is belangrijk dat mensen de natuur leren kennen en waarderen, maar dit mag niet ten koste gaan van de natuur. Waar nodig steunt de gemeente het afsluiten van gebieden voor mensen, zodat planten en dieren rust hebben om te herstellen en ontwikkelen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "68 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is waardevol voor de leefbaarheid van Hilversum. Daarom willen we rust, groen en natuur voldoende ruimte geven, met ruimte voor recreatie waar dat goed samengaat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De huidige balans is goed.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "37 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Recreatie en watersport horen bij Wijdemeren en krijgen de ruimte waar dat past. Rond de plassen zoeken wij bewust naar een goede balans tussen natuur, leefbaarheid en recreatief gebruik. Natuur en economie zijn geen tegenstanders.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "74 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "We werken samen met ondernemers aan duurzame vormen van recreatie. Kleinschalig, elektrisch, stiller. Zodat genieten van de natuur en het herstel ervan hand in hand gaan. De strandjes aan de plassen worden goed bereikbaar met openbaar vervoer en de fiets.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "43 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "We willen dat mensen van het plassengebied kunnen genieten. Natuur moet je kunnen beleven, niet alleen van een afstand bekijken. Recreatie is geen restpost maar een speerpunt, met respect voor kwetsbare natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. In het buitengebied meer ruimte geven aan:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "50 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Voor ons is landbouw ook natuur; we moeten zowel de agrarische sector als de natuur beschermen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "2 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "We moeten veel inzetten op regeneratieve landbouw die een meerwaarde is voor de biodiversiteit. Voedselcollectieven, voedselbossen, educatieve schooltuinen, pluktuinen, collectieve moestuinen, compostplekken, om voedsel lokaal te produceren en te verkopen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Boeren beheren een groot deel van het buitengebied en zorgen voor voedselproductie, werkgelegenheid en landschapsonderhoud. Natuur is belangrijk, maar mag niet betekenen dat steeds meer landbouwgrond verdwijnt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "51 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Landbouw en natuur kunnen hand in hand gaan, zeker in het geval van kleinschalige of biologische landbouw. Veel landbouwregels, natuurdoelen worden bepaald door het Rijk. Besluiten over landbouwgrond, water en natuur nemen wij niet zonder de boeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "55 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "De ChristenUnie kiest in het buitengebied voor een goede balans tussen natuur, recreatie en duurzame landbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "100 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "De combinatie van heide, bossen, plassen, veengebieden en weilanden maakt onze gemeente uniek. D66 kiest ervoor onze natuur te beschermen en versterken. Zo zorgen we ervoor dat ook toekomstige generaties kunnen genieten van onze waardevolle natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "49 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Nederland heeft boeren nodig. Het stikstofbeleid moet in zijn geheel herzien worden. Geef boeren ruimte om voedsel te produceren, terwijl we natuur, landschap en het landelijke karakter van onze dorpen beschermen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "11 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Zonder boeren geen eten. Boeren onderhouden het landschap al sinds middeleeuwen. Agrariërs krijgen de vrijheid om te ondernemen. Nevenactiviteiten in recreatie, toerisme, natuurbeheer of andere bedrijvigheid krijgen ruimte.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "24 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Landbouw is ook  gewoon natuur!\nOnze boeren zijn onderdeel van ons cultuurhistorisch landschap en leveren een essentiële bijdrage: ze verzorgen ons voedsel en zorgen daarbij meteen ook mede voor het landschap.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "49 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Wij kiezen voor een balans tussen natuur en landbouw. We beschermen biodiversiteit en landschap én geven lokale boeren ruimte voor toekomstbestendige landbouw. Duurzamer boeren en korte voedselketens kunnen beide versterken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "De LFD zet landbouw en natuur niet tegenover elkaar. Waardevolle natuur verdient bescherming, maar natuurbeleid respecteert ook eigendomsrechten en bestaand gebruik. Samenwerking met agrariërs en grondeigenaren gaat voor eenzijdige beperkingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "51 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Voor Lokaal Eén zijn landbouw en natuur onlosmakelijk met elkaar verbonden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "79 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Enige slag om de arm voor wat betreft biologische en ecologisch verantwoorde landbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "74 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "In onze gemeente is er geen plaats voor intensieve landbouw en veehouderij. We stimuleren duurzame landbouw die past bij het laagveen, met als mooi voorbeeld de verbouw van lisdodden in Kortenhoef. Landbouw mag nooit ten koste gaan van natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "95 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "De PvdD streeft naar een wereld waarin dieren, natuur en mensen beter in balans staan. Daarvoor moet een deel van de huidige landbouwgrond worden omgevormd tot natuur. Op de resterende landbouwgrond wordt ingezet op plantaardige landbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "71 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Wij vinden een groene en leefbare gemeente belangrijk. In het buitengebied willen we daarom ruimte houden voor groen, natuur en een aantrekkelijke leefomgeving, naast ruimte voor landbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "50 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "De huidige balans is goed.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "50 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Wij zoeken de balans. Natuur en economie hoeven voor ons geen tegenstanders te zijn. We beschermen onze waardevolle natuur nadrukkelijk, maar ondernemers in het buitengebied krijgen de ruimte als dit verantwoord past.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "65 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "Landbouw mag geen stikstof, fijnstof en bestrijdingsmiddelen naar onze natuur brengen. Land dat in de bufferzone van de natuur ligt, moet de natuur ondersteunen. Met het Gebiedsakkoord Oostelijke Vechtplassen realiseren we 600 hectare aan nieuwe natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "50 (schuifbalk 0=landbouw, 100=natuur)",
+    "toelichting": "We willen natuur beschermen, maar het buitengebied is er ook om te werken en te recreëren. Boeren moeten daar ruimte houden. Daarbij is een weiland óók natuur!",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "In buurten met weinig groen mag er geen openbaar groen meer verdwijnen.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Eens onder voorbehoud. Deze motie zou leiden tot nog meer regeldruk, waardoor woningbouw nog minder mogelijk zou zijn. HvH kiest eerder voor maatwerk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO wil groene buurten. Als je uit je raam kijkt, willen wij dat je minstens drie volwassen bomen ziet, de buitenlucht voor minstens 30 procent bedekt is met een bladerdak en dat binnen 300 meter van je huis een park of plantsoen is. Het programma Groen Hilversum 2040 wordt uitgebreid met Wijdemeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Een groene buurt is gezonder en beter bestand tegen hitte, droogte en wateroverlast. D66 kiest voor meer groen en minder steen en benut elke herinrichting voor vergroening, met schaduw op straat en een groene plek binnen 300 meter.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Het kan soms nodig zijn om openbaar groen op te offeren om woningbouw mogelijk te maken. Wel streven we dan naar vervangend groen om te voorkomen dat het karakter van onze tuinstad verdwijnt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "Vergroening wordt een vast onderdeel van alle plannen voor de openbare ruimte. Hiermee worden meer schaduwrijke plekken gecreëerd tegen hittestress en groenstroken en wadi’s (=een verlaagd en begroeid stuk grond dat regenwater opvangt en langzaam in de bodem laat zakken) vangen overtollig regenwater op.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Het verschil in percentages groen is erg groot in Hilversum tussen verschillende wijken. In de meest versteende buurten mag er dan ook geen groen meer verdwijnen. Onze motie A24-66 die dit regelt is aangenomen door de raad.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "In versteende buurten is openbaar groen belangrijk voor verkoeling, gezondheid en leefbaarheid. Behoud bestaand groen, tenzij een aantoonbaar betere inrichting ontstaat en verloren groen volledig in de buurt wordt gecompenseerd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Groen draagt bij aan gezondheid, leefbaarheid en een prettige woonomgeving. We willen waardevol openbaar groen beschermen en niet zomaar opofferen voor woningbouw. Meer woningen moeten waar mogelijk worden gerealiseerd door bestaande locaties slimmer te benutten en passend te verdichten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Voldoende groen is essentieel voor een prettige en gezonde leefomgeving. Bij ontwikkelingen moet de gemeente zorgen dat wijken en dorpen groen, leefbaar en aantrekkelijk blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Ons groen is goud waard! In versteende buurten beschermen en koesteren we elke boom en elk parkje. Waar toch gebouwd moet worden, compenseren we het groen (indien mogelijk), zodat onze leefomgeving koel, gezond en prachtig blijft.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "PvdD vindt dat we in buurten met weinig groen het groen moeten uitbreiden. Het groen in en om Hilversum-Wijdemeren houdt onze omgeving leefbaar, zowel voor dieren, insecten, planten als mensen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Juist waar weinig groen is moet actief groen beleid ingezet worden en oplossingen bedacht om meer groen toe te voegen. Immers kunnen we leven zonder steen maar niet zonder groen. Laten we zuinig zijn op groen en dit koesteren om zo ons welzijn en de leefbaarheid te vergroten voor nu en de toekomst.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Groen draagt bij aan een prettige leefomgeving, maar een absoluut verbod is niet verstandig. Soms zijn aanpassingen nodig voor woningen, bereikbaarheid of veiligheid. LFD beoordeelt plannen op hun merites, met oog voor de buurt en zonder onnodige regels.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Nieuwbouw vervangt in principe bestaande gebouwen: we gaan het groen in de gemeente niet vervangen door gebouwen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Wij beschermen groen en karakteristieke panden en beoordelen sloop voor massale appartementen kritisch. Wij willen bestaande bomen, groenvoorzieningen en karakteristieke panden beschermen. Nieuwe woningbouw moet zorgvuldig worden ingepast.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Openbaar groen is essentieel voor de leefbaarheid, gezondheid en het dorpse karakter van onze buurten. BBB wil niet dat buurten worden volgebouwd ten koste van het schaarse groen. Wat groen is, moet groen blijven voor huidige en toekomstige generaties.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "In de natuurgebieden rond de stad moet vrij wandelen en recreëren net zo zwaar wegen als het beschermen van de natuur.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Balans is altijd goed, maatwerk daar waar nodig!",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "Juist daar waar er spanning is tussen recreatie en natuur moeten we voor het laatste kiezen. De natuur heeft geen stem, die moeten wij haar geven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Onze kwetsbare natuur verdient bescherming, maar inwoners moeten er ook van kunnen genieten. D66 wil natuur versterken en wandelen, fietsen en ontspannen mogelijk houden, met een goede balans tussen recreatie en natuurbescherming.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„Natuur moet je kunnen beleven, niet alleen van een afstand bekijken”",
+    "herkomst": "Verkiezingsprogramma, p. 25"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "De natuur moet toegankelijk blijven voor recreatie, maar in overleg met het GNR heeft de natuur soms hersteltijd nodig in bepaalde gebieden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Het is belangrijk dat er een afgewogen balans is tussen natuurbehoud en toegankelijkheid. In goed overleg moet bezien worden of afsluiting (tijdelijk) noodzakelijk is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De natuur is er voor iedereen. De toegang tot het water en de natuur blijft gratis. Geen entreegeld, en geen betaald parkeren bij de natuurgebieden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "We zijn voor een goede balans tussen natuurbeheer en recreatie. Dat betekent dat op bepaalde plekken recreatie en natuur goed samengaan. Kwetsbare natuur moet goed worden beschermd; daar weegt natuur zwaarder dan plezier.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Natuurgebieden zijn er voor natuur én inwoners. Bescherm kwetsbare natuur, maar voorkom onnodige afsluitingen. Wandelen, paardrijden, honden uitlaten en recreëren moeten zoveel mogelijk toegankelijk blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "neutraal",
+    "toelichting": "Natuurgebieden moeten toegankelijk zijn voor inwoners om te wandelen en te recreëren, maar ook voor toekomstige generaties behouden blijven. We zoeken een evenwicht tussen recreatie, toegankelijkheid en de bescherming van kwetsbare natuur.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "De belangen van inwoners en de leefbaarheid van onze dorpen en wijken moeten zwaar wegen. Besluiten mogen niet uitsluitend worden genomen op basis van financiële of bestuurlijke overwegingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Natuur is er om van te genieten! We zoeken altijd naar een perfecte balans. Wandelaars, sporters en hondenbezitters moeten volop de ruimte krijgen in onze mooie natuurgebieden, terwijl we samen zorgdragen dat flora en fauna beschermd blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "tegen",
+    "toelichting": "Het is belangrijk dat mensen de natuur leren kennen en waarderen, maar dit mag nooit ten koste gaan van de natuur. Waar nodig steunt de gemeente het afsluiten van gebieden voor mensen, zodat planten en dieren rust hebben om te herstellen en ontwikkelen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Als we niet samen leven met de natuur zal er nooit respect ontstaan. Door natuurbeleving ontstaat er begrip en kunnen we zijn kwaliteit op waarde schatten. Meer speelplekken en picknicktafels zouden ook fijn zijn. De natuur is geen museum waar je in mag lopen maar verder niks; wij zijn ook natuur.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Natuur is er niet alleen om naar te kijken, maar ook om van te genieten. LFD wil natuur beschermen zonder gebieden onnodig af te sluiten. Wandelen en recreëren moeten mogelijk blijven. Beperkingen zijn alleen gerechtvaardigd als ze aantoonbaar noodzakelijk zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "De natuurgebieden in onze gemeente moeten worden beschermd. Er moeten voldoende mogelijkheden zijn om vrij te wandelen en te recreëren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "De natuur geeft ontspanning en rust. Als je dat in de stad zegt nodig te hebben, heb je het ook aan de rand van de bebouwing nodig.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Onze prachtige natuur is er om van te genieten. BBB vindt dat recreatie zowel op het land als op het water gelijkwaardig moet wegen aan natuurbeheer. We verzetten ons tegen het zomaar afsluiten van paden; natuurherstel werkt niet door gebieden af te sluiten; natuur is er om van te genieten.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "hilversumsnieuws",
+  "stelling": "Hilversum moet desnoods groen opofferen om woningnood aan te pakken",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "In principe wordt groen niet opgeofferd voor woningbouw. Tenzij de mogelijkheden er zijn om een goede compensatie te realiseren. Daarom vinden wij dat de mogelijkheden onderzocht moeten worden voor woningbouw in Nederhorst Noord. Aangewezen als weidevogel-leefgebied, maar functioneert niet als zodanig omdat het gebied er niet geschikt voor is. Als woningbouw hier kan, kunnen we ergens anders een gebied inrichten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "pro": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De woningnood is enorm. Daar kunnen we de ogen niet voor sluiten. We zetten in op verdichting en hoogbouw waar dat kan, met parkeren zoveel mogelijk onder de grond. Hierdoor ontstaat er meer ruimte voor groen waar het eerder versteend was. We gaan door met projecten zoals het Media Park en Arenapark. We kijken naar andere mogelijkheden om te…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "d66": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Liever niet, we willen zeker niet bouwen op de hei of in de natuur. De woningnood is echter enorm, dus we kijken slim wat wel kan. Dit kunnen ook tijdelijke woningen zijn. We zien vooral kansen waar al bebouwing is en we willen versteende wijken juist groener maken. Dat kan bijvoorbeeld door in bestaande straten een verdieping hoger te…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "vvd": {
+    "antwoord": "Eens, maar niet op grote schaal",
+    "toelichting": "Eens, maar niet op grote schaal. We ‘vechten’ allemaal om dezelfde schaarse ruimte. Voor de energietransitie, voor mobiliteit en zeker voor wonen. Wat de VVD betreft mag dat, als het echt niet anders kan, soms best ten koste gaan van een paar bomen, maar we willen ook niet gaan bouwen op de hei. Het blijft altijd een lastige keuze, maar…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "cda": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De natuur om ons heen maakt Hilversum een unieke plek om te wonen, dat moeten we niet opgeven. De komende jaren worden er 3.000 woningen gebouwd en daarbij is het belangrijk om voorrang te geven aan onze inwoners. Aan de mensen die nu al in de wijken en dorpen wonen. Een vitale gemeenschap is het doel, bouwen is een…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "lokaal-een": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Lokaal Eén wil de identiteit van de dorpslandschappen en open zichtlijnen behouden. Wel kan woonruimte toegevoegd worden door schuren tot woonruimte om te bouwen en boerderijen te splitsen in meerdere woningen. Eigen bouwontwikkelingen op erven worden per locatie bezien, we zijn hierbij ook afhankelijk van de medewerking van de Provincie. In buurten en wijken dient juist vergroend te worden, niet…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "sp": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Dankzij een voorstel van de SP in 2024 mag er in de meest versteende wijken in Hilversum geen groen meer verdwijnen. Hoewel Hilversum een tuinstad is zijn de verschillen tussen de diverse wijken enorm. De woningnood is inmiddels zo hoog dat de SP voorstelt om op een deel van het Heksenweitje, aan de rand van het Media Park, betaalbare…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "christenunie": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De woningnood is groot. Daarom wil de ChristenUnie snel meer betaalbare woningen. Dat mag alleen niet ten koste gaan van onze waardevolle natuur en groene leefomgeving. We willen juist meer groen in onze wijken en dorpen! We kiezen daarom voor slimme oplossingen: hoger bouwen waar het kan, bijvoorbeeld bij OV-knooppunten, leegstaande gebouwen benutten en bestaande woningen uitbreiden. Buiten de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "bvnl": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Hilversum heeft woningen nodig, maar groen opofferen is niet de eerste oplossing. Snellere procedures, minder regels, transformatie van leegstaand vastgoed en ruimte voor particuliere initiatieven bieden kansen. Bouwen én groen behouden kan samengaan wanneer de gemeente slimme keuzes maakt.",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "scb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Woningbouw staat bij ons hoog in het vaandel. We willen bouwen naar de lokale behoefte. Hierbij vinden wij dat we eerst slim moeten kijken naar de mogelijkheden binnen de bestaande bebouwde kom. Denk aan passende hoogbouw, het beter benutten van bestaande locaties en renovatie waar dat kansen biedt. Zo kunnen we meer woningen realiseren, met oog voor de leefbaarheid van…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "Eens",
+    "toelichting": "Eens Gewoon, Hilversum vindt dat er soms echt plekken zijn waar, met name snippergroen of waar al best veel groen is, ook ruimte moet kunnen zijn voor het toevoegen van woningen.",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Dorp voor Dorp vindt dat het woningbouwbeleid te veel gericht is op bouwen binnen bestaande dorpen en steden. De partij wil de zogenoemde rode lijn loslaten en ook verantwoorde uitbreiding aan de randen mogelijk maken, zodat er ruimte komt voor woningen, groen en leefbaarheid. Volgens DvD leidt uitsluitend binnenstedelijk bouwen tot meer hoogbouw, hogere grondprijzen en parkeerproblemen. De partij wil…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens . Natuur en wonen zijn geen tegenstanders. Wij benutten eerst de bestaande ruimte beter. Transformatie van leegstaande kantoren, wonen boven winkels en woningsplitsing maken we veel eenvoudiger. Bij nieuwbouw nemen we groen direct vanaf het begin mee en kijken we niet pas achteraf wat er nog overblijft. Is een ingreep in de natuur toch onvermijdelijk? Dan eisen we tijdige…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "opstand-nu": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Te simpel gedacht. Hoe meer inwoners, hoe meer voorzieningen én groen we nodig hebben. Als we dan toch wat groen opofferen, kijk dan naar onbenutte percelen, soms nog van de gemeente zelf zoals het Heksenweitje op Trompenberg. Dat hoef je niet vol te bouwen, maar daar is nog wel ruimte in het groen. Of kijk in Wijdemeren naar landbouwgrond. Er…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "pvdd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De Partij voor de Dieren wil niet bouwen in het groen. Hilversum en Wijdemeren zijn prachtig gelegen in de natuur. Die natuur moeten we koesteren, voor de dieren die daar wonen, en voor onszelf. De PvdD wil extra woonruimte zo veel mogelijk binnen de bebouwde kom creëren, bijvoorbeeld door leegstaande bedrijfspanden om te zetten in woonplekken en door splitsing van…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Alleen onder bepaalde voorwaarden. Die groene ruimte gebruiken voor kleine woon- en werkinitiatieven die samenleven met de natuur, hier goed voor zorgen en de biodiversiteit vergroten. Geen grote woonwijken maar kleine initiatieven waarbij groen overheerst en het wonen een kleine footprint heeft. Alleen voor tijdelijke flexibele woonplekken op wielen of makkelijk verplaatsbaar zijn, zodat het bodemleven zo min mogelijk…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "lfd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De woningnood is groot, maar groen opofferen is niet automatisch de oplossing. LFD wil de woningmarkt in beweging brengen door onnodige regels te schrappen, procedures te versnellen en bestaande gebouwen beter te benutten. Denk aan woningsplitsing, optoppen, woningdelen en het ombouwen van leegstaande kantoren. Waar ruimte schaars is, kan kwalitatieve hoogbouw uitkomst bieden. Groen verdient goed beheer en bescherming waar…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "volt": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Volt zegt nee tegen de keuze tussen wonen en groen. Bouwen kan binnen de wijken die er al zijn: op lege plekken, bovenop bestaande gebouwen en in leegstaande kantoren. Voor nieuwe woningen kijken we naar Vliegveld Hilversum. Op de vrijkomende grond van ruim 50 hectare komt driekwart nieuwe natuur, en aan de rand minstens 1.500 woningen midden in de natuur.…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "fvd": {
+    "antwoord": "Nee",
+    "toelichting": "Nee. Er zijn nog nooit zoveel huizen in Hilversum geweest als er nu zijn. Het tekort komt door de instroom van immigranten, de inheemse bevolking neemt al sinds 2000 af. Die immigranten doen nagenoeg allemaal een beroep op gesubsidieerde huur. Daardoor worden de wachtlijsten voor starters veel langer. Waardoor starters op de markt voor goedkope koop terechtkomen. Waar het aanbod…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "bbb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Om de lokale woningnood aan te pakken moeten we kijken waar maatwerk mogelijk is, zoals een ‘straatje erbij’ of de ontwikkeling van locatie Nederhorst Noord. De provincie biedt hiervoor de ruimte en opties, maar de gemeente heeft hier niets mee gedaan. BBB wil deze kansen wél benutten en wil doorpakken. Uiteraard met een zorgvuldige afweging waarbij het karakter en de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   }
+  }
+ }
+]

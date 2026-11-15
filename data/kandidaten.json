@@ -1,0 +1,3165 @@
+{
+ "hart-voor-hilversum": [
+  {
+   "nr": 1,
+   "naam": "Ron Lancé",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/1.jpg",
+   "bio": "Ron Lancé is fractievoorzitter en duo-lijsttrekker van Hart voor Hilversum en werkt bij Albert Heijn. Hij richt zich op verkeersveiligheid en veiligheid in de buurt.",
+   "bron": "https://www.hartvoorhilversum.nl/w/ron-lanc%C3%A9",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Jan Jaap de Kloet",
+   "woonplaats": "Kortenhoef",
+   "foto": "hart-voor-hilversum/2.jpg",
+   "bio": "Jan Jaap de Kloet is duo-lijsttrekker van Hart voor Hilversum. Hij werkte in de journalistiek, was wethouder in Wijdemeren en later in Zandvoort, en zet zich in voor het eigen karakter van de dorpen.",
+   "bron": "https://www.hartvoorhilversum.nl/w/jan-jaap",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Malika Boumadkar-Boukhriss",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/3.jpg",
+   "bio": "Malika Boumadkar-Boukhriss is vice-fractievoorzitter van Hart voor Hilversum en sinds 2014 raadslid. Zij richt zich op zorg, welzijn en armoedebestrijding en is voorzitter van Buurtplatform Van Riebeeckkwartier Zuidoost.",
+   "bron": "https://www.hartvoorhilversum.nl/w/malika-boumadkar-boukhriss",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Mark van den Hoek",
+   "woonplaats": "Loosdrecht",
+   "foto": "hart-voor-hilversum/4.jpg",
+   "bio": "Mark van den Hoek woont in Loosdrecht en werkt als dataspecialist en adviseur schadepreventie. Zijn prioriteiten zijn gezond financieel beleid en betrokkenheid van inwoners.",
+   "bron": "https://www.hartvoorhilversum.nl/w/mark-van-den-hoek",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Joery van den Bos",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/5.jpg",
+   "bio": "Joery van den Bos is commissielid voor Hart voor Hilversum. Hij is jeugdcoördinator bij het voetbal, studeert geschiedenis en richt zich op sport en onderwijs.",
+   "bron": "https://www.hartvoorhilversum.nl/w/joery-van-den-bos",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Willem van Rijn",
+   "woonplaats": "Kortenhoef",
+   "foto": "hart-voor-hilversum/6.jpg",
+   "bio": "Willem van Rijn werkt in de verkoop van aroma's bij een internationale onderneming in Hilversum. Hij is bestuurslid van de Avondvierdaagse in Kortenhoef en richt zich op een veilige, leefbare gemeente.",
+   "bron": "https://www.hartvoorhilversum.nl/w/willem-van-rijn",
+   "linkedin": "https://www.linkedin.com/in/willem-van-rijn-83068864/"
+  },
+  {
+   "nr": 7,
+   "naam": "Stan Haver",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/7.jpg",
+   "bio": "Stan Haver is commissielid voor Hart voor Hilversum sinds mei 2026. Hij is WIA-adviseur, vrijwilliger bij het Rode Kruis en richt zich op veiligheid en natuur.",
+   "bron": "https://www.hartvoorhilversum.nl/w/stan-haver",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Ria de Jong-Schrijvers",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/8.jpg",
+   "bio": "Ria de Jong-Schrijvers is bijna tien jaar raadslid voor Hart voor Hilversum en is er sinds de oprichting actief. Zij is opgeleid als cultureel werkster en zet zich in voor mantelzorgers.",
+   "bron": "https://www.hartvoorhilversum.nl/w/ria-de-jong",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Nicolas Chevreux",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/9.jpg",
+   "bio": "Nicolas Chevreux is sinds november 2025 commissielid voor Hart voor Hilversum. Hij werkt als partnerspecialist bij bol, werkte eerder in de hotellerie en richt zich op veiligheid en woonzekerheid.",
+   "bron": "https://www.hartvoorhilversum.nl/w/nicolas-chevreux-henry",
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Michiel Eerenberg",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/10.jpg",
+   "bio": "Michiel Eerenberg is al acht jaar raadslid voor Hart voor Hilversum en werkt als schilder. Hij richt zich op wonen en financiën.",
+   "bron": "https://www.hartvoorhilversum.nl/w/michiel-eerenberg",
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Chris Groeneveld",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/11.jpg",
+   "bio": "Chris Groeneveld is raadslid en algemeen bestuurslid van Hart voor Hilversum en werkt als zelfstandig stukadoor. Hij is bijna vijf jaar raadslid en staat als lijstduwer op de lijst.",
+   "bron": "https://www.hartvoorhilversum.nl/w/chris-groeneveld",
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "Harm Steenkamp",
+   "woonplaats": "Loosdrecht",
+   "foto": "hart-voor-hilversum/12.jpg",
+   "bio": "Harm Steenkamp woont in Nieuw-Loosdrecht en was anderhalf jaar gemeenteraadslid. Hij staat als lijstduwer op de lijst en richt zich op inspraak en levendige dorpen.",
+   "bron": "https://www.hartvoorhilversum.nl/w/harm-steenkamp",
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Noël Sazias",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/13.jpg",
+   "bio": "Noël Sazias is vastgoedprofessional bij een Nederlandse vastgoedinvesteerder en fondsbeheerder. Hij staat als lijstduwer op de lijst en richt zich op een veilige, duurzame woonomgeving en een sterke lokale economie.",
+   "bron": "https://www.hartvoorhilversum.nl/w/no%C3%ABl-sazias",
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Wim van Oudheusden",
+   "woonplaats": "Loosdrecht",
+   "foto": "hart-voor-hilversum/14.jpg",
+   "bio": "Wim van Oudheusden is gepensioneerd IT'er en lijstduwer. Hij was raadslid in Loosdrecht en lid van Provinciale Staten en richt zich op wonen en monumenten.",
+   "bron": "https://www.hartvoorhilversum.nl/w/wim-van-oudheusden",
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Joris Enkelaar",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/15.jpg",
+   "bio": "Joris Enkelaar is algemeen bestuurslid en secretaris van Hart voor Hilversum en werkt als juridisch adviseur. Hij richt zich op een veilige, schone leefomgeving.",
+   "bron": "https://www.hartvoorhilversum.nl/w/joris-enkelaar",
+   "linkedin": null
+  },
+  {
+   "nr": 16,
+   "naam": "Eduard Metz",
+   "woonplaats": "Hilversum",
+   "foto": "hart-voor-hilversum/16.jpg",
+   "bio": "Eduard Metz legt met zijn website Oog op Hilversum gebeurtenissen en buurtinitiatieven vast en is vrijwilliger en huisfotograaf bij buurthuis De Geus. Hij staat als lijstduwer op de lijst en richt zich op inwonersparticipatie en veiligheid op straat.",
+   "bron": "https://www.hartvoorhilversum.nl/w/eduard-metz",
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Mitchiko Braum",
+   "woonplaats": "Loosdrecht",
+   "foto": "hart-voor-hilversum/17.jpg",
+   "bio": "Mitchiko Braum woont in Nieuw-Loosdrecht en werkt al meer dan twintig jaar in de thuiszorg, na een loopbaan als rijinstructeur. Zij is vrijwilliger bij Stichting Fun Tours en staat als lijstduwer op de lijst.",
+   "bron": "https://www.hartvoorhilversum.nl/w/michiko-braum",
+   "linkedin": null
+  }
+ ],
+ "pro": [
+  {
+   "nr": 1,
+   "naam": "Stan Poels",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": "Is lijsttrekker van PRO Hilversum. Woont in Kortenhoef en is sinds 2012 actief in de lokale politiek in Wijdemeren; was eerder directeur van de toenmalige Sociale Dienst in Hilversum.",
+   "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/378181/stan-poels-lijsttrekker-van-pro-hilversum-bij-gemeenteraadsverkiezingen",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Elske Faber",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Is manager in de zorgvernieuwing en nieuw in de Hilversumse politiek. Richt zich op zorg, welzijn en gelijke kansen.",
+   "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/378181/stan-poels-lijsttrekker-van-pro-hilversum-bij-gemeenteraadsverkiezingen",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Nassreddin Taibi",
+   "woonplaats": "Hilversum",
+   "foto": "pro/3.jpg",
+   "bio": "Is commissielid in Hilversum en was namens RoodGroen betrokken bij de landelijke samenwerking tussen GroenLinks en PvdA.",
+   "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/378181/stan-poels-lijsttrekker-van-pro-hilversum-bij-gemeenteraadsverkiezingen",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Paul Hoogendam",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Lex van Waarden",
+   "woonplaats": "Hilversum",
+   "foto": "pro/5.jpg",
+   "bio": "Is raadslid in Hilversum met ruimtelijke ordening en wonen als aandachtsgebied en was commissievoorzitter. Werkt als zelfstandig architect in de huisvesting voor de eerstelijnszorg.",
+   "bron": "https://hilversum.groenlinks.nl/onze-mensen/lex-van-waarden-0",
+   "linkedin": "https://www.linkedin.com/in/lexvanwaarden/"
+  },
+  {
+   "nr": 6,
+   "naam": "Sara Steenkamp",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Lucy van der Wal",
+   "woonplaats": "'s-Graveland",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Martijn Bakker",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Maarten Brouwer",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Boudewijn Zwanenburg",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Senna de Niet",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "Iris van Beers",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Ries Peters",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Machiel Postma",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Hidde van Schaick",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 16,
+   "naam": "Pim Astfalck",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Bart Heller",
+   "woonplaats": "Hilversum",
+   "foto": "pro/17.jpg",
+   "bio": "Is wethouder van Hilversum namens GroenLinks en wijkwethouder voor Noordoost en de Meent. Zijn portefeuille omvat onder meer klimaat en energie, natuur en groen en milieu en afval.",
+   "bron": "https://hilversum.nl/bestuur-organisatie/college-van-burgemeester-wethouders/burgemeester-wethouders/bart-heller",
+   "linkedin": null
+  },
+  {
+   "nr": 18,
+   "naam": "Kees Bakker",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 19,
+   "naam": "Marleen Remmers",
+   "woonplaats": "Hilversum",
+   "foto": "pro/19.jpg",
+   "bio": "Is fractievoorzitter van GroenLinks in de Hilversumse gemeenteraad, waar zij sinds 2014 zitting heeft, met Zorg en Samenleving als aandachtsgebied. Zij werkt als bestuurder in het primair onderwijs.",
+   "bron": "https://hilversum.groenlinks.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 20,
+   "naam": "Wilna Wind",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 21,
+   "naam": "Henrieke Abrahamse",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 22,
+   "naam": "Jos van Drogen",
+   "woonplaats": "Hilversum",
+   "foto": "pro/22.jpg",
+   "bio": "Is sinds eind 2020 raadslid voor GroenLinks in Hilversum en houdt zich onder meer bezig met jeugdzorg, inburgering, LHBTIQ+-beleid en jongerenwerk. Hij werkt als verzekeringsadviseur.",
+   "bron": "https://hilversum.groenlinks.nl/onze-mensen/jos-van-drogen-0",
+   "linkedin": "https://www.linkedin.com/in/josvandrogen/"
+  },
+  {
+   "nr": 23,
+   "naam": "Paulien van Hessen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 24,
+   "naam": "Jos Oude Elferink",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 25,
+   "naam": "Jacqueline Kalk",
+   "woonplaats": "Hilversum",
+   "foto": "pro/25.jpg",
+   "bio": "Is wethouder van Hilversum namens de PvdA en wijkwethouder voor Oost. Haar portefeuille omvat onder meer financiën, wonen, inclusie en sport.",
+   "bron": "https://hilversum.nl/bestuur-organisatie/college-van-burgemeester-wethouders/burgemeester-wethouders/jacqueline-kalk",
+   "linkedin": null
+  }
+ ],
+ "d66": [
+  {
+   "nr": 1,
+   "naam": "Jarno Deen",
+   "woonplaats": "Hilversum",
+   "foto": "d66/1.jpg",
+   "bio": "Is lijsttrekker en sinds 2022 fractievoorzitter van D66 Hilversum, daarvoor commissielid. Werkt als programmamanager bij het Ministerie van Infrastructuur en Waterstaat en richt zich op ruimtelijke ordening, verkeer rond scholen en sport.",
+   "bron": "https://d66.nl/hilversum/mensen/jarno-deen/",
+   "linkedin": "https://www.linkedin.com/in/jarnodeen/"
+  },
+  {
+   "nr": 2,
+   "naam": "Jos van Nistelrooij",
+   "woonplaats": "Hilversum",
+   "foto": "d66/2.jpg",
+   "bio": "Is sinds 2023 gemeenteraadslid voor D66 Hilversum en was daarvoor commissielid. Werkt als onafhankelijk adviseur voor grote publieke organisaties; richt zich op gezonde gemeentefinanciën, openbare ruimte en een fijne omgeving om op te groeien.",
+   "bron": "https://d66.nl/hilversum/mensen/jos-van-nistelrooij/",
+   "linkedin": "https://www.linkedin.com/in/josvannistelrooij/"
+  },
+  {
+   "nr": 3,
+   "naam": "Eveline Stroucken",
+   "woonplaats": "Hilversum",
+   "foto": "d66/3.jpg",
+   "bio": "Was van 2010 tot 2018 raadslid voor D66 in Hilversum. Richt zich op natuur en dierenwelzijn, sport en spel in de buitenruimte, levendige ontmoetingsplekken en een betrouwbaar gemeentebestuur.",
+   "bron": "https://d66.nl/hilversum/mensen/eveline-stroucken/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Laurens Verburg",
+   "woonplaats": "Hilversum",
+   "foto": "d66/4.jpg",
+   "bio": "Is sinds 2025 commissielid voor D66 Hilversum en kandidaat-raadslid. Werkt in het onderwijs en zet zich in voor leefbare buurten en dorpen met ruimte voor groen, voetgangers en fietsers.",
+   "bron": "https://d66.nl/hilversum/mensen/laurens-verburg/",
+   "linkedin": "https://www.linkedin.com/in/laurens-verburg-3b8579b/"
+  },
+  {
+   "nr": 5,
+   "naam": "Robbert Jan Proos",
+   "woonplaats": "Hilversum",
+   "foto": "d66/5.jpg",
+   "bio": "Is theatermaker en cabaretier en bestuurt theatergroep Fusie. Was in 2025 tijdelijk raadslid als ziektevervanger en richt zich op cultuur, veiligheid, diversiteit en het sociaal domein.",
+   "bron": "https://d66.nl/hilversum/mensen/robbert-jan-proos/",
+   "linkedin": "https://www.linkedin.com/in/robbert-jan-proos-2a028b2b/"
+  },
+  {
+   "nr": 6,
+   "naam": "Patricia Roobol",
+   "woonplaats": "Kortenhoef",
+   "foto": "d66/6.jpg",
+   "bio": "Is jurist en sinds 2024 commissielid voor D66 Wijdemeren, woordvoerder sociaal domein. Was van 2022 tot 2024 raadslid voor De Lokale Partij in Wijdemeren.",
+   "bron": "https://d66.nl/hilversum/mensen/patricia-roobol/",
+   "linkedin": "https://www.linkedin.com/in/patricia-roobol-61a61b7/"
+  },
+  {
+   "nr": 7,
+   "naam": "Amin Usman",
+   "woonplaats": "Hilversum",
+   "foto": "d66/7.jpg",
+   "bio": "Is ondernemer in Hilversum en kandidaat-raadslid voor D66 Hilversum. Richt zich op retail, horeca en cultuur en op een levendig en gezond centrum.",
+   "bron": "https://d66.nl/hilversum/mensen/amin-usman/",
+   "linkedin": "https://www.linkedin.com/in/l-n-amin-usman/"
+  },
+  {
+   "nr": 8,
+   "naam": "Julia Borsboom",
+   "woonplaats": "Hilversum",
+   "foto": "d66/8.jpg",
+   "bio": "Is sinds 2026 commissielid voor D66 Hilversum en kandidaat-raadslid. Studeert Interdisciplinaire Sociale Wetenschappen aan de UvA; richt zich op meer groen, veilige buurten en betere woningen voor jongeren.",
+   "bron": "https://d66.nl/hilversum/mensen/julia-borsboom/",
+   "linkedin": "https://www.linkedin.com/in/julia-borsboom-623b0a28a/"
+  },
+  {
+   "nr": 9,
+   "naam": "Leontien van der Heijden",
+   "woonplaats": "Hilversum",
+   "foto": "d66/9.jpg",
+   "bio": "Is kandidaat-raadslid voor D66 Hilversum. Richt zich op veiligheid, jeugd en gezinnen en een slimme overheid met betere dienstverlening.",
+   "bron": "https://d66.nl/hilversum/mensen/leontienvanderheijden/",
+   "linkedin": "https://www.linkedin.com/in/leontienvanderheijden/"
+  },
+  {
+   "nr": 10,
+   "naam": "Eric Brand",
+   "woonplaats": "Kortenhoef",
+   "foto": "d66/10.jpg",
+   "bio": "Is commissielid in Wijdemeren en fractiemedewerker van D66 Wijdemeren, en kandidaat-raadslid. Werkt als Business Leader Products bij een handelsbedrijf in Weesp; richt zich op dorpenbeleid, cultuur en ruimtelijke ordening.",
+   "bron": "https://d66.nl/hilversum/mensen/eric-brand/",
+   "linkedin": "https://www.linkedin.com/in/eric-brand/"
+  },
+  {
+   "nr": 11,
+   "naam": "Gertjan Reichman",
+   "woonplaats": "Hilversum",
+   "foto": "d66/11.jpg",
+   "bio": "Is sinds 2025 commissielid voor D66 Hilversum en kandidaat-raadslid. Werkte 40 jaar internationaal in de medisch-farmaceutische industrie; richt zich op zorg, een sterke samenleving en Europa.",
+   "bron": "https://d66.nl/hilversum/mensen/gertjan-reichman/",
+   "linkedin": "https://www.linkedin.com/in/gertjan-reichman-8287337/"
+  },
+  {
+   "nr": 12,
+   "naam": "Harun Başli",
+   "woonplaats": "Loosdrecht",
+   "foto": "d66/12.jpg",
+   "bio": "Is kandidaat-raadslid voor D66 Hilversum en woont in Loosdrecht. Is sinds 2021 lid van de D66-themaafdeling Samenleving, Migratie en Asiel; richt zich op inclusieve participatie en de verbinding tussen dorp en stad.",
+   "bron": "https://d66.nl/hilversum/mensen/harun-basli/",
+   "linkedin": "https://www.linkedin.com/in/harun-basli/"
+  },
+  {
+   "nr": 13,
+   "naam": "Gemma Verhoeven",
+   "woonplaats": "Hilversum",
+   "foto": "d66/13.jpg",
+   "bio": "Is kandidaat-raadslid voor D66 Hilversum en vrijwilliger bij de tuinderij van Land en Boschzight. Richt zich op circulaire economie, investeren in de maatschappij, diversiteit en gemeenschapszin.",
+   "bron": "https://d66.nl/hilversum/mensen/gemma-verhoeven/",
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Yusuf Alici",
+   "woonplaats": "Hilversum",
+   "foto": "d66/14.jpg",
+   "bio": "Is kandidaat-raadslid voor D66 Hilversum. Richt zich op betaalbare woningen, bereikbaarheid en parkeren, sterke lokale ondernemers en veilige buurten.",
+   "bron": "https://d66.nl/hilversum/mensen/yusuf-alici/",
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Mario Wouters",
+   "woonplaats": "'s-Graveland",
+   "foto": "d66/15.jpg",
+   "bio": "Is sinds 2019 commissielid voor D66 Wijdemeren, was in 2018-2019 raadslid en is kandidaat-raadslid. Is ondernemer in de bouwsector; richt zich op betaalbaar wonen en bouwen, bereikbaarheid en leefbaarheid van de kernen.",
+   "bron": "https://d66.nl/hilversum/mensen/mario-wouters/",
+   "linkedin": "https://www.linkedin.com/in/mario-wouters/"
+  },
+  {
+   "nr": 16,
+   "naam": "Nanda de Bruin",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "d66/16.jpg",
+   "bio": "Is kandidaat-raadslid voor D66 Hilversum en was van 2020 tot 2022 voorzitter van D66 Wijdemeren. Werkt al 25 jaar in het mbo, de laatste 15 jaar als opleidingsmanager, en richt zich op sociaal domein en onderwijs.",
+   "bron": "https://d66.nl/hilversum/mensen/nanda-de-bruin/",
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Arjen Kool",
+   "woonplaats": "Hilversum",
+   "foto": "d66/17.jpg",
+   "bio": "Is kandidaat-raadslid voor D66 Hilversum. Zet kennis van financiën, energie en verandermanagement in en richt zich op gemeentefinanciën, energietransitie en burgerparticipatie.",
+   "bron": "https://d66.nl/hilversum/mensen/arjen-kool/",
+   "linkedin": "https://www.linkedin.com/in/arjen-kool-5398b311/"
+  },
+  {
+   "nr": 18,
+   "naam": "Marianne van Vliet",
+   "woonplaats": "Hilversum",
+   "foto": "d66/18.jpg",
+   "bio": "Marianne van Vliet werkt sinds 1993 in de volkshuisvesting en is senior adviseur Wonen bij een buurgemeente. Ze was eerder commissielid (2016-2018) en raadslid (2018-2022) voor D66 Hilversum.",
+   "bron": "https://d66.nl/hilversum/mensen/marianne-van-vliet/",
+   "linkedin": null
+  },
+  {
+   "nr": 19,
+   "naam": "Joost Koelega",
+   "woonplaats": "Hilversum",
+   "foto": "d66/19.jpg",
+   "bio": "Joost Koelega is kandidaat-raadslid voor D66 Hilversum met duurzaamheid, techniek en financiën als aandachtsgebieden. Hij was van 2019 tot 2022 voorzitter en eerder bestuurslid van D66 Hilversum.",
+   "bron": "https://d66.nl/hilversum/mensen/joost-koelega/",
+   "linkedin": "https://www.linkedin.com/in/joostkoelega/"
+  },
+  {
+   "nr": 20,
+   "naam": "Guido van Gulick",
+   "woonplaats": "Loosdrecht",
+   "foto": "d66/20.jpg",
+   "bio": "Guido van Gulick is commissielid van D66 in Wijdemeren met financiën en bedrijfsvoering als aandachtsgebied, en penningmeester van D66 Hilversum. Hij werkt in de zorgsector.",
+   "bron": "https://d66.nl/hilversum/mensen/guido-van-gulick-2/",
+   "linkedin": "https://www.linkedin.com/in/guido-van-gulick-1a96556/"
+  },
+  {
+   "nr": 21,
+   "naam": "Rob Koedijker",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "d66/21.jpg",
+   "bio": "Rob Koedijker is commissielid van D66 in de gemeenteraad van Wijdemeren. Hij is bouwkundige.",
+   "bron": "https://d66.nl/hilversum/mensen/rob-koedijker/",
+   "linkedin": null
+  },
+  {
+   "nr": 22,
+   "naam": "Paul Helmich",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 23,
+   "naam": "Nienke Feenstra",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 24,
+   "naam": "Oskar Jalink",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 25,
+   "naam": "Harmen Lindeboom",
+   "woonplaats": "Hilversum",
+   "foto": "d66/25.jpg",
+   "bio": "Harmen Lindeboom is informatiemanager bij Yuverta en werkte eerder als gemeenteambtenaar en adviseur aan de overheid. Zijn aandachtsgebieden zijn ICT, bedrijfsvoering en IT-governance.",
+   "bron": "https://d66.nl/hilversum/mensen/harmen-lindeboom/",
+   "linkedin": "https://www.linkedin.com/in/harmenlindeboom/"
+  },
+  {
+   "nr": 26,
+   "naam": "Ellen Klaus",
+   "woonplaats": "'s-Graveland",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 27,
+   "naam": "Otger Meuwissen",
+   "woonplaats": "Hilversum",
+   "foto": "d66/27.jpg",
+   "bio": "Otger Meuwissen is politiek secretaris in het afdelingsbestuur van D66 Hilversum.",
+   "bron": "https://d66.nl/hilversum/bestuur/",
+   "linkedin": null
+  },
+  {
+   "nr": 28,
+   "naam": "Mark van der Veen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 29,
+   "naam": "Mariken Betsema",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 30,
+   "naam": "Wilbert Kroesen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 31,
+   "naam": "Mariska van Zanten",
+   "woonplaats": "'s-Graveland",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 32,
+   "naam": "Theo Klarenbeek",
+   "woonplaats": "Hilversum",
+   "foto": "d66/32.jpg",
+   "bio": "Theo Klarenbeek is secretaris van het bestuur van D66 Hilversum en werkt in de ouderenzorg op het gebied van vastgoed. Hij is vrijwillig voorzitter van stichting Mijn Eigen Thuis.",
+   "bron": "https://d66.nl/hilversum/mensen/theo-klarenbeek/",
+   "linkedin": "https://www.linkedin.com/in/theoklarenbeek/"
+  },
+  {
+   "nr": 33,
+   "naam": "Myriam Kooij-Heijmerink",
+   "woonplaats": "Loosdrecht",
+   "foto": "d66/33.jpg",
+   "bio": "Myriam Kooij-Heijmerink is sinds 2025 vicevoorzitter van de D66-afdeling Hilversum. Ze was jarenlang commissielid in Wijdemeren, in de commissies Maatschappelijke en Sociale Zaken en Bestuur en Middelen.",
+   "bron": "https://d66.nl/hilversum/mensen/myriam-kooij-heijmerink/",
+   "linkedin": null
+  },
+  {
+   "nr": 34,
+   "naam": "Robert Bouma",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 35,
+   "naam": "Pauline Simons-Jongens",
+   "woonplaats": "Hilversum",
+   "foto": "d66/35.jpg",
+   "bio": "Pauline Simons-Jongens is bestuurslid van de afdeling D66 Hilversum.",
+   "bron": "https://d66.nl/hilversum/bestuur/",
+   "linkedin": null
+  },
+  {
+   "nr": 36,
+   "naam": "Rogier Verhoeven",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 37,
+   "naam": "Sikko Brandenburg",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 38,
+   "naam": "Marinus Vermeulen",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 39,
+   "naam": "Marianne Berenschot",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 40,
+   "naam": "Wouter Rengelink",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 41,
+   "naam": "Gina Jap-Sam",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 42,
+   "naam": "Herbert Kwak",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 43,
+   "naam": "Laurien Berkvens",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 44,
+   "naam": "Ronald van Klooster",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 45,
+   "naam": "Annemarie den Daas",
+   "woonplaats": "Hilversum",
+   "foto": "d66/45.jpg",
+   "bio": "Annemarie den Daas is voorzitter van de afdeling D66 Hilversum. Van 2009 tot 2022 was zij gemeenteraadslid in Hilversum, een deel van die tijd als fractievoorzitter.",
+   "bron": "https://d66.nl/hilversum/mensen/1400/",
+   "linkedin": null
+  },
+  {
+   "nr": 46,
+   "naam": "Eric van der Want",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 47,
+   "naam": "Annette Wolthers",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 48,
+   "naam": "Roderik van Grieken",
+   "woonplaats": "Hilversum",
+   "foto": "d66/48.jpg",
+   "bio": "Roderik van Grieken is raadslid voor D66 in Hilversum. Hij wil meer aandacht voor mensen die moeite hebben om mee te komen.",
+   "bron": "https://d66.nl/hilversum/de-fractie/",
+   "linkedin": "https://www.linkedin.com/in/roderik-van-grieken-4937931/"
+  },
+  {
+   "nr": 49,
+   "naam": "Vivienne Wesselink",
+   "woonplaats": "Hilversum",
+   "foto": "d66/49.jpg",
+   "bio": "Vivienne Wesselink is sinds 2018 raadslid en nu vice-fractievoorzitter van D66 Hilversum. Haar expertises zijn jeugdzorg, Wmo, onderwijs, werk en inkomen, dierenwelzijn en sekswerk.",
+   "bron": "https://d66.nl/hilversum/mensen/vivienne-wesselink-2/",
+   "linkedin": "https://www.linkedin.com/in/vivienne-wesselink-b2a01643/"
+  },
+  {
+   "nr": 50,
+   "naam": "Nanne Roosenschoon",
+   "woonplaats": "Loosdrecht",
+   "foto": "d66/50.jpg",
+   "bio": "Nanne Roosenschoon is fractievoorzitter van D66 Wijdemeren en al meer dan 20 jaar actief in de gemeenteraad en politiek. Hij is architect en richt zich op ruimtelijke ordening.",
+   "bron": "https://d66.nl/hilversum/mensen/nanne-roosenschoon/",
+   "linkedin": "https://www.linkedin.com/in/nanne-roosenschoon-29a93113/"
+  }
+ ],
+ "vvd": [
+  {
+   "nr": 1,
+   "naam": "Hidde Fennema",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/1.jpg",
+   "bio": "Hidde Fennema is fractievoorzitter van de VVD in de Hilversumse gemeenteraad en lijsttrekker bij deze verkiezingen.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/hiddefennema/"
+  },
+  {
+   "nr": 2,
+   "naam": "Bo de Kruijff",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "vvd/2.jpg",
+   "bio": "Bo de Kruijff is fractievoorzitter van de VVD in Wijdemeren. Hij diende een motie in om door te gaan met het Gebiedsakkoord Oostelijke Vechtplassen, die de raad unaniem steunde.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/bo-de-kruijff-97ab27195/"
+  },
+  {
+   "nr": 3,
+   "naam": "Sabrina Gianfreda-Warringa",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/3.jpg",
+   "bio": "Sabrina Gianfreda-Warringa is commissielid voor de VVD in de gemeenteraad van Hilversum.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/sabrina-gianfreda-3ba2bb56/"
+  },
+  {
+   "nr": 4,
+   "naam": "Tobias Westerneng",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/4.jpg",
+   "bio": "Tobias Westerneng is raadslid en vicefractievoorzitter van de VVD in Hilversum. Hij is woordvoerder economie van de fractie.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/tobiaswesterneng/"
+  },
+  {
+   "nr": 5,
+   "naam": "Olivier Martens",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/5.jpg",
+   "bio": null,
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/olivier-martens/"
+  },
+  {
+   "nr": 6,
+   "naam": "Ita Joosten",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/6.jpg",
+   "bio": null,
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/ita-joosten-5b74525/"
+  },
+  {
+   "nr": 7,
+   "naam": "Cees ten Broek",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/7.jpg",
+   "bio": "In een verkiezingsdebat in september 2026 legde Cees ten Broek namens de VVD de nadruk op een praktische en realistische aanpak van verduurzaming.",
+   "bron": "https://www.vvdhilversum.nl/#/nieuws/vvd-in-het-voorsteldebat-investeren-in-de-gemeente-met-oog-voor-de-rekening",
+   "linkedin": "https://www.linkedin.com/in/ceestenbroek/"
+  },
+  {
+   "nr": 8,
+   "naam": "Ellis Zeeuw van der Laan",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/8.jpg",
+   "bio": "Ellis Zeeuw van der Laan is raadslid en fractiesecretaris van de VVD in Hilversum.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/ellis-zeeuw-van-der-laan-545b684/"
+  },
+  {
+   "nr": 9,
+   "naam": "Adriaan Mol",
+   "woonplaats": "Kortenhoef",
+   "foto": "vvd/9.jpg",
+   "bio": null,
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Jan Klink",
+   "woonplaats": "Loosdrecht",
+   "foto": "vvd/10.jpg",
+   "bio": "Jan Klink is VVD-wethouder Economische Zaken van Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/janklink/"
+  },
+  {
+   "nr": 11,
+   "naam": "Renzo Knecht",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/11.jpg",
+   "bio": null,
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/renzo-knecht-822a28179/"
+  },
+  {
+   "nr": 12,
+   "naam": "Jan-Matthijs van Eendenburg",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/12.jpg",
+   "bio": null,
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/jan-matthijs-van-eendenburg/"
+  },
+  {
+   "nr": 13,
+   "naam": "John van der Ree",
+   "woonplaats": "Kortenhoef",
+   "foto": "vvd/13.jpg",
+   "bio": null,
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/john-van-der-ree-40725010/"
+  },
+  {
+   "nr": 14,
+   "naam": "Sophia Reinders",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/14.jpg",
+   "bio": "Sophie Reinders is commissielid voor de VVD in de gemeenteraad van Hilversum.",
+   "bron": "https://www.vvdhilversum.nl/#/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/sophie-reinders-682bb12a4/"
+  },
+  {
+   "nr": 15,
+   "naam": "Max de Haas",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/15.jpg",
+   "bio": "Max de Haas was begin 2026 commissielid voor de VVD-fractie in de gemeenteraad van Hilversum.",
+   "bron": "https://www.vvdhilversum.nl/#/nieuws/sabrina-warringa-nieuw-commissielid",
+   "linkedin": "https://www.linkedin.com/in/maxdehaas/"
+  },
+  {
+   "nr": 16,
+   "naam": "Tim Muskee",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Tim Muskee is raadslid voor de VVD in Hilversum en richt zich op ruimtelijke ordening en duurzaamheid. Hij is hoofduitvoerder bij een bouwbedrijf.",
+   "bron": "https://hilversum.bestuurlijkeinformatie.nl/People/Details/f713cbfe-0744-4332-b76c-53a5e0772991?categoryId=e519b74a-ea0c-4152-acc1-02a3aa3b92ca",
+   "linkedin": "https://www.linkedin.com/in/tim-muskee-78840586/"
+  },
+  {
+   "nr": 17,
+   "naam": "Oscar Gallas",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 18,
+   "naam": "Floris Voorink",
+   "woonplaats": "Hilversum",
+   "foto": "vvd/18.jpg",
+   "bio": "Floris Voorink is wethouder van Hilversum namens de VVD, onder meer voor economie, media, cultuur en evenementen, grondbeleid en openbare ruimte. Hij is eerste locoburgemeester en wijkwethouder Centrum en Zuidoost.",
+   "bron": "https://www.hilversum.nl/bestuur-organisatie/college-van-burgemeester-wethouders/college-van-b-w/floris-voorink",
+   "linkedin": "https://www.linkedin.com/in/florisvoorink/"
+  },
+  {
+   "nr": 19,
+   "naam": "Els Kruijt",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": "Els Kruijt was namens de VVD wethouder in Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/ontbinding-coalitie-wijdemeren.json",
+   "linkedin": "https://www.linkedin.com/in/els-kruijt-5471322a/"
+  },
+  {
+   "nr": 20,
+   "naam": "Nils Lamme",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": "https://www.linkedin.com/in/nils-lamme-003703/"
+  },
+  {
+   "nr": 21,
+   "naam": "Ernst Haselhoff Lich Kasteleijn",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": "https://www.linkedin.com/in/ernst-haselhoff-lich-kasteleijn-1b336227/"
+  },
+  {
+   "nr": 22,
+   "naam": "Door van Leeuwen Boomkamp",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": "https://www.linkedin.com/in/doorvanleeuwenboomkamp/"
+  },
+  {
+   "nr": 23,
+   "naam": "Age Fluitman",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Age Fluitman was in 2021 voorzitter van de Hilversumse VVD.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/voorzittershamer-overgedragen-aan-age-fluitman.json",
+   "linkedin": "https://www.linkedin.com/in/age-fluitman-8a46638/"
+  },
+  {
+   "nr": 24,
+   "naam": "Guus Warringa",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": "https://www.linkedin.com/in/guus-warringa-535b2a16/"
+  },
+  {
+   "nr": 25,
+   "naam": "Jos Kea",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": "Jos Kea was twee keer wethouder in Wijdemeren namens de VVD. Begin 2026 stopte hij als wethouder.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/jos-kea-stopt-als-wethouder-jan-klink-volgt-op.json",
+   "linkedin": "https://www.linkedin.com/in/jos-kea-7507a44/"
+  },
+  {
+   "nr": 26,
+   "naam": "Terrrence Mader",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Terry Mader werd in 2025 bestuurslid ledenzaken in het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
+   "linkedin": "https://www.linkedin.com/in/terry-mader-40809a13a/"
+  },
+  {
+   "nr": 27,
+   "naam": "Wim Steman",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": "Wim Steman werd in 2025 algemeen bestuurslid in het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
+   "linkedin": "https://www.linkedin.com/in/wim-steman-30b81a46/"
+  },
+  {
+   "nr": 28,
+   "naam": "Abe Brandsma",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Abe Brandsma werd in 2025 penningmeester van het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
+   "linkedin": "https://www.linkedin.com/in/abebrandsma/"
+  },
+  {
+   "nr": 29,
+   "naam": "Wim Lorjé",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": "Wim Lorjé werd in 2025 vicevoorzitter van het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
+   "linkedin": "https://www.linkedin.com/in/wim-lorjé-6a770618/"
+  },
+  {
+   "nr": 30,
+   "naam": "Frits Vogel",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Frits Vogel werd in 2025 voorzitter van het gezamenlijke bestuur van VVD Hilversum en VVD Wijdemeren.",
+   "bron": "https://www.vvdhilversum.nl/nieuws/vvd-hilversum-en-vvd-wijdemeren-bundelen-de-liberale-krachten.json",
+   "linkedin": "https://www.linkedin.com/in/frits-vogel-4578206/"
+  },
+  {
+   "nr": 31,
+   "naam": "Marjolein van der Linden",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Marjolein van der Linden is Eerste Kamerlid.",
+   "bron": "https://www.vvdhilversum.nl/js/data.js",
+   "linkedin": "https://www.linkedin.com/in/marjolein-van-der-linden-207b5a6/"
+  },
+  {
+   "nr": 32,
+   "naam": "Joost van Gilse",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Joost van Gilse is Statenlid voor de VVD in Noord-Holland.",
+   "bron": "https://www.vvdhilversum.nl/js/data.js",
+   "linkedin": "https://www.linkedin.com/in/joost-van-gilse-535a908/"
+  },
+  {
+   "nr": 33,
+   "naam": "Ruud Verkuijlen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Ruud Verkuijlen is Tweede Kamerlid voor de VVD en was eerder ruim zeven jaar raadslid voor de VVD in Hilversum.",
+   "bron": "https://www.vvdhilversum.nl/js/data.js",
+   "linkedin": "https://www.linkedin.com/in/ruud-verkuijlen-44542920/"
+  }
+ ],
+ "cda": [
+  {
+   "nr": 1,
+   "naam": "Gerben van Voorden",
+   "woonplaats": "Hilversum",
+   "foto": "cda/1.jpg",
+   "bio": "Gerben van Voorden is lijsttrekker van het CDA en sinds 2022 wethouder Zorg en Samenleving. Daarvoor was hij acht jaar gemeenteraadslid.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/gerben-van-voorden/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Rosalie van Rijn",
+   "woonplaats": "'s-Graveland",
+   "foto": "cda/2.jpg",
+   "bio": "Rosalie van Rijn is wethouder Ruimtelijke Ordening, Dorpenbeleid en Werk & Inkomen in Wijdemeren. Eerder was ze programmamanager wonen-zorg bij een wooncorporatie in Rotterdam en daarvoor vier jaar wethouder zorg in Wijdemeren.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/rosalie-van-rijn/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Koen Tabak",
+   "woonplaats": "Hilversum",
+   "foto": "cda/3.jpg",
+   "bio": "Koen Tabak is docent en afdelingsmanager op het ATC in Hilversum, na een loopbaan als bankier. Hij zet zich in voor de stichting Omgevingseducatie en helpt mensen met hun belastingaangifte.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/koen-tabak/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Jan Willem Nienhuis",
+   "woonplaats": "Kortenhoef",
+   "foto": "cda/4.jpg",
+   "bio": "Jan Willem Nienhuis is al ruim twaalf jaar raadslid en fractievoorzitter van het CDA in Wijdemeren. Hij is zelfstandig complianceadviseur en betrokken bij onder meer Stichting BLOK, het Wijdegatconcert en SAIL Amsterdam.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/jan-willem-nienhuis/",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Leoni Brussaard",
+   "woonplaats": "Hilversum",
+   "foto": "cda/5.jpg",
+   "bio": "Leoni Brussaard is raadslid voor het CDA in Hilversum. Ruimtelijke ordening was de afgelopen jaren haar belangrijkste aandachtsgebied binnen de fractie.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/leoni-brussaard/",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Eric Torsing",
+   "woonplaats": "Ankeveen",
+   "foto": "cda/6.jpg",
+   "bio": "Eric Torsing is commissielid in Wijdemeren en mede-eigenaar van Aannemingsbedrijf BTZ. Hij is vrijwilliger bij onder meer de Dillewijn en de ijsclub en wil zich inzetten voor ondernemers en een vrijwilligersloket.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/eric-torsing/",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Tim van der Meulen",
+   "woonplaats": "Hilversum",
+   "foto": "cda/7.jpg",
+   "bio": "Tim van der Meulen is fractiemedewerker van het CDA in Hilversum en projectleider Klimaat & Duurzaamheid bij de gemeente Velsen, met de Regionale Energie Strategie als belangrijkste dossier.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/tim-van-der-meulen/",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Jacobine van Dijk",
+   "woonplaats": "Hilversum",
+   "foto": "cda/8.jpg",
+   "bio": "Jacobine van Dijk is raadslid voor het CDA in Hilversum en ondernemer. Ze liep eerder vier jaar mee met de fractie als fractiemedewerker.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/jacobine-van-dijk/",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Siem van Ooijen",
+   "woonplaats": "Hilversum",
+   "foto": "cda/9.jpg",
+   "bio": "Siem van Ooijen is commissielid voor het CDA in Hilversum, werkt als postbode en is historicus. Hij zet zich in voor betaalbare woningen en passend werk voor jongeren.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/siem-van-ooijen/",
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Jan Verbruggen",
+   "woonplaats": "'s-Graveland",
+   "foto": "cda/10.jpg",
+   "bio": "Jan Verbruggen was van 2010 tot 2022 raadslid en fractievoorzitter voor het CDA in Wijdemeren en was recent waarnemend wethouder in Wijdemeren. Hij is bestuurslid van het Oranjecomité in Kortenhoef.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/jan-verbruggen/",
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Dik van Enk",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "Vito van Osch",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Mathijs Haselager",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Merlin Majoor",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Ahmet Yorulmaz",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 16,
+   "naam": "Bas Kers",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Barry Rooimans",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 18,
+   "naam": "Gertjan Postma",
+   "woonplaats": "Hilversum",
+   "foto": "cda/18.jpg",
+   "bio": "Gertjan Postma is raadslid voor het CDA in Hilversum en penningmeester bij het CDA Hilversum. Hij heeft jarenlange ervaring op het gebied van gemeentelijke financiën, economie en investeringen.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/gertjan-postma/",
+   "linkedin": null
+  },
+  {
+   "nr": 19,
+   "naam": "Peter Heeren",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "cda/19.jpg",
+   "bio": "Is gemeenteraadslid voor het CDA in Wijdemeren en lid van de werkgeverscommissie. Werkt bij de Centrale verwerking Openbaar Ministerie in Utrecht en is voorzitter van Stichting klusjesteam Nederhorst den Berg.",
+   "bron": "https://www.wijdemeren.nl/nl/Bestuur/Leden-van-de-gemeenteraad-en-commissies/Peter-Heeren.html",
+   "linkedin": null
+  },
+  {
+   "nr": 20,
+   "naam": "Ymkje Meijer",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 21,
+   "naam": "Evert Jan Kruijswijk Jansen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 22,
+   "naam": "Remco Boshuizen",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 23,
+   "naam": "Richard Hoff",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 24,
+   "naam": "Suzanne de Haan",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 25,
+   "naam": "Daan Molenaar",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 26,
+   "naam": "Menno Krijnen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 27,
+   "naam": "Joost Cornielje",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 28,
+   "naam": "Jan Jaap Sandbergen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 29,
+   "naam": "Annemieke van Weeghel-Luijer",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 30,
+   "naam": "Albèrt Bloemhof",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 31,
+   "naam": "Herman Veldhuisen",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 32,
+   "naam": "Bas Baartman",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 33,
+   "naam": "Daniel van Zaalen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 34,
+   "naam": "Wil van Erp",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 35,
+   "naam": "Tijmen Hennipman",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 36,
+   "naam": "Anja Wijnands-van Daal",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 37,
+   "naam": "Saskia Luijer",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 38,
+   "naam": "Nico de Haas",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 39,
+   "naam": "Anton van Schaick",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 40,
+   "naam": "Anja Lam",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 41,
+   "naam": "Janneke Verbruggen-van Corteveen",
+   "woonplaats": "'s-Graveland",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 42,
+   "naam": "Robbert Abbink",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 43,
+   "naam": "Marcel Brouwer",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 44,
+   "naam": "Tjebbel Maris",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 45,
+   "naam": "Willem van der Spek",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 46,
+   "naam": "Ewout Jansen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 47,
+   "naam": "Joep Mourits",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 48,
+   "naam": "Sach Jansen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 49,
+   "naam": "Hans Hillen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Hans Hillen is oud-minister. Het CDA Hilversum kondigde hem aan als spreker namens de partij op Europadag 2026 in Hilversum.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/nieuws/bijdrage-hans-hillen-ter-gelegenheid-van-50-jaar-cda-hilversum/",
+   "linkedin": null
+  },
+  {
+   "nr": 50,
+   "naam": "Olaf Streutker",
+   "woonplaats": "Hilversum",
+   "foto": "cda/50.jpg",
+   "bio": "Olaf Streutker is fractievoorzitter van het CDA in de Hilversumse gemeenteraad. Hij is bedrijfskundig ingenieur.",
+   "bron": "https://www.cda.nl/noord-holland/hilversum/mensen/olaf-streutker/",
+   "linkedin": null
+  }
+ ],
+ "lokaal-een": [
+  {
+   "nr": 1,
+   "naam": "Margriet Rademaker-Verdegaal",
+   "woonplaats": "'s-Graveland",
+   "foto": "lokaal-een/1.jpg",
+   "bio": "Is lijsttrekker van Lokaal Eén en fractievoorzitter van De Lokale Partij in de gemeenteraad van Wijdemeren.",
+   "bron": "https://lokaaleen.nl/margriet-rademaker-en-edwin-gobbels-duo-lijsttrekkers-voor-lokaal-een/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Atie van de Beek",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/2.jpg",
+   "bio": "Is verpleegkundige en rTMS-technician in de geestelijke gezondheidszorg en begeleidt zorgmedewerkers in opleiding.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Patricia IJsbrandij-van Kerkhof",
+   "woonplaats": "Loosdrecht",
+   "foto": "lokaal-een/3.jpg",
+   "bio": "Is sinds 2018 raadslid en werkt als freelancer in de media en als coördinator bij het Fotomuseum Hilversum. Richt zich onder meer op leefomgeving, onderwijs, cultuur, recreatie en vitale dorpen en wijken.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Gert Zagt",
+   "woonplaats": "Loosdrecht",
+   "foto": "lokaal-een/4.jpg",
+   "bio": "Is al ruim 25 jaar politiek actief in Wijdemeren en woont in Loosdrecht.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Rob Docter",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/5.jpg",
+   "bio": null,
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Frits den Hartog",
+   "woonplaats": "Kortenhoef",
+   "foto": "lokaal-een/6.jpg",
+   "bio": "Is raadslid en interim-manager en richt zich op verkeersveiligheid, leefbaarheid en zorgvuldig omgaan met gemeenschapsgeld.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Rene Voigt",
+   "woonplaats": "Kortenhoef",
+   "foto": "lokaal-een/7.jpg",
+   "bio": "Is al ruim veertig jaar bekend in Kortenhoef, 's-Graveland en Ankeveen en ook actief in Nederhorst den Berg en Loosdrecht.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Sascha Barnstijn",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/8.jpg",
+   "bio": "Is ondernemer en geboren en getogen in Hilversum.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Latif Zaabat",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/9.jpg",
+   "bio": "Is sinds 2022 raadslid, momenteel als zelfstandige fractie, en manager van een eigen adviesbureau.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Diego Degives Mas",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/10.jpg",
+   "bio": "Is medeoprichter van Democraten Hilversum en sinds 2024 raadslid, eerder commissielid. Houdt zich bezig met gemeentefinanciën, economie en duurzaamheid.",
+   "bron": "https://lokaaleen.nl/kandidaten/",
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Lucas Bosch",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "Pieter Doets",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Maire van der Meulen",
+   "woonplaats": "Loosdrecht",
+   "foto": "lokaal-een/13.jpg",
+   "bio": "Is secretaris van het bestuur van Lokaal Eén.",
+   "bron": "https://lokaaleen.nl/over-ons/",
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Dingeman Goossen",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Michael Kulkens",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 16,
+   "naam": "Nico van Zanten",
+   "woonplaats": "'s-Graveland",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Tim Kliphuis",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 18,
+   "naam": "Ben Steenvoorden",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 19,
+   "naam": "Carolien Jansson",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/19.jpg",
+   "bio": "Is voorzitter van het bestuur van Lokaal Eén.",
+   "bron": "https://lokaaleen.nl/over-ons/",
+   "linkedin": "https://www.linkedin.com/in/carolienjansson/"
+  },
+  {
+   "nr": 20,
+   "naam": "Jan Stolker",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 21,
+   "naam": "Lide Nuissl-Wendt",
+   "woonplaats": "'s-Graveland",
+   "foto": "lokaal-een/21.jpg",
+   "bio": "Is penningmeester van het bestuur van Lokaal Eén.",
+   "bron": "https://lokaaleen.nl/over-ons/",
+   "linkedin": null
+  },
+  {
+   "nr": 22,
+   "naam": "Krijn Spaan",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 23,
+   "naam": "Lilian Heijdra",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 24,
+   "naam": "Barry van de Bunt",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 25,
+   "naam": "Joes Meens",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 26,
+   "naam": "Jan Verdegaal",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 27,
+   "naam": "Kees Zeldenrijk",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 28,
+   "naam": "Willem Jaap Davelaar",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 29,
+   "naam": "Hellen Rotteveel",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 30,
+   "naam": "Patrice van Ee-Lamme",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 31,
+   "naam": "Wilma Snel",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 32,
+   "naam": "Edwin Göbbels",
+   "woonplaats": "Hilversum",
+   "foto": "lokaal-een/32.jpg",
+   "bio": "Is wethouder in Hilversum namens Democraten Hilversum, waarvan hij grondlegger is, en lijstduwer van Lokaal Eén.",
+   "bron": "https://lokaaleen.nl/wijziging-kandidatenlijst-lokaal-een/",
+   "linkedin": null
+  }
+ ],
+ "sp": [
+  {
+   "nr": 1,
+   "naam": "Paul Vonk",
+   "woonplaats": "Hilversum",
+   "foto": "sp/1.jpg",
+   "bio": "Lijsttrekker en fractievoorzitter van de SP in de Hilversumse gemeenteraad, waar hij sinds 2022 zit; daarvoor commissielid. Hij staat voor de klas op de Violenschool.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Joep Meddens",
+   "woonplaats": "Hilversum",
+   "foto": "sp/2.jpg",
+   "bio": "Raadslid voor de SP sinds januari 2026 en eerder van 2006 tot 2014. Hij werkt als civiel advocaat.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Amy Scholte",
+   "woonplaats": "Hilversum",
+   "foto": "sp/3.jpg",
+   "bio": "Studeert aan de Universiteit van Amsterdam. Zet zich in voor huisvesting voor jongvolwassenen, gelijke kansen voor kinderen en gehoor voor de dorpen in de nieuwe gemeente.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Eduard Grob",
+   "woonplaats": "Hilversum",
+   "foto": "sp/4.jpg",
+   "bio": "Commissielid voor de SP. Zet zich in voor beter openbaar vervoer tussen Hilversum en de dorpen en voor een gemeente die dichter bij bewoners staat.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Leanne Kiksen van Moock",
+   "woonplaats": "Hilversum",
+   "foto": "sp/5.jpg",
+   "bio": "Commissielid voor de SP-fractie. Richt zich op een toegankelijke gemeente met goede fietsroutes en wil dat de gemeente de banden verbreekt met organisaties die betrokken zijn bij mensenrechtenschendingen.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Sajid Siddiqui",
+   "woonplaats": "Hilversum",
+   "foto": "sp/6.jpg",
+   "bio": "Sinds eind 2025 actief voor de SP en met een achtergrond in de ICT. Wil dat de gemeente veilig omgaat met inwonersgegevens en regels maakt voor het gebruik van AI.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Saskia Hoenderkamp",
+   "woonplaats": "Hilversum",
+   "foto": "sp/7.jpg",
+   "bio": "Commissielid voor de SP en docent Nederlands voor nieuwkomers. Vindt dat er beter naar jongeren geluisterd moet worden.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Fendi ten Hoeve",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "sp/8.jpg",
+   "bio": "Groeide op in Nederhorst den Berg en woont daar sinds 2001 weer. Zet zich in voor openbare scholen dichtbij en beter openbaar vervoer vanuit de dorpen naar Hilversum.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Gregory Dunker",
+   "woonplaats": "Hilversum",
+   "foto": "sp/9.jpg",
+   "bio": "Commissielid voor de SP. Zet zich in voor volwaardige deelname van mensen met een beperking en kreeg in 2019 met de SP een voorstel voor inclusie aangenomen.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Wolter Raes",
+   "woonplaats": "Hilversum",
+   "foto": "sp/10.jpg",
+   "bio": "Voorzitter van SP Hilversum. Hij groeide deels op in Kortenhoef en 's-Graveland en vroeg al op jonge leeftijd om opvangplekken voor mensen zonder woonplek.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Nienke Muller",
+   "woonplaats": "Hilversum",
+   "foto": "sp/11.jpg",
+   "bio": null,
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "Yael van Bleijswijk",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "sp/12.jpg",
+   "bio": null,
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Karin Kuiper",
+   "woonplaats": "Hilversum",
+   "foto": "sp/13.jpg",
+   "bio": "SP-kandidaat die zich inzet voor steun aan mensen met een kleiner budget, met een beperking of met woonproblemen.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Kay Demir",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Stef Graafsma",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 16,
+   "naam": "Els Visser",
+   "woonplaats": "Hilversum",
+   "foto": "sp/16.jpg",
+   "bio": null,
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Ysbrand van Dijk",
+   "woonplaats": "Hilversum",
+   "foto": "sp/17.jpg",
+   "bio": "Organisatiesecretaris van SP Hilversum en bibliothecaris bij de Universiteitsbibliotheek van de UvA. Wil zich inzetten voor leefbare buurten, betaalbaar winkelaanbod en de veiligheid van fietsers en voetgangers.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 18,
+   "naam": "Rien Schraagen",
+   "woonplaats": "Hilversum",
+   "foto": "sp/18.jpg",
+   "bio": null,
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 19,
+   "naam": "Serge Walta",
+   "woonplaats": "Hilversum",
+   "foto": "sp/19.jpg",
+   "bio": "Ziet een scheve verdeling van de welvaart als oorzaak van veel onrecht en vindt dat mensen met de breedste schouders de zwaarste lasten moeten dragen.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 20,
+   "naam": "Mees Langendoen",
+   "woonplaats": "Hilversum",
+   "foto": "sp/20.jpg",
+   "bio": "Vindt dat de economie voor iedereen moet werken en ziet een woning als een recht, niet als een beleggingsobject.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 21,
+   "naam": "Julius de Wit",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Wil leegstaande gebouwen en kantoren gebruiken tegen de woningnood, meer geld voor zorg (ook geestelijke gezondheidszorg) en beter openbaar vervoer tussen Hilversum en de dorpen.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 22,
+   "naam": "Noa Glastra van Loon",
+   "woonplaats": "Hilversum",
+   "foto": "sp/22.jpg",
+   "bio": null,
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 23,
+   "naam": "Ronald Portier",
+   "woonplaats": "Hilversum",
+   "foto": "sp/23.jpg",
+   "bio": "Was jarenlang SP-raadslid in Dordrecht en daar lijsttrekker in 2014 en 2022. Wil in Hilversum de leegstand aanpakken om woningen te bieden aan onder meer jongeren en daklozen.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 24,
+   "naam": "Arjo Klamer",
+   "woonplaats": "Hilversum",
+   "foto": "sp/24.jpg",
+   "bio": "Hoogleraar Economie van Kunst en Cultuur aan de Erasmus Universiteit Rotterdam. Was van 2014 tot 2017 SP-wethouder in Hilversum, onder meer voor Sociale Zaken, Participatie, Werkgelegenheid en Wijken.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 25,
+   "naam": "Bianca Verweij",
+   "woonplaats": "Hilversum",
+   "foto": "sp/25.jpg",
+   "bio": "Lijstduwer en bestuurslid van SP Hilversum. Zat van 2011 tot begin 2026 in de Hilversumse gemeenteraad, een tijd als fractievoorzitter, en werkt nu als re-integratie- en zorgconsulent.",
+   "bron": "https://hilversum.sp.nl/nieuws/onze-kandidaten",
+   "linkedin": null
+  }
+ ],
+ "christenunie": [
+  {
+   "nr": 1,
+   "naam": "Bas Nanninga",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/1.jpg",
+   "bio": "Is gemeenteraadslid en fractievoorzitter van de ChristenUnie in Hilversum, met de portefeuilles bestuur, organisatie, veiligheid en ruimtelijke ordening.",
+   "bron": "https://hilversum.christenunie.nl/mensen/bas-nanninga/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Marjan Pronk-Ligthart",
+   "woonplaats": "Loosdrecht",
+   "foto": "christenunie/2.jpg",
+   "bio": "Is raadslid in Wijdemeren en draait vooruitlopend op de fusie al mee in Hilversum.",
+   "bron": "https://hilversum.christenunie.nl/mensen/marjan-pronk-ligthart/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Marijke Hildering-Spoelstra",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/3.jpg",
+   "bio": "Is commissielid voor het sociaal domein.",
+   "bron": "https://hilversum.christenunie.nl/mensen/marijke-hildering/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Rolina Grasmeijer-Bronsema",
+   "woonplaats": "Kortenhoef",
+   "foto": "christenunie/4.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/rolina-grasmeijer/",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Bryan van Wagtendonk",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/5.jpg",
+   "bio": "Is commissielid en lid van de audit- en rekeningencommissie.",
+   "bron": "https://hilversum.christenunie.nl/mensen/bryan-van-wagtendonk/",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Marian van Popta",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/6.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/marian-van-popta/",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Reinoud Fleurke",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/7.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/reinoud-fleurke/",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Gerard Plaggenmarsch",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/8.jpg",
+   "bio": "Is commissielid voor duurzaamheid en bereikbaarheid.",
+   "bron": "https://hilversum.christenunie.nl/mensen/gerard-plaggenmarsch/",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Wahid Roezi",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/9.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/wahid-roezi/",
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Esther Luijer-van Rooijen",
+   "woonplaats": "Kortenhoef",
+   "foto": "christenunie/10.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/esther-luijer/",
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Gerjanne Heek",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/11.jpg",
+   "bio": "Werkt als communicatiemedewerker.",
+   "bron": "https://hilversum.christenunie.nl/mensen/gerjanne-heek/",
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "Bert ter Stege",
+   "woonplaats": "Kortenhoef",
+   "foto": "christenunie/12.jpg",
+   "bio": "Is voorzitter van de ChristenUnie-afdeling Wijdemeren en beoogd voorzitter per 1 januari 2027.",
+   "bron": "https://hilversum.christenunie.nl/mensen/bert-ter-stege/",
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Hetty Schouten van de Velden",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/13.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/hetty-schouten-van-de-velden/",
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "Bianca van der Horst-Hamming",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/14.jpg",
+   "bio": "Richt zich op een gemeente waarin alle kernen ertoe doen en alle inwoners zich gezien, gehoord en veilig voelen.",
+   "bron": "https://hilversum.christenunie.nl/mensen/bianca-van-der-horst-hamming/",
+   "linkedin": null
+  },
+  {
+   "nr": 15,
+   "naam": "Tamara Verhoeff-Moll",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/15.jpg",
+   "bio": "Richt zich op een leefbaar, toekomstbestendig en groen Hilversum, onder meer met voldoende groen in de wijk.",
+   "bron": "https://hilversum.christenunie.nl/mensen/tamara-verhoeff-moll/",
+   "linkedin": null
+  },
+  {
+   "nr": 16,
+   "naam": "Reinier Goedhart",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/16.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/reinier-goedhart/",
+   "linkedin": null
+  },
+  {
+   "nr": 17,
+   "naam": "Ursula Hopman-van Zaanen",
+   "woonplaats": "Kortenhoef",
+   "foto": "christenunie/17.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/ursula-hopman/",
+   "linkedin": null
+  },
+  {
+   "nr": 18,
+   "naam": "Bert Burema",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/18.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/bert-burema/",
+   "linkedin": null
+  },
+  {
+   "nr": 19,
+   "naam": "Gerdien Potters-Blijdorp",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/19.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/gerdien-potters/",
+   "linkedin": null
+  },
+  {
+   "nr": 20,
+   "naam": "Tjitske Volkerink",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/20.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/tjitske-volkerink/",
+   "linkedin": null
+  },
+  {
+   "nr": 21,
+   "naam": "Elzbeth Oomen",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/21.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/elzbeth-oomen/",
+   "linkedin": null
+  },
+  {
+   "nr": 22,
+   "naam": "Egbert IJmker",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/22.jpg",
+   "bio": "Is penningmeester van het bestuur van ChristenUnie Hilversum en richt zich op watersport en waterrecreatie.",
+   "bron": "https://hilversum.christenunie.nl/mensen/egbert-ijmker/",
+   "linkedin": null
+  },
+  {
+   "nr": 23,
+   "naam": "Jan de Wit",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/23.jpg",
+   "bio": "Richt zich op wonen, klimaat en economie.",
+   "bron": "https://hilversum.christenunie.nl/mensen/jan-de-wit/",
+   "linkedin": null
+  },
+  {
+   "nr": 24,
+   "naam": "Aafke Vreugdenhil-de Blecourt",
+   "woonplaats": "Hilversum",
+   "foto": "christenunie/24.jpg",
+   "bio": "Is algemeen bestuurslid van ChristenUnie Hilversum; haar bestuurstermijn loopt af per 1 januari 2027.",
+   "bron": "https://hilversum.christenunie.nl/mensen/aafke-vreugdenhil-de-blecourt/",
+   "linkedin": null
+  },
+  {
+   "nr": 25,
+   "naam": "Esther Kaper-Hartenberg",
+   "woonplaats": "Kortenhoef",
+   "foto": "christenunie/25.jpg",
+   "bio": null,
+   "bron": "https://hilversum.christenunie.nl/mensen/esther-kaper-hartenberg/",
+   "linkedin": null
+  }
+ ],
+ "bvnl": [
+  {
+   "nr": 1,
+   "naam": "Joost van Beers",
+   "woonplaats": "Hilversum",
+   "foto": "bvnl/1.jpg",
+   "bio": "Joost van Beers is lijsttrekker van BVNL Hilversum en komt uit de Bloemenbuurt.",
+   "bron": "https://www.gezamenlijkbelang.nl/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/joostvanbeers/"
+  },
+  {
+   "nr": 2,
+   "naam": "Niels Cornelissen",
+   "woonplaats": "Hilversum",
+   "foto": "bvnl/2.jpg",
+   "bio": "Niels Cornelissen studeerde geschiedenis en komt uit de Bloemenbuurt.",
+   "bron": "https://www.gezamenlijkbelang.nl/kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Gustave Bonhomme",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Romy Bakker",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Michael Verhulst",
+   "woonplaats": "Breukelen",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Johannes Bruins",
+   "woonplaats": "Bussum",
+   "foto": "bvnl/6.jpg",
+   "bio": "Bruins woont in Bussum en is accountmanager en consultant. Bij BVCM helpt hij ondernemers met hun liquiditeit en werkkapitaal.",
+   "bron": "https://www.gezamenlijkbelang.nl/kandidaten",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Wybren van Haga",
+   "woonplaats": "Haarlem",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ],
+ "scb": [
+  {
+   "nr": 1,
+   "naam": "Haidar al Ibrahim",
+   "woonplaats": "Hilversum",
+   "foto": "scb/1.jpg",
+   "bio": "Haidar al Ibrahim is voorzitter en oprichter van de SCB en gemeenteraadslid in Hilversum.",
+   "bron": "https://www.scb.nl/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Hassan al Seraf",
+   "woonplaats": "Hilversum",
+   "foto": "scb/2.jpg",
+   "bio": "Hassan al Seraf is campagnecoördinator van de SCB.",
+   "bron": "https://www.scb.nl/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Fatima Tribak",
+   "woonplaats": "Drachten",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ],
+ "gewoon-hilversum": [
+  {
+   "nr": 1,
+   "naam": "Regie Redmeijer",
+   "woonplaats": "Hilversum",
+   "foto": "gewoon-hilversum/1.jpg",
+   "bio": "Lijsttrekker van Gewoon, Hilversum. Zet in op eerlijke en open politiek, waarin inwoners vanaf het begin bij plannen worden betrokken.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Collin Majoor",
+   "woonplaats": "Hilversum",
+   "foto": "gewoon-hilversum/2.jpg",
+   "bio": "Is afgestudeerd in de politicologie en heeft drie jaar ervaring als commissielid. Richt zich op herstel van vertrouwen tussen inwoners en politiek en op het betrekken van jongeren.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Haitske van de Linde",
+   "woonplaats": "Hilversum",
+   "foto": "gewoon-hilversum/3.jpg",
+   "bio": "Zet zich in voor een open en transparante overheid en voor inwonersparticipatie, waarbij inwoners en ondernemers vanaf het begin kunnen meedenken.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Gert-Jan van Nispen",
+   "woonplaats": "Hilversum",
+   "foto": "gewoon-hilversum/4.jpg",
+   "bio": "Commissielid en kandidaat van Gewoon, Hilversum. Was eerder bode bij de gemeente Hilversum en werkt nu als sleutelspecialist.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Naomi van Nispen",
+   "woonplaats": "Hilversum",
+   "foto": "gewoon-hilversum/5.jpg",
+   "bio": "Is nieuw in de lokale politiek en zet zich in voor verstaanbare politiek en meer verbinding tussen inwoners, wijken en dorpen.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Diana Bolding",
+   "woonplaats": "Kortenhoef",
+   "foto": "gewoon-hilversum/6.jpg",
+   "bio": "Heeft in haar werk ervaring met begeleiden en coachen. Zet zich in voor veiligheid, ruimte voor jongeren om zichzelf te zijn en behoud van het dorpskarakter.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Atty van der Meer",
+   "woonplaats": "Hilversum",
+   "foto": "gewoon-hilversum/7.jpg",
+   "bio": "Bestuurslid en lijstduwer van Gewoon, Hilversum.",
+   "bron": "https://www.gewoonhilversum.nl/onze-mensen",
+   "linkedin": null
+  }
+ ],
+ "dorp-voor-dorp": [
+  {
+   "nr": 1,
+   "naam": "Diederick Volkers",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "dorp-voor-dorp/1.jpg",
+   "bio": "Is oprichter van Dorp voor Dorp en werkt als zelfstandig ondernemer; eerder werkte hij onder meer in de media, het laboratorium, de bloemisterij en het onderwijs. Hij pleit voor dorpsraden in Nieuw-Hilversum.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Reinout Reuderink",
+   "woonplaats": "Loosdrecht",
+   "foto": "dorp-voor-dorp/2.jpg",
+   "bio": "Is ingenieur en werkt als zzp'er in pensioenadministratiesystemen. Hij stelt zich verkiesbaar na de gang van zaken rond de noodopvang in Loosdrecht en wil meer ruimte voor bouwen, ondernemers en dorps- en wijkraden.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Sil Kok",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Tanya Koopmanschap",
+   "woonplaats": "Loosdrecht",
+   "foto": "dorp-voor-dorp/4.jpg",
+   "bio": "Werkte 14 jaar bij de politie en is nu fraudeonderzoeker. Ze richt zich op veiligheid en leefbaarheid.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Patrick Holtkamp",
+   "woonplaats": "Loosdrecht",
+   "foto": "dorp-voor-dorp/5.jpg",
+   "bio": "Werkt in een functie waarin leefbaarheid en bewonerscontact centraal staan. Hij zet zich in voor prettig wonen, veiligheid en participatie, met oog voor de eigenheid van de dorpen en wijken.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Jan Hermsen",
+   "woonplaats": "Kortenhoef",
+   "foto": "dorp-voor-dorp/6.jpg",
+   "bio": "Is zelfstandig ondernemer en komt op voor ondernemers en het landelijk gebied, met balans tussen landbouw, recreatie en natuurbeheer. Hij is tegen de voorgenomen windmolens en wil onnodige regels voor ondernemers schrappen.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Abdugapir Sarmanov",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "dorp-voor-dorp/7.jpg",
+   "bio": "Zet zich in voor toegankelijke zorg, aanpak van overlast en dorps- en buurtraden met een eigen budget.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Coby van de Wouw-Spaargaren",
+   "woonplaats": "Loosdrecht",
+   "foto": "dorp-voor-dorp/8.jpg",
+   "bio": "Stelt zich verkiesbaar na de samenvoeging van Wijdemeren met Hilversum. Ze richt zich op bestaanszekerheid, betaalbaar wonen en de druk op ondernemers.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Cindy Bouwer",
+   "woonplaats": "Kortenhoef",
+   "foto": "dorp-voor-dorp/9.jpg",
+   "bio": "Is opgegroeid in de Horstermeer en woont in Wijdemeren. Ze wil zich vooral inzetten voor de komst van een Techniekcampus Gooi & Vecht.",
+   "bron": "https://www.dorpvoordorp.nl/kandidatenlijst",
+   "linkedin": null
+  }
+ ],
+ "stop-betaald-parkeren-vip": [
+  {
+   "nr": 1,
+   "naam": "Gerke Kleinsmit",
+   "woonplaats": "Hilversum",
+   "foto": "stop-betaald-parkeren-vip/1.jpg",
+   "bio": "Is bestuurslid van de partij. Zijn aandachtsgebied op de lijst is inwoners en lokale betrokkenheid.",
+   "bron": "https://viphilversum.nl/kandidaten.php",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Jan-Ernst van Driel",
+   "woonplaats": "Loosdrecht",
+   "foto": "stop-betaald-parkeren-vip/2.jpg",
+   "bio": "Zijn aandachtsgebied op de lijst is dorpen en betrokken bestuur.",
+   "bron": "https://viphilversum.nl/kandidaten.php",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Albert Veer",
+   "woonplaats": "Hilversum",
+   "foto": "stop-betaald-parkeren-vip/3.jpg",
+   "bio": "Is secretaris van het partijbestuur. Zijn aandachtsgebied op de lijst is organisatie en inwonersinvloed.",
+   "bron": "https://viphilversum.nl/kandidaten.php",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Joke Kok",
+   "woonplaats": "Ankeveen",
+   "foto": "stop-betaald-parkeren-vip/4.jpg",
+   "bio": "Richt zich op ondernemers en op de betrokkenheid van de dorpen.",
+   "bron": "https://viphilversum.nl/kandidaten.php",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Richard Delforno",
+   "woonplaats": "Hilversum",
+   "foto": "stop-betaald-parkeren-vip/5.jpg",
+   "bio": "Zijn aandachtsgebied op de lijst is sport.",
+   "bron": "https://viphilversum.nl/kandidaten.php",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Menno van der Klein",
+   "woonplaats": "Hilversum",
+   "foto": "stop-betaald-parkeren-vip/6.jpg",
+   "bio": "Is bestuurslid van de partij en aanspreekpunt voor pers en media. Zijn aandachtsgebied op de lijst is weerbaarheid en veiligheid.",
+   "bron": "https://viphilversum.nl/kandidaten.php",
+   "linkedin": null
+  }
+ ],
+ "opstand-nu": [
+  {
+   "nr": 1,
+   "naam": "Joop Lahaise",
+   "woonplaats": "Hilversum",
+   "foto": "opstand-nu/1.jpg",
+   "bio": "Lijsttrekker van OpStand.nu en fractievoorzitter in de Hilversumse gemeenteraad, waar hij sinds eind 2022 raadslid is. Eerder was hij raadslid voor de PvdA in Hilversum en deelraadslid in Amsterdam-Centrum.",
+   "bron": "https://opstand.nu/joop-lahaise/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Henriëtte Bijl-Postuma",
+   "woonplaats": "Hilversum",
+   "foto": "opstand-nu/2.jpg",
+   "bio": "Commissielid voor OpStand.nu in de commissie Zorg en Welzijn, benoemd op 1 juli 2026. Werkte eerder bij een internationale vakbond en non-profitorganisaties, was raadslid in Apeldoorn en commissielid voor Hilversums Belang; richt zich op armoedebestrijding.",
+   "bron": "https://opstand.nu/henriette-bijl/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Emma Borstlap",
+   "woonplaats": "Hilversum",
+   "foto": "opstand-nu/3.jpg",
+   "bio": "Commissiewoordvoerder voor OpStand.nu, benoemd op 8 oktober 2026. Werkte ongeveer twintig jaar in het forensische werkveld, onder meer bij de reclassering, en houdt zich bezig met criminaliteit, veiligheid en jeugdzorg.",
+   "bron": "https://opstand.nu/emma-borstlap/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Sabine van Hest",
+   "woonplaats": "Hilversum",
+   "foto": "opstand-nu/4.jpg",
+   "bio": "Leerkracht en leescoördinator in Hilversum, met een achtergrond in boekhandel, bibliotheekwezen en personeelszaken. Zet zich voor OpStand.nu in voor betaalbaar wonen, meer groen en inspraak van inwoners.",
+   "bron": "https://opstand.nu/sabine-van-hest-lijst-14-nr-4/",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Remco Roeters",
+   "woonplaats": "Hilversum",
+   "foto": "opstand-nu/5.jpg",
+   "bio": "Commissielid voor OpStand.nu sinds 1 juli 2026, met cultuur en broedplaatsen als aandachtsgebied. Mediatechnicus met jarenlange ervaring in de mediabranche; maakte van 2014 tot 2016 televisieprogramma's onder de titel Politiek Café Hilversum.",
+   "bron": "https://opstand.nu/remco-roeters/",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Berna Fennis",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Henk Blok",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Wopke Postuma",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Iris Drenth",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Leo Kerkhoff",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ],
+ "pvdd": [
+  {
+   "nr": 1,
+   "naam": "Jojanneke Vanderveen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": "Jojanneke Vanderveen is lijsttrekker van de Partij voor de Dieren, die voor het eerst meedoet aan de verkiezingen in Hilversum en Wijdemeren. Zij werkt voor de samenwerkende natuur- en milieuorganisaties in Den Haag.",
+   "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/370039/-verkiezingen-partij-voor-de-dieren-doet-mee-aan-gemeenteraadsverkiezingen-in-hilversum",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Anne Mulder",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "John Ricker",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Pam de Sterke",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Nynke van Miltenburg",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Harry Poko van den Berg",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Amanda Vrakking",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Yvonne Heselmans",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "André Leliveld",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Rebecca Bouhuijs",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Ilona Hartensveld",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ],
+ "blanco-van-oostveen": [
+  {
+   "nr": 1,
+   "naam": "Jacqueline van Oostveen",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ],
+ "lfd": [
+  {
+   "nr": 1,
+   "naam": "Frederique Durlacher",
+   "woonplaats": "Hilversum",
+   "foto": "lfd/1.jpg",
+   "bio": "Is sinds 2022 raadslid in Hilversum en fractievoorzitter van LFD, de lijst die zij oprichtte. Won in 2022 de publieksprijs Politicus van het Jaar Hilversum en schreef als eenpitter een eigen tegenbegroting.",
+   "bron": "https://stemlfd.nl/onze-mensen/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Walda van Ginhoven",
+   "woonplaats": "Nederhorst den Berg",
+   "foto": "lfd/2.jpg",
+   "bio": "Woont in Nederhorst den Berg en werkt in Kortenhoef. Wil als kandidaat van LFD de blik vanuit de dorpen van Wijdemeren inbrengen.",
+   "bron": "https://stemlfd.nl/walda-van-ginhoven/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Mirella Besemer",
+   "woonplaats": "Hilversum",
+   "foto": "lfd/3.jpg",
+   "bio": "Is commissielid voor LFD en werkt als office manager en in customer care and service. Woont in Hilversum.",
+   "bron": "https://stemlfd.nl/mirella-besemer/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Marline Williams",
+   "woonplaats": "Amsterdam",
+   "foto": "lfd/4.jpg",
+   "bio": "Is lijstduwer van LFD en werkt als trainer, coach en actrice, met communicatie als rode draad.",
+   "bron": "https://stemlfd.nl/marline-williams/",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Hester Bais",
+   "woonplaats": "Amersfoort",
+   "foto": "lfd/5.jpg",
+   "bio": "Is lijstduwer van LFD. Is advocaat, econoom en financieel expert, werkte jarenlang in de financiële wereld en zette zich als advocaat in voor ondernemers tegenover banken.",
+   "bron": "https://stemlfd.nl/hester-bais/",
+   "linkedin": null
+  }
+ ],
+ "volt": [
+  {
+   "nr": 1,
+   "naam": "Leonie Kok",
+   "woonplaats": "Loosdrecht",
+   "foto": "volt/1.jpg",
+   "bio": "Leonie Kok is lijsttrekker van Volt Hilversum-Wijdemeren. Ze werkte eerder als advocaat en daarna onder meer voor Civocracy.org, een online platform dat burgers bij de politiek betrekt.",
+   "bron": "https://voltnederland.org/noord-holland/mensen/leonie-kok",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Edwin de Haan",
+   "woonplaats": "Kortenhoef",
+   "foto": "volt/2.jpg",
+   "bio": "Edwin de Haan is consultant en voorzitter van Energiecoöperatie Kerkelanden. Hij was eerder penningmeester van Energiecoöperatie Wijdemeren en richt zich op de lokale energietransitie.",
+   "bron": "https://voltnederland.org/noord-holland/mensen/edwin-de-haan",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Leonie Weel",
+   "woonplaats": "Hilversum",
+   "foto": "volt/3.jpg",
+   "bio": "Leonie Weel is ontwerper bij Interrail en woont sinds 2009 in Hilversum. Ze richt zich op verkeersveiligheid, parkeren en bereikbaarheid in het centrum en op toegankelijke digitale dienstverlening van de gemeente.",
+   "bron": "https://voltnederland.org/noord-holland/mensen/leonie-weel",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "René la Rivière",
+   "woonplaats": "Hilversum",
+   "foto": "volt/4.jpg",
+   "bio": null,
+   "bron": "https://voltnederland.org/noord-holland/mensen/rene-la-riviere",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Annette Keates",
+   "woonplaats": "Hilversum",
+   "foto": "volt/5.jpg",
+   "bio": "Annette Keates is adviseur en programmamanager met ruim tien jaar ervaring in beleidsterreinen als armoedebestrijding, schuldhulpverlening, arbeidsmarkt en innovatie. Ze zet zich in voor gratis fietsstalling bij het station en meer groen.",
+   "bron": "https://voltnederland.org/noord-holland/mensen/annette-keates",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Arjen Pels Rijcken",
+   "woonplaats": "Hilversum",
+   "foto": "volt/6.jpg",
+   "bio": "Arjen Pels Rijcken is ondernemer in cultuur en projectontwikkeling, onder meer met de ombouw van een schuilkerk in Delft tot cultuurtempel. Hij werkte eerder voor ABN AMRO en studeerde bedrijfskunde.",
+   "bron": "https://voltnederland.org/noord-holland/mensen/arjen-pels-rijcken",
+   "linkedin": null
+  }
+ ],
+ "fvd": [
+  {
+   "nr": 1,
+   "naam": "Willem Joustra",
+   "woonplaats": "Hilversum",
+   "foto": "fvd/1.jpg",
+   "bio": "Lijsttrekker van FVD Hilversum en Wijdemeren; kent het onderwijs en het bedrijfsleven en wil dat de gemeente de eigen geschiedenis en identiteit van de kernen en de stad respecteert.",
+   "bron": "https://fvd.nl/gemeentes/hilversum",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Anita Leeuwin",
+   "woonplaats": "Hilversum",
+   "foto": "fvd/2.jpg",
+   "bio": "Richt zich op jeugd, zorg en ouderen, met minder bureaucratie en kortere lijnen in de gemeente.",
+   "bron": "https://fvd.nl/gemeentes/hilversum",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Bart Engelberts",
+   "woonplaats": "Kortenhoef",
+   "foto": "fvd/3.jpg",
+   "bio": "Werkte jaren in sales en ICT en richt zich op immigratiebeleid; stapte naar voren naar aanleiding van de gemeentefusie en de noodopvang.",
+   "bron": "https://fvd.nl/gemeentes/hilversum",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Sem Lambeck",
+   "woonplaats": "Hilversum",
+   "foto": "fvd/4.jpg",
+   "bio": "Is landmachtofficier en heeft altijd in en rond het Gooi gewoond.",
+   "bron": "https://fvd.nl/gemeentes/hilversum",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Charlotte Hanenburg",
+   "woonplaats": "Hilversum",
+   "foto": "fvd/5.jpg",
+   "bio": "Wil leerkracht in het basisonderwijs worden en kijkt vanuit de belangen en veiligheid van kinderen. Vindt dat de stem terug moet naar de burgers.",
+   "bron": "https://fvd.nl/gemeentes/hilversum",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Rolf van Kluijve",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Yvonne van Beijsterveldt",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Annelies Westerveld",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Marrit Prins",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Karin Stuivenberg",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Maurice Fonhof",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 12,
+   "naam": "André van Huisstede",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 13,
+   "naam": "Stefan Simons",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 14,
+   "naam": "John Dankers",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ],
+ "bbb": [
+  {
+   "nr": 1,
+   "naam": "Stijn Visee",
+   "woonplaats": "Kortenhoef",
+   "foto": "bbb/1.jpg",
+   "bio": "Woont in Kortenhoef en is daar bestuurssecretaris van de scoutingvereniging. Hij werkt voor BBB in Noord-Holland en Utrecht en ondersteunt de Provinciale Statenfracties.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/stijn-visee/",
+   "linkedin": null
+  },
+  {
+   "nr": 2,
+   "naam": "Freek van der Helm",
+   "woonplaats": "Hilversum",
+   "foto": "bbb/2.jpg",
+   "bio": "Werd na functies in het bedrijfsleven en studies bedrijfs- en algemene economie gemeenteambtenaar. Hij zet zich in voor huisvesting voor eigen inwoners en jongeren en voor behoud van natuur, landschap en agrarisch gebied.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/freek-van-der-helm/",
+   "linkedin": null
+  },
+  {
+   "nr": 3,
+   "naam": "Ilona Azar-de Vlieger",
+   "woonplaats": "Hilversum",
+   "foto": "bbb/3.jpg",
+   "bio": "Werkt als HR-adviseur bij Aedes, vereniging van woningcorporaties, met ruim 35 jaar ervaring in het vak. Ze was eerder lokaal bestuurslid van een politieke partij in Zeeland.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/ilona-azar-de-vlieger/",
+   "linkedin": null
+  },
+  {
+   "nr": 4,
+   "naam": "Jack Snijders",
+   "woonplaats": "Hilversum",
+   "foto": "bbb/4.jpg",
+   "bio": "Is adviseur security voor het bedrijfsleven en werkte 15 jaar bij de politie en zes jaar als adviseur beveiliging bij de gemeente Amsterdam. Hij zet zich in voor woonbaarheid voor alle leeftijdsgroepen.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/jack-snijders/",
+   "linkedin": null
+  },
+  {
+   "nr": 5,
+   "naam": "Maurice Huisman",
+   "woonplaats": "Loosdrecht",
+   "foto": "bbb/5.jpg",
+   "bio": "Werkte 44 jaar bij de gemeente Amsterdam en was bestuurder bij sportverenigingen en een stichting. Hij is niet eerder politiek actief geweest.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/maurice-huisman/",
+   "linkedin": null
+  },
+  {
+   "nr": 6,
+   "naam": "Marijke Mur",
+   "woonplaats": "Kortenhoef",
+   "foto": "bbb/6.jpg",
+   "bio": "Werkt al 25 jaar als accountant en is bestuurslid van stichting Blok Kortenhoef. Ze zet zich in voor mensen en ondernemers in het buitengebied en voor passend onderwijs.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/marijke-mur/",
+   "linkedin": null
+  },
+  {
+   "nr": 7,
+   "naam": "Hetty Kastelein-Beaujon",
+   "woonplaats": "Loosdrecht",
+   "foto": "bbb/7.jpg",
+   "bio": "Was tot 2023 sociaal makelaar voor de gemeente Wijdemeren en runt een imkerij. Ze zit sinds 2024 in de Adviesraad voor de WMO in Wijdemeren en was eerder zes jaar raadslid voor het CDA.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/hetty-kastelein-beaujon/",
+   "linkedin": null
+  },
+  {
+   "nr": 8,
+   "naam": "Astrid Wels",
+   "woonplaats": "Hilversum",
+   "foto": "bbb/8.jpg",
+   "bio": "Werkt al ruim 38 jaar in het gevangeniswezen. Ze zet zich in voor de stem van jongeren, voor woningen voor jongeren en voor leefbaarheid, zoals parkeerbeleid en lokale evenementen.",
+   "bron": "https://bbb-hilversum.nl/kandidatenlijst/astrid-wels/",
+   "linkedin": null
+  },
+  {
+   "nr": 9,
+   "naam": "Lydia van den Berg",
+   "woonplaats": "Hilversum",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 10,
+   "naam": "Ineke de Groot",
+   "woonplaats": "Loosdrecht",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  },
+  {
+   "nr": 11,
+   "naam": "Mijndert Mur",
+   "woonplaats": "Kortenhoef",
+   "foto": null,
+   "bio": null,
+   "bron": null,
+   "linkedin": null
+  }
+ ]
+}

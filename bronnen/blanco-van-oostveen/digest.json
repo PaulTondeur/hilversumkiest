@@ -1,0 +1,238 @@
+{
+  "slug": "blanco-van-oostveen",
+  "kernboodschap": "Dit is een eenpersoonslijst zonder verkiezingsprogramma of website; er zijn alleen antwoorden op stellingen van Stemgids Hilversum, die redactioneel zijn samengesteld en niet door de partij zijn gecontroleerd. Op basis daarvan zet de lijst zich af tegen uitbreiding van betaald parkeren, hoogbouw en grote bouwprojecten, aardgasvrij in 2050, kernenergie en windmolens bij dorpen. Ze pleit voor beperking van woonlasten, meer geld voor cultuur, een referendum over grote besluiten en meer inspraak.",
+  "speerpunten": [
+    "Uitbreiding van betaald parkeren herzien en bezoekers gratis laten parkeren",
+    "Woonlasten niet harder laten stijgen dan de inflatie",
+    "Geen hoogbouw boven de bestaande grens en geen 'megabouwprojecten'",
+    "Starterslening via een revolverend fonds",
+    "Meer geld voor kunst en cultuur",
+    "Referendum over grote besluiten"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "starterslening",
+        "standpunt": "Voor een starterslening voor alle leeftijden met een laag inkomen, bij voorkeur via een revolverend fonds, ook voor kleine leningen voor de eigen bijdrage.",
+        "citaat": "Ook kleine leningen voor de eigen bijdrage die mensen moeten doen (tot €10.000) zouden wenselijk zijn.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang statushouders sociale huur",
+        "standpunt": "Tegen voorrang voor statushouders bij sociale huur; zij moeten net als anderen op hun beurt wachten, gezien het aantal spoedzoekers, urgenten en dak- en thuislozen.",
+        "citaat": "Gewoon net als ieder ander wachten tot je aan de beurt bent.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bouwen tot 25 meter, centrum Meent",
+        "standpunt": "Tegen uitzonderingen op de hoogtegrens (tot 25 meter, zoals bij het centrum van de Meent); ziet grote bouwprojecten niet als noodzakelijk.",
+        "citaat": "Al die megabouwprojecten zijn helemaal niet nodig.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kantoren ombouwen tot woningen",
+        "standpunt": "Voor ombouw van kantoren en bedrijfsruimte tot woningen alleen als elders ruimte voor werk bijkomt; wil behoud van bedrijfs- en maatschappelijke bestemmingen en meer gemengd wonen en werken.",
+        "citaat": "Behoud van maatschappelijke en bedrijfsbestemmingen is belangrijk.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren",
+        "standpunt": "Wil de uitbreiding van betaald parkeren naar meer wijken herzien en zo nodig terugdraaien; maatschappelijke winst gaat voor financiële winst.",
+        "citaat": "Qua parkeerbeleid staat maatschappelijke winst voorop niet financiele winst.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gratis bezoekersparkeren",
+        "standpunt": "Voor gratis parkeren voor bezoek van bewoners in wijken met betaald parkeren.",
+        "citaat": "Maar dat het bezoek moet betalen is natuurlijk de reinste onzin.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zero-emissiezone centrum",
+        "standpunt": "Tegen een zero-emissiezone voor bestel- en vrachtauto's in het centrum, om redenen van haalbaarheid (eenrichtingsverkeer) en gevolgen voor ondernemers.",
+        "citaat": "Dit is niet wenselijk en helemaal niet haalbaar immers is er zoveel eenrichtingsverkeer dat je vaak door het centrum heen moet om ergens te komen.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "30 km/u dorpsstraten",
+        "standpunt": "Steunt 30 km/u op drukke dorpsstraten, maar per situatie bekeken en in overleg met inwoners, met een pakket aan maatregelen in plaats van vaste regels.",
+        "citaat": "Geen vaste regels maar een pakket aan maatregelen waarbij je kan inzetten wat op die plek het beste lijkt in overleg met inwoners en gebruikers.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "kleine kerncentrale",
+        "standpunt": "Tegen kernenergie in Hilversum; wil wel onderzoek naar andere, natuurvriendelijker vormen van opwekking en opslag (water, zon).",
+        "citaat": "Geen kernenergie in Hilversum: de gevolgen zijn te groot en niet te overzien.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "windmolens bij dorpen",
+        "standpunt": "Voor verzet tegen grote windmolens bij de dorpen (zoals Nederhorst den Berg) vanwege aantasting van het landschap.",
+        "citaat": "Windmolens zijn een aantasting van het landschap.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "aardgasvrij 2050",
+        "standpunt": "Tegen een plan om alle gebouwen in 2050 van het aardgas af te halen; wil meerdere energiebronnen naast elkaar, ongeveer half-half.",
+        "citaat": "Onzin om alles van het gas af te halen; half-half zou ik zeggen.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "groen in groenarme buurten",
+        "standpunt": "Voor een verbod op verdwijnen van openbaar groen in groenarme buurten, met actief beleid om groen toe te voegen.",
+        "citaat": "Juist waar weinig groen is moet actief groen beleid ingezet worden en oplossingen bedacht om meer groen toe te voegen.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "recreatie en natuurbescherming",
+        "standpunt": "Voor dat vrij wandelen en recreëren in natuurgebieden even zwaar weegt als natuurbescherming; wil meer speelplekken en picknicktafels.",
+        "citaat": "De natuur is geen museum waar je in mag lopen maar verder niks; wij zijn ook natuur.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "jeugdzorg",
+        "standpunt": "Tegen miljoenenbezuinigingen op jeugdzorg, maar wil wel bekijken of de ingezette middelen de juiste keuze zijn.",
+        "citaat": "Je mag niet bezuinigen op jeugdzorg maar je kan wel kijken naar de middelen die worden ingezet of dat de juiste keuze is of dat andere hulp beter is.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "subsidie wijkcentra",
+        "standpunt": "Voor een basissubsidie van vijf jaar voor wijk- en buurtcentra, met een jaarlijks evaluatiemoment op locatie.",
+        "citaat": "Een basissubsidie met een jaarlijks evaluatiemoment op locatie zou echt een meerwaarde opleveren voor deze initiatieven.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "Camera's mogen blijven maar niet uitgebreid worden; wil met bewoners en ondernemers kijken of locaties verplaatst kunnen worden, bijvoorbeeld naar verkeersonveilige plekken.",
+        "citaat": "Het mag blijven maar zeker niet meer worden",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "asielopvang zonder Spreidingswet",
+        "standpunt": "Voor blijvende opvang van asielzoekers, maar pas nadat de basis voor inwoners op orde is; aantal, doelgroepen en locaties samen bepalen, en opvang betekent niet automatisch een eigen huis in de regio.",
+        "citaat": "Opvang betekent niet automatisch ook een eigen huis in de regio.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "zondagsopening winkels",
+        "standpunt": "Voor ruimere zondagsopening, naar keuze van de ondernemer; noemt 10.00 tot 20.00 uur redelijk en gratis openbaar vervoer als aanvulling.",
+        "citaat": "Tussen 10.00 en 20.00 zou redelijk zijn immers is de zondag vaak de enige dag dat men naar de stad kan met het gezin.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Bruisend Hart Oosterspoorplein",
+        "standpunt": "Tegen het plan Bruisend Hart zoals vastgesteld; wil terug naar de oorspronkelijke visie uit het eerdere participatietraject.",
+        "citaat": "Terug naar de tekentafel vanuit de oorspronkelijke visie.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Kerkbrink",
+        "standpunt": "Voor een soberdere en goedkopere herinrichting van de Kerkbrink: groen, bankjes, ruimte voor kleine evenementen en doorgang voor de fiets.",
+        "citaat": "Terwijl de oplossing simpel is en niet duur: flink wat groen toevoegen, wat bankjes voor ontmoeting en ruimte voor kleine evenementen & ook doorgang voor de fiets behouden.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "geld voor kunst en cultuur",
+        "standpunt": "Voor meer geld voor kunst en cultuur, met een eerlijke verdeling tussen structurele en projectmatige steun en steun aan cultuureducatie, -participatie, -innovatie en -beleving.",
+        "citaat": "Allereerst moet er een eerlijke verdeling komen tussen structurele ondersteuning en projectmatige ondersteuning.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "referendum",
+        "standpunt": "Voor een referendum (of ander medium) over grote besluiten met veel geld of grote invloed op de gemeente.",
+        "citaat": "belangrijke beslissingen waar veel geld mee gemoeid is of die een grote invloed hebben op de gemeente zijn goed in een referendum of ander medium te gieten",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "leges kleine dorpsevenementen",
+        "standpunt": "Voor het schrappen van leges voor kleine evenementen, in dorpen en ook in Hilversum; zo niet, dan betalen uit buurtbudgetten.",
+        "citaat": "Mocht men vast willen houden aan leges die betaald moeten worden dan zouden deze wellicht betaald kunnen worden uit de buurtbudgetten waar alle wijken recht op hebben.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "woonlasten (OZB, afval, riool)",
+        "standpunt": "Voor beperking van de woonlasten tot de inflatie; liever nog geen stijging van de OZB.",
+        "citaat": "Het liefste zou ik willen voorstellen dat de OZB komende tijd helemaal niet stijgt immers kun je van kale kippen niet plukken.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ]
+  },
+  "opvallend": [
+    "Tegen voorrang voor statushouders bij sociale huur, met als argument het aantal spoedzoekers, urgenten en dak- en thuislozen",
+    "Wil dat de uitbreiding van betaald parkeren wordt herzien en zo nodig teruggedraaid",
+    "Tegen een plan voor aardgasvrij in 2050; wil gas en stroom naast elkaar houden"
+  ],
+  "dun": [
+    "Geen eigen programma of website: het materiaal beperkt zich tot antwoorden op 24 stemgidsstellingen, redactioneel samengesteld en niet door de lijst gecontroleerd",
+    "Niet vastgelegd: aantallen woningen, sociale huur, fiets en OV, drugs en handhaving, ondernemers en Mediapark, onderwijs en sport, fusie en loketten, reserves en bezuinigingen",
+    "Citaten komen uit de toelichting bij stellingen; ze zijn geen programmateksten"
+  ]
+}

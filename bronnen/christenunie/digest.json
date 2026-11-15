@@ -1,0 +1,1311 @@
+{
+  "slug": "christenunie",
+  "kernboodschap": "De ChristenUnie Hilversum/Wijdemeren presenteert een programma voor de nieuwe gemeente Hilversum (inclusief de dorpen van Wijdemeren), vanuit een christelijke rentmeesterschaps- en barmhartigheidsvisie. De accenten liggen op kinderen en kwetsbare inwoners, een betaalbaar huis, groen en een klimaatneutrale en circulaire gemeente, lopen, fietsen en OV vóór de auto, en een betrouwbare overheid met een behoudende financiële koers.",
+  "speerpunten": [
+    "Toekomst voor kinderen en jongeren: stabiele gezinnen, preventie en jeugdhulp dicht bij school",
+    "Zorg voor wie het niet vanzelf gaat: eenzaamheid, armoede en schulden (sociaal incasseren, schuldhulp binnen twee weken)",
+    "Betaalbaar huis voor jong en oud: bouwen in alle prijsklassen, verdichten en hoogte in bij OV-knooppunten, voorrang voor jongeren",
+    "Groen en circulair: 3-30-300-norm, klimaatneutraal en circulair Hilversum uiterlijk 2050, warmtenet en isolatie",
+    "Bereikbaarheid volgens STOMP: 30 km/u als norm, fietsagenda en betere busverbindingen, betaald parkeren alleen met draagvlak",
+    "Betrouwbare, open overheid: dorpsbudgetten, right to challenge, fysiek loket",
+    "Veilige en weerbare samenleving: aanpak van drank, drugs, gokken, ondermijning en mensenhandel",
+    "Financieel gezond: schuldquote maximaal 130% en geen risicovolle investeringen"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "woningbouwlocaties",
+        "standpunt": "Wil per jaar voldoende woningen bouwen op verschillende plekken, te beginnen met de grootste ontwikkellocaties Stationsgebied, Bruisend Hart van Oost en Sportpark.",
+        "citaat": "Te beginnen met de grootste ontwikkellocaties: Stationsgebied, Bruisend Hart van Oost en Sportpark.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verdichten bij OV-knooppunten / Arenapark",
+        "standpunt": "Wil maximaal verdichten rond OV-knooppunten en daarvoor lagere parkeernormen op het Sportpark (Arenapark), om de ontwikkeling financieel haalbaar te maken.",
+        "citaat": "We willen maximaal verdichten rondom de OV-knooppunten. Daarom willen we naar lagere parkeernormen voor locaties als het Sportpark (Arenapark) om dit financieel haalbaar te maken.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hoogbouw",
+        "standpunt": "Accepteert soms bouwen in de hoogte, zodat er ruimte blijft voor groen, ontmoeting en spelen; noemt hoogte vooral bij OV-knooppunten.",
+        "citaat": "Soms moeten we daarvoor de hoogte in, zodat er ruimte blijft voor groen, ontmoeting en spelen.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "verdichten in plaats van de hei op",
+        "standpunt": "Kiest voor verdichten en hoger bouwen met als bedoeld gevolg dat er niet op de hei gebouwd hoeft te worden.",
+        "citaat": "Verdichten en de hoogte in, dan hoeven we niet de hei op",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bouwen buiten de bebouwde kom",
+        "standpunt": "Wil woningbouw buiten de bebouwde kom mogelijk maken, onder voorwaarde dat het in de omgeving past en niet ten koste gaat van natuur.",
+        "citaat": "Woningbouw buiten de bebouwde willen we mogelijk maken, zolang het past in de omgeving en niet ten koste gaat van natuur.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Sportpark/Arenapark",
+        "standpunt": "De gemeente gaat actief met partijen op het Sportpark (Arenapark) om tafel om zo snel mogelijk anterieure overeenkomsten voor woningbouw te sluiten.",
+        "citaat": "gaat de gemeente actief met partijen in het Sportpark (Arenapark) om tafel, om te kijken hoe we zo snel mogelijk tot anterieure overeenkomsten kunnen komen voor woningbouwontwikkeling.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Philipsterrein, Werf35, Geuzenpark",
+        "standpunt": "Wil de ontwikkeling van deze binnenstedelijke locaties versnellen door te onderzoeken waar de grootste belemmeringen zitten en die weg te nemen.",
+        "citaat": "We willen de ontwikkeling van kansrijke binnenstedelijke locaties als Philipsterrein, Werf35, Geuzenpark, versnellen door te onderzoeken waar zich de grootste belemmeringen bevinden en deze waar mogelijk wegnemen.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verdeling sociaal/midden/duur",
+        "standpunt": "Hanteert tot er een woonvisie is de landelijk afgesproken verdeling 30% sociaal, 36% middensegment en 34% duur, waarvan minimaal twee derde betaalbaar; bouwt in alle prijsklassen.",
+        "citaat": "Bouwen doen we in alle prijsklassen. Totdat de woonvisie gereed is, kiezen we voor de landelijk afgesproken verdeling: 30% sociaal/goedkoop, 36% middensegment en 34% duur, waarvan minimaal 2/3 deel betaalbaar.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "woonvisie nieuwe gemeente",
+        "standpunt": "Wil een actuele woonvisie voor de nieuwe gemeente die per wijk en dorp bepaalt welk type woningen nodig is en hoe doorstroming wordt gestimuleerd.",
+        "citaat": "We willen een actuele woonvisie voor de nieuwe gemeente Hilversum. Hiermee bepalen we per wijk en dorp aan welke type woningen de grootste behoefte is",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "splitsen en transformeren",
+        "standpunt": "Stimuleert splitsen van woningen, ombouwen van leegstaande gebouwen en wonen boven winkels, mits dit de leefbaarheid niet schaadt.",
+        "citaat": "We stimuleren het splitsen van woningen, ombouwen van leegstaande gebouwen en wonen boven winkels, mits dit niet ten koste gaat van de leefbaarheid.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang jongeren sociale huur",
+        "standpunt": "Wil een deel van de nieuwe en vrijkomende sociale huurwoningen reserveren voor jongeren tot 27 jaar.",
+        "citaat": "een deel van de te bouwen en vrijkomende sociale huurwoningen reserveren voor jongeren tot 27 jaar.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang eigen dorp",
+        "standpunt": "Onderzoekt of jongeren voorrang kunnen krijgen op een woning in hun eigen dorp als ze dat willen.",
+        "citaat": "Daarbij onderzoeken we of het mogelijk is om jongeren voorrang te geven op een woning in hun eigen dorp als ze dat willen.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "starters",
+        "standpunt": "Wil starters ruimte geven op de woningmarkt, bijvoorbeeld met een starterslening.",
+        "citaat": "Hilversum zet zich in om starters ruimte te geven op de woningmarkt, bijvoorbeeld met een starterslening.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "doorstroming senioren",
+        "standpunt": "Wil senioren die dat willen stimuleren te verhuizen met een seniorenwooncoach en een financiële regeling (huurgewenning of verhuispremie), en voldoende kleinere ouderenwoningen.",
+        "citaat": "Met behulp van een senioren-wooncoach en een financiële regeling (huurgewenning of verhuispremie) worden senioren gestimuleerd om - indien gewenst - te verhuizen naar een beter passende woning.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tijdelijke huisvesting",
+        "standpunt": "Wil op meer locaties bouwen voor tijdelijke huisvesting van statushouders, starters en mensen die plotseling op straat komen te staan; ook flexwoningen voor acute woonbehoefte.",
+        "citaat": "De ChristenUnie wil op meer locaties bouwen voor 'tijdelijke huisvesting' van bijzondere groepen als statushouders, starters en inwoners die plotseling op straat komen te staan.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "STOMP-principe",
+        "standpunt": "Hanteert STOMP als leidraad: eerst lopen, dan fietsen, dan OV en deelmobiliteit, en pas daarna de personenauto.",
+        "citaat": "eerst Stappen, dan Trappen, vervolgens Openbaar vervoer en deelmobiliteit, en pas daarna de Personenauto.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "30 km/u als norm",
+        "standpunt": "Wil binnen de bebouwde kom 30 km/u als maximumsnelheid, behalve op verbindingswegen; waar inrichting nog niet kan komen tijdelijke snelheidsbeperkende maatregelen.",
+        "citaat": "De maximumsnelheid binnen de bebouwde kom wordt 30 kilometer per uur, met uitzondering van verbindingswegen.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verkeersslachtoffers",
+        "standpunt": "Streeft naar minimaal 50 procent minder verkeersslachtoffers in 2030 ten opzichte van 2022.",
+        "citaat": "Wij zetten in op minimaal 50 procent minder verkeersslachtoffers in 2030 ten opzichte van 2022.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "snorfietsen naar de rijbaan",
+        "standpunt": "Wil al het gemotoriseerde verkeer, inclusief snorfietsen, bromscooters en snelle fietsen, naar de rijbaan verplaatsen.",
+        "citaat": "Al het gemotoriseerde verkeer, inclusief snorfietsen, bromscooters en snelle fietsen, verhuist naar de rijbaan",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Centrumring",
+        "standpunt": "Wil de centrumring veel minder als verbindingsweg voor auto- en vrachtverkeer gebruiken en de snelheid zo snel mogelijk naar maximaal 30 km/u brengen.",
+        "citaat": "We willen de centrumring veel minder gaan gebruiken als verbindingsweg voor auto- en vrachtverkeer. De snelheid gaat zo snel mogelijk naar maximaal 30 km/u.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Vaartweg en Havenstraat",
+        "standpunt": "Wil de Vaartweg en Havenstraat inrichten als 30 km-straten met meer ruimte voor voetgangers en fietsers.",
+        "citaat": "De Vaartweg en Havenstraat worden ingericht als 30 km straten met meer ruimte voor voetgangers en fietsers.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Schapenkamp / St. Vituspark",
+        "standpunt": "Wil onderzoeken of de Schapenkamp een stadspark (St. Vituspark) kan worden, waarbij de bereikbaarheid van het centrum vanuit het zuiden via het Achterom of de Emmastraat gegarandeerd blijft.",
+        "citaat": "Schapenkamp tussen de Prins Bernardlaan en Emmastraat een 'St. Vituspark' te maken. De bereikbaarheid van het centrum vanuit het zuiden blijft gegarandeerd via het Achterom",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "fietsagenda",
+        "standpunt": "Wil een fietsagenda voor Hilversum Fietsgemeente in 2030, met eigen budget en programmaorganisatie.",
+        "citaat": "ambitieuze fietsagenda gericht op 'Hilversum Fietsgemeente' in 2030; met een eigen budget en programmaorganisatie.",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fiets voorrang op rotondes",
+        "standpunt": "Wil dat de fiets op rotondes binnen de bebouwde kom en bij kruisingen met hoofdfietspaden eenduidig voorrang krijgt, ook bij de rotonde voor het Gooiland Theater.",
+        "citaat": "Op rotondes binnen de bebouwde kom en bij kruisingen met hoofdfietspaden moet de fiets eenduidig voorrang krijgen.",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "OV-plan en kosten reiziger",
+        "standpunt": "Wil met de provincie een plan om het busvervoer te verbeteren en de kosten voor de reiziger drastisch te verlagen, als onderdeel van de nieuwe OV-concessie vanaf 2031.",
+        "citaat": "In overleg met de provincie willen we komen tot een plan voor verbetering van het OV - met name busvervoer - en de kosten voor de reiziger drastisch te verlagen.",
+        "bron": "programma",
+        "pagina": 45,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "OV-abonnement bus en trein",
+        "standpunt": "Wil dat OV-abonnementen in de hele regio geldig zijn in zowel bus als trein, ongeacht de vervoerder; de gemeente gaat hiervoor lobbyen.",
+        "citaat": "OV-abonnementen moeten in de hele regio geldig zijn in zowel bus als trein, ongeacht de vervoerder.",
+        "bron": "programma",
+        "pagina": 45,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "betaald parkeren: tempo en draagvlak",
+        "standpunt": "Vindt dat de uitbreiding van betaald parkeren in 2025 te snel ging; wil verdere uitbreiding alleen na afstemming met bewoners en waar parkeerproblemen zijn of ontstaan.",
+        "citaat": "De uitbreiding van het betaald parkeren in 2025 ging te snel en met te weinig betrokkenheid van inwoners.",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaald parkeren in woonbuurten",
+        "standpunt": "Wil uitbreiding van betaald parkeren in woonbuurten alleen bij voldoende draagvlak van bewoners en in logische, aaneengesloten gebieden; voorwaarden en tarieven zoveel mogelijk harmoniseren.",
+        "citaat": "Uitbreiding van betaald parkeren in woonbuurten gebeurt alleen bij voldoende draagvlak van bewoners en alleen in logische, aaneengesloten gebieden.",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaald parkeren in de dorpen",
+        "standpunt": "Ziet geen noodzaak om in de dorpen rond Hilversum betaald parkeren in te voeren.",
+        "citaat": "In de dorpen om Hilversum heen zien we geen noodzaak om betaald parkeren in te voeren.",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "opbrengst betaald parkeren",
+        "standpunt": "Wil dat de opbrengst van betaald parkeren niet naar de algemene middelen gaat maar uitsluitend naar de kwaliteit van de openbare ruimte en mobiliteit.",
+        "citaat": "De opbrengst uit betaald parkeren mag niet gebruikt worden voor dekking van algemene middelen.",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "aantal parkeervergunningen",
+        "standpunt": "Wil dat er nooit meer parkeervergunningen worden verleend dan er beschikbare parkeerplaatsen zijn.",
+        "citaat": "Het aantal te verlenen parkeervergunningen mag nooit meer zijn dan de beschikbare parkeerplaatsen.",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vergroende parkeerplaats eigen terrein",
+        "standpunt": "Wil dat bewoners in betaald-parkeergebied die hun parkeerplaats op eigen terrein vergroenen van de POET-lijst gaan en recht krijgen op een vergunning voor hun eerste auto.",
+        "citaat": "Als parkeerplaatsen op eigen terrein door inwoners worden vergroend, gaan deze adressen van de POET-lijst af en krijgen bewoners in betaald parkeren gebied recht op een parkeervergunning voor hun eerste auto.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeren aan de rand / P+R",
+        "standpunt": "Wil onderzoeken of er meer plekken aan de rand van Hilversum en bij OV-knooppunten kunnen komen om over te stappen op kleinschalig OV of deelvervoer; bij het Sportpark bij voorkeur bovengronds.",
+        "citaat": "De ChristenUnie wil dat de gemeente gaat onderzoeken of er meer plekken aan de rand van Hilversum en op OV-knooppunten kunnen komen waar mensen hun auto kunnen parkeren om over te stappen",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "laadpalen",
+        "standpunt": "Wil zoveel laadpalen dat er voor elke drie tot vijf elektrische auto's een laadpaal binnen 300 meter is; wijken zonder eigen oprit krijgen voorrang.",
+        "citaat": "dat voor elke drie tot vijf elektrische auto's een laadpaal",
+        "bron": "programma",
+        "pagina": 46,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fietsenstalling in autogarages",
+        "standpunt": "Wil in het centrum en rond de stations meer fietsenstallingen, bijvoorbeeld door een deel van de autoparkeergarages om te bouwen.",
+        "citaat": "bijvoorbeeld door een gedeelte van de autoparkeergarages om te bouwen tot fietsenstalling.",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "concreet"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "van fossiele brandstoffen af",
+        "standpunt": "Wil zo snel mogelijk af van verbranding van olie, gas, kolen en hout, met de gemeente als regisseur van een betaalbare lokale energietransitie.",
+        "citaat": "Wij willen zo snel mogelijk af van de verbranding van olie, gas, kolen en hout",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "warmtenet",
+        "standpunt": "Kiest met wijken en buurten die er klaar voor zijn voor een collectief warmtenet zonder aardgas; in 2030 moet per wijk bekend zijn welke oplossingen er zijn.",
+        "citaat": "Tegelijk maken we met de wijken en buurten die er klaar voor zijn de overstap naar een collectief warmtenet zonder aardgas.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "publiek warmtebedrijf",
+        "standpunt": "Wil de oprichting van een gemeentelijk, publiek warmtebedrijf onderzoeken, met inwoners vertegenwoordigd in een afnemersraad.",
+        "citaat": "We onderzoeken de kansen voor de oprichting van een gemeentelijk, publiek warmtebedrijf voor de investering en exploitatie van de te realiseren warmte-infrastructuur.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "energiecoöperaties",
+        "standpunt": "Steunt energiecoöperaties zoals Energie Coöperatie Wijdemeren en HilverZon met menskracht en financiële garantstelling.",
+        "citaat": "De gemeente ondersteunt waar nodig met menskracht en financiële garantstelling.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zonne-energie",
+        "standpunt": "Wil de ruimte voor zonne-energie maximaal benutten, onder meer op grote daken van bedrijventerreinen, volgens de zonneladder.",
+        "citaat": "De ChristenUnie wil de ruimte die beschikbaar is voor de opwek van zonne-energie maximaal benutten.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "houtstook",
+        "standpunt": "Wil een verbod op binnen hout stoken bij code rood of oranje van de Stookwijzer, handhaving bij structurele ernstige overlast en tegengaan van houtstook bij nieuwbouw.",
+        "citaat": "stoken wanneer de website Stookwijzer.nu een code rood of oranje aangeeft. Daarnaast willen we handhaving bij structurele ernstige overlast.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "isolatie: waar eerst",
+        "standpunt": "Geeft prioriteit aan de slechtst geïsoleerde woningen, met energiecoaches en een renteloze lening voor eigenaren met een kleine beurs.",
+        "citaat": "We leggen de prioriteit bij de slechtst geïsoleerde woningen, omdat daar de snelste winst is te behalen.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Hilversumse Isolatie Programma",
+        "standpunt": "Wil het HIP-subsidieprogramma beschikbaar maken voor alle Hilversummers, ongeacht postcode en jaar van isoleren.",
+        "citaat": "wordt uitgebreid door het beschikbaar te maken voor alle Hilversummers, ongeacht je postcode en het jaar van isoleren.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Cv-ketelbank",
+        "standpunt": "Wil het Energiedienstenbedrijf Gooi en Vechtstreek uitbreiden met een Cv-ketelbank voor hergebruik van ketels.",
+        "citaat": "Het Energiedienstenbedrijf Gooi en Vechtstreek wordt uitgebreid met een Cv-ketelbank.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "CO2-schaduwprijs",
+        "standpunt": "Wil vanaf 2028 bij alle inkoop- en investeringsbeslissingen een interne CO2-schaduwprijs van 1.000 euro per ton hanteren.",
+        "citaat": "wordt vanaf 2028 bij alle inkoop- en investeringsbeslissingen van de gemeenten een interne CO 2 -schaduwprijs meegenomen van € 1.000 per ton CO 2 eq.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "klimaatneutraal en circulair",
+        "standpunt": "Wil een duurzaamheidsbeleid met als streven een klimaatneutraal en circulair Hilversum uiterlijk in 2050.",
+        "citaat": "we streven naar een klimaatneutraal en circulair Hilversum uiterlijk in 2050.",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afvalstoffenheffing",
+        "standpunt": "Wil korting op de afvalstoffenheffing voor huishoudens die weinig restafval inleveren.",
+        "citaat": "Daarom krijgen huishoudens die weinig restafval inleveren korting op de afvalstoffenheffing.",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "GAD-scheidingstation",
+        "standpunt": "Wil het GAD-scheidingstation beter bereikbaar maken en uitbreiden voor directe hergebruiksbestemming van materialen.",
+        "citaat": "Het GAD scheidingstation wordt uitgebreid waardoor meer materialen en producten direct een nieuwe hergebruiksbestemming kunnen krijgen",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ondergrondse gracht Minkelerstraat",
+        "standpunt": "Wil de investering van 20 miljoen euro voor een ondergrondse regenwatergracht onder de Minkelerstraat heroverwegen en het geld inzetten voor afkoppelen en waterberging, bijvoorbeeld in een Vituspark of de Beatrixtunnel.",
+        "citaat": "De ChristenUnie wil een heroverweging van de investering van € 20 mln voor een ondergrondse gracht voor de afvoer van regenwater onder de Minkelerstraat.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tegeltaxi",
+        "standpunt": "Wil een tegeltaxi waarmee de gemeente gewipte tegels ophaalt en laat recyclen.",
+        "citaat": "Er komt een tegeltaxi: de gemeente haalt alle gewipte tegels op en via de gemeentewerf worden die gerecycled.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "halfverharding parkeerplaatsen",
+        "standpunt": "Wil dat parkeerplaatsen standaard uit halfverharding bestaan zodat regenwater kan infiltreren.",
+        "citaat": "Parkeerplaatsen moeten standaard bestaan uit halfverharding zodat regenwater kan infiltreren.",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "concreet"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "3-30-300 groennorm",
+        "standpunt": "Hanteert de 3-30-300-norm voor nieuwbouw en bestaande wijken: drie bomen zichtbaar, 30% schaduw, een park binnen 300 meter.",
+        "citaat": "We zorgen voor voldoende groen en bomen waarbij we de 3-30-300 groennorm hanteren.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Programma Groen",
+        "standpunt": "Wil één Programma Groen voor de hele nieuwe gemeente, met meer inheemse soorten, meer bomen en bijenlandschappen.",
+        "citaat": "met meer inheemse soorten, een toename van het aantal bomen en realisatie van bijenlandschappen.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Schapenkamp / Vituspark",
+        "standpunt": "Wil serieus onderzoek naar omvorming van de Schapenkamp tussen Prins Bernardlaan en Emmastraat tot stadspark met waterberging (Vituspark).",
+        "citaat": "De gemeente moet serieus onderzoek doen naar de mogelijkheid om de Schapenkamp tussen Prins Bernardlaan en Emmastraat om te vormen tot stadspark met waterberging, het 'Vituspark'.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "velbeleid en bomenmonitor",
+        "standpunt": "Blijft het recent gewijzigde velbeleid kritisch monitoren en wil een gemeentelijke bomenmonitor zodat te volgen is of het bomenbestand toeneemt.",
+        "citaat": "Er moet ook een inzichtelijke gemeentelijke bomenmonitor komen, zodat transparant is te volgen of het bomenbestand ook daadwerkelijk toeneemt.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "steen door groen",
+        "standpunt": "Vervangt bij herinrichting van de openbare ruimte waar mogelijk steen door groen.",
+        "citaat": "Bij het herinrichten van de openbare ruimte vervangen we waar mogelijk steen door groen.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "natuurvriendelijke oevers",
+        "standpunt": "Maakt natuurvriendelijke oevers de norm en pakt alle gemeentelijke oevers geleidelijk zo aan.",
+        "citaat": "Natuurvriendelijke oevers worden de norm. Alle gemeentelijke oevers worden zo geleidelijk aangepakt.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "volkstuinen",
+        "standpunt": "Wil volkstuinen behouden, onder voorwaarde van biologisch telen zonder bestrijdingsmiddelen en zonder lozingen.",
+        "citaat": "Volkstuinen blijven behouden, dit is goed voor de gemeenschap en de biodiversiteit.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gifvrij beheer",
+        "standpunt": "Bestrijdt onkruid en plagen op natuurlijke wijze, zonder gif of bestrijdingsmiddelen.",
+        "citaat": "Onkruid en plagen worden op natuurlijke wijze bestreden, zonder gebruik van gif/bestrijdingsmiddelen.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "recreatie in natuurgebieden",
+        "standpunt": "Geeft lichte recreatie (wandelen, kanoën) de voorkeur boven intensieve vormen (mountainbiken, waterskiën, honden uitlaten) en wil kwetsbare natuur waar nodig afschermen.",
+        "citaat": "Lichte vormen van recreatie (bijvoorbeeld wandelen en kanoën) hebben de voorkeur boven intensievere vormen van recreatie, zoals mountainbiken, waterskiën en honden uitlaten.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gravel/MTB-route en uitlaatveldjes",
+        "standpunt": "Wil waar mogelijk speciale locaties aanwijzen voor intensieve activiteiten, zoals een gravel- en mountainbikeroute en uitlaatveldjes voor honden.",
+        "citaat": "Waar mogelijk wijzen we speciale locaties aan voor intensievere activiteiten, zoals bijvoorbeeld een gravel- en mountainbike-route of uitlaatveldjes voor honden.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Anna's Hoeve",
+        "standpunt": "Noemt Anna's Hoeve park als plek waar de speelweidevijver niet gescheiden is van het losloopgebied voor honden.",
+        "citaat": "Bijvoorbeeld in Anna’s Hoeve park waar de speelweidevijver niet gescheiden is van het losloopgebied voor honden.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "boeren: verbrede landbouw",
+        "standpunt": "Wil boeren meer ruimte geven voor verbrede landbouw en op hun erf een windmolen, extra woning, zorgvoorziening of landwinkel.",
+        "citaat": "ruimte te geven aan boeren om op hun erf een windmolen, extra woning, zorgvoorziening of landwinkel te realiseren.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "visie platteland",
+        "standpunt": "Wil samen met betrokkenen een visie op het platteland waarin natuur, landbouw, energie en recreatie samengaan.",
+        "citaat": "De gemeente ontwikkelt samen met betrokkenen een visie op de toekomst van het platteland en het samengaan van o.a. natuur, landbouw, energie en recreatie.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "pleziervaart",
+        "standpunt": "Wil meer openbare toiletten in het buitengebied en inzamelpunten voor vuilwatertanks voor de pleziervaart.",
+        "citaat": "Er komen meer openbare toiletten in het buitengebied en inzamelpunten voor vuilwatertanks voor de pleziervaart.",
+        "bron": "programma",
+        "pagina": 39,
+        "soort": "concreet"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "zorg dichtbij",
+        "standpunt": "Is groot voorstander van zorg die dichtbij, bereikbaar en op menselijke schaal is georganiseerd.",
+        "citaat": "De ChristenUnie is groot voorstander van zorg die dichtbij is georganiseerd, bereikbaar en op menselijke schaal.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "consultatiebureau Kortenhoef",
+        "standpunt": "Het consultatiebureau komt terug in Kortenhoef; de gemeente zoekt proactief een locatie.",
+        "citaat": "In Kortenhoef komt het consultatiebureau terug, waarbij de gemeente proactief zoekt naar een goede locatie.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inkoop jeugdhulp",
+        "standpunt": "Wil dat jeugdhulp niet alleen op prijs wordt ingekocht maar op noodzakelijke passende hulp van goede kwaliteit en maatwerk.",
+        "citaat": "Inkoop van jeugdhulp gebeurt niet alleen op prijs, maar vooral op basis van noodzakelijke passende hulp van goede kwaliteit en waar nodig maatwerk.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hulp op school en kinderopvang",
+        "standpunt": "Wil zorg en hulpverlening dicht bij kinderen organiseren, bijvoorbeeld op kinderopvang of school, en passend onderwijs en jeugdzorg ontschotten.",
+        "citaat": "Zorg en hulpverlening moet dichtbij kinderen worden georganiseerd, bijvoorbeeld op kinderopvang of scholen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gezinshuizen en pleegzorg",
+        "standpunt": "Wil investeren in gezinshuizen, pleeggezinnen en steungezinnen om uithuisplaatsingen en instellingsopvang terug te dringen.",
+        "citaat": "De ChristenUnie wil investeren in gezinshuizen, pleeggezinnen, steungezinnen om het aantal uithuisplaatsingen en opvang in instellingen terug te dringen",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "pgb",
+        "standpunt": "Wil dat het pgb mogelijk blijft, bekend is bij inwoners en eenvoudiger aan te vragen is, onder meer voor identiteitsgebonden zorg.",
+        "citaat": "De ChristenUnie wil dat het pgb-gebruik mogelijk blijft en dat inwoners die mogelijkheid kennen.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "eigen bijdrage",
+        "standpunt": "Wil dat een eigen bijdrage voor zorg of ondersteuning nooit tot zorgmijding leidt.",
+        "citaat": "Een eigen bijdrage voor zorg/ondersteuning mag nooit leiden tot zorgmijding.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Sociaal Plein en wachtlijst",
+        "standpunt": "Wil laagdrempelige toegang tot het Sociaal Plein en de buurtteams, fysiek en digitaal, zonder wachtlijst voor een eerste gesprek.",
+        "citaat": "Laagdrempelige toegang tot het Sociaal Plein en buurtteams. Zowel fysiek als digitaal. En geen wachtlijst voor een eerste gesprek.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "buurthuizen en jongerencentra",
+        "standpunt": "Wil sterk inzetten op buurthuizen als ontmoetingsplek en een jongerencentrum in elke wijk.",
+        "citaat": "In Hilversum sterk in te zetten op buurthuizen als centrale ontmoetingsplekken in de wijk. Een jongerencentrum in elke wijk.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kerken in de sociale structuur",
+        "standpunt": "Wil structureel overleg tussen kerken (diaconieën) en de gemeente om kerken een volwaardige plaats in de sociale structuur te geven.",
+        "citaat": "Er is structureel overleg tussen kerken (diaconieën) en de gemeente om kerken een volwaardige plaats te geven in de sociale structuur.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verward gedrag",
+        "standpunt": "Wil mensen met verward gedrag dichter bij huis ondersteunen, onder meer met 24/7 ambulante wijkzorg, inloophuizen en time-outvoorzieningen, zodat politiecellen zo veel mogelijk worden vermeden.",
+        "citaat": "zodat politiecellen zo veel mogelijk worden vermeden.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Wmo-taxi",
+        "standpunt": "Wil korte wachttijden voor de Wmo-taxi.",
+        "citaat": "Korte wachttijden voor de Wmo-taxi.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schuldhulp: wachttijd",
+        "standpunt": "Wil dat iemand na aanmelding binnen twee weken bij de schuldhulpverlening terecht kan.",
+        "citaat": "Na aanmelding moet iemand binnen twee weken bij de schuldhulpverlening terecht kunnen.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sociaal incasseren",
+        "standpunt": "Wil dat de gemeente sociaal incasseert, alleen samenwerkt met incassobureaus met het keurmerk sociaal incasseren, en gezinnen met kinderen niet uit huis zet.",
+        "citaat": "Gezinnen met kinderen worden niet uit hun woning gezet. Corporaties mogen zich niet als preferente schuldeiser opstellen.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fraude en bijstand",
+        "standpunt": "Wil mensen niet zomaar als fraudeur bestempelen op basis van vermoedens of algoritmen, maar stelt een duidelijke grens bij bewezen misbruik of niet willen werken.",
+        "citaat": "Wanneer mensen bewust en bewezen misbruik maken van regelingen, fraude plegen of niet willen werken, stellen we duidelijk een grens.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "coffeeshops",
+        "standpunt": "Wil geen nieuwe coffeeshops, geen vervanging van een verdwenen coffeeshop en waar mogelijk minder coffeeshops.",
+        "citaat": "Er komen geen nieuwe coffeeshops in Hilversum. Als een coffeeshop verdwijnt, komt er geen nieuwe voor terug. Waar mogelijk wordt het aantal coffeeshops verminderd.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "handhaving coffeeshops",
+        "standpunt": "Wil bij bestaande coffeeshops actief handhaven op landelijke criteria en op lokale afstandscriteria tot scholen en plekken waar veel jongeren komen.",
+        "citaat": "Bij bestaande coffeeshops wordt actief gehandhaafd op landelijke criteria en op lokale afstandscriteria tot scholen en andere plekken waar veel jongeren komen.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gemeentelijke wietteelt",
+        "standpunt": "Is tegen het zelf telen van wiet door gemeenten.",
+        "citaat": "De ChristenUnie is tegen het zelf telen van wiet door gemeenten.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "boa's: prioriteiten, niet meer",
+        "standpunt": "Wil zichtbare handhaving op plekken en tijden van overlast, niet in de eerste plaats meer handhavers.",
+        "citaat": "Het gaat niet in de eerste plaats om meer handhavers, maar om duidelijke prioriteiten en zichtbare handhaving op plekken en tijden waar inwoners onveiligheid of overlast ervaren.",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kleine overtredingen",
+        "standpunt": "Wil ook bij kleine overtredingen als foutparkeren en hondenpoep handhaven.",
+        "citaat": "Bij overtredingen moet worden gehandhaafd, zodat de grenzen duidelijk zijn. Dat geldt ook voor kleine overtredingen als: foutparkeren, hondenpoep laten slingeren of je niet houden aan de verkeersregels.",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "Wil cameratoezicht in het centrum laten bestaan waar het aantoonbaar bijdraagt en uitbreiding alleen terughoudend, bij overtuigend gevaar, met evaluatie.",
+        "citaat": "Cameratoezicht in het centrum blijft mogelijk waar het aantoonbaar bijdraagt aan veiligheid en binnen de wettelijke kaders past.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vuurwerk",
+        "standpunt": "Wil het vuurwerkverbod handhaven met communicatie vooraf en zichtbare handhaving op illegaal vuurwerk.",
+        "citaat": "Het vuurwerkverbod vraagt om duidelijke communicatie vooraf, zichtbare handhaving op illegaal vuurwerk en een veilige jaarwisseling",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitgaanscentrum",
+        "standpunt": "Geeft het uitgaanscentrum hoge prioriteit, met afspraken met horeca, politie, handhaving, ondernemers en omwonenden.",
+        "citaat": "Het uitgaanscentrum heeft hoge prioriteit.",
+        "bron": "programma",
+        "pagina": 53,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "natuurbranden",
+        "standpunt": "Geeft natuurbrandpreventie blijvend de hoogste prioriteit, met handhaving van het rookverbod op de hei en voldoende brandweermiddelen.",
+        "citaat": "Het voorkomen en bestrijden van natuurbranden heeft blijvend de hoogste prioriteit.",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "aanrijtijden en 30 km/u",
+        "standpunt": "Wil de gevolgen van meer 30 km/u-wegen voor aanrijtijden van hulpdiensten zorgvuldig meewegen en onderzoeken of extra voorzieningen of standplaatsen nodig zijn.",
+        "citaat": "Wanneer meer wegen een maximumsnelheid van 30 km/u krijgen, moet de impact hiervan op aanrijtijden zorgvuldig worden meegenomen.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "AED-netwerk",
+        "standpunt": "Wil een dekkend netwerk van 24 uur per dag toegankelijke AED's in alle wijken en dorpen.",
+        "citaat": "De ChristenUnie zet zich in voor een dekkend netwerk van 24 uur per dag toegankelijke AED’s",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "reclame in de openbare ruimte",
+        "standpunt": "Wil reclame die gokken, alcohol, roken, discriminatie, vreemdgaan of vrouwonvriendelijke beelden promoot zoveel mogelijk weren.",
+        "citaat": "Reclame die gokken, alcohol, roken, discriminatie, vreemdgaan of vrouwonvriendelijke beelden normaliseert of promoot, wordt zoveel mogelijk geweerd.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "seksinrichtingen",
+        "standpunt": "Wil geen nieuwe seksinrichtingen, met structurele controle en uitstapprogramma's.",
+        "citaat": "De ChristenUnie wil geen nieuwe seksinrichtingen.",
+        "bron": "programma",
+        "pagina": 58,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ondermijning en Bibob",
+        "standpunt": "Wil de Wet Bibob zo veel mogelijk en gericht inzetten en toezicht op recreatieparken en campings, inclusief registratie van gasten.",
+        "citaat": "De Wet Bibob wordt zo veel mogelijk en gericht ingezet om te voorkomen dat de gemeente onbedoeld criminele activiteiten faciliteert.",
+        "bron": "programma",
+        "pagina": 59,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "online verkoop aan jongeren",
+        "standpunt": "Wil optreden tegen online verkoop van alcohol, drugs en andere verslavende middelen aan jongeren via sociale media en berichtenapps.",
+        "citaat": "Hilversum treedt actief op tegen de online verkoop en verspreiding van alcohol, drugs en andere verslavende middelen onder jongeren",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "opvang asielzoekers en statushouders",
+        "standpunt": "Wil dat de gemeente verantwoordelijkheid neemt in de opvang van asielzoekers en statushouders, in afstemming met regiogemeenten.",
+        "citaat": "De ChristenUnie wil dat de gemeente verantwoordelijkheid neemt in de opvang van asielzoekers en statushouders, in goede afstemming met regiogemeenten.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schaal van de opvang",
+        "standpunt": "Wil voldoende opvang voor vluchtelingen, maar kleinschalig.",
+        "citaat": "Voldoende opvang voor vluchtelingen, maar dan wel kleinschalig.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "draagvlak en informatie",
+        "standpunt": "Wil inwoners tijdig informeren en aandacht voor draagvlak in de wijk bij opvang.",
+        "citaat": "Inwoners worden tijdig geïnformeerd en er is aandacht voor draagvlak in de wijk.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "spreiding statushouders",
+        "standpunt": "Wil het woningaanbod voor statushouders verspreiden over alle wijken en dorpskernen.",
+        "citaat": "Het woningaanbod voor statushouders verspreiden over alle wijken en dorpskernen",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inburgering en participatie",
+        "standpunt": "Wil snelle participatie en inburgering (taal, werkervaring, vrijwilligerswerk) met COA, Vluchtelingenwerk, kerken en andere organisaties.",
+        "citaat": "Daarnaast zet de gemeente in op snelle participatie en inburgering: taal leren, werkervaring opdoen, vrijwilligerswerk en meedoen in de samenleving.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "overlast",
+        "standpunt": "Noemt het voorkomen en aanpakken van overlast bij opvang belangrijk.",
+        "citaat": "Het voorkomen en aanpakken van overlast is belangrijk.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "arbeidsmigranten: inschrijving BRP",
+        "standpunt": "Stelt als voorwaarde dat arbeidsmigranten die langer dan vier maanden blijven zich inschrijven in de Basisregistratie Personen.",
+        "citaat": "arbeidsmigranten die langer dan vier maanden in Nederland verblijven, zich inschrijven in de Basisregistratie Personen.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "arbeidsmigranten: APV en controle",
+        "standpunt": "Wil regels in de APV over exploitatievergunning, overlast en aantal personen per woning, en regelmatige controle van huisvesting en arbeidsomstandigheden.",
+        "citaat": "Regels in onze gemeentelijke wetgeving (APV) over onder andere de exploitatievergunning en andere regels (overlast, het aantal personen per woning, enzovoort) rond het huisvesten van arbeidsmigranten.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "discriminatie en racisme",
+        "standpunt": "Wil structurele aandacht voor racisme en discriminatie, met gesprek met de samenleving en nadruk op jongeren.",
+        "citaat": "In Hilversum besteedt de gemeente structureel aandacht aan racisme en discriminatie",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "diversiteit in raad, college en ambtenaren",
+        "standpunt": "Wil aandacht voor diversiteit in leeftijd, gender, achtergrond en opleidingsniveau in raad, college en ambtelijke staf, en training intercultureel vakmanschap.",
+        "citaat": "Daarom is het goed om aandacht te hebben voor diversiteit binnen de gemeenteraad, het college en de ambtelijke staf",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ruimte voor geloofsgemeenschappen",
+        "standpunt": "Wil voldoende ruimte voor kerken en andere geloofsgemeenschappen om samen te komen.",
+        "citaat": "Er moet ook voldoende ruimte zijn voor kerken en andere geloofsgemeenschappen om samen te komen.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "zondag en winkelopening",
+        "standpunt": "Wil dat winkeliers niet gedwongen worden op zondag te openen en benoemt de zondag als collectief rustmoment.",
+        "citaat": "Winkeliers mogen niet gedwongen worden hun winkel op zondag te openen.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "winkelgebieden",
+        "standpunt": "Wil compacte, aantrekkelijke winkelgebieden met een divers aanbod en vindt kleine winkelcentra onmisbaar voor de leefbaarheid.",
+        "citaat": "We zetten in op compacte, aantrekkelijke winkelgebieden en letten op de leefbaarheid, sociale veiligheid en een divers aanbod.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "leegstaande winkelpanden naar woningen",
+        "standpunt": "Wil waar nodig leegstaande winkelpanden transformeren naar woningen, met behoud van voldoende kantoorruimte.",
+        "citaat": "Waar nodig transformeren we leegstaande winkelpanden naar woningen om de binnenstad leefbaar en bruisend te houden",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokaal inkopen",
+        "standpunt": "Wil inkoopbeleid dat extra kansen biedt aan lokale, regionale en sociale bedrijven.",
+        "citaat": "Inkoopbeleid dat extra kansen biedt aan lokale/regionale/sociale bedrijven om leverancier van de gemeente te worden en blijven.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "praktijkgeschoolde werkgelegenheid",
+        "standpunt": "Maakt werkgelegenheid voor praktijkgeschoolde inwoners een speerpunt voor alle sectoren, met het MBO-college Hilversum.",
+        "citaat": "Meer werkgelegenheid voor praktijkgeschoolde inwoners als speerpunt voor alle sectoren",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bedrijventerreinen",
+        "standpunt": "Wil tijdig herstructureren van bedrijventerreinen, met groene ruimtes, goede OV- en fietsontsluiting en aandacht voor leegstand en ondermijning.",
+        "citaat": "In Hilversum zetten we op tijd in op herstructurering van bedrijventerreinen.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "strakke projectbeheersing",
+        "standpunt": "Wil strakke projectbeheersing, realistische planning, transparante besluitvorming en onafhankelijke financiële controles bij gemeentelijke projecten.",
+        "citaat": "Daarom kiezen wij voor strakke projectbeheersing, realistische planning, transparante besluitvorming en onafhankelijke financiële controles.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "economie van het genoeg",
+        "standpunt": "Kiest voor een economie van het genoeg met brede welvaart en kijkt verder dan economische groei.",
+        "citaat": "We maken de transitie naar een economie van genoeg",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "toerisme en recreatie",
+        "standpunt": "Wil recreatie en toerisme intensiveren met duurzame recreatie en bescherming van de natuur.",
+        "citaat": "Recreatie en toerisme intensiveren, voor eigen inwoners en recreanten.",
+        "bron": "programma",
+        "pagina": 32,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "winkelcriminaliteit",
+        "standpunt": "Wil samenwerking tussen winkeliers, handhavers en politie tegen winkelcriminaliteit en overlast.",
+        "citaat": "We versterken de samenwerking tussen winkeliers, handhavers en politie om winkelcriminaliteit en overlast aan te pakken.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "innovatiefonds circulaire start-ups",
+        "standpunt": "Wil circulaire broedplaatsen en ateliers faciliteren en een innovatiefonds voor startende ondernemers.",
+        "citaat": "en een innovatiefonds voor startende ondernemers.",
+        "bron": "programma",
+        "pagina": 40,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Sociaal Ontwikkelbedrijf / Tomingroep",
+        "standpunt": "Wil coöperatie tussen het Sociaal Ontwikkelbedrijf en werkgevers en behoud van kennis en expertise van de Tomingroep.",
+        "citaat": "Kennis en expertise van de Tomingroep mag niet verloren gaan.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "cultuursubsidies en erfgoed",
+        "standpunt": "Wil dat de overheid blijft investeren in cultuursubsidies, erfgoed en voldoende sportfaciliteiten.",
+        "citaat": "moet de overheid blijven investeren in cultuursubsidies, erfgoed en voldoende sportfaciliteiten voor de toekomst.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "religieus erfgoed",
+        "standpunt": "Wil dat bestaand religieus erfgoed zoveel mogelijk een religieuze bestemming houdt, anders een bredere maatschappelijke bestemming.",
+        "citaat": "Bestaand religieus erfgoed moet zoveel mogelijk een religieuze bestemming, of indien dit niet mogelijk is, een bredere maatschappelijke bestemming krijgen.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kasteel en monumenten",
+        "standpunt": "Vindt goed onderhoud en beheer van erfgoed, monumenten en het kasteel belangrijk.",
+        "citaat": "Goed onderhoud en beheer van erfgoed, monumenten en ons kasteel vinden wij belangrijk.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "stolpersteine",
+        "standpunt": "Wil meer struikelstenen plaatsen bij woningen van joodse inwoners die in de Tweede Wereldoorlog zijn omgekomen.",
+        "citaat": "Wij willen meer 'stolpersteine' (struikelstenen) plaatsen bij woningen van onze joodse inwoners die zijn omgekomen tijdens de Tweede Wereldoorlog.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bibliotheken",
+        "standpunt": "Wil voldoende bibliotheken in de nieuwe gemeente en het gebruik stimuleren, met multifunctioneel en innovatief gebruik als voorwaarde.",
+        "citaat": "Wij staan voor voldoende bibliotheken in de nieuwe gemeente Hilversum.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kunstvakken voor alle kinderen",
+        "standpunt": "Wil dat muziek, drama en dans toegankelijk zijn voor alle kinderen, met Proloog als coördinatiepunt.",
+        "citaat": "De ChristenUnie wil dat kunstvakken, zoals muziek, drama en dans toegankelijk zijn voor alle kinderen.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "breedtesport",
+        "standpunt": "Legt de focus op breedtesport: sport voor iedereen, dichtbij en betaalbaar.",
+        "citaat": "De focus moet liggen op de breedtesport. Op sport voor iedereen, dichtbij en betaalbaar.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "open sportclubs",
+        "standpunt": "Pleit voor open sportclubs met een sterke verbinding met het sociale en gezondheidsdomein.",
+        "citaat": "De ChristenUnie pleit voor open sportclubs met een sterke verbinding tussen het sociale en het gezondheidsdomein.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "openbare fitnessapparaten",
+        "standpunt": "Wil wijken de mogelijkheid geven te kiezen voor openbare fitnessapparaten naast kinderspeeltoestellen.",
+        "citaat": "Wijken krijgen de mogelijkheid om naast kinderspeeltoestellen te kiezen voor openbare fitnessapparaten.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "spreiding sportvoorzieningen",
+        "standpunt": "Wil een goede spreiding van sportvoorzieningen over de hele nieuwe gemeente en een financiële jaarplanning op basis van overleg met verenigingen.",
+        "citaat": "Daarbij houdt de gemeente rekening met een goede spreiding van sportvoorzieningen over onze hele gemeente.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vrijheid van onderwijs",
+        "standpunt": "Is voor vrijheid van onderwijs, mits het onderwijs de Nederlandse waarden en normen als basis neemt en de kwaliteit niet schaadt.",
+        "citaat": "De ChristenUnie is voor vrijheid van onderwijs. En ziet alle onderwijsvormen als bijzonder.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "schoolgebouwen: renoveren",
+        "standpunt": "Geeft bij schoolgebouwen renovatie en verduurzaming de voorkeur boven slopen en nieuwbouwen.",
+        "citaat": "Renovatie van bestaande gebouwen heeft daarbij de voorkeur boven slopen en nieuwbouwen.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Integrale Kind Centra",
+        "standpunt": "Is voor Integrale Kind Centra, mits er draagvlak is bij schoolbesturen, leerkrachten en ouders en de identiteit van scholen niet onder druk komt.",
+        "citaat": "De ChristenUnie is voor de ontwikkeling van Integrale Kind Centra (IKC), mits er voldoende draagvlak is bij schoolbesturen, leerkrachten en ouders, en de identiteit van de verschillende scholen niet onder druk komt te staan.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tijdelijk gebruik gemeentelijk vastgoed",
+        "standpunt": "Wil leegstaand gemeentelijk vastgoed tijdelijk beschikbaar stellen voor maatschappelijke doelen zoals creatieve broedplaatsen, werkateliers of flexwerkplekken.",
+        "citaat": "Leegstand van gemeentelijk vastgoed wordt zo mogelijk voorkomen door het beschikbaar te stellen voor tijdelijke maatschappelijke doelen",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "eigenheid van kernen en wijken",
+        "standpunt": "Wil in de nieuwe gemeente aandacht voor wat elke kern of wijk eigen en waardevol maakt; met Hilversum wordt het hele nieuwe grondgebied inclusief de dorpen van Wijdemeren bedoeld.",
+        "citaat": "maar vooral ook om aandacht voor wat elke kern of wijk eigen en waardevol maakt.",
+        "bron": "programma",
+        "pagina": 2,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "dorpsbudget",
+        "standpunt": "Wil per dorp een budget beschikbaar stellen voor lokale initiatieven die de leefbaarheid vergroten; elke wijk en elk dorp een eigen buurtbudget.",
+        "citaat": "Wij geven inwoners meer zeggenschap door per dorp een budget beschikbaar te stellen voor lokale initiatieven die de leefbaarheid vergroten.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "right to challenge",
+        "standpunt": "Wil actief werk maken van het uitdaagrecht waarmee wijken of dorpen een voorziening zelf in stand kunnen houden.",
+        "citaat": "In Hilversum gaan we, vanuit vertrouwen, actief werk maken van 'right to challenge' (uitdaagrecht).",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fysiek loket",
+        "standpunt": "Wil dat inwoners en ondernemers naast de digitale weg altijd bij een fysiek loket terechtkunnen.",
+        "citaat": "In Hilversum kunnen inwoners/ondernemers, naast de digitale weg, altijd bij een fysiek loket met hun vragen bij de gemeente terecht.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "besluiten in lokale papieren media",
+        "standpunt": "Wil dat berichten over vergunningen, plannen en regelgeving ook in de lokale papieren media verschijnen.",
+        "citaat": "niet alleen digitaal zijn in te zien maar ook in de lokale papieren media verschijnen.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regels schrappen",
+        "standpunt": "Wil dat het college elk jaar voorstelt welke regels geschrapt, vereenvoudigd of samengevoegd kunnen worden.",
+        "citaat": "elk jaar komt het college met voorstellen voor regels die geschrapt, vereenvoudigd of samengevoegd kunnen worden.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "AI in dienstverlening",
+        "standpunt": "Wil AI inzetten als dit de dienstverlening verbetert, met menselijk contact, privacy en een fysieke route als voorkeur.",
+        "citaat": "Die AI gebruikt als dit de dienstverlening verbetert. Menselijk contact, privacy en een fysieke route blijven echter altijd beschikbaar en hebben de voorkeur.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "taalniveau B1",
+        "standpunt": "Wil dat de gemeente op taalniveau B1 communiceert, op de website en schriftelijk.",
+        "citaat": "communiceert de gemeente zo duidelijk en eenvoudig mogelijk met inwoners, zowel op de website als bij schriftelijke communicatie (taalniveau B1).",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "generatiecheck",
+        "standpunt": "Wil dat gemeentelijke plannen worden getoetst op de gevolgen voor jongeren.",
+        "citaat": "Plannen van de gemeente moeten ook getoetst worden op de gevolgen voor jongeren (generatiecheck).",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "jongeren en democratie",
+        "standpunt": "Wil 18-jarigen persoonlijk uitnodigen om te stemmen, gastlessen op basisscholen en behoud van kinderburgemeester en kindergemeenteraad.",
+        "citaat": "De ChristenUnie gaat het college verzoeken om 18-jarigen bij verkiezingen via een brief persoonlijk uit te nodigen om voor de eerste keer hun stem uit te brengen.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorps- en wijkregisseurs",
+        "standpunt": "Wil dorps- en wijkregisseurs en inwoners meer ruimte geven om initiatieven te ondersteunen, met heldere procesafspraken bij participatie.",
+        "citaat": "Onder andere geven wij dorps- en wijkregisseurs, en inwoners meer ruimte om initiatieven uit de wijken en dorpen te ondersteunen.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vroegtijdig betrekken inwoners",
+        "standpunt": "Wil inwoners vroegtijdig open en eerlijk betrekken bij beleidskeuzes en grote ontwikkelingen.",
+        "citaat": "Inwoners vroegtijdig open en eerlijk betrekken bij beleidskeuzes en/of grote ontwikkelingen.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "aanvragers vooraf informeren",
+        "standpunt": "Wil dat aanvragers van bouwprojecten minimaal een week vooraf horen dat hun stuk in commissie of raad wordt besproken.",
+        "citaat": "Aanvragers van (bouw)projecten worden minimaal een week vooraf geïnformeerd als hun behandelstuk in de commissie/raad besproken gaat worden.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geld van het Rijk",
+        "standpunt": "Vindt dat gemeenten voldoende geld van het Rijk moeten ontvangen om hun taken uit te voeren.",
+        "citaat": "Uitgangspunt is dat gemeenten voldoende geld van het Rijk moeten ontvangen om hun taken goed te kunnen uitvoeren.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "schuldquote",
+        "standpunt": "Wil dat de schuldquote van de gemeente niet boven de 130% uitkomt en begrotingen op realistische aannames rusten.",
+        "citaat": "Wij vinden dat de schuldquote van de gemeente niet boven de 130% mag uitkomen",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bezuinigen: wat ontzien",
+        "standpunt": "Wil bij bezuinigingen posten rond individuele nood, zorg, veiligheid en beheer en onderhoud zoveel mogelijk ontzien.",
+        "citaat": "Bij bezuinigingen wil de ChristenUnie de posten die te maken hebben met de nood van individuele inwoners, zorg, veiligheid, beheer en onderhoud van bestaande voorzieningen zo veel mogelijk ontzien.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "behoudende koers",
+        "standpunt": "Kiest voor spaarzaamheid en een behoudende koers, zonder risicovolle investeringen.",
+        "citaat": "Spaarzaamheid en een behoudende financiële koers zijn leidend, dus geen risicovolle investeringen.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "reserves",
+        "standpunt": "Wil voldoende reserves om calamiteiten op te vangen.",
+        "citaat": "Bij gezond financieel beleid horen voldoende reserves om calamiteiten te kunnen opvangen.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "structurele uitgaven",
+        "standpunt": "Wil structurele uitgaven dekken met structurele middelen en niet met incidentele meevallers.",
+        "citaat": "Structurele uitgaven moeten met structurele middelen begroot worden en dus niet met incidentele meevallers.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "leges en heffingen",
+        "standpunt": "Wil dat heffingen en leges zoveel mogelijk kostendekkend zijn.",
+        "citaat": "De dienstverlening van de gemeente (heffingen en leges) is zoveel mogelijk kostendekkend.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "risico jeugdzorg, Wmo en bouwprojecten",
+        "standpunt": "Wil de grote bouwprojecten en de uitgaven in jeugdzorg en Wmo goed monitoren en zo nodig bijsturen.",
+        "citaat": "ook de uitgaven in de Jeugdzorg en de Wmo die goed gemonitord en zo nodig bijgestuurd moeten worden.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "opbrengst betaald parkeren",
+        "standpunt": "Wil de parkeeropbrengst niet voor algemene middelen gebruiken maar voor kwaliteit van openbare ruimte en mobiliteit.",
+        "citaat": "De opbrengst uit betaald parkeren mag niet gebruikt worden voor dekking van algemene middelen.",
+        "bron": "programma",
+        "pagina": 47,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toekomstige generaties",
+        "standpunt": "Wil toekomstige generaties niet opzadelen met de gevolgen van slecht financieel beleid.",
+        "citaat": "De ChristenUnie wil toekomstige generaties niet opzadelen met de gevolgen van slecht (financieel) beleid van hun voorgangers.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "projectbeheersing",
+        "standpunt": "Wil grip op kosten bij bouwprojecten omdat uitlopende projecten en overschrijdingen uiteindelijk bij inwoners terechtkomen.",
+        "citaat": "Te vaak zien we dat projecten uitlopen, budgetten worden overschreden en financiële risico’s uiteindelijk bij inwoners terechtkomen.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "richting"
+      }
+    ]
+  },
+  "opvallend": [
+    "30 km/u als norm binnen de bebouwde kom, behalve op verbindingswegen, en snorfietsen en snelle fietsen naar de rijbaan",
+    "Geen betaald parkeren in de dorpen om Hilversum heen; parkeeropbrengst mag niet naar de algemene middelen",
+    "Recht op parkeervergunning voor de eerste auto en van de POET-lijst af voor wie een eigen parkeerplaats vergroent",
+    "Interne CO2-schaduwprijs van 1.000 euro per ton bij alle inkoop- en investeringsbeslissingen vanaf 2028",
+    "Onderzoek naar een gemeentelijk publiek warmtebedrijf met afnemersraad",
+    "Heroverweging van de 20 miljoen euro voor een ondergrondse regenwatergracht onder de Minkelerstraat ten gunste van een Vituspark op de Schapenkamp",
+    "Winkeliers mogen niet gedwongen worden op zondag open te zijn (zondagsrust vanuit christelijke overtuiging)",
+    "Geen nieuwe coffeeshops en geen nieuwe seksinrichtingen; reclamebeleid dat gokken, alcohol en roken weert",
+    "Kerken en andere geloofsgemeenschappen expliciet opgenomen in de sociale structuur, het erfgoed- en het crisisbeleid",
+    "Opvang van vluchtelingen alleen kleinschalig, met statushouders verspreid over alle wijken en dorpskernen",
+    "Verbod op binnen houtstoken bij code rood of oranje van de Stookwijzer",
+    "Voorstel voor een 'Jongerencentrum in elke wijk' en een tegeltaxi"
+  ],
+  "dun": [
+    "Asiel: geen concrete azc-locaties of aantallen, en niets over Oekraïense ontheemden",
+    "Klimaat: niets over kernenergie of grootschalige windturbines (alleen een windmolen op het boerenerf)",
+    "Wonen: geen opkoopbescherming, geen hoogtes of aantallen woningen voor hoogbouw, geen aantal woningen per jaar",
+    "Natuur: niets over het vliegveld Hilversum of de Loosdrechtse Plassen als gebied; dierenwelzijn alleen bij vuurwerk",
+    "Economie: niets over Mediapark/mediastad, horeca-uitbreiding of evenementenbeleid in detail",
+    "Cultuur: niets over zwembaden of dorpshuizen bij naam",
+    "Bestuur: niets over referendum of het gemeentehuis/de loketten per dorp bij naam; wel een fysiek loket in het algemeen",
+    "Financiën: geen standpunt over OZB-hoogte of externe inhuur",
+    "Lokale dossiers: Crailo, Hoorneboeg, Kerkelanden, Ter Sype, De Rading, Porseleinhaven, Nederhorst-Noord en Zuidsingel komen niet voor"
+  ]
+}

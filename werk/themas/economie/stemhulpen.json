@@ -1,0 +1,845 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Op het Media Park:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "BBB kiest voor mediabedrijven. Woningbouw op het Media Park is wettelijk en praktisch niet haalbaar vanwege geluidsnormen en bedrijvigheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "22 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De locatie leent zich goed om woningen toe te voegen. Vooral voor studenten en jongeren is dit een geschikte locatie naast het OV en ook voor stagiaires en tijdelijke werknemers is het geschikt. Daarnaast zijn er kansen voor media gerelateerd onderwijs.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "85 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park is de economische motor van Hilversum. Meer mediabedrijven zorgen voor innovatie, werkgelegenheid en versterken de unieke positie van Hilversum als mediastad. Woningen kunnen op andere geschikte locaties worden gebouwd.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "39 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park is het economische hart van de mediasector. Toch gaat vernieuwing snel. Voor ons blijft de economische functie vooropstaan. Maar onderwijs, wonen voor studenten, starters en jonge professionals en voorzieningen maken het geheel levendig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "71 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De ChristenUnie wil ruimte voor mediabedrijven en banen op het Media Park. Woningen kunnen passen, mits zij de campus versterken en geen mediabedrijven verdringen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "34 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Mediapark blijft onze economische motor voor media, innovatie en werkgelegenheid, met ruimte voor bedrijven. Tegelijk ontwikkelen we het door tot een bruisende mediacampus waar werken, leren en ontspannen samengaan, met ook extra woningen. Beide dus.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Geen uitbreiding van media, wel woningen, het Media Park is groot genoeg. \n\nGebruik nieuwe ontwikkelruimte voor woningen zodat jongeren, starters en andere inwoners ook in Hilversum een thuis kunnen vinden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "73 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Mediapark levert programma's voor de hele wereld. Het is geen woonwijk. Wonen verdringt studio’s en bedrijven. De woningopgave hoort elders. Vrije kavels gaan naar mediabedrijven, niet naar appartementen. Hilversum blijft mediastad door te produceren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "54 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Woningen toevoegen op het Media Park is prima, maar mag niet ten koste gaan van de economische functie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "47 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park blijft belangrijk voor werkgelegenheid, innovatie en Hilversum als mediastad. Wij geven mediabedrijven ruimte. Bij blijvende leegstand onderzoeken we passende woningbouw, zonder de toekomst van de mediasector te belemmeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De LFD kiest niet tussen woningen en mediabedrijven op het Media Park. Grondeigenaren en ondernemers moeten ruimte krijgen om het gebied te ontwikkelen. De gemeente faciliteert waar nodig, maar bepaalt niet centraal welke functie voorrang krijgt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "51 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De gemeente stimuleert de doorontwikkeling van het Mediapark op het gebied van digitale media, ICT en innovatie. In de campusopzet past het bieden van woonruimte voor studenten. Creatief talent versterkt de positie van Hilversum als het mediacentrum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "61 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Wonen kan voor specifieke groepen (studenten, short stay mediawerkers), maar mag niet ten koste gaan van de werkgelegenheid en kracht mediasector.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "11 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "We zetten in op de start en versnelling van de woningbouw en de uitbreiding van het aantal mediabedrijven op het MediaPark. Op deze wijze krijgt de campusgedachte (wonen, werken en leren) vorm en inhoud en versterken zij elkaar.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "37 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Een mix van bedrijven en starterswoningen op het Media Park zou goed kunnen werken. Als het Media Park verder wordt ontwikkeld, moet het ook direct verder vergroend worden. Het Heksenweitje aan de westkant van het Media Park moet een groene plek blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "72 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park is belangrijk voor de lokale economie en werkgelegenheid. Wij willen ruimte voor ondernemers en voorzieningen en vinden het daarom passend om de mediaclustering daar te versterken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "29 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "We betrekken het Heksenweitje bij het Mediapark en voegen daar betaalbare woningen toe. We maken een campus voor jongeren. We kunnen hier ook iets de hoogte in.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "20 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Een passende woning voor onze inwoners heeft de hoogste prioriteit. Het Media Park biedt een uitstekende kans om de lokale woningnood aan te pakken. Wij willen bestaande ruimte en leegstand hier volop benutten en ombouwen tot woningen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "44 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "We versterken de innovatiekracht (start-ups) en werkgelegenheid. We bouwen woningen voor studenten/starters op/bij het Media Park. Zo binden we jong talent aan Hilversum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "82 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De VVD kiest voor meer media. Hilversum is en blijft dé mediastad. Op het Media Park moet ruimte blijven voor media, werk en innovatie. Enkele woningen kunnen wel, bijvoorbeeld als onderdeel van een mediacampus.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Toerisme in de gemeente stimuleren",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB is voor het stimuleren van toerisme. Bezoekers versterken onze lokale economie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "64 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit mag meer op de agenda komen. Wel zoeken naar welke vormen van toerisme je dan zou willen promoten en versterken. Natuurbeleving, erfgoed, cultuur, eco toerisme, sport & ontmoeten zijn belangrijke pijlers in de regio. Afschaffen toeristen belasting.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "98 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toerisme zorgt voor extra bestedingen, ondersteunt lokale ondernemers en versterkt de aantrekkingskracht van de gemeente. Groei is welkom, zolang leefbaarheid, bereikbaarheid en het karakter van de gemeente behouden blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "66 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toerisme is van belang voor de economie en voor veel lokale ondernemers. We waken voor massa toerisme.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "72 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil recreatie en toerisme stimuleren, maar in goed overleg met de sector en in goede balans met natuur, rust en de draagkracht van de omgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "77 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toerisme levert banen en levendige kernen op. We geven ondernemers ruimte, investeren in recreatieve routes en watersport, en zoeken steeds de balans met natuurbescherming en leefbaarheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "48 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Extra stimuleren van toerisme in niet nodig gezien de huidige voorzieningen.\nOnze gemeente moet prettig blijven voor inwoners en aantrekkelijk voor bezoekers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Het water, de binnenstad, de buitenplaatsen en het Gooise landschap bieden kansen voor toerisme. Wij versterken de bereikbaarheid per auto, fiets, boot en openbaar vervoer.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "66 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Citymarketing is geen doel op zichzelf. We willen duidelijk hebben welke aantoonbare waarde het oplevert. We richten ons liever op bezoekers die daadwerkelijk bijdragen aan de lokale economie, dan op zoveel mogelijk bezoekers zonder duidelijke meerwaarde.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen toerisme stimuleren dat onze ondernemers, horeca en gemeente versterkt. Natuur, water en architectuur bieden volop kansen. Bezoekers zijn welkom, met behoud van rust in woonbuurten en bescherming van kwetsbare natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD geeft toerisme en recreatie graag de ruimte. Ondernemers, inwoners en verenigingen zorgen voor het aanbod; de gemeente voor goede bereikbaarheid, veiligheid en heldere regels. Stimuleren betekent faciliteren, niet subsidiëren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "72 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toerisme versterkt het voorzieningenniveau. Tegelijk is maatvoering belangrijk om overlast of schade te voorkomen. Lokaal Eén ziet mogelijkheden het seizoen te verlengen en een breder aanbod voor natuur en historie minnende bezoekers te creëren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "68 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wat Wijdemeren te veel dreigt te krijgen heeft Hilversum misschien te weinig. Er valt hier genoeg te zien om aantrekkelijk te zijn voor toeristen, naast de ideale ligging. Toerisme mag echter niet ten koste gaan van wonen!",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "72 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Als Hilversum blijven we onze toeristische highlights promoten. Dit doen we samen met onze regionale partners, waaronder Visit Gooi&Vecht. We stimuleren bezoekers om met het openbaar (of deel-) vervoer, met de fiets, lopend of met de boot te komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "PvdD vindt het stimuleren van toerisme geen gemeentetaak. Wel stuurt de gemeente toerisme via beleid, handhaving, en samenwerking om de balans te bewaken tussen ecologische duurzaamheid, leefbaarheid voor dieren en inwoners, en economische voordelen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "71 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toerisme kan bijdragen aan een levendige gemeente en lokale ondernemers ondersteunen. Wij willen ruimte voor ondernemerschap, aantrekkelijke voorzieningen en een bereikbare gemeente voor inwoners en bezoekers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toeristen zijn van harte welkom in onze prachtige gemeente. Stimuleren met behulp van citymarketing is niet nodig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Toerisme is goed voor lokale ondernemers en de economie. Wij stimuleren dit, maar wel in balans. De leefbaarheid van onze inwoners en de bescherming van de natuur staan altijd voorop. Wij kiezen voor kwaliteitstoerisme, geen massatoerisme.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "51 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We werken samen met ondernemers aan duurzame vormen van recreatie en cultuur. Grootschalige recreatieontwikkeling gaan we tegen. We handhaven het maximum van 60 nachten voor toeristische woningverhuur om huizen beschikbaar te houden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De VVD wil toerisme stimuleren waar dat past bij onze stad, dorpen en natuur. Toerisme is belangrijk voor winkels, horeca en de lokale economie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. In het plassengebied inzetten op:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "BBB wil dat mensen kunnen blijven genieten van het plassengebied. Wij geloven dat recreatie en natuurbehoud prima in harmonie samen kunnen gaan. Onze natuur hoeft niet op slot.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Een goede balans maken tussen beiden en per gebied kijken wat gewenst is. Stimuleren natuurvriendelijke recreatie en inzetten op natuurbeleving voor meer verbinding en begrip. Onderzoeken waar de vragen liggen en waar en welk aanbod op aan kan sluiten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "19 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is er ook om van te genieten. Recreatie ondersteunt toerisme, lokale ondernemers en de leefbaarheid. Natuur blijft belangrijk, maar mag niet leiden tot onnodige beperkingen voor inwoners en bezoekers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "49 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is een uitzonderlijk gebied, omdat beide functies goed naast elkaar kunnen bestaan. Wat ons betreft zit dit elkaar dan ook niet in de weg.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De ChristenUnie wil ruimte voor recreatie, maar ook kwetsbare natuur beschermen. We zoeken daarin balans in overleg met de recreatieve sector.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "66 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is waardevol voor watersporters. D66 investeert in goede voorzieningen en veiligheid, maar recreatie mag niet ten koste gaan van natuur en dieren. We willen een goede balans tussen economische kansen, recreatie en natuurbescherming.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "28 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Geef meer ruimte aan varen, zwemmen, wandelen en recreatie, met respect voor natuur en rust. Zo houden we het plassengebied levendig, toegankelijk en aantrekkelijk voor inwoners en ondernemers. Opbrengsten uit recreatie komen ten goede aan de natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "17 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Water en het Gooise landschap zijn economische kracht voor toerisme. Bijdragen aan regiomarketing beoordelen we op effect: de unieke eigenschappen van Hilversum en Wijdemeren voorop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Gewoon, Hilversum vindt het belangrijk dat de balans tussen natuurbehoud en recreatie goed gewaarborgd blijft. We koesteren onze natuurgebieden, maar inwoners moeten ook kunnen blijven genieten van onze natuurgebieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "51 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De plassen zijn er om van te genieten én om te beschermen. Wij geven recreatie en lokale ondernemers ruimte, met respect voor natuur en de rust van bewoners. Kwetsbare plekken vragen om bescherming; levendigheid moet passen bij het gebied.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De LFD kiest niet tussen recreatie en natuur. De plassen zijn er om zorgvuldig te beheren én te beleven. Varen, zwemmen en andere recreatie moeten mogelijk blijven, met respect voor natuur, eigendomsrechten en bestaande gebruiksrechten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "46 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Voor Lokaal Eén zijn beide van groot belang. Het gaat om een goede balans tussen toegankelijke natuur en stiltegebieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "80 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het een hoeft het ander niet te bijten; maar natuurbehoud gaat bij ons voor uitbreiding van recreatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "71 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Pro is voor een goede balans tussen natuurbehoud, biodiversiteit, waterkwaliteit en een goed verdienmodel voor onze recreatieve sector. We werken samen met ondernemers aan verduurzaming, uitbaggeren van de plassen en het bestrijden van ongewenste exoten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het is belangrijk dat mensen de natuur leren kennen en waarderen, maar dit mag niet ten koste gaan van de natuur. Waar nodig steunt de gemeente het afsluiten van gebieden voor mensen, zodat planten en dieren rust hebben om te herstellen en ontwikkelen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "68 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Het plassengebied is waardevol voor de leefbaarheid van Hilversum. Daarom willen we rust, groen en natuur voldoende ruimte geven, met ruimte voor recreatie waar dat goed samengaat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "50 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "De huidige balans is goed.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "37 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "Recreatie en watersport horen bij Wijdemeren en krijgen de ruimte waar dat past. Rond de plassen zoeken wij bewust naar een goede balans tussen natuur, leefbaarheid en recreatief gebruik. Natuur en economie zijn geen tegenstanders.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "74 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "We werken samen met ondernemers aan duurzame vormen van recreatie. Kleinschalig, elektrisch, stiller. Zodat genieten van de natuur en het herstel ervan hand in hand gaan. De strandjes aan de plassen worden goed bereikbaar met openbaar vervoer en de fiets.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "43 (schuifbalk 0=meer recreatie, 100=meer rust voor plant en dier)",
+    "toelichting": "We willen dat mensen van het plassengebied kunnen genieten. Natuur moet je kunnen beleven, niet alleen van een afstand bekijken. Recreatie is geen restpost maar een speerpunt, met respect voor kwetsbare natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Als gemeente minder regels opleggen aan ondernemers",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB wil ondernemers de ruimte geven, zonder onnodige regels.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "77 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Nu stagneert de groei door complexe regelgevingen. Onnodige regels schrappen en innovatie stimuleren met heldere concrete kaders. Hou in de gaten of de maatschappelijke winst en nut gewaarborgd wordt voor inwoners en niet ten koste gaat van de inwoners.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ondernemers zorgen voor banen, innovatie en economische groei. Minder regels betekent minder tijd aan papierwerk en meer tijd voor ondernemen. De gemeente moet faciliteren in plaats van hinderen en regels alleen opleggen als ze echt nodig zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "98 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen onnodige regels schrappen: inwoners en ondernemers denken mee over van welke regels we met gemak af kunnen. Zo willen we de administratieve lasten beperken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "73 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil regels voor ondernemers eenvoudiger maken. Wel blijven regels voor veiligheid, eerlijk ondernemen en leefbaarheid nodig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "D66 wil minder regels en kortere procedures, voor ondernemers én inwoners. Daarnaast willen we het recht op vergissen: je krijgt de kans een onschuldige fout te herstellen, zonder boete.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ondernemers moeten kunnen ondernemen. Schrap onnodige bureaucratie en regels zonder praktisch nut. Alleen in risicovolle sectoren mogen extra regels gelden als die aantoonbaar nodig zijn voor veiligheid, gezondheid of ter voorkoming van fraude.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Uiteindelijk betalen ondernemers alle belastingen. Geen onderneming = geen banen = geen inkomstenbelasting en BTW. Ondernemers moeten meer vrijheid krijgen om welvaart te maken. Want dat is wat ondernemers doen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We stellen regels en voorwaarden waar dat nodig is om publieke belangen te beschermen, maar willen geen onnodige regels of eisen. Als iets binnen de kaders kan, moet de gemeente niet onnodig nieuwe drempels opwerpen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "80 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ondernemers verdienen ruimte om te ondernemen. Wij willen minder onnodige regels, eenvoudiger vergunningen en snellere afhandeling. Samen met ondernemers bekijken we wat beter kan, met behoud van regels die veiligheid en leefbaarheid beschermen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil ondernemers ruimte geven om te ondernemen. Regels zijn alleen gerechtvaardigd als ze aantoonbaar nodig zijn, bijvoorbeeld voor veiligheid of bescherming van anderen. Onnodige vergunningen, voorschriften en bureaucratie kunnen weg.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "65 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén is tegen overbodige regelgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "62 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Klinkt sympathiek. Belangrijkste is het wegnemen van nodeloze bureaucratie. Regels (geluid, hygiëne) zijn niet altijd te vermijden, willen we de stad leefbaar houden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "53 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Bewoners, maatschappelijke organisaties, ondernemers en andere partijen die wonen en werken in Hilversum denken mee en beslissen mee over wat zij belangrijk vinden. Dat is participatie. Overbodige regels kunnen worden afgeschaft voor iedereen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "PvdD is voor strenge handhaving van milieuregels. PvdD is niet in algemene zin voor minder regels. Regels moeten bescherming bieden, duurzaam ondernemerschap bevorderen, en ruimte bieden voor bijvoorbeeld broed- en werkplaatsen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "81 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ondernemers zorgen voor werkgelegenheid, voorzieningen en levendigheid. Wij willen daarom minder onnodige regels, duidelijke procedures en ruimte voor lokale ondernemers en initiatieven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "26 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Het gaat niet om minder regels maar om hoe snel en hoe flexibel ondernemers geholpen worden. De SP vindt dat dit beter en sneller moet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij geven onze lokale ondernemers graag de ruimte. Onnodige regels en bureaucratie zitten hen in de weg. Wij kiezen voor vertrouwen, praktische oplossingen en lokaal maatwerk in plaats van stugge regelgeving. Dit versterkt onze economie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "64 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We luisteren naar ondernemers voordat we handelen en we onderzoeken eerst de gevolgen van nieuw beleid. We stappen over op een flexibel vergunningenmodel, waarbij een ondernemer een vergunning op maat samenstelt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "99 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De VVD wil het beste ondernemersklimaat van de regio: minder lokale regels, snellere vergunningen en een gemeente die meedenkt. Ondernemers moeten vooral doen waar ze goed in zijn: ondernemen!",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Kantoren en bedrijfsruimtes mogen alleen woningen worden als er elders ruimte voor werk bijkomt.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "E.e.a. is afhankelijk van de locatie en het soort object. Hier dient maatwerk plaats te vinden; er moet tevens gekeken worden naar de afname van de vraag naar kantoorruimte als gevolg van AI.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Extra woningen op bedrijventerreinen en in bestaande gebouwen zijn welkom, zolang het aantal vierkante meters voor bedrijven niet afneemt. Zo houden we een goede mix van wonen en werken, bijvoorbeeld bij het Mediapark.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„Op bedrijventerreinen gaat werk vóór wonen, omdat ruimte voor werk zorgt voor banen, levendigheid en groeiende inkomsten voor de gemeente.”",
+    "herkomst": "Verkiezingsprogramma, p. 14"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Een recent rapport laat zien dat er voldoende kantoorgelegenheid is in Hilversum; er zijn daarmee meer mogelijkheden om zowel voldoende banen te behouden als woningen te bouwen op interessante locaties.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Behoud van industrieterreinen: Lokaal Eén is geen voorstander van het terugdringen van industrieparken. Relocatie of vermenging van productiviteit met wonen zal per locatie bezien worden. Nieuwe kantoorruimte wordt uitsluitend gerealiseerd op basis van gedegen onderzoek en werkelijke marktbehoefte, om leefbaarheid te borgen en leegstand te voorkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "Per geval moet er bekeken worden of je kantoren mag omzetten naar woningen. Niet altijd hoeft er dan werkruimte bij te komen. Hilversum moet goed kijken welke invloed hybride werken heeft op de vraag naar kantoorpanden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "We willen de transformatie bevorderen en dus niet te veel aanvullende regels opleggen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Leegstaande kantoren moeten snel tot woningen kunnen worden omgebouwd. Behoud ruimte voor werk waar die aantoonbaar nodig is, maar voorkom starre compensatieregels die woningbouw onnodig vertragen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wonen en werken moeten in balans blijven. Wij zijn tegen een algemene verplichting om bij iedere omzetting van bedrijfsruimte naar woningen elders evenveel werkruimte toe te voegen. Per locatie beoordelen we wat nodig is voor ondernemers en woningzoekenden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "De woningnood mag niet worden gekoppeld aan bedrijfsruimte. Het omzetten van kantoren en bedrijfsruimtes naar woningen moet mogelijk blijven, zonder dat daar elders extra bedrijfsruimte tegenover hoeft te staan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Ondernemers zijn de motor van onze gemeente! We toveren leegstaande panden graag om tot prachtige woningen, maar we zorgen er altijd voor dat er voldoende ruimte en aantrekkelijke alternatieven overblijven voor onze lokale ondernemers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "tegen",
+    "toelichting": "„De eerste trede van de woonladder houdt in dat we bestaande bebouwing slimmer benutten, bijvoorbeeld door het transformeren van kantoorpanden, het aanpakken van leegstand en het stimuleren van doorstroming.”",
+    "herkomst": "Verkiezingsprogramma, p. 43"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Hoe meer mensen, hoe meer voorzieningen en bedrijfsruimte er nodig zijn. Behoud van maatschappelijke en bedrijfsbestemmingen is belangrijk. Je wilt geen slapende woonstad/dorp worden zonder bedrijvigheid. Meer mogelijkheden voor gemengde functies van wonen en werken. Meer leef- en woongemeenschappen",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Leegstaande kantoren en bedrijfspanden kunnen prima worden omgebouwd tot woningen. Waarom zou een eigenaar eerst ergens anders bedrijfsruimte moeten compenseren? LFD wil minder regels, snellere vergunningen en meer vrijheid om bestaande gebouwen een nieuwe bestemming te geven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "Kantoorgebouwen die niet meer worden gebruikt bouwen we om naar woningen. Als een kantoorgebouw wel wordt gebruikt, dan bouwen we hem niet om.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Geen banen opofferen voor wonen. Leegstaande kantoren kunnen kansen bieden voor woningen, maar niet ten koste van noodzakelijke bedrijfsruimte en werkgelegenheid. Wonen en ondernemen moeten in onze gemeente allebei mogelijk blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "neutraal",
+    "toelichting": "BBB vindt het behoud van lokale werkgelegenheid en bedrijfsruimte cruciaal. Wel maakt BBB een uitzondering voor specifieke locaties, zoals kantoorpanden die als opvang dienen: die moeten wat ons betreft definitief als woning benut kunnen blijven.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Winkels moeten op zondag ruimer open mogen.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Hilversum kent al ruime openingstijden; daar waar men het wil, moet het kunnen, maar het is geen verplichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "We waren voorstander van ruimere openingstijden op zondag omdat dit voor ondernemers en consumenten prettiger is. Een supermarkt die op zondag open is vanaf 09:00 is prettig.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "",
+    "herkomst": "Stemde voor in de raad"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "De zondagsopeningstijden zijn al verruimd in Hilversum. Kleine ondernemers hebben hier een nadeel ten opzichte van de grote ketens. Wij pleiten voor een goed onderzoek naar de toegevoegde waarde van de huidige ruimere zondagsopening.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "De Winkeltijdenverordening 2024 is helder opgesteld met duidelijk aangegeven wanneer openstelling problemen geeft, de openstelling ingetrokken kan worden. Het is aan ondernemers zelf of ze aan de verruimde openingstijden deelnemen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "Kleine ondernemers verliezen het van de grote winkelketens als ze ook op zondag moeten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Ondernemers bepalen zoveel mogelijk zelf wanneer zij open zijn. Ruimere openingstijden geven ondernemers en consumenten keuzevrijheid, zonder dat een winkelier verplicht wordt op zondag open te gaan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Lokale ondernemers moeten ruimte krijgen om hun bedrijf op een passende manier te runnen. We willen onnodige regels verminderen en de lokale economie versterken. Bij ruimere openingstijden moeten ook de belangen van werknemers, omwonenden en consumenten worden meegewogen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Ondernemers kunnen heel goed zelf bepalen of ze open willen zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Ondernemers moeten zelf kunnen bepalen wanneer hun winkel open is. De gemeente moet terughoudend zijn met regels en ruimte bieden aan de eigen keuzes van winkeliers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Dit is de keuze van de ondernemer en ik denk dat zij de ruimte moeten krijgen te bepalen of ze wel of niet open zijn. Tussen 10.00 en 20.00 zou redelijk zijn immers is de zondag vaak de enige dag dat men naar de stad kan met het gezin. Gratis openbaar vervoer zou ook een mooie aanvulling zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Een ondernemer bepaalt zelf wanneer de winkel opengaat, ook op zondag. Niemand hoeft verplicht open en niemand hoeft verplicht te winkelen. LFD wil ondernemers de vrijheid geven om hun openingstijden af te stemmen op hun klanten, zonder onnodige gemeentelijke beperkingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Ondernemers moeten zelf kunnen bepalen wanneer zij hun winkel openen. Wij staan voor ondernemersvrijheid, minder regels en een levendig centrum. Niemand wordt verplicht om op zondag open te gaan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "BBB gunt winkeliers de vrijheid om zelf te bepalen wanneer zij hun deuren openen. Verruiming geeft ondernemers en inwoners meer flexibiliteit en gemak. Het moet wel een eigen keuze blijven: geen enkele winkelier mag worden verplicht om op zondag open te gaan.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Het plan Bruisend Hart voor het Oosterspoorplein moet doorgaan zoals de raad het heeft vastgesteld.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Mogelijk qua financiering is temporisering noodzakelijk en de participatie is ook nog niet afgerond. Er zijn nog te veel zorgen van de inwoners, die dienen allereerst te worden weggenomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Wij zijn voor het plan Bruisend Hart voor het Oosterspoorplein in Hilversum waar mensen (straks) graag reizen, wonen, werken en verblijven in een groene en veilige omgeving.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "neutraal",
+    "toelichting": "Lopende gebiedsontwikkelingen zoals Bruisend Hart lopen al lang. D66 wil tempo maken, ook al betekent dat keuzes maken: sommige ontwikkelingen komen mogelijk later aan de beurt. Plannen met meer woningen hebben prioriteit.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "„De grote investeringen Bruisend Hart (Oosterspoorplein) en de Hilversumse Meent worden uitgesteld omdat we die nu niet kunnen betalen.”",
+    "herkomst": "Verkiezingsprogramma, p. 29"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "Bruisend Hart is een van de weinige gebieden waar woningen en winkels gerealiseerd kunnen worden en die de leefbaarheid in dit deel van Hilversum ten goede kan komen. Nu stoppen met de ontwikkeling leidt tot hoge kosten en verder oplopen van de woningnood.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Dit is een democratisch genomen besluit, Lokaal Eén gaat dat niet terugdraaien. Wel vinden wij het van groot belang dat er ruim aandacht voor vergroening is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen hier meer sociale huur. Ook vinden wij dat er nu heel veel in Hilversum-Oost wordt gepland. De SP wil meer spreiding zodat ook in minder versteende wijken woningen worden toegevoegd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "De ontwikkeling kan doorgaan, maar kosten, bereikbaarheid, parkeren en risico’s moeten scherp worden bewaakt. Voorkom dat het project uitgroeit tot een onbetaalbaar prestigeproject waarvoor inwoners later de rekening betalen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Wij steunen de uitvoering van het vastgestelde plan Bruisend Hart voor het Oosterspoorplein. Daarbij bewaken we de kosten, bereikbaarheid en leefbaarheid en blijven we omwonenden en ondernemers betrekken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "neutraal",
+    "toelichting": "Stoppen is niet meer realistisch. DvD wil daarom kijken hoe het vervolg zo verstandig, betaalbaar en in het belang van inwoners kan worden uitgevoerd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "neutraal",
+    "toelichting": "Een mooi stationsgebied is belangrijk, maar wel met verstand! Voordat de eerste steen gelegd wordt, kijken we kritisch naar de kosten en alternatieven. Mega-projecten mogen nooit een bodemloze put worden die ten koste gaat van de dagelijkse basisvoorzieningen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "PvdD kiest bij een begrotingstekort voor het beschermen van kwetsbaren en sociale voorzieningen. Er moet dan ook ruimte blijven om het plan Bruisend Hart bij te stellen als de kosten te hoog blijken en groene en sociale voorzieningen onder druk zetten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Het plan doet totale afbreuk aan het voorliggende participatietraject van 1221 waar heel veel partijen samen een mooie toekomstvisie hebben ontwikkeld. Weggegooid geld en energie aangezien er nu heel andere megalomane plannen liggen. Terug naar de tekentafel vanuit de oorspronkelijke visie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "LFD steunt de verdere ontwikkeling van Bruisend Hart, maar niet tegen elke prijs. Nu het project nog moet worden uitgevoerd, moeten kosten, planning en gevolgen voor inwoners en ondernemers kritisch worden bewaakt. Wijzigingen vragen een nieuwe afweging.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Oosterspoorplein is één van de weinige plekken waar bouw op dezelfde hoogte van de panden naast het stationsgebouw kan plaatsvinden zonder landschappelijke verstoring. Dat kan meer woningen opleveren dan het huidige plan. FvD kiest voor binnenstedelijke woningen in plaats van in het groen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "neutraal",
+    "toelichting": "De ontwikkeling van het stationsgebied is belangrijk voor extra woningen, maar de hoge kosten en risico's vragen om voorzichtigheid. BBB wil dat het plan kritisch wordt heroverwogen op betaalbaarheid en haalbaarheid, zonder dat de lokale belastingbetaler opdraait voor tekorten.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De herinrichting van de Kerkbrink moet soberder en goedkoper.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "Achterhaald, de werkzaamheden zijn al bijna afgerond. Hart voor Hilversum streeft ernaar om bouwprojecten soberder en goedkoper uit te voeren zoals echter nabij de Kerkbrink niet gelukt is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "Het cultuurplein Kerkbrink is het hart van ons centrum. D66 wil daar ruimte bieden aan grote evenementen en lokale initiatieven, zodat cultuur zichtbaar is voor de hele gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "lokaal-een": {
+    "antwoord": "tegen",
+    "toelichting": "De herinrichting is bijna klaar. Voor de aantrekkelijkheid van het centrum is het belangrijk dat er meer ruimte voor cultuur en terrassen is. Lokaal Eén ziet wel graag dat het plein ook veel groen heeft.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De Kerkbrink lag er nog prima bij. De SP was tegen de miljoenen kostende nieuwe inrichting van de Kerkbrink.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "Helaas niets meer aan te doen, maar het heeft te veel geld gekost. Een dure fontein en Portugees natuursteen hadden bijvoorbeeld niet gehoeven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Een aantrekkelijke Kerkbrink is wenselijk, maar gemeenschapsgeld moet zorgvuldig worden besteed. Kies een sobere, functionele en betaalbare inrichting met ruimte voor bereikbaarheid, cultuur, horeca en ontmoeting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen de Kerkbrink aantrekkelijk, veilig en toekomstbestendig herinrichten. Een soberder plan is niet vanzelf goedkoper op de lange termijn of beter voor de omgeving. We beoordelen de investering op kwaliteit, gebruik en totale kosten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "neutraal",
+    "toelichting": "Nu stoppen kan niet meer. Het is belangrijk om verdere keuzes zorgvuldig te maken, onnodige kosten te voorkomen en de belangen van inwoners centraal te stellen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Prachtige ontmoetingsplekken zijn belangrijk, maar we springen wel heel verstandig om met gemeenschapsgeld. We brengen eerst de basis in Hilversum keurig op orde. Met slimme, budgetvriendelijke keuzes maken we de Kerkbrink minstens zo gezellig en sfeervol!",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "De herinrichting van de Kerkbrink hoeft niet bij voorbaat soberder of goedkoper, maar PvdD kiest bij een begrotingstekort voor het beschermen van kwetsbaren en sociale voorzieningen. Tekorten worden dan teruggedrongen door het bijstellen van projecten zoals de Kerkbrink.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Er is al zoveel geld verspild, de Kerkbrink is al tig x over de kop gegaan ... Nu weer totale waanzin en geld verspillen. Terwijl de oplossing simpel is en niet duur: flink wat groen toevoegen, wat bankjes voor ontmoeting en ruimte voor kleine evenementen & ook doorgang voor de fiets behouden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Een aantrekkelijke Kerkbrink hoeft geen peperduur prestigeproject te worden. LFD wil een sobere, functionele inrichting met oog voor bereikbaarheid, ondernemers en bezoekers. Gemeenschapsgeld moet zorgvuldig worden besteed. Mooi mag, maar niet tegen elke prijs.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "Plan wordt al uitgevoerd, niet meer aanpassen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "\"Minder mooi\" is normatief, terwijl er geen hard criterium is voor \"mooi\". Daarom gebruiken wij \"traditioneel\", wat dus betekent dat het aansluit bij de historische gebouwen. Wij kiezen voor een praktische, sfeervolle en betaalbare herinrichting, met ruimte voor terrassen en ontmoeting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Gemeenschapsgeld moet verstandig worden uitgegeven. BBB wil geen dure herinrichting van de Kerkbrink. Een soberder en goedkoper plan zorgt ervoor dat het plein netjes en gezellig wordt ingericht, zonder de belastingbetaler op te zadelen met hoge kosten.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ }
+]

@@ -1,0 +1,382 @@
+[
+ {
+  "sleutel": "wonen-bouwtempo|dorp-voor-dorp",
+  "id": "wonen-bouwtempo",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-bouwtempo",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Niet alleen hoeveel, vooral voor wie",
+   "basis": "programma p.37"
+  }
+ },
+ {
+  "sleutel": "wonen-eigen-behoefte|dorp-voor-dorp",
+  "id": "wonen-eigen-behoefte",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Groei door instroom vraagt uitbreiding, met voorrang voor inwoners",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|dorp-voor-dorp",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Mix per dorp en wijk naar lokale behoefte",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-grondbeleid|dorp-voor-dorp",
+  "id": "wonen-grondbeleid",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-grondbeleid",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Woning verkopen, grond in handen van de gemeente houden",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|dorp-voor-dorp",
+  "id": "verkeer-buurt-beslist",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "buiten het centrum helemaal geen betaald parkeren",
+   "basis": "programma p.53"
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|dorp-voor-dorp",
+  "id": "verkeer-eerste-uur",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "eerste 30 of 60 minuten gratis bij gemeentehuis",
+   "basis": "programma p.23"
+  }
+ },
+ {
+  "sleutel": "verkeer-30-hoofdwegen|dorp-voor-dorp",
+  "id": "verkeer-30-hoofdwegen",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-30-hoofdwegen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "30 is niet altijd de juiste oplossing",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|dorp-voor-dorp",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Pertinent tegen windturbines",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|dorp-voor-dorp",
+  "id": "klimaat-zon-boerenland",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Landschap weegt zwaarder dan energieopwekking",
+   "basis": "programma p.72"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|dorp-voor-dorp",
+  "id": "natuur-afsluiten",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "belangen van inwoners moeten zwaar wegen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-snelvaren|dorp-voor-dorp",
+  "id": "natuur-snelvaren",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-snelvaren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "meer ruimte voor varen en recreatie op de plassen",
+   "basis": "mijnstem, afgeleid"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|dorp-voor-dorp",
+  "id": "natuur-recreant-betaalt",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "opbrengsten uit recreatie ten goede laten komen aan natuur",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|dorp-voor-dorp",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "maximaal lokale zeggenschap over opvang",
+   "basis": "programma p.44"
+  }
+ },
+ {
+  "sleutel": "asiel-kader-dorpen|dorp-voor-dorp",
+  "id": "asiel-kader-dorpen",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-kader-dorpen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "inwoners vroeg en volledig betrekken bij opvangplannen",
+   "basis": "programma p.44"
+  }
+ },
+ {
+  "sleutel": "economie-citymarketing|dorp-voor-dorp",
+  "id": "economie-citymarketing",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-citymarketing",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "extra stimuleren van toerisme niet nodig",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|dorp-voor-dorp",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "meer ruimte voor varen, zwemmen en recreatie",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-dorpsgarantie|dorp-voor-dorp",
+  "id": "cultuur-dorpsgarantie",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-dorpsgarantie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "bestaande dorpshuizen en buurthuizen behouden en versterken",
+   "basis": "programma p.42"
+  }
+ },
+ {
+  "sleutel": "cultuur-sportevenementen|dorp-voor-dorp",
+  "id": "cultuur-sportevenementen",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-sportevenementen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "evenementen niet centraliseren; lokale tradities en buurtfeesten",
+   "basis": "programma p.89"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|dorp-voor-dorp",
+  "id": "financien-heffing-draagkracht",
+  "slug": "dorp-voor-dorp",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "voor vast bedrag, tegen kiloheffing",
+   "basis": "mijnstem"
+  }
+ }
+]

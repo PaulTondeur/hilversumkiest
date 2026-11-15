@@ -1,0 +1,118 @@
+[
+  {
+    "sleutel": "wonen-eigen-behoefte|pro",
+    "id": "wonen-eigen-behoefte",
+    "s": -1,
+    "kern": "Meer bouwen dan de woonvisies, ook op het Mediapark",
+    "toelichting": "PRO wil de bouwambities verhogen naar 400 woningen per jaar in Hilversum en 750 in vier jaar in de dorpen om de woningnood te bestrijden, en ziet het Mediapark als campus voor wonen, werken en leren. Wel noemt de lijst een straatje of wijkje erbij voor inwoners die in hun eigen dorp of wijk willen blijven wonen.",
+    "citaat": "Het beste middel om de woningnood te bestrijden is bijbouwen. Zo kunnen meer mensen een woning krijgen. De ambities uit de woonvisies verhogen we.",
+    "bron": "p. 6",
+    "soort": "afgeleid",
+    "zeker": "middel",
+    "motivering": "Het programma noemt 'alleen voor eigen inwoners' niet, maar verhoogt de bouwambities expliciet tegen de woningnood in het algemeen; dat laat alleen een afwijzende lezing toe, dus afgeleid -1. B had de goede score, maar steunde op de 66-procent-afspraak, die over betaalbaarheid gaat en niet over voor wie gebouwd wordt."
+  },
+  {
+    "sleutel": "wonen-nederhorst-noord-open|pro",
+    "id": "wonen-nederhorst-noord-open",
+    "s": 1,
+    "kern": "Stemde in Wijdemeren tegen een woonwijk in Nederhorst-Noord",
+    "toelichting": "In 2022 stemde PvdA-GroenLinks in Wijdemeren, de voorganger van PRO, voor het definitief weigeren van een woonwijk van ongeveer 150 woningen ten noorden van Nederhorst den Berg. Het programma van 2026 noemt het gebied niet en wil juist meer bouwen, ook aan de randen van het groen en op landbouwgrond die aan bebouwing grenst, maar niet ten koste van de open ruimte tussen de dorpen of kwetsbare natuur.",
+    "citaat": null,
+    "bron": "Raad Wijdemeren, 27-10-2022: weigering verklaring van geen bedenkingen Nederhorst den Berg Noord (PvdA-GroenLinks voor weigeren, aangenomen 14-4)",
+    "soort": "stemgedrag",
+    "zeker": "laag",
+    "motivering": "De stemming ging precies over dit gebied en de continuiteit van de Wijdemeerse fractie (een gezamenlijke PvdA-GL-fractie, nu de lijsttrekker van PRO) is helder, dus A's +1 blijft staan. De bouwlust van het programma van 2026 maakt het onzeker; daarom laag en de spanning in de toelichting."
+  },
+  {
+    "sleutel": "wonen-parkeernorm|pro",
+    "id": "wonen-parkeernorm",
+    "s": null,
+    "kern": null,
+    "toelichting": null,
+    "citaat": null,
+    "bron": null,
+    "soort": null,
+    "motivering": "Het programma noemt alleen maatwerk in parkeernormen waar wonen en zorg worden gecombineerd, niet een lagere norm bij stations; bij hoogbouw rond OV-knooppunten wil PRO parkeren juist onder de grond. B las de passage over wonen met zorg te ruim; A had gelijk met null."
+  },
+  {
+    "sleutel": "verkeer-vergunning|pro",
+    "id": "verkeer-vergunning",
+    "s": -1,
+    "kern": "Bewoners blijven betalen; meerdere vergunningen per adres duurder",
+    "toelichting": "PRO vindt dat er eerlijk betaald moet worden voor parkeren en dat de vergunningsprijzen vergelijkbaar zijn met die in andere steden van dezelfde grootte. Een tweede of volgende vergunning op hetzelfde adres wil de lijst duurder maken. Over een gratis eerste vergunning zegt het programma niets letterlijk.",
+    "citaat": "De kosten van parkeervergunningen zijn vergelijkbaar met die in steden van ongeveer dezelfde omvang als Hilversum. Om minder auto’s op straat te hebben, maken we de prijs voor meerdere vergunningen op hetzelfde adres hoger.",
+    "bron": "p. 34",
+    "soort": "afgeleid",
+    "zeker": "middel",
+    "motivering": "De richting van B klopt (PRO vindt de huidige prijzen redelijk en wil eerlijk betalen), maar een gratis eerste vergunning wordt nergens letterlijk afgewezen, dus hooguit afgeleid -1 in plaats van B's -2 als programma. A miste de passage."
+  },
+  {
+    "sleutel": "veiligheid-coffeeshops-scholen|pro",
+    "id": "veiligheid-coffeeshops-scholen",
+    "s": null,
+    "kern": null,
+    "toelichting": null,
+    "citaat": null,
+    "bron": null,
+    "soort": null,
+    "motivering": "PRO wil maximaal zes coffeeshops en die buiten de woonwijken (MijnStem 'Het aantal coffeeshops verminderen'), maar zegt niets over afstand tot scholen of over het verplaatsen van bestaande zaken. B's afleiding is te ver gezocht; A had gelijk met null."
+  },
+  {
+    "sleutel": "asiel-blijvende-opvang|pro",
+    "id": "asiel-blijvende-opvang",
+    "s": null,
+    "kern": null,
+    "toelichting": null,
+    "citaat": null,
+    "bron": null,
+    "soort": null,
+    "motivering": "Het Stemgids-antwoord ('asielzoekers zullen er immers altijd zijn') gaat over doorgaan met opvang zonder Spreidingswet, niet over vaste versus tijdelijke locaties. Nergens in de bronnen staat een keuze tussen die twee; B ging te ver, A had gelijk met null."
+  },
+  {
+    "sleutel": "asiel-kader-dorpen|pro",
+    "id": "asiel-kader-dorpen",
+    "s": null,
+    "kern": null,
+    "toelichting": null,
+    "citaat": null,
+    "bron": null,
+    "soort": null,
+    "motivering": "In Hilversums Nieuws prijst PRO het 'gesprek met de stad', maar het antwoord ging over instemming van omwonenden en is afgekapt; over het doortrekken van het kader naar de dorpen zegt het niets. Met PRO's nadruk op 'niet over ons maar met ons' is ook een nieuw gesprek met de dorpen een mogelijke lezing, dus null zoals A, niet B's +1."
+  },
+  {
+    "sleutel": "asiel-regenbooggeld|pro",
+    "id": "asiel-regenbooggeld",
+    "s": 1,
+    "kern": "Meer gemeentelijk geld voor lokaal inclusiebeleid",
+    "toelichting": "PRO wil het budget voor lokaal inclusiebeleid vergroten en het Meldpunt Discriminatie voldoende subsidiëren; ook het aanpakken van intimidatie en geweld tegen LHBTI+ personen noemt de lijst. Over wat er moet gebeuren als het Rijk stopt met geld voor LHBTI-beleid zegt het programma niets letterlijk.",
+    "citaat": "Toegankelijkheid en gelijke kansen vragen voortdurend aandacht, daarom investeren wij hier extra in. Wij vergroten het budget voor lokaal inclusiebeleid.",
+    "bron": "p. 23",
+    "soort": "afgeleid",
+    "zeker": "middel",
+    "motivering": "Wie het eigen budget voor inclusiebeleid wil vergroten, zal LHBTI-beleid niet laten vallen als het Rijksgeld stopt; dat laat één lezing toe. B's +1 blijft, maar als afgeleid omdat de stelling over het wegvallen van Rijksgeld gaat, wat het programma niet noemt."
+  },
+  {
+    "sleutel": "economie-centrum-compacter|pro",
+    "id": "economie-centrum-compacter",
+    "s": 1,
+    "kern": "Voorkeur voor compacte winkelgebieden; leegstand ombouwen naar wonen",
+    "toelichting": "PRO vindt compacte winkelgebieden toekomstbestendiger dan verspreide winkels en wil langdurig leegstaand vastgoed in woonwijken herbestemmen voor wonen. De lijst zegt dit over winkelgebieden in buurten en dorpen; het centrum van Hilversum en de aanloopstraten noemt zij niet apart.",
+    "citaat": "PRO is groot voorstander van vitale en toekomstbestendige winkelgebieden in de buurten en dorpen. Compacte winkelgebieden zijn toekomstbestendiger dan verspreide winkels.",
+    "bron": "p. 37",
+    "soort": "afgeleid",
+    "zeker": "laag",
+    "motivering": "B zag de juiste passage, maar die gaat over buurten en dorpen en niet over het centrum, dus geen programma-score maar afgeleid +1, laag. A miste de passage."
+  },
+  {
+    "sleutel": "economie-stadsfonds-afschaffen|pro",
+    "id": "economie-stadsfonds-afschaffen",
+    "s": 0,
+    "kern": "Stadsfonds eerst evalueren, daarna zo nodig aanpassen",
+    "toelichting": "PRO wil niet meteen kiezen tussen behouden of afschaffen. De lijst wil alle financiële steun voor ondernemers, waaronder het Stadsfonds, Hilversum Marketing en de bedrijfsinvesteringszones, samen met ondernemers en gebruikers evalueren op effect en opbrengst voor de samenleving, en de regelingen waar nodig aanpassen.",
+    "citaat": "PRO wil alle bestaande financiële ondersteuningen voor ondernemers integraal in kaart brengen (zoals Hilversum Marketing, Stadsfonds Hilversum, centrummanagement en de ‘bedrijfsinvesteringszones’) en samen met hen en gebruikers evalueren op effectiviteit en opbrengst voor de samenleving.",
+    "bron": "p. 37",
+    "soort": "programma",
+    "zeker": "middel",
+    "motivering": "Het programma noemt het Stadsfonds bij naam en laat de uitkomst afhangen van een evaluatie: een bewuste tussenpositie, dus 0 zoals B. A miste de passage."
+  }
+]

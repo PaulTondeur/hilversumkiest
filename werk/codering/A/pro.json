@@ -1,0 +1,1009 @@
+[
+ {
+  "id": "wonen-bouwtempo",
+  "s": 1,
+  "kern": "Wil de bouwambitie verhogen, met oog voor leefbaarheid",
+  "toelichting": "De lijst wil de ambities uit de woonvisies verhogen: in Hilversum van gemiddeld 300 naar 400 woningen per jaar en in de dorpen van 600 naar 750 in vier jaar, onder meer met modulair bouwen. Verdichten mag niet ten koste van de leefbaarheid gaan.",
+  "citaat": "De ambities uit de woonvisies verhogen we. Tot 2030 willen wij voor Hilver-sum van gemiddeld 300 naar 400 woningen per jaar en voor de dorpen van 600 naar 750 in de komende vier jaar.",
+  "bron": "p. 6",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "wonen-eigen-behoefte",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-dorpsrand",
+  "s": 1,
+  "kern": "Beperkt bouwen buiten de bebouwde kom, bij bestaande bebouwing",
+  "toelichting": "De lijst staat bouwen buiten de bebouwde kom toe waar het grenst aan bestaande bebouwing, zoals verdichten van lintbebouwing en de randen van het groen, en wil met provincie en Rijk praten over belemmerende regels. Open ruimte tussen dorpen en kwetsbare natuur moeten ontzien worden.",
+  "citaat": "Het wijzigen van de bestemming landbouw naar wonen is mogelijk op die locaties die nu al grenzen aan bebouwing en of de bebouwde kom.",
+  "bron": "MijnStem: 'Landbouwgrond gebruiken voor woningbouw' (92); MijnStem: 'Meer woningbouw buiten de bebouwde kom toestaan' (60); programma p. 6-7",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "wonen-nederhorst-noord-open",
+  "s": 1,
+  "kern": "Wijdemeerse voorganger weigerde een woonwijk in Nederhorst-Noord",
+  "toelichting": "In 2022 stemde PvdA-GroenLinks in Wijdemeren voor definitieve weigering van een woonwijk van circa 150 woningen ten noorden van Nederhorst den Berg. Het programma van 2026 noemt het gebied niet en wil wel meer bouwen, ook op nieuwe locaties.",
+  "citaat": null,
+  "bron": "Raad Wijdemeren, 27-10-2022: weigering verklaring van geen bedenkingen Nederhorst den Berg Noord (PvdA-GroenLinks voor weigeren, aangenomen 14-4)",
+  "soort": "stemgedrag",
+  "zeker": "laag"
+ },
+ {
+  "id": "wonen-hoogbouw",
+  "s": 1,
+  "kern": "Hoger bouwen op geschikte locaties, zorgvuldig per plek",
+  "toelichting": "De lijst ziet hoogbouw als een van de oplossingen voor woningnood en onderzoekt per locatie zorgvuldig waar hoger bouwen kan. Bij OV-knooppunten sluit zij het niet uit; ook een uitzondering tot 25 meter in het centrum van de Meent vindt zij acceptabel.",
+  "citaat": "Hoogbouw is een van de oplossingen voor de woningnood. Op geschikte locaties onderzoeken we zorgvuldig de mogelijkheden om hoger te bouwen. In de buurt van OV-knooppunten sluiten we hoger bouwen niet uit.",
+  "bron": "MijnStem: 'Meer hoogbouw toestaan' (77); Stemgids: Meent tot 25 meter (voor); programma p. 6",
+  "soort": "mijnstem",
+  "zeker": "hoog"
+ },
+ {
+  "id": "wonen-hoogbouw-alleen-station",
+  "s": 0,
+  "kern": "Hoogbouw per locatie bekijken, niet alleen bij stations",
+  "toelichting": "De lijst onderzoekt hoogbouw per geschikte locatie en sluit het bij OV-knooppunten niet uit. Ze beperkt het niet tot stations en centrum: ze steunt ook een uitzondering tot 25 meter in het centrum van de Meent.",
+  "citaat": "Op eventueel geschikte locaties onderzoeken we zorgvuldig de mogelijkhe-den om hoger te bouwen. In de buurt van OV-knooppunten sluiten we hoger bouwen niet uit.",
+  "bron": "p. 6; Stemgids: Meent tot 25 meter (voor)",
+  "soort": "programma",
+  "zeker": "laag"
+ },
+ {
+  "id": "wonen-kantoren-naar-wonen",
+  "s": 1,
+  "kern": "Kantoren herbestemmen tot woningen, zonder verplichte compensatie",
+  "toelichting": "De lijst wil bij herontwikkeling van kantoren en ander vastgoed een slimme combinatie met woningbouw. Ze wijst in de Stemgids af dat ombouw alleen mag als er elders ruimte voor werk bijkomt.",
+  "citaat": "Bij herontwikkeling van vastgoed zoals kan-toren, scholen of sporthallen zetten we in op een slimme combinatie met woningbouw.",
+  "bron": "Stemgids: kantoren naar wonen alleen met compensatie (tegen); programma p. 7; Raad Hilversum, 10-06-2026: amendement A26-58 tegen",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "wonen-sociale-huur-per-project",
+  "s": -2,
+  "kern": "Wil vast minimum per project: 33 tot 40 procent sociale huur",
+  "toelichting": "De lijst wil een algemene eis bij nieuwbouw van minimaal 33 tot 40 procent sociale huur en 33 procent middenhuur of betaalbare koop. Het resterende deel mag duur zijn.",
+  "citaat": "Daarom zorgen wij dat bij de bouw van nieuwe woningen de eis is om minimaal 33 tot 40 procent sociale huur en 33 procent middenhuur of betaalbare koop te bouwen.",
+  "bron": "p. 6; MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw' (96)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "wonen-lokale-binding-helft",
+  "s": -1,
+  "kern": "Wil minimaal 25 procent voorrang voor Hilversummers, niet de helft",
+  "toelichting": "De lijst wil dat bij woningtoewijzing minimaal 25 procent standaard naar Hilversummers gaat, naast regionale binding als voorwaarde. Dat is minder dan de helft.",
+  "citaat": "Bij woningtoewijzing gaat minimaal 25 procent van de woningen standaard naar Hilversummers.",
+  "bron": "p. 8",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "wonen-voorrang-beroepen-weg",
+  "s": 2,
+  "kern": "Stopt de voorrang voor beroepsgroepen",
+  "toelichting": "De lijst wil minder voorrangsregelingen: toewijzen op inschrijfduur en zoekgedrag, met een urgentieregeling voor mensen in nood. De regelingen voor specifieke beroepsgroepen worden beëindigd.",
+  "citaat": "We maken een einde aan de regelingen voor specifieke be-roepsgroepen.",
+  "bron": "p. 7",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "wonen-starterswoning-boven-lening",
+  "s": -1,
+  "kern": "Houdt de starterslening, naast starterswoningen",
+  "toelichting": "De lijst vindt de starterslening een effectieve en veel gebruikte regeling die ook mensen met een lager inkomen kansen geeft. Voor jongeren plant ze daarnaast starterswoningen in de dorpen.",
+  "citaat": "PRO is het hiermee eens omdat het een effectieve en veel gebruikte regeling is. Het biedt ook inwoners met een wat lager inkomen (waaronder jongeren) de kans een huis te kopen.",
+  "bron": "Stemgids: 'De gemeente moet starters helpen een huis te kopen met een starterslening' (voor)",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "wonen-grondbeleid",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "wonen-parkeernorm",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-terugdraaien",
+  "s": -2,
+  "kern": "Wil betaald parkeren houden en zo nodig uitbreiden",
+  "toelichting": "De lijst wil het betaald parkeren niet terugdraaien. Ze wil met bewoners inventariseren waar uitbreiding gewenst is, omdat de overlast zich naar buurten net buiten het gebied heeft verplaatst.",
+  "citaat": "Betaald parkeren zorgt zichtbaar voor min-der auto’s op straat.",
+  "bron": "p. 34; Stemgids: terugdraaien betaald parkeren (tegen); MijnStem: 'Betaald parkeren in het centrum en de wijken' (72)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "verkeer-buurt-beslist",
+  "s": -1,
+  "kern": "Buurtverzoek weegt mee, maar beslist niet",
+  "toelichting": "De lijst voert betaald parkeren in waar het een probleem oplost en niet in dorpen en wijken zonder parkeeroverlast. Als buurten er zelf om vragen, bekijkt zij de voor- en nadelen. De beslissing blijft bij de gemeente en niet bij een bewonersmeerderheid.",
+  "citaat": "Als buurten er zelf om vragen, bekijken we wat de voordelen kunnen zijn.",
+  "bron": "p. 34; p. 4",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "verkeer-bezoek",
+  "s": 1,
+  "kern": "Bezoek blijft het bezoekerstarief betalen",
+  "toelichting": "De lijst is tegen gratis parkeren voor bezoek van bewoners in betaald-parkeergebied en verwijst naar het bestaande bezoekerstarief.",
+  "citaat": "De zondag-visite kan in de meeste gevallen al gebruik maken van het bezoekerstarief.",
+  "bron": "Stemgids: 'Bezoekers van bewoners moeten gratis kunnen parkeren' (tegen); MijnStem: 'Parkeren in het centrum op zondag gratis maken'",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "verkeer-eerste-uur",
+  "s": -1,
+  "kern": "Wil dat parkeren in betaalde gebieden betaald blijft",
+  "toelichting": "De lijst wil dat er eerlijk voor parkeren wordt betaald, omdat betaald parkeren auto's van straat haalt. Een gratis eerste uur noemt ze niet.",
+  "citaat": "Betaald parkeren draagt bij aan minder auto's op straat en meer ruimte voor fietsers en voetgangers.",
+  "bron": "MijnStem: 'Parkeren in het centrum van Hilversum op zondag gratis maken' (49); Hilversums Nieuws 29-10-2026: gratis parkeren terug (oneens)",
+  "soort": "afgeleid",
+  "zeker": "laag"
+ },
+ {
+  "id": "verkeer-vergunning",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "verkeer-opbrengst",
+  "s": 2,
+  "kern": "Parkeergeld mag naar mobiliteit in brede zin",
+  "toelichting": "De lijst wil parkeeropbrengsten inzetten voor parkeren, vervoer en mobiliteit in brede zin en voor handhaving. Er hoeft geen een-op-een relatie tussen opbrengsten en uitgaven te zijn.",
+  "citaat": "De opbrengsten uit betaald parkeren ge-bruiken we voor kostendekkende maatre-gelen op het gebied van parkeren, vervoer en mobiliteit in de brede zin en handhaving.",
+  "bron": "p. 38",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "verkeer-fietspad",
+  "s": 2,
+  "kern": "Fietsers krijgen voorrang op parkeerruimte",
+  "toelichting": "De lijst wil meer fysieke ruimte voor veilige fietspaden, vooral rond de centrumring, en zoekt ook waar de ruimte beperkt is oplossingen die zoveel mogelijk ruimte aan fietsers geven. In woongebieden komt eerst de voetganger, dan de fiets en pas daarna de eigen auto.",
+  "citaat": "Ook waar de ruimte beperkt is, zoeken we oplossingen die zo veel mogelijk ruimte geven aan fietsers.",
+  "bron": "p. 33; MijnStem: 'Investeren in fietspaden of parkeerplekken' (18)",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "verkeer-autoluw",
+  "s": 2,
+  "kern": "Maakt het centrum autoluw, met radialen naar garages",
+  "toelichting": "De lijst wil het centrum autoluw maken: in plaats van de centrumring komen radialen vanaf de buitenring naar de parkeergarages rond het centrum, met meer ruimte voor voetgangers, fietsers en groen.",
+  "citaat": "We willen het centrum Hilversum autoluw maken.",
+  "bron": "p. 34",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "verkeer-zero-emissie",
+  "s": -1,
+  "kern": "Wil de zero-emissiezone niet opgeven, stapsgewijs",
+  "toelichting": "De lijst vindt dat Hilversum het plan voor een zero-emissiezone in het centrum niet moet opgeven en wil stapsgewijs toewerken naar emissievrij verkeer.",
+  "citaat": "Wij werken stapsgewijs toe naar emissievrij verkeer in Hilversum.",
+  "bron": "Stemgids: zero-emissiezone niet opgeven (voor, 'Pro wil stapsgewijs toewerken naar emissievrij verkeer in Hilversum'); programma p. 9",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "verkeer-30-hoofdwegen",
+  "s": -2,
+  "kern": "Wil 30 km/u overal in de bebouwde kom",
+  "toelichting": "De lijst wil 30 km/u als norm in elke bebouwde kom, dus ook op doorgaande wegen. Alleen op de provinciale wegen N525 en N524 vraagt ze 60 km/u.",
+  "citaat": "Maximaal 30 km/uur wordt de norm in elke bebouwde kom.",
+  "bron": "p. 33; MijnStem: 'Maximumsnelheid van 30 km/u invoeren in de bebouwde kom' (96)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "verkeer-30-dorpswegen",
+  "s": 2,
+  "kern": "Maakt enkele dorpswegen direct 30 km/u",
+  "toelichting": "De lijst wil enkele ontsluitingswegen tussen de dorpen 30 km/u maken, waar de weg smal is en voetgangers, fietsers en auto's de weg delen, zoals Noordereinde, Zuidereinde en de Kortenhoefsedijk. In de Stemgids is ze ook voor meteen invoeren, voordat de weg is aangepast.",
+  "citaat": "PRO wil enkele ontsluitingswegen tussen de dorpen 30 km/uur maken. Dat doen we waar de weg smal is en voetgangers, fietsers en auto’s de weg met elkaar delen.",
+  "bron": "Stemgids: 30 km/u op drukke dorpsstraten, ook als de weg nog niet is aangepast (voor); programma p. 33",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "klimaat-alleen-rijk",
+  "s": -2,
+  "kern": "Houdt eigen klimaatdoelen en gaat daar verder in",
+  "toelichting": "De lijst houdt eigen doelen aan, zoals het halen van de regionale opwekdoelstelling van 2030, en wil eerder dan 2050 klimaatneutraal zijn.",
+  "citaat": "We inten-siveren onze inzet om die doelstelling in 2030 te halen",
+  "bron": "p. 28; MijnStem: 'De gemeente eerder dan 2050 klimaatneutraal maken' (75)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "klimaat-2040",
+  "s": 1,
+  "kern": "Eerder dan 2050 klimaatneutraal, geen jaartal genoemd",
+  "toelichting": "De lijst vindt dat de gemeente niet tot 2050 kan wachten met klimaatneutraal worden. Een jaartal als 2040 noemt ze niet.",
+  "citaat": "We kunnen niet wachten tot 2050 om klimaatneutraal te zijn.",
+  "bron": "MijnStem: 'De gemeente eerder dan 2050 klimaatneutraal maken' (75)",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "klimaat-gas-tijdpad",
+  "s": 2,
+  "kern": "Warmteprogramma geeft buurt voor buurt een tijdpad",
+  "toelichting": "De nieuwe raad stelt volgens de lijst medio 2027 het Warmteprogramma vast, het spoorboekje voor hoe de gemeente in 25 jaar buurt voor buurt van het aardgas af gaat. In de Stemgids is ze ook voor een plan met duidelijke tussendoelen.",
+  "citaat": "De nieuwe gemeenteraad stelt medio 2027 het Warmteprogramma vast. Dit vormt het spoorboekje van hoe binnen de gemeente in 25 jaar buurt voor buurt van het aardgas af gaat.",
+  "bron": "p. 26; Stemgids: plan met tussendoelen van het aardgas af (voor)",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "klimaat-isolatie-eerst",
+  "s": 0,
+  "kern": "Wil zowel isolatie als warmtenetten versnellen",
+  "toelichting": "De lijst wil alle inwoners helpen isoleren, vooral wie dat niet zelf kan betalen, en wil tegelijk de bestaande warmtenetinitiatieven versnellen. Ze kiest geen volgorde.",
+  "citaat": "Bestaande initiatieven voor warmtenetten in de Hilversumse Meent, rond de afvalwa-terzuiveringen in Hilversum Oost en Blijk-polder (Nederhorst den Berg) en in Korten-hoef-Noord (oppervlaktewater) proberen we te versnellen.",
+  "bron": "p. 24 (isolatie); p. 28 (warmtenetten)",
+  "soort": "programma",
+  "zeker": "laag"
+ },
+ {
+  "id": "klimaat-warmtenet-markt",
+  "s": -2,
+  "kern": "Gemeente neemt zelf het initiatief bij warmtenetten",
+  "toelichting": "De lijst wil dat de gemeente het initiatief neemt waar een warmtenet de aangewezen route is, en bij gebiedsontwikkelingen zo nodig zelf risicodragend optreedt.",
+  "citaat": "Bij gebiedsontwikkelingen zetten we in op collectieve warmtesystemen. Als dat nodig is, neemt de gemeente hiertoe zelf het initiatief (risicodragend)",
+  "bron": "p. 28",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "klimaat-wind-draagvlak",
+  "s": -2,
+  "kern": "Verzet tegen windturbines bij dorpen steunt de lijst niet",
+  "toelichting": "De lijst is voor windenergie en wil geschikte plaatsen identificeren en zo snel mogelijk projecten starten. Ze is tegen het verzet van de gemeente tegen grote windmolens bij de dorpen, zoals bij Nederhorst den Berg.",
+  "citaat": "PRO is voor zonneweides en windenergie. We gaan geschikte plaatsen identificeren en zo snel mogelijk projecten opstarten.",
+  "bron": "Stemgids: verzet tegen grote windmolens vlak bij de dorpen (tegen); MijnStem: 'Windturbines in het buitengebied toestaan' (74); programma p. 28",
+  "soort": "stemgids",
+  "zeker": "hoog"
+ },
+ {
+  "id": "klimaat-kleine-windmolen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "klimaat-zon-boerenland",
+  "s": 1,
+  "kern": "Voor zonneweides; geen eigen standpunt over combinatie met landbouw",
+  "toelichting": "De lijst is voor zonneweides en wil geschikte plaatsen daarvoor in kaart brengen. Een combinatie van panelen en landbouw op dezelfde grond noemt ze niet apart.",
+  "citaat": "PRO is voor zonneweides en windenergie. Wij gaan alle mogelijk geschikte plaatsen identificeren en zo snel mogelijk projecten opstarten.",
+  "bron": "p. 28",
+  "soort": "programma",
+  "zeker": "laag"
+ },
+ {
+  "id": "klimaat-kern-verkenning",
+  "s": -2,
+  "kern": "Een kleine kerncentrale is onbespreekbaar",
+  "toelichting": "De lijst is tegen een onderzoek naar een kleine kerncentrale en wil inzetten op wind, zon en aqua- en geothermie.",
+  "citaat": "Een kleine kerncentrale in Hilversum is voor PRO niet bespreekbaar.",
+  "bron": "p. 28; Stemgids: onderzoek naar kleine kerncentrale (tegen)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "klimaat-kern-locatie",
+  "s": -2,
+  "kern": "Een kleine kerncentrale is onbespreekbaar",
+  "toelichting": "De lijst wil geen kleine kerncentrale in Hilversum en dus ook geen plek daarvoor vrijhouden.",
+  "citaat": "Een kleine kerncentrale in Hilversum is voor PRO niet bespreekbaar.",
+  "bron": "p. 28",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "klimaat-houtstook",
+  "s": 2,
+  "kern": "Voert de Stookwijzer in, met stookverbod bij ongunstig weer",
+  "toelichting": "De lijst wil de Stookwijzer invoeren, waardoor stoken bij ongunstig weer zo nu en dan verboden is.",
+  "citaat": "We willen de zogenaamde ‘stookwijzer’ invoeren, waardoor stoken bij ongunstig weer zo nu en dan verboden is.",
+  "bron": "p. 9",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "natuur-afsluiten",
+  "s": 1,
+  "kern": "Kiest bij spanning voor de natuur",
+  "toelichting": "De lijst vindt dat bij spanning tussen recreatie en natuur de natuur voorgaat. Ze wil het natuurgebied waar mogelijk wel openbaar toegankelijk houden.",
+  "citaat": "Juist daar waar er spanning is tussen recreatie en natuur moeten we voor het laatste kiezen. De natuur heeft geen stem, die moeten wij haar geven.",
+  "bron": "Stemgids: wandelen en recreëren even zwaar als natuurbescherming (tegen); programma p. 32",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "natuur-snelvaren",
+  "s": 2,
+  "kern": "Beëindigt het snelvaren op de plassen",
+  "toelichting": "De lijst wil het snelvaren op de plassen beëindigen, in overleg met het Plassenschap als vergunningverlener en de betrokken ondernemers.",
+  "citaat": "PRO wil het snelvaren op de plassen beëindigen, in samenspraak met het Plassenschap (als vergunningverlener) en de betrokken ondernemers.",
+  "bron": "p. 32",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "natuur-recreant-betaalt",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-snippergroen",
+  "s": -1,
+  "kern": "Groen niet opofferen; verdichten en hoogbouw als alternatief",
+  "toelichting": "De lijst wil geen openbaar groen verliezen in buurten met weinig groen. Tegen de woningnood zet ze in op verdichting en hoogbouw waar dat kan, met parkeren onder de grond.",
+  "citaat": "Oneens. De woningnood is enorm. Daar kunnen we de ogen niet voor sluiten. We zetten in op verdichting en hoogbouw waar dat kan, met parkeren zoveel mogelijk onder de grond.",
+  "bron": "Hilversums Nieuws 22-10-2026: 'desnoods groen opofferen' (oneens); Stemgids: geen openbaar groen meer weg in groenarme buurten (voor)",
+  "soort": "hilversumsnieuws",
+  "zeker": "middel"
+ },
+ {
+  "id": "natuur-groennorm",
+  "s": 1,
+  "kern": "Werkt stap voor stap toe naar de 3-30-300-norm",
+  "toelichting": "De lijst hanteert de 3-30-300-regel als maatstaf voor genoeg groen en werkt daar stap voor stap naartoe. Een harde eis bij elk bouwplan noemt ze niet.",
+  "citaat": "Planologen noemen dat de 3-30-300-regel. Hier werken we stap voor stap naartoe.",
+  "bron": "p. 9; Stemgids: geen openbaar groen weg in buurten met weinig groen (voor)",
+  "soort": "programma",
+  "zeker": "laag"
+ },
+ {
+  "id": "natuur-bomen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-maaien",
+  "s": -1,
+  "kern": "Laat bermen groeien voor insecten",
+  "toelichting": "De lijst laat bermen groeien voor insecten en vergroent straten en pleinen. Tegelijk wil ze goed onderhoud in de openbare ruimte.",
+  "citaat": "In alle stads- en dorpskernen planten we bomen, plaatsen we bloembakken, laten we bermen groei-en voor de insecten",
+  "bron": "p. 31",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "natuur-landbouw-natuur",
+  "s": 2,
+  "kern": "Steunt aanleg van nieuwe natuur bij de plassen",
+  "toelichting": "De lijst steunt het herstel en de uitbreiding van beschermde natuur in het Plassengebied, te beginnen bij Kortenhoef Oost, de Weersloot en de Ster van Loosdrecht, in overleg met de grondeigenaren.",
+  "citaat": "We ondersteunen de plannen van de provincie Noord-Holland voor herstel en uitbreiding van de Europees beschermde natuur van het Plassengebied (NNN)",
+  "bron": "p. 31; MijnStem: 'In het buitengebied meer ruimte geven aan landbouw of natuur' (74)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "natuur-stikstof-boeren",
+  "s": -2,
+  "kern": "Steunt de stikstofplannen voor boeren bij de plassen",
+  "toelichting": "De lijst steunt de stikstofmaatregelen van het kabinet bij de plassen, en wil ruimte laten voor boeren die natuurvriendelijk, diervriendelijk of biologisch werken.",
+  "citaat": "Enkele tiental-len boeren in dat gebied krijgen te maken met beperkende maatregelen betreffende uitstoot en omvang van de veestapel. PRO ondersteunt deze plannen.",
+  "bron": "p. 32",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "natuur-gifzone",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "natuur-vliegveld",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-minima-grens",
+  "s": -2,
+  "kern": "Houdt de grens voor minimaregelingen op 130 procent",
+  "toelichting": "De lijst houdt de inkomensgrens voor minimaregelingen op 130 procent van de bijstandsnorm, versimpelt de toegang en kent regelingen automatisch toe aan wie al bekend is.",
+  "citaat": "We houden de inkomensgrens voor mi-nimaregelingen op 130 procent van de bijstandsnorm.",
+  "bron": "p. 17; MijnStem: 'Armoederegelingen voor inwoners op' (96)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "zorg-jeugd-besparing",
+  "s": -1,
+  "kern": "Wil niet bezuinigen als zorg daardoor wegvalt",
+  "toelichting": "De lijst wil niet bezuinigen op jeugdzorg als mensen daardoor niet de nodige ondersteuning krijgen. Als coalitiepartij stemde ze in juli 2026 wel tegen een amendement om de besparing te schrappen.",
+  "citaat": "PRO wil niet bezuinigen als dat betekent dat mensen niet de ondersteuning of zorg krijgen die ze nodig hebben.",
+  "bron": "Stemgids: niet miljoenen bezuinigen op de jeugdzorg (voor); programma p. 38; Raad Hilversum, 01-07-2026: amendement A26-88 (GroenLinks en PvdA tegen)",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "zorg-wmo-kwijtschelding",
+  "s": -1,
+  "kern": "Wil inkomensafhankelijke Wmo-bijdrage in plaats van kwijtschelding",
+  "toelichting": "De lijst werkt toe naar een inkomensafhankelijke bijdrage bij de Wmo. In juni 2025 stemden GroenLinks en PvdA tegen een motie om de eigen bijdrage kwijt te schelden voor inkomens tot 130 procent.",
+  "citaat": "We werken toe naar de invoering van een inkomensafhankelijke bijdrage bij de WMO, vooruitlopend op de aankomende wetswij-ziging.",
+  "bron": "p. 15; Raad Hilversum, 11-06-2025: motie M25-047 (GroenLinks en PvdA tegen)",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "zorg-wmo-zonderindicatie",
+  "s": 1,
+  "kern": "Activiteiten zonder indicatie, dicht bij huis",
+  "toelichting": "De lijst wil activiteiten liefst in de eigen woonomgeving aanbieden, zonder indicatie. Ook hoeft wie blijvend zorg nodig heeft niet steeds een nieuwe Wmo-indicatie aan te vragen.",
+  "citaat": "Activiteiten bieden we liefst in de eigen woonomgeving en deze kun je bezoeken zonder indicatie.",
+  "bron": "p. 14-15",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "zorg-aanbieders-een",
+  "s": 2,
+  "kern": "Liefst één zorgaanbieder per wijk of dorp",
+  "toelichting": "De lijst wil per wijk of dorp liefst één zorgaanbieder voor jeugdzorg en Wmo in plaats van twaalf, met scherpere kwaliteitscriteria.",
+  "citaat": "We willen per wijk of dorp niet 12 maar het liefst één zorgaanbieder voor Jeugdzorg en WMO, met scherpere kwaliteitscriteria.",
+  "bron": "p. 15",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "zorg-bijstand-tegenprestatie",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "zorg-buurthuis-elkewijk",
+  "s": 2,
+  "kern": "Elke wijk en elk dorp krijgt een buurtkamer",
+  "toelichting": "De lijst wil dat elke wijk en elk dorp zonder buurthuis een buurtkamer heeft waar inwoners elkaar kunnen ontmoeten. Wie dat betaalt, noemt ze niet.",
+  "citaat": "Elke wijk en elk dorp zonder buurthuis moet kunnen beschikken over een ‘buurtkamer’",
+  "bron": "p. 10; MijnStem: 'In alle wijken en dorpen een buurthuis openen' (96)",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "zorg-buurthuis-jaarsubsidie",
+  "s": -1,
+  "kern": "Wil meerjarige subsidie, maar korter dan vijf jaar",
+  "toelichting": "De lijst is voor meerjarensubsidie voor wijk- en buurtcentra, maar vindt vijf jaar te lang, omdat dat langer is dan de raadsperiode van vier jaar.",
+  "citaat": "PRO is voor meerjarensubsidies, maar een periode van 5 jaar is te lang.",
+  "bron": "Stemgids: vijf jaar subsidie voor wijk- en buurtcentra (tegen)",
+  "soort": "stemgids",
+  "zeker": "hoog"
+ },
+ {
+  "id": "zorg-preventie-ongezond",
+  "s": 1,
+  "kern": "Brancheringsbeleid met minder fastfood, vooral rond scholen",
+  "toelichting": "De lijst wil een brancheringsbeleid met meer gevarieerd en gezond aanbod en minder fastfood, en een gezonde schoolomgeving in 2030. Over vapeshops noemt ze geen weringsregels.",
+  "citaat": "PRO gaat actief werken aan een brancherings-beleid met een meer gevarieerd en gezond aanbod en minder fastfood.",
+  "bron": "p. 14; p. 20",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-boa-taken",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-camera-uitbreiden",
+  "s": 0,
+  "kern": "Camera's waar nodig, met afweging van privacy",
+  "toelichting": "De lijst vindt cameratoezicht effectief in het uitgaansgebied. Uitbreiden heeft zin als er meer plekken zijn waar mensen zich onveilig voelen, maar privacy blijft een afweging per geval.",
+  "citaat": "Uitbreiden heeft zin als er meer gebieden zijn waar mensen zich niet veilig voelen. Tegelijkertijd is het belangrijk oog te houden voor de privacy.",
+  "bron": "MijnStem: 'Cameratoezicht op straat' (52); Stemgids: camera's op overlastplekken blijven (voor)",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "veiligheid-coffeeshops-aantal",
+  "s": 2,
+  "kern": "Maximaal zes coffeeshops",
+  "toelichting": "De lijst wil het aantal coffeeshops via vergunningen beperken tot maximaal zes en onderzoekt of Hilversum meedoet aan het experiment met legaal gekweekte wiet.",
+  "citaat": "Het aantal coffeeshops beperken we, door mid-del van vergunningen, tot maximaal zes.",
+  "bron": "p. 12; MijnStem: 'Het aantal coffeeshops verminderen' (75)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "veiligheid-coffeeshops-scholen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-bibob",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "veiligheid-verlichting-fietspaden",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-zonder-spreidingswet",
+  "s": 2,
+  "kern": "Blijft asielzoekers opvangen, ook zonder wet",
+  "toelichting": "De lijst wil dat de gemeente asielzoekers blijft opvangen ook als de Spreidingswet wordt ingetrokken, omdat asielzoekers er altijd zullen zijn.",
+  "citaat": "PRO staat voor een humane opvang van asielzoekers. Asielzoekers zullen er immers altijd zijn.",
+  "bron": "Stemgids: opvang blijven bieden als de Spreidingswet verdwijnt (voor)",
+  "soort": "stemgids",
+  "zeker": "hoog"
+ },
+ {
+  "id": "asiel-instroom-voorwaarde",
+  "s": -2,
+  "kern": "Voert de Spreidingswet uit, zonder voorwaarde",
+  "toelichting": "De lijst wil dat de gemeente haar deel van de opvang regelt en de Spreidingswet uitvoert, zonder dat het Rijk eerst de instroom hoeft te beperken.",
+  "citaat": "We voeren de spreidingswet uit.",
+  "bron": "p. 7; MijnStem: 'Opvangplekken voor asielzoekers' (68); Raad Hilversum, 01-07-2026: motie M26-86 (GroenLinks en PvdA tegen)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "asiel-spreidingswet-afschaffen",
+  "s": -1,
+  "kern": "Voert de Spreidingswet uit en wil hem niet afschaffen",
+  "toelichting": "De lijst wil dat huisvesting van asielzoekers eerlijk wordt geregeld en voert daarom de Spreidingswet uit. Een oproep aan het Rijk om de wet af te schaffen past daar niet bij.",
+  "citaat": "Huisvesting voor statushouders, asielzoekers en Oekraïense vluchtelingen moet in Nederland op een eerlijke manier geregeld worden. Hilversum werkt daar natuurlijk aan mee. We voeren de spreidingswet uit.",
+  "bron": "p. 7",
+  "soort": "afgeleid",
+  "zeker": "middel"
+ },
+ {
+  "id": "asiel-blijvende-opvang",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-omwonenden-beslissen",
+  "s": -1,
+  "kern": "Beslissen blijft bij de gemeenteraad",
+  "toelichting": "De lijst wil omwonenden betrekken bij opvanglocaties, onder meer via het gesprek met de stad, maar vindt dat de gemeenteraad beslist.",
+  "citaat": "Beslissen is voorbehouden aan de gemeenteraad.",
+  "bron": "Stemgids: referendum over grote besluiten (tegen); Hilversums Nieuws 12-11-2026: omwonenden en opvang (geen expliciet eens of oneens)",
+  "soort": "afgeleid",
+  "zeker": "laag"
+ },
+ {
+  "id": "asiel-kader-dorpen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "asiel-voorrang-statushouders",
+  "s": -2,
+  "kern": "Statushouders houden recht op urgentie",
+  "toelichting": "De lijst wil dat statushouders recht op urgentie houden bij sociale huur, omdat ze anders te lang in het AZC moeten blijven.",
+  "citaat": "Statushouders houden recht op urgentie.",
+  "bron": "p. 7; Stemgids: voorrang statushouders bij sociale huur (voor)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "asiel-taal-tijdens-procedure",
+  "s": 2,
+  "kern": "Taal en werk al tijdens de asielprocedure",
+  "toelichting": "De lijst volgt het landelijke beleid dat asielzoekers al tijdens hun procedure aan het werk gaan, en zet het programma Vroege Start voort met taallessen in het AZC.",
+  "citaat": "Wij volgen het landelijke beleid ‘asiel-zoekers aan het werk’, ook al tijdens hun procedure.",
+  "bron": "p. 17; p. 23",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "asiel-welkomstprogramma",
+  "s": 1,
+  "kern": "Breidt het welkomstprogramma verder uit",
+  "toelichting": "De lijst wil de begeleiding van de buren van statushouders intensiveren en het welkomstprogramma voor statushouders verder uitbreiden.",
+  "citaat": "We intensiveren de begeleiding van de buren van statushouders en breiden het welkomstprogramma voor statushouders verder uit.",
+  "bron": "p. 23",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "asiel-regenbooggeld",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-mediapark-woningen",
+  "s": 1,
+  "kern": "Meer woningen én meer mediabedrijven op het Media Park",
+  "toelichting": "De lijst wil de woningbouw op het Media Park starten en versnellen en tegelijk het aantal mediabedrijven uitbreiden, zodat wonen, werken en leren samenkomen. Ze ziet dit niet als een keuze voor het een ten koste van het ander, al staat de schuifbalk op meer woningen.",
+  "citaat": "We zetten in op de start en versnelling van de woningbouw en de uitbreiding van het aantal mediabedrijven op het MediaPark.",
+  "bron": "MijnStem: 'Maak een keuze. Op het Media Park' (11, meer woningen); programma p. 35",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "economie-bruisend-hart-uitstel",
+  "s": -2,
+  "kern": "Bruisend Hart moet doorgaan",
+  "toelichting": "De lijst wil dat het plan Bruisend Hart voor het Oosterspoorplein doorgaat zoals de raad het heeft vastgesteld.",
+  "citaat": "Wij zijn voor het plan Bruisend Hart voor het Oosterspoorplein in Hilversum waar mensen (straks) graag reizen, wonen, werken en verblijven in een groene en veilige omgeving.",
+  "bron": "Stemgids: Bruisend Hart doorgaan zoals vastgesteld (voor)",
+  "soort": "stemgids",
+  "zeker": "hoog"
+ },
+ {
+  "id": "economie-centrum-compacter",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-zondag-beperken",
+  "s": -2,
+  "kern": "Winkels mogen op zondag ruimer open",
+  "toelichting": "De lijst vindt dat winkels op zondag ruimer open mogen. PvdA stemde in december 2024 nog tegen de Winkeltijdenverordening 2024.",
+  "citaat": "Winkels moeten op zondag ruimer open mogen.",
+  "bron": "Stemgids: winkels op zondag ruimer open (voor, geen toelichting)",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "economie-citymarketing",
+  "s": 1,
+  "kern": "Blijft toeristische highlights promoten met regionale partners",
+  "toelichting": "De lijst wil de toeristische highlights blijven promoten, samen met regionale partners zoals Visit Gooi & Vecht. Ze wil de bestaande steun aan Hilversum Marketing wel evalueren op effectiviteit.",
+  "citaat": "Als Hilversum blijven we onze toeristische highlights promoten.",
+  "bron": "MijnStem: 'Toerisme in de gemeente stimuleren' (72); programma p. 35 en p. 37",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "economie-stadsfonds-afschaffen",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "economie-plassen-uitbreiden",
+  "s": -1,
+  "kern": "Zoekt balans, maar leunt naar rust voor de natuur",
+  "toelichting": "De lijst wil een goede balans tussen natuurbehoud, waterkwaliteit en een goed verdienmodel voor de recreatiesector, die ze wil behouden en verduurzamen. In het plassengebied kiest ze eerder voor meer rust voor plant en dier.",
+  "citaat": "Pro is voor een goede balans tussen natuurbehoud, biodiversiteit, waterkwaliteit en een goed verdienmodel voor onze recreatieve sector.",
+  "bron": "MijnStem: 'In het plassengebied inzetten op' (71, meer rust voor plant en dier); programma p. 35",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "cultuur-budget-niveau",
+  "s": 2,
+  "kern": "Wil het cultuurbudget verhogen",
+  "toelichting": "De lijst vindt dat Hilversum weinig aan cultuur uitgeeft vergeleken met steden van gelijke omvang en wil dat budget verhogen.",
+  "citaat": "In vergelijking met steden van gelijke omvang geeft Hilversum weinig uit aan cultuur. Dat budget willen we verhogen",
+  "bron": "p. 22; Stemgids: meer geld voor kunst en cultuur (voor)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "cultuur-projectsubsidie-eindig",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-subsidie-bezoekers",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "cultuur-dorpsgarantie",
+  "s": -1,
+  "kern": "Wil subsidies zo snel mogelijk harmoniseren",
+  "toelichting": "De lijst wil de ondersteuning van sport, kunst en cultuur zo snel mogelijk voor de hele gemeente harmoniseren, zodat ook kleine theaters in de dorpen in aanmerking komen. Een garantie van vier jaar noemt ze niet.",
+  "citaat": "We willen er ook voor zorgen dat de ondersteuning in sport, kunst en cul-tuur zo snel mogelijk geharmoniseerd wordt voor de hele gemeente.",
+  "bron": "p. 21",
+  "soort": "afgeleid",
+  "zeker": "laag"
+ },
+ {
+  "id": "cultuur-sportevenementen",
+  "s": 1,
+  "kern": "Werkt actief mee aan City Run en Hilversum Marathon",
+  "toelichting": "De lijst wil dat de gemeente actief meewerkt aan het organiseren van sportevenementen zoals de City Run en een Hilversum Marathon. Of de gemeente er geld in steekt, noemt ze niet.",
+  "citaat": "PRO wil dat de gemeente actief meewerkt aan het organiseren van sportevenementen als de City Run en een Hilversum Mara-thon.",
+  "bron": "p. 22",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "cultuur-monumentenregels",
+  "s": 2,
+  "kern": "Past regels voor monumenten aan voor verduurzaming",
+  "toelichting": "De lijst wil de monumentale regels zorgvuldig aanpassen en voor kleine aanpassingen standaarden maken waarmee ze vergunningvrij of tijdelijk vergund kunnen. Het welstandsbeleid wordt gemoderniseerd.",
+  "citaat": "PRO wil de monumentale regels zorgvuldig aanpassen om dit toch mogelijk te maken, zodat monumenten beschermd blijven",
+  "bron": "p. 26; p. 8",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "cultuur-monumentale-scholen",
+  "s": 2,
+  "kern": "Monumentale scholen herbestemmen en nieuwe scholen bouwen",
+  "toelichting": "De lijst wil een aantal monumentale schoolgebouwen herbestemmen naar wonen met behoud van de monumentale status, en voor de leerlingen moderne scholen bouwen.",
+  "citaat": "Een aantal hiervan willen wij her-bestemmen naar wonen, met behoud van de monumentale status. Voor de leerlingen bouwen we dan moderne scholen",
+  "bron": "p. 20",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "s": 1,
+  "kern": "Dorps- of wijkraad als een dorp of wijk dat wil",
+  "toelichting": "De lijst wil dat bewoners invloed hebben op hun buurt en dat een dorp of wijk die wil een dorps- of wijkraad kan krijgen, met wijk- en dorpsbudgetten.",
+  "citaat": "Als een dorp of wijk dat wil, kan dat via een dorps- of wijkraad.",
+  "bron": "MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners' (66); programma p. 11",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "bestuur-dorpsraad-beslist",
+  "s": 1,
+  "kern": "Experimenteert met budgetten en zeggenschap voor wijken en dorpen",
+  "toelichting": "De lijst wil experimenteren met wijk- en dorpsbudgetten die bewoners en professionals samen beheren, en met meer zeggenschap in het beheer. Eigen besluitvorming van raden noemt ze niet; in oktober 2026 stemden GroenLinks en PvdA tegen een amendement om 'meebeslissen' als hoogste participatieniveau op te nemen.",
+  "citaat": "We experimenteren met wijk- en dorpsbud-getten die worden beheerd door bewoners en professionals samen.",
+  "bron": "p. 11; MijnStem: 'Dorps- en wijkraden laten kiezen door bewoners' (66)",
+  "soort": "mijnstem",
+  "zeker": "laag"
+ },
+ {
+  "id": "bestuur-loket-elk-dorp",
+  "s": -1,
+  "kern": "Geen loket per dorp, wel nabije aanspreekpunten",
+  "toelichting": "De lijst opent niet in elk dorp een loket, maar zet in op goede dienstverlening en communicatie. In de dorpen en wijken wil ze wel decentrale aanspreekpunten in het sociaal domein.",
+  "citaat": "Niet door in elk dorp een loket te openen, maar wel door goede diensten te verlenen en te zorgen voor tijdige, zorgvuldige en juiste communicatie met inwoners.",
+  "bron": "MijnStem: 'Gemeenteloketten in alle dorpen instellen' (23); programma p. 14",
+  "soort": "mijnstem",
+  "zeker": "hoog"
+ },
+ {
+  "id": "bestuur-dorpen-voorrang",
+  "s": 0,
+  "kern": "Geld naar waar het het hardst nodig is, in stad en dorp",
+  "toelichting": "De lijst wil een eerlijke verdeling voor stad en dorp en kiest geen voorrang voor de dorpen. Het geld moet gaan naar waar het het hardst nodig is.",
+  "citaat": "Het geld moet gaan naar waar het het hardste nodig is.",
+  "bron": "Hilversums Nieuws 05-11-2026: meer investeren in de dorpen (geen expliciet eens of oneens)",
+  "soort": "hilversumsnieuws",
+  "zeker": "middel"
+ },
+ {
+  "id": "bestuur-gelijke-regels",
+  "s": 1,
+  "kern": "Wil subsidies voor sport en cultuur zo snel mogelijk gelijktrekken",
+  "toelichting": "De lijst wil de ondersteuning in sport, kunst en cultuur zo snel mogelijk voor de hele gemeente harmoniseren. Over regels en tarieven in het algemeen zegt ze niets.",
+  "citaat": "We willen er ook voor zorgen dat de ondersteuning in sport, kunst en cul-tuur zo snel mogelijk geharmoniseerd wordt voor de hele gemeente.",
+  "bron": "p. 21",
+  "soort": "afgeleid",
+  "zeker": "laag"
+ },
+ {
+  "id": "bestuur-leges-dorpsevenementen",
+  "s": -1,
+  "kern": "Wil leges, maar zo laag mogelijk houden",
+  "toelichting": "De lijst vindt dat ook kleine evenementen kosten voor de gemeente meebrengen en dat leges daar een bijdrage aan zijn. Ze wil de kosten zo laag mogelijk houden en de aanvraag eenvoudig en betaalbaar maken.",
+  "citaat": "Leges zijn een bijdrage in de kosten die de gemeente moet maken om evenementen mogelijk te maken. Die kosten zijn er ook bij kleine evenementen. Uiteraard proberen we die kosten zo laag mogelijk te houden.",
+  "bron": "Stemgids: kleine evenementen in de dorpen geen leges (tegen); programma p. 35",
+  "soort": "stemgids",
+  "zeker": "hoog"
+ },
+ {
+  "id": "bestuur-referendum-advies",
+  "s": 1,
+  "kern": "De raad beslist; referendum meebeslissen is niet gewenst",
+  "toelichting": "De lijst vindt dat beslissen is voorbehouden aan de gemeenteraad en wil inwoners betrekken via het participatiebeleid. Een raadgevend referendum sluit daarbij aan; een beslissend referendum wijst ze af.",
+  "citaat": "Beslissen is voorbehouden aan de gemeenteraad.",
+  "bron": "Stemgids: referendum over grote besluiten (tegen)",
+  "soort": "stemgids",
+  "zeker": "middel"
+ },
+ {
+  "id": "bestuur-regio-minder",
+  "s": 0,
+  "kern": "Meer grip op de regio, en onderzoek naar terugnemen van taken",
+  "toelichting": "De lijst wil meer zeggenschap over de Regio Gooi en Vechtstreek en onderzoekt of Hilversum centrumtaken zoals bescherming en opvang zelf kan terugnemen. Ze blijft samenwerken en wil een sterkere stem in de MRA.",
+  "citaat": "PRO wil dat Hilversum, als centrumge-meente, onderzoekt of het zelf (weer) verantwoordelijk kan worden voor centrum-taken zoals bescherming en opvang.",
+  "bron": "p. 38-39",
+  "soort": "programma",
+  "zeker": "middel"
+ },
+ {
+  "id": "financien-tekort-lasten",
+  "s": 1,
+  "kern": "Liever lasten verhogen dan bezuinigen op voorzieningen",
+  "toelichting": "De lijst kiest bij een tekort eerder voor hogere lokale lasten dan voor bezuinigen op voorzieningen, met zwaardere lasten voor de sterkste schouders.",
+  "citaat": "Zo hoeven wij niet te bezuinigen op voorzieningen.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door' (71, lokale lasten verhogen); programma p. 38",
+  "soort": "mijnstem",
+  "zeker": "hoog"
+ },
+ {
+  "id": "financien-ozb-meestijgen",
+  "s": 2,
+  "kern": "OZB stijgt minstens met de inflatie",
+  "toelichting": "De lijst wil dat de OZB-opbrengst ten minste met de inflatie stijgt, en vindt dat de woonlasten niet zonder meer aan de inflatie begrensd moeten worden.",
+  "citaat": "De OZB-inkomsten van de gemeente Hilversum moeten ten minste stijgen met de inflatie.",
+  "bron": "p. 38; Stemgids: woonlasten niet harder dan inflatie (tegen)",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "financien-subsidies-korten",
+  "s": -1,
+  "kern": "Liever lasten verhogen dan subsidies of voorzieningen korten",
+  "toelichting": "De lijst wil bij een tekort niet bezuinigen als mensen daardoor geen ondersteuning krijgen, en kiest eerder voor hogere lokale lasten. Cultuur wil ze juist meer geld geven.",
+  "citaat": "Zo hoeven wij niet te bezuinigen op voorzieningen.",
+  "bron": "MijnStem: 'Tekorten op de begroting oplossen door' (71, lokale lasten verhogen); programma p. 38",
+  "soort": "mijnstem",
+  "zeker": "middel"
+ },
+ {
+  "id": "financien-heffing-draagkracht",
+  "s": 1,
+  "kern": "Sterkste schouders dragen zwaarste lasten, ook bij afval en riool",
+  "toelichting": "De lijst wil bij de tarieven van OZB, riool en afval dat de sterkste schouders de zwaarste lasten dragen en dat de vervuiler betaalt. Een koppeling aan woningwaarde noemt ze niet.",
+  "citaat": "Bij het vaststellen van de tarieven geldt voor PRO dat de vervuiler betaalt én de sterkste schouders de zwaarste lasten dragen.",
+  "bron": "MijnStem: 'Afvalheffing op basis van' (50); programma p. 4 en p. 38",
+  "soort": "mijnstem",
+  "zeker": "laag"
+ },
+ {
+  "id": "financien-afval-vast-bedrag",
+  "s": 0,
+  "kern": "Vervuiler betaalt, maar niet iedereen kan afval scheiden",
+  "toelichting": "De lijst wil dat de vervuiler betaalt en wil niet alleen een vast bedrag, maar wijst erop dat niet iedereen, vooral in appartementen, de bakken voor scheiden kwijt kan.",
+  "citaat": "Niet iedereen kan de bakken die nodig zijn voor het scheiden kwijt. Met name in de appartementen is dit een probleem.",
+  "bron": "MijnStem: 'Afvalheffing op basis van' (50)",
+  "soort": "mijnstem",
+  "zeker": "hoog"
+ },
+ {
+  "id": "financien-toerist-forens-laag",
+  "s": null,
+  "kern": null,
+  "toelichting": null,
+  "citaat": null,
+  "bron": null,
+  "soort": null
+ },
+ {
+  "id": "financien-inhuur-vaste-banen",
+  "s": 2,
+  "kern": "Beperkt inhuur, voorkeur voor eigen vaste banen",
+  "toelichting": "De lijst wil tijdelijke inhuur zo veel mogelijk beperken en geeft de voorkeur aan eigen expertise en goede vaste banen.",
+  "citaat": "We beperken de tijdelijke inhuur van men-sen bij de gemeente zo veel mogelijk, en geven de voorkeur aan eigen expertise en goede vaste banen.",
+  "bron": "p. 38",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "financien-investeringen-spreiden",
+  "s": 1,
+  "kern": "Investeringen waar mogelijk over meer jaren spreiden",
+  "toelichting": "De lijst beoordeelt investeringen kritisch en wil ze waar mogelijk over meerdere jaren spreiden om de financiën in balans te houden.",
+  "citaat": "kunnen we alles tegelijkertijd of spreiden we ze waar mogelijk over meer-dere jaren. Zo houden we de financiën in balans.",
+  "bron": "p. 38",
+  "soort": "programma",
+  "zeker": "hoog"
+ },
+ {
+  "id": "financien-centrum-sober",
+  "s": -1,
+  "kern": "Wil geen soberder Kerkbrink",
+  "toelichting": "De lijst vindt niet dat de herinrichting van de Kerkbrink soberder en goedkoper moest. Voor toekomstige centrumprojecten noemt ze geen materiaalkeuze.",
+  "citaat": "De herinrichting van de Kerkbrink moet soberder en goedkoper.",
+  "bron": "Stemgids: Kerkbrink soberder en goedkoper (tegen, geen toelichting); Raad Hilversum, 06-12-2023: herinrichting Kerkbrink (GroenLinks en PvdA voor)",
+  "soort": "stemgids",
+  "zeker": "laag"
+ }
+]

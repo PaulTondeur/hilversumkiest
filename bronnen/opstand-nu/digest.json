@@ -1,0 +1,1026 @@
+{
+  "slug": "opstand-nu",
+  "kernboodschap": "OpStand.nu is een nieuwe vrijzinnig sociaaldemocratische partij rond raadslid Joop Lahaise, met als thema's kansengelijkheid, solidariteit en bestaanszekerheid. Het programma legt de nadruk op voorrang voor voetganger en fietser, gereguleerd parkeren met opbrengst voor parkeeroplossingen, een autoluw centrum en een levendige mediastad. Bouwen alleen lost de woningnood volgens de partij niet op; zij wil gemengde wijken en pleit voor lasten naar draagkracht.",
+  "speerpunten": [
+    "Kansengelijkheid: onderwijs, laaggeletterdheid, gratis bibliotheekpas en voorzieningen in achterstandsbuurten",
+    "Verkeersveiligheid met voorrang voor voetganger, fietser en OV; autoluw centrum",
+    "Gereguleerd parkeren: vergunning maximaal EUR 50 per jaar, minimaal driekwart van de opbrengst naar parkeeroplossingen",
+    "Sociale huur ook in de 'betere' buurten; bouwen met mate en bestaande voorraad beter benutten",
+    "Hittestress en wateroverlast aanpakken, met voorrang voor wijken waar dat het hardst nodig is",
+    "Bestaanszekerheid boven baanzekerheid, met een vorm van basisinkomen als ideaal",
+    "Lasten naar draagkracht: de breedste schouders dragen de zwaarste lasten",
+    "Een levendige mediastad en een ongedeeld Hilversum met betere verbindingen tussen Oost, Centrum, Noord en Mediapark"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "sociale huur in betere buurten",
+        "standpunt": "Wil gemengde wijken: ook sociale huurwoningen in de 'betere' buurten.",
+        "citaat": "Ons antwoord: echt gemengde wijken, dus ook sociale huur in de 'betere' buurten.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bouwen met mate",
+        "standpunt": "Stelt dat bouwen alleen de woningnood niet oplost en niet eindeloos kan doorgaan, onder meer door kwetsbare natuur rond Hilversum en de dorpen.",
+        "citaat": "Bovendien kunnen we daar niet eindeloos mee doorgaan. Hilversum en de dorpen zijn omringd met kwetsbare natuur.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sociale en betaalbare huur",
+        "standpunt": "Ziet de woningnood vooral bij sociale, betaalbare huurwoningen, waarvan er te weinig zijn.",
+        "citaat": "Woningnood heeft vooral betrekking op sociale, betaalbare huurwoningen. Daarvan zijn er te weinig.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bestaande voorraad en leegstand",
+        "standpunt": "Wil de bestaande woningvoorraad beter benutten, leegstand (ook van bedrijfspanden) aanpakken en de rechtspositie van huurders versterken.",
+        "citaat": "Benut de bestaande voorraad beter. Pak leegstand aan, ook van bedrijfspanden en versterk de rechtspositie van huurders.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrangsregels",
+        "standpunt": "Kijkt scherp naar voorrangsregels voor wisselende groepen: cruciale beroepen, lang ingeschrevenen, statushouders, starters en studenten; geen vaste rangorde genoemd.",
+        "citaat": "Soms hebben we een inhaalslag te maken voor woningzoekenden met een cruciaal beroep, soms voor Hilversummers met een te lange inschrijvingstijd, soms statushouders, soms jonge starters en studenten.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "voorrang statushouders sociale huur",
+        "standpunt": "Is voor behoud van voorrang voor statushouders bij sociale huurwoningen (antwoord in stemgids).",
+        "citaat": "Voor: Voorrang statushouders bij sociale huur",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "starterslening",
+        "standpunt": "Is tegen een starterslening van de gemeente voor starters die een huis kopen (antwoord in stemgids).",
+        "citaat": "Tegen: Starterslening",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bouwen ten oosten van het spoor",
+        "standpunt": "Vindt dat er nu te eenzijdig ten oosten van het spoor wordt gebouwd, zonder aandacht voor voorzieningen, klimaataanpassing, mobiliteit en stedelijk groen.",
+        "citaat": "Overigens wordt er al volop gebouwd in Hilversum, maar wat OpStand.nu betreft te eenzijdig ten oosten van het spoor",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bebouwing stationsgebied",
+        "standpunt": "Is tegen extra bebouwing aan beide zijden van het station omdat dat de spoorbarriere tussen Oost en Centrum versterkt.",
+        "citaat": "In plaats van de spoorbarrière te slechten, werkt Hilversum aan het nog dikker maken van de muur met extra bebouwing aan beide zijden van het station.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Bruisend Hart (Oosterspoorplein)",
+        "standpunt": "Wil dat Bruisend Hart opnieuw naar de tekentafel gaat, zonder gesloten westwand maar met een zo open mogelijke verbinding met de stad.",
+        "citaat": "Bruisend Hart (Oosterspoorplein) gaat wat ons betreft opnieuw naar de tekentafel: geen gesloten 'westwand', zoals het college die voor zich ziet, maar een zo open mogelijke verbinding met de stad.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Bruisend Hart laten doorgaan",
+        "standpunt": "Is tegen de stelling dat het plan Bruisend Hart moet doorgaan zoals de raad het heeft vastgesteld (antwoord in stemgids).",
+        "citaat": "Tegen: Plan Bruisend Hart laten doorgaan",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bouwen tot 25 meter",
+        "standpunt": "Is voor uitzonderlijk bouwen tot 25 meter op enkele plekken, zoals het centrum van de Meent (antwoord in stemgids).",
+        "citaat": "Voor: Bij uitzondering tot 25 meter bouwen",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kantoren ombouwen",
+        "standpunt": "Is voor kantoortransformatie naar wonen alleen als er elders ruimte voor werk bijkomt (antwoord in stemgids).",
+        "citaat": "Voor: Kantoren alleen ombouwen als werkruimte bijkomt",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "prefabwoningen Circusterrein",
+        "standpunt": "Noemt de tijdelijke prefabwoningen op het Circusterrein inspirerend en pleit voor wonen op veel meer plekken.",
+        "citaat": "De 'tijdelijke' prefabwoningen op het Circusterrein inspireren.",
+        "bron": "extra-website-home.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "woonwagenstandplaatsen",
+        "standpunt": "Wil minstens 25 extra woonwagenstandplaatsen.",
+        "citaat": "Tijd om afspraken na te komen: minstens 25 extra standplaatsen erbij.",
+        "bron": "extra-website-home.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "huurprijzen middensegment",
+        "standpunt": "Signaleert dat middeldure huur lastig is omdat huren sneller stijgen dan lonen; wonen is te veel een verdienmodel geworden.",
+        "citaat": "Ook middeldure huur is lastig, vooral omdat de huren vaak sneller stijgen dat je loon. Wonen is te veel een verdienmodel geworden.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "voorrang voetganger en fiets",
+        "standpunt": "Neemt het STOMP-beleid (voetganger en fietser eerst) serieus en zet de zwakste weggebruikers op plaats 1, zonder anti-autopartij te zijn.",
+        "citaat": "maar zet de zwakste weggebruikers op plaats 1",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "stoepparkeren",
+        "standpunt": "Wil trottoirs vrijhouden van (fout)geparkeerde auto's.",
+        "citaat": "toegankelijke trottoirs die niet door (fout)geparkeerde auto's worden geblokkeerd.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "autoluw centrum en Hilvertshof",
+        "standpunt": "Wil een echt autoluw centrum, waarbij de Hilvertshof-parking op termijn verdwijnt met alternatieven; wie van de auto afhankelijk is moet het centrum kunnen bereiken.",
+        "citaat": "Wij pleiten voor een echt autoluw centrum. Dat betekent dat de Hilvertshof-parking op termijn verdwijnt, met wel alternatieven.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fietsenstalling Groest",
+        "standpunt": "Is tegen een fietsenstalling midden op de Groest; wil wel betere stallingen aan de rand van het centrum, inpandig en op straat.",
+        "citaat": "betekent ook géén etsenstalling midden op de Groest. Dat is het domein van de voetganger.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "stationsstalling fietsen",
+        "standpunt": "Wil de geplande stationsstalling (5.000 fietsen) doorbreken naar Oost met ook daar een ingang.",
+        "citaat": "Liefst breken we de geplande grote stationsstalling (5.000 etsen) door naar Oost, met ook daar een ingang.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "deelmobiliteit",
+        "standpunt": "Omarmt deelfietsen (o.a. OV-fiets) maar wil geen belastinggeld naar deelmobiliteit als niche.",
+        "citaat": "geen belastinggeld naar deelmobiliteit als niche voor de happy few.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitbreiding betaald parkeren",
+        "standpunt": "Schuwt geen uitbreiding van gereguleerd parkeren naar buurten buiten de ring, vanwege het waterbedeffect; wil wel betere uitvoering.",
+        "citaat": "Stopt het gratis parkeren in de ene buurt, dan krijgt de aangrenzende buurt extra parkeerdruk.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitbreiding betaald parkeren herzien",
+        "standpunt": "Is tegen de stelling dat de uitbreiding van betaald parkeren opnieuw moet worden bekeken en zo nodig teruggedraaid (antwoord in stemgids).",
+        "citaat": "Tegen: Uitbreiding betaald parkeren herzien",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "POET-beleid en zones",
+        "standpunt": "Is tegen het POET-beleid (parkeren op eigen terrein) en wil een centrum-ring in plaats van verschillende zones.",
+        "citaat": "Zo zijn wij tegen het discriminerende POET-beleid (parkeren op eigen terrein) en pleiten voor één centrum-ring i.p.v. verwarrende zones.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tarieven en bezoekersparkeren",
+        "standpunt": "Wil een laag tarief voor bijvoorbeeld de eerste twee uur en een vereenvoudiging van bezoekers(lang)parkeren.",
+        "citaat": "Een laag tarief voor bijvoorbeeld de eerste twee uur en een versimpeling van het bezoekers(lang)parkeren omarmen we.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeervergunning max. EUR 50",
+        "standpunt": "Wil de vergunning maximaal EUR 50 per jaar, waarbij minimaal driekwart van de opbrengst naar parkeeroplossingen gaat, zoals minstens een P&R.",
+        "citaat": "De vergunning mag naar maximaal €50,- per jaar, met als harde afspraak dat de opbrengst voor minimaal driekwart naar parkeeroplossingen gaat, zoals de aanleg van tenminste één P&R",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "besteding parkeeropbrengst",
+        "standpunt": "Wil parkeeropbrengsten besteden aan dubbelgebruik van bestaande parkeervoorzieningen en inpandig parkeren aan de rand van woonbuurten; een deel via het Mobiliteitsfonds aan fietsenstallingen en kleinschalig OV.",
+        "citaat": "Een deel mag via het Mobiliteitsfonds worden besteed aan alternatieven, die de markt niet zelf regelt.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gratis bezoekersparkeren",
+        "standpunt": "Is neutraal over gratis parkeren voor bezoek in wijken met betaald parkeren; wil wel een ruimhartigere bezoekersregeling (antwoord in stemgids).",
+        "citaat": "OpStand.nu is wel voor een meer ruimhartige bezoekersregeling.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zero-emissiezone centrum",
+        "standpunt": "Is tegen de stelling dat het plan voor een zero-emissiezone in het centrum niet moet worden opgegeven (antwoord in stemgids).",
+        "citaat": "Tegen: Plan zero-emissiezone centrum behouden",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "30 km/u en 40 km/u",
+        "standpunt": "Wil de 30 km-gebieden uitbreiden en onderzoekt 40 km/u in plaats van 50 op drukke straten als Minckelersstraat, Gijsbrecht (niet-winkeldeel) en Melkpad.",
+        "citaat": "onderzoeken de mogelijkheid van 40 km/uur (i.p.v. 50) voor drukke straten als de Minckelersstraat, Gijsbrecht (niet-winkeldeel), Jan van der Heijdenstraat, Melkpad",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "30 km/u dorpsstraten",
+        "standpunt": "Is voor direct invoeren van 30 km/u op drukke dorpsstraten, ook als de weg nog niet is aangepast (antwoord in stemgids).",
+        "citaat": "Voor: Meteen 30 km/u op drukke dorpsstraten",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "oversteekplaatsen en fietsstraten",
+        "standpunt": "Wil versneld investeren in meer oversteekplaatsen, fietsstraten (auto te gast) en lagere maximumsnelheden.",
+        "citaat": "OpStand.nu wil versneld investeren in meer oversteekplaatsen voor voetganger en etser, in etsstraten-auto-te-gast en in verlaging van de maximum snelheid.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "snelheidscamera's",
+        "standpunt": "Wil extra (mobiele) snelheids- en lawaaicamera's op verzoek van aanwonenden en gesprek met de politie over een stevigere aanpak van verkeershufters.",
+        "citaat": "We plaatsen extra (mobiele) snelheids- en lawaaicamera's, op verzoek van aanwonenden",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "openbaar vervoer",
+        "standpunt": "Wil fijnmaziger openbaar vervoer, vooral in buitenwijken en dorpen.",
+        "citaat": "We zetten ons in voor jnmaziger openbaar vervoer, vooral in de buitenwijken en dorpen.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Arenapark en station Sportpark",
+        "standpunt": "Wil op Arenapark zoveel mogelijk vasthouden aan het oorspronkelijke plan met een nieuw station Sportpark gecombineerd met P&R, ook voor minder doorgaand verkeer richting Mediapark.",
+        "citaat": "door daar juist zoveel mogelijk vast te houden aan het oorspronkelijke plan met een nieuw station Sportpark, gecombineerd met P&R.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "hittestress corporaties",
+        "standpunt": "Wil dat corporaties niet alleen in verduurzaming maar ook in het tegengaan van hittestress investeren; de gemeente wijst ze daarop.",
+        "citaat": "Corporaties moeten niet alleen in verduurzaming maar ook in het tegengaan van hittestress investeren.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "goed verhuurderschap",
+        "standpunt": "Wil particuliere verhuurders aanspreken op goed verhuurderschap.",
+        "citaat": "Ook particuliere verhuurders dienen op goed verhuurderschap te worden aangesproken.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vergroening en schaduw",
+        "standpunt": "Wil dat de gemeente veel meer investeert in vergroening en schaduw-/koelteplekken, met voorrang in de wijken waar dat het hardst nodig is, inclusief het centrum.",
+        "citaat": "investeert de gemeente, als het OpStand.nu ligt, veel meer dan nu in vergroening en schaduw-/koelteplekken.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "riool en wateroverlast",
+        "standpunt": "Wil versneld investeren in renovatie en aanpassing van het riool en bij rioolwerk direct herinrichten (werk-met-werk).",
+        "citaat": "Hilversum moet versneld investeren in renovatie en aanpassing van het riool.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "energiearmoede",
+        "standpunt": "Signaleert dat slecht geisoleerde woningen met hoge energierekening vooral een probleem zijn voor mensen met weinig geld.",
+        "citaat": "Slecht geïsoleerde woningen met een torenhoge energierekening zijn vooral een probleem voor wie weinig geld heeft",
+        "bron": "extra-website-home.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "solidariteit bij klimaatmaatregelen",
+        "standpunt": "Wil duurzaamheidsmaatregelen gebaseerd op solidariteit: wie financieel krap zit kan niet verduurzamen.",
+        "citaat": "wie rood staat, kan niet groen doen",
+        "bron": "programma",
+        "pagina": 2,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "aardgasvrij in 2050",
+        "standpunt": "Is voor een plan met duidelijke tussendoelen om alle gebouwen in 2050 van het aardgas af te hebben (antwoord in stemgids).",
+        "citaat": "Voor: Plan voor aardgasvrij in 2050",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "grote windmolens bij dorpen",
+        "standpunt": "Is voor verzet tegen grote windmolens vlak bij de dorpen, zoals bij Nederhorst den Berg (antwoord in stemgids).",
+        "citaat": "Voor: Grote windmolens bij dorpen tegenhouden",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "onderzoek kleine kerncentrale",
+        "standpunt": "Is tegen de stelling dat de gemeente onderzoek moet laten doen naar een kleine kerncentrale in Hilversum of de regio (antwoord in stemgids).",
+        "citaat": "Tegen: Onderzoek kleine kerncentrale",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "groene partij",
+        "standpunt": "Presenteert zich als groene partij voor een groen en leefbaar Hilversum.",
+        "citaat": "OpStand.nu is op en top een groene partij",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "watertoerisme",
+        "standpunt": "Geeft watertoerisme ruimte, met respect voor de kwetsbare natuur.",
+        "citaat": "Watertoerisme krijgt de ruimte, mét respect voor onze kwetsbare natuur.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "groen in groenarme buurten",
+        "standpunt": "Is voor het behouden van al het openbaar groen in buurten met weinig groen (antwoord in stemgids).",
+        "citaat": "Voor: Groen behouden in groenarme buurten",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "recreatie versus natuurbescherming",
+        "standpunt": "Is tegen de stelling dat vrij wandelen en recreeren in natuurgebieden even zwaar moet wegen als natuurbescherming (antwoord in stemgids).",
+        "citaat": "Tegen: Recreatie even zwaar als natuurbescherming",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "stedelijk groen in nieuwbouw",
+        "standpunt": "Wil bij nieuwbouw meer aandacht voor het toevoegen van stedelijk groen.",
+        "citaat": "zonder aandacht voor voorzieningen, klimaataanpassing, mobiliteit en het toevoegen van stedelijk groen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "bestaanszekerheid",
+        "standpunt": "Zet bestaanszekerheid voorop boven 'meedoen' en baanzekerheid; noemt meedoen verkapte arbeidsdwang.",
+        "citaat": "OpStand.nu onderscheidt zich van vrijwel alle partijen door zijn pleidooi voor bestaanszekerheid in plaats van te hameren op 'meedoen', als verkapte arbeidsdwang.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "basisinkomen",
+        "standpunt": "Ziet liefst een vorm van basisinkomen.",
+        "citaat": "Liefst zien we een vorm van basisinkomen.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "uitvoering uitkeringen",
+        "standpunt": "Wil uitvoering van sociale wetten waarin uitkeringsgerechtigden als gelijkwaardig worden behandeld, zonder wantrouwen en vernedering.",
+        "citaat": "OpStand.nu gruwt van de cultuur van wantrouwen en vernedering die rond uitkeringen en toeslagen hangt.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bemiddeling werk en activering",
+        "standpunt": "Wil dat de gemeente voor wie wil en kan bemiddelt bij stages, werk, opleiding, vrijwilligerswerk en activering.",
+        "citaat": "Voor wie wil en kan, is de gemeente er bij het bemiddelen/aanbieden van stages, werk (ook UWV), opleiding, vrijwilligerswerk en activering.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jeugdzorg in achterstandsbuurten",
+        "standpunt": "Investeert extra in jeugdzorg, IKC's, kinderopvang en activiteiten in buurten met achterstand.",
+        "citaat": "In buurten met achterstand investeren we extra in adequate jeugdzorg, IKC’s (Integraal Kindcentrum),",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "jeugdzorg bezuinigingen",
+        "standpunt": "Is voor het ontzien van jeugdzorg bij bezuinigingen (antwoord in stemgids).",
+        "citaat": "Voor: Jeugdzorg ontzien bij bezuinigingen",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wijkcentra vijf jaar subsidie",
+        "standpunt": "Is voor vijfjarige subsidie voor wijk- en buurtcentra in plaats van eenjarige (antwoord in stemgids).",
+        "citaat": "Voor: Vijf jaar subsidie voor wijkcentra",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dakloosheid",
+        "standpunt": "Ziet een dak boven je hoofd als beste remedie tegen dakloosheid.",
+        "citaat": "een dak boven je hoofd als de beste remedie tegen dakloosheid.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zorgcowboys",
+        "standpunt": "Wil zorgcowboys uit de gemeente weren.",
+        "citaat": "Zorgcowboys proberen we uit onze gemeente te weren.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "armoede en laaggeletterdheid",
+        "standpunt": "Legt zich niet neer bij armoede en laaggeletterdheid.",
+        "citaat": "Wij leggen ons niet neer bij armoede en laaggeletterdheid.",
+        "bron": "programma",
+        "pagina": 2,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "noodsteunpunten en weerbaarheid",
+        "standpunt": "Wil versnelling bij noodsteunpunten, burgerweerbaarheid en versterking van hulpdiensten.",
+        "citaat": "OpStand.nu wil een versnelling op het inrichten van noodsteunpunten, het organiseren van burgerweerbaarheid en het versterken van onze hulpdiensten.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "schuilplaatsen",
+        "standpunt": "Wil dat inwoners weten waar ze kunnen schuilen bij bombardement of drone-aanval en dat ontbrekende schuilplaatsen worden gerealiseerd.",
+        "citaat": "Waar geen schuilplaatsen binnen bereik zijn, moeten die worden gerealiseerd.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "digitale sabotage en extremisme",
+        "standpunt": "Wil zich beter wapenen tegen digitale sabotage en rechts-extremistische ondermijning van de democratie.",
+        "citaat": "We zullen ons beter moeten wapenen tegen digitale sabotage en rechts-extremistische ondermijning van onze democratie.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "natuurbranden",
+        "standpunt": "Heeft een rookverbod op de hei bepleit en wil mogelijk meer inzet op brandpreventie en -bestrijding.",
+        "citaat": "We hebben al met succes gepleit voor een rookverbod op de hei, maar dat is niet genoeg.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "Is neutraal over het behouden van cameratoezicht op overlastplekken zoals het centrum (antwoord in stemgids).",
+        "citaat": "Neutraal: Cameratoezicht behouden",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verkeershufters",
+        "standpunt": "Wil met de politie in gesprek over een stevigere aanpak van verkeershufters.",
+        "citaat": "gaan met de politie in gesprek over een stevigere aanpak van verkeershufters.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "veilig voor vrouwen en minderheden",
+        "standpunt": "Koppelt een veilige stad aan veiligheid voor vrouwen en minderheden.",
+        "citaat": "veilige stad, ook voor vrouwen en minderheden.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "azc",
+        "standpunt": "Zegt ja tegen een azc in Hilversum, mits zorgvuldig uitgevoerd.",
+        "citaat": "OpStand.nu zegt ja tegen een AZC, mits op een zorgvuldige manier.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "azc en Crailo",
+        "standpunt": "Verwijst naar het eerdere azc op de plek van de woonwijk Crailo.",
+        "citaat": "Er was er ooit een, op de plek waar de woonwijk Crailo verrijst.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "locatie en participatie opvang",
+        "standpunt": "Wil humane opvang in een geschikte omgeving, liefst tussen inwoners en dichtbij voorzieningen, en bewoners vanaf het begin betrekken.",
+        "citaat": "We willen bewoners van meet af aan betrekken bij de vestiging van een AZC of tijdelijke vluchtelingenopvang.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "draagvlak versus nee-roepers",
+        "standpunt": "Wil het draagvermogen van de buurt onderzoeken voor opvang, maar niet wijken voor de hardste nee-roepers.",
+        "citaat": "Het betrekken van de buurt bij een voorgenomen opvang is trouwens iets anders dan wijken voor de hardste nee-roepers.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sociale opvang en begeleid wonen",
+        "standpunt": "Onderzoekt het draagvermogen van de buurt voordat sociale opvang (jongeren met problemen, verslaafden, psychiatrische patienten) groen licht krijgt.",
+        "citaat": "We onderzoeken het draagvermogen van de buurt, voordat we groen licht geven.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "opvang zonder Spreidingswet",
+        "standpunt": "Is voor het blijven opvangen van asielzoekers ook als de Spreidingswet wordt ingetrokken (antwoord in stemgids).",
+        "citaat": "Voor: Asielopvang ook zonder Spreidingswet",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inburgering en taal",
+        "standpunt": "Wil nieuwkomers zo snel mogelijk laten meedoen en verwacht ook van expats inspanning om Nederlands te spreken.",
+        "citaat": "Ook van expats die hier langer blijven verwachten we inspanning om zich in het Nederlands met hun buren te onderhouden.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "arbeidsmigranten",
+        "standpunt": "Signaleert dat Hilversum een veelvoud aan arbeidsmigranten huisvest, vaak als goedkope arbeidskracht; noemt geen concrete maatregel.",
+        "citaat": "huisvesten we nog altijd een veelvoud aan arbeidsmigranten",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "antidiscriminatiemeldpunt",
+        "standpunt": "Wil een goed bereikbaar, laagdrempelig antidiscriminatiemeldpunt.",
+        "citaat": "Ook willen we een goed bereikbaar, laagdrempelig antidiscriminatiemeldpunt.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gelijke behandeling en inhaalslag",
+        "standpunt": "Wil geen voorkeursbehandeling, wel waar nodig een inhaalslag en extra bescherming voor gediscrimineerde groepen.",
+        "citaat": "Gelijk voor de wet geeft niet automatisch recht op een voorkeursbehandeling, wel waar nodig op een inhaalslag en extra bescherming.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "regenboogvlag",
+        "standpunt": "Wil de regenboogvlag op het raadhuis, als symbool tegen discriminatie en voor individuele vrijheid.",
+        "citaat": "De regenboogvlag is op ons raadhuis meer dan welkom",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "centrum vergroten",
+        "standpunt": "Wil het centrum niet verkleinen maar vergroten en verlevendigen, met aandacht voor Havenstraat, Langestraat, Bussumerstraat/Naarderweg en de oostzijde van het station.",
+        "citaat": "Het centrum wordt, als het OpStand.nu ligt, niet verkleind maar juist vergroot en verlevendigd",
+        "bron": "programma",
+        "pagina": 2,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "horeca-concentratiebeleid",
+        "standpunt": "Wil breken met het horeca-concentratiebeleid.",
+        "citaat": "Ook breken we met het zogeheten horeca-concentratiebeleid.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Mediapark open campus",
+        "standpunt": "Steunt de transformatie van het Mediapark naar een meer open campus en wil de media meer bij de stad betrekken.",
+        "citaat": "OpStand steunt de transformatie van het mediapark naar een meer open campus, maar ziet ook kansen om de media juist meer bij de stad te betrekken.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mediastad in de stad",
+        "standpunt": "Noemt als voorbeelden een debatcentrum, Theater Gooiland, jazz in De Vioolkist, mediaopleidingen met studentenhuisvesting en culturele broedplaatsen.",
+        "citaat": "aan een debatcentrum, het revitaliseren van Theater Gooiland, live jazz in De Vioolkist",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "televisietoren",
+        "standpunt": "Wil de televisietoren liefst tot leven brengen met een publieksfunctie.",
+        "citaat": "Het liefst zou OpStand.nu de televisietoren tot leven brengen, met een publieksfunctie.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Noord en Mediapark verbinden",
+        "standpunt": "Wil dat Noord meeprofiteert van het Mediapark en wil het Mediapark sterker met Noord en via wandel-/fietsroute met het centrum verbinden.",
+        "citaat": "Het mediapark wordt wat ons betreft sterker met Noord verbonden",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokale media",
+        "standpunt": "Wil investeren in lokale media met voorop hun redactionele onafhankelijkheid.",
+        "citaat": "We investeren in lokale media, als steunpilaren van onze democratie en als broedplaatsen voor mediatalent.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vakantieverhuur",
+        "standpunt": "Wil geen wildgroei aan particuliere vakantieverhuur zoals in Amsterdam.",
+        "citaat": "We willen straks niet het voordelige afvoerputje van Amsterdam worden, met eenzelfde wildgroei aan particuliere vakantieverhuur als in de hoofdstad.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zondagsopening winkels",
+        "standpunt": "Is neutraal over ruimere zondagsopening van winkels (antwoord in stemgids).",
+        "citaat": "Neutraal: Ruimere zondagsopening winkels",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zelfvoorzienend Hilversum",
+        "standpunt": "Wil Hilversum zelfvoorzienend met eigen ziekenhuis en topsportcentrum.",
+        "citaat": "ook graag selfsupporting met een eigen ziekenhuis, straks een topsportcentrum",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "meer geld cultuur",
+        "standpunt": "Wil meer geld voor cultuur, van Theater Gooiland, de Vorstin en Hillyweird tot buurtinitiatieven en cursussen.",
+        "citaat": "Er mag meer geld naar cultuur, van Theater Gooiland, de Vorstin en Hillyweird tot laagdrempelige buurtinitiatieven en cursussen.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gratis bibliotheekpas en leeszalen",
+        "standpunt": "Wil een gratis bibliotheekpas, boetevrij lenen en leeszalen in iedere buurt en dorpskern.",
+        "citaat": "Denk aan een gratis bibliotheekpas, boetevrij lenen en leeszalen in iedere buurt en dorpskern.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "laaggeletterdheid",
+        "standpunt": "Geeft de aanpak van laaggeletterdheid prioriteit.",
+        "citaat": "De aanpak van laaggeletterdheid heeft onze prioriteit.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "scholen en kinderopvang",
+        "standpunt": "Eist goede, gezonde scholen met een rijk aanbod voor alle Hilversumse peuters, kleuters en leerlingen, en een inhaalslag in buurten met weinig voorzieningen.",
+        "citaat": "eist OpStand.nu voor alle Hilversumse peuters, kleuters en leerlingen goede, gezonde scholen met een rijk aanbod.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sportzaal en buurthuis per buurt",
+        "standpunt": "Wil in iedere buurt tenminste een sportzaal en een buurthuis of vergelijkbare ontmoetingsplek.",
+        "citaat": "OpStand wenst in iedere buurt tenminste een sportzaal en een buurthuis of vergelijkbare plek om samen te komen.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gemeentelijk vastgoed",
+        "standpunt": "Wil het gemeentelijk bezit aan panden en plekken voor sport, spel en ontmoeting vergroten.",
+        "citaat": "We willen het gemeentelijk bezit aan panden en plekken voor sport, spel en ontmoeting vergroten.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "broedplaatsenbeleid",
+        "standpunt": "Wil een actief broedplaatsenbeleid.",
+        "citaat": "Ook een actief broedplaatsenbeleid helpt bij het creëren van ontmoetingsplekken.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "speelvoorzieningen",
+        "standpunt": "Wil geen buurt zonder speel- en sportvoorzieningen, met nadruk op Oost en dichtbebouwde vooroorlogse wijken.",
+        "citaat": "Geen buurt zonder speel- en sportvoorzieningen 'om de hoek'.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "erfgoed en sloopkamer",
+        "standpunt": "Wil erfgoed meer beschermen (ook de omgeving) en de sloopkamer alleen in hoogste nood gebruiken.",
+        "citaat": "Wat ons betreft gaat de sloopkamer de kast in, om die er alleen in hoogste nood uit te halen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "buurtbakens",
+        "standpunt": "Wil Dudoks buurtbakens terugbrengen als markante cultuur- en ontmoetingshuizen.",
+        "citaat": "Dudoks ideaal van buurtbakens willen we terugbrengen, liefst in de vorm van markante cultuur- en ontmoetingshuizen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "particulier initiatief ontmoeting",
+        "standpunt": "Wil dat de gemeente ontmoetingsinitiatieven niet zelf regelt maar obstakels wegneemt en soms meefinanciert.",
+        "citaat": "De gemeente regelt die niet zelf maar ruimt waar gewenst obstakels uit de weg en",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "ongedeeld Hilversum",
+        "standpunt": "Wil een betere verbinding tussen Oost en Centrum en tussen Noord en Mediapark.",
+        "citaat": "tussen Oost en Centrum en niet te vergeten tussen Noord en Mediapark.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "dorpen na de fusie",
+        "standpunt": "Noemt de dorpen van Wijdemeren bij naam en zegt ze niet over te slaan bij voorzieningen.",
+        "citaat": "Vanzelfsprekend slaan we Ankeveen, Nederhorst den Berg, Loosdrecht, Boomhoek, Kortenhoef, ’s-Graveland, Muyeveld, Overmeer en de Meent niet over.",
+        "bron": "programma",
+        "pagina": 3,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gekozen dorps- en wijkraden",
+        "standpunt": "Heeft een standpunt onder de titel 'Gekozen dorps- en wijkraden'; de uitwerking staat niet in de bewaarde tekst.",
+        "citaat": "Gekozen dorps- en wijkraden",
+        "bron": "extra-opstandpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "transparant bestuur",
+        "standpunt": "Wil transparant bestuur zonder achterkamertjes voor belangrijke besluiten.",
+        "citaat": "OpStand.nu staat voor een transparant bestuur, zonder achterkamertjes waar voor inwoners belangrijke besluiten worden genomen.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "stabiel college",
+        "standpunt": "Wil een betrouwbaar, stabiel college van burgemeester en wethouders.",
+        "citaat": "Dat vergt een betrouwbaar, stabiel college van burgemeester en wethouders",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "referendum",
+        "standpunt": "Is neutraal over een referendum over grote besluiten (antwoord in stemgids).",
+        "citaat": "Neutraal: Referendum over grote besluiten",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ambtelijke organisatie",
+        "standpunt": "Signaleert veel ziekteverzuim en personeelstekorten bij de ambtelijke organisatie.",
+        "citaat": "Ook binnen de ambtelijke organisatie rommelt het, met veel ziekteverzuim en personeelstekorten.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "begrijpelijke gemeentelijke taal",
+        "standpunt": "Wil correct, begrijpelijk Nederlands zonder ambtelijk jargon en een toegankelijke gemeentelijke website (B1).",
+        "citaat": "Gewoon correct Nederlands met zo weinig mogelijk moeilijke woorden en ambtelijk jargon, is al heel mooi.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "OZB-verlaging Wijdemeren",
+        "standpunt": "Vindt de scherpe OZB-verlaging in Wijdemeren door harmonisatie onverkoopbaar in tijden van bezuinigingen.",
+        "citaat": "vinden wij onverkoopbaar in tijden van bezuinigingen",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "welkomstcadeau OZB",
+        "standpunt": "Stelt kritisch de vraag of villabewoners aan de plas een OZB-verlaging moeten krijgen terwijl andere Hilversummers hogere lasten zien.",
+        "citaat": "terwijl andere Hilversummers hun lokale lasten zien stijgen?",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokale lasten opnieuw bekijken",
+        "standpunt": "Wil de lokale lasten (OZB, riool- en afvalstoffenheffing) opnieuw bekijken op eerlijkheid en doeltreffendheid.",
+        "citaat": "We willen opnieuw kijken naar de lokale lasten",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "breedste schouders",
+        "standpunt": "Wil een belasting- en heffingenstelsel waarin de breedste schouders de zwaarste lasten dragen.",
+        "citaat": "de breedste schouders dragen de zwaarste lasten.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "afvalstoffenheffing",
+        "standpunt": "Stelt de vraag of een flatbewoner evenveel moet betalen als de bewoner van een riant gezinshuis; wil een eerlijkere systematiek.",
+        "citaat": "evenveel betaalt voor zijn beetje afval als de bewoner van een riant gezinshuis met minstens drie kliko’s in de tuin",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "hondenbelasting",
+        "standpunt": "Is niet zomaar voor herinvoering, maar wil het gesprek aan; wie weinig geld heeft moet een hulp- of gezelschapsdier kunnen houden.",
+        "citaat": "We zijn niet zomaar voor herinvoering, maar willen wel het gesprek aan, ook vanwege dierenwelzijn.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "toeristen- en forensenbelasting",
+        "standpunt": "Wil kritisch kijken naar toeristen- en forensenbelasting.",
+        "citaat": "zijn eveneens zaken waar kritisch naar gekeken mag worden.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gratis bibliotheek en ouderbijdrage",
+        "standpunt": "Wil liever investeren in een gratis bibliotheek, maximeren of afschaffen van de ouderbijdrage en fijnmazig OV dan in toerist, forens en villabewoner.",
+        "citaat": "investeert OpStand.nu liever in een gratis bibliotheek, het maximeren of zelfs afschaffen van de ‘vrijwillige’ ouderbijdrage voor schoolkinderen",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "achterstallig onderhoud",
+        "standpunt": "Wil snelle inventarisatie van achterstallig onderhoud op elk terrein van riool en wegen tot welzijn, cultuur en onderwijs.",
+        "citaat": "We willen een snelle inventarisatie van achterstallig onderhoud op elk terrein",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "megaprojecten saneren",
+        "standpunt": "Wil voorkomen dat megaprojecten ten koste gaan van inwoners; projecten kunnen worden afgeschaald of getemporiseerd.",
+        "citaat": "Projecten moeten misschien worden afgeschaald of getemporiseerd.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "woonlasten stabiliseren",
+        "standpunt": "Wil de woonlasten stabiliseren en bezuinigingen op de maatschappelijke zorg voorkomen.",
+        "citaat": "met als doel het stabiliseren van de woonlasten en voorkomen van bezuinigingen op de maatschappelijke zorg.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "woonlasten tot inflatie",
+        "standpunt": "Is gedeeltelijk akkoord met beperking van woonlasten tot inflatie, voor afvalstoffen- en rioolheffing; wil eerlijkere heffingssystematiek (stemgids).",
+        "citaat": "Gedeeltelijk eens als het om afvalstoffen- en rioolheffing gaat.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "leges dorpsevenementen",
+        "standpunt": "Is voor het schrappen van leges voor kleine dorpsevenementen na de fusie (antwoord in stemgids).",
+        "citaat": "Voor: Geen leges voor kleine dorpsevenementen",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Kerkbrink",
+        "standpunt": "Is neutraal over een soberdere, goedkopere herinrichting van de Kerkbrink (antwoord in stemgids).",
+        "citaat": "Neutraal: Kerkbrink soberder en goedkoper",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ]
+  },
+  "opvallend": [
+    "Wil bestaanszekerheid en liefst een vorm van basisinkomen in plaats van nadruk op 'meedoen'",
+    "Wil sociale huur ook in de 'betere' buurten, en de bebouwing rond het station en Bruisend Hart herzien",
+    "Wil de Hilvertshof-parking op termijn laten verdwijnen en is tegen een fietsenstalling op de Groest",
+    "Is tegen het POET-parkeerbeleid en wil de parkeervergunning op maximaal EUR 50 per jaar met een vaste bestedingsregel voor de opbrengst",
+    "Noemt expliciet toeristen, forensen en villabewoners aan de plas als groepen om minder te bedienen, en pleit voor een gratis bibliotheek en afschaffen of maximeren van de ouderbijdrage",
+    "Besteedt een eigen punt aan burgerweerbaarheid, noodsteunpunten en schuilplaatsen bij militaire dreiging",
+    "Zegt ja tegen een azc met participatie, maar niet wijken voor de hardste nee-roepers",
+    "Wil de sloopkamer alleen in hoogste nood gebruiken en de OZB-verlaging in Wijdemeren is volgens de partij onverkoopbaar"
+  ],
+  "dun": [
+    "Loosdrechtse Plassen en vliegveld Hilversum (alleen watertoerisme genoemd)",
+    "Landbouw en dierenwelzijn buiten hondenbelasting",
+    "Aantallen woningen, percentage sociale huur en senioren/doorstroming",
+    "Schulden, Wmo, eenzaamheid en ouderenzorg",
+    "Politie, boa's, drugs/coffeeshops, vuurwerk en ondermijning",
+    "Warmtenet, isolatie- en zonne-energiebeleid, afvalbeleid",
+    "Regionale samenwerking, participatie en wijkraden (alleen titel van standpunt), reserves en externe inhuur",
+    "Koopzondag, bedrijventerreinen en evenementen (alleen stemgids)"
+  ]
+}

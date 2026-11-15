@@ -1,0 +1,632 @@
+[
+  {
+    "id": "zorg-minima-grens",
+    "oordeel": "aangepast",
+    "bevindingen": "Hilversum: inkomensgrens minimaregelingen 130% van de bijstandsnorm (Beleidsregels gemeentelijk minimabeleid Hilversum 2023) - klopt. Wijdemeren: grens is per 1 februari 2024 verhoogd van 120% naar 130% (Wijdemeren Informeren 31-1-2024, na amendement CU/D66/Goetheer). De bewering dat de grens in Wijdemeren nu lager ligt, klopt dus niet; beide gemeenten hanteren 130%. De stelling zelf (terug naar bijstandsniveau) blijft zinvol.",
+    "bronnen": [
+      "https://zoek.officielebekendmakingen.nl/gmb-2023-287939.pdf",
+      "https://www.wijdemeren.nl/nl/Wijdemereninformeren/Overzicht/5758-Wijdemeren-Informeren-31-01-2024.pdf"
+    ],
+    "uitleg_nieuw": "Hilversum en Wijdemeren geven minimaregelingen, zoals hulp bij schoolkosten, sport of de collectieve zorgverzekering, aan inwoners met een inkomen tot 130% van het sociaal minimum. Daardoor krijgen ook werkenden met een laag loon en mensen net boven de bijstand deze hulp. Na de fusie worden de regelingen samengevoegd. Een lagere grens kost minder geld en maakt meer verdienen aantrekkelijker; de huidige grens helpt ook mensen die net boven de bijstand zitten.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-jeugd-besparing",
+    "oordeel": "aangepast",
+    "bevindingen": "Voorjaarsnota 2026 Hilversum, oplossingsrichting 05 'Versnellen transformatie jeugd': eerst investeren (2026: 0,4 mln, 2027 en 2028: 0,75 mln), daarna netto besparing van ca. 0,96 mln in 2029 en structureel 2 mln vanaf 2030, via buurtteams, preventie, groepsaanbod en sterkere sturing op geïndiceerde zorg. Amendement A26-88 om dit te schrappen is op 1 juli 2026 verworpen (7-28). Correctie: het staat in de voorjaarsnota 2026 (Hilversum), niet in 'de begroting'; de begroting 2027 van de nieuwe gemeente wordt pas op 4 januari 2027 vastgesteld. Context Rijk: algemene uitkering daalt vanaf 2028 omdat het Rijk lagere jeugdkosten verwacht. 'Miljoenen' is iets ruim voor 2029 (ca. 1 mln) maar klopt vanaf 2030 (2 mln per jaar).",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bfa4e3d7-a224-4cdc-8b4d-ec5307456413",
+      "https://hilversum.bestuurlijkeinformatie.nl/Agenda/Index/f861a2ef-b5ad-40ed-b360-be4798ca1610",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": "De kosten van jeugdzorg stijgen al jaren, en het Rijk geeft gemeenten vanaf 2028 minder geld omdat het verwacht dat die kosten dalen. In de voorjaarsnota 2026 van Hilversum staat een besparing op jeugdzorg van ongeveer 1 miljoen euro in 2029 en 2 miljoen euro per jaar vanaf 2030, na eerst te investeren in buurtteams, hulp in groepen en meer lichte hulp dichtbij school en gezin. Een voorstel om die besparing te schrappen kreeg in juli 2026 geen meerderheid.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-wmo-kwijtschelding",
+    "oordeel": "klopt",
+    "bevindingen": "Moties om kwijtschelding Wmo-eigen bijdrage tot 130% te behouden (M24-145, 13-11-2024, verworpen 4-31) en opnieuw in te voeren (M25-047, 11-6-2025, verworpen 9-26) bevestigd; daaruit volgt ook dat Hilversum die kwijtschelding eerder had. Eigen bijdrage is landelijk een vast abonnementstarief per maand; het Rijk wil dat vervangen door een inkomensafhankelijke bijdrage (gepland per 2027, maar het wetsvoorstel is vertraagd; actuele stand niet bevestigd). Uitleg kan blijven.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://www.binnenlandsbestuur.nl/sociaal/herinvoering-inkomensafhankelijke-wmo-op-de-lange-baan"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-wmo-zonderindicatie",
+    "oordeel": "aangepast",
+    "bevindingen": "Hilversum biedt sinds 1 januari 2025 lichte dagbesteding (activiteiten Ontmoeten, Meedoen, Meewerken) aan als algemene voorziening, zonder Wmo-aanvraag of indicatie. Zwaardere dagbesteding blijft maatwerk. Uitleg verduidelijkt tot 'lichte dagbesteding'.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/80047146-997d-488b-9600-327d5d66b531"
+    ],
+    "uitleg_nieuw": "Bij de Wmo kan de gemeente hulp regelen als 'algemene voorziening' (vrij binnenlopen, voor iedereen hetzelfde, zonder indicatie) of als maatwerk na een persoonlijk onderzoek en besluit. Hilversum biedt bijvoorbeeld sinds 2025 lichte dagbesteding aan zonder aanvraag of indicatie. Algemene voorzieningen zijn sneller en goedkoper; maatwerk past beter bij de persoon en geeft meer rechten om bezwaar te maken.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-aanbieders-een",
+    "oordeel": "aangepast",
+    "bevindingen": "De bewering 'in een wijk zijn soms twaalf aanbieders actief' is niet te staven (niet in raadsstukken of programma's gevonden) en is verwijderd. Wel bevestigd: motie M22-36a om het aantal zorgaanbieders terug te dringen werd in juni 2022 verworpen (16-21).",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json"
+    ],
+    "uitleg_nieuw": "De gemeente koopt jeugdhulp en Wmo-hulp in bij veel verschillende zorgbedrijven. Een voorstel uit 2022 om het aantal aanbieders terug te dringen kreeg geen meerderheid. Minder aanbieders geeft vaste gezichten en meer grip op kwaliteit en kosten. Meer aanbieders geeft inwoners keuze, bijvoorbeeld voor zorg die bij hun geloof of situatie past, en uitwijkmogelijkheden bij wachtlijsten.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-bijstand-tegenprestatie",
+    "oordeel": "klopt",
+    "bevindingen": "Participatiewet (art. 9 en 8a) geeft gemeenten de mogelijkheid een tegenprestatie te vragen; gemeenten bepalen de invulling. Kanttekening: met de wet 'Participatiewet in balans' (aangenomen 30-9-2025, gefaseerd vanaf 2026) wordt dit verbreed naar maatschappelijke participatie; de precieze gevolgen per 2027 zijn niet volledig nagegaan. Uitleg kan blijven.",
+    "bronnen": [
+      "https://www.binnenlandsbestuur.nl/sociaal/participatiewet-in-balans-door-eerste-kamer"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-buurthuis-elkewijk",
+    "oordeel": "klopt",
+    "bevindingen": "Buurtkamer in Kortenhoef/'s-Graveland/Ankeveen genoemd in programma's BBB en Lokaal Eén als vrijwilligersinitiatief; geen tegenstrijdige info gevonden. Verder algemene, neutrale uitleg zonder harde cijfers.",
+    "bronnen": [
+      "bronnen/bbb/programma.txt",
+      "bronnen/lokaal-een/programma.txt"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-buurthuis-jaarsubsidie",
+    "oordeel": "klopt",
+    "bevindingen": "Motie M25-111 '5 jarige subsidie wijkcentra' (12-11-2025) verworpen 9-27; de motie vroeg vijfjarige subsidie 'in plaats van per jaar', wat bevestigt dat de subsidie nu jaarlijks wordt verleend.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "zorg-preventie-ongezond",
+    "oordeel": "aangepast",
+    "bevindingen": "De beweringen dat er 'steeds vaker' fastfoodzaken in leegstaande panden komen en dat er rond scholen vapeshops zitten, zijn niet met cijfers of bronnen te staven; ze komen uit programma's. Instrumenten (omgevingsplan, vergunningen, branchering) kloppen in algemene zin. Uitleg voorzichtiger geformuleerd.",
+    "bronnen": [],
+    "uitleg_nieuw": "Sommige partijen maken zich zorgen over fastfoodzaken, tabakswinkels en vapeshops, vooral in de buurt van scholen. Met het omgevingsplan, vergunningen of 'brancheringsbeleid' kan de gemeente sturen welke winkels waar mogen komen. Dat kan de gezondheid van jongeren helpen, maar beperkt ondernemers en de keuze van inwoners.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-boa-of-jongerenwerk",
+    "oordeel": "klopt",
+    "bevindingen": "Algemene, neutrale uitleg zonder controleerbare cijfers; klopt in algemene zin.",
+    "bronnen": [],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-boa-taken",
+    "oordeel": "klopt",
+    "bevindingen": "Algemene uitleg over prioriteiten van boa's; geen onjuistheden gevonden.",
+    "bronnen": [],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-camera-uitbreiden",
+    "oordeel": "aangepast",
+    "bevindingen": "Verlenging cameratoezicht uitgaansgebied Hilversum in september 2023 bevestigd (tot 1 mei 2028, 31-4). Het voorbeeld 'Lindeplein' komt in geen enkel programma voor en CDA noemt geen camera's; VVD noemt camera's tegen lawaai in tunnels, HvH, BBB, BVNL en FvD noemen gerichte camera's op overlastplekken. Toegevoegd: de burgemeester besluit over cameratoezicht op straat, binnen regels van de raad (art. 151c Gemeentewet).",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "bronnen/vvd/programma.txt",
+      "bronnen/bbb/programma.txt",
+      "bronnen/hart-voor-hilversum/programma.txt"
+    ],
+    "uitleg_nieuw": "In het uitgaansgebied van Hilversum hangen camera's die de politie gebruikt; de raad stemde in 2023 in met verlenging tot 2028. De burgemeester besluit waar camera's komen, binnen de regels die de raad stelt. De vraag is of camera's ook naar andere overlastplekken moeten komen, zoals tunnels of plekken waar vaak ongeregeldheden zijn. Voorstanders wijzen op opsporing en afschrikking, tegenstanders op privacy en het verplaatsen van problemen.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-coffeeshops-aantal",
+    "oordeel": "aangepast",
+    "bevindingen": "Maximum van acht coffeeshops bevestigd in de Beleidsregel coffeeshops Hilversum 2022, gewijzigd 16-5-2024 (maximumstelsel; maximum bereikt, geen wachtlijst). Bron in uitleg ('zo noemen partijen het in MijnStem') vervangen door de beleidsregel. Het coffeeshopbeleid is een beleidsregel van de burgemeester. Dat er in de dorpen geen coffeeshops zijn, is niet met een officiële bron bevestigd; voorzichtiger geformuleerd.",
+    "bronnen": [
+      "https://zoek.officielebekendmakingen.nl/gmb-2024-234621.pdf",
+      "https://zoek.officielebekendmakingen.nl/gmb-2022-439196.pdf"
+    ],
+    "uitleg_nieuw": "Hilversum heeft een maximum van acht coffeeshops, en dat maximum is bereikt; voor zover bekend zijn er in de dorpen van Wijdemeren geen coffeeshops. De burgemeester stelt dit beleid vast; de raad kan wel vragen om een lager maximum. Een lager maximum betekent dat een gesloten coffeeshop niet terugkomt. Voorstanders willen minder drugsgebruik en overlast, tegenstanders vrezen meer straathandel.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-coffeeshops-scholen",
+    "oordeel": "aangepast",
+    "bevindingen": "Onjuist in de uitleg: 'Voor nieuwe coffeeshops gelden afstandsregels'. Hilversum heeft in 2013 afgezien van het landelijke afstandscriterium (350 meter tot scholen) omdat het niet handhaafbaar is; in plaats daarvan gelden eisen uit het keurmerk voor Hilversumse coffeeshops. Volgens de beleidsregel liggen de meeste coffeeshops binnen 350 meter loopafstand van scholen. Nieuwe coffeeshops zijn nu niet mogelijk omdat het maximum van acht bereikt is. De stelling blijft bruikbaar.",
+    "bronnen": [
+      "https://zoek.officielebekendmakingen.nl/gmb-2022-439196.pdf",
+      "https://zoek.officielebekendmakingen.nl/gmb-2024-234621.pdf"
+    ],
+    "uitleg_nieuw": "Volgens de gemeente liggen de meeste Hilversumse coffeeshops binnen 350 meter loopafstand van een school. Hilversum gebruikt sinds 2013 geen vaste minimumafstand tot scholen, maar stelt via een keurmerk andere eisen aan coffeeshops. Deze keuze gaat erover of de gemeente bestaande coffeeshops bij scholen laat zitten of ze dwingt te verhuizen of te sluiten.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-bibob",
+    "oordeel": "klopt",
+    "bevindingen": "Wet Bibob geeft de gemeente de mogelijkheid een vergunning te weigeren bij ernstig gevaar voor misbruik door criminelen; gemeenten kiezen zelf hoe vaak ze toetsen. Uitleg klopt in algemene zin.",
+    "bronnen": [],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "veiligheid-verlichting-fietspaden",
+    "oordeel": "stelling raakt",
+    "bevindingen": "De N201 is een provinciale weg die in Noord-Holland door de provincie wordt beheerd (vergunningen voor lichtmasten op de N201 in Hilversum lopen via de provincie). Een fietspad langs een provinciale weg valt doorgaans onder de provincie, zodat de gemeente daar niet zelf lampen kan plaatsen maar dat alleen kan vragen. Het eigendom van het fietspad zelf is niet per stuk nagegaan. Het voorbeeld in de stelling gaat dus mogelijk uit van een bevoegdheid die de gemeente niet heeft. Voorstel: het voorbeeld uit de stelling halen en de provincie in de uitleg noemen. Het voorbeeld N201 komt uit het VVD-programma.",
+    "bronnen": [
+      "https://zoek.officielebekendmakingen.nl/prb-2024-2400.pdf",
+      "bronnen/vvd/programma.txt"
+    ],
+    "uitleg_nieuw": "Veel fietspaden in het buitengebied zijn 's nachts donker, wat sommige fietsers onveilig vinden. Volle verlichting geeft zicht, maar verstoort dieren en de donkere nacht en kost stroom. Alternatieven zijn lampen die alleen aangaan als er iemand langskomt, of alleen licht op de gevaarlijkste stukken. Langs provinciale wegen, zoals de N201, beslist de provincie; daar kan de gemeente er alleen om vragen.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": "Op donkere fietspaden tussen de dorpen komen lampen die alleen aangaan als er iemand langsfietst."
+  },
+  {
+    "id": "asiel-zonder-spreidingswet",
+    "oordeel": "aangepast",
+    "bevindingen": "Spreidingswet geldt sinds 1 februari 2024 - klopt. Er ligt een initiatiefwetsvoorstel (o.a. JA21, FvD, BBB, Groep Markuszower, Keijzer) om de wet in te trekken; de Raad van State ontraadde dat in juli 2026; in juni 2026 verwierp de Tweede Kamer moties om de wet in te trekken. Geen stemming over het wetsvoorstel gevonden. Onjuist: 'Hilversum en Wijdemeren hebben nu al opvanglocaties'. Hilversum vangt asielzoekers op in Hotel Gooiland (174 plekken) en bereidt Noordse Bosje (vanaf 2027) en Crailo (vanaf 2028) voor; de tijdelijke noodopvang in het gemeentehuis van Loosdrecht is in oktober 2026 gesloten, en in Wijdemeren is verder geen asielopvang bekend.",
+    "bronnen": [
+      "https://www.binnenlandsbestuur.nl/sociaal/raad-van-state-spreidingswet-niet-intrekken",
+      "https://www.tweedekamer.nl/downloads/document?id=2026D44360",
+      "https://www.nhnieuws.nl/nieuws/360468/omwonenden-en-wethouder-treffen-elkaar-bij-locatie-waar-70-asielzoekers-10-jaar-lang-worden-opgevangen",
+      "https://www.nhnieuws.nl/nieuws/364653/laatste-bewoners-asielopvang-loosdrecht-vertrokken"
+    ],
+    "uitleg_nieuw": "De Spreidingswet verplicht sinds 2024 elke gemeente om een deel van de opvang van asielzoekers te regelen. Een aantal Kamerleden heeft een wetsvoorstel ingediend om die wet in te trekken; de Raad van State raadde dat in 2026 af en er is nog niet over gestemd. Zonder de wet beslist de gemeente zelf of zij opvang blijft bieden. Hilversum vangt nu asielzoekers op in Hotel Gooiland en bereidt nieuwe locaties voor; de tijdelijke noodopvang in Loosdrecht stopte in oktober 2026.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-instroom-voorwaarde",
+    "oordeel": "aangepast",
+    "bevindingen": "Onjuist: 'Gemeenten krijgen elk half jaar te horen hoeveel opvangplekken zij moeten regelen'. Onder de Spreidingswet wordt de opvang per cyclus van twee jaar verdeeld (verdeelbesluit); de halfjaarlijkse taakstelling geldt voor de huisvesting van statushouders. De zinsnede 'wat het Rijk ook doet' was onduidelijk. Toegevoegd dat de opvangtaak een wettelijke taak is, wat ook in het tegen-argument staat.",
+    "bronnen": [
+      "https://www.binnenlandsbestuur.nl/sociaal/raad-van-state-spreidingswet-niet-intrekken"
+    ],
+    "uitleg_nieuw": "Onder de Spreidingswet krijgen gemeenten elke twee jaar te horen hoeveel opvangplekken voor asielzoekers zij moeten regelen; dat is een wettelijke taak. Sommige lijsten willen alleen nieuwe plekken zoeken als het Rijk eerst zorgt dat er minder asielzoekers komen. Andere vinden dat de gemeente haar deel moet leveren, los van het beleid van het Rijk.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-spreidingswet-afschaffen",
+    "oordeel": "klopt",
+    "bevindingen": "Spreidingswet (sinds 1-2-2024) verdeelt opvang over gemeenten; gemeenteraden kunnen zich uitspreken richting Den Haag (zie bijv. Hilversumse motie M26-86, juli 2026, verworpen). Uitleg klopt.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://www.binnenlandsbestuur.nl/sociaal/raad-van-state-spreidingswet-niet-intrekken"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-blijvende-opvang",
+    "oordeel": "aangepast",
+    "bevindingen": "Noodopvang in gemeentehuis Rading 1 Loosdrecht was toegestaan tot uiterlijk 1 november 2026 (bindend advies Wijdemeerse raad 1-7-2026, rechter gaf gemeente gelijk); de laatste bewoners vertrokken in de week van 22 oktober 2026. Het gemeentehuis wordt volgens de kadernota vanaf 2027 verhuurd. Hilversumse nieuwe locaties: Noordse Bosje (70 plekken, voor tien jaar, vanaf 2027) en Crailo (120 plekken, vanaf 2028). Uitleg bijgewerkt.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://www.nhnieuws.nl/nieuws/364653/laatste-bewoners-asielopvang-loosdrecht-vertrokken",
+      "https://www.nhnieuws.nl/nieuws/360468/omwonenden-en-wethouder-treffen-elkaar-bij-locatie-waar-70-asielzoekers-10-jaar-lang-worden-opgevangen",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": "Opvang kan tijdelijk zijn, zoals de noodopvang in het gemeentehuis van Loosdrecht die in oktober 2026 stopte, of voor langere tijd op een vaste plek in een wijk. Hilversum kiest voor locaties voor langere tijd, zoals bij het Noordse Bosje (tien jaar). Een einddatum geeft omwonenden zekerheid, maar betekent dat steeds opnieuw een nieuwe plek gezocht moet worden.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-omwonenden-beslissen",
+    "oordeel": "aangepast",
+    "bevindingen": "Klopt in grote lijnen. Verfijnd: het college kiest locaties binnen kaders van de raad (Hilversumse motie M26-81 om de raad en inwoners meer zeggenschap te geven bij afwijkende locaties werd in juli 2026 verworpen, 7-28). Onder de Spreidingswet kan het Rijk in het uiterste geval een gemeente opdragen opvang te realiseren; de precieze formulering 'zelf een locatie aanwijzen' is vervangen door een voorzichtiger omschrijving.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json"
+    ],
+    "uitleg_nieuw": "Bij de keuze van een opvanglocatie kunnen omwonenden worden geïnformeerd, advies geven of echt kunnen tegenhouden. Nu kiest het college de locaties, binnen de kaders van de gemeenteraad. Onder de Spreidingswet kan het Rijk een gemeente die niets regelt in het uiterste geval opdragen om opvang te realiseren.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-kader-dorpen",
+    "oordeel": "aangepast",
+    "bevindingen": "Beleidskader asielaanpak Hilversum vastgesteld 20-12-2023 (33-1, alleen BVNL tegen), na gesprekken met inwoners in 2023. Inhoud volgens Binnenlands Bestuur: drie kleinere locaties verspreid over de stad in plaats van één grote, passend bij wat een buurt aankan, met gemengde groepen (mannen, vrouwen en gezinnen) en inburgering vanaf dag één. 'Geschikt voor gezinnen' verfijnd tot 'gemengde groepen, ook gezinnen'. VVD wil het kader herzien met willekeurig gekozen inwoners, ook uit Wijdemeren (programma VVD) - klopt.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://www.binnenlandsbestuur.nl/sociaal/burgerparticipatie/hilversum-splitst-azc-in-drieen-na-participatie",
+      "bronnen/vvd/programma.txt"
+    ],
+    "uitleg_nieuw": "In 2023 sprak Hilversum met inwoners over asielopvang. Daaruit kwam een kader dat de raad in december 2023 bijna unaniem vaststelde: enkele kleinere locaties verspreid over de stad, voor gemengde groepen, ook gezinnen. Inwoners van Wijdemeren praatten daar niet over mee. Het kader doortrekken naar de dorpen geeft snel duidelijkheid; het opnieuw openbreken (zoals de VVD wil, met willekeurig gekozen inwoners) geeft de dorpen een eigen stem, maar kost tijd.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-voorrang-statushouders",
+    "oordeel": "aangepast",
+    "bevindingen": "Hilversum houdt voorrang voor statushouders in de huisvestingsverordening (amendement 'Geen voorrang statushouders' in maart 2023 verworpen, 1-34). Landelijk: de Wet versterking regie volkshuisvesting geldt sinds 1 juli 2026; een amendement dat urgentie voor statushouders verbood, is met een novelle geschrapt (Eerste Kamer 23-6-2026) omdat een absoluut verbod in strijd is met de Grondwet. Gemeenten mogen statushouders dus nog voorrang geven. In de Tweede Kamer is gevraagd om een apart wetsvoorstel om die voorrang te beëindigen; dat is nog geen wet. Halfjaarlijkse taakstelling klopt.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://www.eerstekamer.nl/wetsvoorstel/36881_novelle_wet_versterking?df1=vgi8gqaw8fs6",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/23/wet-versterking-regie-volkshuisvesting-van-kracht-vanaf-1-juli"
+    ],
+    "uitleg_nieuw": "Statushouders zijn asielzoekers die een verblijfsvergunning hebben gekregen. De gemeente moet elk half jaar een vast aantal van hen een woning geven en doet dat nu vooral met voorrang op sociale huur. Landelijke regels staan die voorrang nog toe; een landelijk verbod is in 2026 juist uit de nieuwe huisvestingswet gehaald. Zonder voorrang blijven statushouders langer in de opvang, waardoor daar plekken bezet blijven.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-taal-tijdens-procedure",
+    "oordeel": "aangepast",
+    "bevindingen": "Gemeenten hebben sinds de Wet inburgering 2021 de regie over inburgering van statushouders - klopt. Onjuist: 'Vroege Start' is volgens het PRO-programma bedoeld voor statushouders die nog in het azc wonen, vóór huisvesting, niet voor asielzoekers van wie de procedure loopt. Het bestaan en de inhoud van 'Vroege Start' zijn alleen in dat programma gevonden. Voor asielzoekers in procedure biedt het COA beperkte activiteiten en taalles; de gemeente is daar niet toe verplicht.",
+    "bronnen": [
+      "bronnen/pro/programma.txt",
+      "https://www.cbs.nl/nl-nl/longread/rapportages/2024/statistiek-wet-inburgering--swi---2022/3-vroege-start-asielmigranten-tijdens-verblijf-in-coa-opvang"
+    ],
+    "uitleg_nieuw": "Gemeenten moeten statushouders (mensen met een verblijfsvergunning) helpen inburgeren, en kunnen daar al mee beginnen als zij nog in de opvang wonen. Voor asielzoekers van wie de procedure nog loopt, is de gemeente niet verplicht om taalles of hulp bij werk te geven. Vroeg beginnen kan integratie versnellen, maar kost geld voor mensen die misschien niet mogen blijven.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-welkomstprogramma",
+    "oordeel": "klopt",
+    "bevindingen": "Algemene uitleg; gemeente heeft sinds 2022 regie op inburgering en kan extra doen. Geen onjuistheden.",
+    "bronnen": [],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "asiel-regenbooggeld",
+    "oordeel": "aangepast",
+    "bevindingen": "Hilversum is regenbooggemeente (SP- en D66-programma). Het Rijksprogramma Regenboogsteden (jaarlijks 1,24 mln voor alle regenboogsteden samen) loopt tot en met 2026; in de OCW-begroting 2027 staat geen besluit over voortzetting, wel begeleiding van een 'nieuw programma Regenboogsteden'. 'Niet zeker' klopt; de einddatum is toegevoegd.",
+    "bronnen": [
+      "https://www.rijksfinancien.nl/memorie-van-toelichting/2027/OWB/VIII",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2022/10/15/regenboogsteden-krijgen-tot-en-met-2026-jaarlijks-124-miljoen"
+    ],
+    "uitleg_nieuw": "Hilversum is een 'regenbooggemeente': met geld van het Rijk steunt zij beleid en organisaties voor LHBTI'ers (lesbische vrouwen, homo's, biseksuelen, transgender en intersekse personen). Het huidige programma van het Rijk liep tot en met 2026 en het is niet zeker of en hoe dat geld doorgaat. Doorbetalen kost de gemeente geld dat ook elders kan.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-budget-niveau",
+    "oordeel": "aangepast",
+    "bevindingen": "PRO-programma stelt dat Hilversum weinig uitgeeft aan cultuur vergeleken met steden van gelijke omvang - correct weergegeven als 'volgens PRO'. Niet te staven: 'het cultuurbudget wordt voor de hele nieuwe gemeente opnieuw vastgesteld'; de begroting 2027 is bewust beleidsarm en subsidieregels worden geharmoniseerd. Toegevoegd: amendement voor 250.000 euro extra cultuurgeld (2022) verworpen.",
+    "bronnen": [
+      "bronnen/pro/programma.txt",
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": "Hilversum geeft volgens onder meer PRO minder uit aan cultuur dan vergelijkbare gemeenten; een voorstel uit 2022 voor 250.000 euro per jaar extra kreeg geen meerderheid. Na de fusie worden de subsidieregels van Hilversum en Wijdemeren samengevoegd, en de nieuwe raad kiest hoeveel geld er naar cultuur gaat. Meer geld voor cultuur betekent minder ruimte voor andere uitgaven of hogere lasten, terwijl de gemeentefinanciën onder druk staan.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-projectsubsidie-eindig",
+    "oordeel": "klopt",
+    "bevindingen": "VVD-programma: projectsubsidies worden eindig, uitgangspunt drie tot vijf jaar. Uitleg klopt.",
+    "bronnen": [
+      "bronnen/vvd/programma.txt"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-subsidie-bezoekers",
+    "oordeel": "klopt",
+    "bevindingen": "Algemene uitleg zonder controleerbare cijfers; geen onjuistheden.",
+    "bronnen": [],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-dorpsgarantie",
+    "oordeel": "klopt",
+    "bevindingen": "Harmonisatie van subsidieregels na de fusie bevestigd als uitgangspunt (kadernota 2027; Hilversumse technische basis als vertrekpunt). Dorpen correct genoemd. Uitleg klopt.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-sportevenementen",
+    "oordeel": "klopt",
+    "bevindingen": "Hilversum City Run en Sprint Triatlon Nederhorst den Berg genoemd in programma's (Lokaal Eén, VVD, PRO, D66); geen tegenstrijdige info. Uitleg klopt.",
+    "bronnen": [
+      "bronnen/lokaal-een/programma.txt",
+      "bronnen/d66/programma.txt"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-monumentenregels",
+    "oordeel": "aangepast",
+    "bevindingen": "Het aantal 'ruim 700 monumenten' voor de nieuwe gemeente is niet met een bron te staven en is verwijderd. Vergunning en welstands-/monumentencommissie bij wijzigingen aan monumenten klopt in algemene zin.",
+    "bronnen": [],
+    "uitleg_nieuw": "De nieuwe gemeente telt veel monumenten, met veel werk van architect Dudok en beschermde dorpsgezichten in de dorpen. Voor veranderingen aan een monument, zoals zonnepanelen of isolatie, zijn vaak een vergunning en advies van een commissie nodig. Soepeler regels maken verduurzamen en verbouwen makkelijker, maar kunnen het historische karakter aantasten.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "cultuur-monumentale-scholen",
+    "oordeel": "aangepast",
+    "bevindingen": "Het bedrag '160 tot 200 miljoen euro' voor het huisvestingsplan is niet te staven (een gemeentelijk stuk noemt 128,5 miljoen exclusief indexering voor het IHP 2024-2039, maar de datum daarvan is onduidelijk) en is verwijderd. Gemeente is verantwoordelijk voor onderwijshuisvesting; IHP 2024-2039 vastgesteld op 3 april 2024 - klopt.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bfa4e3d7-a224-4cdc-8b4d-ec5307456413"
+    ],
+    "uitleg_nieuw": "Verschillende scholen zitten in monumentale gebouwen, waaronder scholen van Dudok. De gemeente betaalt de schoolgebouwen en heeft een huisvestingsplan voor scholen tot 2039 met grote investeringen. De keuze is of de gemeente deze gebouwen renoveert en verduurzaamt voor onderwijs, of nieuwe scholen bouwt en de oude panden bijvoorbeeld voor wonen gebruikt.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-dorpsraad-op-verzoek",
+    "oordeel": "aangepast",
+    "bevindingen": "Raadsbesluit 8 oktober 2026: routekaart harmonisatie dorpen- en wijkenbeleid aangenomen, met amendement A26-112 'Onderzoeken zeggenschap dorpen en wijken' (unaniem) - klopt. Zes Wijdemeerse dorpen (Ankeveen, Breukeleveen, 's-Graveland, Kortenhoef, Loosdrecht, Nederhorst den Berg) bevestigd. 'Acht wijken' niet te staven; verwijderd.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/dff6d521-6af2-4dff-8fd9-57ab3c07aef0",
+      "https://www.nhnieuws.nl/nieuws/364898/hilversum-en-wijdemeren-worden-een-vijf-vragen-over-de-fusie-en-de-verkiezingen"
+    ],
+    "uitleg_nieuw": "De nieuwe gemeente bestaat uit de stad Hilversum met haar wijken en de zes dorpen van Wijdemeren. In oktober 2026 besloot de Hilversumse raad te laten onderzoeken hoe dorpen en wijken meer zeggenschap krijgen. Sommige lijsten willen overal een gekozen dorps- of wijkraad, andere alleen waar inwoners erom vragen, en weer andere kiezen een andere vorm, zoals een jaarlijkse dorpsvergadering of een digitaal platform.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-dorpsraad-beslist",
+    "oordeel": "klopt",
+    "bevindingen": "Gemeentewet (art. 83) maakt bestuurscommissies met overgedragen bevoegdheden mogelijk; de raad houdt het budgetrecht. Uitleg klopt.",
+    "bronnen": [],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-loket-elk-dorp",
+    "oordeel": "aangepast",
+    "bevindingen": "Volgens wijdemeren.nl sluit het gemeentehuis in Loosdrecht (Rading 1) definitief: aanvragen kan tot 11 december 2026, ophalen tot 24 december 2026; vanaf 4 januari 2027 gaan inwoners naar het Stadskantoor in Hilversum (Oude Enghweg). Het gemeentehuis wordt volgens de kadernota vanaf 2027 verhuurd. Uitleg bijgewerkt: na de fusie is er geen loket meer in de dorpen.",
+    "bronnen": [
+      "https://www.wijdemeren.nl/contact",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": "Voor bijvoorbeeld een paspoort of rijbewijs konden inwoners terecht bij het stadskantoor in Hilversum en het gemeentehuis in Loosdrecht. Het loket in Loosdrecht sluit eind december 2026; vanaf januari 2027 is er alleen het stadskantoor in Hilversum. De vraag is hoe dichtbij de gemeente in de dorpen moet zijn: een vast loket per dorp, spreekuren in dorpshuizen, een mobiel loket dat langs de dorpen rijdt, of vooral hulp via internet en telefoon, op afspraak.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-dorpen-voorrang",
+    "oordeel": "klopt",
+    "bevindingen": "Wijdemeren had financiële problemen (financieel herstelplan 2023, financieel toezicht provincie tot de fusie) en bestuurlijke problemen; de fusie volgde op het Toekomstperspectief 2026 (2023). 'Meerdere lijsten wijzen op achterstallig onderhoud' is als partijstandpunt geformuleerd. Uitleg kan blijven.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-gelijke-regels",
+    "oordeel": "klopt",
+    "bevindingen": "Routekaart harmonisatie dorpen- en wijkenbeleid vastgesteld 8 oktober 2026 - klopt. Belastingen worden grotendeels per 2027 gelijkgetrokken, de rioolheffing per 2029.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/dff6d521-6af2-4dff-8fd9-57ab3c07aef0",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-leges-dorpsevenementen",
+    "oordeel": "aangepast",
+    "bevindingen": "Motie M-4-9 Wijdemeren (13-11-2025, 14-5) om kleine dorpsevenementen legesvrij te houden - klopt. Huidige situatie: in Wijdemeren zijn kleine niet-commerciële evenementen vrijgesteld van leges voor onder meer de evenementenvergunning. In Hilversum volstaat voor kleine evenementen die aan het 'Besluit aanwijzing kleine evenementen 2019' voldoen een melding zonder leges; voor vergunningplichtige evenementen worden wel leges geheven. Bij de belastingverordeningen 2027 (vastgesteld 11-11-2026) blijft de Wijdemeerse vrijstelling voorlopig gelden op Wijdemeers grondgebied; eindbeeld is de Hilversumse systematiek met mogelijke compensatie via subsidie (op zijn vroegst bij de voorjaarsnota 2027). De afloop van amendement A26-136 over dit onderwerp is niet vastgesteld (geen stemuitslag gevonden). De stelling klopt nog: het verschil gaat vooral over vergunningplichtige kleine evenementen.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/8b589ed6-696a-4be2-afb9-76737580dda1",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/9250d760-c2b9-419c-962a-9cee66bf1b98",
+      "https://hilversum.bestuurlijkeinformatie.nl/Agenda/Index/eaf95047-d83a-4700-afdc-b5f19790de3b"
+    ],
+    "uitleg_nieuw": "Leges zijn de kosten die de gemeente rekent voor een vergunning, bijvoorbeeld voor een evenement. In Hilversum is voor een heel klein evenement een gratis melding genoeg, maar voor een evenement met vergunning betaal je leges; in Wijdemeren zijn kleine, niet-commerciële dorpsevenementen vrijgesteld. Die vrijstelling blijft in 2027 voorlopig gelden in de dorpen; later moet de raad kiezen of het verschil blijft, of dat overal dezelfde regel komt, eventueel met subsidie als compensatie.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-referendum-advies",
+    "oordeel": "aangepast",
+    "bevindingen": "Hilversum: Verordening correctief raadgevend referendum geldt sinds 15-3-2017, gewijzigd per 23-10-2024 - klopt. Wijdemeren: initiatiefvoorstel referendumverordening in februari 2024 verworpen (4-14); 'meerdere keren verworpen' is niet te staven, alleen deze keer gevonden. Bindend referendum is volgens de huidige wet niet mogelijk - klopt.",
+    "bronnen": [
+      "https://lokaleregelgeving.overheid.nl/CVDR444761/",
+      "https://lokaleregelgeving.overheid.nl/CVDR725818/",
+      "bronnen/_stemgedrag/stemmingen.json"
+    ],
+    "uitleg_nieuw": "Hilversum heeft sinds 2017 een correctief raadgevend referendum: inwoners kunnen na een raadsbesluit om een stemming vragen, maar de raad beslist uiteindelijk zelf. In Wijdemeren werd een voorstel voor een referendumregeling in 2024 verworpen. Een bindend referendum, waarbij de uitslag de raad verplicht, kan volgens de huidige wet niet; sommige lijsten willen dat de raad de uitslag toch altijd volgt.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "bestuur-regio-minder",
+    "oordeel": "aangepast",
+    "bevindingen": "Regio Gooi en Vechtstreek voert o.a. Veilig Thuis, vrouwenopvang en afvalinzameling (GAD) uit - klopt. 'Ongeveer de helft van de inwoners van de regio' is niet met een bron te staven (nieuwe gemeente ca. 119.000 inwoners volgens NH Nieuws; regiototaal niet gecontroleerd); vervangen door 'veruit de grootste gemeente'. Rol in de Metropoolregio Amsterdam voorzichtiger geformuleerd.",
+    "bronnen": [
+      "https://www.nhnieuws.nl/nieuws/364898/hilversum-en-wijdemeren-worden-een-vijf-vragen-over-de-fusie-en-de-verkiezingen",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/8b589ed6-696a-4be2-afb9-76737580dda1"
+    ],
+    "uitleg_nieuw": "In de Regio Gooi en Vechtstreek werken de Gooise gemeenten samen, onder meer aan opvang en bescherming, Veilig Thuis, vrouwenopvang en afvalinzameling. Na de fusie is Hilversum, met ongeveer 119.000 inwoners, veruit de grootste gemeente in de regio. In de Metropoolregio Amsterdam (MRA) praat Hilversum nu mee via de regio; sommige lijsten willen daar een eigen plek of taken terughalen, andere willen de samenwerking juist versterken met meer zeggenschap voor de raden.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-tekort-lasten",
+    "oordeel": "aangepast",
+    "bevindingen": "Rijk verlaagt de algemene uitkering vanaf 2028 (voor Hilversum ca. 6 miljoen euro per jaar) - klopt (voorjaarsnota 2026). 'Wijdemeren brengt uitgesteld onderhoud mee' is niet met een officiële bron gestaafd; als standpunt van partijen geformuleerd. Uitleg verder neutraal.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bfa4e3d7-a224-4cdc-8b4d-ec5307456413"
+    ],
+    "uitleg_nieuw": "De nieuwe gemeente verwacht krappe jaren: het Rijk geeft vanaf 2028 minder geld, en volgens meerdere partijen brengt Wijdemeren achterstallig onderhoud mee. Een tekort kan de raad dichten door minder uit te geven of door de OZB en andere heffingen te verhogen. Bij 'eens' gaat het behoud van voorzieningen voor lage lasten; bij 'oneens' gaat de gemeente eerst snijden in eigen uitgaven, ook als voorzieningen dan krimpen.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-ozb-meestijgen",
+    "oordeel": "aangepast",
+    "bevindingen": "Geplande OZB-ontwikkeling: per 2027 wordt de OZB geharmoniseerd op Hilversums niveau (wettelijk verplicht, tarief vastgesteld door de nieuwe raad op 4 januari 2027). Hilversumse uitgangspunt: woonlasten als geheel stijgen jaarlijks met de inflatie. Voor 2027 is in de voorjaarsnota 2026 een extra stijging van 2,2% vanwege hogere inflatie verwerkt, waardoor de woonlasten in Hilversum met ca. 4,3% stijgen. Woningeigenaren in Wijdemeren gaan minder OZB betalen (gemiddeld ca. 330 euro minder volgens NH Nieuws). Feitelijke context toegevoegd; 'bijna alle lijsten' als programmastandpunt behouden maar voorzichtiger.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bfa4e3d7-a224-4cdc-8b4d-ec5307456413",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/51116212-6b57-4e58-82a6-2581be2c2a19",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/8b589ed6-696a-4be2-afb9-76737580dda1",
+      "https://www.nhnieuws.nl/nieuws/364898/hilversum-en-wijdemeren-worden-een-vijf-vragen-over-de-fusie-en-de-verkiezingen"
+    ],
+    "uitleg_nieuw": "De OZB wordt per 2027 in de hele gemeente gelijk getrokken op het Hilversumse niveau: woningeigenaren in Wijdemeren gaan daardoor minder betalen, in Hilversum stijgen de woonlasten in 2027 met ongeveer 4% omdat de inflatie hoger is. Daarna is het uitgangspunt dat de woonlasten (OZB, afval- en rioolheffing) jaarlijks met de inflatie meestijgen. Veel lijsten willen dat zo houden; een kleinere groep wil de OZB echt verlagen door de gemeente minder te laten doen.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-subsidies-korten",
+    "oordeel": "klopt",
+    "bevindingen": "Harmonisatie van subsidieregelingen na de fusie bevestigd (kadernota 2027). Algemene uitleg verder correct.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bcf66f4e-f720-4c99-85b3-e8a20ddc1080"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-heffing-draagkracht",
+    "oordeel": "aangepast",
+    "bevindingen": "Onjuist: 'elk huishouden betaalt voor afval en riool een vast bedrag'. Afvalstoffenheffing hangt af van het aantal personen in het huishouden (2027: 324,96 / 432,48 / 539,28 euro voor 1, 2 en meer personen). Rioolheffing betaalt in Hilversum de eigenaar, als vast bedrag per perceel (2027: 219,35 euro); in Wijdemeren is er tot 2029 een eigenarenheffing plus een gebruikersheffing alleen voor grootverbruikers van water. Huurders betalen dus geen rioolheffing. OZB hangt af van de WOZ-waarde - klopt.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/2f7d2605-8ee9-4790-886a-5c30b71f3527",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/d4304305-d21f-4c4b-a846-bf021ca59cb1",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/8b589ed6-696a-4be2-afb9-76737580dda1"
+    ],
+    "uitleg_nieuw": "Nu betaalt elk huishouden voor afval een vast bedrag dat alleen afhangt van het aantal personen, of je nu in een flat of een villa aan de plas woont. De rioolheffing betaalt de eigenaar van een woning, ook als vast bedrag. De OZB hangt wel af van de waarde van je huis. Een deel van de afval- en rioolkosten via de OZB innen maakt de rekening hoger voor dure woningen en lager voor goedkope.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-afval-vast-bedrag",
+    "oordeel": "aangepast",
+    "bevindingen": "Afvalstoffenheffing in Hilversum en Wijdemeren is een vast bedrag per huishouden afhankelijk van het aantal personen, niet van de hoeveelheid afval (geen diftar). Hilversum kent drie tarieven (1, 2, 3+ personen), Wijdemeren twee; vanaf 2027 geldt in de hele gemeente het Hilversumse systeem met drie tarieven. Nuance 'per huishoudgrootte' toegevoegd.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/2f7d2605-8ee9-4790-886a-5c30b71f3527",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/8b589ed6-696a-4be2-afb9-76737580dda1"
+    ],
+    "uitleg_nieuw": "De afvalstoffenheffing is nu in Hilversum en Wijdemeren een vast bedrag per huishouden, dat alleen afhangt van het aantal personen en niet van de hoeveelheid afval. Een deel van de lijsten wil dat je minder betaalt als je goed scheidt en weinig restafval hebt, bijvoorbeeld via een chip in de container. Tegenstanders vrezen illegaal dumpen, meer administratie en hogere rekeningen voor gezinnen met veel luiers of incontinentiemateriaal.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-toerist-forens-laag",
+    "oordeel": "aangepast",
+    "bevindingen": "Onjuist/achterhaald: 'forensenbelasting bestaat nu alleen in de Wijdemeerse dorpen'. De Hilversumse raad stelde op 11 november 2026 de belastingverordeningen 2027 vast, waaronder een forensenbelasting voor de hele nieuwe gemeente: 0,29% van de WOZ-waarde, minimaal 422 en maximaal 1.531 euro per jaar (naar verwachting ca. 275 nieuwe belastingplichtigen in Hilversum). Toeristenbelasting bestaat in beide gemeenten (in Hilversum sinds 2026).",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/68599eeb-d793-46f5-bca5-2ac3db22f029",
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/8b589ed6-696a-4be2-afb9-76737580dda1",
+      "https://hilversum.bestuurlijkeinformatie.nl/Agenda/Index/eaf95047-d83a-4700-afdc-b5f19790de3b"
+    ],
+    "uitleg_nieuw": "Forensenbelasting betalen mensen met een tweede huis of recreatiewoning in de gemeente; die gold alleen in Wijdemeren, maar geldt vanaf 2027 in de hele nieuwe gemeente, met een maximum van ongeveer 1.500 euro per jaar. Toeristenbelasting betalen gasten per overnachting; die bestaat al in beide gemeenten. Meer opbrengst hieruit kan de lasten voor inwoners drukken, maar raakt ook recreatieondernemers aan de plassen en in de stad.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-inhuur-vaste-banen",
+    "oordeel": "klopt",
+    "bevindingen": "Algemene uitleg. Voorjaarsnota 2026 bevat ook een geplande besparing op organisatie/personeel. 'Vrijwel alle lijsten' is een programmastandpunt; niet volledig nagelopen maar niet tegengesproken.",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bfa4e3d7-a224-4cdc-8b4d-ec5307456413"
+    ],
+    "uitleg_nieuw": null,
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-investeringen-spreiden",
+    "oordeel": "aangepast",
+    "bevindingen": "Het bedrag 'zo'n 200 miljoen euro voor schoolgebouwen en achterstallig onderhoud' is niet te staven en is verwijderd. De grens van 130% schuldquote is niet alleen een wens van 'sommige lijsten': het is de norm uit de Hilversumse financiële strategie. Volgens de voorjaarsnota 2026 komt de verwachte schuldquote over tien jaar uit op 158%, en het college zegt dat bijsturing nodig is. In het voor-argument is 'zeker nu de rente stijgt' geschrapt (niet gestaafd).",
+    "bronnen": [
+      "https://hilversum.bestuurlijkeinformatie.nl/Document/View/bfa4e3d7-a224-4cdc-8b4d-ec5307456413"
+    ],
+    "uitleg_nieuw": "Hilversum heeft een oplopende schuld, en de nieuwe gemeente staat voor grote uitgaven aan schoolgebouwen en onderhoud aan wegen, bruggen en beschoeiing. Volgens de voorjaarsnota 2026 komt de schuld over tien jaar ruim boven de grens van 130% van de jaarinkomsten die de gemeente zichzelf heeft gesteld. Spreiden over meer jaren houdt de schuld en de rentelasten lager, maar betekent dat scholen en wegen langer moeten wachten.",
+    "voor_nieuw": "Een hogere schuld zadelt toekomstige generaties op met rente en aflossing, en maakt de gemeente kwetsbaar als de rente oploopt.",
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  },
+  {
+    "id": "financien-centrum-sober",
+    "oordeel": "aangepast",
+    "bevindingen": "Raad stemde in december 2023 in met het definitieve ontwerp voor de Kerkbrink en een hoger krediet (28-6); het ontwerp bevat natuursteen en een fontein. 'Voor miljoenen' en 'het werk is bijna klaar' zijn niet met een actuele bron te staven; verwijderd. Stationsgebied (2022) en Bruisend Hart/Oosterspoorplein (2024) als projecten bevestigd.",
+    "bronnen": [
+      "bronnen/_stemgedrag/stemmingen.json",
+      "https://omgevingsvisie.hilversum.nl/kerkbrinknieuwebibliotheek/herinrichtingkerkbrink/participatiekerkbrink/kerkbrink1/HandlerDownloadFiles.ashx?id=1593901"
+    ],
+    "uitleg_nieuw": "Voor de Kerkbrink in het centrum van Hilversum stemde de raad in 2023 in met een nieuw ontwerp, met onder meer natuursteen en een fontein, en met een hoger budget. Bij volgende projecten in het centrum, zoals rond het station en het Oosterspoorplein, speelt opnieuw de vraag of de gemeente kiest voor kwaliteit en uitstraling of voor een sobere, goedkopere uitvoering.",
+    "voor_nieuw": null,
+    "tegen_nieuw": null,
+    "stelling_voorstel": null
+  }
+]

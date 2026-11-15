@@ -1,0 +1,464 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|gewoon-hilversum",
+  "id": "wonen-eigen-behoefte",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Sturen op kwaliteit voor de buurt en lokale doorstroming",
+   "basis": "programma p.18"
+  }
+ },
+ {
+  "sleutel": "wonen-parkeernorm|gewoon-hilversum",
+  "id": "wonen-parkeernorm",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-parkeernorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Parkeernorm is middel, geen doel",
+   "basis": "programma p.18"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|gewoon-hilversum",
+  "id": "verkeer-buurt-beslist",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "criterium is een aantoonbaar parkeerprobleem, gebiedsgericht",
+   "basis": "programma p.5"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|gewoon-hilversum",
+  "id": "verkeer-vergunning",
+  "slug": "gewoon-hilversum",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": 1,
+   "kern": "Eerste vergunning zo goedkoop mogelijk, niet gratis",
+   "toelichting": "De lijst wil de eerste parkeervergunning per huishouden zo goedkoop mogelijk houden en de recent verlaagde tarieven niet verhogen. Gratis noemt ze niet.",
+   "citaat": "De eerste parkeervergunning per huishouden houden we zo goedkoop mogelijk, omdat mensen deze auto gewoon nodig hebben om van A naar B te komen.",
+   "bron": "p. 21",
+   "soort": "programma",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": -1,
+   "kern": "eerste vergunning zo goedkoop mogelijk, geen verhoging",
+   "basis": "programma p.21"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|gewoon-hilversum",
+  "id": "klimaat-zon-boerenland",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Geen nieuwe zonnevelden; wel meervoudig ruimtegebruik",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|gewoon-hilversum",
+  "id": "natuur-afsluiten",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "inwoners moeten van natuurgebieden kunnen blijven genieten",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|gewoon-hilversum",
+  "id": "natuur-groennorm",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "alle kansen voor woningbouw pakken",
+   "basis": "mijnstem, afgeleid"
+  }
+ },
+ {
+  "sleutel": "zorg-bijstand-tegenprestatie|gewoon-hilversum",
+  "id": "zorg-bijstand-tegenprestatie",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-bijstand-tegenprestatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "iedereen doet mee naar vermogen; vrijwilligerswerk telt ook",
+   "basis": "programma p.31"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|gewoon-hilversum",
+  "id": "veiligheid-boa-taken",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "boa's vooral waar inwoners echt problemen ervaren",
+   "basis": "programma p.24"
+  }
+ },
+ {
+  "sleutel": "veiligheid-bibob|gewoon-hilversum",
+  "id": "veiligheid-bibob",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-bibob",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "ondernemers niet bij voorbaat als verdachte behandelen",
+   "basis": "programma p.23"
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|gewoon-hilversum",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "goed licht op de juiste plaats, niet overal meer",
+   "basis": "programma p.27"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|gewoon-hilversum",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "gewoon-hilversum",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": -1,
+   "kern": "Wil de wet naleven en lobbyt voor minder instroom",
+   "toelichting": "De lijst wil het Rijk laten zorgen voor minder instroom en daarvoor in Den Haag lobbyen. Intussen wil ze de wet naleven, ook bij opvang, met maximaal 100 mensen per locatie en 500 plekken in totaal. Ze maakt het zoeken van locaties niet afhankelijk van het Rijk.",
+   "citaat": "Wij willen gewoon de wet naleven, ook op het gebied van opvang.",
+   "bron": "p. 32  |  Stemgids: asielopvang 'nu' te weinig woonruimte en zorg",
+   "soort": "programma",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": 1,
+   "kern": "Rijk moet instroom fors verminderen; te weinig ruimte nu",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|gewoon-hilversum",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "wil strengere landelijke regels, maar de wet naleven",
+   "basis": "programma p.33"
+  }
+ },
+ {
+  "sleutel": "asiel-taal-tijdens-procedure|gewoon-hilversum",
+  "id": "asiel-taal-tijdens-procedure",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-taal-tijdens-procedure",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "kiest voor opvang en integratie van mensen met status",
+   "basis": "programma p.32"
+  }
+ },
+ {
+  "sleutel": "economie-centrum-compacter|gewoon-hilversum",
+  "id": "economie-centrum-compacter",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-centrum-compacter",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "mix van functies, niet ombouwen zonder visie",
+   "basis": "programma p.38"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|gewoon-hilversum",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "balans; sociale campings behouden",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|gewoon-hilversum",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "bestaande initiatieven koesteren; ze verdienen te blijven bestaan",
+   "basis": "programma p.35"
+  }
+ },
+ {
+  "sleutel": "cultuur-dorpsgarantie|gewoon-hilversum",
+  "id": "cultuur-dorpsgarantie",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-dorpsgarantie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "vrijwillige initiatieven in de dorpen moeten blijven bestaan",
+   "basis": "programma p.35"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|gewoon-hilversum",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "jaarvergadering in elk dorp, geen besluitvormende dorpsraad",
+   "basis": "programma p.13"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|gewoon-hilversum",
+  "id": "bestuur-referendum-advies",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal over referendum",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|gewoon-hilversum",
+  "id": "financien-subsidies-korten",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "meerjarige afspraken met bewezen organisaties",
+   "basis": "programma p.31"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|gewoon-hilversum",
+  "id": "financien-investeringen-spreiden",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "eerst financieel op orde, dan pas grote ambities",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "financien-centrum-sober|gewoon-hilversum",
+  "id": "financien-centrum-sober",
+  "slug": "gewoon-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-centrum-sober",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal, geen toelichting",
+   "basis": "stemgids"
+  }
+ }
+]

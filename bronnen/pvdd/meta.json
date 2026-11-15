@@ -1,0 +1,29 @@
+{
+  "naam": "Partij voor de Dieren",
+  "lijstnummer": 15,
+  "lijsttrekker": "Jojanneke Vanderveen",
+  "website": "https://hilversum.partijvoordedieren.nl/",
+  "programma_url": "https://assets.partijvoordedieren.nl/assets/site/hilversum/PvdD-beleidsversie-GR2026-Hilversum-Wijdemeren.pdf",
+  "programma_titel": "Verkiezingsprogramma beleidsversie, Gemeenteraad 2026-2030 Partij voor de Dieren Hilversum-Wijdemeren",
+  "programma_paginas": 79,
+  "type": "landelijke partij, lokale afdeling",
+  "achtergrond": "Afdeling Hilversum-Wijdemeren van de landelijke Partij voor de Dieren; doet voor het eerst mee aan de gemeenteraadsverkiezingen in Hilversum (stemgidshilversum.nl, hilversumsnieuws.nl). Geen zetels in Hilversum of Wijdemeren.",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/pvdd/",
+    "https://hilversum.partijvoordedieren.nl/",
+    "https://www.partijvoordedieren.nl/lokaal",
+    "https://assets.partijvoordedieren.nl/assets/site/hilversum/PvdD-beleidsversie-GR2026-Hilversum-Wijdemeren.pdf",
+    "https://www.hilversumsnieuws.nl/politiek/politiek/370039/-verkiezingen-partij-voor-de-dieren-doet-mee-aan-gemeenteraadsverkiezingen-in-hilversum"
+  ],
+  "opmerkingen": "Dit is de \"beleidsversie\" (uitgebreid); een publieksversie bestaat mogelijk ook maar is niet gevonden. pdftotext gaf font-waarschuwingen maar tekst is leesbaar. Kandidaten- en standpuntenpagina's van de lokale site niet allemaal opgeslagen.",
+  "slug": "pvdd",
+  "opgehaald_op": "2026-11-15",
+  "programma_woorden": 28194,
+  "extra_bestanden": [
+    "extra-hilversumsnieuws-deelname.txt",
+    "extra-landelijke-site.txt",
+    "extra-lokaal.txt",
+    "extra-lokale-site.txt",
+    "extra-stemgids-standpunten.txt"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "naam": "BVNL (Belang van Nederland) Hilversum",
+  "lijstnummer": 9,
+  "slug": "bvnl",
+  "lijsttrekker": "Joost van Beers",
+  "website": "https://www.gezamenlijkbelang.nl/",
+  "programma_url": "https://www.gezamenlijkbelang.nl/standpunten",
+  "programma_titel": "Standpunten Wijdemeren en Hilversum - Beter voor Wijdemeren en Hilversum, 11 pijlers (Gezamenlijk Belang)",
+  "programma_paginas": null,
+  "programma_woorden": 1879,
+  "opgehaald_op": "2026-11-15",
+  "type": "landelijke partij, lokale afdeling",
+  "achtergrond": "Lokale afdeling van de landelijke partij Belang van Nederland. BVNL won bij de gemeenteraadsverkiezingen van 2022 een zetel in Hilversum met Frederique Durlacher, die in 2024 uit de partij stapte en onder eigen naam doorging; BVNL heeft daarmee naar eigen opgave van de stemgids geen zetels meer. Wybren van Haga staat als lijstduwer op de lijst.",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/bvnl/",
+    "https://www.hilversumsnieuws.nl/politiek/politiek/380799/hilversum-kiest-twintig-partijen-op-de-lijst-van-18-november",
+    "https://www.gezamenlijkbelang.nl/standpunten",
+    "https://www.gezamenlijkbelang.nl/",
+    "https://www.gezamenlijkbelang.nl/speerpunten",
+    "https://www.gezamenlijkbelang.nl/de-zeven-speerpunten",
+    "https://www.gezamenlijkbelang.nl/kandidaten",
+    "https://www.gezamenlijkbelang.nl/dorpskernen",
+    "https://www.gezamenlijkbelang.nl/nieuws"
+  ],
+  "opmerkingen": "Er is geen apart pdf-programma: de partij publiceert haar programma alleen als webpagina (/standpunten, 11 pijlers, 44 debatstellingen genoemd). programma.txt is zelf geextraheerd uit de HTML (origineel/standpunten.html); de stemgids bewaart een 8-pagina's pdf-kopie (ook in origineel/) van dezelfde pagina (https://stemgidshilversum.nl/programmas/bvnl-web-2026-10-30.pdf, opgehaald 30-10-2026). Het aantal paginas is daarom null. De tekst combineert Wijdemeren en Hilversum. Zetelaantal 0 gebaseerd op stemgids en hilversumsnieuws; niet apart geverifieerd bij de gemeente. De extra-bestanden bevatten ook de pagina's speerpunten, kandidaten en dorpskernen (zie programma.txt voor overlap)."
+}

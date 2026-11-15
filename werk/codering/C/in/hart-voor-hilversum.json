@@ -1,0 +1,465 @@
+[
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|hart-voor-hilversum",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Hoogte afhankelijk van omliggende gebouwen; in de Meent niet",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-lokale-binding-helft|hart-voor-hilversum",
+  "id": "wonen-lokale-binding-helft",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-lokale-binding-helft",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Lokale binding bij toewijzing laten toetsen",
+   "basis": "programma p.8"
+  }
+ },
+ {
+  "sleutel": "wonen-starterswoning-boven-lening|hart-voor-hilversum",
+  "id": "wonen-starterswoning-boven-lening",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-starterswoning-boven-lening",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Pilot met een starterslening",
+   "basis": "programma p.8"
+  }
+ },
+ {
+  "sleutel": "klimaat-alleen-rijk|hart-voor-hilversum",
+  "id": "klimaat-alleen-rijk",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-alleen-rijk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Steunde routekaart aardgasvrij 2050 met tussendoelen",
+   "basis": "stemgedrag"
+  }
+ },
+ {
+  "sleutel": "klimaat-isolatie-eerst|hart-voor-hilversum",
+  "id": "klimaat-isolatie-eerst",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-isolatie-eerst",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Betaalbare isolatie en energiebesparing voorop",
+   "basis": "programma p.9"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|hart-voor-hilversum",
+  "id": "klimaat-zon-boerenland",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Prioriteit voor zonnepanelen op daken",
+   "basis": "programma p.9"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|hart-voor-hilversum",
+  "id": "natuur-afsluiten",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "balans en maatwerk; kwetsbare plekken beschermen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-stikstof-boeren|hart-voor-hilversum",
+  "id": "natuur-stikstof-boeren",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-stikstof-boeren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "balans natuur en landbouw; boeren als landschapsbeheerders",
+   "basis": "programma p.13"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|hart-voor-hilversum",
+  "id": "veiligheid-boa-taken",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "gericht aanpakken van overlast, intimidatie en gevaarlijk fatbikegedrag",
+   "basis": "programma p.9"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|hart-voor-hilversum",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "hart-voor-hilversum",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": -1,
+   "kern": "Voert wettelijke opvang uit, maar eist dat Den Haag de instroom beperkt.",
+   "toelichting": "De lijst voert de wettelijke verplichtingen uit en wil de opvang zo beperkt mogelijk houden. Tegelijk eist ze dat het Rijk zijn afspraken nakomt en de instroom beperkt als het wil dat gemeenten de Spreidingswet blijven uitvoeren. Ze stopt dus niet zelf met het zoeken naar plekken.",
+   "citaat": "Wij kiezen voor zo beperkt mogelijke opvang en voeren wettelijke verplichtingen uit.",
+   "bron": "MijnStem: 'Opvangplekken voor asielzoekers' (19)  |  p. 11  |  Stemgids: 'Er dient echter ook wel een beperking op de instroom te komen' ",
+   "soort": "mijnstem",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": 2,
+   "kern": "Spreidingswet pas opvolgen als Rijk instroom beperkt",
+   "basis": "programma p.11"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|hart-voor-hilversum",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Rijk moet eerst zijn afspraken nakomen en instroom beperken",
+   "basis": "programma p.11"
+  }
+ },
+ {
+  "sleutel": "asiel-omwonenden-beslissen|hart-voor-hilversum",
+  "id": "asiel-omwonenden-beslissen",
+  "slug": "hart-voor-hilversum",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "asiel-omwonenden-beslissen",
+   "s": -1,
+   "kern": "Omwonenden betrekken en vroeg het gesprek aangaan, maar geen laatste woord.",
+   "toelichting": "De lijst wil omwonenden tijdig betrekken en eerst in gesprek gaan voordat er plannen komen. Zonder overeenstemming met de buurt noemt ze opvang een zeer moeilijke opgave. Een beslissingsrecht van omwonenden boven de raad noemt ze niet; de raad stelt volgens haar de kaders.",
+   "citaat": "Als er geen overeenstemming is met de buurt en de directe omgeving is het opvangen van asielzoekers dan wel statushouders een zeer moeilijke opgave.",
+   "bron": "Hilversums Nieuws, 12-11-2026: 'Nieuwe opvanglocaties voor asielzoekers moeten alleen komen als omwonenden vooraf kunnen instemmen'  |  p. 10",
+   "soort": "hilversumsnieuws",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": 1,
+   "kern": "zonder overeenstemming met de buurt is opvang zeer lastig",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "economie-citymarketing|hart-voor-hilversum",
+  "id": "economie-citymarketing",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-citymarketing",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "toerisme stimuleren dat ondernemers en horeca versterkt",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|hart-voor-hilversum",
+  "id": "cultuur-budget-niveau",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "eerst een onderbouwd plan, financiën laten het niet toe",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|hart-voor-hilversum",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "meerjarige zekerheid over steun helpt verenigingen plannen",
+   "basis": "programma p.4"
+  }
+ },
+ {
+  "sleutel": "cultuur-dorpsgarantie|hart-voor-hilversum",
+  "id": "cultuur-dorpsgarantie",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-dorpsgarantie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "bij harmonisatie geen plotselinge sprongen; dorpshuizen blijven",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|hart-voor-hilversum",
+  "id": "cultuur-monumentenregels",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "duidelijkheid voor eigenaren, erfgoed afwegen tegen andere belangen",
+   "basis": "programma p.13"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|hart-voor-hilversum",
+  "id": "bestuur-referendum-advies",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": -1,
+   "kern": "Is voor referendum waarmee inwoners meebeslissen.",
+   "toelichting": "De lijst is een groot voorstander van een referendum waarmee inwoners kunnen meebeslissen over grote besluiten. Ze stemde ook voor meebeslissen als hoogste participatieniveau. Of de raad bij een referendum mag afwijken, zegt ze niet.",
+   "citaat": "Hart voor Hilversum is een groot voorstander van verregaande participatie en dit is ook een van onze speerpunten in ons verkiezingsprogramma.",
+   "bron": "Stemgids: 'Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten van de gemeente' (voor)  |  Raad Hilversum, 08-10-2026: A26-115 (voor)",
+   "soort": "stemgids",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "bestuur-regio-minder|hart-voor-hilversum",
+  "id": "bestuur-regio-minder",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-regio-minder",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "raad en inwoners moeten zicht en invloed houden",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "financien-ozb-meestijgen|hart-voor-hilversum",
+  "id": "financien-ozb-meestijgen",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-ozb-meestijgen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "woonlasten max inflatie; gerichte verhoging bespreekbaar",
+   "basis": "programma p.4"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|hart-voor-hilversum",
+  "id": "financien-subsidies-korten",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "geen geld zomaar uitkeren, wel voorzieningen beschermen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|hart-voor-hilversum",
+  "id": "financien-heffing-draagkracht",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "afvalheffing rekening houdend met huishoudgrootte en draagkracht",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|hart-voor-hilversum",
+  "id": "financien-investeringen-spreiden",
+  "slug": "hart-voor-hilversum",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "zuinig met gemeenschapsgeld; structurele lasten structureel dekken",
+   "basis": "programma p.4"
+  }
+ }
+]

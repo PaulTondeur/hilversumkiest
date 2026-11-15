@@ -1,0 +1,422 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|bbb",
+  "id": "wonen-eigen-behoefte",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Bouwen passend bij behoefte van buurt of dorpskern",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|bbb",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Liefst helemaal niet de hoogte in; draagvlak doorslaggevend",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|bbb",
+  "id": "verkeer-buurt-beslist",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "alleen in het centrum, nergens anders",
+   "basis": "programma p.24"
+  }
+ },
+ {
+  "sleutel": "verkeer-autoluw|bbb",
+  "id": "verkeer-autoluw",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-autoluw",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "winkels moeten bereikbaar blijven",
+   "basis": "programma p.24"
+  }
+ },
+ {
+  "sleutel": "klimaat-warmtenet-markt|bbb",
+  "id": "klimaat-warmtenet-markt",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-warmtenet-markt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Burgers investeren samen via een lokale energiecoöperatie",
+   "basis": "programma p.22"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|bbb",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Absoluut tegen windturbines op of bij het grondgebied",
+   "basis": "programma p.22"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|bbb",
+  "id": "klimaat-zon-boerenland",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Geen zonneparken in gemeente of buurgemeenten",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|bbb",
+  "id": "natuur-recreant-betaalt",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "laag tarief; opbrengst moet terug naar recreatie",
+   "basis": "programma p.19"
+  }
+ },
+ {
+  "sleutel": "natuur-stikstof-boeren|bbb",
+  "id": "natuur-stikstof-boeren",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-stikstof-boeren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "rekening komt eenzijdig bij de boer; fel tegen onteigening",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "zorg-aanbieders-een|bbb",
+  "id": "zorg-aanbieders-een",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-aanbieders-een",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "bij wachtlijsten uitwijken naar aanbieders buiten de gemeente",
+   "basis": "programma p.12"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-of-jongerenwerk|bbb",
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "meer boa's en zichtbare handhaving in wijken",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|bbb",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "opvang zo beperkt mogelijk",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-blijvende-opvang|bbb",
+  "id": "asiel-blijvende-opvang",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-blijvende-opvang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "bij tijdelijke locaties vanaf dag één de periode erna regelen",
+   "basis": "programma p.25"
+  }
+ },
+ {
+  "sleutel": "asiel-taal-tijdens-procedure|bbb",
+  "id": "asiel-taal-tijdens-procedure",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-taal-tijdens-procedure",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "asielzoekers hebben plicht en kans om in te burgeren",
+   "basis": "programma p.25"
+  }
+ },
+ {
+  "sleutel": "economie-citymarketing|bbb",
+  "id": "economie-citymarketing",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-citymarketing",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "voor stimuleren toerisme, bezoekers versterken economie",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|bbb",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "natuur hoeft niet op slot; recreatie en natuur samen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|bbb",
+  "id": "cultuur-budget-niveau",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "liever geld naar verenigingen en erfgoed dan cultuursubsidie",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|bbb",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "dorpsraden met dorpsbudget, democratisch gekozen",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|bbb",
+  "id": "bestuur-referendum-advies",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "referendum om draagvlak te toetsen bij ingrijpende besluiten",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|bbb",
+  "id": "financien-heffing-draagkracht",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "vast bedrag per huishouden",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|bbb",
+  "id": "financien-investeringen-spreiden",
+  "slug": "bbb",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "niet meer uitgeven dan er binnenkomt",
+   "basis": "programma p.26"
+  }
+ }
+]

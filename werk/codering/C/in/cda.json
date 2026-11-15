@@ -1,0 +1,447 @@
+[
+ {
+  "sleutel": "wonen-dorpsrand|cda",
+  "id": "wonen-dorpsrand",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-dorpsrand",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Waar inpasbaar en toegestaan; niet in beschermde natuur",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|cda",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "Lager minimum, meer middenhuur, sneller bouwen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-parkeernorm|cda",
+  "id": "wonen-parkeernorm",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-parkeernorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Parkeren hoort bij het bouwplan zelf",
+   "basis": "programma p.16"
+  }
+ },
+ {
+  "sleutel": "verkeer-autoluw|cda",
+  "id": "verkeer-autoluw",
+  "slug": "cda",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "verkeer-autoluw",
+   "s": -1,
+   "kern": "Centrum bereikbaar houden met voldoende parkeerplekken en garage onder de markt.",
+   "toelichting": "De lijst noemt geen autoluw centrum. Ze wil in het winkelgebied juist voldoende parkeergelegenheid houden, het Noordse Bosje behouden en een garage onder het marktterrein onderzoeken.",
+   "citaat": "Binnen het winkelgebied willen we inzetten op het behouden of bieden van voldoende parkeergelegenheid.",
+   "bron": "p. 21",
+   "soort": "afgeleid",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "klimaat-warmtenet-markt|cda",
+  "id": "klimaat-warmtenet-markt",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-warmtenet-markt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Warmtenetten alleen waar ze financieel verantwoord zijn",
+   "basis": "programma p.28"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|cda",
+  "id": "natuur-recreant-betaalt",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "inzichtelijk maken wat toeristenbelasting oplevert en waar het heen gaat",
+   "basis": "programma p.53"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|cda",
+  "id": "natuur-groennorm",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "soms groen opofferen voor woningbouw",
+   "basis": "stemgids, afgeleid"
+  }
+ },
+ {
+  "sleutel": "natuur-landbouw-natuur|cda",
+  "id": "natuur-landbouw-natuur",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-landbouw-natuur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "landbouw en natuur kunnen hand in hand gaan",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "natuur-stikstof-boeren|cda",
+  "id": "natuur-stikstof-boeren",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-stikstof-boeren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "besluiten niet zonder de boeren; agrariërs niet dwingen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "zorg-aanbieders-een|cda",
+  "id": "zorg-aanbieders-een",
+  "slug": "cda",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "zorg-aanbieders-een",
+   "s": -1,
+   "kern": "Stemde tegen plan om aantal zorgaanbieders terug te dringen.",
+   "toelichting": "De fractie stemde in 2022 tegen een motie voor een plan om het aantal zorgaanbieders terug te dringen. Het programma noemt het aantal aanbieders niet.",
+   "citaat": null,
+   "bron": "Raad Hilversum, 8-6-2022: motie M22-36a Beperking marktwerking in de zorg (CDA tegen)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|cda",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "donkerte en stilte zijn natuurwaarden in de dorpen",
+   "basis": "programma p.26"
+  }
+ },
+ {
+  "sleutel": "asiel-kader-dorpen|cda",
+  "id": "asiel-kader-dorpen",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-kader-dorpen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "uitvoeren volgens eerder gemaakte afspraken met stad en raad",
+   "basis": "programma p.8"
+  }
+ },
+ {
+  "sleutel": "asiel-welkomstprogramma|cda",
+  "id": "asiel-welkomstprogramma",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-welkomstprogramma",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "nieuwe inwoners welkom met avond in de wijk en buddy",
+   "basis": "programma p.34"
+  }
+ },
+ {
+  "sleutel": "economie-mediapark-woningen|cda",
+  "id": "economie-mediapark-woningen",
+  "slug": "cda",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "economie-mediapark-woningen",
+   "s": -1,
+   "kern": "Economische functie van het Media Park blijft vooropstaan.",
+   "toelichting": "De lijst laat wonen voor studenten, starters en jonge professionals toe op het Media Park, maar de economische functie gaat voor. Op haar MijnStem-schuif stond ze licht aan de kant van woningen (39), maar haar toelichting en programma zeggen het tegenovergestelde.",
+   "citaat": "De economische functie blijft vooropstaan.",
+   "bron": "p. 53; MijnStem: 'Op het Media Park: woningen / mediabedrijven' (39)",
+   "soort": "programma",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": 1,
+   "kern": "economie voorop, maar ook wonen voor studenten en starters",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|cda",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "subsidie volgt initiatief; gemeente vult aan, cofinanciering standaard",
+   "basis": "programma p.47"
+  }
+ },
+ {
+  "sleutel": "cultuur-subsidie-bezoekers|cda",
+  "id": "cultuur-subsidie-bezoekers",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-subsidie-bezoekers",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "licht waarderingsregime voor gemeenschapsinitiatieven",
+   "basis": "programma p.47"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|cda",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "participatie belangrijk, extra laag kan afstand vergroten",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|cda",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "extra laag tussen inwoners en raad vergroot afstand",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|cda",
+  "id": "bestuur-referendum-advies",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "tegen: vertegenwoordigende democratie en participatie volstaan",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|cda",
+  "id": "financien-subsidies-korten",
+  "slug": "cda",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": -2,
+   "kern": "Niet bezuinigen op verenigingen en sport; subsidies indexeren.",
+   "toelichting": "De lijst vindt dat de komende jaren niet op sport en verenigingen mag worden bezuinigd en indexeert gesubsidieerde organisaties volgens de cao. Bij een tekort kijkt ze eerst naar de eigen uitgaven.",
+   "citaat": "Het CDA vindt dat de komende jaren niet op sport en verenigingen mag worden bezuinigd.",
+   "bron": "p. 40; p. 6; p. 32",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 0,
+   "kern": "afwegen ten koste van welke andere uitgaven",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-toerist-forens-laag|cda",
+  "id": "financien-toerist-forens-laag",
+  "slug": "cda",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "financien-toerist-forens-laag",
+   "s": 1,
+   "kern": "Stemde tegen forensenbelasting in Hilversum.",
+   "toelichting": "De fractie stemde in 2025 tegen invoering van een forensenbelasting in Hilversum. Het programma wil jaarlijks inzicht in de opbrengst van de toeristenbelasting en wat daarvan wordt besteed; over het tarief zegt het niets.",
+   "citaat": null,
+   "bron": "Raad Hilversum, 12-11-2025: motie M25-109 forensenbelasting (CDA tegen); programma p. 53",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|cda",
+  "id": "financien-investeringen-spreiden",
+  "slug": "cda",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "normen voor nieuwe leningen juist aangescherpt",
+   "basis": "programma"
+  }
+ }
+]

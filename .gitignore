@@ -1,0 +1,20 @@
+dist/
+.claude/
+# Ruwe downloads en volledige teksten van programma's en andere sites: niet herpubliceren.
+# De site zelf gebruikt alleen korte citaten met bron.
+bronnen/*/origineel/
+bronnen/*/programma.txt
+bronnen/*/extra-*.txt
+bronnen/_stemhulpen/raw/
+bronnen/_stemhulpen/*.txt
+bronnen/_stemgedrag/origineel/
+bronnen/_stemgedrag/alle_stemmingen_2022-2026.json
+# Ruwe kaartgegevens (3D BAG, OpenStreetMap): opnieuw op te halen met tools/kaart/haal.py
+bronnen/_kaart/raw/
+bronnen/_kaart/*.log
+# Opgehaalde portretten op ware grootte: de verkleinde versies staan in src/assets/kandidaten/
+bronnen/_kandidaten/raw/
+# Werkbestanden van het zoekwerk naar kandidaten: aantekeningen over personen, niet voor publicatie.
+# Wat op de site komt staat in data/kandidaten.json.
+werk/kandidaten/A/
+werk/kandidaten/B/

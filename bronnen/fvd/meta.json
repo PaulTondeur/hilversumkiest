@@ -1,0 +1,20 @@
+{
+  "naam": "Forum voor Democratie (FVD Hilversum en Wijdemeren)",
+  "lijstnummer": 19,
+  "slug": "fvd",
+  "lijsttrekker": "Willem Joustra",
+  "website": "https://fvd.nl/gemeentes/hilversum",
+  "programma_url": "https://fvd.nl/gemeentes/hilversum",
+  "programma_titel": "Verkiezingsprogramma Hilversum (10 hoofdstukken, alleen als webpagina)",
+  "programma_paginas": null,
+  "programma_woorden": 5532,
+  "opgehaald_op": "2026-11-15",
+  "type": "landelijke partij, lokale afdeling",
+  "achtergrond": "FVD doet mee aan de herindelingsverkiezingen in Hilversum en Wijdemeren (fvd.nl-nieuwsbericht en landelijke FVD-pagina); lijsttrekker Willem Joustra (58, woont in Hilversum). Huidige zetels in de raden: niet met een bron vastgesteld.",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/fvd/",
+    "https://fvd.nl/gemeentes/hilversum",
+    "https://fvd.nl/nieuws/forum-voor-democratie-doet-mee-aan-herindelingsverkiezingen-hilversum-en-wijdemeren"
+  ],
+  "opmerkingen": "De partij publiceert het programma alleen als webpagina (geen PDF). Op de pagina zijn alleen hoofdstuk 1 en de tabs zichtbaar in de HTML; de tekst van alle 10 hoofdstukken zit in de JSON-payload van de pagina en is daaruit geextraheerd (programma.txt, hoofdstuk-intro plus genummerde punten \"titel | tekst\"). Gecontroleerd tegen de kopie van Stemgids Hilversum (origineel/stemgids-fvd.pdf, 9 pagina's, opgehaald 5-10-2026): inhoud komt overeen (342 van 356 tekstregels aangetroffen, rest door regelafbreking). Pagina is dynamisch; stand 15-11-2026. Geen lokale interviews gevonden."
+}

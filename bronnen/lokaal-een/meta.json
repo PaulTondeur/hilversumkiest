@@ -1,0 +1,25 @@
+{
+  "naam": "Lokaal Eén",
+  "lijstnummer": 6,
+  "lijsttrekker": "Margriet Rademaker (duo-lijsttrekker met Edwin Göbbels, die sinds 27-08-2026 lijstduwer is)",
+  "website": "https://lokaaleen.nl/",
+  "programma_url": "https://lokaaleen.nl/verkiezingsprogramma-2027-2030/",
+  "programma_titel": "Verkiezingsprogramma 2027-2030 (webpagina) + Partijprogramma (kernpunten)",
+  "programma_paginas": null,
+  "programma_woorden": 9967,
+  "type": "lokale partij",
+  "achtergrond": "Nieuwe lokale partij met het oog op de samenvoeging per 1-1-2027, gevormd door Democraten Hilversum, De Lokale Partij en DorpsBelangen (persbericht 15-04-2025). Volgens Stemgids Hilversum hebben de voorgangers samen 5 zetels in Hilversum en 8 in Wijdemeren.",
+  "bronnen": [
+    "https://lokaaleen.nl/verkiezingsprogramma-2027-2030/",
+    "https://lokaaleen.nl/partij-programma/",
+    "https://lokaaleen.nl/over-ons/",
+    "https://lokaaleen.nl/documenten/",
+    "https://lokaaleen.nl/here/wp-content/uploads/2026/07/20260619-PERSBERICHT-Lokaal-Een.pdf",
+    "https://lokaaleen.nl/here/wp-content/uploads/2026/08/PERSBERICHT-27-08-2026-Wijziging-kandidatenlijst.pdf",
+    "https://stemgidshilversum.nl/partijen/lokaal-een/",
+    "https://www.hilversumsnieuws.nl/politiek/politiek/369488/drie-lokale-partijen-uit-hilversum-en-wijdemeren-worden-lokaal-een-nieuwe-partij-doet-mee-aan-gemeenteraadsverkiezingen"
+  ],
+  "opmerkingen": "Geen PDF: programma staat op webpagina's. programma.txt bevat twee pagina's, elk voorafgegaan door '=== URL:': het verkiezingsprogramma (url noemt 2027-2030, de raadsperiode begint feitelijk 2027) en het eerdere Partijprogramma met 13 kernwaarden (door ALV 18-06-2026 unaniem vastgesteld; persbericht zegt dat het verkiezingsprogramma op die kernwaarden is gebaseerd). Origineel HTML en twee persberichten (PDF) staan in origineel/. Stemgids noemt alleen Rademaker als lijsttrekker; de partij zelf noemt een duo. Zetelaantallen alleen uit Stemgids.",
+  "slug": "lokaal-een",
+  "opgehaald_op": "2026-11-15"
+}

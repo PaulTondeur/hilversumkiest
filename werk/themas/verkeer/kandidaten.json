@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "verkeer-terugdraaien",
+    "onderwerp": "betaald parkeren",
+    "kop": "Uitbreiding 2025 terugdraaien",
+    "stelling": "Het betaald parkeren dat in 2025 is ingevoerd in de Hilversumse wijken tot aan de buitenring, wordt weer afgeschaft.",
+    "uitleg": "In 2025 is betaald parkeren in Hilversum uitgebreid van het centrum naar alle wijken binnen de buitenring. Bewoners betalen daar nu voor een vergunning en bezoek betaalt een bezoekerstarief. Afschaffen betekent dat die wijken weer vrij parkeren; handhaven betekent dat het beleid hooguit wordt bijgesteld.",
+    "voor": "Volgens voorstanders is de uitbreiding doorgedrukt zonder dat bewoners erom vroegen en kost het mensen geld voor een probleem dat er in veel straten niet was.",
+    "tegen": "Volgens tegenstanders is de parkeerdruk in veel van die wijken juist gedaald en schuift de overlast terug zodra het weer gratis is.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "evalueren en herijken; erkent ook minder parkeerdruk",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "betaald parkeren zorgt zichtbaar voor minder auto's",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "heeft parkeerdruk verlicht; verbeteren, niet afschaffen",
+        "basis": "programma p.36"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "niet verder uitbreiden, wel handhaven waar het nu geldt",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "anders inrichten, met regulering tussen centrum- en buitenring",
+        "basis": "programma p.21"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "herzien, maar in woonwijken betaald in overleg met inwoners",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "zet nieuw parkeerbeleid stil; eerst inwoners raadplegen",
+        "basis": "programma p.31"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "ging te snel, maar direct terugdraaien gaat te ver",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "alleen waar aantoonbare parkeerdruk is",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": 2,
+        "kern": "uitbreiding tot buitenring terugdraaien, woonwijken weer gratis",
+        "basis": "programma p.7"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "herzien; ziet betaald parkeren in sommige straten als oplossing",
+        "basis": "hilversumsnieuws"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "betaald parkeren alleen in het centrum",
+        "basis": "programma p.53"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "stopt uitbreiding direct en draait terug wat niet werkt",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "juist uitbreiden vanwege waterbedeffect",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "betaald parkeren in de hele stad",
+        "basis": "programma p.56"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "uitbreiding herzien en terugdraaien",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "bestaande gebieden herbeoordelen, terugdraaien waar noodzaak ontbreekt",
+        "basis": "programma p.19"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "wijken en dorpen beslissen zelf",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "schiltarieven afschaffen, geen betaalzones in woonwijken",
+        "basis": "hilversumsnieuws"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "betaald parkeren alleen in drukke delen centrum",
+        "basis": "programma p.24"
+      }
+    },
+    "spreiding": "Scheidt de 'stoppen én terugdraaien'-lijsten (SBP-VIP, SP, SCB, FvD, BBB, Dorp voor Dorp) van de lijsten die alleen verdere uitbreiding willen stoppen (VVD, CU, CDA) en zet de drie stadslokale partijen HvH, Lokaal Eén en GH in het midden.",
+    "twijfel": "Lokaal Eén wil 'geen betaald parkeren buiten de ring'; als daarmee de centrumring is bedoeld, hoort L1 op +1. GH en HvH antwoordden 'voor herzien' in de Stemgids, maar elders erkennen ze het nut; 0 is een inschatting."
+  },
+  {
+    "id": "verkeer-buurt-beslist",
+    "onderwerp": "betaald parkeren",
+    "kop": "Bewoners beslissen zelf",
+    "stelling": "Betaald parkeren komt alleen in een straat of buurt als een meerderheid van de bewoners daar zelf voor kiest.",
+    "uitleg": "Nu besluit de gemeenteraad waar betaald parkeren geldt, op basis van metingen van de parkeerdruk. Een bewonerspeiling als beslissende stap zou betekenen dat een buurt betaald parkeren kan tegenhouden of juist kan aanvragen, ook in de dorpen na de fusie.",
+    "voor": "Wie in een straat woont, merkt zelf het best of er een parkeerprobleem is en moet niet tegen zijn wil gaan betalen.",
+    "tegen": "Als elke buurt apart kiest, verschuiven auto's naar de buurt ernaast en kan de gemeente een probleem niet meer in samenhang oplossen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "geen uitbreiding tenzij bewoners dat zelf willen",
+        "basis": "programma p.8"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "samen met bewoners inventariseren waar het gewenst is",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "alleen als straat of wijk dit wil én het helpt",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "alleen invoeren waar meerderheid bewoners erom vraagt",
+        "basis": "programma p.9"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "in woonwijken alleen in overleg met inwoners",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "eerst gesprekken en enquêtes; meerderheid in de wijk",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "alleen bij voldoende draagvlak én parkeerprobleem",
+        "basis": "programma p.47"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "criterium is aantoonbare parkeerdruk",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "criterium is een aantoonbaar parkeerprobleem, gebiedsgericht",
+        "basis": "programma p.5"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "buiten het centrum helemaal geen betaald parkeren",
+        "basis": "programma p.53"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "inwoners vooraf raadplegen, maar alleen bij echt probleem",
+        "basis": "programma p.9"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "buren erbij betrekken: waterbedeffect vraagt bredere aanpak",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "betaald parkeren in de hele stad",
+        "basis": "programma p.56"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "criterium is aantoonbare parkeerdruk",
+        "basis": "programma p.19"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "wijken en dorpen beslissen zelf over parkeren",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "alleen in het centrum, nergens anders",
+        "basis": "programma p.24"
+      }
+    },
+    "spreiding": "Scheidt binnen het 'tegen uitbreiding'-kamp de lijsten die bewoners laten kiezen (VVD, HvH, SP) van de lijsten die naar gemeten parkeerdruk kijken of het buiten het centrum helemaal niet willen (GH, BVNL, LFD, DvD, BBB).",
+    "twijfel": "Bij D66, CU en SBP is draagvlak één van twee voorwaarden; of een meerderheid beslissend is, zeggen ze niet letterlijk. De -1 voor DvD en BBB volgt uit hun 'alleen centrum'-standpunt, niet uit een uitspraak over peilingen."
+  },
+  {
+    "id": "verkeer-blauwe-zone",
+    "onderwerp": "betaald parkeren",
+    "kop": "Eerst een blauwe zone",
+    "stelling": "Waar het te druk is op straat, kiest de gemeente eerst voor een blauwe zone met parkeerschijf in plaats van betaald parkeren.",
+    "uitleg": "In een blauwe zone parkeer je gratis, maar maar een beperkte tijd, met een parkeerschijf. Het houdt langparkeerders weg zonder dat iemand betaalt. Betaald parkeren levert de gemeente geld op en werkt met vergunningen voor bewoners.",
+    "voor": "Een blauwe zone lost de meeste parkeeroverlast bij winkels op zonder dat bewoners en bezoekers geld kwijt zijn.",
+    "tegen": "Een blauwe zone verdeelt de schaarse ruimte minder eerlijk en zorgt niet voor minder auto's op straat.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "betaald parkeren zorgt zichtbaar voor minder auto's",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "blauwe kaart in winkelgebieden in plaats van betalen",
+        "basis": "programma p.21"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "eerst onderzoeken of blauwe zone volstaat",
+        "basis": "programma p.6"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "betaald parkeren ook buiten de ring gewenst",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "betaald parkeren is huur van publieke ruimte, hele stad",
+        "basis": "hilversumsnieuws"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "kiest voor de lichtste oplossing die werkt",
+        "basis": "programma p.19"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Trekt Stop Betaald Parkeren-VIP, Gewoon Hilversum en LFD los van de andere lokale en rechtse lijsten die tegen betaald parkeren zijn maar geen alternatief noemen; aan de andere kant PRO, Opstand.nu en PvdD.",
+    "twijfel": "Veel lijsten noemen de blauwe zone niet; de verdeling rust op weinig posities. De minposities zijn afgeleid uit algemene steun voor betaald parkeren."
+  },
+  {
+    "id": "verkeer-opbrengst",
+    "onderwerp": "betaald parkeren",
+    "kop": "Waar gaat parkeergeld heen",
+    "stelling": "Geld uit betaald parkeren mag ook naar fietspaden, groen en openbaar vervoer, en hoeft niet alleen terug naar parkeren.",
+    "uitleg": "Parkeergeld komt in Hilversum in een mobiliteitsfonds. De vraag is wat daaruit betaald mag worden: alleen parkeervoorzieningen zoals garages en P+R, of ook fietsroutes, groen en bussen.",
+    "voor": "Minder geparkeerde auto's maakt ruimte vrij, en die ruimte en het geld kunnen dan het best naar veilige straten en schone vervoersmiddelen.",
+    "tegen": "Automobilisten betalen het parkeergeld, dus moet het ook terug naar parkeren, anders wordt het een verkapte belasting.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": 2,
+        "kern": "mobiliteitsfonds voor veilige straten, fiets en openbare ruimte",
+        "basis": "programma p.37"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "opbrengst alleen naar parkeren, kostendekkend",
+        "basis": "programma p.9"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "naar parkeren, bereikbaarheid en mobiliteit",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "mobiliteitsfonds kan naar fiets én parkeren",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "opbrengst naar openbare ruimte en mobiliteit",
+        "basis": "programma p.47"
+      },
+      "bvnl": {
+        "s": 0,
+        "kern": "opbrengst terug naar bereikbaarheid",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "minstens driekwart naar parkeeroplossingen, rest naar fiets en OV",
+        "basis": "programma p.7"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "parkeren mag geen verborgen belasting zijn",
+        "basis": "programma p.19"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "parkeergeld uit het fonds moet naar parkeren",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Zet VVD en FvD tegenover D66, ChristenUnie, Lokaal Eén en SP, en scheidt Opstand.nu (vooral parkeren) van de andere linkse lijsten.",
+    "twijfel": "Veel lijsten zeggen alleen 'geen melkkoe' zonder te kiezen tussen parkeren en andere mobiliteit; die staan op null. BVNL's 'bereikbaarheid' kan ook fietspaden omvatten."
+  },
+  {
+    "id": "verkeer-bezoek",
+    "onderwerp": "parkeertarieven",
+    "kop": "Bezoek blijft laag tarief betalen",
+    "stelling": "In wijken met betaald parkeren blijft bezoek van bewoners een laag bezoekerstarief betalen, zoals nu.",
+    "uitleg": "Bezoek van bewoners betaalt nu een verlaagd bezoekerstarief (maximaal ongeveer 1,50 euro per dag, na 21.00 uur gratis) en mantelzorgers kunnen een eigen vergunning krijgen. Het alternatief is helemaal gratis bezoek, bijvoorbeeld met een vast aantal gratis bezoekersuren per huishouden zoals het CDA voorstelt (300 uur per kwartaal); dat kost de gemeente inkomsten.",
+    "voor": "Het bezoekerstarief is al laag, en helemaal gratis bezoek maakt het doel van betaald parkeren ongedaan.",
+    "tegen": "Familie, oppas en mantelzorg mogen geen enkele drempel ervaren om langs te komen; anders vereenzamen mensen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -2,
+        "kern": "gratis parkeren voor bezoek en mantelzorg is een must",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "tegen gratis bezoekersparkeren",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "lager bezoekerstarief gekozen; gratis doet afbreuk aan beleid",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -2,
+        "kern": "300 gratis bezoekersuren per kwartaal per huishouden",
+        "basis": "programma p.21"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "niet altijd gratis, in sommige buurten kan dat niet",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "bezoek gratis; liever het hele beleid terugdraaien",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "bezoekerstarief is al sterk verlaagd, mantelzorgvergunning bestaat",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "ruime gratis bezoekersregeling",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -2,
+        "kern": "gratis parkeren voor bezoek en mantelzorg",
+        "basis": "programma p.7"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "neutraal",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "parkeergeld mag geen drempel zijn voor bezoek en zorg",
+        "basis": "programma p.53"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -2,
+        "kern": "bezoekersregeling gratis of uiterst betaalbaar",
+        "basis": "programma"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "ruimhartiger regeling, maar helemaal gratis is te breed",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "bestaande bezoekers- en mantelzorgvergunning volstaat",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "dat bezoek moet betalen is onzin",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "bezoek mag niets kosten; liever betaald parkeren terugdraaien",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "tegen gratis bezoekersparkeren",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "gratis bezoekersparkeren",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "bezoek moet gratis blijven",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Scheidt Hart voor Hilversum van Lokaal Eén en Gewoon Hilversum, LFD van de andere rechtse lijsten, en zet Opstand.nu en PvdD tussen D66/CU en de rest.",
+    "twijfel": "Omgedraaid geformuleerd: eens = huidige lage tarief houden. VVD gaf in de Stemgids geen antwoord. SP antwoordde 'voor gratis' maar licht vooral het terugdraaien toe. Hetzelfde onderwerp als de Stemgids, met de huidige situatie als uitgangspunt."
+  },
+  {
+    "id": "verkeer-eerste-uur",
+    "onderwerp": "parkeertarieven",
+    "kop": "Eerste uur gratis",
+    "stelling": "Het eerste uur parkeren wordt overal in de gemeente gratis, ook in het centrum van Hilversum.",
+    "uitleg": "Nu betaal je in de betaalde gebieden vanaf de eerste minuut. Een gratis eerste uur maakt een korte boodschap of een kort bezoek goedkoper, maar kost parkeergeld en kan leiden tot meer korte autoritjes en zoekverkeer.",
+    "voor": "Een gratis eerste uur houdt winkels en het centrum aantrekkelijk en maakt een kort bezoekje laagdrempelig.",
+    "tegen": "Gratis parkeren trekt meer auto's naar het centrum en laat juist bewoners zonder plek achter.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "betaald parkeren zorgt voor minder auto's, elke dag",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "betaald parkeren in centrum behouden",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "overdag betalen bij winkels is logisch om plekken te verdelen",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "eerste uur overal gratis, ook in gemeentegarages",
+        "basis": "programma p.21"
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "eerste uur gratis",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "gratis parkeren is geen doel op zich",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "gratis eerste uren maakt centrum aantrekkelijker",
+        "basis": "hilversumsnieuws"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "mag goedkoper, hoeft niet gratis",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "eerste 30 of 60 minuten gratis bij gemeentehuis",
+        "basis": "programma p.23"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "wil laag tarief voor eerste twee uur, niet gratis",
+        "basis": "programma p.7"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "gratis parkeren moedigt autogebruik aan",
+        "basis": "hilversumsnieuws"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "tijden inkorten en tarieven minimaal halveren",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "kort parkeren op straat eenvoudig houden",
+        "basis": "programma p.19"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "gratis parkeren verstopt de wegen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "eerste anderhalf uur gratis rond het centrum",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt CDA en Lokaal Eén van VVD, en FvD/BVNL van SCB aan rechts; ook Opstand.nu (laag tarief) van PvdD en Volt (geen korting).",
+    "twijfel": "De minposities van VVD, SCB, CU, PRO, D66 en Volt zijn afgeleid uit hun MijnStem-toelichting op gratis parkeren op zondag. HvH, SP, GH en SBP zijn voor gratis zondagparkeren maar zeggen niets over het eerste uur."
+  },
+  {
+    "id": "verkeer-vergunning",
+    "onderwerp": "parkeertarieven",
+    "kop": "Gratis bewonersvergunning",
+    "stelling": "Bewoners krijgen hun eerste parkeervergunning gratis.",
+    "uitleg": "Bewoners in betaald-parkeergebied betalen nu per jaar voor een vergunning (het 'schiltarief'); een tweede auto kost meer. De tarieven zijn onlangs verlaagd. Een gratis eerste vergunning kost de gemeente vergunningsinkomsten.",
+    "voor": "Parkeren bij je eigen huis is geen luxe, en bewoners zouden daar niet voor moeten betalen.",
+    "tegen": "Een plek op straat is schaarse openbare ruimte; wie die gebruikt, betaalt daar redelijkerwijs een eerlijke prijs voor.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -2,
+        "kern": "eerlijk betalen; tweede vergunning duurder",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "vergunningskosten herzien naar doelen van het beleid",
+        "basis": "programma p.37"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "vergunning kostendekkend, gemeente verdient er niet aan",
+        "basis": "programma p.9"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "één gratis parkeervergunning per huishouden buiten het centrum",
+        "basis": "programma p.21"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "lagere lasten op parkeren, eenvoudig systeem",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "onnodig hoge parkeerkosten voorkomen",
+        "basis": "programma p.7"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "eerste vergunning zo goedkoop mogelijk, geen verhoging",
+        "basis": "programma p.21"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "vergunningen moeten betaalbaar blijven",
+        "basis": "programma p.6"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "vergunning naar maximaal 50 euro per jaar",
+        "basis": "programma p.7"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "vergunning naar uitstoot en gewicht, tweede duurder",
+        "basis": "programma p.56"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "tarieven kostentransparant, geen verborgen belasting",
+        "basis": "programma p.19"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "schiltarieven afschaffen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Splitst de 'goedkoop'-lijsten: CDA en FvD willen gratis, terwijl VVD, Gewoon Hilversum, LFD en Opstand.nu een lage maar kostendekkende prijs willen.",
+    "twijfel": "Het CDA bedoelt 'buiten het centrum'; de stelling is algemener. Of FvD's afschaffen van schiltarieven gelijk staat aan een gratis vergunning is een interpretatie."
+  },
+  {
+    "id": "verkeer-parkeernorm",
+    "onderwerp": "parkeren bij nieuwbouw",
+    "kop": "Nieuwbouw met weinig parkeerplek",
+    "stelling": "Bij nieuwe woningen mag de gemeente bouwen met weinig of geen eigen parkeerplaatsen, als er goed openbaar vervoer en deelauto's in de buurt zijn.",
+    "uitleg": "Voor nieuwbouw geldt een parkeernorm: het aantal parkeerplaatsen dat per woning moet worden aangelegd. Een lage norm maakt bouwen goedkoper en ruimte vrij voor woningen, maar kan de parkeerdruk in de buurt verhogen. Het speelt in de stad en bij nieuwbouw in de dorpen.",
+    "voor": "Minder verplichte parkeerplaatsen maakt woningen goedkoper en sneller te bouwen, en mensen kiezen zelf bewust voor zo'n woning.",
+    "tegen": "Nieuwe bewoners hebben toch vaak een auto, en die komt dan op straat in de bestaande wijk te staan.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "maatwerk in parkeernormen bij optoppen en transformatie",
+        "basis": "programma"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "parkeernorm mag geen obstakel zijn voor woningbouw",
+        "basis": "programma"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "voldoende parkeergelegenheid borgen in Omgevingsplan",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "bij parkeernorm rekening houden met OV en deelvervoer",
+        "basis": "programma"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "nieuwbouw krijgt altijd voldoende parkeerplaatsen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "parkeernorm is middel, per plek afwegen",
+        "basis": "programma"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "meer parkeerplaatsen per woning als dat nodig is",
+        "basis": "programma p.54"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -2,
+        "kern": "parkeerbehoefte niet kunstmatig wegrekenen",
+        "basis": "programma p.8"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "zo laag mogelijke parkeernorm voor nieuwbouw",
+        "basis": "programma p.56"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "geen generieke minimumnormen, wel niet afwentelen op wijk",
+        "basis": "programma p.20"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "afwijken van parkeernorm bij goed OV en fietsparkeren",
+        "basis": "programma"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Een ongewone breuklijn: VVD en LFD staan hier bij Volt en PvdD, tegenover BVNL, Dorp voor Dorp, SBP-VIP en Lokaal Eén.",
+    "twijfel": "Raakt ook het thema wonen. VVD's positie gaat vooral over wonen boven winkels; bij bedrijven wil de VVD juist ruime normen."
+  },
+  {
+    "id": "verkeer-fietspad",
+    "onderwerp": "ruimte fiets en auto",
+    "kop": "Fietspad boven parkeerplek",
+    "stelling": "Als een straat te smal is voor allebei, maakt de gemeente plaats voor een veilig fietspad, ook als daarvoor parkeerplaatsen verdwijnen.",
+    "uitleg": "In veel Hilversumse straten en op dorpswegen is te weinig ruimte voor een vrijliggend fietspad én parkeren langs de weg. Bij herinrichting moet de gemeente kiezen wat voorgaat.",
+    "voor": "Een veilig fietspad helpt iedereen, ook kinderen en ouderen, terwijl een parkeerplaats maar één auto dient.",
+    "tegen": "Voor veel mensen is de auto nodig voor werk of zorg, en parkeerplaatsen schrappen zonder alternatief verplaatst het probleem.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "fietspaden én parkeerplekken, per buurt",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "fietsgemeente; ook bij krappe ruimte fiets voorop",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "fietsroutes belangrijker dan extra parkeerplekken",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "parkeerplaatsen niet automatisch weg voor fietspaden",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "deltaplan vrijliggende fietspaden; centrum wel parkeerplekken",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "auto is een gegeven; fiets groeit",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "beide, maar fiets zorgt voor minder parkeerdruk",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "kiest voor veilige fietspaden; lopen en fietsen eerst",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "auto mag niet worden weggejaagd",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "voldoende parkeerruimte is van belang",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "allebei nodig, gebiedsgericht",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "einde aan groeiend parkeerprobleem gaat voor",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "parkeerplekken behouden, niet het één voor het ander schrappen",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "parkeren van straat halen; fietspaden passen vaak niet",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "fors investeren in fietsnetwerk, 85% per fiets",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "gescheiden routes voor fiets en auto",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "kiest niet tussen fiets en auto",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "fietspad nuttig voor iedereen, parkeerplek voor één auto",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "investeren in parkeren",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "fietspad mag niet ten koste gaan van parkeren",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Klassieke links-rechtsbreuk, maar scheidt ook SP en CDA (fiets licht voor) van de lokale partijen in het midden, en Dorp voor Dorp/FvD van VVD/BBB.",
+    "twijfel": "Afgeleid uit de MijnStem-schuif fietspaden of parkeerplekken; die vraagt naar investeren, niet naar het schrappen van plekken. Opstand.nu koos 'parkeerplekken' omdat het auto's in garages wil, wat voor deze stelling dubbelzinnig is."
+  },
+  {
+    "id": "verkeer-autoluw",
+    "onderwerp": "ruimte fiets en auto",
+    "kop": "Autoluw centrum",
+    "stelling": "Het centrum van Hilversum wordt autoluw: auto's parkeren in garages aan de rand en de binnenstad is voor voetgangers en fietsers.",
+    "uitleg": "Auto's rijden nu via de centrumring naar parkeergarages als Hilvertshof en Gooiland, midden in het centrum. Plannen voor een autoluw centrum gaan over minder doorgaand autoverkeer, pleinen als het Keiplein voor voetgangers en op termijn garages aan de rand.",
+    "voor": "Een centrum zonder veel auto's is veiliger, stiller en aantrekkelijker om te winkelen en te verblijven.",
+    "tegen": "Winkels en horeca hebben bezoekers met de auto nodig, en wie slecht ter been is moet dicht bij de winkels kunnen parkeren.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "autoluw waar het kan, auto niet overal uitsluiten",
+        "basis": "programma p.9"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "centrum autoluw, Havenstraat en Keiplein als verblijfsgebied",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "Schapenkamp tweerichtingsverkeer, parkeren Noordse Bosje behouden",
+        "basis": "programma p.8"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "centrumring minder voor auto's; Kei en Torenstraat autoluw",
+        "basis": "programma p.42"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "ruimte voor auto, fiets en OV naast elkaar",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "centrum bereikbaar voor bewoners, bezoekers en ondernemers",
+        "basis": "programma p.7"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "combinatie van vervoerswijzen, winkels bereikbaar",
+        "basis": "programma p.39"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "geen parkeerplaatsen schrappen zonder werkbaar alternatief",
+        "basis": "programma p.5"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "echt autoluw centrum, Hilvertshof-parking op termijn weg",
+        "basis": "programma p.7"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "waar mogelijk autovrij centrum, parkeren aan rand",
+        "basis": "programma p.54"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "verkeersbeleid mag vervoerskeuze niet sturen",
+        "basis": "programma p.15"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "eerst alternatieven, dan ruimte auto stap voor stap beperken",
+        "basis": "programma p.10"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "tegen symbolische maatregelen die bereikbaarheid schaden",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "winkels moeten bereikbaar blijven",
+        "basis": "programma p.24"
+      }
+    },
+    "spreiding": "Zet PRO, Opstand.nu en PvdD tegenover de rechtse en lokale lijsten, en scheidt binnen links de 'stap voor stap'-lijsten (Volt, CU) van de voorlopers; HvH zit precies in het midden.",
+    "twijfel": "D66, CDA, Lokaal Eén en SP noemen het centrum niet expliciet en staan op null. CDA wil op lange termijn wel een garage onder het marktterrein."
+  },
+  {
+    "id": "verkeer-zero-emissie",
+    "onderwerp": "zero-emissiezone",
+    "kop": "Diesel welkom in centrum",
+    "stelling": "Bestelbussen en vrachtauto's op diesel of benzine blijven welkom in het centrum van Hilversum.",
+    "uitleg": "Hilversum had een plan voor een zero-emissiezone: een gebied in het centrum waar na een overgangstijd alleen bestel- en vrachtauto's zonder uitstoot in mogen. De invoering is uitgesteld. Eens betekent: het plan definitief schrappen.",
+    "voor": "Ondernemers en vakmensen kunnen niet zomaar een duur elektrisch busje kopen, en een zone jaagt klanten en leveranciers weg.",
+    "tegen": "Schone lucht in de binnenstad is gezondheid, en een duidelijke zone geeft ondernemers zekerheid om te verduurzamen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "geen zero-emissiezone in het winkelgebied",
+        "basis": "programma"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "stapsgewijs naar emissievrij verkeer",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "zone kan helpen bij duurzame mobiliteit",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "tegen het plan",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "leidt tot onbetaalbare dienstverlening",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "tegen het plan",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "kosten moeten bij grote vervuilers liggen",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "voor het plan",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "elk RDW-goedgekeurd voertuig blijft welkom",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "centrum bereikbaar voor ondernemers",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "geen zero-emissiezone, onderbouwing onvoldoende",
+        "basis": "programma p.5"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "maatregelen moeten praktisch en betaalbaar zijn",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "tegen zero-emissiezone vanwege kosten ondernemers",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "tegen het plan",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "zero-emissiezone voor commercieel verkeer",
+        "basis": "programma p.57"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "niet wenselijk en niet haalbaar",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "niet strenger dan de wet verplicht",
+        "basis": "programma p.15"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "centrum wordt zero-emissiezone",
+        "basis": "programma p.12"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "geen milieuzones of zero-emissiezones",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "zone haalt lokale ondernemers onderuit",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Zet Volt en PvdD tegenover vrijwel alle andere lijsten; scheidt Opstand.nu (hier aan de 'welkom'-kant) van de rest van links, en SP (twijfel over wie betaalt) van PRO.",
+    "twijfel": "Omgedraaid geformuleerd, dus eens = tegen de zone. Lijsten die in de Stemgids alleen 'tegen' zeiden zonder toelichting staan op +1. Minder dan een derde staat aan de 'zone'-kant."
+  },
+  {
+    "id": "verkeer-30-hoofdwegen",
+    "onderwerp": "30 km/u",
+    "kop": "30 alleen in woonstraten",
+    "stelling": "30 km/u hoort in woonstraten en bij scholen; op doorgaande wegen in de bebouwde kom blijft 50 km/u.",
+    "uitleg": "Steeds meer gemeenten maken 30 km/u de standaard in de hele bebouwde kom, met 50 alleen op een paar hoofdroutes. In Hilversum gaat het om wegen als de buitenring, de Minckelersstraat en het Melkpad; in de dorpen om de doorgaande dorpswegen.",
+    "voor": "Doorgaande wegen moeten het verkeer vlot afvoeren, anders gaan auto's sluipen door woonstraten.",
+    "tegen": "Ook op doorgaande wegen fietsen en lopen kinderen en ouderen, en bij 30 km/u vallen veel minder zware ongelukken.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "30 in woonstraten en bij scholen, hoofdwegen doorstromen",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "30 de norm in elke bebouwde kom, ook radialen",
+        "basis": "programma p.31"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "30 is de norm, 50 alleen op echte doorgaande wegen",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "30 binnen de ring waar passend, buitenring blijft doorgaand",
+        "basis": "programma p.8"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "30 alleen waar fiets en auto de weg delen",
+        "basis": "programma p.21"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "grotendeels 30 binnen de bebouwde kom",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "30 als standaard, niet altijd bij gescheiden fietspad",
+        "basis": "programma p.31"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "30 de norm, behalve op verbindingswegen",
+        "basis": "programma p.42"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "30 passend in woonwijken, geen algemene norm",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "functie en inrichting van de weg bepalend",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "30 in woonerven logisch, op doorgaande wegen niet",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "30 is niet altijd de juiste oplossing",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "alleen lokaal waar aantoonbaar veiliger",
+        "basis": "programma p.7"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "40 op doorgaande wegen, 30 in woonstraten",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "in principe 30 in de hele bebouwde kom",
+        "basis": "programma p.55"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "variërend 30, 40 en 50 per route",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "tegen algemene 30-norm, alleen waar nodig",
+        "basis": "programma p.15"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "30 in woonwijken, doorgaande routes blijven 50",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "auto is noodzaak; tegen 30 in bebouwde kom",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "tegen algemene 30-limiet",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Andere snit dan 'voor of tegen 30': VVD en Volt komen hier bij CDA en HvH te staan, tegenover D66, CU, SP en Lokaal Eén die 30 als norm willen.",
+    "twijfel": "Een flink deel van de lijsten (D66, CU, SP) wil 30 als norm maar met uitzonderingen; het verschil met 'alleen woonstraten' is gradueel. FvD's positie rust alleen op de MijnStem-schuif."
+  },
+  {
+    "id": "verkeer-30-dorpswegen",
+    "onderwerp": "30 km/u",
+    "kop": "Direct 30 op dorpswegen",
+    "stelling": "Op smalle dorpswegen zoals Noordereinde, Zuidereinde en de Kortenhoefsedijk komt nu al 30 km/u, ook voordat de weg is aangepast.",
+    "uitleg": "Op de smalle wegen in 's-Graveland, Kortenhoef en langs de Loosdrechtse dijken delen auto's, fietsers en voetgangers vaak dezelfde rijbaan. Het Mobiliteitsplan Wijdemeren wil daar 30 km/u, maar herinrichting kost tijd en geld. De keuze is: eerst een lagere limiet, of wachten tot de weg erop is ingericht.",
+    "voor": "Elke maand eerder 30 rijden scheelt gevaar op wegen waar kinderen naar school fietsen.",
+    "tegen": "Een bord zonder aangepaste weg wordt genegeerd en is moeilijk te handhaven, wat schijnveiligheid geeft.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "alleen op verzoek of na participatie van inwoners",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "Noordereinde, Zuidereinde en Kortenhoefsedijk 30 km/u",
+        "basis": "programma p.31"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "30 de norm; wegen waar mogelijk zo inrichten",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "weginrichting moet passen bij de snelheid, binnen budget",
+        "basis": "programma p.10"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "weg moet eerst worden aangepast",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "voor 30, maar zonder herinrichting is het schijnveiligheid",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "voor",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "voor",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "limiet moet logisch en handhaafbaar zijn",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "functie en inrichting van de weg bepalend",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "een bord met 30 werkt niet als de weg 50 uitnodigt",
+        "basis": "programma p.24"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "verkeersbeeld moet voorspelbaar zijn",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "tegen meteen 30 zonder aanpassing van de weg",
+        "basis": "programma p.7"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "meteen 30 op drukke dorpsstraten",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "30 in straten zonder vrijliggend fietspad",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "per situatie kijken of het haalbaar is",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "bord maakt onveilige weg niet veilig",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "'s-Graveland over de hele weg 30",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "tegen",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "op knelpunten direct omlaag, snel gekoppeld aan aanpassing",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Speelt in de dorpen. Scheidt HvH (voor, mits inwoners het willen) van GH en SBP-VIP (eerst de weg aanpassen), en CDA/Lokaal Eén van D66/PRO.",
+    "twijfel": "Lijkt op de Stemgids-stelling over drukke dorpsstraten; hier met concrete wegen. Tegenstanders zijn vaak niet tegen 30 op die wegen, maar tegen het bord zonder aanpassing."
+  },
+  {
+    "id": "verkeer-fatbikes",
+    "onderwerp": "fatbikes en snelle fietsen",
+    "kop": "Gedrag aanpakken, niet de fiets",
+    "stelling": "Bij overlast van fatbikes richt de gemeente zich op het gedrag van de bestuurder, in plaats van op het soort fiets.",
+    "uitleg": "Op fietspaden en in winkelstraten rijden steeds meer fatbikes en snelle e-bikes, vaak (opgevoerd) harder dan gewone fietsers. De gemeente kan kiezen voor handhaving op hardrijden en gevaarlijk gedrag, of voor regels per soort voertuig, zoals snelle fietsen naar de rijbaan verplaatsen of fatbikes weren uit het centrum.",
+    "voor": "Het probleem is het gedrag van sommige bestuurders, niet het soort fiets, en een regel per fietstype treft ook nette rijders en is lastig te handhaven.",
+    "tegen": "Fietsen die structureel harder gaan dan 25 km/u horen niet tussen kinderen en ouderen op het fietspad, hoe netjes de bestuurder ook rijdt.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "gevaarlijk fatbikegedrag gericht aanpakken",
+        "basis": "programma"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "experiment met fatbikeverbod en 20 km/u in centrum",
+        "basis": "programma p.31"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "aanpak op gedrag van bestuurders, niet op het voertuig",
+        "basis": "programma p.8"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": 1,
+        "kern": "fatbike is een fiets; tegen verbod op uiterlijk, wel handhaven",
+        "basis": "programma"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "snorfietsen, bromscooters en snelle fietsen naar de rijbaan",
+        "basis": "programma p.42"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "overlast door gedrag aanpakken, voertuig is niet het probleem",
+        "basis": "programma"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "scooters, snorfietsen en speed pedelecs van het fietspad",
+        "basis": "programma"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": -2,
+        "kern": "fietsen die structureel boven 25 km/u gaan naar rijbaan",
+        "basis": "programma p.11"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt VVD en Gewoon Hilversum (gedrag) van ChristenUnie en Volt (voertuig), en binnen links SP van PRO.",
+    "twijfel": "CDA wil extra controles op opgevoerde fatbikes; dat past bij beide kanten, dus null. HvH noemt alleen gedrag en zegt niets over regels per voertuig. Wat de gemeente juridisch mag bij legale e-bikes is beperkt."
+  },
+  {
+    "id": "verkeer-bus-afroep",
+    "onderwerp": "openbaar vervoer",
+    "kop": "Bus op afroep naar dorpen",
+    "stelling": "Waar een vaste buslijn naar een dorp weinig reizigers heeft, mag een bus op afroep of buurtbus die lijn vervangen.",
+    "uitleg": "De provincie besluit over het busvervoer; rond 2030-2031 komt een nieuwe concessie. Dorpen als Nederhorst den Berg en Breukeleveen zijn slecht met de bus bereikbaar. Een bus op afroep rijdt alleen als iemand reserveert; een vaste lijn rijdt volgens dienstregeling.",
+    "voor": "Lege grote bussen kosten veel geld; een flexibele bus op afroep kan vaker en dichter bij huis rijden.",
+    "tegen": "Een bus die je moet bestellen is onzeker en onhandig, zeker voor ouderen, en afroep wordt vaak de eerste stap naar helemaal geen bus.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "mix van bus, buurtbus en flexnet op afroep tegen OV-tarief",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "betere verbindingen met ruimte voor innovatieve oplossingen",
+        "basis": "programma p.36"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -2,
+        "kern": "deelmobiliteit is aanvulling, geen vervanging van OV",
+        "basis": "programma p.22"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "solide basisnet plus flexibel vervoer op maat",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "liever kleinere bussen met vaste dienstregeling",
+        "basis": "programma p.31"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "ruimte voor buurtbussen en vrijwillige vervoersdiensten",
+        "basis": "programma p.22"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "flexbussen waar vaste lijnen niet werken, wel eerst alternatief",
+        "basis": "programma p.9"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "regelmatig OV in alle dorpskernen, ook 's avonds",
+        "basis": "programma p.56"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 1,
+        "kern": "waar dienstregeling niet kan betrouwbaar OV op afroep",
+        "basis": "programma p.11"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "fusie mag geen reden zijn OV uit dorpen te halen",
+        "basis": "programma p.6"
+      }
+    },
+    "spreiding": "Speelt vooral in de dorpen. Scheidt SP van PRO en Volt, en CDA/BBB van de lokale partijen SBP-VIP, Gewoon Hilversum en Lokaal Eén.",
+    "twijfel": "Weinig lijsten zeggen expliciet of een vaste lijn mag verdwijnen; posities zijn deels afgeleid uit 'aanvulling geen vervanging' tegenover 'flexibel waar vast niet werkt'. De gemeente kan dit alleen bepleiten bij de provincie."
+  },
+  {
+    "id": "verkeer-deelauto",
+    "onderwerp": "deelvervoer",
+    "kop": "Gemeente betaalt deelauto's",
+    "stelling": "De gemeente geeft geld aan buurten en dorpen die samen deelauto's willen gaan gebruiken.",
+    "uitleg": "Deelauto's kunnen in volle wijken parkeerruimte besparen en in dorpen een tweede auto overbodig maken. De vraag is of de gemeente bewonersinitiatieven financieel steunt, of dat de markt dit zelf moet regelen.",
+    "voor": "Elke deelauto vervangt meerdere eigen auto's en een klein steuntje helpt buurten op gang.",
+    "tegen": "Deelauto's zijn iets voor een kleine groep; als er echt vraag is, ontstaat het aanbod vanzelf zonder belastinggeld.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "steunt initiatieven voor aanvullend vervoer en deelauto's",
+        "basis": "programma p.32"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "subsidieregeling voor buurtcoöperaties en bewonersgroepen",
+        "basis": "programma p.36"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "uitrol deelauto's stimuleren en reguleren",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "deelvervoer is aanvulling, vooral deelfietsen",
+        "basis": "programma p.32"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "ruimte voor buurtmobiliteit en deelvervoer in dorpen",
+        "basis": "programma p.22"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "geen belastinggeld naar deelmobiliteit als niche",
+        "basis": "programma p.6"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "geen kunstmatige vraag via subsidies",
+        "basis": "programma p.15"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "fors meer vergunningen voor deelauto's, voorrang bewoners",
+        "basis": "programma p.11"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt Opstand.nu van de andere linkse lijsten (PRO, Volt, D66) en LFD van de lokale partijen die deelvervoer willen stimuleren.",
+    "twijfel": "Weinig lijsten zeggen of de gemeente moet betalen; Volt, PRO, L1 en GH steunen deelvervoer maar noemen geen subsidie, vandaar +1."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "naam": "SCB (Sociaal-Conservatieve Beweging)",
+  "lijstnummer": 10,
+  "slug": "scb",
+  "lijsttrekker": "Haidar al Ibrahim",
+  "website": "https://www.scb.nl/",
+  "programma_url": "https://irp.cdn-website.com/a213bcc1/files/uploaded/SCBVerstandigVernieuwen.pdf",
+  "programma_titel": "Verkiezingsprogramma 2026 Hilversum - SCB | Verstandig Vernieuwen",
+  "programma_paginas": 9,
+  "programma_woorden": 1825,
+  "opgehaald_op": "2026-11-15",
+  "type": "landelijke partij, lokale afdeling",
+  "achtergrond": "De SCB is volgens de eigen website in november 2023 opgericht door Haidar al Ibrahim; de stemgids meldt registratie in augustus 2026. Al Ibrahim stond in 2022 op de lijst van GroenLinks, kwam in de loop van de raadsperiode alsnog in de gemeenteraad van Hilversum en is na zijn vertrek bij GroenLinks als SCB verdergegaan (hilversumsnieuws). Zetels: 1 in Hilversum (al Ibrahim), 0 in Wijdemeren.",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/scb/",
+    "https://www.hilversumsnieuws.nl/politiek/politiek/380799/hilversum-kiest-twintig-partijen-op-de-lijst-van-18-november",
+    "https://www.scb.nl/",
+    "https://www.scb.nl/vp",
+    "https://irp.cdn-website.com/a213bcc1/files/uploaded/SCBVerstandigVernieuwen.pdf"
+  ],
+  "opmerkingen": "Programma is kort (9 pagina's, tienpuntenplan). PDF is byte-identiek aan de kopie van de stemgids (programmas/scb-2026-10-28.pdf). type is eigenlijk 'lokale/nationale beweging': SCB noemt zich een Nederlandse politieke beweging met landelijke ambities; geen afdeling van een grotere partij, dus 'lokale afdeling' is onzeker. De extra-pagina's (scb.nl en /vp) zijn dun; geen lokale interviews gevonden."
+}

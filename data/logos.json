@@ -1,0 +1,141 @@
+{
+  "hart-voor-hilversum": {
+    "bestand": "hart-voor-hilversum.svg",
+    "bron": "https://www.hartvoorhilversum.nl/documents/1556106/0/HvH%20Logo.svg",
+    "pagina": "https://www.hartvoorhilversum.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Header-logo van de eigen site, inclusief slogan 'In elk dorp en iedere buurt'. Transparant."
+  },
+  "pro": {
+    "bestand": "pro.svg",
+    "bron": "https://upload.wikimedia.org/wikipedia/commons/8/86/Progressief_Nederland_logo_liggend.svg",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Progressief_Nederland_logo_liggend.svg",
+    "licentie": "Public domain (PD-Textlogo, handelsmerk); auteur Progressief Nederland",
+    "achtergrond": "licht",
+    "opmerking": "Logo van Progressief Nederland (PRO) zelf, liggende variant; Commons noemt als bron progressiefnederland.nl. Eigen site hilversum.progressiefnederland.nl weigert bots en is niet bevraagd. Bevat het woordmerk 'Progressief Nederland', niet de letters PRO."
+  },
+  "d66": {
+    "bestand": "d66.svg",
+    "bron": "https://d66.nl/hilversum/wp-content/uploads/sites/3/2023/01/d66-logo.svg",
+    "pagina": "https://d66.nl/hilversum/",
+    "achtergrond": "licht",
+    "opmerking": "Header-logo van de lokale D66-site; groen vlak met witte letters."
+  },
+  "vvd": {
+    "bestand": "vvd.png",
+    "bron": "https://www.vvdhilversum.nl/img/logo-vvd-hilversum.png",
+    "pagina": "https://www.vvdhilversum.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Logo VVD Hilversum van de eigen site (met 'Hilversum' eronder). Origineel 250 px breed, niet opgeschaald. Transparant."
+  },
+  "cda": {
+    "bestand": "cda.png",
+    "bron": "https://www.cda.nl/dist/assets/favicons/apple-touch-icon-1024x1024.png",
+    "pagina": "https://www.cda.nl/noord-holland/hilversum/",
+    "achtergrond": "licht",
+    "opmerking": "Apple-touch-icon (1024 px) van cda.nl, verkleind tot 400 px; groene cirkel met CDA op witte achtergrond. De afdelingspagina toont geen los logobestand; twijfel beperkt tot de vorm (icoon, geen woordlogo)."
+  },
+  "lokaal-een": {
+    "bestand": "lokaal-een.svg",
+    "bron": "https://lokaaleen.nl/here/wp-content/uploads/2026/03/Lokaal1-logo.svg",
+    "pagina": "https://lokaaleen.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Rond logo van de eigen site (variant zonder witte rand; er bestaat ook 'Lokaal1-logo-met-rand.svg')."
+  },
+  "sp": {
+    "bestand": "sp.svg",
+    "bron": "https://hilversum.sp.nl/icon.svg",
+    "pagina": "https://hilversum.sp.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Het tomaatje (beeldmerk) van de eigen site, zonder letters SP; de site gebruikt dezelfde tomaat als sp_tomato.svg."
+  },
+  "christenunie": {
+    "bestand": "christenunie.svg",
+    "bron": "https://hilversum.christenunie.nl/",
+    "pagina": "https://hilversum.christenunie.nl/",
+    "achtergrond": "donker",
+    "opmerking": "Inline SVG-logo uit de header van de eigen site (woordlogo 'ChristenUnie', wit met cyaan 'Unie'); de pagina toont het op een donkerblauwe achtergrond. Er is geen los bestand: SVG uit de paginabron gehaald. Het favicon-SVG is alleen een ingebed 34 px-plaatje en is niet gebruikt."
+  },
+  "bvnl": {
+    "bestand": "bvnl.png",
+    "bron": "https://www.gezamenlijkbelang.nl/__l5e/assets-v1/48214c04-6774-460d-9c70-748a888ba534/bvnl-hilversum-blauw.png",
+    "pagina": "https://www.gezamenlijkbelang.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Blauwe variant 'BVNL Hilversum' van de eigen site (er is ook een witte variant). Origineel 1920 px, verkleind tot 400. Transparant."
+  },
+  "scb": {
+    "bestand": "scb.png",
+    "bron": "https://irp.cdn-website.com/a213bcc1/dms3rep/multi/NewlogoSociaal-Conservatieve+Beweging.png",
+    "pagina": "https://www.scb.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Logo 'Nieuw logo Sociaal-Conservatieve Beweging' van de eigen site (zelfde bestand als og:image), 500 px; witte achtergrond."
+  },
+  "gewoon-hilversum": {
+    "bestand": "gewoon-hilversum.webp",
+    "bron": "https://primary.jwwb.nl/public/l/i/o/temp-wwclcgcjsgyabmittrji/logo-gewoon-hilversum-high.jpg",
+    "pagina": "https://www.gewoonhilversum.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Header-logo van de eigen site (jpg, witte achtergrond), omgezet naar webp van 400 px."
+  },
+  "dorp-voor-dorp": {
+    "bestand": "dorp-voor-dorp.png",
+    "bron": "https://primary.jwwb.nl/public/s/o/r/temp-wmdsvgshzgoiqqeheiuf/whatsapp-image-2026-08-03-at-11-04-43-high.jpg",
+    "pagina": "https://www.dorpvoordorp.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Header-logo (DVD) van de eigen site; het bestand heet whatsapp-image..., jpg met witte achtergrond, omgezet naar png van 400 px. Hetzelfde beeldmerk staat op hun hoodie-afbeelding en favicon."
+  },
+  "stop-betaald-parkeren-vip": {
+    "bestand": "stop-betaald-parkeren-vip.png",
+    "bron": "https://viphilversum.nl/VIP.png",
+    "pagina": "https://viphilversum.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Alleen beschikbaar als og:image VIP.png van 87x52 px (niet opgeschaald), dus onscherp bij groot tonen; de site toont zelf geen logoplaatje. Toon klein. Het favicon is alleen tekst in een lettertype en is niet gebruikt."
+  },
+  "opstand-nu": {
+    "bestand": "opstand-nu.png",
+    "bron": "https://opstand.nu/wp-content/uploads/2025/12/opstand.nu_blauwv4.png",
+    "pagina": "https://opstand.nu/",
+    "achtergrond": "licht",
+    "opmerking": "Header-logo 'Opstand.nu' van de eigen site, 2268 px, verkleind tot 400. Transparant."
+  },
+  "pvdd": {
+    "bestand": "pvdd.svg",
+    "bron": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Party_for_the_Animals_logo.svg",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Party_for_the_Animals_logo.svg",
+    "licentie": "Public domain (PD-Textlogo, handelsmerk); auteur Partij voor de Dieren",
+    "achtergrond": "licht",
+    "opmerking": "Landelijk logo van de Partij voor de Dieren via Commons (bron: partijvoordedieren.nl/voor-de-pers, 2015). hilversum.partijvoordedieren.nl weigert bots en is niet bevraagd; ook de landelijke homepage gaf 403, daarom niet van de partijsite zelf. Logo oogt gelijk aan het huidige logo.svg van de landelijke site, maar dat is niet naast elkaar geverifieerd op een recente wijziging."
+  },
+  "blanco-van-oostveen": {
+    "bestand": null,
+    "opmerking": "Blanco lijst: heeft geen logo."
+  },
+  "lfd": {
+    "bestand": "lfd.png",
+    "bron": "https://stemlfd.nl/wp-content/uploads/2026/07/Logo-beeldmerk.png",
+    "pagina": "https://stemlfd.nl/",
+    "achtergrond": "licht",
+    "opmerking": "Logo-beeldmerk (kaars met L F D) van de eigen site, 871x1203 verkleind tot 400 px breed. Transparant, donkerblauw."
+  },
+  "volt": {
+    "bestand": "volt.svg",
+    "bron": "https://voltnederland.org/noord-holland/hilversum",
+    "pagina": "https://voltnederland.org/noord-holland/hilversum",
+    "achtergrond": "licht",
+    "opmerking": "Inline SVG-woordmerk 'Volt' uit de header van de eigen site (zwart, transparant); geen los bestand, uit de paginabron gehaald."
+  },
+  "fvd": {
+    "bestand": "fvd.svg",
+    "bron": "https://fvd.nl/_nuxt/logo_FVD.CMinAjO8.svg",
+    "pagina": "https://fvd.nl/gemeentes/hilversum",
+    "achtergrond": "licht",
+    "opmerking": "Header-logo van fvd.nl (donkere tekstvariant); er is ook een witte tekstvariant voor donkere achtergronden. Bestandsnaam bevat een buildhash en kan na een nieuwe site-release veranderen."
+  },
+  "bbb": {
+    "bestand": "bbb.png",
+    "bron": "https://bbb-hilversum.nl/wp-content/uploads/2024/02/BBB-logo-1.png",
+    "pagina": "https://bbb-hilversum.nl/",
+    "achtergrond": "licht",
+    "opmerking": "BBB-logo van de eigen site (uit 2024-upload), 1040 px verkleind tot 400. Transparant. Licht twijfel over actualiteit omdat het bestand uit 2024 komt, maar het is wat de site nu in de pagina toont."
+  }
+}

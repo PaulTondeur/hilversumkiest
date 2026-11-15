@@ -1,0 +1,421 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Armoederegelingen voor inwoners op:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "BBB kiest voor 130%. Armoede treft niet alleen mensen in de bijstand, maar ook werkenden met een laag inkomen en alleenstaanden die net boven het minimum zitten. Door de grens op 130% te stellen, zorgen we dat ook deze knelpunten opgevangen worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "50 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Maak armoedebestrijding voor iedereen mogelijk. Bekijk de situatie en pas maatwerk toe. Veel mensen vallen er nu buiten terwijl ze wel ondersteuning nodig hebben. Juist de lagere inkomens hebben meer subsidie mogelijkheden dan mensen met modaal inkomen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "68 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Wie werkt of net boven het bijstandsniveau zit, verdient ook ondersteuning. Armoederegelingen tot 130% voorkomen dat werken wordt bestraft en helpen inwoners die moeite hebben om rond te komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "74 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "We wonen in de welvarendste regio van Nederland. Meedoen is voor het CDA de basis van een gemeenschap. Meedoen begint bij werk, maar kunnen terugvallen op voldoende middelen als het echt niet lukt om werk te vinden is óók belangrijk om mee te kunnen doen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "97 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "De ChristenUnie wil armoede bestrijden en armoederegelingen bereikbaar houden voor mensen die dat nodig hebben. We houden de grens op 130% van de bijstandsnorm.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "90 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Het huidige armoedebeleid richt zich op mensen met een inkomen tot 130% van bijstandsniveau. We willen hier niet op bezuinigen. D66 vindt het belangrijk dat iedereen mee kan doen. Door minder en slimmere regels kunnen meer mensen geholpen worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Een sociaal vangnet is er voor wie het nodig heeft, niet om werken te ontmoedigen. Hulp moet gericht terechtkomen bij mensen die echt niet rondkomen. Armoedebeleid moet mensen uit de problemen helpen, niet afhankelijk houden van regelingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "10 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Wij willen minimaregelingen richten op de laagste inkomens. Een grens van 110% biedt ondersteuning waar die het hardst nodig is.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "100 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "We willen armoede en schulden zo vroeg mogelijk signaleren. Waar mogelijk voorkomen we harde grenzen waardoor iemand die nét te veel verdient direct alle ondersteuning verliest. Kinderen mogen nooit de dupe worden van de financiële situatie thuis.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "90 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Wij willen armoederegelingen toegankelijk maken tot 130% van het bijstandsniveau. Ook werkenden met een laag inkomen moeten kunnen meedoen. Hulp moet terechtkomen bij wie die nodig heeft en voorkomen dat gezinnen net buiten de boot vallen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "100 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "De LFD wil voorkomen dat werken wordt afgestraft, doordat ondersteuning direct wegvalt zodra iemand iets meer verdient. Een grens van 130% van de bijstandsnorm helpt de armoedeval te beperken en zorgt dat werken daadwerkelijk loont.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "92 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Lokaal Eén wil de Armoederegeling voor inwoners op 130% houden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "100 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Minimaal op 130% van bijstandsniveau. Structurele armoede schaadt wie het treft én onze gemeente als geheel.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "96 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "De inkomensgrens voor minimaregelingen blijft op 130% van de bijstand. We versimpelen de toegang voor mensen met weinig geld en kennen automatisch toe aan inwoners die al bekend zijn. Alle minimaregelingen worden jaarlijks verhoogd met de inflatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "PvdD wil dat armoederegelingen, inclusief de normbedragen voor vermogen die gelden voor kwijtschelding van de gemeentelijke belastingen en eigen bijdrage van de Wmo, van toepassing zijn op inkomens tot 130% van het bijstandsniveau.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "70 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Ook inwoners die net boven het bijstandsniveau zitten kunnen moeite hebben om rond te komen. Ondersteuning moet daarom beschikbaar zijn wanneer die daadwerkelijk nodig is, met ruimte voor zelfstandigheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "100 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "De SP heeft er in Hilversum voor gezorgd dat iedereen met een inkomen tot 130% van het sociaal minimum (vaak: het bijstandsbedrag) recht heeft op hulp van de gemeente. Daardoor kunnen we ook werkende mensen met een laag inkomen helpen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "75 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Wij kiezen voor een sociaal beleid. Inwoners die nét boven de bijstand zitten, komen vaak ook in de knel. Door hen gericht te ondersteunen, bieden we bestaanszekerheid en voorkomen we grotere, duurdere problemen op de lange termijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "81 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "Inwoners krijgen geld als ze dat nodig hebben om rond te komen, zonder dat ze afhankelijk zijn van allerlei losse regelingen en acties. Door minder regels is er meer tijd en aandacht voor inwoners.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "2 (schuifbalk 0=bijstandsniveau, 100=130% van bijstandsniveau)",
+    "toelichting": "We willen een goed vangnet voor mensen die dat nodig hebben, maar werken moet altijd lonen. Daarom willen we voorkomen dat ruime armoederegelingen boven de bijstandsnorm ervoor zorgen dat mensen er financieel op achteruitgaan als zij gaan werken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "In alle wijken en dorpen een buurthuis openen",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "94 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Als BBB staan we voor echt noaberschap en verbinding. Een buurthuis in elke wijk en elk dorp is de centrale plek waar inwoners elkaar écht zien en horen. Het vormt het kloppend hart van onze buurten, gedragen door de inzet van fantastische vrijwilligers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "70 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Elke wijk/dorp dient basisvoorzieningen te hebben. Laagdrempelige ontmoetingsruimtes zijn daar een van. Maar daarnaast dient er aandacht te zijn voor aanvullende voorzieningen zoals: buurttuinen, broedplaatsen, verenigingsgebouwen, sport- en cultuurruimtes.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "28 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De gemeente hoeft niet in iedere wijk een buurthuis te openen. Als bewoners daar behoefte aan hebben, kunnen zij dit zelf organiseren en dragen. De gemeente faciliteert waar nodig, maar neemt niet automatisch het initiatief.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "79 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Buurthuizen en soortgelijke ontmoetingsplekken spelen een belangrijke rol in onze wijken. Er moet in elke wijk en dorp een aanlandplek. Op veel plekken bestaan deze plekken al. De gemeente hoeft dat niet over te nemen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "83 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil in wijken en dorpen goede ontmoetingsplekken. Dat kan een buurthuis zijn, maar ook een andere vorm hebben. Zolang het past bij de lokale behoefte en zo mogelijk multifunctioneel kan worden ingezet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "30 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ontmoeting is belangrijk in elke wijk en elk dorp. Een buurthuis is daarbij een middel en geen doel: de vorm kan per buurt verschillen. Denk ook aan een wijkcentrum, bibliotheek, school of sportclub. Wel wil D66 overal een plek om samen te komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit is een van de kernwaarden van Dorp voor Dorp! Jouw plek in jouw buurt, van club tot klaverjassen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "28 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn wijkcentra. Er zijn dorpshuizen. Niet elke wijk heeft er behoefte aan. Voordat de gemeente budget vrijmaakt moet aangetoond worden dat bestaande centra niet voldoen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ieder dorp en iedere buurt verdient gewoon een plek waar mensen elkaar kunnen ontmoeten en activiteiten kunnen organiseren. Verder is ontmoeten een hulp tegen eenzaamheid. Vrijwilligers die deze plekken runnen moeten we koesteren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "90 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Elke wijk en elk dorp verdient een toegankelijke ontmoetingsplek. Wij sluiten aan bij de behoefte van bewoners en benutten bestaande buurthuizen, bibliotheken en dorpshuizen. Zo versterken we de buurt en gaan we eenzaamheid tegen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "24 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD ziet de waarde van buurthuizen, maar niet iedere wijk of ieder dorp heeft automatisch een gemeentelijk buurthuis nodig. Bestaande voorzieningen en initiatieven uit de samenleving gaan voor; behoefte en meerwaarde moeten leidend zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "71 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén wil in alle wijken en dorpen een ruimte voor ontmoeting. Hierbij willen wij zoveel mogelijk gebruik maken van al bestaande locaties.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "84 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "In alle dorpen en wijken waar behoefte is aan een buurthuis, met voorrang aan die wijken/dorpen met de meeste behoefte, liefst gecombineerd met een gemeenteloket.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "96 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Het buurthuis speelt een centrale rol in de samenhang in de wijk. Elke wijk en elk dorp zonder buurthuis moet kunnen beschikken over een buurtkamer waar inwoners elkaar kunnen ontmoeten voor een bakje koffie, om ervaringen te delen en samen te kunnen zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Buurthuizen bieden een laagdrempelige manier om elkaar te ontmoeten. Zo voelen mensen zich betrokken bij hun wijk of dorp, en gaan we eenzaamheid tegen. Ook kunnen maatschappelijke projecten er een plek vinden, zoals reparatie-initiatieven of taallessen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "84 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Buurthuizen zijn belangrijk voor een sterke gemeenschap en het tegengaan van eenzaamheid. Ze bieden ruimte voor activiteiten, ontmoeting en initiatieven van inwoners en verenigingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit is gewoon een goed idee.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ontmoetingsplekken zijn essentieel. Maar we hoeven niet overal nieuw te bouwen. Wij kiezen voor maatwerk en benutten bestaande dorpshuizen, scholen en sportaccommodaties slimmer door deze ruimtes gezamenlijk te delen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "85 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dorpen en wijken beslissen zelf of ze een buurthuis willen en hoe ze dat invullen. Bewoners die een buurthuis willen starten worden geholpen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "91 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De VVD zou graag in alle wijken en dorpen een buurthuis hebben, maar dat is waarschijnlijk financieel niet haalbaar. Daarom willen we vooral investeren in goede ontmoetingsplekken waar daar behoefte aan is.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente mag niet miljoenen bezuinigen op de jeugdzorg.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Wat ons betreft mag er, als dat nodig blijkt, in principe meer geld aan deze zaken besteed worden. Wij schrijven echter geen blanco cheque uit.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO wil niet bezuinigen als dat betekent dat mensen niet de ondersteuning of zorg krijgen die ze nodig hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "neutraal",
+    "toelichting": "We investeren in preventie, zodat minder jongeren zware jeugdzorg nodig hebben, en blijven inzetten op specialistische jeugdhulp voor kinderen die dat het hardst nodig hebben. Problemen vroeg signaleren, bijvoorbeeld op scholen, vergroot het welzijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Het is belangrijk dat we de jeugdzorg anders gaan organiseren: meer laagdrempelige en snelle ondersteuning, en met hulp van scholen meer inzet op normalisering in plaats van problematisering. Daardoor blijft de jeugdzorg beschikbaar voor die kinderen die het echt nodig hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Op dit moment wordt de transitie van de Jeugdzorg uitgevoerd. Hierbij wordt nadrukkelijk ingezet op vroegsignalering en snelle ondersteuning om zo leed en extra uitgaven te voorkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Daarnaast is doorlopende zorg voor jongeren boven de 18 belangrijk. Jongeren in de jeugdzorg die 18 worden vallen nu vaak tussen twee soorten zorg in. Er moet een goede overgangsregeling zijn, zodat de hulp gewoon doorloopt. Wij letten erop dat dit ook echt gebeurt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "We moeten blijven zoeken naar mogelijkheden om de stijgende kosten omlaag te brengen. Uitgangspunt daarbij is wel: het mag niet ten koste gaan van de kwaliteit van de zorg.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Kinderen die werkelijk hulp nodig hebben, moeten die tijdig krijgen. Bespaar op bureaucratie, versnippering en overhead, niet op noodzakelijke zorg. Investeer daarnaast in vroege ondersteuning op school om zwaardere problemen te voorkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Kinderen en jongeren die hulp nodig hebben, mogen niet tussen wal en schip vallen. We willen problemen vroeg aanpakken, gezinnen ondersteunen en onnodige bureaucratie verminderen. Bezuinigingen mogen niet ten koste gaan van noodzakelijke hulp aan kwetsbare jongeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "DvD wil de jeugdzorg hervormen. Problemen moeten eerder worden herkend en hulp moet dichter bij gezinnen worden georganiseerd. Minder bureaucratie en betere samenwerking moeten leiden tot passende, betaalbare zorg.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Goede zorg voor onze jeugd is cruciaal. We bezuinigen niet botweg op de kwaliteit van hulp, maar organiseren het wel véél slimmer: we zetten stevig in op preventie en werken lokaal samen, zodat we problemen aanpakken voordat ze onnodig zwaar en duur worden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„De overbelasting van de jeugdzorg pakken we adequaat aan door wachtlijsten te beperken en knelpunten in de ggz op te lossen.”",
+    "herkomst": "Verkiezingsprogramma, p. 63"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Je mag niet bezuinigen op jeugdzorg maar je kan wel kijken naar de middelen die worden ingezet of dat de juiste keuze is of dat andere hulp beter is. De jeugd heeft de toekomst en die moeten we hun geven. Ook moeten we niet onderschatten wat de invloed van corona en social media op deze doelgroep is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Kinderen en gezinnen mogen niet de dupe worden van gemeentelijke bezuinigingen. LFD wil goede, tijdige jeugdhulp, maar ook minder bureaucratie en verspilling. Bespaar op het systeem, niet op de hulp die kinderen daadwerkelijk nodig hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We willen de hulp anders organiseren door ondersteuning te bieden vanuit scholen. En bij gezinsproblemen krijgt een gezin een hulpverlener die ondersteunt in plaats van allerlei losse regelingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "neutraal",
+    "toelichting": "Wij willen meer inzetten op vroegtijdige ondersteuning op school, zodat problemen niet onnodig groter worden. Specialistische jeugdzorg moet beschikbaar blijven voor kinderen die deze echt nodig hebben. Besparingen mogen noodzakelijke hulp niet aantasten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Kwetsbare kinderen en gezinnen mogen nooit de dupe worden van kille bezuinigingsdrang. BBB wil dat jeugdzorg toegankelijk, dichtbij en menselijk blijft. In plaats van miljoenen te korten op hulp, moeten we de bureaucratie aanpakken zodat elke euro bij het kind terechtkomt.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Wijk- en buurtcentra moeten voor vijf jaar subsidie krijgen in plaats van voor één jaar.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Buurthuizen moeten om financieel gezonde plannen te kunnen maken een langjarige subsidie krijgen om hen in staat te stellen meerjarige plannen te kunnen maken en dat geeft rust in hun organisatie. Hart voor Hilversum maakt zich al jaren sterk voor buurthuizen in wijken en dorpen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "PRO is voor meerjarensubsidies, maar een periode van 5 jaar is te lang. Dit overstijgt de raadsperiode van 4 jaar waardoor bijsturing vanuit de gemeenteraad heel moeilijk wordt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "neutraal",
+    "toelichting": "Subsidies, regelingen en voorzieningen toetsen we doorlopend op effectiviteit, doelmatigheid en samenhang met onze doelen. Daarom kiezen we voor meerjarige subsidies voor veelbelovende projecten en maken we subsidieregels duidelijk, transparant en voorspelbaar.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Er moet een helder subsidiebeleid zijn. Op voorhand 5 jaar subsidie toezeggen ontneemt eigen initiatief en inventiviteit. Het gaat ook voorbij aan het feit dat sommige initiatieven kennelijk niet nodig zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Elke buurt en elk dorp heeft een goede ontmoetingsplek nodig. Denk aan een actief buurtcentrum met dagbesteding, ruimte voor jongeren en steun voor initiatieven van bewoners. Daar horen professionele buurtwerkers bij. Zij zorgen dat mensen elkaar ontmoeten en zien op tijd wanneer het ergens misgaat.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "Wel met de opmerking, dat dit niet specifiek geldt voor wijk- en buurtcentra, maar voor meer maatschappelijke organisaties die onmisbaar werk doen voor de gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "neutraal",
+    "toelichting": "Meerjarige zekerheid kan goed zijn voor aantoonbaar succesvolle buurtcentra, maar geen automatische subsidie voor vijf jaar. Werk met heldere prestaties, periodieke evaluaties en de mogelijkheid om bij onvoldoende resultaat bij te sturen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Buurtcentra en ontmoetingsplekken zijn belangrijk voor sociale samenhang en het tegengaan van eenzaamheid. Meerjarige subsidie geeft organisaties en vrijwilligers meer zekerheid om activiteiten te organiseren. Daarbij moeten resultaten en financiële haalbaarheid zorgvuldig worden bewaakt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Wijkcentra en buurthuizen hebben zekerheid nodig om hun activiteiten te kunnen ontwikkelen en behouden. Ze dragen bij aan het bestrijden van eenzaamheid, vergroten saamhorigheid en betrokkenheid bij hun wijk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Voor een betrouwbare en efficiënte overheid is langetermijnplanning noodzakelijk. Duidelijke doelen en een stabiele koers voorkomen dat beleid voortdurend verandert en inwoners met de gevolgen worden geconfronteerd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Buurthuizen en wijkcentra zijn het warme, kloppende hart van onze dorpen en wijken! Wij geven ze graag de broodnodige financiële zekerheid en rust voor vijf jaar. Geen overbodig papierwerk, maar gewoon de handen uit de mouwen voor de buurt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "Wijk- en buurtcentra bieden een laagdrempelige manier om elkaar te ontmoeten. Zo voelen mensen zich betrokken bij hun wijk of dorp, en gaan we eenzaamheid tegen. Projecten zoals reparatie-initiatieven of taallessen vinden er een plek. Langduriger toekenning helpt deze functies te versterken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Ja, dit zou fijn zijn aangezien de meeste geen betaalde krachten hebben om alle rompslomp die erbij komt kijken uit te voeren. Een basissubsidie met een jaarlijks evaluatiemoment op locatie zou echt een meerwaarde opleveren voor deze initiatieven. Het geeft blijk van vertrouwen en geeft hen rust.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Wijk- en buurtcentra kunnen waardevol zijn, maar vijf jaar subsidie mag geen automatisme worden. LFD wil dat gemeenschapsgeld controleerbaar wordt besteed en subsidies regelmatig worden getoetst op noodzaak, resultaten en kosten. Geen langdurige financiële verplichtingen zonder verantwoording.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Met subsidie voor vijf jaar kunnen inwoners hun buurthuizen beter organiseren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Buurtcentra zijn belangrijk voor ontmoeting en saamhorigheid. Wij willen duidelijke afspraken over subsidies, met transparante kosten en aantoonbare resultaten. Jaarlijkse verantwoording helpt daarbij.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Wijkcentra zijn de sociale spil in onze buurten. Jaarlijkse subsidieaanvragen zorgen voor onnodige ambtelijke druk. BBB kiest voor langdurige subsidies om buurthuizen continuïteit en rust te bieden. Wat BBB betreft geven we deze meerjarenzekerheid net zo goed aan lokale terugkerende evenementen.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ }
+]

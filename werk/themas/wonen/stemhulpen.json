@@ -1,0 +1,1211 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Op het Media Park:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "BBB kiest voor mediabedrijven. Woningbouw op het Media Park is wettelijk en praktisch niet haalbaar vanwege geluidsnormen en bedrijvigheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "22 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De locatie leent zich goed om woningen toe te voegen. Vooral voor studenten en jongeren is dit een geschikte locatie naast het OV en ook voor stagiaires en tijdelijke werknemers is het geschikt. Daarnaast zijn er kansen voor media gerelateerd onderwijs.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "85 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park is de economische motor van Hilversum. Meer mediabedrijven zorgen voor innovatie, werkgelegenheid en versterken de unieke positie van Hilversum als mediastad. Woningen kunnen op andere geschikte locaties worden gebouwd.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "39 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park is het economische hart van de mediasector. Toch gaat vernieuwing snel. Voor ons blijft de economische functie vooropstaan. Maar onderwijs, wonen voor studenten, starters en jonge professionals en voorzieningen maken het geheel levendig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "71 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De ChristenUnie wil ruimte voor mediabedrijven en banen op het Media Park. Woningen kunnen passen, mits zij de campus versterken en geen mediabedrijven verdringen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "34 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Mediapark blijft onze economische motor voor media, innovatie en werkgelegenheid, met ruimte voor bedrijven. Tegelijk ontwikkelen we het door tot een bruisende mediacampus waar werken, leren en ontspannen samengaan, met ook extra woningen. Beide dus.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Geen uitbreiding van media, wel woningen, het Media Park is groot genoeg. \n\nGebruik nieuwe ontwikkelruimte voor woningen zodat jongeren, starters en andere inwoners ook in Hilversum een thuis kunnen vinden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "73 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Mediapark levert programma's voor de hele wereld. Het is geen woonwijk. Wonen verdringt studio’s en bedrijven. De woningopgave hoort elders. Vrije kavels gaan naar mediabedrijven, niet naar appartementen. Hilversum blijft mediastad door te produceren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "54 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Woningen toevoegen op het Media Park is prima, maar mag niet ten koste gaan van de economische functie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "47 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park blijft belangrijk voor werkgelegenheid, innovatie en Hilversum als mediastad. Wij geven mediabedrijven ruimte. Bij blijvende leegstand onderzoeken we passende woningbouw, zonder de toekomst van de mediasector te belemmeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De LFD kiest niet tussen woningen en mediabedrijven op het Media Park. Grondeigenaren en ondernemers moeten ruimte krijgen om het gebied te ontwikkelen. De gemeente faciliteert waar nodig, maar bepaalt niet centraal welke functie voorrang krijgt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "51 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De gemeente stimuleert de doorontwikkeling van het Mediapark op het gebied van digitale media, ICT en innovatie. In de campusopzet past het bieden van woonruimte voor studenten. Creatief talent versterkt de positie van Hilversum als het mediacentrum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "61 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Wonen kan voor specifieke groepen (studenten, short stay mediawerkers), maar mag niet ten koste gaan van de werkgelegenheid en kracht mediasector.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "11 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "We zetten in op de start en versnelling van de woningbouw en de uitbreiding van het aantal mediabedrijven op het MediaPark. Op deze wijze krijgt de campusgedachte (wonen, werken en leren) vorm en inhoud en versterken zij elkaar.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "37 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Een mix van bedrijven en starterswoningen op het Media Park zou goed kunnen werken. Als het Media Park verder wordt ontwikkeld, moet het ook direct verder vergroend worden. Het Heksenweitje aan de westkant van het Media Park moet een groene plek blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "72 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Het Media Park is belangrijk voor de lokale economie en werkgelegenheid. Wij willen ruimte voor ondernemers en voorzieningen en vinden het daarom passend om de mediaclustering daar te versterken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "29 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "We betrekken het Heksenweitje bij het Mediapark en voegen daar betaalbare woningen toe. We maken een campus voor jongeren. We kunnen hier ook iets de hoogte in.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "20 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "Een passende woning voor onze inwoners heeft de hoogste prioriteit. Het Media Park biedt een uitstekende kans om de lokale woningnood aan te pakken. Wij willen bestaande ruimte en leegstand hier volop benutten en ombouwen tot woningen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "44 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "We versterken de innovatiekracht (start-ups) en werkgelegenheid. We bouwen woningen voor studenten/starters op/bij het Media Park. Zo binden we jong talent aan Hilversum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "82 (schuifbalk 0=meer woningen, 100=meer mediabedrijven)",
+    "toelichting": "De VVD kiest voor meer media. Hilversum is en blijft dé mediastad. Op het Media Park moet ruimte blijven voor media, werk en innovatie. Enkele woningen kunnen wel, bijvoorbeeld als onderdeel van een mediacampus.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Meer hoogbouw toestaan",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB wil bouwen waar mogelijk, maar niet de hoogte in. Zo beschermen we het dorpse en landelijke karakter van onze gemeenten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "49 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hoogbouw alleen met veel openbare ruimte eromheen & verplichte vierkante meters. Vooral op plekken van reeds bestaande stenen en bouwvlakken. 3 tot 4 hoog is eigenlijk gewenst voor een goede gezonde leefbaarheid. Verplichting tot recht op balkon bij hoogbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "94 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Om de woningnood aan te pakken is meer bouwhoogte op geschikte locaties nodig. Hoogbouw kan bijdragen aan extra woningen zonder onnodig groen op te offeren, mits passend bij de omgeving en de schaal van Hilversum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "37 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hilversum is een tuinstad. Vanaf het groen om ons heen zie je ruimte in plaats van flats, dat willen we behouden. In Wijdemeren zetten we wel in op appartementen. Een laagje erop is nog geen hoogbouw, dat kan wel.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "72 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie staat hoger bouwen toe waar dat nodig is voor woningen en ruimte voor groen, vooral rond OV-knooppunten. Maar het moet altijd passend zijn bij de omgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "82 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We hebben meer woningen nodig, vooral voor starters en kleine huishoudens. Hoogbouw kan op plekken waar het past: dicht bij het openbaar vervoer, zoals bij het Sportpark. Zo bouwen we meer woningen op minder grond en houden we ruimte over voor groen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hoogbouw kan daar waar het wenselijk is; buiten het centrum is dit maatwerk. De inwoners moeten zeggenschap hebben over hoe hoog en groot er in de wijk gebouwd wordt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "3 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De huidige kaders voldoen om het aanzicht van het landschap te beschermen. Hoogbouw past daar niet bij.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "36 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Gewoon, Hilversum wil meer woningen toevoegen op een manier die past bij het karakter van onze dorpen en buurten. Op sommige plekken kan iets hoger bouwen best passen, maar lang niet overal. Hoogbouw waar het kan en past en draagvlak is is gewoon prima.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij staan open voor meer hoogbouw op geschikte plekken om de woningnood aan te pakken. Niet overal en niet steeds hoger: schaal, bereikbaarheid en voorzieningen moeten passen. Het groene karakter van onze wijken en dorpen blijft belangrijk.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD staat open voor kwalitatieve hoogbouw waar ruimte schaars is. Hoogbouw is geen doel op zich, maar kan extra woningen mogelijk maken. Veiligheid, bereikbaarheid, infrastructuur en aantoonbare hinder blijven belangrijke voorwaarden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "19 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij volgen de participatieopbrengst bij de Omgevingsvisie en aanbevelingen van experts om niet hoger te bouwen dan 6 bouwlagen in de stedelijk bebouwde kom. Hoogbouw hoger dan drie woonlagen in het buitengebied blijft voor Lokaal Eén een uitzondering.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "64 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Terughoudend, want dat hangt van de plek af en van de bebouwingsdichtheid. We willen geen Manhattan op de hei. Bij hoogbouw horen ook voorzieningen en parkeeroplossingen. De terreinwinst is vaak minder dan gehoopt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "77 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hoogbouw is een van de oplossingen voor de woningnood. Op geschikte locaties onderzoeken we zorgvuldig de mogelijkheden om hoger te bouwen. In de buurt van OV-knooppunten sluiten we hoger bouwen niet uit.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hoogbouw kan een oplossing zijn voor zowel de huidige woningnood als meer vergroening. De leefbaarheid mag niet in het gedrang komen; hoogbouw moet passen in de omgeving, maximaal vier woonlagen hebben, en voorzien zijn van minimaal één groene gevel.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "67 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hoogbouw kan helpen om meer woningen te bouwen, maar moet passen bij de buurt. Bij woningbouw moeten ook verkeer, parkeren, groen, voorzieningen en de leefbaarheid worden meegewogen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "80 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Slim de hoogte in, maar passend bij de plek. De woningnood vraagt om keuzes. Extra verdiepingen op geschikte plekken leveren tientallen woningen op zonder dat wij groen of natuur opofferen, bijvoorbeeld boven winkels en bij het Stationsgebied.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Verdichting is voor ons geen doel op zichzelf. We kijken wél naar bouwen in de hoogte op geschikte locaties om woningen toe te voegen, mits dit goed bij de omgeving past en de buurt niet onevenredig wordt belast.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "79 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Liever de hoogte in dan bouwen in het groen. Eerst bestaande ruimte benutten. Dan hoogbouw dichtbij openbaar vervoer en voorzieningen. Hoogbouw zo ontwerpen dat het past in de omgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "40 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen (iets) hoger bouwen waar dat past: op het Sportpark, in het centrum en bij de stations. Geen grootschalige hoogbouw; de omgeving en ruimtelijke kwaliteit blijven bepalend voor de VVD.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Landbouwgrond gebruiken voor woningbouw",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij zijn voor het behoud van agrarische gronden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "67 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Alleen inzetten voor kleinschalige collectieve woon/werk voorzieningen die een toegevoegde waarde hebben voor de natuur, voedselproductie, buurt, culturele klimaat, zorgvraag, educatie en natuurlijke recreatie. Geen hele woonwijken dus, maar kleinschalig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "36 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Boeren moeten kunnen blijven boeren. Alleen wanneer een grondeigenaar vrijwillig wil verkopen en daar een eerlijke prijs voor krijgt, kan woningbouw een optie zijn. Gedwongen uitkoop of onteigening van landbouwgrond past daar niet bij.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Alleen wanneer een boer zelf woningbouw op eigen terrein wil ontwikkelen, bekijken we per situatie of we als gemeente mee kunnen werken aan bestemmingswijzigingen. De gemeente moet agrariërs niet dwingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond is niet de eerste keuze, maar de vraag naar nieuwe woningen is groot. Per locatie moet een zorgvuldige afweging plaatsvinden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn snel meer woningen nodig. D66 kiest voor betaalbare woningen voor jong en oud. We kiezen voor gemengde wijken en dorpen en bouwen bij waar het kan, met speciale aandacht voor doelgroepen die nu extra moeilijk aan een woning komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "27 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De woningnood los je niet op door boeren van hun land te verdrijven. Geen gedwongen onteigening voor woningbouw. Pak ook de oorzaken van de woningnood aan, waaronder het open-grenzenbeleid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "8 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De agrarische sector moet kunnen investeren en innoveren, zonder onnodige hinder, met ruimte voor nevenactiviteiten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "1 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn meer woningen nodig, maar dit leest als 'boeren pesten'. Mocht een bedrijf niet meer economisch rendabel zijn, dan gaan we nadenken over een andere bestemming. Maar dit is een valse tegenstelling die de verhoudingen onnodig verhard.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "53 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond kan op geschikte plekken ruimte bieden voor betaalbare woningen voor onze inwoners. Wij wegen dat zorgvuldig af met grondeigenaren, met oog voor boeren, landschap en voorzieningen. Niet iedere akker is een bouwlocatie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil niet dat de gemeente landbouwgrond opoffert voor woningbouw of daarvoor boeren uitkoopt. Kiest een eigenaar zelf voor woningbouw op eigen grond, dan moet dat mogelijk zijn als dit verantwoord kan. Eigendomsrecht en vrijwilligheid staan voorop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén wil de identiteit van de dorpslandschappen en open zichtlijnen behouden. Wel kan woonruimte toegevoegd worden door schuren tot woonruimte om te bouwen en boerderijen te splitsen in meerdere woningen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "70 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Kan een oplossing zijn voor met name de dorpen. Eerst onderzoeken of dat kan qua bodemgesteldheid, natuur en bereikbaarheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "92 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Pro is voorstander van slim combineren van wonen en moderne vormen van duurzame landbouw. Het wijzigen van de bestemming landbouw naar wonen is mogelijk op die locaties die nu al grenzen aan bebouwing en of de bebouwde kom.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond is bedoeld voor plantaardige voedselproductie en natuurontwikkeling. Als landbouwgrond vrijkomt doordat de veehouderij fors krimpt, kan een deel van de grond worden ingezet voor woningbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "26 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landbouwgrond is waardevolle ruimte en moet niet zomaar worden gebruikt voor woningbouw. We willen bouwen naar lokale behoefte en eerst kijken naar locaties die daarvoor beter geschikt zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "64 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij sluiten dit niet uit, maar we kijken eerst naar mogelijkheden binnen de bebouwde kom.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een passende woning voor onze inwoners heeft hoge prioriteit. Als bouwen op landbouwgrond lokaal nodig is, maken we daar verantwoord ruimte voor. Dit moet wel passen bij de omgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "15 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Eerst benutten we de ruimte binnen de bebouwde kom. We onderzoeken sluiting vliegveld voor woningbouw en nieuwe natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "57 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen vooral binnen de kernen bouwen, maar sluiten woningbouw op landbouwgrond niet uit. Op geschikte locaties aan de rand van dorpen, zoals Nederhorst-Noord, moet woningbouw mogelijk zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Meer woningbouw buiten de bebouwde kom toestaan",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB wil eerst lokale kansen benutten, zoals het ombouwen van oude stallen en schuren tot woningen. Waar het echt nodig is, mag bouwen buiten de bebouwde kom. Dit mag echter nooit ten koste gaan van waardevolle landbouwgrond of onvervangbare natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "66 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hier moet je goed over nadenken en  je afvragen of je nog groter wilt worden of dat het zo goed is. Ik zie kansen voor gemeenschappelijke, duurzame en innovatieve woon/werk plekken met kleine footprint, dienstbaar aan de natuur, de gemeenschap en de buurt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Om de woningnood aan te pakken moeten er meer bouwlocaties beschikbaar komen. Woningbouw buiten de bebouwde kom moet mogelijk zijn, met respect voor natuur en landschap, zodat er sneller en betaalbaarder gebouwd kan worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "72 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Op plekken waar woningbouw goed in te passen is en toegestaan is, kunnen hier mogelijkheden voor geboden worden. Maar in beschermde natuurgebieden kan het niet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "73 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie vindt dat woningbouw buiten de bebouwing mogelijk moet zijn, zolang het past in de omgeving en niet ten koste gaat van natuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "87 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We bouwen niet op de hei of in de natuur. In de dorpen kan een straatje erbij: kleinschalig, aan de rand van de kern en passend bij het dorpse karakter. Ook verkennen we plekken zoals Nederhorst Noord. Natuur en landschap blijven daarbij beschermd.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Door de groeiende bevolking als gevolg van het opengrenzenbeleid moet Nieuw Hilversum uitbreiden. Door dit buiten de bestaande bouw te doen, geef je de buurten meer ruimte.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "18 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij beschermen de groene ruimte.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "91 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er zijn genoeg plekken waar woningen gebouwd kunnen worden. Gewoon, Hilversum vind dat we alle kansen voor woningbouw moeten pakken. En kijken waar het past om woonruimte te creëren, zonder dat het ten koste van groen en natuur en prettige leefomgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "55 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij onderzoeken beperkte woningbouw buiten de bebouwde kom, waar het echt bijdraagt aan de woningbehoefte. Geen ongerichte uitbreiding: natuur, landschap en bereikbare voorzieningen wegen zwaar. Elke locatie vraagt om een zorgvuldige afweging.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil woningbouw buiten de bebouwde kom niet bij voorbaat uitsluiten. Waar bouwen verantwoord mogelijk is, moet daarvoor ruimte zijn. Meer bouwen is echter geen doel op zich; eigendomsrecht, natuur, landschap en gevolgen voor de omgeving wegen mee.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "16 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén koestert de schoonheid van het open landschap en het illusielandschap. Ontwikkelingen binnen de bestaande ‘rode contouren’.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Mogelijkheden Wijdemeren verdienen onderzoek. In Hilversum dient het GNR te worden beschermd tegen bouwen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "60 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Buiten de bebouwde kom bouwen mag als het gaat om het verdichten in de lintbebouwing of in de randen van het groen. Dit mag niet ten koste gaan van de open ruimte tussen de dorpen of kwetsbare natuur. Natuurcompensatie kan hiervoor ingezet worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Hilversum is prachtig gelegen in de natuur. Die natuur moeten we koesteren. Woningen en woonplekken creëren we daarom zo veel mogelijk binnen de bebouwde kom in bestaande gebouwen, zoals leegstaande kantoorpanden, en binnen bestaande wijken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "37 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen bouwen naar lokale behoefte, maar woningbouw moet goed aansluiten op bestaande buurten en voorzieningen. Eerst moet worden gekeken waar binnen de gemeente passend kan worden gebouwd.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "14 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit is niet nodig, er moet eerst gebouwd worden binnen de bebouwde kom, en dan ook echt in Hilversum zelf. De dorpen zijn er niet voor alles wat in het centrum niet meer past. Plekken genoeg, denk aan het Sportpark en een deel van het Heksenweitje.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "99 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een passende woning voor jong en oud heeft hoge prioriteit. Woningbouw krijgt daarom de ruimte waar dat verantwoord kan. Als bouwen buiten de bebouwde kom daarvoor echt nodig is, compenseren we de natuur per saldo.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "18 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Eerst de ruimte binnen de bebouwde kom benutten. We willen woningen en nieuwe natuur op Vliegveld Hilversum. Bij sluiting vliegveld kan woonwijk Ter Sype (500 woningen) wél doorgaan. We bouwen niet in het groen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "27 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen vooral bouwen binnen bestaand stedelijk gebied en op geschikte locaties zoals Crailo of Nederhorst-Noord. Het groen rond Hilversum en de dorpen willen we beschermen. De hei blijft heilig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Minimaal 40% sociale huurwoningen verplicht maken bij nieuwbouw",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een vast percentage van sociale huur remt de woningbouw. Elk project is anders en heeft andere kosten. Soms is het financieel simpelweg niet mogelijk. Dan loopt de bouw vast en komt er niets van de grond. Met maatwerk per project bouwen we sneller.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Graag zelfs 50% sociaal! Maar niet zonder gespecificeerd naar sociaal segment, dus 30-35% sociaal laag, 15-20% sociaal hoog. Immers is de grootste groep woningzoekende categorie sociaal laag. Ook de huidige woningverdeling sociale huur onder de loep graag.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "21 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een verplichte norm van 40% sociale huur beperkt de vrijheid van ontwikkelaars en remt nieuwbouw. Beter is meer woningen bouwen in alle segmenten, zodat vraag en aanbod beter in balans komen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "20 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Betaalbare woonruimte is ontzettend belangrijk voor onze gemeente, maar we kunnen meer bouwen als het minimum percentage bij nieuwbouw lager is. Door meer middenhuur toe te staan, worden projecten juist sneller gestart en bereik je meer.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "28 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil meer sociale huurwoningen, met een evenwichtige mix van andere woningen. We sluiten voorlopig aan bij de landelijke norm van 30% sociaal. De werkelijke behoefte en verdeling moet volgen uit een nieuwe woonvisie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "18 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "D66 kiest voor minimaal 33% sociale huur bij nieuwbouw. Dat is meer dan landelijk verplicht is. Middenhuur en betaalbare koop zijn net zo hard nodig, voor gemengde wijken en doorstroming. Bij een eis van 40% blijft daar te weinig ruimte voor over.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dorp voor Dorp vindt dat de woningvoorraad per dorp en wijk moet aansluiten bij de lokale woonbehoefte. DvD wil een eerlijke afspiegeling van de bevolking, met een mix van sociale huur, betaalbare koop en passende woningen voor verschillende doelgroepen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "24 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Meer goedkope en betaalbare koop (bv 180.000 euro), zo bouwen inwoners eigen vermogen op. Sociale huur gaat ten koste van goedkope koopwoningen. Voorrang voor eigen inwoners, niet voor statushouders.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "42 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er is grote behoefte aan meer betaalbare woningen. Maar ook aan middeldure woningen. Zo'n norm voor elk nieuwbouwproject verplicht maken, maakt kleinere ontwikkelingen lastig. Het moet woonplekken opleveren en haalbaar zijn voor ontwikkelaar.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "49 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen meer sociale huur voor starters, gezinnen en mensen met een laag inkomen. 40% is een ambitie, geen starre norm voor ieder bouwproject. We kijken naar lokale behoefte en haalbaarheid, met een goede verdeling binnen gebieden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil meer woningen, niet meer bouwvoorschriften. Een verplichte ondergrens van 40% sociale huur beperkt eigendomsrecht en kan woningbouw bemoeilijken. Woningbouw moet aansluiten bij de daadwerkelijke vraag, niet bij opgelegde percentages.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "49 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén wil een evenwichtige verdeling van het woningaanbod. Gelet op het huidige aanbod doet het aandeel van 33% sociaal, 50% midden en 17% duur recht aan wat een evenwichtige verdeling is voor de komende jaren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Er is niet zozeer een woningtekort als wel een tekort aan echt betaalbare woningen. Vooral starters hebben vaak weinig aan (middel)dure huur of koop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "96 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De woningnood is extreem groot, er is vooral behoefte aan betaalbare woningen. Daarom zorgen wij dat bij de bouw van nieuwe woningen het de eis is, om minimaal 33 tot 40 procent sociale huur en 33 procent middenhuur of betaalbare koop te bouwen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "89 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Sociale huurwoningen zijn belangrijk om in voldoende betaalbare woningen te kunnen voorzien. Sociale huurwoningen moeten niet omgezet worden naar koopwoningen. Minimaal 40% van de huurwoningen zou sociale huur moeten zijn, ook bij nieuwbouw.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "61 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij vinden voldoende sociale huurwoningen belangrijk. Een aandeel van 40% kan daarbij passend zijn, maar het percentage hoeft niet voor iedere nieuwbouwlocatie hetzelfde te zijn. Lokale behoefte staat voorop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen het model van 40-40-20 invoeren. Bij nieuwbouw en bij het omzetten van gebouwen geldt: 40% sociale huur, 40% middel-dure huur en koop, en hoogstens 20% vrije sector. Met deze norm bouwen we niet alleen voor mensen met een dikke portemonnee.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "28 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij zijn tegen een vaste verplichting. Wij streven naar een evenwichtige mix van betaalbare, sociale en andere woningen. De exacte verdeling moet lokaal maatwerk zijn, aansluiten bij de behoefte en financieel uitvoerbaar blijven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "82 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Voor iedereen een betaalbare woning. Daarom wil Volt minimaal 40% sociale huurwoningen bij nieuwe woonwijken. Per project is maatwerk mogelijk, bijv. in kleine dorpskernen. Er moet ook ruimte zijn voor andere woonvormen, zoals een knarrenhof voor ouderen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "1 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Landelijk geldt een norm van 30% sociale huur. De VVD wil daar lokaal geen extra verplichting bovenop zetten. We willen ook voldoende betaalbare koopwoningen, zodat onze kinderen in Hilversum een woning kunnen vinden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente moet starters helpen een huis te kopen met een starterslening.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Hart voor Hilversum is voorstander van een pilot voor het verlenen van een starterslening!",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO is het hiermee eens omdat het een effectieve en veel gebruikte regeling is. Het biedt ook inwoners met een wat lager inkomen (waaronder jongeren) de kans een huis te kopen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Het is belangrijk dat we zoveel mogelijk starters helpen om aan een woning te komen, of dit nu een koop of huur is. Met de huidige huizenprijzen is het voor velen te moeilijk om in Hilversum een huis te kunnen kopen. Een starterslening kan daarbij helpen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "",
+    "herkomst": "Stemde voor in de raad"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "Het CDA diende deze motie in om starters meer mogelijkheden te geven om een woning te kopen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Het is voor jongeren steeds moeilijker om aan een huis te komen. Elke mogelijkheid die de gemeente of het rijk heeft om jongeren te helpen moet worden benut.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Starters die voldoende inkomen hebben, maar door de hoge koopprijzen net tekortkomen, verdienen een kans. Een starterslening kan helpen, mits de regeling financieel verantwoord, tijdelijk en toegankelijk wordt uitgevoerd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Starters verdienen een eerlijke kans op een eigen woning. Extra leningen lossen het woningtekort echter niet op en kunnen huizenprijzen en schulden verhogen. Wij kiezen daarom voor meer betaalbare starterswoningen in plaats van het stimuleren van extra schulden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Liever premiewoningen dan alleen een starterslening. De gemeente kan financieel bijdragen en voorwaarden stellen, zodat starters en lokale inwoners betaalbaar een huis kunnen kopen. Zo houden we woningen bereikbaar voor mensen uit onze eigen dorpen en buurten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Wij gunnen onze jongeren een eerlijke kans om in hun eigen vertrouwde gemeente een toekomst op te bouwen. Met een starterslening geven we ze net dat broodnodige, extra duwtje in de rug om hun eerste droomhuis te kunnen kopen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "Momenteel is het in de gemeente heel moeilijk om als starter aan een koopwoning te komen. PvdD wil (nieuwbouw)woningen die betaalbaar zijn, ook voor starters. Een starterslening kan hierbij helpen, maar er zouden ook nadelen kunnen zijn, zoals te hoge lasten of een (indirect) prijsopdrijvend effect.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Een starterslening is een mooie stap om een woning te kunnen kopen. Een lening voor alle leeftijden met een laag inkomen. Een revolverend fonds lijkt mij de beste oplossing. Ook kleine leningen voor de eigen bijdrage die mensen moeten doen (tot €10.000) zouden wenselijk zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Starters hebben meer woningen nodig, geen gemeente die voor bank speelt. LFD wil bouwen makkelijker maken, vergunningen versnellen en woningsplitsing toestaan. Zo pakken we het woningtekort aan, zonder extra financiële risico's voor de belastingbetaler.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We steunen experimenten waarbij de gemeente starters een korting geeft op de koopprijs van een woning, zoals de Starterslening en vergelijkbare regelingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Een starterslening lost het woningtekort niet op en kan starters met hogere schulden opzadelen. Wij zetten liever in op meer betaalbare woningen, zodat starters daadwerkelijk een kans krijgen op een eigen huis.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "BBB wil dat starters in hun eigen gemeente kunnen blijven wonen. Een starterslening helpt om de eerste koopwoning te bereiken. Wel moeten de financiële risico's voor de gemeente beheersbaar blijven en heeft het pas echt effect als er ook voldoende betaalbare huizen worden gebouwd.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Vluchtelingen met een verblijfsvergunning (statushouders) moeten voorrang houden bij een sociale huurwoning.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Wij vinden dit geen eerlijke verdeling en het is onrechtvaardig voor mensen die al jaren op een wachtlijst staan. Het grootste probleem is dat kinderen gedwongen worden om veel te lang bij hun ouders thuis te blijven wonen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Zonder deze voorrangsregeling zijn de kansen op een reguliere woning voor statushouders gering en moeten zij (te) lang in een AZC verblijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Mensen die vluchten voor oorlog en geweld verdienen bescherming. D66 wil woonruimte voor iedereen, ook voor statushouders, en inburgering vanaf dag één, zodat ze snel mee kunnen doen in de buurt waar ze wonen. Dit betekent dat de huidige regeling nog nodig blijft.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Het CDA Hilversum wil vooral de mogelijkheden benutten om inwoners met lokale binding te behouden voor onze gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "Lokaal Eén wil vooruitlopend op wetgeving de voorrangsregeling voor statushouders omzetten naar reguliere urgentieregeling met bemiddeling. Zo houden we de kansen voor allen die met spoed recht hebben op een sociale huurwoning gelijk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "De SP vindt dat statushouders niet puur vanwege hun status voorrang moeten krijgen op andere woningzoekenden die vaak ook al jaren op een wachtlijst staan. Er moeten gewoon veel meer betaalbare woningen bijkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "We moeten hierin gewoon de landelijke regels volgen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Statushouders mogen geen automatische voorrang krijgen boven inwoners die soms al jaren op een woning wachten. Dezelfde heldere en eerlijke regels moeten voor alle woningzoekenden gelden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen binnen de wettelijke mogelijkheden voorrang geven aan woningzoekenden met een sterke binding met Hilversum. Ook werkende of studerende statushouders kunnen hiervoor in aanmerking komen, evenals gezinnen met minderjarige kinderen die hier al verblijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Woningen zijn schaars. Ook andere spoedzoekers na bijvoorbeeld een scheiding zoeken woonruimte.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners van onze dorpen en buurten moeten voorrang krijgen bij sociale huurwoningen in hun eigen omgeving. De achterstelling van de huidige bevolking moet stoppen: wie hier woont, werkt en een leven heeft opgebouwd, verdient een eerlijke kans op een woning.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Wij staan voor een eerlijke, transparante woningmarkt. Voorrang krijg je bij ons op basis van medische of sociale urgentie, waarbij dezelfde regels voor iedereen gelden. Een verblijfsstatus is op zichzelf geen reden om iemand die al lang wacht te passeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Hilversum blijft zich onverminderd inzetten om te voldoen aan de taakstelling huisvesting statushouders.”",
+    "herkomst": "Verkiezingsprogramma, p. 43"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Dit zorgt voor een oneerlijke verdeling. Er zijn zoveel spoedzoekers, urgenten en dak- en thuislozen die geen woning krijgen dat je dit niet meer kan verantwoorden, ook niet voor mensen die al jaren wachten op een woning. Gewoon net als ieder ander wachten tot je aan de beurt bent.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Een verblijfsvergunning mag geen automatisch voorrangsbewijs voor een sociale huurwoning zijn. LFD staat voor gelijke behandeling van woningzoekenden. Wie al jarenlang op een woning wacht, mag niet telkens achteraan aansluiten. Het woningtekort lossen we op door meer woningen mogelijk te maken, niet [door voorrang voor bepaalde groepen].",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We gaan 6.500 woningen realiseren voor 2040. Hiervan gaat een zeer klein aantal woningen naar statushouders.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen voorrang voor kerngebonden inwoners, dus Hilversummers en Wijdemeerders. Wij willen geen automatische voorrang voor statushouders bij sociale huurwoningen. Woningzoekenden moeten op basis van duidelijke en gelijke regels worden behandeld, met ruimte voor wettelijk geregelde urgentie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "BBB vindt de automatische voorrang voor statushouders op de krappe woningmarkt onrechtvaardig tegenover inwoners die al jaren op een wachtlijst staan. Woningen moeten in de eerste plaats worden toegewezen aan mensen uit de eigen gemeente met een sterke lokale binding.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Op enkele plekken, zoals het centrum van de Meent, mag bij uitzondering tot 25 meter hoog worden gebouwd.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Hart voor Hilversum wil wel de hoogte in, maar dan afhankelijk van omliggende gebouwen zoals elders in Hilversum. In de Meent is dit dus niet het geval; deze optie is dus niet van toepassing in de Meent.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO onderzoekt per locatie zorgvuldig de mogelijkheden voor hoogbouw. In de buurt van OV-knooppunten sluiten we hoger bouwen niet uit.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "We hebben meer woningen nodig, vooral voor starters en kleine huishoudens. Hoogbouw kan op plekken waar het past. Zo bouwen we meer woningen op minder grond en houden we ruimte voor groen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„In het centrum en bij de stations bouwen we hoger waar dat past.”",
+    "herkomst": "Verkiezingsprogramma, p. 5"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Het CDA koestert het illusielandschap. Tegelijkertijd zijn er plekken waar hogere bouw mogelijk is zonder hieraan af te doen. Daar hebben we gesproken over een piramidemodel: hoger in het centrum, lager daarbuiten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Nieuwbouw past bij de omgeving. Hoogbouw (hoger dan drie woonlagen) in het buitengebied blijft voor Lokaal Eén een uitzondering. Het illusielandschap wordt in stand gehouden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Als we mensen de mogelijkheid willen bieden om in De Meent te blijven wonen zullen we hier iets de hoogte in moeten gaan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Op geschikte locaties kan hoger bouwen extra woningen opleveren zonder groen op te offeren. Dat moet per locatie worden beoordeeld, passend bij de omgeving en met aandacht voor bereikbaarheid en parkeerplaatsen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "We willen meer betaalbare woningen voor starters, gezinnen en ouderen. Hoger bouwen kan op geschikte locaties bijdragen aan de woningopgave, mits het past bij de omgeving en niet ten koste gaat van waardevol openbaar groen, leefbaarheid en noodzakelijke voorzieningen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "In de Meent past geen hoogbouw. Hoger dan Meentzicht 1 is echt niet nodig. Beter bouwen voor doorstroom, zodat ouderen gelijkvloers kunnen wonen in hun geliefde wijk, en de eengezinswoningen vrijkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "Alleen bij een meerderheid van twee derde mag hiervan worden afgeweken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Om de ruimte slim te benutten én ons mooie groen te behouden, is bouwen in de hoogte op geschikte plekken een geweldige oplossing. Zo realiseren we extra, hard nodige woningen zonder dat we de omgeving extra belasten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "Hoogbouw kan een oplossing zijn voor zowel de huidige woningnood als meer vergroening. De leefbaarheid mag evenwel niet in het gedrang komen; hoogbouw moet passen in de omgeving en voorzien zijn van minimaal één groene gevel. Bij een hoogte van 25 komt inpasbaarheid mogelijk wel in het geding.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Wat is het nut van grenzen stellen als men daar elke keer aan tornt?! Al die megabouwprojecten zijn helemaal niet nodig. De woningnood wordt misbruikt om maar meer te mogen bouwen. Wonen gaat veel verder dan stenen bouwen; daar zit veel meer nuance in en er zijn genoeg andere oplossingen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Waar ruimte schaars is, kan kwalitatieve hoogbouw een oplossing zijn. LFD wil geen onnodige bouwbeperkingen. Ook in de Meent moet maatwerk mogelijk zijn, met respect voor eigendomsrechten, de omgeving en omwonenden. Niet de hoogte op zichzelf, maar de kwaliteit van het bouwplan moet doorslaggevend z[ijn].",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We zijn voor hoogbouw op locaties waar voorzieningen zijn, waaronder openbaar vervoer.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "neutraal",
+    "toelichting": "Wij beoordelen hoogbouw per locatie. Betaalbare woningen zijn nodig, maar het karakter van de wijk, de bereikbaarheid, parkeerruimte en leefbaarheid moeten behouden blijven. Hoogbouw is geen doel op zich.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "neutraal",
+    "toelichting": "Hoogbouw kan ruimte besparen, maar mag nooit ten koste gaan van de leefbaarheid en het lokaal karakter van een wijk. BBB wil per locatie maatwerk, waarbij het draagvlak onder omwonenden doorslaggevend is bij eventuele uitzonderingen op de bouwhoogte.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Kantoren en bedrijfsruimtes mogen alleen woningen worden als er elders ruimte voor werk bijkomt.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "E.e.a. is afhankelijk van de locatie en het soort object. Hier dient maatwerk plaats te vinden; er moet tevens gekeken worden naar de afname van de vraag naar kantoorruimte als gevolg van AI.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Extra woningen op bedrijventerreinen en in bestaande gebouwen zijn welkom, zolang het aantal vierkante meters voor bedrijven niet afneemt. Zo houden we een goede mix van wonen en werken, bijvoorbeeld bij het Mediapark.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "„Op bedrijventerreinen gaat werk vóór wonen, omdat ruimte voor werk zorgt voor banen, levendigheid en groeiende inkomsten voor de gemeente.”",
+    "herkomst": "Verkiezingsprogramma, p. 14"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Een recent rapport laat zien dat er voldoende kantoorgelegenheid is in Hilversum; er zijn daarmee meer mogelijkheden om zowel voldoende banen te behouden als woningen te bouwen op interessante locaties.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Behoud van industrieterreinen: Lokaal Eén is geen voorstander van het terugdringen van industrieparken. Relocatie of vermenging van productiviteit met wonen zal per locatie bezien worden. Nieuwe kantoorruimte wordt uitsluitend gerealiseerd op basis van gedegen onderzoek en werkelijke marktbehoefte, om leefbaarheid te borgen en leegstand te voorkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "Per geval moet er bekeken worden of je kantoren mag omzetten naar woningen. Niet altijd hoeft er dan werkruimte bij te komen. Hilversum moet goed kijken welke invloed hybride werken heeft op de vraag naar kantoorpanden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "We willen de transformatie bevorderen en dus niet te veel aanvullende regels opleggen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Leegstaande kantoren moeten snel tot woningen kunnen worden omgebouwd. Behoud ruimte voor werk waar die aantoonbaar nodig is, maar voorkom starre compensatieregels die woningbouw onnodig vertragen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wonen en werken moeten in balans blijven. Wij zijn tegen een algemene verplichting om bij iedere omzetting van bedrijfsruimte naar woningen elders evenveel werkruimte toe te voegen. Per locatie beoordelen we wat nodig is voor ondernemers en woningzoekenden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "De woningnood mag niet worden gekoppeld aan bedrijfsruimte. Het omzetten van kantoren en bedrijfsruimtes naar woningen moet mogelijk blijven, zonder dat daar elders extra bedrijfsruimte tegenover hoeft te staan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Ondernemers zijn de motor van onze gemeente! We toveren leegstaande panden graag om tot prachtige woningen, maar we zorgen er altijd voor dat er voldoende ruimte en aantrekkelijke alternatieven overblijven voor onze lokale ondernemers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "tegen",
+    "toelichting": "„De eerste trede van de woonladder houdt in dat we bestaande bebouwing slimmer benutten, bijvoorbeeld door het transformeren van kantoorpanden, het aanpakken van leegstand en het stimuleren van doorstroming.”",
+    "herkomst": "Verkiezingsprogramma, p. 43"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Hoe meer mensen, hoe meer voorzieningen en bedrijfsruimte er nodig zijn. Behoud van maatschappelijke en bedrijfsbestemmingen is belangrijk. Je wilt geen slapende woonstad/dorp worden zonder bedrijvigheid. Meer mogelijkheden voor gemengde functies van wonen en werken. Meer leef- en woongemeenschappen",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Leegstaande kantoren en bedrijfspanden kunnen prima worden omgebouwd tot woningen. Waarom zou een eigenaar eerst ergens anders bedrijfsruimte moeten compenseren? LFD wil minder regels, snellere vergunningen en meer vrijheid om bestaande gebouwen een nieuwe bestemming te geven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "Kantoorgebouwen die niet meer worden gebruikt bouwen we om naar woningen. Als een kantoorgebouw wel wordt gebruikt, dan bouwen we hem niet om.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Geen banen opofferen voor wonen. Leegstaande kantoren kunnen kansen bieden voor woningen, maar niet ten koste van noodzakelijke bedrijfsruimte en werkgelegenheid. Wonen en ondernemen moeten in onze gemeente allebei mogelijk blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "neutraal",
+    "toelichting": "BBB vindt het behoud van lokale werkgelegenheid en bedrijfsruimte cruciaal. Wel maakt BBB een uitzondering voor specifieke locaties, zoals kantoorpanden die als opvang dienen: die moeten wat ons betreft definitief als woning benut kunnen blijven.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Het plan Bruisend Hart voor het Oosterspoorplein moet doorgaan zoals de raad het heeft vastgesteld.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Mogelijk qua financiering is temporisering noodzakelijk en de participatie is ook nog niet afgerond. Er zijn nog te veel zorgen van de inwoners, die dienen allereerst te worden weggenomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Wij zijn voor het plan Bruisend Hart voor het Oosterspoorplein in Hilversum waar mensen (straks) graag reizen, wonen, werken en verblijven in een groene en veilige omgeving.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "neutraal",
+    "toelichting": "Lopende gebiedsontwikkelingen zoals Bruisend Hart lopen al lang. D66 wil tempo maken, ook al betekent dat keuzes maken: sommige ontwikkelingen komen mogelijk later aan de beurt. Plannen met meer woningen hebben prioriteit.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "„De grote investeringen Bruisend Hart (Oosterspoorplein) en de Hilversumse Meent worden uitgesteld omdat we die nu niet kunnen betalen.”",
+    "herkomst": "Verkiezingsprogramma, p. 29"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "Bruisend Hart is een van de weinige gebieden waar woningen en winkels gerealiseerd kunnen worden en die de leefbaarheid in dit deel van Hilversum ten goede kan komen. Nu stoppen met de ontwikkeling leidt tot hoge kosten en verder oplopen van de woningnood.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Dit is een democratisch genomen besluit, Lokaal Eén gaat dat niet terugdraaien. Wel vinden wij het van groot belang dat er ruim aandacht voor vergroening is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen hier meer sociale huur. Ook vinden wij dat er nu heel veel in Hilversum-Oost wordt gepland. De SP wil meer spreiding zodat ook in minder versteende wijken woningen worden toegevoegd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "De ontwikkeling kan doorgaan, maar kosten, bereikbaarheid, parkeren en risico’s moeten scherp worden bewaakt. Voorkom dat het project uitgroeit tot een onbetaalbaar prestigeproject waarvoor inwoners later de rekening betalen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Wij steunen de uitvoering van het vastgestelde plan Bruisend Hart voor het Oosterspoorplein. Daarbij bewaken we de kosten, bereikbaarheid en leefbaarheid en blijven we omwonenden en ondernemers betrekken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "neutraal",
+    "toelichting": "Stoppen is niet meer realistisch. DvD wil daarom kijken hoe het vervolg zo verstandig, betaalbaar en in het belang van inwoners kan worden uitgevoerd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "neutraal",
+    "toelichting": "Een mooi stationsgebied is belangrijk, maar wel met verstand! Voordat de eerste steen gelegd wordt, kijken we kritisch naar de kosten en alternatieven. Mega-projecten mogen nooit een bodemloze put worden die ten koste gaat van de dagelijkse basisvoorzieningen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "PvdD kiest bij een begrotingstekort voor het beschermen van kwetsbaren en sociale voorzieningen. Er moet dan ook ruimte blijven om het plan Bruisend Hart bij te stellen als de kosten te hoog blijken en groene en sociale voorzieningen onder druk zetten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Het plan doet totale afbreuk aan het voorliggende participatietraject van 1221 waar heel veel partijen samen een mooie toekomstvisie hebben ontwikkeld. Weggegooid geld en energie aangezien er nu heel andere megalomane plannen liggen. Terug naar de tekentafel vanuit de oorspronkelijke visie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "LFD steunt de verdere ontwikkeling van Bruisend Hart, maar niet tegen elke prijs. Nu het project nog moet worden uitgevoerd, moeten kosten, planning en gevolgen voor inwoners en ondernemers kritisch worden bewaakt. Wijzigingen vragen een nieuwe afweging.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Oosterspoorplein is één van de weinige plekken waar bouw op dezelfde hoogte van de panden naast het stationsgebouw kan plaatsvinden zonder landschappelijke verstoring. Dat kan meer woningen opleveren dan het huidige plan. FvD kiest voor binnenstedelijke woningen in plaats van in het groen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "neutraal",
+    "toelichting": "De ontwikkeling van het stationsgebied is belangrijk voor extra woningen, maar de hoge kosten en risico's vragen om voorzichtigheid. BBB wil dat het plan kritisch wordt heroverwogen op betaalbaarheid en haalbaarheid, zonder dat de lokale belastingbetaler opdraait voor tekorten.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "hilversumsnieuws",
+  "stelling": "Hilversum moet desnoods groen opofferen om woningnood aan te pakken",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "In principe wordt groen niet opgeofferd voor woningbouw. Tenzij de mogelijkheden er zijn om een goede compensatie te realiseren. Daarom vinden wij dat de mogelijkheden onderzocht moeten worden voor woningbouw in Nederhorst Noord. Aangewezen als weidevogel-leefgebied, maar functioneert niet als zodanig omdat het gebied er niet geschikt voor is. Als woningbouw hier kan, kunnen we ergens anders een gebied inrichten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "pro": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De woningnood is enorm. Daar kunnen we de ogen niet voor sluiten. We zetten in op verdichting en hoogbouw waar dat kan, met parkeren zoveel mogelijk onder de grond. Hierdoor ontstaat er meer ruimte voor groen waar het eerder versteend was. We gaan door met projecten zoals het Media Park en Arenapark. We kijken naar andere mogelijkheden om te…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "d66": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Liever niet, we willen zeker niet bouwen op de hei of in de natuur. De woningnood is echter enorm, dus we kijken slim wat wel kan. Dit kunnen ook tijdelijke woningen zijn. We zien vooral kansen waar al bebouwing is en we willen versteende wijken juist groener maken. Dat kan bijvoorbeeld door in bestaande straten een verdieping hoger te…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "vvd": {
+    "antwoord": "Eens, maar niet op grote schaal",
+    "toelichting": "Eens, maar niet op grote schaal. We ‘vechten’ allemaal om dezelfde schaarse ruimte. Voor de energietransitie, voor mobiliteit en zeker voor wonen. Wat de VVD betreft mag dat, als het echt niet anders kan, soms best ten koste gaan van een paar bomen, maar we willen ook niet gaan bouwen op de hei. Het blijft altijd een lastige keuze, maar…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "cda": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De natuur om ons heen maakt Hilversum een unieke plek om te wonen, dat moeten we niet opgeven. De komende jaren worden er 3.000 woningen gebouwd en daarbij is het belangrijk om voorrang te geven aan onze inwoners. Aan de mensen die nu al in de wijken en dorpen wonen. Een vitale gemeenschap is het doel, bouwen is een…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "lokaal-een": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Lokaal Eén wil de identiteit van de dorpslandschappen en open zichtlijnen behouden. Wel kan woonruimte toegevoegd worden door schuren tot woonruimte om te bouwen en boerderijen te splitsen in meerdere woningen. Eigen bouwontwikkelingen op erven worden per locatie bezien, we zijn hierbij ook afhankelijk van de medewerking van de Provincie. In buurten en wijken dient juist vergroend te worden, niet…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "sp": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Dankzij een voorstel van de SP in 2024 mag er in de meest versteende wijken in Hilversum geen groen meer verdwijnen. Hoewel Hilversum een tuinstad is zijn de verschillen tussen de diverse wijken enorm. De woningnood is inmiddels zo hoog dat de SP voorstelt om op een deel van het Heksenweitje, aan de rand van het Media Park, betaalbare…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "christenunie": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De woningnood is groot. Daarom wil de ChristenUnie snel meer betaalbare woningen. Dat mag alleen niet ten koste gaan van onze waardevolle natuur en groene leefomgeving. We willen juist meer groen in onze wijken en dorpen! We kiezen daarom voor slimme oplossingen: hoger bouwen waar het kan, bijvoorbeeld bij OV-knooppunten, leegstaande gebouwen benutten en bestaande woningen uitbreiden. Buiten de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "bvnl": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Hilversum heeft woningen nodig, maar groen opofferen is niet de eerste oplossing. Snellere procedures, minder regels, transformatie van leegstaand vastgoed en ruimte voor particuliere initiatieven bieden kansen. Bouwen én groen behouden kan samengaan wanneer de gemeente slimme keuzes maakt.",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "scb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Woningbouw staat bij ons hoog in het vaandel. We willen bouwen naar de lokale behoefte. Hierbij vinden wij dat we eerst slim moeten kijken naar de mogelijkheden binnen de bestaande bebouwde kom. Denk aan passende hoogbouw, het beter benutten van bestaande locaties en renovatie waar dat kansen biedt. Zo kunnen we meer woningen realiseren, met oog voor de leefbaarheid van…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "Eens",
+    "toelichting": "Eens Gewoon, Hilversum vindt dat er soms echt plekken zijn waar, met name snippergroen of waar al best veel groen is, ook ruimte moet kunnen zijn voor het toevoegen van woningen.",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Dorp voor Dorp vindt dat het woningbouwbeleid te veel gericht is op bouwen binnen bestaande dorpen en steden. De partij wil de zogenoemde rode lijn loslaten en ook verantwoorde uitbreiding aan de randen mogelijk maken, zodat er ruimte komt voor woningen, groen en leefbaarheid. Volgens DvD leidt uitsluitend binnenstedelijk bouwen tot meer hoogbouw, hogere grondprijzen en parkeerproblemen. De partij wil…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens . Natuur en wonen zijn geen tegenstanders. Wij benutten eerst de bestaande ruimte beter. Transformatie van leegstaande kantoren, wonen boven winkels en woningsplitsing maken we veel eenvoudiger. Bij nieuwbouw nemen we groen direct vanaf het begin mee en kijken we niet pas achteraf wat er nog overblijft. Is een ingreep in de natuur toch onvermijdelijk? Dan eisen we tijdige…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "opstand-nu": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Te simpel gedacht. Hoe meer inwoners, hoe meer voorzieningen én groen we nodig hebben. Als we dan toch wat groen opofferen, kijk dan naar onbenutte percelen, soms nog van de gemeente zelf zoals het Heksenweitje op Trompenberg. Dat hoef je niet vol te bouwen, maar daar is nog wel ruimte in het groen. Of kijk in Wijdemeren naar landbouwgrond. Er…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "pvdd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De Partij voor de Dieren wil niet bouwen in het groen. Hilversum en Wijdemeren zijn prachtig gelegen in de natuur. Die natuur moeten we koesteren, voor de dieren die daar wonen, en voor onszelf. De PvdD wil extra woonruimte zo veel mogelijk binnen de bebouwde kom creëren, bijvoorbeeld door leegstaande bedrijfspanden om te zetten in woonplekken en door splitsing van…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Alleen onder bepaalde voorwaarden. Die groene ruimte gebruiken voor kleine woon- en werkinitiatieven die samenleven met de natuur, hier goed voor zorgen en de biodiversiteit vergroten. Geen grote woonwijken maar kleine initiatieven waarbij groen overheerst en het wonen een kleine footprint heeft. Alleen voor tijdelijke flexibele woonplekken op wielen of makkelijk verplaatsbaar zijn, zodat het bodemleven zo min mogelijk…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "lfd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De woningnood is groot, maar groen opofferen is niet automatisch de oplossing. LFD wil de woningmarkt in beweging brengen door onnodige regels te schrappen, procedures te versnellen en bestaande gebouwen beter te benutten. Denk aan woningsplitsing, optoppen, woningdelen en het ombouwen van leegstaande kantoren. Waar ruimte schaars is, kan kwalitatieve hoogbouw uitkomst bieden. Groen verdient goed beheer en bescherming waar…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "volt": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Volt zegt nee tegen de keuze tussen wonen en groen. Bouwen kan binnen de wijken die er al zijn: op lege plekken, bovenop bestaande gebouwen en in leegstaande kantoren. Voor nieuwe woningen kijken we naar Vliegveld Hilversum. Op de vrijkomende grond van ruim 50 hectare komt driekwart nieuwe natuur, en aan de rand minstens 1.500 woningen midden in de natuur.…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "fvd": {
+    "antwoord": "Nee",
+    "toelichting": "Nee. Er zijn nog nooit zoveel huizen in Hilversum geweest als er nu zijn. Het tekort komt door de instroom van immigranten, de inheemse bevolking neemt al sinds 2000 af. Die immigranten doen nagenoeg allemaal een beroep op gesubsidieerde huur. Daardoor worden de wachtlijsten voor starters veel langer. Waardoor starters op de markt voor goedkope koop terechtkomen. Waar het aanbod…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   },
+   "bbb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Om de lokale woningnood aan te pakken moeten we kijken waar maatwerk mogelijk is, zoals een ‘straatje erbij’ of de ontwikkeling van locatie Nederhorst Noord. De provincie biedt hiervoor de ruimte en opties, maar de gemeente heeft hier niets mee gedaan. BBB wil deze kansen wél benutten en wil doorpakken. Uiteraard met een zorgvuldige afweging waarbij het karakter en de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (22 okt 2026)"
+   }
+  }
+ },
+ {
+  "bron": "overig",
+  "stelling": "Woondebat stelling 2: woningen bijbouwen binnen de stad (verdichten, hogere bouwhoogtes) of aan de randen (verbreden)",
+  "antwoorden": {
+   "dorp-voor-dorp": {
+    "antwoord": "voor bouwen aan de randen",
+    "toelichting": "Met verdichten pers je alle lucht uit de stad of het dorp. Niet tegen alle natuur opofferen; kraakt het idee dat door beschermde status niets mogelijk is.",
+    "herkomst": "verslag Hilversums Nieuws (Stefan van Hees) van het Woondebat Kies voor Wonen, 3 nov 2026; positie genoemd in verslag, geen eigen antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor bouwen aan de randen",
+    "toelichting": "Aan de randen is juist veel ruimte. (Genoemd als 'Lijst 16' / Jacqueline van Oostveen.)",
+    "herkomst": "verslag Hilversums Nieuws (Stefan van Hees) van het Woondebat Kies voor Wonen, 3 nov 2026; positie genoemd in verslag, geen eigen antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "overig",
+  "stelling": "Woondebat stelling 3: vrijkomende sociale huurwoningen toewijzen aan eigen inwoners of ook aan mensen van buiten de regio",
+  "antwoorden": {
+   "d66": {
+    "antwoord": "ook mensen van buiten (tweede optie)",
+    "toelichting": "",
+    "herkomst": "verslag Hilversums Nieuws (Stefan van Hees) van het Woondebat Kies voor Wonen, 3 nov 2026; positie genoemd in verslag, geen eigen antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "ook mensen van buiten (tweede optie)",
+    "toelichting": "",
+    "herkomst": "verslag Hilversums Nieuws (Stefan van Hees) van het Woondebat Kies voor Wonen, 3 nov 2026; positie genoemd in verslag, geen eigen antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "overig",
+  "stelling": "Woondebat stelling 4: grote sociale huurwoningen alleen aan grote huishoudens en kleine aan kleine, of iedereen in elke woning ongeacht huishoudgrootte",
+  "antwoorden": {
+   "dorp-voor-dorp": {
+    "antwoord": "iedereen in elke woning (tweede optie; afwijkend van de meeste partijen)",
+    "toelichting": "",
+    "herkomst": "verslag Hilversums Nieuws (Stefan van Hees) van het Woondebat Kies voor Wonen, 3 nov 2026; positie genoemd in verslag, geen eigen antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "iedereen in elke woning (tweede optie; afwijkend van de meeste partijen)",
+    "toelichting": "Voorbeeld genoemd: gescheiden ouders waarbij de vader op papier alleen woont maar regelmatig de kinderen ontvangt; een eenpersoonswoning is dan te klein.",
+    "herkomst": "verslag Hilversums Nieuws (Stefan van Hees) van het Woondebat Kies voor Wonen, 3 nov 2026; positie genoemd in verslag, geen eigen antwoord van de partij"
+   }
+  }
+ }
+]

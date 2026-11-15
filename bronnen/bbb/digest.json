@@ -1,0 +1,895 @@
+{
+  "slug": "bbb",
+  "kernboodschap": "BBB Hilversum doet voor het eerst mee en zet in op leefbare dorpen en wijken, minder regels en meer vertrouwen in inwoners, ondernemers en boeren. De partij was tegen de fusie en wil dat de dorpen van Wijdemeren eigen identiteit, voorzieningen en zeggenschap behouden. Verder wil ze eerst woningen voor eigen inwoners, geen windturbines, lage lasten en leges, en toegankelijke natuur.",
+  "speerpunten": [
+    "Sterke dorpen: steun voor verenigingen, vrijwilligers en evenementen, lage heffingen en leges voor ondernemers en lokale evenementen",
+    "Wijdemeren niet laten opgaan in Hilversum: servicepunt, dorpsbudgetten, wethouder voor de dorpen en het buitengebied, fusietoets",
+    "Betaalbaar wonen met eerst ruimte voor eigen inwoners, meer woningen voor starters en jonge gezinnen, extra seniorenwoningen",
+    "Betrouwbaar bestuur: echte participatie vooraf, open informatie en verantwoording over wat met input is gedaan",
+    "Landschap beschermen: geen windturbines of zonneparken, bossen en heide toegankelijk houden, ruimte voor boeren",
+    "Geen betaald parkeren in woonwijken en winkelgebieden; eerst de basis op orde voor prestigeprojecten",
+    "Statushouders geen voorrang bij woningtoewijzing en intrekking van de Spreidingswet"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "voorrang eigen inwoners",
+        "standpunt": "Woningen gaan in eerste instantie naar mensen met een sterke lokale binding, bij sociale huur en bij de verkoop van nieuwbouwprojecten.",
+        "citaat": "Woningen worden in eerste instantie toegewezen aan mensen met een sterke lokale binding",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang statushouders",
+        "standpunt": "De partij wil de Huisvestingswet uit 2014 inzetten zodat statushouders geen voorrang krijgen bij de toewijzing van woningen.",
+        "citaat": "BBB Hilversum zet de Huisvestingswet uit 2014 in om ervoor te zorgen dat statushouders geen voorrang krijgen bij de toewijzing van woningen.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Nederhorst Noord",
+        "standpunt": "De locatie Nederhorst Noord moet zo snel mogelijk worden onderzocht als woningbouwlocatie en de voortgang gestimuleerd.",
+        "citaat": "In het kader van woningbouw willen we de locatie Nederhorst Noord zo spoedig mogelijk onderzoeken en voortgang stimuleren.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bouwen passend bij de buurt (Ter Sype, Zuidsingel, De Rading)",
+        "standpunt": "Nieuwe woningen moeten passen bij schaal, karakter en behoefte van buurt of dorpskern; als goede voorbeelden noemt de partij Nederhorst Noord, Ter Sype, Zuidsingel fase 8 en herbestemming van het voormalige gemeentehuis aan de Rading.",
+        "citaat": "Mooie voorbeelden zijn Nederhorst Noord, Ter Sype, Zuidsingel fase 8 en het herbestemmen van het voormalige gemeentehuis aan de Rading.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voormalig gemeentehuis Wijdemeren",
+        "standpunt": "Het voormalige gemeentehuis van Wijdemeren wordt herbestemd voor starters en ouderen uit de gemeente, zodra dat juridisch mogelijk is.",
+        "citaat": "Het voormalige gemeentehuis van Wijdemeren moet, zodra het juridisch mogelijk is, worden herbestemd voor starters en ouderen uit onze gemeente.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mix koop, middenhuur en sociale huur",
+        "standpunt": "De partij streeft naar een goede mix van koop, middenhuur en sociale huur, zonder percentages te noemen.",
+        "citaat": "We streven naar een goede mix van koopwoningen, middenhuur en sociale huur.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "versnellen woningbouw",
+        "standpunt": "Meer en sneller bouwen via snellere en eenvoudigere vergunningen, prioriteit voor bezwaarprocedures en fabrieksmatige woningbouw.",
+        "citaat": "We zetten in op fabrieksmatige woning­bouw om te versnellen.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "samenwerking met provincie",
+        "standpunt": "De gemeente moet actiever het gesprek met de provincie aangaan om lokale woningbouwinitiatieven van de grond te krijgen.",
+        "citaat": "Betere samenwerking tussen gemeente en provincie; de provincie is geen obstakel, maar een partner.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "splitsen, mantelzorg- en familiewoningen",
+        "standpunt": "Woningen splitsen waar verantwoord, familie- en mantelzorgwoningen mogelijk maken (via een meldplicht, naar voorbeeld van Ronde Venen) en leegstaande agrarische bedrijfsgebouwen benutten.",
+        "citaat": "De BBB wil binnen de wettelijke kaders mantelzorgwoningen moge­lijk maken via een meldplicht, naar het voorbeeld van andere gemeenten als Ronde Venen.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ouderenwoningen en doorstroming",
+        "standpunt": "Voldoende ouderenwoningen, kleinschalige woon-zorgcentra en kangoeroe- en mantelzorgwoningen in de buurt; extra seniorenwoningen, ook door particuliere initiatieven, voor betere doorstroming.",
+        "citaat": "Extra seniorenwoningen, ook door particuliere initiatieven, voor betere doorstroming.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "leegstand",
+        "standpunt": "De Leegstandswet actief handhaven en langdurige leegstand van woningen en panden niet accepteren.",
+        "citaat": "BBB wil de Leegstandswet actief handhaven en langdurige leegstand niet accepteren.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "permanente bewoning vakantieparken",
+        "standpunt": "Permanente bewoning van vakantieparken onder voorwaarden mogelijk maken waar dat juridisch, ruimtelijk en veiligheidsmatig verantwoord is, met behoud van het recreatieve karakter.",
+        "citaat": "BBB wil permanente bewoning onder goede voorwaarden mogelijk maken waar dat juridisch, ruimtelijk en veiligheidsmatig verantwoord is.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wonen op het boerenerf",
+        "standpunt": "Als een agrariër vrijwillig oude stallen verwijdert, moet de gemeente ruimte bieden om in ruil passende woonruimte (jongeren- en ouderenwoningen) te realiseren.",
+        "citaat": "Wanneer een agrariër vrijwillig oude stallen verwijdert, moet de gemeente ruimte bieden om in ruil daarvoor passende woonruimte te realiseren",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tijdelijke woningen De Kwakel, Philipslocatie, Kerklaan Kortenhoef",
+        "standpunt": "Tijdelijke woningen voor Oekraïense vluchtelingen (zoals De Kwakel) blijven zoveel mogelijk behouden voor lokale woningzoekenden; tijdelijk omgevormde kantoren (Philipslocatie, Kerklaan in Kortenhoef) krijgen blijvend een woonbestemming.",
+        "citaat": "Goed gebouwde woningen die voor Oekraïense vluchtelingen of andere tijdelijke doeleinden zijn gerealiseerd, zoals op De Kwakel, moeten zoveel mogelijk behouden blijven voor lokale woningzoekenden.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren",
+        "standpunt": "Parkeerheffingen alleen in het centrum waar sturing bij hoge parkeerdruk noodzakelijk is; verzet tegen uitbreiding naar woonwijken en winkelgebieden, en inzet op het terugdringen ervan.",
+        "citaat": "Parkeerheffingen mogen uitsluitend worden ingezet in het centrum op locaties waar sturing bij hoge parkeerdruk echt noodzakelijk is",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zebrapaden Gijsbrecht van Amstelstraat",
+        "standpunt": "Bij knelpunten zoals het ontbrekende zebrapad op de Gijsbrecht geen nieuw langdurig onderzoek maar direct beproefde oplossingen terugbrengen.",
+        "citaat": "zoals het ontbreken van zebrapaden op de Gijsbrecht waardoor ouderen de straat mijden, moet de gemeente niet opnieuw geld verdoen aan langdurige onderzoeken",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mobiliteitsvisie fusiegemeente",
+        "standpunt": "Een mobiliteitsvisie met sterke bereikbaarheid tussen Hilversum en de dorpen, betrouwbaar openbaar vervoer in avond en weekend, veilige doorgang voor landbouwverkeer en vlot vaarverkeer, en bereikbaarheid van winkels en hulpdiensten.",
+        "citaat": "betrouwbaar openbaar vervoer in de avond en het weekend, veilige doorgang voor landbouw- en vlot vaarverkeer",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "verkeersveiligheid",
+        "standpunt": "Verkeersveiligheid heeft prioriteit, vooral voor kinderen, ouderen en fietsers: veilige oversteekplaatsen, goede fietspaden en verkeersvertragende maatregelen waar nodig.",
+        "citaat": "BBB maakt van verkeersveiligheid een prioriteit, vooral voor kinderen, ouderen en fietsers.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "openbaar vervoer in de dorpen",
+        "standpunt": "De fusie mag geen reden zijn om openbaar vervoer uit de dorpen weg te halen; de partij zet zich in voor behoud ervan.",
+        "citaat": "BBB zet zich in voor scholen, dorpshuizen, sportvoorzieningen, biblio­theken, openbaar vervoer, zorg en ontmoetingsplaatsen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "camperplek",
+        "standpunt": "Er moet een camperplek in Hilversum komen, omdat campereigenaren de lokale economie een impuls geven.",
+        "citaat": "De BBB wil dat er in Hilversum een camperplek gerealiseerd wordt.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "windturbines",
+        "standpunt": "Absoluut tegen windturbines op of bij Hilversums grondgebied; voorkeur voor andere vormen zoals zonnepanelen op geschikte daken.",
+        "citaat": "BBB is absoluut tegen windturbines op of bij Hilversums grondgebied.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "windturbines en zonneparken, ook in buurgemeenten",
+        "standpunt": "Geen windturbines of zonneparken in de gemeente of in buurgemeenten, met de bescherming van het landschap als reden.",
+        "citaat": "Géén wanstaltige windturbines of zonneparken in onze gemeente of buurgemeenten.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "windturbines polder Nederhorst den Berg",
+        "standpunt": "De partij organiseerde een bijeenkomst met inwoners over mogelijke windturbines tot 280 meter hoog in de polder bij Nederhorst den Berg.",
+        "citaat": "De mogelijke komst van kolossale windturbines tot wel 280 meter hoog langs de…",
+        "bron": "extra-home.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kernenergie",
+        "standpunt": "De partij ziet kansen voor kernenergie als betrouwbare bron van elektriciteit en steunt landelijke ontwikkelingen daarop.",
+        "citaat": "BBB ziet kansen voor kernenergie als betrouwbare en stabiele bron van elek­triciteit en steunt landelijke ontwikkelingen op dit terrein.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "energiecoöperatie",
+        "standpunt": "Oprichten van een lokale energiecoöperatie waarin burgers gezamenlijk investeren in warmte- en koudeprojecten, zon op dak en buurtbatterijen.",
+        "citaat": "Dit kan bijvoorbeeld door het oprichten van een lokale energiecoöperatie",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "aardgasvrije wijken",
+        "standpunt": "Burgers beschermen tegen gedwongen aardgasvrije wijken zonder betaalbaar alternatief; energiebeleid richten op netcongestie en lagere energielasten van maatschappelijke voorzieningen.",
+        "citaat": "het beschermen van burgers tegen gedwongen aardgasvrije wijken zonder betaalbaar alternatief",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokale klimaatdoelen",
+        "standpunt": "Geen extra lokale koppen op nationaal beleid en geen plannen die te veel kosten of weinig effect hebben; betekenisloze lokale doelen worden geschrapt.",
+        "citaat": "BBB Hilversum wil geen extra lokale koppen op nationaal beleid.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afvalinzameling",
+        "standpunt": "Afvalinzameling moet betrouwbaar zijn; de vervuiler wordt aangesproken en waar nodig gehandhaafd.",
+        "citaat": "We spreken de vervuiler aan en handhaven waar nodig.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "riooloverstorten",
+        "standpunt": "Watervervuiling wordt aan de bron aangepakt door riooloverstorten te verbeteren.",
+        "citaat": "We verbeteren riooloverstorten om vervuiling bij regen te voorkomen.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "richting"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "afsluiten natuurgebieden",
+        "standpunt": "Tegen het volledig afsluiten van natuurgebieden voor het publiek, zoals Natuurmonumenten doet; natuurherstel moet samengaan met toegankelijkheid.",
+        "citaat": "Het feit dat organisaties zoals Natuurmonumenten bepaalde gebieden volledig afsluiten voor het publiek, is wat BBB betreft ongewenst.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "natuur toegankelijk voor jongeren",
+        "standpunt": "Lijsttrekker Visée stelt in het natuurdebat dat het afsluiten van meer gebieden ertoe leidt dat mensen minder snel naar buiten gaan.",
+        "citaat": "Hoe meer gebieden we niet-toegankelijk maken, hoe minder snel mensen naar buiten gaan",
+        "bron": "extra-natuurdebat.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bossen en heide",
+        "standpunt": "Behoud van recreatie, agrarisch gebied en toegankelijke bossen en heide voor volgende generaties.",
+        "citaat": "Behoud van recreatie, agrarisch gebied en toegankelijke bossen en heide voor volgende generaties.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "natuurlandgoed Vlinderburg",
+        "standpunt": "Steun voor snelle en volledige realisatie van natuurlandgoed Vlinderburg in Nederhorst den Berg; de gemeente neemt een actieve en aanjagende rol via regie op procedures en overleg met de provincie.",
+        "citaat": "BBB steunt de snelle en volledige realisatie van natuurlandgoed Vlinderburg in Nederhorst den Berg.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groennorm 3-30-300",
+        "standpunt": "Bij nieuwbouwprojecten zoveel mogelijk de groennorm 3-30-300 bereiken (3 bomen in zicht, 30 procent boomkroonbedekking, groen op 300 meter).",
+        "citaat": "We willen, bij nieuwbouwprojecten, zoveel als mogelijk de groennorm 3-30-300 bereiken.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "boeren en natuur",
+        "standpunt": "Boeren worden gezien als partner voor het beheer van het buitengebied; geen tegenstelling tussen boeren en natuur.",
+        "citaat": "BBB gelooft niet in een tegenstelling tussen boeren en natuur.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "onteigening agrarische grond",
+        "standpunt": "Fel verzet tegen verplichte onteigening van agrarische gronden voor bovenwettelijke natuurdoelen, speculatieve grondpolitiek of gemeentelijke prestigeprojecten.",
+        "citaat": "BBB verzet zich fel tegen het verplicht onteigenen van agrarische gronden voor bovenwettelijke natuurdoelen",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regels voor boeren",
+        "standpunt": "Agrarische bedrijven moeten kunnen doorgaan zonder stapeling van regels; de gemeente voert stabiel en voorspelbaar beleid. Van inwoners in het buitengebied wordt gevraagd geluid en werkzaamheden van agrarische bedrijven te accepteren.",
+        "citaat": "Agrarische ondernemers moeten hun bedrijf kunnen voortzetten zonder voortdurende onzekerheid en stapeling van regels.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "stikstofbeleid",
+        "standpunt": "Volgens de lijsttrekker komt de rekening en regeldruk van verduurzaming te vaak eenzijdig bij de boer terecht terwijl andere sectoren ook uitstoten.",
+        "citaat": "Toch komt de rekening en de regeldruk nog steeds te vaak eenzijdig op het bord van de boer terecht, terwijl ook andere sectoren hun aandeel hebben in de uitstoot",
+        "bron": "extra-natuurdebat.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bermbeheer",
+        "standpunt": "Alleen maaien waar nodig voor veiligheid of agrarisch gebruik en verder ecologisch beheer van bermen en groenstroken.",
+        "citaat": "Hilversum maait alleen waar dit nodig is voor veiligheid of agrarisch gebruik en kiest verder voor ecologisch beheer.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "waterambassadeur plassen",
+        "standpunt": "Steun voor een waterambassadeur die opkomt voor de plassen en het water en bemiddelt tussen burgers, ondernemers, agrariërs, bedrijfsleven en gemeente.",
+        "citaat": "Wij steunen het initiatief voor een waterambassadeur die opkomt voor alles rondom de plassen en het water",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "budget om af te wijken van regels",
+        "standpunt": "De gemeente stelt een budget vast waarmee professionals in uitzonderlijke gevallen van de regels mogen afwijken (zowel in sociaal domein als in jeugdzorg).",
+        "citaat": "De gemeente stelt een budget vast om in uitzonderlijke gevallen te kunnen afwijken van de regels.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wachtlijsten zorg",
+        "standpunt": "Bij wachtlijsten bij zorgaanbieders uitwijken naar aanbieders buiten de gemeentegrenzen als inwoners daar sneller geholpen worden.",
+        "citaat": "indien nodig wijken we uit naar zorgaanbieders buiten de gemeentegrenzen als onze inwoners daar sneller geholpen worden.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "één contactpersoon en één plan",
+        "standpunt": "Minder loketten, met één contactpersoon en één plan per huishouden.",
+        "citaat": "We verminderen het aantal loketten en gaan voor meer persoonlijke aandacht.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "herindicaties",
+        "standpunt": "Herindicaties schrappen in gevallen waarin vooraf duidelijk is dat zorg blijvend nodig is.",
+        "citaat": "We schrappen de gevallen waarin vooraf duidelijk is dat zorg blijvend nodig is, om stress en kosten te besparen.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "suïcidepreventiecoördinator",
+        "standpunt": "Een suïcidepreventiecoördinator aanstellen in Hilversum.",
+        "citaat": "we stellen in Hilversum een suïcidepreventie­coördinator aan",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "huisartsentekort",
+        "standpunt": "Samen met huisartsen, zorgaanbieders en landelijke partijen zoeken naar oplossingen voor het huisartsentekort en de werkdruk.",
+        "citaat": "BBB wil samen met huisartsen, zorgaanbieders en landelijke partijen zoeken naar oplossingen voor het huisartsentekort en de werkdruk.",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "buurthuizen en Buurtkamer 3D",
+        "standpunt": "Het beheer van buurthuizen niet overnemen maar overlaten aan inwoners, verenigingen en vrijwilligers, zoals de Buurtkamer 3D in Kortenhoef, 's-Graveland en Ankeveen.",
+        "citaat": "We moeten het beheer van buurthuizen niet overnemen maar in samenspraak met verenigingen en vrijwilligers overlaten aan inwoners",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "preventie, jongerenwerk en dorpsondersteuners",
+        "standpunt": "Inzetten op preventie door initiatieven te steunen zoals jongerenwerk, inloop voor ouderen, buurthuizen en dorpsondersteuners.",
+        "citaat": "Daarom steunen we initiatieven zoals jongeren­werk, inloop voor ouderen, buurthuizen en dorpsondersteuners.",
+        "bron": "programma",
+        "pagina": 13,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jeugdzorg wijkteams en jongerenhubs",
+        "standpunt": "Sterke wijkteams en jongerenhubs waar kinderen en ouders kunnen binnenlopen, en vaste aanspreekpunten op school of bij het wijkteam.",
+        "citaat": "We zorgen voor sterke wijkteams en jongerenhubs.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "contact tijdens wachttijden jeugdzorg",
+        "standpunt": "Gemeenten houden contact met gezinnen die op jeugdhulp wachten, met updates, tips of steun uit de buurt.",
+        "citaat": "Gemeenten moeten contact houden met gezinnen die wachten op hulp.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "mantelzorgers",
+        "standpunt": "Meer steun voor mantelzorgers: hulp beschikbaar wanneer mantelzorg te zwaar wordt.",
+        "citaat": "Als mantelzorg te zwaar wordt, is er hulp beschikbaar, zonder schuldgevoel.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "Uitbreiding van het cameratoezicht op plekken waar vaker ongeregeldheden plaatsvinden.",
+        "citaat": "Op plekken waar vaker ongeregeldheden plaatsvinden, pleit BBB voor een uitbreiding van het cameratoezicht.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ondermijning",
+        "standpunt": "Streng optreden tegen georganiseerde criminaliteit, drugsoverlast, vandalisme en zorgfraude; pleidooi voor een intergemeentelijke regisseur ondermijning.",
+        "citaat": "BBB pleit voor een intergemeentelijke regisseur ondermijning (criminaliteit).",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "politiebureaus en brandweerkazernes",
+        "standpunt": "Zoveel mogelijk behoud van lokale politiebureaus en brandweerkazernes in Hilversum en stimuleren van de vrijwillige brandweer.",
+        "citaat": "We zetten ons in voor zoveel mogelijk behoud van lokale politiebureaus en brandweerkazernes in Hilversum",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wijkagenten en boa's",
+        "standpunt": "Wijkagenten en boa's moeten bekend zijn in de wijken en buurten; zichtbare handhaving.",
+        "citaat": "Wijkagenten en BOA’s zijn bekend in de wijken en buurten.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "cybercriminaliteit",
+        "standpunt": "De gemeente bereidt zich actief voor op cyberaanvallen en maakt inwoners bewuster van digitale veiligheid.",
+        "citaat": "BBB wil dat onze gemeente zich actief voorbereidt op cyberaanvallen",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "nieuwjaarsvuurwerk",
+        "standpunt": "Tegen het landelijke vuurwerkverbod; de gemeente ondersteunt lokale verenigingen en stichtingen met vergunningen en veiligheid voor vuurwerkshows, in plaats van zelf kostbare shows op te tuigen.",
+        "citaat": "BBB is altijd fel tegen het landelijk verbod op vuurwerk geweest.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vergunningen kleine verenigingsactiviteiten",
+        "standpunt": "Voor kleine activiteiten van verenigingen werken met een eenvoudige kennisgevingsplicht in plaats van zware vergunningprocedures, waarbij veiligheid voorop blijft staan.",
+        "citaat": "Voor kleine activiteiten van verenigingen moet waar mogelijk worden gewerkt met een eenvoudige kennisgevingsplicht in plaats van zware vergunningprocedures.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "Spreidingswet",
+        "standpunt": "Voor intrekking van de Spreidingswet; gemeenten moeten meer zeggenschap over opvang houden.",
+        "citaat": "BBB steunt landelijke maatregelen die de instroom beheersbaar maken en is voor intrekking van de Spreidingswet.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "opvang naar verhouding inwoners",
+        "standpunt": "Opvang moet in verhouding staan tot het aantal inwoners van de buurt, met actieve betrokkenheid van inwoners bij de plannen.",
+        "citaat": "pleiten wij voor opvang die in verhouding staat tot het aantal inwoners van de buurt.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "voorrang statushouders woning",
+        "standpunt": "Statushouders krijgen geen voorrang bij de toewijzing van woningen.",
+        "citaat": "Statushouders krijgen geen voorrang bij de toewijzing van woningen.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "huisvesting eenpersoonshuishoudens statushouders",
+        "standpunt": "Passende huisvesting voor statushouders: eenpersoonshuishoudens horen niet in ruime eengezinswoningen, zodat die voor gezinnen beschikbaar blijven.",
+        "citaat": "Eenpersoonshuishoudens horen bijvoorbeeld niet in ruime eengezinswoningen, zodat deze beschikbaar blijven voor gezinnen.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ongedocumenteerden",
+        "standpunt": "Geen woning voor mensen zonder officiële verblijfsstatus.",
+        "citaat": "Geen officiële status? Geen woning.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inburgering",
+        "standpunt": "Asielzoekers hebben de plicht en krijgen de mogelijkheid om in te burgeren, in taal en lokale cultuur.",
+        "citaat": "BBB Hilversum vindt dat asielzoekers de plicht hebben en de mogelijkheid krijgen om goed in te burgeren in Hilversum",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "tijdelijke opvanglocaties behouden",
+        "standpunt": "Bij tijdelijke woonlocaties vanaf dag één nadenken over de periode erna; goede woningen niet afbreken als lokale woningzoekenden dringend woonruimte nodig hebben.",
+        "citaat": "Goede woningen mogen niet on­nodig worden afgebroken wanneer lokale woningzoekenden dringend woonruimte nodig hebben.",
+        "bron": "programma",
+        "pagina": 25,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "asielopvang op landbouwgrond",
+        "standpunt": "De partij verzet zich tegen het opofferen van vruchtbare landbouwgrond, ook voor locaties die voor asielopvang zijn aangewezen, zonder lokale steun.",
+        "citaat": "Dit geldt ook voor locaties die aangewezen worden voor asielopvang.",
+        "bron": "extra-missie-visie.txt",
+        "pagina": 1,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "Stadsfonds via OZB niet-woningen",
+        "standpunt": "Een Stadsfonds via verhoogde OZB op niet-woningen wordt alleen ingevoerd als een aantoonbare meerderheid van de lokale ondernemers instemt en zeggenschap krijgt over de besteding.",
+        "citaat": "Een Stadsfonds via een verhoogde OZB op niet-­woningen wordt uitsluitend ingevoerd als een aantoonbare meerderheid van de lokale onder­nemers hier zelf mee instemt",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toeristenbelasting",
+        "standpunt": "Een laag basistarief voor toeristenbelasting in de hele nieuwe gemeente, waarvan de opbrengst één-op-één terugvloeit naar recreatieve voorzieningen, bereikbaarheid en toeristische infrastructuur.",
+        "citaat": "BBB kiest voor een eerlijk en laag basistarief voor toeristenbelasting",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lokaal inkopen",
+        "standpunt": "De gemeente koopt producten en diensten bij voorkeur lokaal in, zo nodig met een roulatiesysteem zodat meer ondernemers aan bod komen.",
+        "citaat": "De gemeentelijke organisatie koopt producten en diensten bij voorkeur lokaal in en maakt daarbij indien nodig gebruik van een roulatiesysteem",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "BIZ en winkelgebied",
+        "standpunt": "Ondernemersverenigingen en BIZzen worden bijgestaan, de BIZ wordt opgeplust en initiatieven voor een bruisende winkelstraat gesteund.",
+        "citaat": "initiatieven om de winkelstraat bruisend te houden, BIZ op te plussen, locaties beschikbaar te stellen voor bedrijven(terreinen)",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lage leges ondernemers en evenementen",
+        "standpunt": "Lage heffingen en leges voor ondernemers en voor lokale evenementen.",
+        "citaat": "Lage heffingen en leges voor ondernemers en voor lokale evenementen.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "terrasvergunningen",
+        "standpunt": "Terrasuitbreidingen uit de coronaperiode die inmiddels niet meer zijn toegestaan, alsnog vergunnen waar ze een verrijking zijn en geen hinder geven, ook op gemeentegrond.",
+        "citaat": "Op locaties waar terrassen een verrijking zijn en niet voor hinder zorgen, moeten deze alsnog vergund worden",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "evenementenvergunningen en traditie",
+        "standpunt": "Vergunningen voor dorpsfeesten, markten en culturele evenementen mogen niet onnodig ingewikkeld of streng zijn; wat altijd mocht, wordt niet zomaar verboden.",
+        "citaat": "Wat altijd mocht, moet niet zomaar ineens verboden worden.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bedrijven verplaatsen",
+        "standpunt": "Wonen, natuur en bedrijvigheid onderling afstemmen; bedrijven die naar een passender locatie willen verplaatsen worden ondersteund.",
+        "citaat": "Indien bedrijven verplaatst willen worden naar een passender locatie, worden zij ondersteund.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "geen betaald parkeren in winkelgebieden",
+        "standpunt": "Verzet tegen uitbreiding van parkeerheffingen naar winkelgebieden, ter ondersteuning van de lokale economie.",
+        "citaat": "juist inzetten op het terugdringen ervan om de lokale economie te ondersteunen",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "concreet"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "tradities en evenementen",
+        "standpunt": "Culturele tradities zoals carnaval in Ankeveen en Kortenhoef, palingroken, kermis op het marktterrein en feesttenten worden gefaciliteerd; legeskosten voor evenementen blijven laag.",
+        "citaat": "De legeskosten voor evenementen moeten laag en redelijk blijven.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "subsidie verenigingen bij harmonisatie",
+        "standpunt": "Geen enkele vereniging of maatschappelijke organisatie mag door de samenvoeging plotseling subsidie verliezen (overgangsbescherming).",
+        "citaat": "Geen enkele vereniging of maat­schappelijke organisatie mag door de samenvoeging van Hilversum en Wijdemeren plotseling subsidie verliezen.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "primair onderwijs in de wijk",
+        "standpunt": "Elke wijk houdt goed passend primair onderwijs in de buurt; kinderen moeten zoveel mogelijk basisonderwijs in eigen wijk of dorp kunnen volgen.",
+        "citaat": "Elke wijk houdt goed passend primair onderwijs in de buurt.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "leerlingenvervoer passend onderwijs",
+        "standpunt": "Als passend onderwijs niet dichtbij kan, regelt de gemeente goed vervoer, bij voorkeur via vrijwilligers of lokale vervoerders met zo kort mogelijke ritten.",
+        "citaat": "Dat doen we bij voorkeur via vrijwilligers of lokale vervoerders en met zo kort mogelijke ritten.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "budgetten Jeugdwet en passend onderwijs",
+        "standpunt": "Budgetten uit de Jeugdwet en Passend Onderwijs worden gecombineerd met de leerling centraal.",
+        "citaat": "We zetten de leerling centraal en combineren budgetten vanuit de Jeugdwet en Passend Onderwijs.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groene schoolpleinen",
+        "standpunt": "Aantrekkelijke en groene schoolpleinen stimuleren.",
+        "citaat": "We stimuleren aantrekkelijke en groene schoolpleinen waar kinderen kunnen spelen en leren.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sport",
+        "standpunt": "Iedereen in de gemeente moet kunnen sporten; sportfaciliteiten en dorpshuizen blijven waar mogelijk behouden in buurten en wijken.",
+        "citaat": "We vinden het belangrijk dat iedereen in gemeente Hilversum kan sporten.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "voorzieningen behouden",
+        "standpunt": "Voorzieningen zoals winkels, sportfaciliteiten, medische zorg, dorpshuizen en scholen blijven waar mogelijk in buurten en wijken behouden, ook als verdwijnen efficiënter lijkt.",
+        "citaat": "Een voorziening die essentieel is voor de leefbaarheid mag niet zomaar verdwijnen omdat dat op papier efficiënter is.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "laagdrempelige subsidies voor verenigingsleven",
+        "standpunt": "De gemeente stimuleert het verenigingsleven met laagdrempelige subsidies en waar mogelijk praktische ondersteuning.",
+        "citaat": "de gemeente draagt hieraan bij met laagdrempelige subsidies en waar mogelijk praktische ondersteuning.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "positie van de fusie",
+        "standpunt": "De partij was tegen de fusie van Hilversum en Wijdemeren en vindt dat inwoners niet de rekening mogen krijgen van het financieel en bestuurlijk vastgelopen Wijdemeren.",
+        "citaat": "BBB was tegen deze fusie.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "waarborgen voor de dorpen",
+        "standpunt": "Een permanent servicepunt in de regio, raads- en commissievergaderingen op locatie in de dorpen, dorpsbudgetten voor dorpsraden, een vaste dorpenagenda en een wethouder voor de dorpen en het buitengebied.",
+        "citaat": "een permanent gemeentelijk servicepunt in de regio, periodieke raads- en commissievergaderingen op locatie in de dorpen, eigen dorpsbudgetten voor dorpsraden",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "financiële nulmeting fusie",
+        "standpunt": "Binnen 100 dagen na installatie moet het nieuwe gemeentebestuur alle kosten, schulden, risico's, reserves en verwachte besparingen van de herindeling openbaar maken.",
+        "citaat": "Een openbare financiële nulmeting van de fusie binnen 100 dagen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fusietoets",
+        "standpunt": "Bij elk voorstel om regels of subsidies te harmoniseren moet vooraf openbaar worden gemaakt wat de gevolgen zijn voor lasten, voorzieningen en dienstverlening in iedere dorpskern.",
+        "citaat": "Invoering van een verplichte fusietoets.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fusie servicenorm",
+        "standpunt": "Een vaste servicenorm: inwoners en ondernemers mogen door de herindeling geen langere wachttijden, extra bureaucratie, ICT-storingen of overmatige vergunningseisen krijgen.",
+        "citaat": "Garanderen van een vaste ‘fusie servicenorm’ voor burgers.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fysieke dienstverlening in Wijdemeren",
+        "standpunt": "Voldoende fysieke contactmogelijkheden in de hele gemeente, zoals spreekuren, dienstverlening en contact met bestuurders; niet alles vanuit het gemeentehuis in Hilversum.",
+        "citaat": "Inwoners van Wijdemeren mogen niet voor ieder gesprek naar Hilversum moeten reizen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpsraden en wijkraden",
+        "standpunt": "Structureel gebruikmaken van dorpsraden, bewonersorganisaties, verenigingen en ondernemers, vooraf en niet pas als een besluit vrijwel vaststaat; dorps- en wijkraden met echte invloed.",
+        "citaat": "We willen dorps- en wijkraden met echte invloed, als volwaardige gesprekspartners.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "participatie",
+        "standpunt": "Inwoners worden vanaf het begin van het proces betrokken en er moet duidelijk zijn wat de gemeente met hun input heeft gedaan; inwoners moeten over dezelfde informatie beschikken als het bestuur.",
+        "citaat": "Inwoners moeten over dezelfde informatie kunnen beschikken als het bestuur om constructief mee te kunnen denken.",
+        "bron": "extra-speerpunten.txt",
+        "pagina": 1,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "maatschappelijke stages ambtenaren",
+        "standpunt": "Ambtenaren moeten minimaal drie maatschappelijke stages per jaar afleggen in de gemeente.",
+        "citaat": "BBB vindt dat ambtenaren minimaal drie maat­schappelijke stages per jaar moeten afleggen in de gemeente.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "spreekuur raadsleden",
+        "standpunt": "Kandidaten, raadsleden en bestuurders zijn goed bereikbaar; de partij juicht een periodiek spreekuur toe.",
+        "citaat": "Wij juichen een periodiek spreekuur toe.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "digitale dienstverlening",
+        "standpunt": "Digitalisering moet dienstverlening verbeteren zonder de mens uit het oog te verliezen; persoonlijke aandacht en bereikbaarheid blijven essentieel.",
+        "citaat": "persoonlijke aandacht en bereikbaarheid blijven altijd essentieel.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "regels en verantwoording",
+        "standpunt": "Minder overbodige regels; de gemeenteraad moet tijdig en volledig worden geïnformeerd en bestuurders zijn aanspreekbaar op besluiten en uitgaven.",
+        "citaat": "De ge­meenteraad moet tijdig en volledig worden geïnformeerd.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "lokale belastingen",
+        "standpunt": "Lokale belastingen en lasten alleen verhogen als het echt niet anders kan, en dan met een goede uitleg.",
+        "citaat": "Alleen als het echt niet anders kan, maar dan graag wél met een goede uitleg!",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lasten na fusie",
+        "standpunt": "De fusie mag niet leiden tot onverklaarbare of dubbele lasten voor inwoners en ondernemers.",
+        "citaat": "De ge­volgen van de fusie mogen niet leiden tot onverklaarbare of dubbele lasten voor inwoners en ondernemers.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "niet meer uitgeven dan binnenkomt",
+        "standpunt": "Sluitende begroting: niet meer uitgeven dan er binnenkomt, met een hoge landelijke bijdrage via het gemeentefonds zodat de gemeente niet kapot bezuinigd wordt.",
+        "citaat": "BBB Hilversum vindt het belangrijk dat we niet meer uitgeven dan er binnenkomt.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "realistisch begroten en reserves",
+        "standpunt": "Realistisch begroten van inkomsten en uitgaven, inclusief langetermijnkosten zoals onderhoud; reserveringen zijn reëel en geen spaarpotje.",
+        "citaat": "Reserveringen zijn reëel en dienen niet als ‘spaarpotje’ achter de hand.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Stadsfonds en toeristenbelasting",
+        "standpunt": "Open voor een Stadsfonds als de middelen aantoonbaar bijdragen aan de vitaliteit van de hele nieuwe gemeente; tegen toeristenbelasting in Hilversum als die slechts extra lasten zonder meerwaarde oplevert.",
+        "citaat": "Wij zijn tegen een toeristenbelasting in Hilversum als die slechts leidt tot extra lasten zonder duidelijke meerwaarde.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "externe inhuur en adviesbureaus",
+        "standpunt": "Stoppen met het zomaar inschakelen van dure onderzoeks- en adviesbureaus en primair vertrouwen op en investeren in eigen ambtelijke expertise.",
+        "citaat": "De gemeente moet stoppen met het zomaar inschakelen van duur onderzoeks- en adviesbureaus",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geen prestigeprojecten vóór de basis",
+        "standpunt": "Eerst veilige wegen, goede fietspaden, schone straten, afvalvoorzieningen en onderhouden groen; pas daarna nieuwe prestigeprojecten.",
+        "citaat": "Geen prestigeprojecten vóór de basis.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpsbudgetten",
+        "standpunt": "Eigen dorpsbudgetten voor dorpsraden in Wijdemeren als onderdeel van de bestuurlijke waarborgen voor de dorpen.",
+        "citaat": "eigen dorpsbudgetten voor dorpsraden",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      }
+    ]
+  },
+  "opvallend": [
+    "Absoluut verzet tegen windturbines en ook tegen zonneparken, uitdrukkelijk ook in buurgemeenten; zon alleen op geschikte daken",
+    "Tegen het volledig afsluiten van natuurgebieden door natuurbeheerders zoals Natuurmonumenten; natuurherstel mag volgens de partij niet via afsluiting",
+    "Voorrang voor mensen met lokale binding bij sociale huur en verkoop nieuwbouw, en uitdrukkelijk geen voorrang voor statushouders; geen woning voor ongedocumenteerden",
+    "Voor intrekking van de Spreidingswet en opvang in verhouding tot het aantal inwoners van de buurt",
+    "Fusiemaatregelen als verplichte fusietoets, fusie servicenorm en een openbare financiële nulmeting binnen 100 dagen",
+    "Wethouder met specifieke verantwoordelijkheid voor de dorpen en het buitengebied, servicepunt en raadsvergaderingen op locatie in de dorpen",
+    "Kernenergie omarmd als betrouwbare stroombron",
+    "Permanente bewoning van vakantieparken onder voorwaarden mogelijk maken",
+    "Een camperplek in Hilversum",
+    "Betaald parkeren alleen in het centrum waar de parkeerdruk hoog is; fel verzet tegen uitbreiding naar woonwijken en winkelgebieden",
+    "Ambtenaren minimaal drie maatschappelijke stages per jaar"
+  ],
+  "dun": [
+    "Fietsbeleid, 30 km/u en autoluw centrum: geen concrete standpunten",
+    "Laadpalen en parkeertarieven: niet genoemd",
+    "Hoogbouw en locaties als stationsgebied, Arenapark, Crailo, Hoorneboeg en Anna's Hoeve: niet genoemd",
+    "Mediapark en mediastad: niet genoemd",
+    "Aantallen woningen en percentages sociale huur: niet genoemd",
+    "Coffeeshops en drugsbeleid: alleen algemene aanpak van drugsoverlast",
+    "Cultuur, erfgoed en bibliotheek buiten de dorpstradities: nauwelijks concreet; zwembaden niet genoemd",
+    "OZB-tarieven en concrete bezuinigingen of investeringen in euro's: niet genoemd",
+    "Vliegveld Hilversum en Loosdrechtse Plassen: alleen een waterambassadeur en riooloverstorten",
+    "Koopzondag en horeca: nauwelijks (alleen terrassen)",
+    "Armoede, schulden en bijstand: niet genoemd"
+  ]
+}

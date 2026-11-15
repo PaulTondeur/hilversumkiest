@@ -1,0 +1,98 @@
+{
+ "asiel-instroom-voorwaarde": {
+  "schrap": true,
+  "reden": "de stelling bleek op twee manieren te lezen, waardoor posities niet vergelijkbaar waren"
+ },
+ "klimaat-isolatie-eerst": {
+  "schrap": true,
+  "reden": "bij nader inzien is vrijwel geen lijst het ermee oneens, dus de stelling helpt niet kiezen"
+ },
+ "zorg-preventie-ongezond": {
+  "schrap": true,
+  "reden": "bij nader inzien is vrijwel geen lijst het ermee oneens, dus de stelling helpt niet kiezen"
+ },
+ "veiligheid-verlichting-fietspaden": {
+  "schrap": true,
+  "reden": "bij nader inzien is vrijwel geen lijst het ermee oneens, dus de stelling helpt niet kiezen"
+ },
+ "asiel-taal-tijdens-procedure": {
+  "schrap": true,
+  "reden": "bij nader inzien is vrijwel geen lijst het ermee oneens, dus de stelling helpt niet kiezen"
+ },
+ "verkeer-terugdraaien": {
+  "stelling": "Het betaald parkeren dat in 2024 en 2025 is ingevoerd in de Hilversumse wijken tot aan de buitenring, wordt weer afgeschaft.",
+  "kop": "Uitbreiding terugdraaien"
+ },
+ "wonen-voorrang-beroepen-weg": {
+  "stelling": "De voorrang bij sociale huurwoningen voor mensen met een cruciaal beroep, zoals nu voor zorgmedewerkers, moet verdwijnen."
+ },
+ "wonen-lokale-binding-helft": {
+  "stelling": "De gemeente geeft zoveel vrijkomende sociale huurwoningen als de wet toestaat, de helft, met voorrang aan mensen die hier al wonen of werken.",
+  "kop": "Maximale voorrang voor eigen inwoners"
+ },
+ "klimaat-kern-verkenning": {
+  "kop": "Onderzoek naar kerncentrale"
+ },
+ "klimaat-houtstook": {
+  "kop": "Stookverbod bij stookalarm"
+ },
+ "wonen-hoogbouw-alleen-station": {
+  "stelling": "Hoge woongebouwen horen alleen bij de stations en in het centrum van Hilversum, niet in wijken zoals de Hilversumse Meent."
+ },
+ "wonen-grondbeleid": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben hierover een standpunt"
+ },
+ "veiligheid-bibob": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben hierover een standpunt"
+ },
+ "asiel-spreidingswet-afschaffen": {
+  "schrap": true,
+  "reden": "de posities waren vrijwel allemaal afgeleid, en de stelling over opvang na de Spreidingswet dekt hetzelfde met eigen antwoorden van de lijsten"
+ },
+ "financien-heffing-draagkracht": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben een standpunt over precies deze vraag"
+ },
+ "bestuur-dorpsraad-op-verzoek": {
+  "kop": "Gekozen raad in elk dorp",
+  "stelling": "Elk dorp en elke wijk krijgt een eigen, door de inwoners gekozen dorps- of wijkraad.",
+  "uitleg": "Een dorps- of wijkraad is een groep inwoners die namens het dorp of de wijk meepraat met de gemeente. De vraag is of elk dorp en elke wijk zo'n raad krijgt die door de inwoners wordt gekozen, of dat de gemeente dat aan dorpen en wijken zelf laat of inspraak op een andere manier regelt.",
+  "voor": "Een gekozen raad geeft elk dorp en elke wijk een eigen stem die de gemeente niet kan negeren.",
+  "tegen": "Een extra gekozen laag kost geld en tijd, en niet elk dorp of elke wijk zit erop te wachten.",
+  "alleen_posities": {
+   "sp": 2,
+   "dorp-voor-dorp": 2,
+   "fvd": 1,
+   "hart-voor-hilversum": -1,
+   "pro": -1,
+   "vvd": -1,
+   "lfd": -1,
+   "lokaal-een": -2,
+   "bvnl": -2
+  }
+ },
+ "bestuur-leges-dorpsevenementen": {
+  "stelling": "Kleine evenementen in de dorpen blijven na de fusie vrij van leges.",
+  "posities": {
+   "blanco-van-oostveen": 1
+  }
+ },
+ "natuur-vliegveld": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben hierover een standpunt"
+ },
+ "natuur-gifzone": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben hierover een standpunt, of er staat maar één lijst aan één kant"
+ },
+ "asiel-welkomstprogramma": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben hierover een standpunt, of er staat maar één lijst aan één kant"
+ },
+ "cultuur-subsidie-bezoekers": {
+  "schrap": true,
+  "reden": "te weinig lijsten hebben hierover een standpunt, of er staat maar één lijst aan één kant"
+ }
+}

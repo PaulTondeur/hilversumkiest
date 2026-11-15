@@ -1,0 +1,327 @@
+[
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|sp",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "In de Meent iets de hoogte in, zodat bewoners kunnen blijven",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|sp",
+  "id": "verkeer-eerste-uur",
+  "slug": "sp",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": 1,
+   "kern": "Wil minder en liefst geen betaald parkeren",
+   "toelichting": "De lijst wil geen betaald parkeren in de dorpen en betaald parkeren terugdringen in het centrum en de wijken. Een gratis eerste uur noemt ze niet; wel wil ze op zondag gratis parkeren in het centrum.",
+   "citaat": "Wij willen sowieso geen betaald parkeren, maar bij een ziekenhuis is het echt niet uit te leggen.",
+   "bron": "p. 31  |  MijnStem: 'Betaald parkeren in het centrum en de wijken van Hilversum' (0, terugdringen)  |  MijnStem: 'Parkeren in het centrum van Hilversum op zondag gratis maken' (100)",
+   "soort": "afgeleid",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "verkeer-autoluw|sp",
+  "id": "verkeer-autoluw",
+  "slug": "sp",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "verkeer-autoluw",
+   "s": 1,
+   "kern": "Parkeren aan de rand met P+R, zodat er minder autoverkeer in het centrum komt",
+   "toelichting": "De lijst wil parkeerplaatsen of één grote P+R aan de rand van Hilversum met een goede busverbinding naar het centrum, zodat er minder autoverkeer komt. Een volledig autoluw centrum noemt ze niet.",
+   "citaat": "Wij willen parkeerplaatsen of één grote P+R aan de rand van Hilversum met een goede busverbinding naar het centrum. Zo komt er minder autoverkeer in het centrum.",
+   "bron": "p. 31",
+   "soort": "afgeleid",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "klimaat-kern-locatie|sp",
+  "id": "klimaat-kern-locatie",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kern-locatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Verbindt zich nergens aan zolang afval en koelwater onduidelijk zijn",
+   "basis": "programma p.35"
+  }
+ },
+ {
+  "sleutel": "klimaat-houtstook|sp",
+  "id": "klimaat-houtstook",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-houtstook",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Stemde voor regels tegen houtstook",
+   "basis": "stemgedrag"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|sp",
+  "id": "natuur-afsluiten",
+  "slug": "sp",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": 1,
+   "kern": "Afsluiting van kwetsbare natuur is terecht, mits zichtbaar wat het oplevert",
+   "toelichting": "De lijst vindt het afsluiten van de Loenderveense Plas terecht, en wil vaarvrije zones in kwetsbare natuur. Ze wil wel dat inwoners kunnen zien wat het oplevert en wil gratis toegang tot natuurgebieden.",
+   "citaat": "Dat is terecht, maar inwoners die meebetalen aan die bescherming horen ook te kunnen zien wat het oplevert.",
+   "bron": "p. 30  |  p. 29",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "natuur is er voor iedereen, gratis toegankelijk",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|sp",
+  "id": "natuur-recreant-betaalt",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "toeristen- en forensenbelasting in de hele gemeente",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "natuur-snippergroen|sp",
+  "id": "natuur-snippergroen",
+  "slug": "sp",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "natuur-snippergroen",
+   "s": 0,
+   "kern": "Geen groen weg in versteende wijken; elders desnoods wel",
+   "toelichting": "De lijst wil dat in de meest versteende wijken geen openbaar groen meer verdwijnt. Tegelijk is ze het eens dat Hilversum desnoods groen opoffert voor woningen, bijvoorbeeld op een deel van het Heksenweitje.",
+   "citaat": "In de meest versteende buurten mag er dan ook geen groen meer verdwijnen.",
+   "bron": "Stemgids: 'In buurten met weinig groen mag er geen openbaar groen meer verdwijnen' (voor)  |  Hilversums Nieuws 22-10-2026: 'Hilversum moet desnoods groen opofferen om woningnood aan te pakken' (eens)  |  Raad Hilversum, 15-05-2024: A24-66",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -2,
+   "kern": "in versteende buurten mag geen groen meer verdwijnen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "zorg-aanbieders-een|sp",
+  "id": "zorg-aanbieders-een",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-aanbieders-een",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "wil zorg minder via markt; huishoudelijke hulp in eigen beheer",
+   "basis": "programma p.18"
+  }
+ },
+ {
+  "sleutel": "economie-centrum-compacter|sp",
+  "id": "economie-centrum-compacter",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-centrum-compacter",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "gevelsubsidie voor alle winkelstraten voortzetten",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "economie-stadsfonds-afschaffen|sp",
+  "id": "economie-stadsfonds-afschaffen",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-stadsfonds-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "fonds houden, geld naar gebieden buiten het centrum",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|sp",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "ook kleine initiatieven blijvend steunen, niet bezuinigen",
+   "basis": "programma p.23"
+  }
+ },
+ {
+  "sleutel": "cultuur-subsidie-bezoekers|sp",
+  "id": "cultuur-subsidie-bezoekers",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-subsidie-bezoekers",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "niet alleen grote instellingen; ook kleine initiatieven en clubs",
+   "basis": "programma p.23"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|sp",
+  "id": "cultuur-monumentenregels",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "inzet voor behoud van 700 monumenten",
+   "basis": "programma p.23"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpen-voorrang|sp",
+  "id": "bestuur-dorpen-voorrang",
+  "slug": "sp",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpen-voorrang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "fusie betekent in praktijk veel geld naar de dorpen",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "financien-afval-vast-bedrag|sp",
+  "id": "financien-afval-vast-bedrag",
+  "slug": "sp",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "financien-afval-vast-bedrag",
+   "s": -2,
+   "kern": "Afvalkosten niet voor iedereen even hoog",
+   "toelichting": "De lijst vindt het oneerlijk dat afval voor iedereen even veel kost en wil die kosten verschuiven naar de OZB.",
+   "citaat": "Daardoor betaalt iemand in een sociale huurwoning evenveel als iemand in een villa.",
+   "bron": "p. 36  |  MijnStem: 'Afvalheffing op basis van: vast bedrag of hoeveelheid afval' (50)",
+   "soort": "programma",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": 0,
+   "kern": "liever verschuiven naar OZB dan naar hoeveelheid",
+   "basis": "mijnstem"
+  }
+ }
+]

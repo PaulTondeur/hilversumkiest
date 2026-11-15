@@ -1,0 +1,530 @@
+[
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|d66",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Hoogbouw bij OV-knooppunten, zoals het Sportpark",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|d66",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "d66",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": -2,
+   "kern": "Vast minimum: 33% sociale huur bij nieuwbouw",
+   "toelichting": "De lijst wil een vast minimum van 33% sociale huur bij nieuwe woningen, meer dan landelijk verplicht is. Daarnaast wil ze ruimte voor middenhuur en betaalbare koop.",
+   "citaat": "Van alle nieuwe woningen bestaat ten minste 33% uit sociale huur, gerealiseerd door woningcorporaties.",
+   "bron": "p. 9  |  MijnStem: 'Minimaal 40% sociale huurwoningen verplicht maken' (18)",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 1,
+   "kern": "Minimaal 33% sociale huur, ruimte voor midden en koop",
+   "basis": "programma p.9"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|d66",
+  "id": "verkeer-vergunning",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "vergunningskosten herzien naar doelen van het beleid",
+   "basis": "programma p.37"
+  }
+ },
+ {
+  "sleutel": "verkeer-30-hoofdwegen|d66",
+  "id": "verkeer-30-hoofdwegen",
+  "slug": "d66",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "verkeer-30-hoofdwegen",
+   "s": 1,
+   "kern": "30 km/u is de norm, 50 alleen op echte doorgaande wegen",
+   "toelichting": "De lijst wil 30 km/u als norm in de bebouwde kom en 50 km/u alleen op echte doorgaande wegen of waar hulpdiensten dat nodig hebben.",
+   "citaat": "Alleen op echte doorgaande wegen of waar dit nodig is voor hulpdiensten is 50 km/u nog wenselijk.",
+   "bron": "MijnStem: 'Maximumsnelheid van 30 km/u invoeren in de bebouwde kom' (97)  |  p. 35",
+   "soort": "mijnstem",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": -1,
+   "kern": "30 is de norm, 50 alleen op echte doorgaande wegen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-kern-locatie|d66",
+  "id": "klimaat-kern-locatie",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kern-locatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Alleen bewezen technieken; geen proeftuin",
+   "basis": "programma p.32"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|d66",
+  "id": "natuur-afsluiten",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "balans tussen recreatie en natuurbescherming",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-snippergroen|d66",
+  "id": "natuur-snippergroen",
+  "slug": "d66",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "natuur-snippergroen",
+   "s": -1,
+   "kern": "Geen groen kwijt in buurten met weinig groen",
+   "toelichting": "De lijst wil in buurten met weinig groen het openbaar groen behouden en wil juist meer groen en minder steen. Bij de woningnood sluit ze groen opofferen niet helemaal uit, maar liever niet.",
+   "citaat": "Een groene buurt is gezonder en beter bestand tegen hitte, droogte en wateroverlast.",
+   "bron": "Stemgids: 'In buurten met weinig groen mag er geen openbaar groen meer verdwijnen' (voor)  |  Hilversums Nieuws 22-10-2026 (eens, 'liever niet')",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 1,
+   "kern": "liever niet, maar woningnood vraagt slimme keuzes",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "natuur-bomen|d66",
+  "id": "natuur-bomen",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-bomen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "bomenlanen behouden, gekapte bomen sneller vervangen",
+   "basis": "programma p.17"
+  }
+ },
+ {
+  "sleutel": "natuur-vliegveld|d66",
+  "id": "natuur-vliegveld",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-vliegveld",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "in gesprek over woningen rond het vliegveld, banen aanpassen",
+   "basis": "programma p.11"
+  }
+ },
+ {
+  "sleutel": "zorg-aanbieders-een|d66",
+  "id": "zorg-aanbieders-een",
+  "slug": "d66",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "zorg-aanbieders-een",
+   "s": -1,
+   "kern": "Stemde tegen terugdringen van het aantal zorgaanbieders",
+   "toelichting": "De fractie stemde in 2022 tegen een motie om het aantal zorgaanbieders terug te dringen. Een standpunt over één vaste aanbieder per wijk staat niet in het programma.",
+   "citaat": null,
+   "bron": "Raad Hilversum, 8-6-2022: M22-36a Beperking marktwerking in de zorg (D66 tegen, verworpen 16-21)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "zorg-buurthuis-elkewijk|d66",
+  "id": "zorg-buurthuis-elkewijk",
+  "slug": "d66",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "zorg-buurthuis-elkewijk",
+   "s": 1,
+   "kern": "Overal een plek om samen te komen, vorm per buurt",
+   "toelichting": "De lijst wil in elke wijk en elk dorp een plek om samen te komen, maar niet per se een buurthuis: ook een wijkcentrum, bibliotheek, school of sportclub kan dat zijn. Over wie het betaalt zegt ze niets.",
+   "citaat": "Wel wil D66 overal een plek om samen te komen.",
+   "bron": "MijnStem: 'In alle wijken en dorpen een buurthuis openen' (30)  |  p. 26",
+   "soort": "mijnstem",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "buurthuis is middel, geen doel; vorm per buurt",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-of-jongerenwerk|d66",
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "voldoende boa's, maar ook plekken voor jongeren zonder wegjagen",
+   "basis": "programma p.16"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|d66",
+  "id": "veiligheid-boa-taken",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "foutparkeren en gevaarlijk verkeersgedrag strenger aanpakken",
+   "basis": "programma p.15"
+  }
+ },
+ {
+  "sleutel": "veiligheid-coffeeshops-scholen|d66",
+  "id": "veiligheid-coffeeshops-scholen",
+  "slug": "d66",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "veiligheid-coffeeshops-scholen",
+   "s": 1,
+   "kern": "Geen vermindering van coffeeshops gewenst",
+   "toelichting": "De lijst vindt dat het verminderen van het aantal coffeeshops geen probleem oplost. Over coffeeshops nabij scholen zegt ze niets apart.",
+   "citaat": "Het verminderen van het aantal coffeeshops in Hilversum lost geen probleem op en leidt tot meer overlast en criminaliteit.",
+   "bron": "MijnStem: 'Het aantal coffeeshops verminderen' (34)",
+   "soort": "afgeleid",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|d66",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "d66",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": 1,
+   "kern": "Betere verlichting op fietsroutes en fietspaden",
+   "toelichting": "De lijst wil beter verlichte fietspaden in de hele gemeente en goede verlichting op fietsroutes naar huis. Lampen die alleen aangaan bij passage noemt ze niet.",
+   "citaat": "Daarnaast zorgen we voor goed onderhouden en beter verlichte fietspaden in de hele gemeente.",
+   "bron": "p. 35  |  p. 16",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "goede verlichting op fietsroutes voor veilig thuiskomen",
+   "basis": "programma p.16"
+  }
+ },
+ {
+  "sleutel": "asiel-welkomstprogramma|d66",
+  "id": "asiel-welkomstprogramma",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-welkomstprogramma",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "initiatieven die inburgering bevorderen ondersteunen",
+   "basis": "programma p.28"
+  }
+ },
+ {
+  "sleutel": "asiel-regenbooggeld|d66",
+  "id": "asiel-regenbooggeld",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-regenbooggeld",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Hilversum blijft regenbooggemeente",
+   "basis": "programma p.29"
+  }
+ },
+ {
+  "sleutel": "economie-mediapark-woningen|d66",
+  "id": "economie-mediapark-woningen",
+  "slug": "d66",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "economie-mediapark-woningen",
+   "s": -1,
+   "kern": "Woningen op het Mediapark, zonder minder bedrijfsruimte",
+   "toelichting": "De lijst wil extra woningen op het Mediapark en een bruisende mediacampus, maar zonder dat het aantal vierkante meters voor bedrijven afneemt. Op de schuifbalk koos ze voor beide, iets meer woningen.",
+   "citaat": "Extra woningen op bedrijventerreinen en in bestaande gebouwen zijn welkom, zolang het aantal vierkante meters voor bedrijven niet afneemt.",
+   "bron": "Stemgids: kantoren en bedrijfsruimtes (voor)  |  MijnStem: 'Op het Media Park: woningen / mediabedrijven' (34)  |  p. 41",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 1,
+   "kern": "beide: motor voor media én extra woningen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "economie-citymarketing|d66",
+  "id": "economie-citymarketing",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-citymarketing",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "toerisme stimuleren; groot mediaevenement halen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|d66",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "meerjarige subsidies voor veelbelovende projecten, voorspelbare regels",
+   "basis": "programma p.19"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|d66",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "pilots en maatwerk; één vast model past niet overal",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|d66",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "eerst pilots; geen vaste vorm zoals wijkraad",
+   "basis": "programma p.45"
+  }
+ },
+ {
+  "sleutel": "bestuur-gelijke-regels|d66",
+  "id": "bestuur-gelijke-regels",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-gelijke-regels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "eigenheid behouden; per kern bepalen wat nodig is",
+   "basis": "programma p.4"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|d66",
+  "id": "bestuur-referendum-advies",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "voor het bestaande correctief raadgevend referendum",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-ozb-meestijgen|d66",
+  "id": "financien-ozb-meestijgen",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-ozb-meestijgen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "OZB onder landelijk gemiddelde, Hilversum stijgt licht; investeren",
+   "basis": "programma p.51"
+  }
+ },
+ {
+  "sleutel": "financien-inhuur-vaste-banen|d66",
+  "id": "financien-inhuur-vaste-banen",
+  "slug": "d66",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-inhuur-vaste-banen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "nieuwe taken zoveel mogelijk met bestaand personeel",
+   "basis": "programma p.52"
+  }
+ }
+]

@@ -1,0 +1,424 @@
+[
+ {
+  "sleutel": "wonen-nederhorst-noord-open|christenunie",
+  "id": "wonen-nederhorst-noord-open",
+  "slug": "christenunie",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "wonen-nederhorst-noord-open",
+   "s": 1,
+   "kern": "Weigerde in 2022 een woonwijk ten noorden van Nederhorst den Berg.",
+   "toelichting": "De ChristenUnie in Wijdemeren stemde in 2022 voor de definitieve weigering van een nieuwe woonwijk van circa 150 woningen ten noorden van Nederhorst den Berg. Het programma 2026 laat bouwen buiten de bebouwde kom wel toe als het past en natuur ontziet, dus de lijn is niet eenduidig.",
+   "citaat": null,
+   "bron": "Raad Wijdemeren, 27-10-2022: weigering verklaring van geen bedenkingen nieuwe woonwijk Nederhorst den Berg (CU voor, aangenomen 14-4)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|christenunie",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Voorlopig landelijke 30% sociaal",
+   "basis": "programma p.22"
+  }
+ },
+ {
+  "sleutel": "wonen-lokale-binding-helft|christenunie",
+  "id": "wonen-lokale-binding-helft",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-lokale-binding-helft",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Onderzoeken of jongeren voorrang in eigen dorp kunnen krijgen",
+   "basis": "programma p.23"
+  }
+ },
+ {
+  "sleutel": "wonen-voorrang-beroepen-weg|christenunie",
+  "id": "wonen-voorrang-beroepen-weg",
+  "slug": "christenunie",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "wonen-voorrang-beroepen-weg",
+   "s": 1,
+   "kern": "Stemde in 2023 voor schrappen van voorrang voor cruciale beroepen.",
+   "toelichting": "De ChristenUnie stemde in 2023 voor een amendement om het streven naar voorrang voor cruciale beroepen uit de huisvestingsverordening te schrappen. In het programma komt dit niet terug, en het amendement werd verworpen.",
+   "citaat": null,
+   "bron": "Raad Hilversum, 08-03-2023: A23-39 schrappen voorrang cruciale beroepen (CU voor, verworpen 13-22)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|christenunie",
+  "id": "verkeer-eerste-uur",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "gratis parkeren is geen doel op zich",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|christenunie",
+  "id": "klimaat-zon-boerenland",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Ruimte voor zon maximaal benutten volgens de zonneladder",
+   "basis": "programma p.34"
+  }
+ },
+ {
+  "sleutel": "natuur-landbouw-natuur|christenunie",
+  "id": "natuur-landbouw-natuur",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-landbouw-natuur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "balans tussen natuur, recreatie en duurzame landbouw",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "natuur-vliegveld|christenunie",
+  "id": "natuur-vliegveld",
+  "slug": "christenunie",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "natuur-vliegveld",
+   "s": -1,
+   "kern": "Stemde in 2022 voor een korte verlenging van de huur van het vliegveld.",
+   "toelichting": "De ChristenUnie stemde in 2022 voor een motie om de huurovereenkomst met vliegveld Hilversum met maximaal vijf jaar te verlengen. In het programma komt het vliegveld niet voor.",
+   "citaat": null,
+   "bron": "Raad Hilversum, 08-06-2022: M22-35a huurovereenkomst vliegveld maximaal 5 jaar (CU voor, aangenomen 35-2)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null
+  }
+ },
+ {
+  "sleutel": "zorg-wmo-zonderindicatie|christenunie",
+  "id": "zorg-wmo-zonderindicatie",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-wmo-zonderindicatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "maatwerk als mensen het niet alleen redden; pgb behouden",
+   "basis": "programma p.11"
+  }
+ },
+ {
+  "sleutel": "zorg-bijstand-tegenprestatie|christenunie",
+  "id": "zorg-bijstand-tegenprestatie",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-bijstand-tegenprestatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "duidelijke grens bij niet willen werken",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-of-jongerenwerk|christenunie",
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "gerichte handhaving, niet in de eerste plaats meer handhavers",
+   "basis": "programma p.54"
+  }
+ },
+ {
+  "sleutel": "asiel-kader-dorpen|christenunie",
+  "id": "asiel-kader-dorpen",
+  "slug": "christenunie",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "asiel-kader-dorpen",
+   "s": 1,
+   "kern": "Wil kleinschalige opvang verspreid over de hele gemeente.",
+   "toelichting": "De lijst wil voldoende opvang voor vluchtelingen, maar kleinschalig, en het woningaanbod voor statushouders verspreiden over alle wijken en dorpskernen. Het Hilversumse kader uit 2023 steunde zij in de raad; het programma noemt dat kader niet.",
+   "citaat": "Voldoende opvang voor vluchtelingen, maar dan wel kleinschalig.",
+   "bron": "p. 16  |  Raad Hilversum, 20-12-2023: Beleidskader asielaanpak (CU voor)",
+   "soort": "afgeleid",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "asiel-welkomstprogramma|christenunie",
+  "id": "asiel-welkomstprogramma",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-welkomstprogramma",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "inburgering samen met Vluchtelingenwerk en kerken",
+   "basis": "programma p.15"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|christenunie",
+  "id": "cultuur-budget-niveau",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal; wel blijven investeren in cultuursubsidies",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|christenunie",
+  "id": "cultuur-monumentenregels",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "welstand moet meedenken, zonder schoonheid aan te tasten",
+   "basis": "programma p.35"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentale-scholen|christenunie",
+  "id": "cultuur-monumentale-scholen",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentale-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "renovatie heeft voorkeur boven slopen en nieuwbouw",
+   "basis": "programma p.8"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|christenunie",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "onderzoeken; raden hoeven niet per se gekozen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|christenunie",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "wil eerst onderzoeken wat nodig is",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-ozb-meestijgen|christenunie",
+  "id": "financien-ozb-meestijgen",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-ozb-meestijgen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "heffingen kostendekkend, behoudende koers, voldoende reserves",
+   "basis": "programma p.51"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|christenunie",
+  "id": "financien-heffing-draagkracht",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "heffingen kostendekkend; afval scheiden belonen",
+   "basis": "programma p.51"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|christenunie",
+  "id": "financien-investeringen-spreiden",
+  "slug": "christenunie",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "schuldquote nooit boven 130%; geen risicovolle investeringen",
+   "basis": "programma p.51"
+  }
+ }
+]

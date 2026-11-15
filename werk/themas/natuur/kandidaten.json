@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "natuur-afsluiten",
+    "onderwerp": "natuur of recreatie",
+    "kop": "Kwetsbare natuur afsluiten",
+    "stelling": "De gemeente steunt natuurbeheerders als zij kwetsbare stukken heide, bos of plas tijdelijk afsluiten voor bezoekers.",
+    "uitleg": "Het Goois Natuurreservaat en Natuurmonumenten beheren veel heide, bos en plassengebied in de gemeente. Zij sluiten soms paden of gebieden af om planten en dieren rust te geven, wat tot discussie met inwoners leidt. De gemeente is geen beheerder, maar zit in het bestuur van het Goois Natuurreservaat en kan steun of kritiek laten horen.",
+    "voor": "Sommige dieren en planten herstellen alleen als ze een tijd echt met rust worden gelaten.",
+    "tegen": "Natuur is er om van te genieten; wie gebieden afsluit, vervreemdt inwoners juist van de natuur.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "balans en maatwerk; kwetsbare plekken beschermen",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "bij spanning kiest PRO voor natuur, wel zo open mogelijk",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "balans tussen recreatie en natuurbescherming",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "balans moet verschuiven van afsluiten naar gebruik",
+        "basis": "programma p.25"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "toegankelijk, maar natuur heeft soms hersteltijd nodig",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "tijdelijke afsluiting in overleg bezien; recreatiedruk beperken",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "natuur is er voor iedereen, gratis toegankelijk",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "kwetsbare natuur waar nodig afschermen",
+        "basis": "programma p.37"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "kwetsbare natuur beschermen, onnodige afsluitingen voorkomen",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "evenwicht tussen toegankelijkheid en bescherming",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "inwoners moeten van natuurgebieden kunnen blijven genieten",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "belangen van inwoners moeten zwaar wegen",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "wandelaars, sporters en hondenbezitters volop ruimte",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "natuurbehoud weegt zwaarder dan vrije recreatie",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "steunt waar nodig afsluiten van gebieden voor mensen",
+        "basis": "programma p.22"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "natuurbeleving schept begrip; recreatie even zwaar",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "gebieden niet onnodig afsluiten; beperkingen goed onderbouwen",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "natuur beschermen én genoeg ruimte voor wandelen",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "ontspanning in de natuur moet mogelijk blijven",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "tegen volledig afsluiten zoals Natuurmonumenten doet",
+        "basis": "programma p.16"
+      }
+    },
+    "spreiding": "PvdD, ChristenUnie, PRO, CDA en Lokaal Eén staan tegenover VVD, BBB en de meeste lokale lijsten; de stelling scheidt CDA van VVD, Lokaal Eén van Gewoon, Hilversum en Opstand.nu van SP.",
+    "twijfel": "Veel posities komen uit de Stemgids-stelling over 'even zwaar wegen', niet over tijdelijk afsluiten; CDA en Lokaal Eén zijn op basis van hun toelichting op +1 gezet. SP stemde in 2024 tegen het amendement 'Balans natuurbehoud vs. recreatie' maar antwoordt nu 'voor' gelijke weging."
+  },
+  {
+    "id": "natuur-honden",
+    "onderwerp": "natuur of recreatie",
+    "kop": "Honden los in de natuur",
+    "stelling": "Honden moeten in natuurgebieden zoals de heide op veel plekken los kunnen lopen.",
+    "uitleg": "In natuurgebieden gelden regels voor honden, zoals aanlijnplicht in het broedseizoen of op bepaalde plekken. De beheerders en de gemeente bepalen samen waar honden los mogen. Sommige lijsten willen honden juist naar aparte uitlaatveldjes buiten kwetsbare natuur sturen.",
+    "voor": "Hondenbezitters zijn trouwe natuurbezoekers en met duidelijke regels gaat dat goed samen.",
+    "tegen": "Loslopende honden verstoren grondbroeders en wild; aparte uitlaatplekken beschermen de natuur beter.",
+    "posities": {
+      "hart-voor-hilversum": null,
+      "pro": null,
+      "d66": null,
+      "vvd": {
+        "s": 1,
+        "kern": "honden welkom in natuurgebieden, met redelijke regels",
+        "basis": "programma p.25"
+      },
+      "cda": null,
+      "lokaal-een": null,
+      "sp": null,
+      "christenunie": {
+        "s": -1,
+        "kern": "honden uitlaten is intensieve recreatie; aparte uitlaatveldjes",
+        "basis": "programma p.37"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "honden uitlaten moet zoveel mogelijk toegankelijk blijven",
+        "basis": "stemgids"
+      },
+      "scb": null,
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "genoeg losloopgebieden in wijken, met oog voor kwetsbare natuur",
+        "basis": "programma p.30"
+      },
+      "dorp-voor-dorp": null,
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "hondenbezitters moeten volop ruimte krijgen in natuurgebieden",
+        "basis": "stemgids"
+      },
+      "opstand-nu": null,
+      "pvdd": {
+        "s": -1,
+        "kern": "losloopplekken alleen waar wilde dieren geen gevaar lopen",
+        "basis": "programma p.18"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": null,
+      "volt": null,
+      "fvd": null,
+      "bbb": null
+    },
+    "spreiding": "Stop Betaald Parkeren-VIP, VVD en BVNL staan tegenover ChristenUnie en PvdD; het scheidt Stop Betaald Parkeren-VIP van Gewoon, Hilversum.",
+    "twijfel": "Slechts zes lijsten hebben een standpunt; de meeste programma's zwijgen over honden in de natuur."
+  },
+  {
+    "id": "natuur-snelvaren",
+    "onderwerp": "plassen en varen",
+    "kop": "Stoppen met snelvaren",
+    "stelling": "Op de Loosdrechtse Plassen moet het snelvaren en waterskiën stoppen.",
+    "uitleg": "Op de Loosdrechtse Plassen mag op aangewezen plekken met een ontheffing harder worden gevaren dan normaal, bijvoorbeeld om te waterskiën. Het Plassenschap geeft die ontheffing; de gemeente is daarin partner. Voorstanders van stoppen wijzen op natuur en veiligheid, tegenstanders op watersport, vakantie en werkgelegenheid.",
+    "voor": "Snelvaren maakt lawaai, verstoort de natuur en kan gevaarlijk zijn voor zwemmers en kanoërs.",
+    "tegen": "Watersport is voor veel mensen hun vakantie en er hangt werk aan; aanpakken van overlast is genoeg.",
+    "posities": {
+      "hart-voor-hilversum": null,
+      "pro": {
+        "s": 2,
+        "kern": "snelvaren beëindigen, in overleg met Plassenschap en ondernemers",
+        "basis": "programma p.30"
+      },
+      "d66": null,
+      "vvd": {
+        "s": -1,
+        "kern": "overlast door snelvaren aanpakken, maar niet alles kapotregelen",
+        "basis": "programma p.12"
+      },
+      "cda": null,
+      "lokaal-een": null,
+      "sp": {
+        "s": -2,
+        "kern": "ontheffing voor snelvaren blijft; wel handhaving en vaarvrije zones",
+        "basis": "programma p.29"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "lichte recreatie voorop; intensieve activiteiten op aparte plekken",
+        "basis": "programma p.37"
+      },
+      "bvnl": null,
+      "scb": null,
+      "gewoon-hilversum": null,
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "meer ruimte voor varen en recreatie op de plassen",
+        "basis": "mijnstem, afgeleid"
+      },
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": 1,
+        "kern": "vanaf 2030 alleen elektrische, roei- en zeilboten op gemeentewater",
+        "basis": "programma p.57, afgeleid"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": -1,
+        "kern": "varen moet mogelijk blijven, met respect voor gebruiksrechten",
+        "basis": "mijnstem, afgeleid"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "overlast beperken door handhaving op bootsnelheid en geluid",
+        "basis": "programma p.14"
+      },
+      "fvd": null,
+      "bbb": null
+    },
+    "spreiding": "PRO staat lijnrecht tegenover SP, twee linkse partijen die elders vaak samen optrekken; Volt en ChristenUnie zitten in het midden.",
+    "twijfel": "CDA wil 'optreden tegen snelvaren', maar dat lijkt over illegaal hard varen op het kanaal en de Spiegelplas te gaan; daarom null. De PvdD-positie is afgeleid van het plan voor alleen emissievrije boten."
+  },
+  {
+    "id": "natuur-plassen-uitbreiden",
+    "onderwerp": "plassen en varen",
+    "kop": "Meer recreatie rond plassen",
+    "stelling": "Rond de Loosdrechtse Plassen mag ruimte komen voor meer jachthavens, vakantieparken en horeca.",
+    "uitleg": "Het plassengebied is een belangrijk recreatiegebied en tegelijk beschermde natuur. Ondernemers willen soms uitbreiden; de gemeente beslist via het omgevingsplan waar dat mag. Lijsten verschillen over de vraag of er groei bij mag komen of dat de huidige omvang genoeg is.",
+    "voor": "Recreatie houdt de dorpen levendig en zorgt voor banen en inkomsten voor lokale ondernemers.",
+    "tegen": "Meer drukte, bebouwing en bootverkeer gaat ten koste van rust, waterkwaliteit en natuur.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "balans tussen recreatie, natuur en ondernemerschap",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "natuur en waterkwaliteit voorop, met verdienmodel voor recreatie",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "goede voorzieningen voor watersport, niet ten koste van natuur",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "recreatie is geen restpost maar een speerpunt",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "recreatie en natuur kunnen goed naast elkaar bestaan",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "balans; vakantieparken geen besloten villaparken",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "de huidige balans is goed",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "voorkeur voor lichte recreatie, kwetsbare natuur beschermen",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": 0,
+        "kern": "recreatie belangrijk, maar niet ten koste van natuur",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "rust, groen en natuur voldoende ruimte geven",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "balans; sociale campings behouden",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "meer ruimte voor varen, zwemmen en recreatie",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "recreatie, horeca en watersport ruimte waar het past",
+        "basis": "programma p.33"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "natuurbehoud gaat voor uitbreiding van recreatie",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "recreatie mag nooit ten koste gaan van natuur",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "per gebied kijken; natuurvriendelijke recreatie",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "kiest niet tussen recreatie en natuur",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "tegen grootschalige bouw- en recreatieontwikkeling",
+        "basis": "programma p.14"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "water en landschap als economische kracht voor toerisme",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "natuur hoeft niet op slot; recreatie en natuur samen",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Dorp voor Dorp, VVD, BBB, FvD en Stop Betaald Parkeren-VIP staan tegenover Volt, PvdD, Opstand.nu, PRO en ChristenUnie; de stelling scheidt Dorp voor Dorp van Hart voor Hilversum en Lokaal Eén, en BVNL van BBB en FvD.",
+    "twijfel": "De meeste posities komen van de MijnStem-schuifbalk 'meer recreatie of meer rust', niet over nieuwe bebouwing. BVNL zegt in het programma dat recreatie niet ten koste van natuur mag gaan, maar kiest in MijnStem sterk voor recreatie (19); daarom 0."
+  },
+  {
+    "id": "natuur-recreant-betaalt",
+    "onderwerp": "plassen en varen",
+    "kop": "Recreant betaalt mee",
+    "stelling": "Booteigenaren en toeristen gaan via gemeentebelastingen meer meebetalen aan schoon water en natuur in het plassengebied.",
+    "uitleg": "De gemeente heft toeristenbelasting op overnachtingen en in Hilversum bestaat een kleine belasting op pleziervaartuigen (de 'bootjes-' of 'sloepjesbelasting', volgens de VVD zo'n 75.000 euro per jaar). Na de fusie moeten deze belastingen gelijkgetrokken worden. De vraag is of bezoekers en booteigenaren meer moeten bijdragen aan het onderhoud van water en natuur.",
+    "voor": "Wie gebruikmaakt van de plassen, zorgt ook voor slijtage en vervuiling en kan dus meebetalen aan het herstel.",
+    "tegen": "Extra heffingen jagen bezoekers weg en treffen ondernemers, terwijl de opbrengst klein is.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -2,
+        "kern": "bootjesbelasting afschaffen; toeristenbelasting niet zomaar verhogen",
+        "basis": "programma p.12"
+      },
+      "pro": null,
+      "d66": null,
+      "vvd": {
+        "s": -2,
+        "kern": "sloepjesbelasting afschaffen; lastenstapeling voorkomen",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "inzichtelijk maken wat toeristenbelasting oplevert en waar het heen gaat",
+        "basis": "programma p.53"
+      },
+      "lokaal-een": null,
+      "sp": {
+        "s": 1,
+        "kern": "toeristen- en forensenbelasting in de hele gemeente",
+        "basis": "programma p.36"
+      },
+      "christenunie": null,
+      "bvnl": {
+        "s": -1,
+        "kern": "toeristenbelasting terughoudend gebruiken, geen melkkoe",
+        "basis": "programma"
+      },
+      "scb": null,
+      "gewoon-hilversum": null,
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "opbrengsten uit recreatie ten goede laten komen aan natuur",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": {
+        "s": 0,
+        "kern": "kritisch kijken naar toeristen- en forensenbelasting",
+        "basis": "programma p.9"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "toeristenbelasting inzetten om natuur te versterken",
+        "basis": "programma p.36"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": -2,
+        "kern": "tegen toeristenbelasting; geen verhogingen voor andere uitgaven",
+        "basis": "programma p.23"
+      },
+      "volt": null,
+      "fvd": null,
+      "bbb": {
+        "s": 0,
+        "kern": "laag tarief; opbrengst moet terug naar recreatie",
+        "basis": "programma p.19"
+      }
+    },
+    "spreiding": "PvdD, SP en Dorp voor Dorp staan tegenover Hart voor Hilversum, VVD, LFD en BVNL; Dorp voor Dorp komt hier aan de andere kant dan de andere rechtse lokale lijsten.",
+    "twijfel": "Raakt aan het thema financiën. Alleen Hart voor Hilversum en VVD noemen de bootjesbelasting zelf; de overige posities gaan over toeristenbelasting."
+  },
+  {
+    "id": "natuur-maaien",
+    "onderwerp": "groen in de wijk",
+    "kop": "Vaker maaien in de wijk",
+    "stelling": "In woonwijken maait de gemeente het groen vaker, zodat het er verzorgd uitziet, ook als er dan minder bloemen en insecten zijn.",
+    "uitleg": "Hilversum maait op veel plekken minder vaak om bloemen, bijen en vlinders kansen te geven. Sommige inwoners vinden plantsoenen en bermen daardoor rommelig of onveilig. De gemeente bepaalt zelf hoe vaak en waar zij maait.",
+    "voor": "Een nette, overzichtelijke wijk voelt veiliger en nodigt minder uit tot rommel en verloedering.",
+    "tegen": "Minder maaien is goedkoop en helpt bijen, vlinders en vogels, die het in de stad al moeilijk hebben.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "veiligheid, gebruik, biodiversiteit en kosten zichtbaar afwegen",
+        "basis": "programma p.9"
+      },
+      "pro": null,
+      "d66": null,
+      "vvd": null,
+      "cda": {
+        "s": 0,
+        "kern": "natuurlijk beheer waar het past, verzorgd groen elders",
+        "basis": "programma p.27"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "aangepast maaibeleid, ecologische bermen en bloemranden",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "groenbeheer dat rekening houdt met bijen en insecten",
+        "basis": "programma p.30"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "meer inheemse soorten en bijenlandschappen",
+        "basis": "programma p.36, afgeleid"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "biodiversiteit mag niet leiden tot verloederde wijken",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "goed onderhoud van groen in woonwijken",
+        "basis": "programma p.7, afgeleid"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "maaibeleid te veel op biodiversiteit gericht; meer netheid",
+        "basis": "programma p.27"
+      },
+      "dorp-voor-dorp": null,
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": -2,
+        "kern": "ecologisch maaibeleid met minder maaien",
+        "basis": "programma p.17"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": 0,
+        "kern": "ecologisch waar zinvol, maaien waar veiligheid dat vraagt",
+        "basis": "programma p.9"
+      },
+      "volt": null,
+      "fvd": {
+        "s": 1,
+        "kern": "goed groenonderhoud tegen straatvuil",
+        "basis": "programma, afgeleid"
+      },
+      "bbb": null
+    },
+    "spreiding": "Gewoon, Hilversum, BVNL, SCB en FvD staan tegenover Lokaal Eén, PvdD, SP en ChristenUnie; de stelling scheidt Gewoon, Hilversum van Lokaal Eén en BVNL van BBB (die in het buitengebied ecologisch bermbeheer wil).",
+    "twijfel": "SCB en FvD vragen alleen om 'goed onderhoud'; hun +1 is afgeleid. BBB (ecologisch bermbeheer) en VVD (claimt 'slim maaibeheer' als resultaat) spreken over bermen, niet over woonwijken; daarom null."
+  },
+  {
+    "id": "natuur-snippergroen",
+    "onderwerp": "groen en bouwen",
+    "kop": "Bouwen op wijkgroen",
+    "stelling": "Om meer woningen te bouwen mag de gemeente kleine stukken openbaar groen in wijken en dorpen bebouwen.",
+    "uitleg": "In Hilversum is na een amendement uit 2024 afgesproken dat in de meest versteende wijken geen openbaar groen meer verdwijnt. Tegelijk is er grote woningnood en wordt gezocht naar bouwplekken, ook op kleine groenstroken of grasvelden. De keuze is of zulk groen mag wijken voor woningen.",
+    "voor": "De woningnood is zo groot dat ook kleine plekken met weinig waarde voor natuur moeten kunnen worden gebruikt.",
+    "tegen": "Groen in de wijk is nodig tegen hitte en wateroverlast en is, eenmaal bebouwd, voorgoed weg.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "in principe niet, tenzij goede compensatie mogelijk is",
+        "basis": "hilversumsnieuws"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "liever verdichten en hoogbouw, zodat er ruimte voor groen blijft",
+        "basis": "hilversumsnieuws"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "liever niet, maar woningnood vraagt slimme keuzes",
+        "basis": "hilversumsnieuws"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "als het echt niet anders kan, op kleine schaal",
+        "basis": "hilversumsnieuws"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "soms nodig voor woningbouw, met vervangend groen",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "hoeveelheid groen moet passen bij het aantal woningen",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "in versteende buurten mag geen groen meer verdwijnen",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "woningen mogen niet ten koste gaan van groene leefomgeving",
+        "basis": "hilversumsnieuws"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "behoud groen, tenzij volledig gecompenseerd in de buurt",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "waardevol groen niet zomaar opofferen voor woningbouw",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "ruimte voor woningen op snippergroen en waar veel groen is",
+        "basis": "hilversumsnieuws"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "wijken en dorpen moeten groen blijven",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "in versteende buurten elke boom en elk parkje koesteren",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "liefst niet, hooguit onbenutte percelen zoals het Heksenweitje",
+        "basis": "hilversumsnieuws"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "niet bouwen in het groen",
+        "basis": "hilversumsnieuws"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "alleen kleinschalige initiatieven die de natuur versterken",
+        "basis": "hilversumsnieuws"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "geen absoluut verbod; plannen op hun merites beoordelen",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "groen wordt niet vervangen door gebouwen",
+        "basis": "programma p.16"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "bestaand groen beschermen",
+        "basis": "hilversumsnieuws"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "wat groen is, moet groen blijven",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Gewoon, Hilversum, D66, VVD, CDA en LFD staan tegenover bijna alle andere lijsten; de stelling scheidt Gewoon, Hilversum van Lokaal Eén en Stop Betaald Parkeren-VIP, D66 van PRO en Volt, en VVD van BBB en FvD.",
+    "twijfel": "CDA antwoordde in de Stemgids neutraal (soms opofferen) maar in Hilversums Nieuws 'oneens' over groen opofferen in het algemeen; +1 is gebaseerd op de wijkgroen-toelichting. Hilversums Nieuws vroeg breder naar 'groen opofferen', niet specifiek naar wijkgroen."
+  },
+  {
+    "id": "natuur-groennorm",
+    "onderwerp": "groen en bouwen",
+    "kop": "Groennorm verplicht",
+    "stelling": "Bij elk nieuwbouwplan is de groennorm 3-30-300 verplicht, ook als er daardoor minder woningen passen.",
+    "uitleg": "De 3-30-300-norm betekent: vanuit elk huis drie bomen zien, 30 procent van de buurt onder bladerdak en binnen 300 meter een park of groene plek. Veel lijsten noemen de norm als richtlijn of ambitie. De vraag is of hij een harde eis wordt die voorgaat op het aantal woningen.",
+    "voor": "Alleen een harde eis voorkomt dat groen bij elk bouwplan het sluitstuk wordt.",
+    "tegen": "Een starre norm maakt bouwen duurder en trager en kost woningen die hard nodig zijn.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "meer regels remmen woningbouw; liever maatwerk",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "stap voor stap naar 3-30-300, maar ook verdichting",
+        "basis": "programma p.7"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "ontwerpen volgens 3-30-300, woningnood ook zwaar",
+        "basis": "programma p.12"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "groen mag soms wijken als het echt niet anders kan",
+        "basis": "hilversumsnieuws, afgeleid"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "soms groen opofferen voor woningbouw",
+        "basis": "stemgids, afgeleid"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "groen moet passen bij de bebouwingsdichtheid",
+        "basis": "programma p.1"
+      },
+      "sp": null,
+      "christenunie": {
+        "s": 1,
+        "kern": "3-30-300 hanteren voor nieuwbouw en bestaande wijken",
+        "basis": "programma p.36"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "snellere procedures en minder regels voor woningbouw",
+        "basis": "hilversumsnieuws, afgeleid"
+      },
+      "scb": null,
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "alle kansen voor woningbouw pakken",
+        "basis": "mijnstem, afgeleid"
+      },
+      "dorp-voor-dorp": null,
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "groen vanaf het begin meenemen; woning heeft hoge prioriteit",
+        "basis": "programma p.33"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "meer stedelijk groen bij nieuwbouw",
+        "basis": "programma p.5"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "iedereen drie bomen, 30% kroon, park binnen 300 meter",
+        "basis": "programma p.27"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": -2,
+        "kern": "gemeente schrijft particulieren niet meer voor dan nodig",
+        "basis": "programma p.9"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "groen niet vervangen door gebouwen",
+        "basis": "programma p.16, afgeleid"
+      },
+      "fvd": null,
+      "bbb": {
+        "s": 0,
+        "kern": "bij nieuwbouw zoveel mogelijk 3-30-300 bereiken",
+        "basis": "programma p.16"
+      }
+    },
+    "spreiding": "PvdD, ChristenUnie, Lokaal Eén, Volt en Opstand.nu staan tegenover LFD, Hart voor Hilversum, VVD, CDA, BVNL en Gewoon, Hilversum; de stelling trekt PRO en D66 (beide 0) los van PvdD en Volt.",
+    "twijfel": "Veel lijsten noemen de norm zonder te zeggen of die voorgaat op het aantal woningen; de minposities van VVD, CDA, BVNL en Gewoon, Hilversum zijn afgeleid uit hun woningbouwantwoorden."
+  },
+  {
+    "id": "natuur-bomen",
+    "onderwerp": "bomen",
+    "kop": "Kappen met herplant",
+    "stelling": "Een boom mag wijken voor een bouw- of wegenplan, als er in de buurt een stevige nieuwe boom voor terugkomt.",
+    "uitleg": "Voor het kappen van grotere bomen is een vergunning nodig (in Hilversum vanaf 30 centimeter stamdoorsnede, in Wijdemeren vanaf 20). Bij bouw- en wegenplannen sneuvelen regelmatig bomen, met een herplantplicht als compensatie. Lijsten verschillen over de vraag of herplant genoeg is of dat bestaande bomen in principe moeten blijven staan.",
+    "voor": "Met een stevige nieuwe boom komt het groen terug, terwijl nodige plannen voor wonen en verkeer doorgaan.",
+    "tegen": "Een oude boom geeft veel meer schaduw en natuur dan een jonge en is pas na tientallen jaren vervangen.",
+    "posities": {
+      "hart-voor-hilversum": null,
+      "pro": null,
+      "d66": {
+        "s": 0,
+        "kern": "bomenlanen behouden, gekapte bomen sneller vervangen",
+        "basis": "programma p.17"
+      },
+      "vvd": null,
+      "cda": {
+        "s": 2,
+        "kern": "gekapte bomen waar mogelijk vervangen door volwassen bomen",
+        "basis": "programma p.27"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "herplantplicht actualiseren, beeldbepalend groen beschermen",
+        "basis": "programma p.1"
+      },
+      "sp": null,
+      "christenunie": null,
+      "bvnl": {
+        "s": 1,
+        "kern": "groen behouden tenzij het volledig in de buurt wordt gecompenseerd",
+        "basis": "stemgids"
+      },
+      "scb": null,
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "voor elke gekapte boom minstens één, bij grote bomen een stevigere",
+        "basis": "programma p.26"
+      },
+      "dorp-voor-dorp": null,
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "waardevolle bomen behouden waar het kan, anders herstel ter plekke",
+        "basis": "programma p.33"
+      },
+      "opstand-nu": null,
+      "pvdd": {
+        "s": -2,
+        "kern": "bij nieuwbouw geen bomen kappen, eromheen bouwen",
+        "basis": "programma p.28"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": 2,
+        "kern": "niet iedere boom hoeft te blijven; echte herplant in de buurt",
+        "basis": "programma p.9"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "groen in de gemeente niet vervangen door gebouwen",
+        "basis": "programma p.16, afgeleid"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "bestaande bomen en groen beschermen",
+        "basis": "stemgids"
+      },
+      "bbb": null
+    },
+    "spreiding": "Gewoon, Hilversum, CDA en LFD staan tegenover PvdD, Volt en FvD; de stelling scheidt FvD van BVNL en Gewoon, Hilversum van Lokaal Eén.",
+    "twijfel": "ChristenUnie (wil dat het bomenbestand groeit) en SP hebben geen duidelijke positie op de afweging; FvD en Volt zijn afgeleid uit algemene uitspraken over groen behouden."
+  },
+  {
+    "id": "natuur-landbouw-natuur",
+    "onderwerp": "boeren en natuur",
+    "kop": "Landbouwgrond wordt natuur",
+    "stelling": "In de polders bij de plassen moet een deel van de landbouwgrond nieuwe natuur worden.",
+    "uitleg": "Met het Gebiedsakkoord Oostelijke Vechtplassen (2017) is afgesproken ongeveer 600 hectare nieuwe natuur te maken, onder meer bij Kortenhoef, de Weersloot en de Ster van Loosdrecht. Dat gaat vaak ten koste van weidegrond; het akkoord loopt in 2027 af. De provincie heeft het voortouw, de gemeente kan meewerken, aanjagen of afremmen.",
+    "voor": "Meer natuur zorgt voor schoner water, minder bodemdaling en herstel van planten en dieren in het plassengebied.",
+    "tegen": "Boeren beheren het landschap al eeuwen en goede landbouwgrond die verdwijnt, komt nooit terug.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "balans tussen natuur en landbouw",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "provinciale plannen voor nieuwe natuur in het Plassengebied steunen",
+        "basis": "programma p.29"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "natuur in het buitengebied beschermen en versterken",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 0,
+        "kern": "natuur beschermen, maar boeren moeten ruimte houden",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "landbouw en natuur kunnen hand in hand gaan",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "landbouw en natuur onlosmakelijk verbonden",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "de huidige balans is goed",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "balans tussen natuur, recreatie en duurzame landbouw",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "natuur mag niet betekenen dat landbouwgrond verdwijnt",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "ruimte houden voor natuur naast landbouw",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "landbouw is ook natuur; boeren horen bij het landschap",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "agrarische grond niet onnodig laten verdwijnen",
+        "basis": "programma p.76"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "balans; ondernemers in buitengebied ruimte waar het past",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "natuur voorop, ruimte voor biologische landbouw",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "deel van de landbouwgrond omvormen tot natuur",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "inzetten op regeneratieve landbouw en voedselbossen",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "landbouw en natuur niet tegenover elkaar zetten",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "600 hectare nieuwe natuur uit het gebiedsakkoord binnen drie jaar",
+        "basis": "programma p.15"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "zonder boeren geen eten; agrariërs vrij laten ondernemen",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "agrarische sector en natuur allebei beschermen",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "PvdD, Volt en PRO (met D66, SCB en Opstand.nu) staan tegenover BVNL, FvD, BBB, Dorp voor Dorp en Gewoon, Hilversum; de stelling scheidt SCB van de andere rechtse lijsten en Blanco van de groene partijen.",
+    "twijfel": "Veel posities komen van de MijnStem-schuifbalk 'landbouw of natuur'; acht lijsten zitten precies in het midden. BBB koos 50 maar is fel tegen onteigening; -1."
+  },
+  {
+    "id": "natuur-stikstof-boeren",
+    "onderwerp": "boeren en natuur",
+    "kop": "Boeren beschermen tegen stikstofregels",
+    "stelling": "De gemeente verzet zich tegen strengere stikstofregels voor boeren bij de plassen, ook als de natuur daardoor trager herstelt.",
+    "uitleg": "Het kabinet heeft in juli 2026 stikstofplannen gepresenteerd met beperkingen voor boeren vlak bij beschermde natuur (een bufferzone van 500 meter); rond de Vechtplassen gaat het om enkele tientallen bedrijven. De regels komen van Rijk en provincie, maar de gemeente kan meewerken, ruimte bieden voor andere inkomsten of bezwaar maken.",
+    "voor": "De rekening van het natuurherstel komt nu vooral bij een kleine groep boeren terecht, terwijl andere sectoren ook uitstoten.",
+    "tegen": "Zonder minder stikstof herstelt de natuur bij de plassen niet en blijft ook bouwen en andere ontwikkeling vastzitten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "balans natuur en landbouw; boeren als landschapsbeheerders",
+        "basis": "programma p.13"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "steunt de kabinetsplannen, ook beperkingen in de bufferzone",
+        "basis": "programma p.30"
+      },
+      "d66": null,
+      "vvd": null,
+      "cda": {
+        "s": 1,
+        "kern": "besluiten niet zonder de boeren; agrariërs niet dwingen",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "bufferzones alleen in samenwerking; ruimte voor bestaansrecht",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "rekening van stikstof niet eenzijdig bij boeren",
+        "basis": "programma p.14"
+      },
+      "christenunie": null,
+      "bvnl": {
+        "s": 2,
+        "kern": "gedwongen uitkoop of onteigening past niet",
+        "basis": "mijnstem"
+      },
+      "scb": null,
+      "gewoon-hilversum": null,
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "tegen gedwongen uitkoop; stikstofbeleid helemaal herzien",
+        "basis": "programma p.76"
+      },
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": -2,
+        "kern": "geen uitbreiding veehouderij; regionaal pleiten voor afbouw",
+        "basis": "programma p.16"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": 2,
+        "kern": "agrariërs beschermen tegen disproportionele stikstofeisen",
+        "basis": "programma p.13"
+      },
+      "volt": {
+        "s": -1,
+        "kern": "land in de bufferzone moet de natuur ondersteunen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "agrariërs vrijheid geven en regeldruk verminderen",
+        "basis": "programma, afgeleid"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "rekening komt eenzijdig bij de boer; fel tegen onteigening",
+        "basis": "programma p.20"
+      }
+    },
+    "spreiding": "BBB, Dorp voor Dorp, LFD en BVNL (met CDA, SP en FvD) staan tegenover PRO, PvdD en Volt; de stelling zet SP tegenover PRO en PvdD.",
+    "twijfel": "Gemeentelijke bevoegdheid is beperkt; de stelling meet vooral houding. D66, ChristenUnie en de meeste lokale lijsten hebben geen stikstofstandpunt in het materiaal."
+  },
+  {
+    "id": "natuur-gifzone",
+    "onderwerp": "boeren en natuur",
+    "kop": "Gifvrije zone rond huizen",
+    "stelling": "Rond woningen en scholen komt een spuitvrije zone, waarin het spuiten van landbouwgif verboden is.",
+    "uitleg": "Boeren en telers gebruiken bestrijdingsmiddelen, soms vlak naast huizen en scholen. Een gemeente kan in het omgevingsplan regels stellen over waar welke teelt mag. Voorstanders wijzen op gezondheid, tegenstanders op regeldruk en op de toelating van middelen door het Rijk.",
+    "voor": "Omwonenden en kinderen mogen niet ongevraagd worden blootgesteld aan landbouwgif.",
+    "tegen": "Toegelaten middelen zijn door het Rijk getoetst; extra lokale verboden maken het boeren onnodig moeilijk.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "geen landbouwgif rond woningen en scholen, uitvoerbare zones",
+        "basis": "programma p.13"
+      },
+      "pro": null,
+      "d66": null,
+      "vvd": null,
+      "cda": {
+        "s": -1,
+        "kern": "geen onnodige lokale regels voor boeren",
+        "basis": "programma p.53, afgeleid"
+      },
+      "lokaal-een": null,
+      "sp": {
+        "s": 2,
+        "kern": "geen nieuwe gif-intensieve teelt binnen 250 meter van woningen",
+        "basis": "programma p.14"
+      },
+      "christenunie": null,
+      "bvnl": {
+        "s": -2,
+        "kern": "voorzichtig toepassen op basis van wetenschap, geen verbod",
+        "basis": "programma"
+      },
+      "scb": null,
+      "gewoon-hilversum": null,
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "vrijwillige oplossingen in plaats van dwang",
+        "basis": "programma p.76, afgeleid"
+      },
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": 1,
+        "kern": "gemeente ontmoedigt gif bij bedrijven en inwoners",
+        "basis": "programma p.17"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": {
+        "s": -1,
+        "kern": "samenwerking heeft voorkeur boven eenzijdige verboden",
+        "basis": "programma p.16, afgeleid"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "landbouw mag geen bestrijdingsmiddelen naar de natuur brengen",
+        "basis": "mijnstem, afgeleid"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "minder regeldruk voor agrariërs",
+        "basis": "programma, afgeleid"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "geen stapeling van regels voor agrarische bedrijven",
+        "basis": "programma p.20, afgeleid"
+      }
+    },
+    "spreiding": "Hart voor Hilversum en SP (met PvdD en Volt) staan tegenover BVNL, LFD, Dorp voor Dorp, CDA, FvD en BBB; de stelling scheidt Hart voor Hilversum duidelijk van de andere lokale lijsten.",
+    "twijfel": "De minposities, op BVNL na, zijn afgeleid uit algemene uitspraken tegen regeldruk; dat kan te ver gaan. D66 (pacht zonder chemische bestrijding) en ChristenUnie (gifvrij eigen beheer) spreken alleen over gemeentegrond; daarom null."
+  },
+  {
+    "id": "natuur-wolf",
+    "onderwerp": "wilde dieren",
+    "kop": "Probleemwolven afschieten",
+    "stelling": "De gemeente vraagt de provincie om wolven die vee of huisdieren aanvallen te laten afschieten.",
+    "uitleg": "Wolven worden ook in het Gooi en de Vechtstreek gezien en vallen soms schapen aan. Over afschot beslist de provincie, niet de gemeente; de burgemeester kan wel ingrijpen bij direct gevaar. De gemeente kan de provincie om maatregelen vragen of juist inzetten op voorlichting en betere omheiningen.",
+    "voor": "Veehouders en hobbyboeren moeten hun dieren veilig kunnen laten weiden.",
+    "tegen": "De wolf hoort in de natuur en met goede omheiningen en voorlichting is afschieten niet nodig.",
+    "posities": {
+      "hart-voor-hilversum": null,
+      "pro": null,
+      "d66": null,
+      "vvd": null,
+      "cda": null,
+      "lokaal-een": null,
+      "sp": null,
+      "christenunie": null,
+      "bvnl": null,
+      "scb": null,
+      "gewoon-hilversum": null,
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "onderzoeken of gericht afschot van probleemwolven het meest humaan is",
+        "basis": "programma p.79"
+      },
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": -2,
+        "kern": "afschieten is geen optie; voorlichting en subsidie voor preventie",
+        "basis": "programma p.17"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": null,
+      "volt": null,
+      "fvd": {
+        "s": 2,
+        "kern": "wolfvrije zone en afschot van probleemwolven eisen",
+        "basis": "programma"
+      },
+      "bbb": null
+    },
+    "spreiding": "FvD en Dorp voor Dorp staan tegenover PvdD; de stelling geeft Dorp voor Dorp een plek tussen FvD en de rest.",
+    "twijfel": "Slechts drie lijsten hebben een standpunt; geschikt als verdieping voor kiezers die deze lijsten vergelijken, minder als algemene stelling."
+  },
+  {
+    "id": "natuur-donker",
+    "onderwerp": "licht en donker",
+    "kop": "Donkere fietspaden",
+    "stelling": "Fietspaden door bos, heide en polder blijven 's nachts onverlicht, zodat dieren rust hebben.",
+    "uitleg": "Licht in de nacht verstoort vleermuizen, vogels en insecten. Tegelijk voelen fietsers, vooral vrouwen en jongeren, zich op donkere routes soms onveilig. De gemeente beslist over verlichting langs haar fietspaden, bijvoorbeeld ook over slimme lampen die alleen aangaan als er iemand langskomt.",
+    "voor": "Donkerte is een natuurwaarde en elke extra lamp verstoort dieren in de natuurgebieden.",
+    "tegen": "Iedereen moet 's avonds veilig naar huis kunnen fietsen; slimme verlichting kan dat combineren met natuur.",
+    "posities": {
+      "hart-voor-hilversum": null,
+      "pro": null,
+      "d66": null,
+      "vvd": {
+        "s": -2,
+        "kern": "betere verlichting van fietspaden voor veiligheid",
+        "basis": "programma p.11"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "donkerte en stilte zijn natuurwaarden, ook bij verlichting",
+        "basis": "programma p.26"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "slimme verlichting met bewegingsdetectie aan natuurranden",
+        "basis": "programma p.1"
+      },
+      "sp": null,
+      "christenunie": null,
+      "bvnl": null,
+      "scb": null,
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "niet overal meer licht, maar goed licht op de juiste plaats",
+        "basis": "programma p.27"
+      },
+      "dorp-voor-dorp": null,
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": 2,
+        "kern": "uiterst terughoudend met verlichten van parken en natuurgebieden",
+        "basis": "programma p.35"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": null,
+      "volt": {
+        "s": -1,
+        "kern": "betere en slimme verlichting voor fietspaden",
+        "basis": "programma p.35"
+      },
+      "fvd": null,
+      "bbb": null
+    },
+    "spreiding": "PvdD en CDA staan tegenover VVD, Volt en Lokaal Eén; de stelling scheidt Volt van PvdD en CDA van VVD.",
+    "twijfel": "De VVD- en Volt-uitspraken gaan over fietspaden in het algemeen, niet specifiek door natuur; Lokaal Eén ziet slimme verlichting als oplossing voor beide."
+  },
+  {
+    "id": "natuur-vliegveld",
+    "onderwerp": "vliegveld",
+    "kop": "Vliegveld blijft open",
+    "stelling": "Vliegveld Hilversum blijft ook op lange termijn open.",
+    "uitleg": "Vliegveld Hilversum ligt op ruim 50 hectare tussen de heide en Loosdrecht, op grond van de gemeente, en heeft een overeenkomst voor 25 jaar. Sommige lijsten willen het op termijn sluiten en de grond grotendeels natuur maken, eventueel met woningen aan de rand. Over het vliegverkeer zelf beslist de gemeente niet, over de grond wel.",
+    "voor": "Het vliegveld en de natuur eromheen horen bij Hilversum en er zijn afspraken gemaakt.",
+    "tegen": "Sluiting levert tientallen hectares op voor nieuwe natuur en minder geluid en uitstoot van hobbyvliegen.",
+    "posities": {
+      "hart-voor-hilversum": null,
+      "pro": null,
+      "d66": {
+        "s": 0,
+        "kern": "in gesprek over woningen rond het vliegveld, banen aanpassen",
+        "basis": "programma p.11"
+      },
+      "vvd": null,
+      "cda": null,
+      "lokaal-een": null,
+      "sp": {
+        "s": 2,
+        "kern": "behoud van het vliegveld en de natuur eromheen",
+        "basis": "programma p.29"
+      },
+      "christenunie": null,
+      "bvnl": null,
+      "scb": null,
+      "gewoon-hilversum": null,
+      "dorp-voor-dorp": null,
+      "stop-betaald-parkeren-vip": null,
+      "opstand-nu": null,
+      "pvdd": {
+        "s": -2,
+        "kern": "liefst sluiten en het gebied omzetten in natuur",
+        "basis": "programma p.57"
+      },
+      "blanco-van-oostveen": null,
+      "lfd": null,
+      "volt": {
+        "s": -2,
+        "kern": "sluiting onderzoeken; driekwart natuur, aan de rand woningen",
+        "basis": "programma p.7"
+      },
+      "fvd": null,
+      "bbb": null
+    },
+    "spreiding": "SP staat tegenover PvdD en Volt, alle drie linkse partijen; D66 zoekt een tussenweg met woningen.",
+    "twijfel": "Slechts vier lijsten noemen het vliegveld. In 2022 stemde vrijwel de hele raad voor het beperken van de huurverlenging tot vijf jaar, maar later is een overeenkomst van 25 jaar gesloten; huidige posities van VVD, CDA en Hart voor Hilversum ontbreken. De woonkant hoort bij het thema wonen."
+  },
+  {
+    "id": "natuur-open-landschap",
+    "onderwerp": "groen en bouwen",
+    "kop": "Open landschap blijft open",
+    "stelling": "Het open weide- en natuurlandschap rond de dorpen blijft onbebouwd, ook als daardoor minder nieuwe woningen in de dorpen komen.",
+    "uitleg": "Rond Loosdrecht, Kortenhoef, 's-Graveland, Ankeveen, Nederhorst den Berg en Breukeleveen liggen weilanden, plassen en natuur. Voor woningbouw wordt gekeken naar uitbreiding aan de dorpsranden, zoals bij Nederhorst-Noord. Het gaat hier om de natuur- en landschapskant: mag het open landschap worden aangesneden?",
+    "voor": "Het open landschap en de zichtlijnen maken de dorpen uniek en zijn, eenmaal bebouwd, voorgoed weg.",
+    "tegen": "Jongeren en ouderen uit de dorpen moeten in hun eigen dorp kunnen blijven wonen en daarvoor is ruimte aan de rand nodig.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "beperkt bouwen buiten de kom, natuur weegt zwaar",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "lintbebouwing en randen kan, open ruimte tussen dorpen niet",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "kleinschalig 'straatje erbij' aan de dorpsrand",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "groen rond Hilversum en dorpen beschermen; wel Nederhorst-Noord",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "open landschap tussen kernen open, inpasbare plekken kunnen",
+        "basis": "programma p.26"
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "open landschap koesteren; bouwen binnen de rode contouren",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "eerst binnen de bebouwde kom; dorpen niet als uitwijkplek",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "bouwen buiten de kom mag als het past in de omgeving",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "bouwen buiten de kom moet mogelijk zijn",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "eerst passend bouwen binnen bestaande buurten",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "alle kansen voor woningbouw pakken, waar het past",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "rode lijn loslaten, uitbreiding aan de randen",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "buiten de kom als het echt nodig is, met natuurcompensatie",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "Wijdemeren onderzoeken, in Hilversum het GNR beschermen",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "zoveel mogelijk binnen de bebouwde kom bouwen",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "alleen kleine duurzame woon-werkplekken",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "niet bij voorbaat uitsluiten, maar geen doel op zich",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "we bouwen niet in het groen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "wij beschermen de groene ruimte",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "waar echt nodig buiten de kom, niet op waardevolle landbouwgrond",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Lokaal Eén, SP, PvdD, Volt (met VVD, SCB en FvD) staan tegenover Dorp voor Dorp, BVNL, D66, ChristenUnie, Gewoon, Hilversum, Stop Betaald Parkeren-VIP en BBB; de stelling scheidt Lokaal Eén van Dorp voor Dorp, D66 van Volt, FvD van BVNL en VVD van BBB.",
+    "twijfel": "Overlapt met het thema wonen (MijnStem 'meer woningbouw buiten de bebouwde kom'); de eindredactie moet bepalen in welk thema hij komt. CDA zegt in het programma 'open landschap blijft open' maar in MijnStem 72 voor bouwen buiten de kom; daarom 0."
+  }
+]

@@ -1,0 +1,364 @@
+[
+ {
+  "sleutel": "wonen-bouwtempo|blanco-van-oostveen",
+  "id": "wonen-bouwtempo",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-bouwtempo",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Megabouwprojecten zijn helemaal niet nodig",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|blanco-van-oostveen",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Geen uitzonderingen op de hoogtegrens",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-starterswoning-boven-lening|blanco-van-oostveen",
+  "id": "wonen-starterswoning-boven-lening",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-starterswoning-boven-lening",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Starterslening voor lage inkomens via revolverend fonds",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|blanco-van-oostveen",
+  "id": "verkeer-eerste-uur",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "tijden inkorten en tarieven minimaal halveren",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "verkeer-fietspad|blanco-van-oostveen",
+  "id": "verkeer-fietspad",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-fietspad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "gescheiden routes voor fiets en auto",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-alleen-rijk|blanco-van-oostveen",
+  "id": "klimaat-alleen-rijk",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-alleen-rijk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Klimaatacties zijn vooral verdienmodellen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|blanco-van-oostveen",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Noemt ouderwetse windmolens als passend alternatief",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|blanco-van-oostveen",
+  "id": "natuur-afsluiten",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "natuurbeleving schept begrip; recreatie even zwaar",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "zorg-minima-grens|blanco-van-oostveen",
+  "id": "zorg-minima-grens",
+  "slug": "blanco-van-oostveen",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "zorg-minima-grens",
+   "s": -2,
+   "kern": "Armoederegelingen voor iedereen die ze nodig heeft, maatwerk",
+   "toelichting": "De lijst wil geen harde grens op bijstandsniveau: veel mensen vallen nu buiten de regelingen terwijl ze steun nodig hebben. Ze kiest voor maatwerk per situatie.",
+   "citaat": "Maak armoedebestrijding voor iedereen mogelijk. Bekijk de situatie en pas maatwerk toe.",
+   "bron": "MijnStem: 'Armoederegelingen voor inwoners op' (50)",
+   "soort": "mijnstem",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 0,
+   "kern": "maatwerk; kijk naar situatie in plaats van harde grens",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-of-jongerenwerk|blanco-van-oostveen",
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "sociale controle en leefbaarheid in plaats van extra boa's",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|blanco-van-oostveen",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "kan een tandje minder, eerst eigen inwoners",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-kader-dorpen|blanco-van-oostveen",
+  "id": "asiel-kader-dorpen",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-kader-dorpen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "aantal, doelgroepen en locaties samen opnieuw bepalen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "economie-bruisend-hart-uitstel|blanco-van-oostveen",
+  "id": "economie-bruisend-hart-uitstel",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-bruisend-hart-uitstel",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "tegen dit plan; terug naar eerdere visie",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|blanco-van-oostveen",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "per gebied kijken; natuurvriendelijke recreatie",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|blanco-van-oostveen",
+  "id": "cultuur-budget-niveau",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "voor, met eerlijke verdeling structureel en projectmatig",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "bestuur-gelijke-regels|blanco-van-oostveen",
+  "id": "bestuur-gelijke-regels",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-gelijke-regels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "wat in dorpen geldt, ook in Hilversum: allemaal gelijk",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "bestuur-leges-dorpsevenementen|blanco-van-oostveen",
+  "id": "bestuur-leges-dorpsevenementen",
+  "slug": "blanco-van-oostveen",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "bestuur-leges-dorpsevenementen",
+   "s": 1,
+   "kern": "Geen leges voor kleine evenementen, ook niet in Hilversum",
+   "toelichting": "De lijst is voor geen leges bij kleine evenementen in de dorpen, maar wil dat ook in Hilversum toepassen. Als er leges blijven, kan dat uit de buurtbudgetten.",
+   "citaat": "Als dat nu niet verplicht is dan zou dit ook voor Hilversumse activiteiten moeten gelden.",
+   "bron": "Stemgids: 'Geen leges voor kleine dorpsevenementen' (voor)",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "als dorpen vrij zijn, dan ook Hilversum: allemaal gelijk",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|blanco-van-oostveen",
+  "id": "bestuur-referendum-advies",
+  "slug": "blanco-van-oostveen",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "referendum of ander medium voor grote besluiten",
+   "basis": "stemgids"
+  }
+ }
+]

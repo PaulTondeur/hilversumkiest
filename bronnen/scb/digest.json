@@ -1,0 +1,606 @@
+{
+  "slug": "scb",
+  "kernboodschap": "SCB (Sociaal-Conservatieve Beweging) presenteert een kort programma met een tienpuntenplan onder de noemer 'nuchtere en sociale koers'. De accenten liggen op gezin en gemeenschap, rechten en plichten, voorrang voor woningzoekenden met een sterke lokale binding, beheersbare asielopvang met integratie-eisen, en minder betaald parkeren. Het programma is vooral gericht op Hilversum en bevat weinig cijfers of namen van locaties.",
+  "speerpunten": [
+    "Voorrang op een woning voor mensen met een sterke lokale binding, binnen de wettelijke mogelijkheden",
+    "Meer betaalbare starters- en gezinswoningen, seniorenwoningen en doorstroming",
+    "Consequent optreden tegen ernstige en herhaalde overlast, naast sterk jongerenwerk",
+    "Opvang van asielzoekers beheersbaar houden, met investeringen in taal, participatie en werk",
+    "Uitbreiding van betaald parkeren tot de buitenring bij voorkeur terugdraaien",
+    "Ondersteuning van gezinnen, mantelzorgers, vrijwilligers en verenigingen",
+    "Transparant bestuur en zorgvuldig omgaan met gemeenschapsgeld"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "voorrang lokale binding",
+        "standpunt": "Voorrang voor woningzoekenden met een sterke lokale binding (geboren/opgegroeid, werkzaam, gezin of lang woonachtig in Hilversum), binnen de wettelijke mogelijkheden.",
+        "citaat": "Binnen de wettelijke mogelijkheden voorrang voor woningzoekenden met een sterke lokale binding.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "definitie lokale binding",
+        "standpunt": "SCB omschrijft sterke lokale binding als geboren of opgegroeid in Hilversum, hier werken, hier een gezin hebben opgebouwd of al lange tijd wonen.",
+        "citaat": "Daarbij denken wij aan mensen die hier zijn geboren of opgegroeid, hier werken, hun gezin hebben opgebouwd of al lange tijd wonen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "starters- en gezinswoningen",
+        "standpunt": "Meer betaalbare starterswoningen en gezinswoningen, zonder aantallen te noemen.",
+        "citaat": "Meer betaalbare starterswoningen en gezinswoningen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sociale huur en betaalbare koop",
+        "standpunt": "Voldoende sociale huurwoningen en betaalbare koopwoningen, zonder percentage of aantal.",
+        "citaat": "Voldoende sociale huurwoningen en betaalbare koopwoningen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bouwen naar behoefte",
+        "standpunt": "Bouwen naar de behoefte van Hilversum; geen locaties of aantallen genoemd.",
+        "citaat": "Bouwen naar de behoefte van Hilversum.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "voorzieningen bij nieuwbouw",
+        "standpunt": "Bij nieuwe woningbouw moeten scholen, zorg, verkeer, parkeren, groen en andere voorzieningen vanaf het begin worden meegenomen.",
+        "citaat": "Bij nieuwe woningbouw moeten scholen, zorg, verkeer, parkeren, groen en andere voorzieningen vanaf het begin worden meegenomen.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "transparantie grote bouwprojecten",
+        "standpunt": "Bij grote bouwprojecten vooraf openbaar maken hoeveel betaalbare woningen er komen, voor welke doelgroepen en wat de gevolgen voor de leefbaarheid zijn.",
+        "citaat": "Bij grote bouwprojecten vooraf duidelijk maken hoeveel betaalbare woningen worden gerealiseerd, voor welke doelgroepen en met welke gevolgen voor de leefbaarheid van de buurt.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "seniorenwoningen",
+        "standpunt": "Meer betaalbare, gelijkvloerse en levensloopbestendige woningen en kleinschalige woonvormen voor ouderen.",
+        "citaat": "Meer betaalbare, gelijkvloerse en levensloopbestendige woningen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "doorstroming ouderen",
+        "standpunt": "Ouderen die kleiner of gelijkvloers willen wonen actief helpen bij het vinden van een woning, bij voorkeur in de eigen buurt, en doorstroming bevorderen samen met woningcorporaties.",
+        "citaat": "Ouderen die kleiner of gelijkvloers willen wonen actief ondersteunen bij het vinden van een passende woning, bij voorkeur in hun eigen buurt, zodat doorstroming wordt bevorderd.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "doorstroming met corporaties",
+        "standpunt": "Betere doorstroming op de woningmarkt in samenwerking met woningcorporaties.",
+        "citaat": "Betere doorstroming in samenwerking met woningcorporaties.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "uitbreiding betaald parkeren",
+        "standpunt": "De uitbreiding van betaald parkeren tot aan de buitenring bij voorkeur terugdraaien en het parkeerbeleid daarop herzien.",
+        "citaat": "De uitbreiding van betaald parkeren tot aan de buitenring bij voorkeur terugdraaien en het parkeerbeleid daarop herzien.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gratis parkeren bezoekers en zorg",
+        "standpunt": "Gratis parkeren mogelijk maken voor bezoekers en voor mensen die zorg of mantelzorg verlenen.",
+        "citaat": "Gratis parkeren mogelijk maken voor bezoekers en voor mensen die zorg of mantelzorg verlenen.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaald parkeren geen doel",
+        "standpunt": "Betaald parkeren mag geen doel op zichzelf zijn; het huidige parkeerbeleid wordt kritisch beoordeeld.",
+        "citaat": "Betaald parkeren mag geen doel op zichzelf zijn.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "parkeerkosten",
+        "standpunt": "Onnodig hoge parkeerkosten voorkomen en waar nodig bijsturen; geen tarieven genoemd.",
+        "citaat": "Onnodig hoge parkeerkosten voorkomen en waar nodig bijsturen.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "prioriteit parkeerdruk en bereikbaarheid",
+        "standpunt": "Parkeerdruk en bereikbaarheid wegen zwaar mee bij besluiten; de auto wordt voor veel mensen als noodzakelijk gezien.",
+        "citaat": "Parkeerdruk en bereikbaarheid zwaar laten meewegen bij besluiten.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "auto noodzakelijk",
+        "standpunt": "SCB stelt dat de auto voor veel mensen nodig is voor werk, zorg of dagelijkse activiteiten en dat Hilversum bereikbaar moet blijven voor bewoners, bezoekers en ondernemers.",
+        "citaat": "Voor veel mensen is de auto noodzakelijk voor werk, zorg of dagelijkse activiteiten.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "verkeersveiligheid",
+        "standpunt": "Veilige schoolroutes, oversteekplaatsen en fiets- en wandelroutes.",
+        "citaat": "Veilige schoolroutes, oversteekplaatsen en fiets- en wandelroutes.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "parkeren en mensen met beperking",
+        "standpunt": "Bij parkeerbeleid rekening houden met bewoners, bezoekers, ondernemers en mensen met een beperking.",
+        "citaat": "Rekening houden met bewoners, bezoekers, ondernemers en mensen met een beperking.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      }
+    ],
+    "klimaat": [],
+    "natuur": [
+      {
+        "onderwerp": "groen in woonwijken",
+        "standpunt": "Voldoende groen in woonwijken en goed onderhoud van groen; geen standpunt over natuurgebieden of water.",
+        "citaat": "Voldoende groen in woonwijken.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "onderhoud openbaar groen",
+        "standpunt": "Goed onderhoud van groen, wegen en stoepen.",
+        "citaat": "Goed onderhoud van groen, wegen en stoepen.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "jeugdhulp en bezuinigingen",
+        "standpunt": "Voorkomen dat noodzakelijke jeugdhulp verdwijnt door algemene bezuinigingen; bij veranderingen eerst de gevolgen voor kinderen en gezinnen in beeld brengen.",
+        "citaat": "Voorkomen dat noodzakelijke jeugdhulp verdwijnt door algemene bezuinigingen. Bij veranderingen eerst de gevolgen voor kinderen en gezinnen inzichtelijk maken.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mantelzorg",
+        "standpunt": "Mantelzorg stimuleren en mantelzorgers ondersteunen zodat zij niet overbelast raken.",
+        "citaat": "Mantelzorg stimuleren en mantelzorgers ondersteunen, zodat zij hun belangrijke bijdrage aan de samenleving kunnen blijven leveren zonder overbelast te raken.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zelfstandigheid en afhankelijkheid",
+        "standpunt": "Zelfstandigheid bevorderen en voorkomen dat mensen onnodig afhankelijk worden van de gemeente.",
+        "citaat": "Daarbij willen wij zelfstandigheid bevorderen en voorkomen dat mensen onnodig afhankelijk worden van de gemeente.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ondersteuning dichtbij huis",
+        "standpunt": "Passende ondersteuning dichtbij huis.",
+        "citaat": "Passende ondersteuning dichtbij huis.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "eenzaamheid",
+        "standpunt": "Eenzaamheid onder jongeren, ouderen en andere inwoners tegengaan; ontmoeting tussen generaties stimuleren.",
+        "citaat": "Eenzaamheid onder jongeren, ouderen en andere inwoners tegengaan.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "buurtcentra en vrijwilligers",
+        "standpunt": "Buurtcentra, vrijwilligers en ontmoetingsplekken ondersteunen.",
+        "citaat": "Buurtcentra, vrijwilligers en ontmoetingsplekken ondersteunen.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zelfstandig wonen ouderen",
+        "standpunt": "Mensen helpen zo lang mogelijk zelfstandig te wonen.",
+        "citaat": "Mensen helpen zo lang mogelijk zelfstandig te wonen.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gezinsondersteuning",
+        "standpunt": "Ouders dragen de eerste verantwoordelijkheid voor opvoeding; de gemeente helpt waar nodig, vroegtijdig en met minder bureaucratie.",
+        "citaat": "Ouders dragen de eerste verantwoordelijkheid voor de opvoeding van hun kinderen. De gemeente ondersteunt waar nodig, zonder die verantwoordelijkheid onnodig over te nemen.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bureaucratie gezinsondersteuning",
+        "standpunt": "Minder bureaucratie bij gezinsondersteuning en gezinnen vroegtijdig helpen.",
+        "citaat": "Minder bureaucratie bij gezinsondersteuning.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "ernstige en herhaalde overlast",
+        "standpunt": "Consequent optreden tegen ernstige en herhaalde overlast.",
+        "citaat": "Consequent optreden tegen ernstige en herhaalde overlast.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "handhaving bestaande regels",
+        "standpunt": "Gericht optreden tegen overlast en duidelijke handhaving van bestaande regels, in plaats van nieuwe regels.",
+        "citaat": "Gericht optreden tegen overlast en zorgen voor duidelijke handhaving van bestaande regels.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "hangjongeren",
+        "standpunt": "Jongeren die buiten samenkomen worden niet per definitie als probleem gezien; intimidatie, bedreiging, vandalisme en structurele overlast mogen niet worden genegeerd.",
+        "citaat": "Niet iedere jongere die buiten samenkomt veroorzaakt problemen, maar intimidatie, bedreiging, vandalisme en structurele overlast mogen niet worden genegeerd.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "preventie en handhaving",
+        "standpunt": "Overlast wordt aangepakt met zowel preventie als handhaving.",
+        "citaat": "Overlast vraagt om preventie én handhaving.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jongerenwerk",
+        "standpunt": "Sterk jongerenwerk en samenwerking met ouders, scholen en politie.",
+        "citaat": "Sterk jongerenwerk en samenwerking met ouders, scholen en politie.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ouders betrekken bij overlast",
+        "standpunt": "Ouders waar nodig betrekken bij structurele overlast door hun kind.",
+        "citaat": "Ouders waar nodig betrekken bij structurele overlast.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "meldingen inwoners",
+        "standpunt": "Meldingen van inwoners serieus behandelen en opvolgen.",
+        "citaat": "Meldingen van inwoners serieus behandelen en opvolgen.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "veilige ontmoetingsplekken jongeren",
+        "standpunt": "Veilige ontmoetingsplekken en positieve activiteiten voor jongeren.",
+        "citaat": "Veilige ontmoetingsplekken en positieve activiteiten voor jongeren.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "straatverlichting en speelplekken",
+        "standpunt": "Goede straatverlichting en veilige speelplekken.",
+        "citaat": "Goede straatverlichting en veilige speelplekken.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "opvangaantal",
+        "standpunt": "Hilversum vangt, binnen de wettelijke verplichtingen, niet meer mensen op dan het vastgestelde gemeentelijke aantal.",
+        "citaat": "Dat Hilversum binnen de wettelijke verplichtingen niet meer mensen opvangt dan het vastgestelde gemeentelijke aantal.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "beheersbare opvang",
+        "standpunt": "Vluchtelingen krijgen menswaardige opvang, maar die moet beheersbaar blijven en rekening houden met de draagkracht van Hilversum.",
+        "citaat": "Tegelijkertijd moet opvang beheersbaar blijven en rekening houden met de draagkracht van Hilversum.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "duidelijkheid opvanglocaties",
+        "standpunt": "Duidelijkheid over aantallen, locaties, duur en afspraken van opvang; inwoners tijdig informeren en betrekken. Geen locaties genoemd.",
+        "citaat": "Duidelijkheid over aantallen, locaties, duur en afspraken.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "inwoners informeren bij opvang",
+        "standpunt": "Inwoners tijdig informeren en betrekken bij opvang.",
+        "citaat": "Inwoners tijdig informeren en betrekken.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "taal, participatie en werk",
+        "standpunt": "Investeren in taalonderwijs, participatie en begeleiding naar werk voor nieuwkomers die mogen blijven.",
+        "citaat": "Investeren in taalonderwijs, participatie en begeleiding naar werk voor nieuwkomers die mogen blijven.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "jaarlijkse rapportage integratie",
+        "standpunt": "Taalonderwijs, maatschappelijke deelname en werkbegeleiding op elkaar laten aansluiten en jaarlijks inzicht geven in deelname en resultaten.",
+        "citaat": "Jaarlijks inzicht geven in deelname en resultaten.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verwachtingen van nieuwkomers",
+        "standpunt": "Van nieuwkomers wordt verwacht dat zij Nederlandse wetgeving, vrijheid en gelijkwaardigheid respecteren en actief aan hun integratie werken.",
+        "citaat": "Van nieuwkomers verwachten dat zij de Nederlandse wetgeving, vrijheid en gelijkwaardigheid respecteren en actief aan hun integratie werken.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "overlast door opvang",
+        "standpunt": "Ernstige of herhaalde overlast aanpakken binnen de wettelijke mogelijkheden; aandacht voor veiligheid, leefbaarheid en voorzieningen rond opvang.",
+        "citaat": "Ernstige of herhaalde overlast aanpakken binnen de wettelijke mogelijkheden.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gelijke behandeling",
+        "standpunt": "Gelijke rechten en gelijke behandeling voor iedereen; gedrag, niet afkomst of achtergrond, staat centraal.",
+        "citaat": "Niet afkomst of achtergrond, maar gedrag en verantwoordelijkheid staan centraal.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vrijheid van overtuiging",
+        "standpunt": "Vrijheid van overtuiging en levenswijze, en ruimte voor maatschappelijke en levensbeschouwelijke organisaties.",
+        "citaat": "Vrijheid van overtuiging en levenswijze.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "onderzoek gevolgen voor ondernemers",
+        "standpunt": "Bij nieuwe gemeentelijke plannen die ondernemers raken vooraf de gevolgen voor bereikbaarheid, parkeerdruk en bedrijfsvoering onderzoeken, met betrokkenheid van ondernemers.",
+        "citaat": "Bij nieuwe gemeentelijke plannen die ondernemers raken, vooraf de gevolgen voor bereikbaarheid, parkeerdruk en bedrijfsvoering onderzoeken en ondernemers daarbij betrekken.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regels voor ondernemers",
+        "standpunt": "Minder onnodige regels en duidelijke procedures voor ondernemers.",
+        "citaat": "Minder onnodige regels en duidelijke procedures.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "leegstand",
+        "standpunt": "Leegstand tegengaan, zonder maatregelen te noemen.",
+        "citaat": "Leegstand tegengaan.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokale ondernemers",
+        "standpunt": "Ruimte voor lokale ondernemers en initiatieven.",
+        "citaat": "Ruimte voor lokale ondernemers en initiatieven.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bereikbare voorzieningen",
+        "standpunt": "Dagelijkse voorzieningen bereikbaar houden, ook voor ouderen en minder mobiele inwoners.",
+        "citaat": "Dagelijkse voorzieningen bereikbaar houden, ook voor ouderen en minder mobiele inwoners.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "stages en vrijwilligerswerk jongeren",
+        "standpunt": "Meer mogelijkheden voor stages en vrijwilligerswerk voor jongeren.",
+        "citaat": "Meer mogelijkheden voor stages en vrijwilligerswerk.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "sport, cultuur en jongerenvoorzieningen",
+        "standpunt": "Toegankelijke sport-, cultuur- en jongerenvoorzieningen; geen accommodaties genoemd.",
+        "citaat": "Toegankelijke sport-, cultuur- en jongerenvoorzieningen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ondersteuning jongeren die vastlopen",
+        "standpunt": "Tijdige ondersteuning voor jongeren die vastlopen.",
+        "citaat": "Tijdige ondersteuning voor jongeren die vastlopen.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ouders, scholen en hulpverlening",
+        "standpunt": "Betere samenwerking tussen ouders, scholen en hulpverlening.",
+        "citaat": "Betere samenwerking tussen ouders, scholen en hulpverlening.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "verenigingen en levensbeschouwelijke organisaties",
+        "standpunt": "Ruimte voor verenigingen, vrijwilligers en maatschappelijke en levensbeschouwelijke organisaties.",
+        "citaat": "Ruimte voor verenigingen, vrijwilligers en maatschappelijke en levensbeschouwelijke organisaties.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gezinnen bij gemeentelijke besluiten",
+        "standpunt": "Bij gemeentelijke besluiten rekening houden met gezinnen.",
+        "citaat": "Bij gemeentelijke besluiten rekening houden met gezinnen.",
+        "bron": "programma",
+        "pagina": 4,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "inspraak bij wijkplannen",
+        "standpunt": "Bij ingrijpende plannen voor een wijk inwoners betrekken voordat de belangrijkste keuzes vastliggen.",
+        "citaat": "Bij ingrijpende plannen voor een wijk inwoners betrekken voordat de belangrijkste keuzes vastliggen.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verantwoording over inspraak",
+        "standpunt": "Openbaar uitleggen welke reacties van inwoners zijn overgenomen en waarom andere voorstellen niet zijn gevolgd.",
+        "citaat": "Openbaar uitleggen welke reacties zijn overgenomen en waarom andere voorstellen niet zijn gevolgd.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "openheid over besluiten",
+        "standpunt": "Openheid over besluiten, kosten en gevolgen, en eerlijke communicatie over vertragingen en kostenoverschrijdingen.",
+        "citaat": "Eerlijke communicatie over vertragingen en kostenoverschrijdingen.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "beleid aanpassen",
+        "standpunt": "Beleid aanpassen wanneer het niet werkt.",
+        "citaat": "Beleid aanpassen wanneer het niet werkt.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "meldingen openbare ruimte",
+        "standpunt": "Meldingen over zwerfafval, kapotte straatverlichting en slecht onderhouden stoepen binnen een vaste termijn beoordelen en inwoners informeren wanneer het probleem wordt opgelost; de termijn zelf wordt niet genoemd.",
+        "citaat": "Meldingen over zwerfafval, kapotte straatverlichting en slecht onderhouden stoepen binnen een vaste termijn beoordelen en inwoners informeren wanneer het probleem wordt opgelost.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "taak van de gemeente",
+        "standpunt": "De gemeente zorgt voor veiligheid, voorzieningen, een leefbare omgeving en ondersteuning, maar hoeft niet ieder probleem over te nemen.",
+        "citaat": "Maar zij hoeft niet ieder probleem over te nemen.",
+        "bron": "programma",
+        "pagina": 2,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zwerfafval en dumpingen",
+        "standpunt": "Zwerfafval en illegale dumpingen aanpakken.",
+        "citaat": "Zwerfafval en illegale dumpingen aanpakken.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "kosten grote projecten",
+        "standpunt": "Bij grote gemeentelijke projecten vooraf inzicht geven in totale kosten, risico's en gevolgen voor toekomstige begrotingen; nieuwe ambities moeten financieel uitvoerbaar zijn.",
+        "citaat": "Bij grote gemeentelijke projecten vooraf inzicht geven in de totale kosten, risico’s en gevolgen voor toekomstige begrotingen. Nieuwe ambities moeten financieel uitvoerbaar zijn.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inzicht in besteding",
+        "standpunt": "Inzicht geven in de besteding van gemeentelijk geld.",
+        "citaat": "Inzicht in de besteding van gemeentelijk geld.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zorgvuldig omgaan met gemeenschapsgeld",
+        "standpunt": "Zorgvuldig omgaan met gemeenschapsgeld; geen standpunt over OZB of andere lasten.",
+        "citaat": "Betrouwbaar bestuur: een gemeente die luistert, duidelijk communiceert en zorgvuldig met gemeenschapsgeld omgaat.",
+        "bron": "programma",
+        "pagina": 2,
+        "soort": "richting"
+      }
+    ]
+  },
+  "opvallend": [
+    "Voorrang bij woningtoewijzing voor mensen met een sterke lokale binding (geboren/opgegroeid, werk, gezin, lang wonend), weliswaar 'binnen de wettelijke mogelijkheden'; SCB zet dit als eerste punt van het tienpuntenplan.",
+    "Wil de uitbreiding van betaald parkeren tot de buitenring bij voorkeur terugdraaien en gratis parkeren voor bezoekers en (mantel)zorgverleners mogelijk maken.",
+    "Stelt een bovengrens aan asielopvang: niet meer dan het vastgestelde gemeentelijke aantal, binnen wettelijke verplichtingen, naast een jaarlijkse rapportage over deelname en resultaten van inburgering.",
+    "Benoemt gezin en gemeenschap als basis van de samenleving en ouders als eerst verantwoordelijken voor opvoeding.",
+    "Combineert een conservatief-sociale invalshoek met gelijke behandeling 'ongeacht afkomst, achtergrond of geloof'."
+  ],
+  "dun": [
+    "klimaat (energietransitie, aardgasvrij, zon/wind, klimaatadaptatie: niets in het materiaal)",
+    "natuur (alleen groen in woonwijken en onderhoud; niets over Loosdrechtse Plassen, heide, landbouw of vliegveld)",
+    "cultuur, erfgoed, sport en onderwijs (alleen een zin over toegankelijke voorzieningen)",
+    "financien (geen OZB, reserves, bezuinigingen of subsidies; alleen transparantie)",
+    "fusie en de dorpen van Wijdemeren (programma gaat uitsluitend over Hilversum; fusie, dorpsraden en loketten niet genoemd)",
+    "lokale dossiers bij naam (geen enkele locatie of project genoemd: geen stationsgebied, Mediapark, Crailo, Loosdrechtse Plassen e.d.)",
+    "economie (geen standpunt over koopzondag, horeca, Mediapark of bedrijventerreinen)",
+    "verkeer (geen standpunt over fiets, OV, 30 km/u of autoluw centrum)",
+    "aantallen en percentages (geen woningbouwaantallen of sociale-huurpercentages)"
+  ]
+}

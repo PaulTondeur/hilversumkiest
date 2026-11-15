@@ -1,0 +1,532 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Gemeenteloketten in alle dorpen instellen",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "BBB wil dat gemeentelijke dienstverlening voor iedereen dichtbij en toegankelijk blijft. Een loket in álle dorpen is niet realistisch, maar de gemeente moet wel fysiek in de buurt aanwezig zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit lijkt me van essentieel belang. Los van het feit dat burgerzaken in Hilversum op een onhandige locatie ligt, betaald parkeren heeft en te ver weg is voor velen. Een of twee dagen gemeente loket openen in alle wijken, buurten en dorpen is van groot belang.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "1 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Gemeenteloketten in ieder dorp zorgen voor extra kosten en bureaucratie. Met goede digitale dienstverlening en één goed bereikbaar centraal loket blijft de dienstverlening toegankelijk zonder onnodig gemeenschapsgeld uit te geven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "70 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dorp- en wijkregisseurs zijn een eerste loket en vast aanspreekpunt voor veel inwoners. Die behouden we, breiden we uit en maken we meer zichtbaar. Daardoor wordt je lokaal geholpen waar het kan.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "74 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie vindt dat het gemeenteloket goed toegankelijk moet zijn. Per dorp kiezen we voor een goede oplossing, zoals een vast loket of een spreekuur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De gemeente moet toegankelijk zijn: met fysieke loketten in de buurt, persoonlijk contact en hulp voor wie moeite heeft met digitale zaken, naast goede digitale dienstverlening.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "DvD wil een mobiel gemeenteloket. Niet ieder dorp een duur vast loket, maar één mobiel gemeenteloket dat op vaste dagen langs alle dorpen rijdt. Persoonlijk, dichtbij en toegankelijk, vooral voor ouderen en minder mobiele inwoners. Efficiënt en goedkoop.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "82 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Fysieke balies Nederhorst den Berg en Kortenhoef worden beschikbaar bij FvD. Loosdrecht moet een loket houden. Niet alleen voor ouderen is een loket nodig. U wordt niet verplicht een digitaal ID, app of QR code te gebruiken om een paspoort aan te vragen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Inwoners moeten eenvoudig terecht kunnen. Geen zoektocht langs verschillende loketten en organisaties en niet steeds opnieuw hetzelfde verhaal vertellen. We willen ondersteuning dicht bij inwoners organiseren, in onze wijken én dorpskernen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De gemeente moet dichtbij en bereikbaar zijn, ook in de dorpen. Wij willen lokale loketten die passen bij de behoefte, bijvoorbeeld vaste spreekuren in dorpshuizen of een mobiel loket. Persoonlijke hulp blijft beschikbaar.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil dat gemeentelijke dienstverlening dichtbij blijft. Inwoners moeten ook in hun eigen dorp terechtkunnen voor gemeentelijke zaken. Daarom willen we gemeenteloketten in alle dorpen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "36 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén is geen voorstander van een loket in elk dorp. Dit brengt enorme kosten met zich mee. Wij willen wel dat de gemeente eenvoudig en goed bereikbaar is voor iedereen: online, per telefoon of op afspraak.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "98 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Kunnen worden gecombineerd met buurthuizen in alle dorpen en Hilversumse wijken die verder uit het centrum liggen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "PRO Hilversum gaat werken aan een proactieve, bereikbare en betrouwbare gemeente. Niet door in elk dorp een loket te openen, maar wel door goede diensten te verlenen en te zorgen voor tijdige, zorgvuldige en juiste communicatie met inwoners.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "73 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Partij voor de Dieren is voor goede voorzieningen in dorpen en wijken, zodat iedereen daar voldoende toegang toe heeft. Naast het stadskantoor in Hilversum, moet het loket in Loosdrecht blijven bestaan.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "87 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De gemeente moet betrouwbaar, duidelijk en bereikbaar zijn. Gemeenteloketten dichtbij inwoners kunnen daarbij helpen, zeker voor mensen die minder digitaal vaardig zijn of persoonlijk contact nodig hebben.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen servicepunten in de dorpen. Daar kunnen inwoners terecht voor zaken die vaak voorkomen, zoals het aanvragen of ophalen van een paspoort of rijbewijs.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "87 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Fysieke dienstverlening dichtbij is cruciaal, zeker voor inwoners van Wijdemeren, vanwege de grotere afstand. We voorkomen zo dat zij te ver moeten reizen. Wij kiezen daar voor structurele fysieke bereikbaarheid, naast een goede digitale basis.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "52 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Voor ouderen en minder digitaal vaardigen zijn fysieke loketten van belang. Combineren met buurthuizen en met goede digitale service. Fysieke loketten naar behoefte van de dorpen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "We willen dat de gemeente ook in de dorpen goed bereikbaar en dichtbij is, maar daarvoor hoeft niet in ieder dorp een vast loket te komen. Een mobiel loket, dorpscoördinatoren en goede digitale dienstverlening kunnen dat slimmer organiseren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Dorps- en wijkraden laten kiezen door bewoners",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Als er dorps- en wijkraden komen, moeten deze democratisch verkozen zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Ik vind het belangrijker dat er een diverse en gemixte samenstelling aan mensen is en de verschillende belangen worden vertegenwoordigd. Kiezen geeft geregeld niet de gewenste uitkomst, omdat het dan op netwerk aankomt en niet op hun kennis en expertise.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "14 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Verkiezingen voor dorps- en wijkraden zorgen vooral voor extra overleg, bureaucratie en kosten. Bewoners moeten rechtstreeks invloed kunnen uitoefenen op de gemeente, zonder extra bestuurslagen die besluitvorming vertragen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Participatie is ontzettend belangrijk en sommige zaken kan je beter aan inwoners over laten of via wijk en dorpsbudgetten ondersteunen, maar een extra laag tussen inwoners en raad kan de afstand vergroten in plaats van verkleinen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "58 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie vindt goede participatie en inspraak belangrijk en wil onderzoeken wat daarvoor nodig is. Dorps- en wijkraden kunnen hier mogelijk aan bijdragen, maar dat hoeven niet persé gekozen dorps- en wijkraden te zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "24 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "D66 kiest wel voor pilots en maatwerk, met regelmatig overleg in elke wijk en elk dorp, zodat ook minder gehoorde groepen meepraten. Eén vast model past niet bij een dorp van 1.500 inwoners in Wijdemeren én wijken van 20.000 in Hilversum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Democratie en verbondenheid bereik je in kleine gemeenschappen waar mensen elkaar kennen. \n\nDorps en wijkraden zijn het anker wat de inwoners nodig hebben om elkaar te kunnen vinden, te helpen, te feesten en de sociale voorzieningen in leven te houden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Zeggenschap voor de inwoners is kenmerkend voor een goed functionerende democratie. Als een dorps- of wijkraad een referendum houdt, beschouwen wij de uitslag als bindend.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De gemeenteraad bepaalt vooraf de gemeentebrede kaders en welke onderwerpen zich lenen voor lokale zeggenschap. Binnen die kaders krijgen inwoners van buurten en dorpen daadwerkelijk invloed op plannen en prioriteiten voor hun eigen gebied.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "92 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Bewoners moeten hun eigen dorps- en wijkraden kunnen kiezen als daar behoefte aan is. Zo krijgen vertegenwoordigers een duidelijk mandaat en meer verbinding met de buurt. Beslissingen over de leefomgeving beginnen bij de mensen die er wonen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD wil zeggenschap zo dicht mogelijk bij inwoners leggen. Dorps- en wijkraden kunnen daarbij een nuttige rol spelen, maar moeten geen extra bestuurslaag worden. Hoe inwoners zich lokaal organiseren, bepalen zij zoveel mogelijk zelf.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "41 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén is tegen een extra bestuurslaag. Inwoners moeten zich wel kunnen verenigen in platforms om zich met elkaar en de gemeente te verbinden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Zorgt voor meer betrokkenheid, zeker met enig budget voor zaken in de eigen leefomgeving.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "66 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Pro wil dat bewoners echt invloed hebben op de veranderingen in hun buurt, wijk of dorp. Als een dorp of wijk dat wil, kan dat via een dorps- of wijkraad. Wijk- en dorpsbudgetten horen daarbij, net als het vergroten van zeggenschap.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "99 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De PvdD is voor burgerraden of wijk-/dorpsraden bij belangrijke besluiten. Het spreekt voor zichzelf dat deze democratisch worden gekozen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "86 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Inwoners moeten meer betrokken worden bij besluiten over hun buurt. Gekozen dorps- en wijkraden kunnen die betrokkenheid versterken en zorgen dat de stem van inwoners beter wordt gehoord.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen dat elk dorp en elke wijk een eigen gekozen raad krijgt. Zo kiest elk gebied zijn eigen vertegenwoordigers. Deze raden krijgen een eigen budget van de gemeente. Ze krijgen adviesrecht en het recht om zelf plannen in te dienen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij geloven in de kracht van onze dorpen en wijken. Door bewoners zelf hun raden te laten kiezen, vergroten we de lokale zeggenschap en het draagvlak. Inwoners weten zelf immers als geen ander wat er nodig is voor de leefbaarheid in hun buurt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "53 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dorpen en wijken beslissen. De uitdagingen in de wijken en dorpen pakken we aan in de wijk of het dorp zelf. We kijken per onderwerp hoe dorpen en wijken kunnen beslissen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "73 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een dorps- of wijkraad kan een goed instrument zijn om bewoners te betrekken, maar hoeft niet overal verplicht of gekozen te worden. De vorm moet passen bij wat een dorp of wijk zelf nodig heeft.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Inwoners moeten via een referendum kunnen meebeslissen over grote besluiten van de gemeente.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Hart voor Hilversum is een groot voorstander van verregaande participatie en dit is ook een van onze speerpunten in ons verkiezingsprogramma. Hart voor Hilversum heeft ook tijdens het fusieproces met Wijdemeren zich hiervoor sterk gemaakt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "Beslissen is voorbehouden aan de gemeenteraad. Het (nieuwe) Participatiebeleid en de Participatieverordening geven aan hoe en wanneer inwoners betrokken worden bij te nemen besluiten.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Hilversum heeft sinds 2017, mede dankzij D66, een referendum. Hiermee kunnen inwoners na een besluit van de gemeenteraad hier een uitspraak over doen (een correctief referendum).",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "„Om die reden is de VVD geen voorstander van referenda.”",
+    "herkomst": "Verkiezingsprogramma, p. 28"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "We kennen in ons land een vertegenwoordigende democratie, en middelen om in grote projecten te participeren. Wanneer dat goed uitgevoerd wordt, zou een apart referendum over een onderwerp weinig toevoegen. Van groot belang is het inwoners tijdig en goed te betrekken zodat hun stem wordt meegewogen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Bij zwaarwegende besluiten waarover de kiezer zich tijdens de verkiezingen niet heeft kunnen uitspreken, raadpleegt de gemeente inwoners via een nieuwe consultatie- en referendumverordening. De uitkomsten zijn richtinggevend voor de raad.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners moeten rechtstreeks kunnen meebeslissen over grote, ingrijpende en kostbare besluiten. Een referendum versterkt het lokale draagvlak en dwingt het gemeentebestuur keuzes helder uit te leggen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "neutraal",
+    "toelichting": "Wij willen inwoners vroeg en serieus betrekken bij grote besluiten. Een referendum kan daarbij nuttig zijn, maar is niet in elke situatie het beste middel. Daarom wegen we per onderwerp af welke vorm van inspraak passend is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "De gemeente moet er zijn voor haar inwoners. Met bindende referenda krijgen inwoners daadwerkelijk invloed op belangrijke besluiten. Zo herstellen we het vertrouwen in een overheid die steeds verder van de burger af is komen te staan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Meer invloed, minder afstand! Participatie vinden wij erg belangrijk! Grote beslissingen nemen we nooit óver u, maar samen mét u. Een referendum is een prachtig middel om écht naar inwoners te luisteren voordat we besluiten nemen die grote impact hebben op de omgeving.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling.”",
+    "herkomst": "Verkiezingsprogramma, p. 75"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Ja, belangrijke beslissingen waar veel geld mee gemoeid is of die een grote invloed hebben op de gemeente zijn goed in een referendum of ander medium te gieten zodat er een bredere beslissing wordt gemaakt die verder reikt dan het gemeentehuis en waar meer bewoners achter staan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Inwoners moeten daadwerkelijk invloed kunnen uitoefenen op grote gemeentelijke besluiten. Een referendum geeft inwoners de mogelijkheid om zich rechtstreeks uit te spreken. Democratie is meer dan eens in de vier jaar een vakje rood kleuren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "Dorpen en wijken kunnen meebeslissen en via een burgerberaad kunnen inwoners meebeslissen over grote besluiten van de gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Wij voeren bindende lokale referenda in, zodat inwoners zich rechtstreeks kunnen uitspreken over wezenlijke besluiten. Het eerste en duidelijkste voorbeeld is de fusie zelf; die is doorgedrukt zonder bindend mandaat van de bevolking.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "BBB staat voor no-nonsense bestuur waarin de inwoner écht centraal staat. Bij ingrijpende besluiten die het karakter van onze dorpen en stad direct raken, is een referendum een onmisbaar instrument om het draagvlak te toetsen en de lokale democratie te versterken.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Kleine evenementen in de dorpen moeten na de fusie geen leges hoeven te betalen.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Uit het onderzoek naar de dorpen in Wijdemeren is gebleken dat de dorpen zeer gehecht zijn aan kleine niet-commerciële evenementen en niet geïnteresseerd zijn in extra administratieve rompslomp zoals leges e.d.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "Leges zijn een bijdrage in de kosten die de gemeente moet maken om evenementen mogelijk te maken. Die kosten zijn er ook bij kleine evenementen. Uiteraard proberen we die kosten zo laag mogelijk te houden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "D66 wil ruimte bieden aan zowel grote evenementen als lokale initiatieven in dorpen en wijken zoals de carnavalsoptocht, de Loosdrechtse Feestweek en Nederhorst on Ice. Wat dit betekent voor de hoogte van de leges is nog onduidelijk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "voor",
+    "toelichting": "",
+    "herkomst": "Stemde voor in de raad"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "Voor de dorpen zijn kleine evenementen enorm belangrijk voor de sociale cohesie. Deze evenementen worden door vrijwilligers georganiseerd, ondersteund door lokale ondernemers. Het invoeren van leges zou deze evenementen ernstig bemoeilijken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Kleine, niet-commerciële dorpsevenementen versterken saamhorigheid en leefbaarheid. Belast vrijwilligersinitiatieven niet met gemeentelijke leges en onnodige bureaucratie, zolang veiligheid en organisatie goed zijn geregeld.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Kleine evenementen versterken de saamhorigheid en verdienen onze steun. Een algemene vrijstelling van leges vinden wij niet vanzelfsprekend. Wij willen lage, redelijke tarieven en maatwerk voor vrijwilligers en verenigingen, zodat evenementen betaalbaar blijven en kosten eerlijk worden verdeeld.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Dit moet algemeen beleid zijn en niet afhankelijk van losse uitzonderingen of willekeur. Duidelijke, eerlijke regels zorgen voor voorspelbaarheid en gelijke behandeling.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "„De kosten of gunning van een vergunning zijn afhankelijk van hoe groen en duurzaam het evenement is.”",
+    "herkomst": "Verkiezingsprogramma, p. 35"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Als dat nu niet verplicht is dan zou dit ook voor Hilversumse activiteiten moeten gelden. Immers zijn we allemaal gelijk. Mocht men vast willen houden aan leges die betaald moeten worden dan zouden deze wellicht betaald kunnen worden uit de buurtbudgetten waar alle wijken recht op hebben.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Kleine, niet-commerciële evenementen houden onze dorpen levendig. Vrijwilligers en verenigingen verdienen ruimte, geen extra rekening van de gemeente. LFD wil de bestaande vrijstelling van leges na de fusie behouden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Kleine evenementen zonder winstoogmerk moeten vrij van leges blijven. In de stad verlagen we de kosten voor evenementen zonder winstoogmerk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Forum voor Democratie geeft ruimte aan cultuur en evenementen die inwoners zelf dragen en waarderen. Cultuur ondersteunen wij wanneer zij aantoonbare lokale waarde heeft. Die ondersteuning dekt de leges.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Evenementen zijn het kloppend hart van onze dorpen en buurten. BBB vindt dat vrijwilligers die zich inzetten voor de leefbaarheid niet bestraft moeten worden met gemeentelijke rekeningen.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "hilversumsnieuws",
+  "stelling": "De nieuwe gemeente moet meer geld investeren in de dorpen, ook als Hilversum daardoor minder geld overhoudt voor de stad",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Het is niet zo dat het of of is maar en en. De vraag is wat meer geld in dit geval inhoudt. Ons streven is om de voorzieningen op peil te houden in de dorpen om zo bij te dragen aan de leefbaarheid. Voor de sociale samenhang zetten wij in op buurthuizen, of een vorm daarvan, in elk dorp. Sterker…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "pro": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "PRO zet zich in voor leefbare dorpen én wijken. Wij staan voor betaalbaar wonen, een groene omgeving en een eerlijke verdeling voor iedereen, of je nou in een dorp of in de stad woont. Het geld moet gaan naar waar het het hardste nodig is. Zowel in de dorpen als in de wijken kiezen we voor een lokale aanpak, en…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "d66": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "We investeren fors in het wegwerken van achterstallig onderhoud aan wegen en riolering. Daarbij maken we geen verschil tussen stad en dorp. We investeren waar de behoefte het grootst is. D66 wil dat alle wijken en dorpen goede voorzieningen hebben en houden. Denk aan goede scholen, voldoende groen, spelen en bewegen op loopafstand, een plek om samen te komen en…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "vvd": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Zoals altijd zal er gekeken worden naar prioriteiten want je kunt een euro maar één keer uitgeven. Dat kan soms wat meer zijn in één van de dorpen, soms wat meer in Hilversum. Wat de VVD vooral wil voorkomen is dat er een wij-zij discussie ontstaat. Vanaf 1 januari 2027 zijn we één gemeente die al haar inwoners gelijk…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "cda": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Als het aan het CDA ligt, investeert de gemeente in de dorpen én in Hilversum, niet in de een ten koste van de ander. Eén gemeente betekent ruimte voor verschil: wat een dorp nodig heeft, is niet hetzelfde als wat een stadswijk nodig heeft. Wij investeren in veilige wegen, woningen, zorg dichtbij en verenigingen. Op sport en verenigingen bezuinigen wij…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "lokaal-een": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De nieuwe gemeente Hilversum is een heel diverse gemeente. Lokaal Eén koestert die verschillen. Elke wijk en elk dorp heeft een eigen, unieke identiteit met eigen kwaliteiten, uitdagingen, wensen en mogelijkheden. Investeringen dienen gebaseerd te zijn op wat nodig is. Dat kan gaan over groot onderhoud, verbeteren van de kwaliteit van de leefomgeving, versterken van de gemeenschap, voorzieningen op niveau…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "sp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De fusie tussen Hilversum en Wijdemeren is uit nood geboren. Bestuurlijk en financieel kon Wijdemeren niet zelfstandig voortbestaan. Partijen die zeggen dat Wijdemeren zelfstandig had moeten blijven, geven geen reëel beeld van de financiële en bestuurlijke problemen van Wijdemeren. In de praktijk zal de fusie betekenen dat er in de toekomst veel geld naar de dorpen zal gaan, omdat we…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "christenunie": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. We investeren waar dat nodig is, of dat nu in een dorp of in een wijk van Hilversum is. Daarbij kijken we niet naar de locatie, maar naar wat een wijk of dorp daadwerkelijk nodig heeft. Tegelijkertijd blijven we kritisch op onze uitgaven. We willen verstandig investeren én voorkomen dat de schulden van de gemeente onnodig oplopen. Zo zorgen…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "bvnl": {
+    "antwoord": "Eens, mits het geld aantoonbaar terechtkomt w",
+    "toelichting": "Eens, mits het geld aantoonbaar terechtkomt waar inwoners er direct profijt van hebben. Een nieuwe gemeente hoort geen wedstrijd te worden tussen Hilversum en de dorpen. Dorpen verdienen ruimte om hun eigen karakter, voorzieningen, bereikbaarheid en leefbaarheid te behouden. BVNL kiest daarbij niet automatisch voor méér gemeentelijke uitgaven, maar voor eerlijke verdeling, lagere lasten en doelmatige besteding van belastinggeld. Minder…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "scb": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. SCB staat voor een eerlijke verdeling van gemeentelijke middelen tussen de stad en de dorpen. Bij het verdelen van gemeentelijke middelen kijken we naar de behoeften van inwoners en de bestaande voorzieningen. Iedere wijk en ieder dorp verdient de aandacht en investeringen die nodig zijn om voorzieningen en leefbaarheid op peil te houden. Daarbij houden we rekening met de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De gemeente moet meer geld investeren in de dorpen ook als dat ten kosten gaat van het huidige Hilversum lees ik dan maar, immers ook Hilversum is een dorp. De infra in alle dorpen (ook Hilversum) vraagt om een investering, zo ook behoud van identiteit van de wijken, buurten en dorpen. Gewoon Hilversum ziet hier geen tegenstelling maar een vraag…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Goed beleid begint bij de voorwaarden die je als overheid schept, niet bij de hoogte van belastingen. Zonder een brede visie hebben inwoners weinig aan een verhoging of verlaging van de lasten. Het verschil tussen dorpen en de stad zit vooral in rust, autonomie en natuur, niet in enkele euro’s meer of minder aan afvalstoffenheffing of ozb. Die dorpse kwaliteiten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Eén grote gemeente betekent niet dat de stad alle middelen mag opslokken. Onze dorpen hebben een uniek karakter dat bescherming verdient. Ieder dorp krijgt daarom een eigen, lokaal bepaalde dorpsagenda mét een gegarandeerd uitvoeringsbudget. Voorzieningen beoordelen we op hun onmisbare waarde voor leefbaarheid en ontmoeting. De fusie mag niet leiden tot meer afstand: de dorpen tellen volwaardig mee. Via…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "opstand-nu": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Uiteraard moet de gemeente in de dorpen investeren, maar ook in de Hilversumse wijken en dan in buurten waar dat het hardst nodig is. OpStand.nu maakt zich zorgen over toenemende ongeletterdheid, gebrek aan sociale cohesie en aan voorzieningen. En we zien wooncomplexen die niet zijn toegerust op klimaatverandering. Dan hebben we het over isolatie en energietransitie, en vooral ook over…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "pvdd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De Partij voor de Dieren kiest voor behoud en bevordering van de leefbaarheid voor iedereen in de nieuwe gemeente, inclusief dieren en natuur, en het beschermen van kwetsbaren en sociale voorzieningen. We willen geen tweedeling tussen stad en dorpen. Dat vraagt om (blijvende) investeringen in goede voorzieningen in álle dorpen en wijken. Dit hoeft niet te betekenen dat er meer…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Het is niet of of maar en en. Elk dorp, wijk en buurt zijn even belangrijk, immers zijn we straks een gemeente met verschillende dorpskernen en wijken. Samen zijn we Hilversum maar hebben ieder ons eigen zeggenschap, kernbudgetten en rechten. Alle projecten die wijk of dorp overstijgend zijn dienen dan ook te worden overlegt met de adviesraden van die wijken…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "lfd": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. De herindeling mag geen financiële strijd worden tussen stad en dorpen. LFD vindt dat iedere inwoner recht heeft op goede gemeentelijke dienstverlening, ongeacht waar die woont. De zes dorpen van Wijdemeren hebben ieder hun eigen karakter en behoeften, net zoals de wijken van Hilversum. Dat vraagt om lokaal maatwerk, niet om het bevoordelen van de ene kern ten koste…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "volt": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Om de dorpen aantrekkelijk te houden, is het belangrijk om te investeren in lokale voorzieningen, in overleg met inwoners. Investeren in de dorpen voorkomt dat er nog meer druk op de stad komt. Dorpen en wijken beslissen wat de behoeften zijn voor hun dorp of wijk. De gemeenteraad weegt af wat voorrang heeft. Goede dorps- en wijkoverstijgende voorzieningen zijn ook…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "fvd": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Een gemeentefusie is ondermijnend voor de democratie. De schade wil FvD beperken door dorpsplatforms of dorpsraden aan te stellen die een bindend advies afgeven aan de gemeenteraad. Op die manier kunnen we zorgen dat de Hilversummers niet vanwege hun numeriek overwicht de mensen in Wijdemeren zaken kunnen opleggen die voor de inwoners van de dorpen nadelig zijn. De argumentatie…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   },
+   "bbb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Wijdemeren wordt opgenomen in Hilversum en daar hoort volledige zorg en aandacht voor de dorpen bij. Door financieel en bestuurlijk drama zijn in Wijdemeren noodzakelijke basistaken, zoals het onderhoud aan wegen en voorzieningen, blijven liggen. Hilversum moet dit nu voortvarend oppakken. De fusie mag nooit een excuus zijn om voorzieningen uit de dorpen weg te halen. BBB staat voor harde…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (5 nov 2026)"
+   }
+  }
+ }
+]

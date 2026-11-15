@@ -1,0 +1,1513 @@
+{
+  "slug": "pvdd",
+  "kernboodschap": "De Partij voor de Dieren Hilversum-Wijdemeren stelt dierenrechten en dierenwelzijn, natuur en klimaat centraal en wil dat in alle beleidsterreinen laten doorwerken. Ze kiest voor beschermen en vergroenen boven bouwen in het groen en autoverkeer, en combineert dat met sociaal beleid (sociale huur, armoedebestrijding, inclusie, opvang van vluchtelingen). Het is haar eerste deelname aan de verkiezingen in Hilversum en Wijdemeren.",
+  "speerpunten": [
+    "Kies voor groen: goed voor dier, mens en planeet",
+    "Alle dieren hebben het recht om te kunnen leven naar hun aard",
+    "Een gezonde samenleving: een gifvrije leefomgeving en ruimte om te foreren",
+    "Een betaalbaar en duurzaam huis voor iedereen",
+    "Schoon onderweg: ruim baan voor voetgangers, fietsers en OV",
+    "Iedereen hoort erbij: inclusief, rechtvaardig en solidair"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "sociale huur %",
+        "standpunt": "Minimaal 40% van de huurwoningen moet sociale huur zijn; bij ieder bouwproject stuurt de gemeente op een verdeling van woningcategorieën.",
+        "citaat": "40% van de huurwoningen is sociale huur.",
+        "bron": "programma",
+        "pagina": 41,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "middenhuur",
+        "standpunt": "Naast sociale huur komt er betaalbare middenhuur tot €1000, waarbij de gemeente een voortrekkersrol neemt in het reguleren ervan.",
+        "citaat": "Daarnaast komt er betaalbare middenhuur tot €1000.",
+        "bron": "programma",
+        "pagina": 41,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "koopwoningen starters",
+        "standpunt": "De partij wil plannen voor betaalbare koopwoningen voor starters, mensen met een kleine beurs en alleenwonenden; een aantal of locatie noemt zij niet.",
+        "citaat": "betaalbare koopwoningen voor starters of mensen",
+        "bron": "programma",
+        "pagina": 41,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "starterslening",
+        "standpunt": "Een starterslening kan starters helpen, maar de partij ziet ook nadelen: te hoge lasten of een prijsopdrijvend effect.",
+        "citaat": "Een starterslening kan hierbij helpen, maar er zouden ook nadelen kunnen zijn, zoals te hoge lasten of een (indirect) prijsopdrijvend effect.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bouwen in het groen",
+        "standpunt": "Geen woningbouw in het groen; bijbouwen alleen waar het in de omgeving past en niet ten koste gaat van groen of leefbaarheid.",
+        "citaat": "Er wordt niet gebouwd in het groen.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "woonladder",
+        "standpunt": "Een woonladder met een limiet aan het aantal toe te voegen woningen: eerst bestaande bebouwing slimmer benutten (kantoortransformatie, leegstand, doorstroming), dan verdichten, dan bijbouwen aan de rand van bestaande kernen, en daarna is er een grens aan de groei.",
+        "citaat": "We ontwikkelen een woonladder met een duidelijke limiet aan het aantal toe te voegen woningen in Hilversum.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "grens aan woningbouw",
+        "standpunt": "Op de vierde trede van de woonladder is verdere woningbouw in Hilversum niet meer mogelijk of wenselijk en moeten oplossingen buiten Hilversum worden gezocht.",
+        "citaat": "De vierde trede bestaat uit grenzen aan de groei: verdere woningbouw is niet meer mogelijk of wenselijk.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "volbouwen vs. woningtekort",
+        "standpunt": "De partij wil het woningtekort aanpakken zonder de gemeente vol te bouwen; ruimte moet eerlijk, duurzaam en betaalbaar worden verdeeld.",
+        "citaat": "Hilversum volbouwen is niet de oplossing; dat maakt de gemeente onleefbaar.",
+        "bron": "programma",
+        "pagina": 41,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "hoogbouw",
+        "standpunt": "Hoogbouw is een van de oplossingen voor de woningnood, mits ze past in de omgeving en minimaal één groene gevel heeft; de gemeente handhaaft hierop actief. Hoogte of locaties noemt het programma niet.",
+        "citaat": "De leefbaarheid mag niet in het gedrang komen, hoogbouw moet passen in de omgeving en voorzien zijn van minimaal één groene gevel.",
+        "bron": "programma",
+        "pagina": 44,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Circusterrein / flexwoningen",
+        "standpunt": "De gemeente faciliteert circulaire flexwoningen maximaal, bedoeld voor groepen die moeilijk een woning vinden zoals jongeren en statushouders.",
+        "citaat": "Flexwoningen zoals op het Circusterrein aan de Diependaalselaan kunnen verlichting bieden in de huidige wooncrisis.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Circusterrein / vergroening",
+        "standpunt": "Als op braakliggende terreinen zoals het Circusterrein woningen komen, moet dit gepaard gaan met vergroening, bijvoorbeeld met kleinschalige groene inwonersinitiatieven.",
+        "citaat": "Als hier, zoals op het Circusterrein aan de Diependaalselaan, woningen gebouwd worden, moet dit hand in hand gaan met vergroening.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sloop vs. renovatie",
+        "standpunt": "Renovatie en herontwikkeling hebben de voorkeur boven sloop en nieuwbouw; beeldbepalende gebouwen, bomen, lanen en wijken worden niet gesloopt.",
+        "citaat": "Renovatie en herontwikkeling hebben de voorkeur boven sloop en nieuwbouw.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sloop en terugbouw sociale huur",
+        "standpunt": "Bij sloop en nieuwbouw van een wijk worden minimaal evenveel sociale huurwoningen en betaalbare koopwoningen teruggebouwd als er verdwijnen.",
+        "citaat": "Bij sloop en nieuwbouw van een wijk moeten er minimaal evenveel sociale huurwoningen en betaalbare koopwoningen worden teruggebouwd",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verkoop sociale huur",
+        "standpunt": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd.",
+        "citaat": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "grondbeleid",
+        "standpunt": "De gemeente neemt zelf grond in bezit om betaalbare woningen te realiseren; bij andere gronden komt een anti-speculatiebeding.",
+        "citaat": "De gemeente voert een actief grondbeleid, wat wil zeggen dat de gemeente zelf grond in bezit neemt om zo betaalbare woningen te realiseren.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "opkoopbescherming",
+        "standpunt": "Opkoopbescherming wordt in alle wijken toegepast waar dat mogelijk is, om beleggers te weren.",
+        "citaat": "De gemeente past de regels voor opkoopbescherming in alle wijken toe waar dat mogelijk is",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zelfbewoning en leegstand",
+        "standpunt": "Maximale inzet tegen speculatie en leegstand, met een zelfbewoningsplicht en een leegstandsverordening met sancties.",
+        "citaat": "Er wordt maximaal ingezet op maatregelen tegen speculatie met woonruimte en leegstand, zoals een zelfbewoningsplicht en een leegstandsverordening met sancties.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "splitsen en verkamerenen",
+        "standpunt": "Splitsen en verkamerenen kan soms een oplossing zijn, mits per wijk beoordeeld, niet ten koste van de openbare ruimte en met duidelijke regels.",
+        "citaat": "Verkamering en/of het splitsen van woningen kan soms een uitkomst bieden voor het tekort aan passende woningen.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "toeristische verhuur",
+        "standpunt": "Toeristische verhuur van hele woningen via platforms als Airbnb wordt zo veel mogelijk beperkt, tegen woningtekort voor inwoners.",
+        "citaat": "Hilversum beperkt haar beleid voor toeristische verhuur van hele woningen via platforms als Airbnb en Booking.com zo veel mogelijk",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "groepscontracten",
+        "standpunt": "Het groepscontract in de verhuur wordt verboden; iedere huurder krijgt een individueel huurcontract.",
+        "citaat": "Het groepscontract wordt verboden.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "huisuitzettingen",
+        "standpunt": "Huisuitzettingen op grond van betalingsachterstand worden verboden; de gemeente zet in op vroegsignalering en schuldhulpverlening.",
+        "citaat": "Huisuitzettingen op grond van betalingsachterstand verbieden we.",
+        "bron": "programma",
+        "pagina": 42,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kraken",
+        "standpunt": "De gemeente dringt aan op het weer legaliseren van kraken van langdurig leegstaande panden; ontruiming wordt niet meer toegepast.",
+        "citaat": "Hilversum dringt aan op het weer legaliseren van het kraken van langdurig leegstaande panden.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren",
+        "standpunt": "Betaald parkeren in de hele stad Hilversum; tweede en volgende parkeervergunningen blijven duurder.",
+        "citaat": "Er komt betaald parkeren in de hele stad Hilversum en de tweede en opvolgende parkeervergunningen blijven duurder.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeerplekken en parkeernorm",
+        "standpunt": "Geen nieuwe autoparkeerplekken op straat, een zo laag mogelijke parkeernorm voor nieuwbouw en bij hoogbouw altijd inpandig parkeren; de gemeente heft op gewenste plekken parkeerplaatsen op.",
+        "citaat": "Er komen geen nieuwe autoparkeerplekken bij op straat. Voor nieuwbouw wordt een zo laag mogelijke parkeernorm gehanteerd. Bij hoogbouw is de parkeergelegenheid altijd inpandig.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeertarieven naar uitstoot",
+        "standpunt": "Parkeertarieven en -vergunningen worden gedifferentieerd naar uitstoot; vervuilende auto's en zware voertuigen als SUV's en pick-ups betalen meer.",
+        "citaat": "Ook zware, grote voertuigen zoals SUV’s en pick-ups worden ontmoedigd, bijvoorbeeld door middel van hogere tarieven.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "garage en transferium",
+        "standpunt": "Inwoners kunnen tegen een lager tarief hun auto in een buurtgarage stallen of goedkoop parkeren in een transferium met gratis fietsparkeren en goedkope OV-verbindingen.",
+        "citaat": "Inwoners kunnen tegen een lager tarief hun auto stallen in de parkeergarage in de buurt of hun auto goedkoop parkeren in een transferium",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "autovrij centrum",
+        "standpunt": "Waar mogelijk een autovrij centrum en autovrije dorpskernen, met parkeren aan de rand of ondergronds.",
+        "citaat": "centrum en autovrije dorpskernen.",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "30 km/u",
+        "standpunt": "Binnen de bebouwde kom geldt in principe 30 km/u; in straten zonder vrijliggende fietspaden wordt dit de maximumsnelheid, en straten zonder trottoirs worden erven met 15 km/u (ook bij scholen en kinderopvang).",
+        "citaat": "In principe geldt er voor gemotoriseerd verkeer binnen de bebouwde kom een maximumsnelheid van 30 km/u.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wegen niet verbreden",
+        "standpunt": "Wegen voor gemotoriseerd verkeer worden niet uitgebreid of verbreed en de Nieuwe Crailoseweg naar Laren wordt niet geasfalteerd; doorstromingsmaatregelen mogen geen extra asfalt of boomkap met zich meebrengen.",
+        "citaat": "De Nieuwe Crailoseweg naar Laren wordt niet geasfalteerd.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wegen versmallen",
+        "standpunt": "Doorgaande wegen worden versmald om de snelheid te verlagen en groen aan te leggen, zonder nadeel voor fiets- en voetgangersverkeer.",
+        "citaat": "Doorgaande wegen in de gemeente worden versmald om zo de snelheid van het verkeer te verlagen en meer groen aan te leggen.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang fiets en voetganger",
+        "standpunt": "Fietsers en voetgangers krijgen altijd voorrang op gemotoriseerd verkeer bij rotondes in de bebouwde kom; de voorrang voor auto's zoals bij Gooiland wordt beëindigd.",
+        "citaat": "Gooiland, wordt gestopt. Ieder kind moet veilig",
+        "bron": "programma",
+        "pagina": 54,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fietsaandeel",
+        "standpunt": "Streefdoel: 85% van de verplaatsingen binnen de gemeente per fiets.",
+        "citaat": "We streven ernaar dat 85% van de verplaatsingen binnen de gemeente per fets wordt gedaan.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Oosterspoorplein",
+        "standpunt": "Waar het zo druk is dat fietsers en voetgangers de ruimte niet veilig kunnen delen, zoals bij het Oosterspoorplein, krijgt de voetganger voorrang.",
+        "citaat": "Op sommige plekken, zoals bij het Oosterspoorplein in Hilversum, wordt het zo druk dat zelfs fetsers en voetgangers niet meer op een veilige manier de ruimte kunnen delen. In die gevallen krijgt de voetganger voorrang.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "openbaar vervoer prioriteit",
+        "standpunt": "Het OV krijgt prioriteit bij de indeling van de weg, met busbanen waar nodig, maar zonder groenstructuren en bomen te verwijderen.",
+        "citaat": "Zonder daarvoor groenstructuren en bomen te verwijderen komen er, waar dat nodig is, busbanen.",
+        "bron": "programma",
+        "pagina": 55,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gratis OV lage inkomens",
+        "standpunt": "Het openbaar vervoer wordt gratis voor in ieder geval mensen met een laag inkomen.",
+        "citaat": "Het openbaar vervoer is gratis voor in ieder geval mensen met een laag inkomen.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "OV in dorpen",
+        "standpunt": "Regelmatig OV in alle woonwijken en dorpskernen, ook 's avonds en in het weekend; de gemeente roept de provincie op het nachtnet van de bus naar de dorpen uit te breiden.",
+        "citaat": "In alle woonwijken en dorpskernen is regelmatig openbaar vervoer beschikbaar, ook in de avond en in het weekend.",
+        "bron": "programma",
+        "pagina": 56,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zero-emissiezone centrum",
+        "standpunt": "Een zero-emissiezone voor commercieel verkeer in het centrum van Hilversum en weren van vrachtverkeer uit centrum en woonkernen, met distributiepunten aan de rand.",
+        "citaat": "Er komt een zero-emissiezone van toepassing op commercieel verkeer in het centrum van Hilversum.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "laadpalen",
+        "standpunt": "Voldoende openbare oplaadpunten met groene stroom, waar mogelijk in het straatbeeld geïntegreerd, met transparante tarieven.",
+        "citaat": "De gemeente zorgt voor voldoende oplaadpunten met groene stroom voor elektrische voer- en vaartuigen.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "richting"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "klimaatneutraal 2030",
+        "standpunt": "Hilversum moet zo snel mogelijk klimaatneutraal zijn, met 2030 als uitgangspunt, met een klimaatplan met budget en afrekenbare tussendoelen.",
+        "citaat": "Daarom moet Hilversum zo snel mogelijk klimaatneutraal zijn, met 2030 als uitgangspunt.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "energiebesparing",
+        "standpunt": "In 2030 gebruiken huishoudens, bedrijven en organisaties ten minste 65% minder energie dan in 1990, via een Actieplan Besparen.",
+        "citaat": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Hilversum ten minste 65% minder energie dan in peiljaar 1990.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "transitieplan per dorp en wijk",
+        "standpunt": "Per dorp en wijk komt een concreet transitieplan voor energiebesparing, opwek, opslag en warmte, samen met inwoners.",
+        "citaat": "Daarom maakt de gemeente in samenwerking met inwoners en relevante partners per dorp en wijk een concreet transitieplan.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kernenergie",
+        "standpunt": "Geen kerncentrale in Hilversum; kernenergie is volgens de partij geen oplossing voor de klimaatcrisis.",
+        "citaat": "Er komt geen kerncentrale in Hilversum.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zonneparken",
+        "standpunt": "Geen zonneparken in de natuur en geen zonneweides op landbouwgrond; zonnepanelen op daken, gevels, geluidswallen en boven parkeerplaatsen, zo nodig door de gemeente zelf geïnvesteerd.",
+        "citaat": "Er komen geen zonneparken in de natuur.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "windturbines",
+        "standpunt": "Windenergie op locaties met weinig hinder, zoals langs snelwegen en op industrieterreinen; geen windturbines in natuurgebieden en gebieden met kwetsbare vogel- of vleermuispopulaties.",
+        "citaat": "Er komen geen windturbines in natuurgebieden en in gebieden met kwetsbare vogel- of vleermuispopulaties.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "megawindturbines Vecht",
+        "standpunt": "De partij volgt de provinciale plannen voor megawindturbines langs de Vecht kritisch en spreekt zich ertegen uit als ze te veel nadelen hebben voor dieren, mensen en natuur in Nederhorst den Berg en het Vechtlandschap.",
+        "citaat": "We volgen de plannen voor megawindturbines van de provincie Utrecht langs de Vecht kritisch.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "biomassa",
+        "standpunt": "Geen verbranding van hout en geen mestvergisting voor warmte of elektriciteit; de bestaande biomassacentrale bij het Arenapark wordt uitgefaseerd en er komen er geen nieuwe.",
+        "citaat": "en er komen geen nieuwe biomassacentrales.",
+        "bron": "programma",
+        "pagina": 60,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "warmtebron en warmtenet",
+        "standpunt": "Geen investering in warmtenetten gevoed door restwarmte uit fossiele industrie, bio-industrie of biomassacentrales; de gemeente wil mede-eigenaar worden van een publiek warmtebedrijf.",
+        "citaat": "Door mede-eigenaar te worden van een publiek warmtebedrijf gaat Hilversum sturen op inzet van alleen duurzame warmtebronnen en zo laag mogelijke gebruikskosten voor inwoners.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokaal eigendom opwek",
+        "standpunt": "Gemeentelijke initiatieven voor duurzame opwek zijn voor ten minste 50% lokaal eigendom, ook in gebieden als het Mediapark en het bedrijventerrein in Kerkelanden.",
+        "citaat": "Gemeentelijke initiatieven voor duurzame opwek zijn voor ten minste 50% lokaal eigendom",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "energiearmoede en isolatie",
+        "standpunt": "Inwoners in energiearmoede krijgen ondersteuning; alle sociale huurwoningen worden geïsoleerd, zo nodig met bindende doelen en middelen voor corporaties; de grootste vervuilers dragen de zwaarste lasten.",
+        "citaat": "Alle sociale huurwoningen worden goed geïsoleerd en verduurzaamd.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "datacenters",
+        "standpunt": "De gemeente treedt strenger op tegen energieslurpende bedrijven zoals datacenters en weert grootschalige datacenters en distributiecentra.",
+        "citaat": "De gemeente gaat verdozing door gebouwen tegen en weert grootschalige distributiecentra en datacenters.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afvalstoffenheffing",
+        "standpunt": "Wie minder restafval aanbiedt betaalt minder gemeentebelasting; inwoners en bedrijven met veel afval betalen meer.",
+        "citaat": "De vervuiler betaalt: inwoners en bedrijven die veel afval hebben, betalen meer dan degenen die minder afval hebben en goed recyclen.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afvalscheidingsstations",
+        "standpunt": "Alle afvalscheidingsstations ook op zondag open en beter bereikbaar met de (bak)fiets; wegwerpplastic wordt snel afgebouwd.",
+        "citaat": "Het gebruik van wegwerpplastic wordt snel afgebouwd.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "tankstations",
+        "standpunt": "De gemeente voert een uitsterfbeleid voor fossiele brandstof bij tankstations, die worden omgebouwd tot uitsluitend fossielvrije energie.",
+        "citaat": "De gemeente hanteert een uitsterfbeleid voor de fossiele brandstof van tankstations.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "CO2-opslag",
+        "standpunt": "De gemeente werkt niet mee aan ondergrondse CO2-opslag, die de partij geen duurzame oplossing vindt.",
+        "citaat": "De kunstmatige (ondergrondse) opslag van CO2 is geen duurzame oplossing en vertraagt het daadwerkelijk verminderen van CO2-uitstoot.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "bebouwing natuurgebieden",
+        "standpunt": "In natuurgebieden gaat de natuur voor en wordt bebouwing niet toegestaan.",
+        "citaat": "wordt niet toegestaan in natuurgebieden.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "recreatie vs. natuurbescherming",
+        "standpunt": "Recreatie en toerisme mogen nooit ten koste gaan van de natuur; de gemeente steunt het waar nodig afsluiten van gebieden voor mensen en kan parkdelen tijdelijk afsluiten.",
+        "citaat": "mogen nooit ten koste gaan van de natuur zelf.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "evenementen bij natuur",
+        "standpunt": "evenementen, gepland in of nabij natuurgebieden.",
+        "citaat": "evenementen, gepland in of nabij natuurgebieden.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kapvergunning",
+        "standpunt": "Kapvergunning vanaf 10 cm stamdoorsnede, in plaats van 30 cm (Hilversum) of 20 cm (Wijdemeren); bij de beoordeling telt ook het effect op wijk, natuur en ecologie.",
+        "citaat": "Niet vanaf 30 centimeter (zoals nu in Hilversum) of 20 centimeter (Wijdemeren), maar vanaf 10 cm doorsnede dient een kapvergunning te worden aangevraagd.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kapleges",
+        "standpunt": "Wie meer bomen wil kappen, betaalt meer; de heffing voor kapvergunningen wordt minstens kostendekkend.",
+        "citaat": "Wie meer bomen wil kappen, gaat meer betalen.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bomen bij nieuwbouw",
+        "standpunt": "Bij nieuwbouw worden bomen niet gekapt en wordt zo veel mogelijk om bestaande bomen heen gebouwd.",
+        "citaat": "Bomen worden niet gekapt, maar er wordt zo veel mogelijk omheen gebouwd.",
+        "bron": "programma",
+        "pagina": 28,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groen in groenarme buurten / groennorm",
+        "standpunt": "Iedereen heeft uitzicht op minimaal drie bomen, 30% kroonbedekking in de wijk en maximaal 300 meter tot een park of groene plek; zinloze verharding en parkeerplaatsen worden vergroend.",
+        "citaat": "Iedereen in de gemeente heeft vanuit huis uitzicht op minimaal drie bomen, er is minimaal 30% kroonbedekking in de wijk en er is op maximaal 300 meter een park, natuurgebied of een groene koele plek.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vliegveld Hilversum",
+        "standpunt": "De partij vindt het goed als het vliegveld sluit, erkent dat de gemeente daarvoor geen bevoegd gezag is, en wil het gebied bij sluiting omzetten in natuur in plaats van een grootschalige woonlocatie.",
+        "citaat": "Het zou goed zijn als vliegveld Hilversum sluit.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vaarwater en boten",
+        "standpunt": "Uiterlijk 2030 mogen alleen elektrische boten, roeiboten en zeilboten zonder fossiele motor de gemeentelijke wateren gebruiken en aanmeren in de haven van Hilversum.",
+        "citaat": "Uiterlijk 2030 mogen alleen elektrische boten, roeiboten en zeilboten zonder fossiele motor gebruikmaken van de gemeentelijke wateren en aanmeren in de haven van Hilversum.",
+        "bron": "programma",
+        "pagina": 57,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "veenweiden en waterpeil",
+        "standpunt": "Samen met het waterschap wil de gemeente het waterpeil in de veengebieden verhogen om het veen te herstellen.",
+        "citaat": "Samen met het waterschap zet de gemeente zich in om het waterpeil in de veengebieden te verhogen om zo het veen te herstellen.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "veehouderij",
+        "standpunt": "Geen vestiging of uitbreiding van veehouderijen en slachterijen; geen nieuwe vis- en insectenkwekerijen; de gemeente pleit regionaal voor afbouw van de veehouderij.",
+        "citaat": "Hilversum staat vestiging en uitbreiding van veehouderijen en slachterijen niet toe en faciliteert op geen enkele wijze de instandhouding van deze industrie.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "landbouw en pachtgrond",
+        "standpunt": "Op gemeentelijke pachtgrond alleen biologische landbouw of boeren die willen omschakelen; geen ruimte voor veehouderij op pachtgronden; landbouwgrond niet voor zonneweides.",
+        "citaat": "Op pachtgronden is geen ruimte voor veehouderij en de gemeente neemt dit in nieuwe contracten als voorwaarde op.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "jacht",
+        "standpunt": "De jacht op grond in gemeentelijk bezit wordt verboden en de gemeente gaat in bezwaar en zo nodig in beroep tegen faunabeheerplannen die jacht toelaten.",
+        "citaat": "Hilversum verbiedt de jacht op grond in gemeentelijk bezit en ontmoedigt jacht binnen het gehele grondgebied van de gemeente.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hengelen",
+        "standpunt": "Hengelen wordt verboden in gemeentelijke wateren; zolang het nog mag komen er hengelvrije gebieden en verboden op weerhaken, vislood en leefnetten.",
+        "citaat": "Hengelen wordt verboden in gemeentelijke wateren.",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "honingbijen",
+        "standpunt": "Het houden van honingbijen op openbare grond wordt verboden en elders komt een vergunningsplicht voor bijenvolken.",
+        "citaat": "De gemeente verbiedt het houden van honingbijen op openbare grond",
+        "bron": "programma",
+        "pagina": 16,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gif en bestrijdingsmiddelen",
+        "standpunt": "De gemeente gebruikt zelf geen gif of bestrijdingsmiddelen en ontmoedigt het gebruik door bedrijven en inwoners.",
+        "citaat": "Hilversum gebruikt zelf geen gif en bestrijdingsmiddelen en ontmoedigt gebruik ervan door bedrijven en inwoners",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bladblazers en maaien",
+        "standpunt": "Gemotoriseerd bladblazen vindt niet plaats tussen februari en oktober; snoeien niet van 1 maart tot 1 augustus; ecologisch maaibeleid met minder maaien.",
+        "citaat": "Gemotoriseerd (blad)blazen vindt niet plaats tussen februari en oktober vanwege de enorme verstoring voor vrij levende dieren.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hertenkampen",
+        "standpunt": "Hertenkampen worden uitgefaseerd, zonder de dieren te doden.",
+        "citaat": "Hilversum faseert hertenkampen uit, omdat herten op deze plekken hun natuurlijk gedrag niet kunnen vertonen.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kinderboerderijen",
+        "standpunt": "Kinderboerderijen stoppen met fokken en het naar de slacht brengen van dieren en richten zich op opvang en educatie in plaats van vermaak.",
+        "citaat": "Kinderboerderijen stoppen met het fokken en naar de slacht brengen van hun dieren en huisvesten alleen nieuwe dieren als zij opvang nodig hebben.",
+        "bron": "programma",
+        "pagina": 19,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "rechten van de natuur",
+        "standpunt": "De gemeente erkent de rechten van de natuur; een als voogd aangewezen expert vertegenwoordigt de stem van de natuur.",
+        "citaat": "stem van de natuur en alle daarin levende wezens.",
+        "bron": "programma",
+        "pagina": 22,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "wolf",
+        "standpunt": "Wolven worden gezien als verrijking van de natuur; afschieten of paintballgeweren zijn geen optie en schapenhouders krijgen voorlichting en subsidie voor preventie.",
+        "citaat": "Afschieten of de inzet van paintballgeweren is geen optie.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "basisinkomen",
+        "standpunt": "Hilversum vraagt het Rijk om een pilot met een basisinkomen.",
+        "citaat": "De gemeente geeft aan bij het Rijk, dat hierover gaat, dat Hilversum een pilot wil met een basisinkomen.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "minimabeleid",
+        "standpunt": "Het minimabeleid (o.a. bijzondere bijstand en collectieve zorgverzekering) wordt uitgebreid tot 130% van het sociaal minimum; vermogensnormen voor kwijtschelding en Wmo-bijdrage worden daaraan gelijkgesteld.",
+        "citaat": "Hilversum breidt het minimabeleid uit tot inkomens van 130% van het sociaal minimum.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kostendelersnorm",
+        "standpunt": "De gemeente handhaaft de kostendelersnorm niet.",
+        "citaat": "De kostendelersnorm wordt niet gehandhaafd.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kliklijn uitkeringsfraude",
+        "standpunt": "Er komt geen kliklijn over uitkeringsfraude.",
+        "citaat": "Er komt geen kliklijn over uitkeringsfraude in Hilversum.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Participatiewet en vrijwilligerswerk",
+        "standpunt": "De Participatiewet met zijn nadruk op betaald werk is volgens de partij mislukt; vrijwilligerswerk telt ook als participatie en uitkeringsgerechtigden worden niet verplicht tot vrijwilligerswerk.",
+        "citaat": "De Participatiewet, met zijn sterke nadruk op betaald werk en zijn dwingende karakter, is mislukt.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schuldhulp",
+        "standpunt": "Preventieve schuldhulpverlening, doorgaan met saneringskredieten, beter natraject, en het bestrijden van commerciële partijen die winst maken op mensen met schulden.",
+        "citaat": "De gemeente gaat door met het verstrekken van saneringskredieten aan inwoners met problematische schulden.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jeugdzorg",
+        "standpunt": "De overbelasting van de jeugdzorg wordt aangepakt via kortere wachtlijsten en het oplossen van knelpunten in de ggz; de gemeente pleit via de VNG voor meer budget voor jeugd-ggz.",
+        "citaat": "De overbelasting van de jeugdzorg pakken we adequaat aan door wachtlijsten te beperken en knelpunten in de ggz op te lossen.",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jeugdhulp 18-23",
+        "standpunt": "Hulp aan jongeren wordt geleidelijk afgebouwd van 18 tot 23 jaar, om de overgang naar volwassenenzorg te versoepelen.",
+        "citaat": "De gemeente versoepelt deze overgang verder door de geboden hulp geleidelijk af te bouwen van achttien tot drieëntwintig jaar.",
+        "bron": "programma",
+        "pagina": 64,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Wmo en kleinschalige zorg",
+        "standpunt": "Wmo-zorg en zorg voor mensen met een beperking worden bij voorkeur kleinschalig en wijkgericht aangeboden; bestaand beleid wordt voortgezet en versterkt.",
+        "citaat": "De zorg vanuit de Wet maatschappelijke ondersteuning (Wmo) en de zorg voor mensen met een beperking (vanuit de Wet langdurige zorg) worden bij voorkeur kleinschalig aangeboden en dit beleid wordt voortgezet en versterkt.",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "wijkcentra en buurthuizen",
+        "standpunt": "De gemeente investeert in buurthuizen, wijkcentra en ontmoetingsplekken, vooral voor ouderen, mensen met een beperking en wijken met veel eenzaamheid.",
+        "citaat": "Verder investeert de gemeente in buurthuizen, wijkcentra en ontmoetingsplekken, met speciale aandacht voor ouderen, mensen met een beperking, en wijken met veel eenzaamheid.",
+        "bron": "programma",
+        "pagina": 61,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "wijkcentra subsidieduur",
+        "standpunt": "Wijk- en buurtcentra krijgen vijf jaar subsidie in plaats van één jaar (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "Langduriger toekenning helpt deze functies te versterken.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dak- en thuislozen",
+        "standpunt": "De gemeente realiseert per direct voldoende gratis opvangplekken voor dak- en thuisloze Hilversummers en hun huisdier, ongeacht uit welke gemeente zij komen; buiten slapen wordt niet beboet.",
+        "citaat": "Slapen is een basisbehoefte. Daarom zorgt Hilversum ervoor dat niemand onvrijwillig buiten slaapt. Buiten slapen wordt niet beboet.",
+        "bron": "programma",
+        "pagina": 46,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mantelzorg",
+        "standpunt": "Mantelzorgers worden (financieel) ondersteund en de aanpak van overbelasting wordt versterkt.",
+        "citaat": "Hilversum heeft een actieve Uitvoeringsagenda Mantelzorg 2024-2030.",
+        "bron": "programma",
+        "pagina": 64,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "huisartsenpraktijken",
+        "standpunt": "De gemeente grijpt in als absurde huurprijzen ertoe leiden dat huisartsenpraktijken uit centra en gewilde wijken verdwijnen.",
+        "citaat": "De gemeente grijpt in wanneer absurde huurprijzen ertoe leiden dat praktijken verdwijnen uit stadscentra en gewilde wijken.",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "eenzaamheid",
+        "standpunt": "De gemeente investeert in signaleringsnetwerken per buurt of dorp om eenzaamheid, verwaarlozing, mishandeling en uitbuiting op te sporen.",
+        "citaat": "Hilversum investeert in signaleringsnetwerken per buurt of dorp om eenzaamheid, verwaarlozing, mishandeling en uitbuiting op te sporen.",
+        "bron": "programma",
+        "pagina": 52,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zorg voor huisdieren van kwetsbaren",
+        "standpunt": "De gemeente financiert Dierenbuddies voor ouderen en chronisch zieken en geeft mensen met een krappe beurs een tegemoetkoming in noodzakelijke dierenartskosten.",
+        "citaat": "Hilversum ondersteunt mensen met een krappe beurs met een tegemoetkoming in noodzakelijke dierenartskosten, waaronder castratie en chippen.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "De partij is zeer terughoudend met cameratoezicht, vindt het schijnveiligheid die het probleem verplaatst en wil het alleen tijdelijk en onder strikte voorwaarden (zoals een maximale bewaartermijn).",
+        "citaat": "Cameratoezicht biedt slechts schijnveiligheid en zorgt vaak alleen maar voor verplaatsing van het probleem.",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "camera's centrum bij overlast",
+        "standpunt": "Gemeentelijk cameratoezicht mag alleen tijdelijk en onder strikte voorwaarden, zoals een maximale bewaartermijn voor de beelden; gebieden met veel overlast zouden daaronder kunnen vallen zolang de overlast aanhoudt (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "Gebieden met veel overlast zouden hieronder kunnen vallen zo lang de overlast aanhoudt.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gezichtsherkenning",
+        "standpunt": "Automatische gezichtsherkenning wordt niet ingezet; advertentieborden met gezichtsherkenning en Bluetooth- of wifi-tracking in de openbare ruimte worden verboden.",
+        "citaat": "Automatische gezichtsherkenning is een te vergaand middel en wordt niet ingezet.",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "preventief fouilleren",
+        "standpunt": "Preventief fouilleren wordt in Hilversum niet toegestaan, omdat het etnisch profileren in de hand werkt.",
+        "citaat": "Preventief fouilleren werkt etnisch profleren en stigmatisering in de hand en Hilversum staat dit niet toe.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "boa's",
+        "standpunt": "Boa's mogen religieuze uitingen zoals een hoofddoek of keppeltje dragen; de gemeente dringt hier als werkgever bij het Rijk op aan.",
+        "citaat": "Buitengewoon opsporingsambtenaren (boa’s) mogen religieuze uitingen (zoals een hoofddoek of keppeltje) dragen.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wijkagenten en straatmedewerkers",
+        "standpunt": "De gemeente investeert in meer straatmedewerkers, buurtouders en wijkagenten, en in jongerenwerk en preventie van criminaliteit.",
+        "citaat": "Hilversum investeert in meer straatmedewerkers, buurtouders en wijkagenten, de ogen en oren van de buurt.",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "harddrugsgebruikers en gebruikersruimtes",
+        "standpunt": "Er komen gebruikersruimtes met naaldomruil voor drugsverslaafden; wie harddrugs gebruikt in de openbare ruimte krijgt geen boete maar zorg aangeboden.",
+        "citaat": "Mensen die harddrugs gebruiken in de openbare ruimte krijgen geen boete, maar waar nodig wordt zorg aangeboden.",
+        "bron": "programma",
+        "pagina": 65,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wiet en coffeeshops",
+        "standpunt": "De gemeente staat open voor proeven met lokale wietteelt; er komen geen nieuwe coffeeshops in de buurt van scholen.",
+        "citaat": "Hilversum staat open voor proeven met lokale wietteelt.",
+        "bron": "programma",
+        "pagina": 65,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "drugstestlocatie",
+        "standpunt": "De gemeente ondersteunt de bestaande gratis drugtestlocatie aan de Noorderweg.",
+        "citaat": "Hilversum ondersteunt de bestaande gratis drugtestlocatie aan de Noorderweg waar drugs getest kunnen worden voorafgaand aan gebruik.",
+        "bron": "programma",
+        "pagina": 65,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "casino's en gokhallen",
+        "standpunt": "Er komen geen nieuwe casino's of gokhallen.",
+        "citaat": "Om inwoners te beschermen tegen gokverslaving komen er geen nieuwe casino’s of gokhallen.",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vuurwerk",
+        "standpunt": "Bij het landelijke consumentenvuurwerkverbod geeft de gemeente maximaal één vergunning per jaar af voor een centrale vuurwerkshow, met adequate handhaving; carbidschieten en paasvuren worden verboden.",
+        "citaat": "Nu het landelijke verbod op het afsteken van consumentenvuurwerk van kracht is, geeft Hilversum maximaal één vergunning af per jaar voor een centrale vuurwerkshow",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "politiepaarden en -honden",
+        "standpunt": "Hilversum wil af van de inzet van politiepaarden en -honden en zoekt met de politie diervrije alternatieven.",
+        "citaat": "Hilversum wil af van de inzet van politiepaarden en -honden en werkt samen met de politie om hiervoor diervrije alternatieven te vinden.",
+        "bron": "programma",
+        "pagina": 15,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bedelverbod",
+        "standpunt": "Er komt in Hilversum geen bedelverbod.",
+        "citaat": "Er komt in Hilversum geen bedelverbod.",
+        "bron": "programma",
+        "pagina": 67,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "demonstratierecht",
+        "standpunt": "Demonstraties worden ruimhartig gefaciliteerd zonder aanmeldplicht; handhavers krijgen een zichtbaar kenteken; ID-controles bij vreedzame demonstraties alleen bij verdenking van een ernstig strafbaar feit.",
+        "citaat": "Hilversum faciliteert demonstraties ruimhartig en legt geen aanmeldplicht of structurele beperkingen op.",
+        "bron": "programma",
+        "pagina": 67,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitgaansgebied de Groest",
+        "standpunt": "Op en rond uitgaansgebied de Groest komt een veilige plek voor bezoekers bij grensoverschrijdend gedrag; horecapersoneel volgt trainingen.",
+        "citaat": "De gemeente investeert in veiligheid tijdens de nacht door op en rond uitgaansgebied de Groest een 'veilige plek' te creëren",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ondermijning",
+        "standpunt": "De gemeente stimuleert een actieve aanpak van ondermijning, witwassen en grootschalige fraude en kijkt kritisch naar het vergunningenbeleid.",
+        "citaat": "Ondermijning is een groot probleem in heel Nederland. De gemeente stimuleert een actieve aanpak van ondermijning, witwassen en grootschalige fraude en bekijkt het vergunningenbeleid kritisch.",
+        "bron": "programma",
+        "pagina": 66,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "statushouders huisvesten",
+        "standpunt": "Hilversum blijft zich inzetten voor de taakstelling huisvesting statushouders, met nadruk op kleinschalige opvang; flexwoningen zijn mede bedoeld voor statushouders.",
+        "citaat": "Hilversum blijft zich onverminderd inzetten om te voldoen aan de taakstelling huisvesting statushouders. Kleinschalige opvang is hierbij van belang.",
+        "bron": "programma",
+        "pagina": 43,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "eerlijk aandeel opvang",
+        "standpunt": "Hilversum neemt een eerlijk aandeel in het zorgen voor opvangplekken voor vluchtelingen.",
+        "citaat": "Hilversum neemt een eerlijk aandeel in het zorgen voor opvangplekken voor vluchtelingen.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "azc en noodopvang",
+        "standpunt": "Kleinschalige opvang verspreid over de gemeente via afspraken met het COA, volgens de eerder via inspraak gemaakte afspraken; de gemeente werkt aan draagvlak en informeert bewoners op tijd over een azc of noodopvang.",
+        "citaat": "Hilversum biedt kleinschalige opvang aan vluchtelingen verspreid over de gemeente door afspraken te maken met het COA.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Spreidingswet",
+        "standpunt": "Hilversum-Wijdemeren moet minimaal het aantal opvangplekken bieden dat volgt uit de Spreidingswet, ook als die wordt ingetrokken (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "Hilversum-Wijdemeren moet minimaal het aantal plekken bieden dat volgt uit de Spreidingswet.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vluchtelingen en inwoners",
+        "standpunt": "Om tegenstellingen te voorkomen realiseert Hilversum voldoende betaalbare woningen voor iedereen.",
+        "citaat": "Hilversum voorkomt dat vluchtelingen en inwoners tegenover elkaar komen te staan door voldoende betaalbare woningen voor iedereen te realiseren.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ongedocumenteerden",
+        "standpunt": "Alle mensen hebben ongeacht verblijfsstatus recht op menswaardige behandeling en veilige huisvesting; de gemeente zet een bed-bad-broodregeling met juridische ondersteuning op.",
+        "citaat": "De gemeente Hilversum zet een bed-bad-broodregeling op voor ongedocumenteerde migranten en biedt hierbij ook juridische ondersteuning.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "uitzetting kinderen",
+        "standpunt": "De gemeente werkt niet mee aan het uitzetten van kinderen.",
+        "citaat": "De gemeente werkt niet mee aan het uitzetten van kinderen.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "werken vanaf dag een",
+        "standpunt": "De gemeente zet zich in voor een pilot waarin asielzoekers vanaf de eerste dag mogen werken, met waakzaamheid tegen uitbuiting.",
+        "citaat": "De gemeente zet zich in voor een pilot voor asielzoekers zodat ze vanaf de eerste dag na hun aankomst kunnen werken.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Oekraïense ontheemden",
+        "standpunt": "De gemeente probeert samen met de veiligheidsregio meer opvangplekken voor ontheemden uit Oekraïne te realiseren en maakt een plan voor hun toekomstperspectief.",
+        "citaat": "De gemeente spant zich samen met de veiligheidsregio in om meer opvangplekken voor ontheemden uit Oekraïne te realiseren.",
+        "bron": "programma",
+        "pagina": 51,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "arbeidsmigranten",
+        "standpunt": "De huisvesting van arbeidsmigranten wordt strenger en frequenter geïnspecteerd en verbeterd; zij worden geïnformeerd over arbeidsrechten.",
+        "citaat": "De manier waarop arbeidsmigranten worden gehuisvest, wordt strenger en frequenter geïnspecteerd en wordt verbeterd.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "racisme en discriminatie",
+        "standpunt": "Gerichte aanpak van discriminatie op arbeidsmarkt en woningmarkt, onder meer met mystery guests, en een specialistisch loket voor aangiftes van discriminatie.",
+        "citaat": "komt met een gerichte aanpak tegen deze vormen",
+        "bron": "programma",
+        "pagina": 48,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Zwarte Piet",
+        "standpunt": "De gemeente werkt niet mee aan en subsidieert geen vieringen waarbij zwarte pieten, of pieten met racistische kenmerken, aanwezig zijn.",
+        "citaat": "De gemeente werkt op geen enkele wijze mee en verleent geen subsidie aan vieringen waarbij zwarte pieten, of pieten afgebeeld met racistische kenmerken",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "IHRA-definitie",
+        "standpunt": "Hilversum werkt niet samen met organisaties die de IHRA-definitie van antisemitisme hanteren, omdat die volgens de partij kritiek op Israël als antisemitisme wegzet.",
+        "citaat": "Hilversum werkt niet samen met organisaties die de IHRA-defnitie hanteren voor het bestrijden van antisemitisme.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "koloniaal verleden",
+        "standpunt": "Hilversum onderzoekt het eigen aandeel in het koloniale en slavernijverleden en maakt daarvoor excuses; betwist erfgoed wordt in kaart gebracht.",
+        "citaat": "Hilversum doet onderzoek naar het eigen aandeel in het koloniale en slavernijverleden en maakt hier excuses voor.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "LHBTQIA+ en Pride",
+        "standpunt": "De gemeente hijst jaarlijks de progress pride-vlag, geeft doorlopende subsidies aan LHBTQIA+-organisaties en is host van de Gooise Pride.",
+        "citaat": "De gemeente hijst minstens één keer per jaar de progress pride-vlag.",
+        "bron": "programma",
+        "pagina": 49,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "genderneutrale communicatie",
+        "standpunt": "Hilversum gebruikt in beleidsstukken en communicatie een genderneutrale aanspreekvorm en zorgt voor genderneutrale toiletten op het gemeentehuis.",
+        "citaat": "Hilversum kiest in de beleidstukken en de communicatie naar burgers een genderneutrale aanspreekvorm.",
+        "bron": "programma",
+        "pagina": 50,
+        "soort": "concreet"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "economische groei",
+        "standpunt": "De partij wil geen economische groei als doel; Hilversum maakt indicatoren van brede welvaart leidend in het beleid.",
+        "citaat": "Welvaart wordt niet meer gemeten of nagestreefd aan de hand van economische groeicijfers of hoge plekken in economische ranglijstjes.",
+        "bron": "programma",
+        "pagina": 32,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "vervuilende bedrijven",
+        "standpunt": "Omgevingsplannen geven geen ruimte aan bedrijven of sectoren die aantoonbaar vervuilen of mensenrechten schenden; milieuhandhaving krijgt hoge prioriteit.",
+        "citaat": "In omgevingsplannen geeft Hilversum geen ruimte aan bedrijven of sectoren die aantoonbaar vervuilen of mensenrechten schenden.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bedrijventerreinen",
+        "standpunt": "Bedrijventerreinen zonder toekomst of met te veel hinder worden circulair en schoon of omgevormd tot woonwijken en groen; bij de overige terreinen wordt de ruimte efficiënter gebruikt.",
+        "citaat": "Bedrijventerreinen die geen toekomst meer hebben of te veel hinder veroorzaken voor omliggende woongebieden worden circulair en schoon of omgevormd tot woonwijken en groen.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "distributiecentra en datacenters",
+        "standpunt": "De gemeente weert grootschalige distributiecentra en datacenters.",
+        "citaat": "De gemeente gaat verdozing door gebouwen tegen en weert grootschalige distributiecentra en datacenters.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "reclame openbare ruimte",
+        "standpunt": "Hilversum stopt met reclame in de openbare ruimte, behalve overheidscampagnes, cultuur en goede doelen; tot die tijd verdwijnen reclames voor dierlijke producten, fossiele producten, gokken en alcohol.",
+        "citaat": "Hilversum stopt met reclame in de openbare ruimte met uitzondering van overheidscampagnes, cultuur en goede doelen.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "evenementenbeleid",
+        "standpunt": "Er komt een evenementenplan met locaties, aantallen en geluidsnormen; festivals mogen geen schade toebrengen aan natuur en leefgebieden; vergunningskosten en gunning hangen af van hoe groen het evenement is.",
+        "citaat": "De gemeente stelt een evenementenplan op.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "grootschalige evenementen",
+        "standpunt": "Hilversum ontmoedigt dure, grootschalige prestige-evenementen van publiek geld.",
+        "citaat": "Hilversum ontmoedigt dure, grootschalige prestige-evenementen van publiek geld.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toerisme",
+        "standpunt": "De opbrengsten van de toeristenbelasting worden gebruikt om te verduurzamen en de natuur te versterken, en de gemeente wil meer bezoekers met het OV laten komen.",
+        "citaat": "Daarom gebruikt de gemeente de opbrengsten van de toeristenbelasting om te verduurzamen en de natuur te versterken, om de schade van toerisme te beperken.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "horeca",
+        "standpunt": "Horeca wordt gestimuleerd plantaardige opties aan te bieden, terrasverwarming wordt ontmoedigd en bij vergunningen wordt rekening gehouden met geluidsoverlast voor omwonenden.",
+        "citaat": "Terrasverwarming wordt ontmoedigd.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "fastfood",
+        "standpunt": "Hilversum zoekt in overleg met het Rijk manieren om nieuwe vestigingen van fastfoodketens te weren.",
+        "citaat": "Hilversum zoekt naar manieren om nieuwe vestigingen van fastfoodketens te kunnen weren en treedt daarover in overleg met het Rijk.",
+        "bron": "programma",
+        "pagina": 63,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokaal inkopen en ondernemen",
+        "standpunt": "De gemeente start een koop-lokaal-initiatief, koopt zo veel mogelijk lokaal en regionaal in en past Community Wealth Building toe; zzp'ers en duurzame start-ups worden geholpen aan kantoorruimte.",
+        "citaat": "De gemeente begint een koop-lokaal-initiatief en geeft zelf het goede voorbeeld door zo veel mogelijk lokaal en regionaal in te kopen.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "inkoop",
+        "standpunt": "Het inkoopbeleid is duurzaam en sociaal, met prijs als ondergeschikt criterium; de gemeente koopt 100% circulair in.",
+        "citaat": "Het inkoopbeleid is duurzaam en sociaal, de prijs is daaraan ondergeschikt.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "werkgelegenheid en open hiring",
+        "standpunt": "De gemeente start een pilot 'open hiring', behoudt sociale werkplaatsen en geeft bij aanbestedingen voorrang aan werkplekken voor mensen met een afstand tot de arbeidsmarkt.",
+        "citaat": "De gemeente start een pilot op basis van het principe van ‘open hiring’, waarbij iedereen voor bepaalde functies welkom is, ongeacht verleden, opleiding of ervaring.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sociale werkplaatsen",
+        "standpunt": "Sociale werkplaatsen blijven behouden.",
+        "citaat": "Sociale werkplaatsen blijven behouden, zodat mensen dicht bij huis betekenisvol werk kunnen doen met goede begeleiding.",
+        "bron": "programma",
+        "pagina": 38,
+        "soort": "concreet"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "cultuurbudget",
+        "standpunt": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd, mede om de Fair Practice Code te kunnen realiseren.",
+        "citaat": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd, niet alleen om meer te kunnen programmeren, maar ook om de Fair Practice Code voor eerlijke beloning in de culturele sector te kunnen realiseren.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verdeling cultuurgeld",
+        "standpunt": "Meer geld voor laagdrempelige cultuur in de wijken en voor kleine instellingen en amateurkunst; volgens de partij gaat nu een te groot deel naar grote, dure instellingen en panden in het centrum.",
+        "citaat": "Cultuurbudgetten worden nu voor een te groot deel besteed aan grote en dure instellingen en panden, vaak in het centrum.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dieren bij gesubsidieerde cultuur",
+        "standpunt": "Instellingen die cultuursubsidie krijgen, zetten bij hun activiteiten geen dieren in; de gemeente subsidieert en organiseert geen activiteiten met levende dieren.",
+        "citaat": "Instellingen die cultuursubsidies van de gemeente krijgen, zetten bij hun activiteiten geen dieren in.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "musea gratis",
+        "standpunt": "Musea zijn minstens één dag per week gratis toegankelijk voor inwoners van de gemeente.",
+        "citaat": "Musea zijn minstens één dag in de week gratis toegankelijk voor inwoners van de gemeente.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "broedplaatsen",
+        "standpunt": "De gemeente breidt het aantal broedplaatsen en open werkplaatsen uit, zoals VONK in de wijk.",
+        "citaat": "De gemeente breidt dit uit naar nog meer broedplaatsen en open(bare) werkplaatsen",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "monumenten en sloop",
+        "standpunt": "Herbestemming van monumenten wordt bevorderd en sloop van cultuurhistorisch waardevolle of beeldbepalende panden moet worden voorkomen.",
+        "citaat": "Sloop van (cultuur)historisch waardevolle of beeldbepalende panden dient voorkomen te worden.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "betwiste standbeelden",
+        "standpunt": "Betwiste standbeelden en symbolen uit het koloniale verleden worden in kaart gebracht en voorzien van voorlichting of verwijderd.",
+        "citaat": "Omstreden standbeelden en symbolen worden voorzien van voorlichting of verwijderd.",
+        "bron": "programma",
+        "pagina": 72,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "onderwijs investeren",
+        "standpunt": "Structureel meer investeren in onderwijs; gemeente investeert in tegengaan van onderwijssegregatie en kansengelijkheid, zoals bijlessen op school voor iedereen en een eerlijk aanmeldbeleid.",
+        "citaat": "De Partij voor de Dieren wil dat er structureel wordt geïnvesteerd in het onderwijs.",
+        "bron": "programma",
+        "pagina": 70,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schoollunch en schoolmelk",
+        "standpunt": "Gezonde kantines met gratis biologisch fruit en een plantaardige schoollunch; schoolmelkregelingen worden stopgezet.",
+        "citaat": "Schoolmelkregelingen worden stopgezet.",
+        "bron": "programma",
+        "pagina": 70,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "schoolgebouwen en schoolpleinen",
+        "standpunt": "De gemeente trekt voldoende geld uit voor natuurinclusief renoveren van verouderde schoolpanden en steunt groene schoolpleinen financieel.",
+        "citaat": "renoveren en verduurzamen van verouderde",
+        "bron": "programma",
+        "pagina": 70,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zwemlessen",
+        "standpunt": "De gemeente investeert in sport, zwemlessen, cultuur- en muzieklessen en natuureducatie op scholen; het programma noemt geen zwembaden.",
+        "citaat": "De gemeente investeert in sport, zwemlessen,",
+        "bron": "programma",
+        "pagina": 70,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kunstgrasvelden",
+        "standpunt": "Er worden geen nieuwe kunstgrasvelden aangelegd; bestaande worden bij vervanging echt gras en rubbergranulaat wordt opgeruimd.",
+        "citaat": "Er worden geen nieuwe kunstgrasvelden aangelegd.",
+        "bron": "programma",
+        "pagina": 62,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sportvelden en groen",
+        "standpunt": "Nieuwe sportvelden gaan niet ten koste van bestaand groen en zijn zo veel mogelijk voor meerdere sporten bruikbaar; sportvoorzieningen zijn zo veel mogelijk zeven dagen per week beschikbaar.",
+        "citaat": "Nieuwe sportvelden gaan niet ten koste van bestaand groen",
+        "bron": "programma",
+        "pagina": 62,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "jongerenwerk en jongerencentra",
+        "standpunt": "De gemeente investeert in jongerenwerk en jongerencentra, ook voor organisaties als Young Hilversummers, en zet jongerenwerkers in op middelbare scholen.",
+        "citaat": "De gemeente investeert daarom in jongerenwerk en jongerencentra.",
+        "bron": "programma",
+        "pagina": 61,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bibliotheken",
+        "standpunt": "Investeren in voldoende bibliotheken, ook kleinere buurtbibliotheken en vestigingen van de Bibliotheek op School.",
+        "citaat": "We investeren in voldoende bibliotheken, inclusief kleinere buurtbibliotheken en vestigingen van de Bibliotheek op School.",
+        "bron": "programma",
+        "pagina": 71,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "referendum",
+        "standpunt": "Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling; ook wijk- en buurtreferenda worden mogelijk.",
+        "citaat": "belangrijke besluiten, zoals grote bouwprojecten",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "burgerberaad",
+        "standpunt": "Het burgerberaad, ook in kleinere vorm (wijk- of dorpsberaad), krijgt een prominente plek in het participatiebeleid; ook komt er een geloot klimaat-burgerberaad.",
+        "citaat": "Het burgerberaad, ook in kleinschaliger vorm",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "wijk- en dorpsraden",
+        "standpunt": "Wijk- en dorpsraden en buurtverenigingen worden versterkt, krijgen het uitdaagrecht en worden actief betrokken bij besluiten; er komen buurtbegrotingen en buurtbudgetten.",
+        "citaat": "dorpsraden en buurtverenigingen). Deze worden",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "participatie bij bouwplannen",
+        "standpunt": "Over bouw- en inrichtingsplannen wordt al in de eerste fase gecommuniceerd met bewonersverenigingen en omwonenden, met een speciale plek op de gemeentewebsite voor grote bouwprojecten.",
+        "citaat": "omwonenden. Er komt een speciale plek op de",
+        "bron": "programma",
+        "pagina": 75,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lobbyregister en formatie",
+        "standpunt": "Er komt een openbaar gemeentelijk lobbyregister en de afspraken van de collegeformatie worden openbaar gemaakt.",
+        "citaat": "Er komt een gemeentelijk, openbaar lobbyregister.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "openbaarheid",
+        "standpunt": "In principe is alle gemeentelijke informatie openbaar; college en raad zijn uiterst terughoudend met geheimhouding.",
+        "citaat": "In principe is alle gemeentelijke informatie openbaar en digitaal beschikbaar.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "fysieke balie en digitale dienstverlening",
+        "standpunt": "Inwoners kunnen voor gemeentezaken telefoneren of terecht bij een fysieke balie in het gemeentehuis; chatbots vervangen geen menselijk contact en contant betalen blijft mogelijk.",
+        "citaat": "Inwoners die niet uit de voeten kunnen met digitale middelen kunnen voor gemeentezaken telefoneren of bij een fysieke balie in het gemeentehuis terecht",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "klachtenloket",
+        "standpunt": "Er komt één gemeentelijk loket dat alle klachten coördineert, ook 's nachts en in het weekend bereikbaar voor meldingen van overlast en overtredingen.",
+        "citaat": "Er komt één gemeentelijk loket dat alle klachten coördineert.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ombudsfunctie en jeugdraden",
+        "standpunt": "Er komen een gemeentelijke ombudsfunctie en kinderombudsfunctie, en een kinderraad en jongerenraad.",
+        "citaat": "Hilversum stelt een gemeentelijke ombudsfunctie en kinderombudsfunctie in.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gemeenschappelijke regelingen",
+        "standpunt": "De democratische controle op gemeenschappelijke regelingen met andere gemeenten wordt verbeterd; regionale samenwerking op dierenwelzijn, klimaat, natuur en milieu met controle door de raad.",
+        "citaat": "De democratische controle op samenwerkingsverbanden met andere gemeenten of organisaties, de zogenaamde gemeenschappelijke regelingen, is een punt van zorg en wordt verbeterd.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "thuiswerken ambtenaren",
+        "standpunt": "Iedere ambtenaar voor wie dat mogelijk is, mag in ieder geval 40% van de arbeidstijd thuiswerken.",
+        "citaat": "geval 40% van de arbeidstijd thuiswerkt.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wethouder dierenrechten",
+        "standpunt": "Als de partij in de coalitie komt, levert ze een wethouder Dierenrechten & Dierenwelzijn en de wethouder met klimaat, natuur en biodiversiteit in de portefeuille.",
+        "citaat": "Er komt een wethouder voor Dierenrechten & Dierenwelzijn.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "privacy, AI en big tech",
+        "standpunt": "De gemeente gebruikt AI alleen bij duidelijke maatschappelijke baten en zonder privacyrisico's, schakelt zo veel mogelijk over op opensource-toepassingen, en gebruikt geen algoritmes die zonder menselijke inmenging besluiten nemen.",
+        "citaat": "De gemeente gebruikt geen algoritmes waarbij systemen besluiten nemen over inwoners zonder menselijke inmenging.",
+        "bron": "programma",
+        "pagina": 77,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Palestina en stedenbanden",
+        "standpunt": "Hilversum spreekt uit dat Palestina een onafhankelijke staat is, gaat geen stedenbanden aan met gemeenten in landen met een door de VN als illegaal erkende bezetting en werkt niet samen met bedrijven die aan bezetting bijdragen.",
+        "citaat": "Hilversum spreekt uit dat Palestina een",
+        "bron": "programma",
+        "pagina": 78,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fusie en dorpen",
+        "standpunt": "Het programma richt zich op alle kernen van de nieuwe gemeente en geeft elk dorp en elke wijk een eigen transitieplan en versterkte dorps- en wijkraden.",
+        "citaat": "Wij willen een fjne woning, gezond voedsel en een prettig leven voor alle inwoners van Hilversum, Loosdrecht, Kortenhoef, ‘s-Graveland, Nederhorst den Berg, Ankeveen, Breukeleveen, Boomhoek en Muyeveld.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kleine dorpsevenementen",
+        "standpunt": "Kosten of gunning van een evenementenvergunning hangen af van hoe groen en duurzaam het evenement is; de partij noemt geen vrijstelling van leges voor kleine dorpsevenementen (Stemgids Hilversum).",
+        "citaat": "De kosten of gunning van een vergunning zijn afhankelijk van hoe groen en duurzaam het evenement is.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "begrotingstekort",
+        "standpunt": "Bij een begrotingstekort kiest de partij voor het beschermen van kwetsbaren en sociale voorzieningen en terugdringen van tekorten door projecten bij te stellen (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "PvdD kiest bij een begrotingstekort voor het beschermen van kwetsbaren en sociale voorzieningen.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Bruisend Hart",
+        "standpunt": "Het plan Bruisend Hart voor het Oosterspoorplein moet bijgesteld kunnen worden als de kosten te hoog blijken en groene en sociale voorzieningen onder druk komen (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "Er moet dan ook ruimte blijven om het plan Bruisend Hart bij te stellen als de kosten te hoog blijken en groene en sociale voorzieningen onder druk zetten.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Kerkbrink",
+        "standpunt": "De herinrichting van de Kerkbrink is niet bij voorbaat soberder of goedkoper, maar kan bij een tekort worden bijgesteld (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "Tekorten worden dan teruggedrongen door het bijstellen van projecten zoals de Kerkbrink.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "woonlasten",
+        "standpunt": "De partij hanteert 'de vervuiler betaalt': lasten kunnen voor wie veel afval produceert harder stijgen dan de inflatie; een algemene grens voor OZB of woonlasten noemt het programma niet (antwoord van de partij in de Stemgids Hilversum).",
+        "citaat": "De PvdD gaat uit van het principe 'de vervuiler betaalt'.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "afvalheffing naar gebruik",
+        "standpunt": "De gemeente onderzoekt hoe de gemeentebelasting omlaag kan naarmate je minder restafval aanbiedt.",
+        "citaat": "We onderzoeken welke opties er zijn om de gemeentebelasting te verlagen naarmate je minder restafval aanbiedt.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "hondenbelasting",
+        "standpunt": "Er wordt geen hondenbelasting ingevoerd.",
+        "citaat": "Er wordt geen hondenbelasting ingevoerd.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "reclamebelasting",
+        "standpunt": "Er wordt een reclamebelasting ingevoerd.",
+        "citaat": "Ook wordt er een reclamebelasting ingevoerd.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kwijtschelding gemeentelijke belastingen",
+        "standpunt": "Gemeentelijke belastingen worden eerder kwijtgescholden of overgenomen, mede om de armoedeval te voorkomen.",
+        "citaat": "Gemeentelijke belastingen worden eerder kwijtgescholden of overgenomen, onder andere om de armoedeval te voorkomen.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "externe inhuur",
+        "standpunt": "Het doel is de inhuur van extern personeel onder de 10% te houden.",
+        "citaat": "Het doel is de inhuur van extern personeel onder de 10% te houden.",
+        "bron": "programma",
+        "pagina": 76,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ravijnjaar",
+        "standpunt": "De partij wijst op onvoldoende rijksgeld voor gemeenten vanaf 2028 en wil dat Hilversum desondanks goed blijft zorgen voor mens, dier en natuur; samen met andere gemeenten wordt het probleem in Den Haag aangekaart.",
+        "citaat": "Landelijk wanbeleid heeft ertoe geleid dat vanaf 2028 de gemeenten onvoldoende geld van het Rijk krijgen om hun taken uit te voeren",
+        "bron": "programma",
+        "pagina": 77,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "klimaatplan met budget",
+        "standpunt": "Er komt een ambitieus klimaatplan met bijbehorend budget, en een revolverend klimaatfonds voor voorgefinancierde maatregelen van inwoners en bedrijven.",
+        "citaat": "Er komt een ambitieus klimaatplan met bijbehorend budget.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "geen subsidie aan vervuilers",
+        "standpunt": "De gemeente steunt via inkoop of subsidies geen bedrijven die grond- en oppervlaktewater vervuilen, zoals sierteelt en vee-industrie.",
+        "citaat": "Hilversum geeft geen steun via inkoop of subsidies aan bedrijven die vervuilend zijn voor ons grond- en oppervlaktewater",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "beleggen en pensioen",
+        "standpunt": "Pensioenbijdragen van gemeentemedewerkers worden niet meer belegd in fossiel, veehouderij, mensenrechtenschenders of wapens; de gemeente verbreekt financiële banden met fossiele bedrijven.",
+        "citaat": "Pensioenbijdragen van gemeentemedewerkers worden niet meer geïnvesteerd in fossiele industrieën, de veehouderij en bedrijven die mensenrechten schenden of wapens produceren.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "evenementensubsidies",
+        "standpunt": "Subsidies voor evenementen worden alleen verstrekt als zij aan strikte duurzaamheidsvoorwaarden voldoen.",
+        "citaat": "Subsidies worden alleen verstrekt als evenementen aan strikte duurzaamheidsvoorwaarden voldoen.",
+        "bron": "programma",
+        "pagina": 35,
+        "soort": "concreet"
+      }
+    ]
+  },
+  "opvallend": [
+    "Wil een wethouder Dierenrechten & Dierenwelzijn, een Nota Dieren en een voogd die de stem van de natuur vertegenwoordigt (rechten van de natuur, Zoöp).",
+    "Kapvergunning vanaf 10 cm stamdoorsnede (nu 30 cm in Hilversum, 20 cm in Wijdemeren) en verbod op honingbijen op openbare grond, jacht op gemeentegrond en hengelen in gemeentelijke wateren.",
+    "Woonladder met een limiet op het aantal toe te voegen woningen in Hilversum; als die grens bereikt is moeten oplossingen buiten Hilversum worden gezocht.",
+    "Wil het vliegveld Hilversum bij sluiting laten omzetten in natuur, niet in woningbouw, en vanaf 2030 alleen elektrische, roei- en zeilboten op gemeentelijk water.",
+    "Betaald parkeren in heel Hilversum, geen nieuwe autoparkeerplekken op straat, 30 km/u als hoofdregel en streefdoel van 85% van de verplaatsingen per fiets.",
+    "Gebruikersruimtes voor drugsverslaafden, geen boete voor harddrugsgebruik in de openbare ruimte en proeven met lokale wietteelt.",
+    "Bed-bad-broodregeling voor ongedocumenteerden, geen medewerking aan uitzetting van kinderen en opvang ongeacht verblijfsstatus.",
+    "Werkt niet samen met organisaties die de IHRA-definitie hanteren; spreekt uit dat Palestina een onafhankelijke staat is en gaat geen stedenbanden aan met gemeenten in landen met een door de VN erkende illegale bezetting.",
+    "Reclame in de openbare ruimte stopt, met een reclamebelasting als tussenstap; economische groei is geen beleidsdoel.",
+    "Wil legalisering van kraken van langdurig leegstaande panden bepleiten en het groepscontract in de verhuur verbieden."
+  ],
+  "dun": [
+    "financien: geen doorrekening, geen standpunt over het niveau van OZB of de begroting als geheel; alleen losse belastingen (reclame-, toeristen-, geen hondenbelasting) en 'de vervuiler betaalt'.",
+    "economie: bijna niets over het centrum en de winkels, koopzondag of Mediapark als mediastad; het Mediapark komt alleen voor bij lokaal eigendom van energieopwek.",
+    "wonen: geen woningbouwaantallen of vaste bouwlocaties (Anna's Hoeve, Hoorneboeg, Nederhorst-Noord, Ter Sype, Porseleinhaven, Zuidsingel e.d. worden niet genoemd) en geen standpunt over het stationsgebied; Circusterrein aan de Diependaalselaan is de enige bouwlocatie bij naam.",
+    "bestuur: de fusie en de dorpen komen vooral terug in dorpsspecifieke transitieplannen en dorpsraden; niets over loketten in Wijdemeren, dorpshuizen of zwembaden.",
+    "natuur: Loosdrechtse Plassen en recreatie op de plassen krijgen geen eigen standpunt buiten elektrisch varen en waterkwaliteit; Crailo komt alleen voor als dierenasiel en als aandeelhouderschap in GEM Crailo.",
+    "veiligheid: geen concrete aantallen boa's of agenten; Arenapark komt alleen voor bij de biomassacentrale.",
+    "asiel: geen locaties of aantallen voor azc of noodopvang; verwijst naar eerder gemaakte inspraakafspraken. Standpunten over Spreidingswet, zondagsopening, starterslening, Bruisend Hart en Kerkbrink komen uit de Stemgids Hilversum, niet uit het programma."
+  ]
+}

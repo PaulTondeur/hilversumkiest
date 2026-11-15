@@ -1,0 +1,504 @@
+[
+ {
+  "sleutel": "wonen-voorrang-beroepen-weg|bvnl",
+  "id": "wonen-voorrang-beroepen-weg",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-voorrang-beroepen-weg",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Iedereen gelijk; voorrang alleen in uitzonderlijke situaties",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "wonen-starterswoning-boven-lening|bvnl",
+  "id": "wonen-starterswoning-boven-lening",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-starterswoning-boven-lening",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Lening voor starters, mits verantwoord en tijdelijk",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-grondbeleid|bvnl",
+  "id": "wonen-grondbeleid",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-grondbeleid",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Vraag van inwoners en markt leidend",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|bvnl",
+  "id": "verkeer-buurt-beslist",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "criterium is aantoonbare parkeerdruk",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|bvnl",
+  "id": "verkeer-vergunning",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "lagere lasten op parkeren, eenvoudig systeem",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "verkeer-fietspad|bvnl",
+  "id": "verkeer-fietspad",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-fietspad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "auto mag niet worden weggejaagd",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-isolatie-eerst|bvnl",
+  "id": "klimaat-isolatie-eerst",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-isolatie-eerst",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Isolatie en zon op bebouwing ja",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|bvnl",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Geen windturbines op onbebouwd gebied",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|bvnl",
+  "id": "natuur-afsluiten",
+  "slug": "bvnl",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": 1,
+   "kern": "Kwetsbare natuur beschermen, maar onnodige afsluitingen voorkomen",
+   "toelichting": "De lijst wil kwetsbare natuur beschermen en vindt recreëren net zo zwaar wegen als natuurbescherming. Ze wil onnodige afsluitingen voorkomen.",
+   "citaat": "Bescherm kwetsbare natuur, maar voorkom onnodige afsluitingen.",
+   "bron": "Stemgids: 'In de natuurgebieden rond de stad moet vrij wandelen en recreëren net zo zwaar wegen als het beschermen van de natuur' (voor)",
+   "soort": "afgeleid",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": -1,
+   "kern": "kwetsbare natuur beschermen, onnodige afsluitingen voorkomen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|bvnl",
+  "id": "natuur-recreant-betaalt",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "toeristenbelasting terughoudend gebruiken, geen melkkoe",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|bvnl",
+  "id": "natuur-groennorm",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "snellere procedures en minder regels voor woningbouw",
+   "basis": "hilversumsnieuws, afgeleid"
+  }
+ },
+ {
+  "sleutel": "natuur-bomen|bvnl",
+  "id": "natuur-bomen",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-bomen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "groen behouden tenzij het volledig in de buurt wordt gecompenseerd",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-stikstof-boeren|bvnl",
+  "id": "natuur-stikstof-boeren",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-stikstof-boeren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "gedwongen uitkoop of onteigening past niet",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "zorg-wmo-kwijtschelding|bvnl",
+  "id": "zorg-wmo-kwijtschelding",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-wmo-kwijtschelding",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "stemde in 2024 voor behoud kwijtschelding",
+   "basis": "stemgedrag"
+  }
+ },
+ {
+  "sleutel": "zorg-wmo-zonderindicatie|bvnl",
+  "id": "zorg-wmo-zonderindicatie",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-wmo-zonderindicatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "snellere, gemotiveerde besluiten op maatwerk",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|bvnl",
+  "id": "veiligheid-boa-taken",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "boa's gericht op overlast en criminaliteit, zonder onnodige regeldruk",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|bvnl",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "niet meer dan de taakstelling, alleen bij voldoende draagvlak",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "economie-citymarketing|bvnl",
+  "id": "economie-citymarketing",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-citymarketing",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "toerisme stimuleren levert bestedingen op",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|bvnl",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "recreatie belangrijk, maar niet ten koste van natuur",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|bvnl",
+  "id": "cultuur-budget-niveau",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "meer subsidie geen doel op zich, wel maatschappelijke waarde",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-subsidie-bezoekers|bvnl",
+  "id": "cultuur-subsidie-bezoekers",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-subsidie-bezoekers",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "steun moet aantoonbare maatschappelijke waarde hebben",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|bvnl",
+  "id": "cultuur-monumentenregels",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "erfgoed behouden tegen redelijke kosten",
+   "basis": "programma"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|bvnl",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "geen extra bestuurslaag; wel meer invloed",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|bvnl",
+  "id": "financien-subsidies-korten",
+  "slug": "bvnl",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "meer subsidie geen doel; niet ten koste van lage lasten",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-inhuur-vaste-banen|bvnl",
+  "id": "financien-inhuur-vaste-banen",
+  "slug": "bvnl",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "financien-inhuur-vaste-banen",
+   "s": 0,
+   "kern": "Minder externe inhuur, maar het ambtelijk apparaat niet laten groeien",
+   "toelichting": "De lijst wil minder externe inhuur en meer handen in de uitvoering. Tegelijk wil ze de groei van het ambtelijk apparaat bevriezen.",
+   "citaat": "Bevries de groei van het ambtelijk apparaat; minder externe inhuur, meer handen in de uitvoering.",
+   "bron": "Programma (web, geen paginanummers), pijler 06 Open, sober en betrouwbaar bestuur",
+   "soort": "programma",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": -2,
+   "kern": "groei van ambtelijk apparaat bevriezen",
+   "basis": "programma"
+  }
+ }
+]

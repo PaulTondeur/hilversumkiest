@@ -1,0 +1,462 @@
+[
+ {
+  "sleutel": "wonen-bouwtempo|scb",
+  "id": "wonen-bouwtempo",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-bouwtempo",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Bouwen naar de behoefte van Hilversum",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|scb",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Hoger bouwen op geschikte locaties, ook buiten centrum",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-parkeernorm|scb",
+  "id": "wonen-parkeernorm",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-parkeernorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Parkeren vanaf het begin meenemen bij nieuwbouw",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|scb",
+  "id": "verkeer-eerste-uur",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "mag goedkoper, hoeft niet gratis",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|scb",
+  "id": "verkeer-vergunning",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "onnodig hoge parkeerkosten voorkomen",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "verkeer-fietspad|scb",
+  "id": "verkeer-fietspad",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-fietspad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "voldoende parkeerruimte is van belang",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "verkeer-autoluw|scb",
+  "id": "verkeer-autoluw",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-autoluw",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "centrum bereikbaar voor bewoners, bezoekers en ondernemers",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "klimaat-gas-tijdpad|scb",
+  "id": "klimaat-gas-tijdpad",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-gas-tijdpad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Plan met haalbare tussendoelen, zonder harde einddatum",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "klimaat-kleine-windmolen|scb",
+  "id": "klimaat-kleine-windmolen",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kleine-windmolen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Sluit windturbines niet op voorhand uit",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-kern-locatie|scb",
+  "id": "klimaat-kern-locatie",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kern-locatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Onderzoek betekent niet vooraf kiezen voor kerncentrale",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|scb",
+  "id": "natuur-afsluiten",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "evenwicht tussen toegankelijkheid en bescherming",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|scb",
+  "id": "veiligheid-boa-taken",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "optreden tegen ernstige overlast én bestaande regels duidelijk handhaven",
+   "basis": "programma p.4"
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|scb",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "goede straatverlichting en veilige speelplekken",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|scb",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "binnen de wet, niet meer dan het vastgestelde aantal",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|scb",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "blijft verantwoordelijkheid nemen, ook als de plicht verandert",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "asiel-blijvende-opvang|scb",
+  "id": "asiel-blijvende-opvang",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-blijvende-opvang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "duidelijkheid vooraf over aantallen en duur",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "asiel-omwonenden-beslissen|scb",
+  "id": "asiel-omwonenden-beslissen",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-omwonenden-beslissen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "omwonenden vanaf het begin serieus betrekken",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "asiel-taal-tijdens-procedure|scb",
+  "id": "asiel-taal-tijdens-procedure",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-taal-tijdens-procedure",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "taal en werk voor nieuwkomers die mogen blijven",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|scb",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "rust, groen en natuur voldoende ruimte geven",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|scb",
+  "id": "bestuur-referendum-advies",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "referendum nuttig, maar per onderwerp afwegen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-ozb-meestijgen|scb",
+  "id": "financien-ozb-meestijgen",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-ozb-meestijgen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "betaalbare lasten in evenwicht met goede voorzieningen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-subsidies-korten|scb",
+  "id": "financien-subsidies-korten",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-subsidies-korten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "extra uitgaven zorgvuldig afwegen tegen andere voorzieningen",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|scb",
+  "id": "financien-heffing-draagkracht",
+  "slug": "scb",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "vast bedrag is eenvoudig en voorspelbaar",
+   "basis": "mijnstem"
+  }
+ }
+]

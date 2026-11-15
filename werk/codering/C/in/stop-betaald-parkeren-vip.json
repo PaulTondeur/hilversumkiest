@@ -1,0 +1,523 @@
+[
+ {
+  "sleutel": "wonen-bouwtempo|stop-betaald-parkeren-vip",
+  "id": "wonen-bouwtempo",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-bouwtempo",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Woningen hoogste prioriteit; procedures versnellen",
+   "basis": "programma p.18"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|stop-betaald-parkeren-vip",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Bij uitzondering tot 25 meter, zoals in de Meent",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-kantoren-naar-wonen|stop-betaald-parkeren-vip",
+  "id": "wonen-kantoren-naar-wonen",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "wonen-kantoren-naar-wonen",
+   "s": 0,
+   "kern": "Leegstaande panden tot woningen, maar werkruimte moet behouden of gecompenseerd blijven.",
+   "toelichting": "De lijst wil leegstaande kantoren graag ombouwen tot woningen, maar zegt dat er voldoende ruimte voor ondernemers moet overblijven. In de Stemgids is ze voor ombouw alleen als elders werkruimte bijkomt.",
+   "citaat": "We toveren leegstaande panden graag om tot prachtige woningen, maar we zorgen er altijd voor dat er voldoende ruimte en aantrekkelijke alternatieven overblijven voor onze lokale ondernemers.",
+   "bron": "Stemgids: 'Kantoren alleen ombouwen als werkruimte bijkomt' (voor)  |  p.24",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -2,
+   "kern": "Altijd voldoende ruimte voor lokale ondernemers",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|stop-betaald-parkeren-vip",
+  "id": "verkeer-buurt-beslist",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "inwoners vooraf raadplegen, maar alleen bij echt probleem",
+   "basis": "programma p.9"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|stop-betaald-parkeren-vip",
+  "id": "verkeer-vergunning",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "vergunningen moeten betaalbaar blijven",
+   "basis": "programma p.6"
+  }
+ },
+ {
+  "sleutel": "klimaat-alleen-rijk|stop-betaald-parkeren-vip",
+  "id": "klimaat-alleen-rijk",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-alleen-rijk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Geen dwingende plannen, niet jagen op nieuwe ambities",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "klimaat-zon-boerenland|stop-betaald-parkeren-vip",
+  "id": "klimaat-zon-boerenland",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-zon-boerenland",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Eerst daken en al bebouwde plekken",
+   "basis": "programma p.34"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|stop-betaald-parkeren-vip",
+  "id": "natuur-afsluiten",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "wandelaars, sporters en hondenbezitters volop ruimte",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|stop-betaald-parkeren-vip",
+  "id": "natuur-groennorm",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "groen vanaf het begin meenemen; woning heeft hoge prioriteit",
+   "basis": "programma p.33"
+  }
+ },
+ {
+  "sleutel": "zorg-bijstand-tegenprestatie|stop-betaald-parkeren-vip",
+  "id": "zorg-bijstand-tegenprestatie",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "zorg-bijstand-tegenprestatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "eigen inzet verwacht van nieuwkomers; vrijwilligerswerk als opstap",
+   "basis": "programma p.30"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-of-jongerenwerk|stop-betaald-parkeren-vip",
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "jongerenwerk waar jongeren zijn, plus optreden bij herhaalde overlast",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|stop-betaald-parkeren-vip",
+  "id": "veiligheid-boa-taken",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "boa's op plaatsen en tijden van overlast en onveiligheid",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "veiligheid-coffeeshops-scholen|stop-betaald-parkeren-vip",
+  "id": "veiligheid-coffeeshops-scholen",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-coffeeshops-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "ondernemers niet beperken zonder gedegen onderzoek",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|stop-betaald-parkeren-vip",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "donkere plekken eerst aanpakken met betere verlichting",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|stop-betaald-parkeren-vip",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "alleen de wettelijke plicht, niet vrijwillig opschalen",
+   "basis": "programma p.21"
+  }
+ },
+ {
+  "sleutel": "asiel-blijvende-opvang|stop-betaald-parkeren-vip",
+  "id": "asiel-blijvende-opvang",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-blijvende-opvang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "vaste einddatum, verlengen vraagt nieuw besluit",
+   "basis": "programma p.21"
+  }
+ },
+ {
+  "sleutel": "asiel-welkomstprogramma|stop-betaald-parkeren-vip",
+  "id": "asiel-welkomstprogramma",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-welkomstprogramma",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "inburgeraars en verenigingen bij elkaar brengen",
+   "basis": "programma p.30"
+  }
+ },
+ {
+  "sleutel": "economie-zondag-beperken|stop-betaald-parkeren-vip",
+  "id": "economie-zondag-beperken",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-zondag-beperken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal, geen toelichting",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-budget-niveau|stop-betaald-parkeren-vip",
+  "id": "cultuur-budget-niveau",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-budget-niveau",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "pas nieuwe plannen als basisvoorzieningen op orde zijn",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-sportevenementen|stop-betaald-parkeren-vip",
+  "id": "cultuur-sportevenementen",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-sportevenementen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "pas nieuwe plannen als basisvoorzieningen op orde zijn",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|stop-betaald-parkeren-vip",
+  "id": "cultuur-monumentenregels",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "cultureel en monumentaal erfgoed beschermen",
+   "basis": "programma p.31"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|stop-betaald-parkeren-vip",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "bewoners kiezen zelf hun raden, voor lokale zeggenschap",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|stop-betaald-parkeren-vip",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "meer lokale zeggenschap, eigen agenda met budget",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-ozb-meestijgen|stop-betaald-parkeren-vip",
+  "id": "financien-ozb-meestijgen",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-ozb-meestijgen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "lasten zo laag mogelijk, eerst zelf goedkoper werken",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "financien-inhuur-vaste-banen|stop-betaald-parkeren-vip",
+  "id": "financien-inhuur-vaste-banen",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-inhuur-vaste-banen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "kritisch op inhuur én overhead",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|stop-betaald-parkeren-vip",
+  "id": "financien-investeringen-spreiden",
+  "slug": "stop-betaald-parkeren-vip",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "onderhoud niet uitstellen als wachten duurder is",
+   "basis": "programma p.36"
+  }
+ }
+]

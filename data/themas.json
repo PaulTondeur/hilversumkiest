@@ -1,0 +1,13 @@
+[
+ {"id":"wonen","naam":"Wonen en bouwen","kort":"Wonen","omschrijving":"Waar en hoe hoog bouwen we, voor wie, en wie krijgt voorrang?"},
+ {"id":"verkeer","naam":"Verkeer en parkeren","kort":"Verkeer","omschrijving":"Betaald parkeren, auto of fiets, snelheid en bereikbaarheid."},
+ {"id":"klimaat","naam":"Klimaat en energie","kort":"Klimaat","omschrijving":"Tempo van verduurzamen, windmolens, aardgas, kernenergie en afval."},
+ {"id":"natuur","naam":"Natuur, groen en water","kort":"Natuur","omschrijving":"Heide, plassen, bomen in de wijk, boeren en dieren."},
+ {"id":"zorg","naam":"Zorg, welzijn en armoede","kort":"Zorg","omschrijving":"Jeugdzorg, Wmo, minimaregelingen, buurthuizen en ouderen."},
+ {"id":"veiligheid","naam":"Veiligheid en handhaving","kort":"Veiligheid","omschrijving":"Boa's, camera's, overlast, drugs en vuurwerk."},
+ {"id":"asiel","naam":"Asiel, opvang en samenleven","kort":"Asiel","omschrijving":"Opvanglocaties, statushouders, arbeidsmigranten en integratie."},
+ {"id":"economie","naam":"Economie, centrum en media","kort":"Economie","omschrijving":"Ondernemers, het centrum, het Media Park, horeca en toerisme."},
+ {"id":"cultuur","naam":"Cultuur, sport en onderwijs","kort":"Cultuur","omschrijving":"Podia, sportvelden, zwembaden, scholen en jongeren."},
+ {"id":"bestuur","naam":"Bestuur, fusie en dorpen","kort":"Bestuur","omschrijving":"De nieuwe gemeente, zeggenschap van wijken en dorpen, inspraak."},
+ {"id":"financien","naam":"Geld en belastingen","kort":"Geld","omschrijving":"OZB, heffingen, bezuinigen of investeren."}
+]

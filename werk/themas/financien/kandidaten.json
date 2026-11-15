@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "financien-tekort-lasten",
+    "onderwerp": "tekort: bezuinigen of lasten verhogen",
+    "kop": "Tekort dekken met belasting",
+    "stelling": "Als de begroting een tekort heeft, mogen de lokale belastingen omhoog om voorzieningen als buurthuizen, bibliotheek en zorg te sparen.",
+    "uitleg": "De nieuwe gemeente verwacht krappe jaren: het Rijk geeft vanaf 2028 minder geld en Wijdemeren brengt uitgesteld onderhoud mee. Een tekort kan de raad dichten door minder uit te geven of door de OZB en andere heffingen te verhogen. Bij 'eens' gaat het behoud van voorzieningen voor lage lasten; bij 'oneens' gaat de gemeente eerst snijden in eigen uitgaven, ook als voorzieningen dan krimpen.",
+    "voor": "Voorzieningen die verdwijnen komen moeilijk terug, en een paar tientjes meer belasting per huishouden is te dragen als de sterkste schouders meer betalen.",
+    "tegen": "Inwoners hebben het al duur genoeg; de gemeente moet eerst zelf zuiniger worden voordat ze bij de inwoner aanklopt.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "voorzieningen beschermen; gerichte lastenverhoging bespreekbaar",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "sterkste schouders dragen; zo niet bezuinigen op voorzieningen",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "eerst bestaande uitgaven bekijken, terughoudend met hogere lasten",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "tekort niet oplossen met hogere lasten; eerst besparen",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "lasten max inflatie, dus voorzichtig uitgeven; zorg ontzien",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "bij tekorten moeten lastige keuzes gemaakt worden",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "voorzieningen beschermen; extra geld halen bij wie meer heeft",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "realistische keuzes en efficiëntie; zorg en kwetsbaren ontzien",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "lastenverhoging is het laatste middel, eerst overhead schrappen",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "beperkte lastenverhoging kan als bezuinigen te veel schaadt",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "eerst eigen uitgaven bekijken; woonlasten beheersbaar houden",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "eerst snijden in bureaucratie, inhuur en projecten",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "lasten zo laag mogelijk; eerst eigen uitgaven en subsidies",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "lasten verhogen ligt meer voor de hand, via OZB en forensenbelasting",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "kwetsbaren beschermen; lasten omhoog, vooral voor de vervuiler",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "niet op voorzieningen bezuinigen, wel op prestige en marketing",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "verhoogt lasten niet; eerst snijden in niet-kerntaken en subsidies",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "als geld nodig is, sterkste schouders meer laten dragen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "bezuinigen; minder regels, minder ambtenaren, minder belasting",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "kiest voor bezuinigen, eerst op eigen organisatie",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Links (PRO, SP, PvdD, Volt) en SCB staan tegenover VVD, BBB, BVNL, FVD, LFD en Dorp voor Dorp; het midden (D66, CU, Lokaal Eén, Gewoon Hilversum, Hart voor Hilversum) zit op nul, en SCB staat hier los van de andere rechtse lijsten.",
+    "twijfel": "Posities komen van de MijnStem-schuifbalk (0-100), omgezet naar -2..+2; LFD en VVD zijn op grond van hun toelichting een stap strenger ingeschaald dan hun schuifwaarde (23 en 21). De stelling lijkt op de MijnStem-vraag; de eindredactie kan hem verder van die bron af schrijven."
+  },
+  {
+    "id": "financien-ozb-meestijgen",
+    "onderwerp": "hoogte OZB en woonlasten",
+    "kop": "OZB stijgt mee met inflatie",
+    "stelling": "De OZB blijft de komende vier jaar meestijgen met de inflatie, in plaats van omlaag te gaan.",
+    "uitleg": "Bijna alle lijsten willen dat de woonlasten (OZB, afval- en rioolheffing) hooguit met de inflatie stijgen. Een kleinere groep wil verder gaan en de OZB echt verlagen, door de gemeente minder te laten doen. Deze stelling vraagt of de OZB elk jaar met de prijzen mag meegroeien, wat de gemeente ruimte geeft voor onderhoud en voorzieningen, of dat inwoners juist minder gaan betalen.",
+    "voor": "Met onderhoudsachterstanden, nieuwe scholen en minder rijksgeld is er geen ruimte om de OZB te verlagen zonder dat inwoners het in voorzieningen merken.",
+    "tegen": "Lagere lasten laten inwoners zelf bepalen wat ze met hun geld doen, en dwingen de gemeente zich tot haar kerntaken te beperken.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "woonlasten max inflatie; gerichte verhoging bespreekbaar",
+        "basis": "programma p.4"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "OZB-inkomsten moeten minstens met inflatie stijgen",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "OZB onder landelijk gemiddelde, Hilversum stijgt licht; investeren",
+        "basis": "programma p.51"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "woonlasten stijgen hooguit met inflatie",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "OZB hooguit inflatie; voorzichtig om te blijven investeren",
+        "basis": "programma p.6"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "woonlasten max inflatie; prudente koers met sterke reserve",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "afvalkosten naar OZB, OZB bedrijfspanden omhoog",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "heffingen kostendekkend, behoudende koers, voldoende reserves",
+        "basis": "programma p.51"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "OZB zo laag mogelijk, geld naar kerntaken",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "betaalbare lasten in evenwicht met goede voorzieningen",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "woonlasten bij voorkeur niet sneller dan inflatie",
+        "basis": "programma p.14"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "streven is lastenverlaging voor inwoners",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "lasten zo laag mogelijk, eerst zelf goedkoper werken",
+        "basis": "programma p.36"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "OZB-verlaging onverkoopbaar; tekort mede uit OZB dekken",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "lasten mogen stijgen, vooral voor de vervuiler",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "liefst helemaal geen OZB-stijging",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "lokale lasten niet alleen begrenzen maar verlagen",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "belastingen niet sterker laten stijgen dan inflatie",
+        "basis": "programma p.40"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "besparen op organisatie om OZB te verlagen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "woonlasten maximaal met inflatie laten meestijgen",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Scheidt rechts onderling (VVD en BBB, die meestijgen met de inflatie accepteren, tegenover FVD, LFD en BVNL die verlaging willen) en de lokale partijen (Hart voor Hilversum, Gewoon Hilversum en Lokaal Eén tegenover Dorp voor Dorp en Stop Betaald Parkeren).",
+    "twijfel": "Voor BVNL, SBP, Dorp voor Dorp en Blanco is 'zo laag mogelijk' of 'streven naar lastenverlaging' als -1 gelezen. Lijsten die 'maximaal inflatie' willen zijn als +1 ingeschaald: ze accepteren meestijgen, maar het is voor hen een plafond, geen wens."
+  },
+  {
+    "id": "financien-heffing-draagkracht",
+    "onderwerp": "afval- en rioolheffing: wie betaalt",
+    "kop": "Heffing naar woningwaarde",
+    "stelling": "Afval- en rioolheffing moeten meer afhangen van de waarde van je woning, zodat wie meer heeft ook meer betaalt.",
+    "uitleg": "Nu betaalt elk huishouden voor afval en riool een vast bedrag, of je nu in een flat of een villa aan de plas woont. De OZB hangt wel af van de waarde van je huis. Een deel van de afval- en rioolkosten via de OZB innen maakt de rekening hoger voor dure woningen en lager voor goedkope.",
+    "voor": "Het is oneerlijk dat iemand in een sociale huurflat even veel betaalt als de bewoner van een villa.",
+    "tegen": "Afval en riool zijn diensten met een prijs; die horen te worden betaald door wie ze gebruikt, niet naar de waarde van het huis.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "afvalheffing rekening houdend met huishoudgrootte en draagkracht",
+        "basis": "programma p.7"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "sterkste schouders dragen zwaarste lasten, ook bij riool en afval",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "liever 'vervuiler betaalt'; riool naar grootte aansluiting",
+        "basis": "programma p.51"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "vast bedrag per huishouden, zoals nu",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "per heffing de werkelijke kosten berekenen",
+        "basis": "programma p.6"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "kostendekkend vast bedrag, meer keus naar huishoudgrootte",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "afvalstoffenheffing verschuiven naar de OZB",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "heffingen kostendekkend; afval scheiden belonen",
+        "basis": "programma p.51"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "vast tarief is eerlijk en eenvoudig",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "vast bedrag is eenvoudig en voorspelbaar",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "voor vast bedrag, tegen kiloheffing",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "kiest voor vast bedrag per huishouden",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "flatbewoner mag niet evenveel betalen als riant huis",
+        "basis": "programma p.9"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "liever 'de vervuiler betaalt' dan draagkracht",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "eenvoudige heffing, geen gedragssturing of verdienmodel",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "sterkste schouders meer laten dragen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "geen extra heffingen; kiest voor eenvoud",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "vast bedrag per huishouden",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Splitst links: SP en Opstand.nu (en minder sterk PRO en Volt) willen naar draagkracht, PvdD en D66 juist naar 'de vervuiler betaalt'.",
+    "twijfel": "De verdeling is scheef (4 eens tegen 13 oneens), maar de stelling is bedoeld als tweede laag om links uit elkaar te trekken. De -1 voor lijsten die op MijnStem een vast bedrag per huishouden kozen is afgeleid: die vraag ging over vast tegenover hoeveelheid, niet over woningwaarde."
+  },
+  {
+    "id": "financien-afval-vast-bedrag",
+    "onderwerp": "afval- en rioolheffing: wie betaalt",
+    "kop": "Vast bedrag voor afval",
+    "stelling": "Voor afval betaalt elk huishouden hetzelfde vaste bedrag, hoeveel restafval het ook aanbiedt.",
+    "uitleg": "De afvalstoffenheffing is nu een vast bedrag per huishouden. Een deel van de lijsten wil dat je minder betaalt als je goed scheidt en weinig restafval hebt, bijvoorbeeld via een chip in de container. Tegenstanders vrezen illegaal dumpen, meer administratie en hogere rekeningen voor gezinnen met veel luiers of incontinentiemateriaal.",
+    "voor": "Betalen per hoeveelheid leidt tot dumpen in de natuur en bij de buren, en treft huishoudens die er weinig aan kunnen doen.",
+    "tegen": "Wie zijn afval goed scheidt, kost de gemeente minder en hoort daarvoor beloond te worden.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "afval scheiden moet lonen, zonder dumping of hoge kosten",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "vervuiler betaalt én sterkste schouders; niet iedereen kan scheiden",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "vervuiler betaalt, mits uitvoerbaar en eerlijk",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "vast bedrag zoals nu; geen administratie of dumping",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "vreest dumping; meer betalen voor afval is onwenselijk",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "vast bedrag is overzichtelijk; risico op vuilnisdump",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "liever verschuiven naar OZB dan naar hoeveelheid",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "minder restafval mag voordeel opleveren, zonder veel administratie",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": 2,
+        "kern": "vast tarief; voorkomt dumping en bureaucratie",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "vast bedrag is eenvoudig en voorspelbaar",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "werkt dumping in de hand; luiers en incontinentie",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "tegen kiloheffing: dumping, kosten, privacy",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "vast bedrag; heffen op hoeveelheid geeft dumping",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -2,
+        "kern": "heffing naar kosten en moeite van ophalen",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "vervuiler betaalt: heffing naar hoeveelheid afval",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "dupeert mensen met weinig geld; liever campagnes",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "eenvoudig en goedkoop; geen gedragssturing",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "afvalbeleid wordt door de regio bepaald",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "geen chips in de kliko; liever nascheiden",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "vast bedrag; betalen per hoeveelheid geeft zwerfafval",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Scheidt het midden (CDA, VVD en Lokaal Eén eens; D66, CU en Hart voor Hilversum oneens) en zet PvdD en Opstand.nu tegenover SP en PRO, die liever naar draagkracht kijken dan naar hoeveelheid.",
+    "twijfel": "Dit onderwerp staat ook in MijnStem (vast tegenover hoeveelheid); deze stelling gaat over belonen van weinig restafval, maar de posities komen van die schuifbalk. Volt verwijst naar de regio (GAD); hun 0 is eerder 'geen gemeentezaak' dan midden."
+  },
+  {
+    "id": "financien-harmonisatie-ozb",
+    "onderwerp": "harmonisatie tarieven na de fusie",
+    "kop": "OZB-daling dorpen beperken",
+    "stelling": "Om de OZB in de stad gelijk te houden, mag de OZB in de dorpen na de fusie minder dalen dan gepland.",
+    "uitleg": "Hilversum en Wijdemeren hebben verschillende belastingtarieven; vanaf 2027 komt er één tarief. Volgens de plannen daalt de OZB voor woningen in de Wijdemeerse dorpen daardoor fors, terwijl die in Hilversum licht stijgt. De keuze is wie het voordeel van de fusie krijgt: de huiseigenaren in de dorpen of de inwoners van de stad.",
+    "voor": "Een flinke belastingverlaging voor (vaak dure) woningen aan de plassen is niet te verkopen als de stad tegelijk meer moet betalen.",
+    "tegen": "In één gemeente hoort één tarief; de dorpen moeten de gelijke behandeling krijgen waar de fusie om vraagt.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "voorspelbare lasten bij harmonisatie, geen plotselinge sprongen",
+        "basis": "programma p.7"
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": -1,
+        "kern": "accepteert daling dorpen en lichte stijging stad; zorgvuldige overgang",
+        "basis": "programma p.51"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "fusie mag inwoners van beide gemeenten geen hogere lasten opleveren",
+        "basis": "programma p.3"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "verschil stad-dorp zit niet in euro's OZB",
+        "basis": "hilversumsnieuws"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "OZB-'welkomstcadeau' voor villa's aan de plas onverkoopbaar",
+        "basis": "programma p.9"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "lasten verlagen; niet harmoniseren naar het duurste niveau",
+        "basis": "programma"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Opstand.nu en (afgeleid) VVD tegenover D66 en LFD; scheidt VVD van LFD op rechts, maar de meeste lijsten hebben hier geen standpunt.",
+    "twijfel": "Weinig bewijs: alleen Opstand.nu spreekt zich expliciet uit. VVD +1 is afgeleid uit 'geen hogere lasten voor inwoners van beide gemeenten', LFD -1 uit een algemene uitspraak over harmoniseren. Feitelijke check nodig op de geplande tarieven (D66 noemt fors dalen in Wijdemeren, licht stijgen in Hilversum)."
+  },
+  {
+    "id": "financien-toerist-forens-laag",
+    "onderwerp": "toeristen- en forensenbelasting",
+    "kop": "Bezoekersbelasting laag houden",
+    "stelling": "De toeristen- en forensenbelasting blijven laag, om bezoekers en eigenaren van recreatiewoningen te ontzien.",
+    "uitleg": "Forensenbelasting betalen mensen met een tweede huis of recreatiewoning in de gemeente; die bestaat nu alleen in de Wijdemeerse dorpen. Toeristenbelasting betalen gasten per overnachting. Meer opbrengst hieruit kan de lasten voor inwoners drukken, maar raakt ook recreatieondernemers aan de plassen en in de stad.",
+    "voor": "Bezoekers en recreanten zijn gasten die de lokale economie dragen, geen melkkoe om gaten in de begroting te dichten.",
+    "tegen": "Wie gebruikmaakt van wegen, natuur en voorzieningen zonder hier te wonen, hoort daar ook aan mee te betalen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "toeristenbelasting niet zomaar verhogen",
+        "basis": "programma p.12"
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "forensenbelasting juridisch toetsen; let op lastenstapeling ondernemers",
+        "basis": "programma p.30"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": -2,
+        "kern": "forensen- en toeristenbelasting in de hele gemeente",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "terughoudend met toeristenbelasting, geen melkkoe",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "geen nieuwe belastingen zonder duidelijke noodzaak",
+        "basis": "programma p.15"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "tekort mede uit forensenbelasting; kritisch naar toerist en forens",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "was tegen toeristenbelasting, wil geen steeds hogere tarieven",
+        "basis": "programma p.23"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "laag basistarief toeristenbelasting, opbrengst terug naar recreatie",
+        "basis": "programma p.26"
+      }
+    },
+    "spreiding": "Hart voor Hilversum, Gewoon Hilversum, VVD, BVNL, LFD en BBB tegenover SP en Opstand.nu; geeft kleine lijsten (Opstand.nu, LFD) een duidelijke plek.",
+    "twijfel": "Twee belastingen in één stelling; de eindredactie kan splitsen als er meer bewijs is. Gewoon Hilversum +1 is afgeleid uit hun algemene regel tegen nieuwe belastingen (forensenbelasting zou in de stad nieuw zijn). PRO, D66, PvdD en CDA noemen toeristenbelasting alleen voor de besteding, niet de hoogte."
+  },
+  {
+    "id": "financien-stadsfonds",
+    "onderwerp": "Stadsfonds en heffingen voor ondernemers",
+    "kop": "Stadsfonds behouden",
+    "stelling": "Het Stadsfonds, waarvoor eigenaren en gebruikers van bedrijfspanden verplicht extra OZB betalen, moet blijven bestaan.",
+    "uitleg": "Sinds 2015 betalen bedrijfspanden in Hilversum een opslag van ruim 10% op de OZB. Dat geld gaat naar het Stadsfonds, dat ondernemers en organisaties zelf besteden aan bijvoorbeeld evenementen, schoon en veilig, citymarketing en bedrijventerreinen. Na de fusie is de vraag of het fonds blijft, verandert of verdwijnt, en of het ook in de dorpen gaat gelden.",
+    "voor": "Ondernemers beslissen zelf over het geld en het fonds betaalt evenementen en samenwerking die anders niet van de grond komen.",
+    "tegen": "Het is een verplichte extra belasting voor ondernemers, terwijl het geld ver van hun eigen straat of dorp wordt besteed.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 0,
+        "kern": "alle steun aan ondernemers evalueren op effect",
+        "basis": "programma"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "stevig fundament onder ondernemersklimaat, strikt en eerlijk beheerd",
+        "basis": "programma p.16"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "zelfstandigheid respecteren; uitbreiding naar dorpen geen automatisme",
+        "basis": "programma p.51"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "verplicht Stadsfonds herijken, alternatief met ondernemers zoeken",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "geld uit ondernemersfonds besteden buiten het centrum",
+        "basis": "programma p.36"
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "centraal Stadsfonds vervangen door Buurtfondsen",
+        "basis": "programma p.19"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "ondernemersfonds van circa 1,5 miljoen per jaar afschaffen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "open voor fonds, alleen met instemming van ondernemers",
+        "basis": "programma p.26"
+      }
+    },
+    "spreiding": "Scheidt VVD van FVD op rechts, CDA van Lokaal Eén en Dorp voor Dorp, en zet SP aan dezelfde kant als VVD.",
+    "twijfel": "SP +1 leunt op hun wens het geld anders te besteden, wat instemming met het fonds veronderstelt. Lokaal Eén en Dorp voor Dorp willen een alternatief, daarom -1 en niet -2. Mogelijk overlap met het thema economie."
+  },
+  {
+    "id": "financien-subsidies-korten",
+    "onderwerp": "subsidies",
+    "kop": "Subsidies eerst omlaag",
+    "stelling": "Bij een tekort horen subsidies voor cultuur, evenementen en maatschappelijke organisaties bij de eerste uitgaven die omlaag gaan.",
+    "uitleg": "De gemeente geeft jaarlijks subsidie aan onder meer culturele instellingen, verenigingen, welzijnswerk en evenementen. Na de fusie moeten de regelingen van Hilversum en Wijdemeren worden samengevoegd. Bij een tekort is subsidie een post die de raad relatief snel kan verlagen, maar dat raakt clubs en instellingen direct.",
+    "voor": "Subsidies zijn geen kerntaak; organisaties kunnen ook leunen op contributie, sponsoring en fondsen.",
+    "tegen": "Cultuur, verenigingen en welzijnswerk houden buurten en dorpen leefbaar en zijn met weinig geld snel kapot te maken.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "geen geld zomaar uitkeren, wel voorzieningen beschermen",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "cultuurbudget juist verhogen",
+        "basis": "programma p.20"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "niet bezuinigen op cultuur, slim investeren",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "kritisch op cultuursubsidies; niet alles kan",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "afwegen ten koste van welke andere uitgaven",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "voor meer geld naar kunst en cultuur",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "niet verder bezuinigen op cultuur, ook kleine clubs steunen",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "neutraal over meer cultuurgeld; kwetsbaren ontzien",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "meer subsidie geen doel; niet ten koste van lage lasten",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "extra uitgaven zorgvuldig afwegen tegen andere voorzieningen",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "meerjarige afspraken met bewezen organisaties",
+        "basis": "programma p.31"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "eerst snijden in subsidies zonder aantoonbaar resultaat",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "bij tekort eerst kritisch naar uitgaven en subsidies",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "voor meer geld naar kunst en cultuur",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "cultuurbudget structureel verhogen",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "eerlijke en brede ondersteuning van cultuur",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "subsidie is uitzondering; eerst snijden in subsidies",
+        "basis": "programma p.24"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "cultuur, jongerenwerk en sportclubs betalen zich terug",
+        "basis": "programma p.35"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "extra subsidies niet vanzelfsprekend; activistische subsidies schrappen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "liever verenigingen dan algemeen meer cultuursubsidie",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Zet LFD, VVD, FVD, BVNL, Dorp voor Dorp en SBP tegenover links, D66, Lokaal Eén en Gewoon Hilversum; scheidt de lokale partijen (DvD/SBP tegenover Lokaal Eén en Gewoon Hilversum) en BBB van de andere rechtse lijsten.",
+    "twijfel": "Veel posities komen van de Stemgids-stelling 'meer geld naar cultuur'; tegen meer geld is niet hetzelfde als voor korten, daarom zijn die meestal als +1/-1 en niet als +2/-2 ingeschaald."
+  },
+  {
+    "id": "financien-subsidies-einddatum",
+    "onderwerp": "subsidies",
+    "kop": "Subsidie met einddatum",
+    "stelling": "Elke subsidie krijgt vooraf een einddatum; wie daarna verder wil, moet opnieuw laten zien wat het geld oplevert.",
+    "uitleg": "Veel subsidies lopen nu jaar na jaar door. Een vaste einddatum dwingt tot een nieuwe afweging, maar geeft organisaties en vrijwilligers minder zekerheid. Bij de fusie speelt ook de vraag of verenigingen in de dorpen hun subsidie kunnen kwijtraken als regels worden gelijkgetrokken.",
+    "voor": "Zo wordt subsidie nooit vanzelf een blijvend recht en gaat het geld naar wat aantoonbaar werkt.",
+    "tegen": "Vrijwilligersorganisaties hebben zekerheid voor meerdere jaren nodig en verliezen tijd met steeds opnieuw verantwoorden.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": 1,
+        "kern": "versnipperde potjes saneren, regelingen met duidelijke doelen",
+        "basis": "programma p.52"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": 0,
+        "kern": "transparante wegingscriteria; zelfdragende initiatieven niet overnemen",
+        "basis": "programma p.42"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "meerjarige afspraken met bewezen organisaties, simpele procedures",
+        "basis": "programma p.31"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "subsidies zonder aantoonbaar resultaat schrappen; afwijkingen zichtbaar",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "vooraf doel en beoordelingsmoment; tijdelijk blijft tijdelijk",
+        "basis": "programma p.37"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "vooraf einddatum; verlenging pas na openbare beoordeling",
+        "basis": "programma p.24"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "geen vereniging mag door de fusie plots subsidie verliezen",
+        "basis": "programma"
+      }
+    },
+    "spreiding": "Tweede laag onder 'subsidies korten': trekt de lijsten die kritisch zijn op subsidie uit elkaar (LFD en SBP eens, Gewoon Hilversum en BBB oneens).",
+    "twijfel": "Weinig lijsten noemen dit expliciet; links heeft vermoedelijk een mening maar die staat niet in het materiaal."
+  },
+  {
+    "id": "financien-inhuur-vaste-banen",
+    "onderwerp": "externe inhuur en ambtelijk apparaat",
+    "kop": "Vaste banen in plaats van inhuur",
+    "stelling": "Om dure inhuur te verminderen neemt de gemeente meer eigen mensen in vaste dienst, ook als het ambtelijk apparaat daardoor groeit.",
+    "uitleg": "Vrijwel alle lijsten willen minder dure externe inhuur en adviesbureaus. De echte keuze is wat ervoor in de plaats komt: eigen vaste medewerkers (meer ambtenaren) of minder taken en een kleiner apparaat. De fusie levert ook besparingen op bestuur en management op die op beide manieren kunnen worden ingezet.",
+    "voor": "Eigen medewerkers zijn goedkoper dan ingehuurde krachten en houden kennis binnen de gemeente.",
+    "tegen": "Een groeiend ambtelijk apparaat is een blijvende kostenpost; minder inhuur moet uit minder taken komen, niet uit meer ambtenaren.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "voorkeur voor eigen expertise en vaste banen",
+        "basis": "programma p.36"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "nieuwe taken zoveel mogelijk met bestaand personeel",
+        "basis": "programma p.52"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "efficiencywinst fusie niet gebruiken voor uitbreiding",
+        "basis": "programma p.4"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "inhuur niet als structurele vervanging van eigen organisatie",
+        "basis": "programma p.7"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "groei van ambtelijk apparaat bevriezen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "kennis binnen de eigen organisatie opbouwen",
+        "basis": "programma p.6"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "kritisch op inhuur én overhead",
+        "basis": "programma p.36"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "inhuur onder 10% houden",
+        "basis": "programma p.76"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "eerst eigen organisatie en uitgaven kritisch bekijken",
+        "basis": "programma p.8"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "minder regels, minder ambtenaren, minder belasting",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "investeren in eigen expertise, maar eerst kritisch naar apparaat",
+        "basis": "programma p.26"
+      }
+    },
+    "spreiding": "Zet PRO, CDA en Gewoon Hilversum tegenover VVD, BVNL, FVD en D66; scheidt D66 van PRO en Gewoon Hilversum van SBP.",
+    "twijfel": "Gewoon Hilversum en CDA zeggen niet letterlijk dat het apparaat mag groeien; hun +1 leunt op 'kennis in eigen organisatie'."
+  },
+  {
+    "id": "financien-investeringen-spreiden",
+    "onderwerp": "schuld, investeren en sparen",
+    "kop": "Eerst schuld, dan bouwen",
+    "stelling": "Om de schuld te beperken worden grote investeringen, zoals nieuwe schoolgebouwen, over meer jaren gespreid.",
+    "uitleg": "Hilversum heeft een oplopende schuld, en de nieuwe gemeente staat voor grote uitgaven: zo'n 200 miljoen euro voor schoolgebouwen en achterstallig onderhoud aan wegen, bruggen en beschoeiing, vooral in Wijdemeren. Spreiden over meer jaren houdt de schuld en de rentelasten lager, maar betekent dat scholen en wegen langer moeten wachten. Sommige lijsten willen de schuld onder 130% van de jaarinkomsten houden.",
+    "voor": "Een hogere schuld zadelt toekomstige generaties op met rente en aflossing, zeker nu de rente stijgt.",
+    "tegen": "Uitstellen maakt het uiteindelijk duurder en laat kinderen in slechte gebouwen zitten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "zuinig met gemeenschapsgeld; structurele lasten structureel dekken",
+        "basis": "programma p.4"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "investeren in scholen, maar spreiden over meerdere jaren",
+        "basis": "programma p.36"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "vooraf investeren, scholen voorop, ook als het nu geld kost",
+        "basis": "programma p.52"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "schuldquote naar 130%, investeringen temporiseren",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "normen voor nieuwe leningen juist aangescherpt",
+        "basis": "programma"
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "geen schuldenlast doorgeven aan toekomstige generaties",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "extra geld voor schoolgebouwen; uitstel wordt duurder",
+        "basis": "programma"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "schuldquote nooit boven 130%; geen risicovolle investeringen",
+        "basis": "programma p.51"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "eerst financieel op orde, dan pas grote ambities",
+        "basis": "programma p.6"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "onderhoud niet uitstellen als wachten duurder is",
+        "basis": "programma p.36"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "waarschuwt voor honderden miljoenen geleend geld tegen stijgende rente",
+        "basis": "programma"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "beheersbare schuldenlast, niets doorschuiven naar later",
+        "basis": "programma p.8"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "niet meer uitgeven dan er binnenkomt",
+        "basis": "programma p.26"
+      }
+    },
+    "spreiding": "Scheidt PRO, D66 en SP van CU, VVD en Lokaal Eén, en zet SBP tegenover de andere lokale partijen (Lokaal Eén, Gewoon Hilversum, Hart voor Hilversum); ook Opstand.nu staat hier apart van links.",
+    "twijfel": "Geen lijst zegt letterlijk 'meer lenen'; de - voor D66, SP en SBP is afgeleid uit hun wens om nu te investeren en niet uit te stellen. PRO noemt zowel investeren als spreiden over jaren en staat daarom op 0."
+  },
+  {
+    "id": "financien-meevallers-lasten",
+    "onderwerp": "schuld, investeren en sparen",
+    "kop": "Meevaller naar lagere lasten",
+    "stelling": "Als de gemeente geld overhoudt, gaat dat naar lagere belastingen voor inwoners in plaats van naar aflossen of sparen.",
+    "uitleg": "Aan het eind van het jaar blijft er soms geld over, bijvoorbeeld door hogere rijksbijdragen of projecten die goedkoper uitvallen. Dat geld kan naar lastenverlaging, naar het aflossen van schuld of naar de spaarpot voor tegenvallers. Het is een keuze tussen nu de inwoner ontzien of later minder rente betalen.",
+    "voor": "Het geld is van de inwoners; wat over is hoort bij hen terug te komen.",
+    "tegen": "Eenmalige meevallers horen naar het verlagen van de schuld; lagere belasting kost elk jaar geld dat er niet structureel is.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "meevallers gebruiken om schuld af te lossen",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "meevallers eerst gebruiken om schulden af te lossen",
+        "basis": "programma p.14"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "meevallers eerst naar investeringen, risico's en reserves",
+        "basis": "programma p.36"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "meevallers kunnen naar lastenverlichting, schuld of reserves",
+        "basis": "programma p.8"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "meevallers gaan naar lastenverlichting",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Een stelling om rechts en de lokale partijen te scheiden: FVD en LFD tegenover VVD, Gewoon Hilversum en SBP.",
+    "twijfel": "Slechts vijf lijsten hebben een standpunt; nuttig als verdieping voor kiezers die rechtse of lokale lijsten vergelijken. LFD noemt lastenverlichting als één van drie opties, vandaar +1."
+  },
+  {
+    "id": "financien-spaarbuffer",
+    "onderwerp": "schuld, investeren en sparen",
+    "kop": "Flinke spaarbuffer",
+    "stelling": "De gemeente houdt een flinke spaarbuffer aan voor tegenvallers, ook als dat geld daardoor nu niet naar plannen gaat.",
+    "uitleg": "Gemeenten houden reserves aan om tegenvallers op te vangen, zoals hogere zorgkosten of een duurder project. Een grote buffer geeft zekerheid, maar dat geld wordt intussen niet uitgegeven aan scholen, onderhoud of lagere lasten. Lokaal Eén wil het weerstandsvermogen op 'ruim voldoende' (minimaal 2); de VVD wil geen geld zonder plan 'oppotten'.",
+    "voor": "Met een stevige buffer hoeft de gemeente niet bij elke tegenvaller meteen te bezuinigen of de lasten te verhogen.",
+    "tegen": "Geld op de plank doet niets voor inwoners; een buffer moet reëel zijn en geen spaarpot zonder doel.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": 0,
+        "kern": "houdbare schuld en voldoende weerstandsvermogen",
+        "basis": "programma"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "geen geld zonder plannen oppotten in de begroting",
+        "basis": "programma"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "sterke algemene reserve, weerstandsvermogen minimaal 2",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "voldoende reserves om calamiteiten op te vangen",
+        "basis": "programma p.51"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "voldoende ruimte voor tegenvallers, niet direct bezuinigen",
+        "basis": "programma p.36"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "gezonde reserves; meevallers kunnen naar reserves",
+        "basis": "programma p.8"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "reserveringen reëel, geen spaarpotje",
+        "basis": "programma p.26"
+      }
+    },
+    "spreiding": "Scheidt VVD van CU en Lokaal Eén in het midden, en BBB van LFD en SBP.",
+    "twijfel": "D66 noemt voldoende weerstandsvermogen als doel maar geen hoogte; als 0 ingeschaald. Links zegt hier niets over."
+  },
+  {
+    "id": "financien-bruisend-hart",
+    "onderwerp": "grote projecten",
+    "kop": "Bruisend Hart uitstellen",
+    "stelling": "De grote investering in Bruisend Hart rond het Oosterspoorplein wordt uitgesteld tot de gemeente het kan betalen.",
+    "uitleg": "Bruisend Hart is het plan om het gebied rond het Oosterspoorplein bij station Hilversum opnieuw in te richten, met woningen en een betere verbinding tussen Oost en het centrum. Het vraagt een grote investering van de gemeente. Uitstel spaart nu geld, maar vertraagt woningbouw en de aanpak van het drukke plein.",
+    "voor": "Met een oplopende schuld en achterstallig onderhoud kan de gemeente zich zo'n groot project nu niet veroorloven.",
+    "tegen": "Het gebied is een van de grootste kansen voor nieuwe woningen; uitstel maakt het later duurder.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "ziet daar ruimte voor (meer) woningbouw",
+        "basis": "programma"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "Bruisend Hart uitstellen omdat het nu niet betaalbaar is",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "begint met grootste bouwlocaties, waaronder Bruisend Hart",
+        "basis": "programma"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "geen nieuwe megaprojecten zolang financiën dat niet toelaten",
+        "basis": "programma p.6"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "plan terug naar de tekentafel, open verbinding",
+        "basis": "programma"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "bijstellen als kosten te hoog blijken",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt VVD van ChristenUnie in het midden-rechts, en PRO van Opstand.nu en PvdD op links.",
+    "twijfel": "Gewoon Hilversum noemt Bruisend Hart niet bij naam; hun +1 is afgeleid uit 'geen nieuwe megaprojecten'. Opstand.nu wil vooral een ander ontwerp, niet per se uitstel om geld. De VVD noemt ook de Hilversumse Meent; wat daar precies wordt uitgesteld moet de redactie nagaan."
+  },
+  {
+    "id": "financien-centrum-sober",
+    "onderwerp": "grote projecten",
+    "kop": "Centrum sober inrichten",
+    "stelling": "Bij nieuwe projecten in het centrum kiest de gemeente voor eenvoudige en goedkope materialen, ook als het resultaat minder uitstraling heeft.",
+    "uitleg": "De Kerkbrink in het centrum van Hilversum is de afgelopen jaren voor miljoenen opnieuw ingericht, met onder meer natuursteen en een fontein; het werk is bijna klaar. Bij volgende projecten in het centrum, zoals rond het station en het Oosterspoorplein, speelt opnieuw de vraag of de gemeente kiest voor kwaliteit en uitstraling of voor een sobere, goedkopere uitvoering.",
+    "voor": "Dure fonteinen en natuursteen zijn prestige; met een sobere inrichting is een plein net zo gezellig en blijft er geld over voor onderhoud.",
+    "tegen": "Een aantrekkelijk centrum trekt bezoekers, cultuur en horeca en gaat met goede materialen tientallen jaren mee.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "bouwprojecten soberder en goedkoper uitvoeren",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "tegen een soberder Kerkbrink",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "Kerkbrink als hart van het centrum, ruimte voor evenementen",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "tegen een soberder Kerkbrink",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "meer ruimte voor cultuur, terrassen en groen",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "was tegen de miljoenen kostende herinrichting",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "dure fontein en Portugees natuursteen hadden niet gehoeven",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "sobere, functionele en betaalbare inrichting",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "soberder is niet vanzelf goedkoper; kijk naar totale kosten",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "neutraal, geen toelichting",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "stoppen kan niet meer; verder zorgvuldig kiezen",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "soberder en goedkoper; eerst de basis op orde",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "neutraal, geen toelichting",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "niet bij voorbaat soberder, wel bijstellen bij tekort",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "geldverspilling; groen en bankjes is genoeg",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "mooi mag, maar niet tegen elke prijs",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "plan wordt al uitgevoerd, niet meer aanpassen",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "praktisch, traditioneel en betaalbaar",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "geen dure herinrichting van de Kerkbrink",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Scheidt links (PRO tegenover SP), het midden (D66 en VVD tegenover CU) en rechts (VVD en SCB tegenover BBB, FVD en BVNL), en de lokale partijen (Lokaal Eén tegenover SBP en Hart voor Hilversum).",
+    "twijfel": "Posities zijn afgeleid van de Stemgids-stelling 'Kerkbrink soberder en goedkoper'; 'tegen' zonder toelichting (PRO, VVD) is als -1 ingeschaald. Omdat de Kerkbrink bijna af is, gaat de stelling over volgende centrumprojecten; dat is een kleine sprong ten opzichte van wat partijen beantwoordden."
+  },
+  {
+    "id": "financien-dorpen-voorrang",
+    "onderwerp": "verdeling stad en dorpen",
+    "kop": "Dorpen eerst",
+    "stelling": "Omdat in de dorpen veel onderhoud is blijven liggen, krijgen de dorpen de komende jaren voorrang bij de verdeling van geld.",
+    "uitleg": "In Wijdemeren is onderhoud aan wegen, bruggen, beschoeiing en voorzieningen jarenlang uitgesteld. Na de fusie betaalt de hele gemeente mee aan het inlopen daarvan. De vraag is of de dorpen daarom bewust voorgaan, of dat geld zonder onderscheid gaat naar waar de nood op dat moment het grootst is, in stad of dorp.",
+    "voor": "De dorpen mogen niet ondersneeuwen in een gemeente waar de stad de meerderheid heeft; hun achterstand moet eerst weg.",
+    "tegen": "Eén gemeente moet alle inwoners gelijk behandelen; voorrang op grond van waar je woont zet stad en dorp tegen elkaar op.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "niet of-of maar en-en; voorzieningen in dorpen op peil",
+        "basis": "hilversumsnieuws"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "geld naar waar het het hardst nodig is, dorp of wijk",
+        "basis": "hilversumsnieuws"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "geen verschil stad en dorp, waar de behoefte het grootst is",
+        "basis": "hilversumsnieuws"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "oneens; prioriteiten, geen wij-zij tussen stad en dorp",
+        "basis": "hilversumsnieuws"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "dorpen én stad, niet de een ten koste van ander",
+        "basis": "hilversumsnieuws"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "investeringen op basis van wat nodig is",
+        "basis": "hilversumsnieuws"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "verwacht dat er veel geld naar de dorpen gaat",
+        "basis": "hilversumsnieuws"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "oneens; investeren naar behoefte, niet naar locatie",
+        "basis": "hilversumsnieuws"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "eens, mits inwoners er direct profijt van hebben",
+        "basis": "hilversumsnieuws"
+      },
+      "scb": {
+        "s": -2,
+        "kern": "oneens; eerlijke verdeling naar behoefte",
+        "basis": "hilversumsnieuws"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "geen tegenstelling: infra in alle kernen vraagt investering",
+        "basis": "hilversumsnieuws"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "eens; elk dorp een gegarandeerd uitvoeringsbudget",
+        "basis": "hilversumsnieuws"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "in dorpen én in wijken waar het het hardst nodig is",
+        "basis": "hilversumsnieuws"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "geen tweedeling; investeren in álle dorpen en wijken",
+        "basis": "hilversumsnieuws"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "niet of-of maar en-en; kernbudgetten per dorp",
+        "basis": "hilversumsnieuws"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "oneens; herindeling mag geen strijd tussen stad en dorp worden",
+        "basis": "hilversumsnieuws"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "investeren in dorpen in overleg; raad weegt voorrang af",
+        "basis": "hilversumsnieuws"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "eens; Hilversum mag dorpen niets opleggen",
+        "basis": "hilversumsnieuws"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "basistaken in dorpen bleven liggen; voortvarend oppakken",
+        "basis": "hilversumsnieuws"
+      }
+    },
+    "spreiding": "Splitst rechts (FVD, BBB, BVNL eens tegenover VVD, SCB en LFD oneens) en de lokale partijen (SBP eens, Gewoon Hilversum en Lokaal Eén midden); speelt direct in de dorpen.",
+    "twijfel": "De Hilversums Nieuws-stelling vroeg naar 'meer geld voor de dorpen, ook als de stad minder overhoudt'; deze stelling vraagt naar voorrang vanwege achterstallig onderhoud, wat dicht in de buurt ligt maar niet gelijk is. Dorp voor Dorp gaf geen duidelijke richting en staat op null. Veel en-en-antwoorden zijn als 0 gelezen."
+  },
+  {
+    "id": "financien-parkeergeld-openbare-ruimte",
+    "onderwerp": "parkeeropbrengsten",
+    "kop": "Parkeergeld naar groen en straat",
+    "stelling": "Geld uit betaald parkeren mag ook worden besteed aan groen en een prettigere openbare ruimte in de buurt.",
+    "uitleg": "Betaald parkeren levert de gemeente geld op dat voor een deel in een mobiliteitsfonds gaat. Bijna alle lijsten vinden dat het niet naar de algemene kas mag. De keuze is hoe breed het mag worden besteed: alleen aan parkeren en bereikbaarheid, of ook aan groen, veilige straten en een mooiere buurt.",
+    "voor": "Wie in een buurt parkeert, gebruikt de openbare ruimte; het is logisch dat het geld die ruimte verbetert.",
+    "tegen": "Parkeren mag geen melkkoe zijn; wat de autobezitter betaalt, hoort terug te gaan naar parkeren en bereikbaarheid.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 0,
+        "kern": "naar parkeren, mobiliteit en handhaving, geen 1-op-1-relatie",
+        "basis": "programma p.36"
+      },
+      "d66": {
+        "s": 2,
+        "kern": "parkeerinkomsten terug naar de wijk, ook prettigere openbare ruimte",
+        "basis": "programma p.37"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "mobiliteitsfonds écht alleen voor parkeren",
+        "basis": "programma"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "parkeeropbrengst voor parkeren, bereikbaarheid en mobiliteit",
+        "basis": "programma"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "parkeeropbrengst voor kwaliteit openbare ruimte en mobiliteit",
+        "basis": "programma p.47"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "parkeeropbrengsten terug naar bereikbaarheid",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt het midden: D66 en ChristenUnie tegenover VVD en Lokaal Eén.",
+    "twijfel": "Weinig lijsten spreken zich uit over de besteding; de vraag of betaald parkeren een inkomstenbron mag zijn voor de algemene kas levert geen spreiding op (vrijwel iedereen tegen) en is daarom niet als stelling opgenomen. Mogelijk overlap met het thema verkeer."
+  }
+]

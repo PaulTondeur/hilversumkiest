@@ -1,0 +1,343 @@
+[
+ {
+  "sleutel": "wonen-nederhorst-noord-open|opstand-nu",
+  "id": "wonen-nederhorst-noord-open",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-nederhorst-noord-open",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Mogelijkheden in Wijdemeren verdienen onderzoek",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|opstand-nu",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Voor uitzonderlijk tot 25 meter, zoals de Meent",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "wonen-lokale-binding-helft|opstand-nu",
+  "id": "wonen-lokale-binding-helft",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-lokale-binding-helft",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Wisselende inhaalslagen per groep, geen vaste rangorde",
+   "basis": "programma p.5"
+  }
+ },
+ {
+  "sleutel": "wonen-parkeernorm|opstand-nu",
+  "id": "wonen-parkeernorm",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-parkeernorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Bij hoogbouw horen ook parkeeroplossingen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "natuur-afsluiten|opstand-nu",
+  "id": "natuur-afsluiten",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-afsluiten",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "natuurbehoud weegt zwaarder dan vrije recreatie",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|opstand-nu",
+  "id": "natuur-recreant-betaalt",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "kritisch kijken naar toeristen- en forensenbelasting",
+   "basis": "programma p.9"
+  }
+ },
+ {
+  "sleutel": "natuur-groennorm|opstand-nu",
+  "id": "natuur-groennorm",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-groennorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "meer stedelijk groen bij nieuwbouw",
+   "basis": "programma p.5"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-of-jongerenwerk|opstand-nu",
+  "id": "veiligheid-boa-of-jongerenwerk",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-boa-of-jongerenwerk",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "stemde in 2025 voor een motie over extra jongerenwerk",
+   "basis": "stemgedrag"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|opstand-nu",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "opvang is solidariteit met andere gemeenten",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "asiel-blijvende-opvang|opstand-nu",
+  "id": "asiel-blijvende-opvang",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-blijvende-opvang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "ja tegen een vast azc in Hilversum",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "asiel-taal-tijdens-procedure|opstand-nu",
+  "id": "asiel-taal-tijdens-procedure",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-taal-tijdens-procedure",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "nieuwkomers zo snel mogelijk laten meedoen",
+   "basis": "programma p.3"
+  }
+ },
+ {
+  "sleutel": "economie-zondag-beperken|opstand-nu",
+  "id": "economie-zondag-beperken",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-zondag-beperken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal, geen toelichting",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "economie-citymarketing|opstand-nu",
+  "id": "economie-citymarketing",
+  "slug": "opstand-nu",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "economie-citymarketing",
+   "s": -1,
+   "kern": "Bezuinigen bij citymarketing en lobbyist gesteund",
+   "toelichting": "De lijst steunde een amendement om bij een tekort te bezuinigen op de gemeentelijke lobbyist en citymarketing. Tegelijk wil ze toerisme stimuleren, zolang dat niet ten koste van wonen gaat.",
+   "citaat": "Toerisme mag echter niet ten koste gaan van wonen!",
+   "bron": "Raad Hilversum, 01-07-2026: A26-89 (voor, verworpen 12-23); MijnStem: 'Toerisme in de gemeente stimuleren' (68)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|opstand-nu",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "voor gekozen dorps- en wijkraden met eigen budget",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|opstand-nu",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "gekozen raden met enig budget voor eigen omgeving",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "bestuur-referendum-advies|opstand-nu",
+  "id": "bestuur-referendum-advies",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-referendum-advies",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal over referendum",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "financien-centrum-sober|opstand-nu",
+  "id": "financien-centrum-sober",
+  "slug": "opstand-nu",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-centrum-sober",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal, geen toelichting",
+   "basis": "stemgids"
+  }
+ }
+]

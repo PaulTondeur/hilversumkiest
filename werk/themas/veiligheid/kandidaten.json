@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "veiligheid-boa-of-jongerenwerk",
+    "onderwerp": "boa's of jongerenwerk",
+    "kop": "Jongerenwerk vóór boa's",
+    "stelling": "Als er extra geld komt voor veiligheid, gaat dat liever naar meer jongerenwerkers dan naar meer boa's.",
+    "uitleg": "Boa's zijn handhavers van de gemeente: zij spreken mensen aan en kunnen boetes geven. Jongerenwerkers zoeken jongeren op en proberen overlast te voorkomen voordat die ontstaat. Het geld voor veiligheid is beperkt, dus partijen moeten kiezen waar het meeste heen gaat.",
+    "voor": "Jongerenwerk pakt de oorzaak aan, zodat overlast en criminaliteit minder vaak ontstaan.",
+    "tegen": "Zichtbare handhavers op straat grijpen direct in en laten zien dat overlast gevolgen heeft.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "meer zichtbare boa's en politie; jongerenwerk als partner",
+        "basis": "programma p.9"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "jongeren die dreigen af te glijden vroeg begeleiden",
+        "basis": "afgeleid"
+      },
+      "d66": {
+        "s": 0,
+        "kern": "voldoende boa's, maar ook plekken voor jongeren zonder wegjagen",
+        "basis": "programma p.16"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "vijf extra boa's en meer geld voor jeugd-boa's",
+        "basis": "programma p.11"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "meer politie op straat én jongerenwerk dat jongeren opzoekt",
+        "basis": "programma p.11-12"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "niet alleen boa's: ook jeugdcoaches, licht en inrichting",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "genoeg sociaal werkers om spanningen in buurten te voorkomen",
+        "basis": "programma p.25"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "gerichte handhaving, niet in de eerste plaats meer handhavers",
+        "basis": "programma p.54"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "minder preventiecampagnes, meer directe handhaving met gevolgen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "zowel preventie als handhaving, met sterk jongerenwerk",
+        "basis": "programma p.4"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "handhaving is geen oplossing voor alles; maatwerk per probleem",
+        "basis": "programma p.23"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "jongerenwerk waar jongeren zijn, plus optreden bij herhaalde overlast",
+        "basis": "programma p.20"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "stemde in 2025 voor een motie over extra jongerenwerk",
+        "basis": "stemgedrag"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "meer straatmedewerkers, buurtouders, wijkagenten en jongerenwerk",
+        "basis": "programma p.66"
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "sociale controle en leefbaarheid in plaats van extra boa's",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 2,
+        "kern": "overlast eerst voorkomen met jongerenwerk; daar niet op bezuinigen",
+        "basis": "programma p.35"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "aantal boa's verdubbelen; ouders zijn verantwoordelijk voor jongeren",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "meer boa's en zichtbare handhaving in wijken",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Zet FVD, BVNL en VVD tegenover Volt, SP, PvdD en ChristenUnie; scheidt binnen links PRO/SP/PvdD/Volt naar mate van nadruk en zet Hart voor Hilversum tegenover Lokaal Eén en Gewoon Hilversum.",
+    "twijfel": "Veel lijsten willen 'allebei'; de positie van Hart voor Hilversum (richting boa's) en van PRO (richting begeleiding) is afgeleid uit waar het programma de nadruk legt. De positie van Opstand.nu rust op één stemming (motie M25-131 Jongerenwerk) terwijl de partij in MijnStem wel meer boa's in het uitgaansgebied steunde. Dorp voor Dorp en LFD noemen jongerenwerk niet."
+  },
+  {
+    "id": "veiligheid-boa-taken",
+    "onderwerp": "boa's",
+    "kop": "Boa's op ernstige overlast",
+    "stelling": "Boa's besteden hun tijd vooral aan ernstige overlast en intimidatie, en minder aan foutparkeren, hondenpoep en andere kleine overtredingen.",
+    "uitleg": "Het aantal boa's is beperkt, dus de gemeente kiest waar zij op letten. Nu schrijven boa's ook bonnen voor kleine overtredingen zoals verkeerd parkeren of hondenpoep. Deze keuze gaat over de prioriteit: zware overlast eerst, of ook de kleine ergernissen streng aanpakken.",
+    "voor": "Inwoners voelen zich vooral onveilig door intimidatie en zware overlast, dus daar moet de schaarse tijd heen.",
+    "tegen": "Kleine ergernissen zoals rommel en foutparkeren maken een buurt rommelig en onveilig als niemand erop let.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "gericht aanpakken van overlast, intimidatie en gevaarlijk fatbikegedrag",
+        "basis": "programma p.9"
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": -2,
+        "kern": "foutparkeren en gevaarlijk verkeersgedrag strenger aanpakken",
+        "basis": "programma p.15"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "extra boa's voor verkeershufters; ook hondenpoep en afval aanpakken",
+        "basis": "programma p.11"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "verloedering en kleine ergernissen snel aanpakken",
+        "basis": "programma p.11"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "kordaat optreden tegen afvaldumpen, zwerfafval en huftergedrag",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "ook handhaven op foutparkeren en hondenpoep",
+        "basis": "programma p.54"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "boa's gericht op overlast en criminaliteit, zonder onnodige regeldruk",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "optreden tegen ernstige overlast én bestaande regels duidelijk handhaven",
+        "basis": "programma p.4"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "boa's vooral waar inwoners echt problemen ervaren",
+        "basis": "programma p.24"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "boa's op plaatsen en tijden van overlast en onveiligheid",
+        "basis": "programma p.20"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "handhaven op schade, geweld en vernieling; geen regelzucht",
+        "basis": "programma p.18"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "hondenpoep, vuilnis en herrie vragen om handhaving",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt rechts onderling (LFD en BVNL tegenover FVD en VVD), de lokale partijen (Gewoon Hilversum, Stop Betaald Parkeren-VIP en Hart voor Hilversum tegenover Lokaal Eén) en het midden (D66 en ChristenUnie tegen).",
+    "twijfel": "Hart voor Hilversum en BVNL zeggen niet letterlijk dat kleine overtredingen minder aandacht moeten krijgen; hun +1 is gebaseerd op hun nadruk op gerichte inzet. Links en de kleinste lijsten hebben hier weinig over geschreven."
+  },
+  {
+    "id": "veiligheid-camera-uitbreiden",
+    "onderwerp": "cameratoezicht",
+    "kop": "Meer camera's op straat",
+    "stelling": "De gemeente hangt ook buiten het centrum camera's op, op plekken waar vaak overlast is.",
+    "uitleg": "In het centrum van Hilversum hangen camera's die door de politie worden gebruikt; de raad verlengde dit in 2023. De vraag is of camera's ook naar andere overlastplekken moeten komen, zoals het Lindeplein of fietstunnels (voorbeelden die CDA en VVD noemen). Voorstanders wijzen op opsporing en afschrikking, tegenstanders op privacy en het verplaatsen van problemen.",
+    "voor": "Camera's helpen de politie om daders te vinden en schrikken af op plekken waar het vaak misgaat.",
+    "tegen": "Camera's tasten de privacy van iedereen aan en verplaatsen overlast vaak alleen naar een andere plek.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "gericht meer camera's op overlastpunten, naast toezicht op straat",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "uitbreiden alleen als meer gebieden onveilig voelen",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "camera's alleen met duidelijke aanleiding en strikte voorwaarden",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "cameratoezicht waar mogelijk, ook tegen lawaai in tunnels",
+        "basis": "programma p.10"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "flexibele camera's op plekken als uitgaansgebied en Lindeplein",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "alleen waar wettelijk nodig; geen woud aan camera's",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": -1,
+        "kern": "camera's in centrum prima, elders nu niet nodig",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "uitbreiding alleen terughoudend en bij overtuigend gevaar",
+        "basis": "programma p.55"
+      },
+      "bvnl": {
+        "s": 0,
+        "kern": "alleen op aantoonbare hotspots, tijdelijk en proportioneel",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 2,
+        "kern": "camera's dragen bij aan een veilige openbare ruimte",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "camera's helpen schaarse politiecapaciteit goed in te zetten",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "beperkte uitbreiding in hoogrisicogebieden, verder terughoudend",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -2,
+        "kern": "eerst verlichting en handhaving; camera's als uiterste middel",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "geen big brother; alleen flexibel na incidenten",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "zeer terughoudend; alleen tijdelijk en onder strikte voorwaarden",
+        "basis": "programma p.66"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "huidige camera's mogen blijven, maar zeker niet meer",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "camera's beperken tot aangetoonde noodzaak en effect",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "alleen waar nodig en met actief live toezicht",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "alleen gericht op toegangswegen dorpen; geen permanente observatie",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "meer camera's tegen overlast en criminaliteit",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Bijna half-half: BBB, VVD, SCB en Gewoon Hilversum tegenover PvdD, Volt, Stop Betaald Parkeren-VIP en Blanco; scheidt rechts (VVD/BBB tegen FVD/LFD), links (D66 voor, Volt en PvdD tegen, PRO en SP ertussen) en de lokalen (Gewoon Hilversum voor, Stop Betaald Parkeren-VIP tegen).",
+    "twijfel": "Posities rusten vooral op de MijnStem-schuifbalk (beperken-uitbreiden), omgezet naar de schaal met de toelichting erbij; SP scoorde 51 maar schrijft dat camera's elders nu niet nodig zijn, daarom -1. Lokaal Eén (50) kan ook -1 zijn: voorganger Democraten Hilversum stemde in 2023 tegen verlenging van het cameratoezicht. Lindeplein en tunnels zijn voorbeelden die CDA en VVD noemen; de eindredactie kan ze vervangen."
+  },
+  {
+    "id": "veiligheid-kentekencamera-dorpen",
+    "onderwerp": "cameratoezicht",
+    "kop": "Kentekencamera's bij de dorpen",
+    "stelling": "Op de toegangswegen van Loosdrecht, 's-Graveland en Ankeveen komen camera's die kentekens vastleggen, om rondtrekkende inbrekers op te sporen.",
+    "uitleg": "Camera's die kentekens lezen leggen vast welke auto's een dorp in- en uitrijden; de politie kan die gegevens gebruiken bij onderzoek naar inbraken. Elke passerende auto wordt dan geregistreerd, ook die van gewone inwoners en bezoekers. Het gaat om een keuze tussen opsporing en privacy in de dorpen.",
+    "voor": "De dorpen liggen aan doorgaande wegen en zijn kwetsbaar voor inbrekers die snel komen en gaan; camera's schrikken af en helpen bij opsporing.",
+    "tegen": "Iedereen die het dorp in rijdt wordt vastgelegd, terwijl bijna niemand iets verkeerd doet.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "camera's alleen bij concrete noodzaak; geen algemeen toezicht",
+        "basis": "programma p.68"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "zeer terughoudend met camera's; geen volgen van mensen",
+        "basis": "afgeleid"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "kentekenregistratie alleen na aangetoonde noodzaak, kort bewaren",
+        "basis": "programma p.18"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "gerichte camera's en kentekenregistratie op toegangswegen dorpen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "uitbreiding van camera's waar het vaak misgaat",
+        "basis": "afgeleid"
+      }
+    },
+    "spreiding": "Scheidt FVD van LFD (rechts-libertair) en zet FVD tegenover Dorp voor Dorp, de lokale partij uit de dorpen.",
+    "twijfel": "Dunne basis: alleen FVD en LFD noemen kentekenregistratie letterlijk; PvdD, Dorp voor Dorp en BBB zijn afgeleid uit hun algemene camerastandpunt. Toch nuttig voor de dorpen en voor kiezers die FVD en LFD vergelijken."
+  },
+  {
+    "id": "veiligheid-coffeeshops-aantal",
+    "onderwerp": "coffeeshops",
+    "kop": "Minder coffeeshops",
+    "stelling": "Hilversum verlaagt het maximum aantal coffeeshops; nu mogen er acht zijn.",
+    "uitleg": "Hilversum heeft een maximum van acht coffeeshops (zo noemen partijen het in MijnStem); in de dorpen zijn er geen. Een lager maximum betekent dat een gesloten coffeeshop niet terugkomt. Voorstanders willen minder drugsgebruik en overlast, tegenstanders vrezen meer straathandel.",
+    "voor": "Minder coffeeshops betekent minder aanloop, minder overlast en een duidelijk signaal dat drugs niet normaal zijn.",
+    "tegen": "Wie wil blowen, blijft dat doen; minder coffeeshops drijft kopers naar illegale dealers op straat.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "minder concentratie in het centrum, vermindering waar overlast daalt",
+        "basis": "programma p.9"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "aantal vergunningen beperken tot maximaal zes",
+        "basis": "programma p.10"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "verminderen lost niets op en geeft meer criminaliteit",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "niet uitbreiden, maar ook geen reden om te verminderen",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "aantal verder terugdringen als de kans zich voordoet",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "weinig overlast; ongewenst dat sommige dicht bij scholen zitten",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "tevreden met afspraken; regulering en legalisering gewenst",
+        "basis": "programma p.25"
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "geen nieuwe coffeeshops en waar mogelijk minder",
+        "basis": "programma p.57"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "geen reden zolang shops zich aan de wet houden",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "beperkte vermindering verdedigbaar; onderscheid tussen nette en slechte shops",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "niet het aantal telt, maar of er overlast is",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "huidig beleid handhaven om illegale handel te voorkomen",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "eerst feiten en onderzoek; gericht optreden bij overlast",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "liever betere spreiding over de gemeente",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "aantal hoeft niet omlaag; wel kritisch op locaties",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": -2,
+        "kern": "gelijke monniken gelijke kappen: laat coffeeshops bestaan",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "aantal niet beperken; nette ondernemers ruimte geven",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": -2,
+        "kern": "coffeeshops houden gebruikers weg bij criminelen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "mensen bepalen zelf wat ze innemen",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -2,
+        "kern": "huidig maximum van acht is voldoende",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "Scheidt links scherp (PRO voor, SP, Volt en D66 tegen) en het midden (CDA en ChristenUnie voor, VVD en D66 tegen); zet SCB en Hart voor Hilversum tegenover BBB, BVNL en FVD.",
+    "twijfel": "Het genoemde maximum van acht komt uit de toelichting van BBB in MijnStem; de eindredactie moet het actuele getal controleren. De VVD scoorde 50 maar schrijft geen noodzaak te zien om te verminderen, daarom -1."
+  },
+  {
+    "id": "veiligheid-coffeeshops-scholen",
+    "onderwerp": "coffeeshops",
+    "kop": "Coffeeshops bij scholen blijven",
+    "stelling": "Bestaande coffeeshops dicht bij een school mogen op hun plek blijven, zolang ze zich aan de regels houden.",
+    "uitleg": "Een paar Hilversumse coffeeshops liggen vlak bij middelbare scholen. Voor nieuwe coffeeshops gelden afstandsregels, maar bestaande zaken mogen meestal blijven. Deze keuze gaat erover of de gemeente bestaande ondernemers dwingt te verhuizen.",
+    "voor": "Een coffeeshop die zich aan de regels houdt en geen overlast geeft, moet de gemeente niet wegsturen.",
+    "tegen": "Jongeren lopen elke dag langs een coffeeshop; afstand tot scholen beschermt hen tegen vroeg blowen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "coffeeshops buiten de woonwijken",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "coffeeshops dicht bij scholen zijn ongewenst",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "bestaande afspraken met coffeeshops nakomen",
+        "basis": "mijnstem"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "actief handhaven op afstand tot scholen en jongerenplekken",
+        "basis": "programma p.57"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "geen ingreep zolang shops zich aan de wet houden",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "gemeente bemoeit zich alleen ermee als er overlast is",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "ondernemers niet beperken zonder gedegen onderzoek",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "kritisch kijken naar locaties; geen nieuwe bij scholen",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "ondernemers die zich aan regels houden ruimte geven",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "alleen sluiten bij overlast of regelovertreding",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Tweede laag binnen de lijsten die het aantal coffeeshops willen houden: scheidt PvdD en PRO van SP en Volt (links onderling) en Lokaal Eén van Gewoon Hilversum en Stop Betaald Parkeren-VIP (lokalen onderling).",
+    "twijfel": "Alleen ChristenUnie noemt afstand tot scholen bij bestaande coffeeshops expliciet; de anderen zijn afgeleid uit hun MijnStem-toelichting over locaties of ondernemersvrijheid. Er staat in het CU-programma bij dit punt een losse vraag over één specifieke coffeeshop; die is niet gebruikt."
+  },
+  {
+    "id": "veiligheid-coffeeshops-dorpen",
+    "onderwerp": "coffeeshops",
+    "kop": "Coffeeshop in een dorp",
+    "stelling": "Ook in de dorpen, zoals Loosdrecht of Kortenhoef, mag een coffeeshop komen als die zich aan de regels houdt.",
+    "uitleg": "Alle coffeeshops van de nieuwe gemeente staan in de stad Hilversum; in Wijdemeren is er geen. Na de fusie geldt één beleid voor de hele gemeente. De vraag is of de dorpen open moeten staan voor een coffeeshop, of dat ze daar uitgesloten blijven.",
+    "voor": "Spreiding voorkomt dat alle aanloop en overlast in het Hilversumse centrum terechtkomt.",
+    "tegen": "De dorpen willen hun karakter houden, en een coffeeshop trekt bezoekers en overlast van buiten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -2,
+        "kern": "in de dorpen komen geen coffeeshops",
+        "basis": "programma p.13"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "geen nieuwe coffeeshops in de gemeente",
+        "basis": "programma p.57"
+      },
+      "bvnl": {
+        "s": 0,
+        "kern": "geen principieel standpunt; orde, veiligheid en draagvlak beslissen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "liever betere spreiding over de gemeente",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "aantal coffeeshops niet beperken; ondernemers ruimte",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Zet CDA en ChristenUnie tegenover Opstand.nu en LFD; scheidt Opstand.nu van de rest van links, dat hier niets over zegt.",
+    "twijfel": "Dunne basis: alleen CDA zegt iets over coffeeshops in de dorpen; de posities van Opstand.nu (spreiding) en LFD (niet beperken) zijn een redelijke maar indirecte lezing. Hart voor Hilversum wil 'spreiding zonder verschuiving naar andere buurten' en is daarom op null gezet."
+  },
+  {
+    "id": "veiligheid-vuurwerkshows",
+    "onderwerp": "vuurwerk en carbid",
+    "kop": "Vuurwerkshows door verenigingen",
+    "stelling": "Nu vuurwerk afsteken landelijk verboden is, geeft de gemeente verenigingen en buurten makkelijk een vergunning voor een eigen vuurwerkshow.",
+    "uitleg": "Vanaf de jaarwisseling 2026/2027 mogen inwoners geen consumentenvuurwerk meer afsteken. Georganiseerde shows met een vergunning blijven mogelijk. De gemeente bepaalt hoeveel vergunningen ze geeft en hoe makkelijk die te krijgen zijn: één centrale show of veel lokale shows in wijken en dorpen.",
+    "voor": "Zo blijft de traditie van oud en nieuw in elk dorp en elke wijk bestaan, georganiseerd en veilig.",
+    "tegen": "Elke show betekent opnieuw lawaai, stress voor dieren, afval en extra werk voor de hulpdiensten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "vuurwerkverbod handhaven; veilige jaarwisseling, ook voor dieren",
+        "basis": "programma p.55"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "siervuurwerk blijft toegestaan",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "maximaal één vergunning per jaar voor een centrale show",
+        "basis": "programma p.15"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "aanvragen snel en zonder onnodige bureaucratie behandelen",
+        "basis": "programma p.25"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "buurtinitiatieven en georganiseerde shows ruimte geven",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "verenigingen ruimhartig helpen met vergunningen en veiligheid",
+        "basis": "programma p.9"
+      }
+    },
+    "spreiding": "Zet BBB, FVD en LFD tegenover PvdD en ChristenUnie; verdeelt de lijsten die in de dorpen sterk staan (BBB tegenover ChristenUnie).",
+    "twijfel": "De -1 van ChristenUnie en de +1 van BVNL zijn afgeleid uit hun algemene vuurwerkstandpunt. Gewoon Hilversum zegt bewust geen standpunt over het verbod te hebben. De meeste midden- en linkse lijsten zeggen hier niets over."
+  },
+  {
+    "id": "veiligheid-carbid",
+    "onderwerp": "vuurwerk en carbid",
+    "kop": "Verbod op carbidschieten",
+    "stelling": "De gemeente verbiedt carbidschieten rond oud en nieuw, ook buiten de bebouwde kom.",
+    "uitleg": "Carbidschieten (knallen met melkbussen) is een traditie op het platteland en valt niet onder het landelijke vuurwerkverbod. De gemeente kan het zelf verbieden of regelen in de APV. Dit speelt vooral in de dorpen en het buitengebied.",
+    "voor": "De harde knallen schrikken dieren en omwonenden op en er gebeuren ongelukken mee.",
+    "tegen": "Het is een oude dorpstraditie die veilig kan als de gemeente duidelijke plekken en tijden afspreekt.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": -2,
+        "kern": "carbidschieten buiten de bebouwde kom op geschikte plekken toestaan",
+        "basis": "programma p.13"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "verbod op carbidschieten en paasvuren",
+        "basis": "programma p.15"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "geen extra gemeentelijke verboden bovenop landelijke regels",
+        "basis": "programma p.25"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "lokale eindejaarstradities mogelijk maken",
+        "basis": "programma p.9"
+      }
+    },
+    "spreiding": "Zet CDA en BBB tegenover PvdD; vooral relevant voor kiezers in de dorpen.",
+    "twijfel": "Alleen CDA en PvdD noemen carbid letterlijk; BBB (tradities) en LFD (geen extra verboden) zijn afgeleid. De stelling is mogelijk te weinig onderscheidend door gebrek aan posities; eventueel samenvoegen met de vuurwerkstelling."
+  },
+  {
+    "id": "veiligheid-preventief-fouilleren",
+    "onderwerp": "preventief fouilleren",
+    "kop": "Fouilleren zonder verdenking",
+    "stelling": "De burgemeester mag bij ernstige onrust een gebied aanwijzen waar de politie iedereen op wapens mag fouilleren, ook zonder verdenking.",
+    "uitleg": "In een veiligheidsrisicogebied mag de politie mensen fouilleren zonder dat ze ergens van verdacht worden. De burgemeester stelt zo'n gebied in, de raad moet het mogelijk maken in de regels (APV). Het werd onlangs in Loosdrecht gebruikt rond de noodopvang in het gemeentehuis.",
+    "voor": "Het haalt wapens van straat en schrikt mensen af om een mes of vuurwapen mee te nemen.",
+    "tegen": "Onschuldige mensen worden gefouilleerd, en in de praktijk vaker mensen met een migratieachtergrond.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -2,
+        "kern": "preventief fouilleren werkt etnisch profileren in de hand",
+        "basis": "programma p.49"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "geen collectieve schuld, alleen aanpak van daders",
+        "basis": "afgeleid"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 2,
+        "kern": "veiligheidsrisicogebied kan een effectief middel zijn",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "Zet BBB tegenover PvdD; te weinig posities bekend om andere buren te scheiden.",
+    "twijfel": "Zeer dunne basis: alleen BBB (Stemgids-toelichting) en PvdD noemen het. PRO wil etnisch profileren tegengaan, maar noemt fouilleren niet en staat daarom op null. Het voorbeeld van Loosdrecht staat in het FVD-programma; de eindredactie moet het controleren. Waarschijnlijk alleen bruikbaar als er extra posities komen."
+  },
+  {
+    "id": "veiligheid-bibob",
+    "onderwerp": "ondermijning",
+    "kop": "Integriteitscheck bij vergunningen",
+    "stelling": "Bij elke nieuwe vergunning voor horeca of een bedrijfspand onderzoekt de gemeente of de ondernemer banden heeft met criminelen.",
+    "uitleg": "Met de Wet Bibob kan de gemeente een vergunning weigeren als het risico bestaat dat criminelen er geld mee witwassen of er een dekmantel van maken. Zo'n onderzoek kost tijd en vraagt veel papieren van de ondernemer. De gemeente kiest of ze dit bij elke aanvraag doet of alleen bij signalen.",
+    "voor": "Criminelen gebruiken gewone zaken om geld wit te wassen; alleen een vaste check houdt hen buiten de deur.",
+    "tegen": "Eerlijke ondernemers worden dan bij voorbaat als verdachte behandeld en krijgen extra papierwerk en vertraging.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "extra budget en inzet tegen ondermijning",
+        "basis": "afgeleid"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "Wet Bibob zo veel en gericht mogelijk inzetten",
+        "basis": "programma p.59"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "handhaving zonder onnodige regeldruk voor ondernemers",
+        "basis": "afgeleid"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "ondernemers niet bij voorbaat als verdachte behandelen",
+        "basis": "programma p.23"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "actieve aanpak ondermijning; kritisch op vergunningen",
+        "basis": "programma p.66"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "handhaving op concrete schade, geen regelzucht",
+        "basis": "afgeleid"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "vergunningen weigeren of intrekken met actief gebruik van Bibob",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "streng optreden tegen georganiseerde criminaliteit",
+        "basis": "afgeleid"
+      }
+    },
+    "spreiding": "Scheidt rechts onderling (FVD, VVD en BBB voor, BVNL en LFD tegen) en zet ChristenUnie tegenover Gewoon Hilversum.",
+    "twijfel": "Alleen ChristenUnie, FVD en Gewoon Hilversum zeggen iets wat direct over deze keuze gaat; VVD, BBB, BVNL en LFD zijn afgeleid uit algemene uitspraken over ondermijning of regeldruk. 'Bij elke vergunning' is scherper dan wat de meeste lijsten schrijven."
+  },
+  {
+    "id": "veiligheid-vakantieparken",
+    "onderwerp": "ondermijning",
+    "kop": "Gasten registreren op vakantieparken",
+    "stelling": "Vakantieparken, campings en jachthavens rond de plassen moeten van de gemeente al hun gasten registreren.",
+    "uitleg": "Op vakantieparken en in jachthavens rond de Loosdrechtse Plassen verblijven soms mensen die zich daar verstoppen of er illegaal wonen. Wijdemeren pakte dit aan met Project Achilles. Een registratieplicht geeft de gemeente zicht op wie er verblijft, maar betekent extra regels voor parken en hun gasten.",
+    "voor": "Zonder registratie kunnen criminelen zich makkelijk verstoppen op parken waar niemand weet wie er is.",
+    "tegen": "Duizenden gewone recreanten en ondernemers krijgen extra regels vanwege een klein aantal misbruikers.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "Project Achilles als voorbeeld voor aanpak ondermijning",
+        "basis": "programma p.10"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": 1,
+        "kern": "extra ogen op vakantieparken en jachthavens (Project Achilles)",
+        "basis": "programma p.11"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": 2,
+        "kern": "toezicht op recreatieparken en campings, met registratie van gasten",
+        "basis": "programma p.59"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -1,
+        "kern": "gewone inwoners en ondernemers niet bij voorbaat verdacht",
+        "basis": "programma p.23"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "handhaving richten op concrete overtredingen",
+        "basis": "afgeleid"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Zet ChristenUnie, CDA en PRO tegenover Gewoon Hilversum en LFD; speelt vooral in Loosdrecht en het plassengebied.",
+    "twijfel": "Alleen ChristenUnie noemt registratie van gasten; CDA en PRO steunen Project Achilles, wat niet automatisch een registratieplicht is. De tegenkant is afgeleid uit uitspraken over proportionaliteit."
+  },
+  {
+    "id": "veiligheid-sekswerk",
+    "onderwerp": "sekswerk",
+    "kop": "Ruimte voor kleine sekswerkplekken",
+    "stelling": "Sekswerkers die met twee of drie samen willen werken, kunnen bij de gemeente een eenvoudige vergunning krijgen.",
+    "uitleg": "Hilversum heeft sinds 2023 eigen sekswerkbeleid; de raad stemde daar unaniem mee in. Werken vanuit huis of met een paar collega's valt nu vaak onder dezelfde zware regels als een bordeel. Een lichte vergunning maakt kleinschalig werken legaal en zichtbaar, maar kan ook leiden tot meer plekken waar sekswerk plaatsvindt.",
+    "voor": "Sekswerkers die samen werken zijn veiliger dan alleen, en een vergunning houdt hen uit het illegale circuit.",
+    "tegen": "Meer vergunde plekken maakt prostitutie gewoner, terwijl er vaak sprake is van dwang en uitbuiting.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": 2,
+        "kern": "ruimte voor kleinschalige samenwerking via een vergunning-light",
+        "basis": "programma p.40"
+      },
+      "vvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "geen nieuwe seksinrichtingen; prostitutie is geen gewoon beroep",
+        "basis": "programma p.58"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "sekswerkbeleid uit 2023 voortzetten, samen met sekswerkers",
+        "basis": "programma p.66"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Zet D66 en PvdD tegenover ChristenUnie, die in het midden vaak dicht bij D66 zit.",
+    "twijfel": "Slechts drie lijsten hebben hier een standpunt; de rest staat op null. Bruikbaar vooral voor kiezers die D66 en ChristenUnie vergelijken."
+  },
+  {
+    "id": "veiligheid-verlichting-fietspaden",
+    "onderwerp": "verlichting",
+    "kop": "Slimme lampen op fietspaden",
+    "stelling": "Op donkere fietspaden tussen de dorpen, zoals langs de N201, komen lampen die alleen aangaan als er iemand langsfietst.",
+    "uitleg": "Veel fietspaden in het buitengebied zijn 's nachts donker, wat sommige fietsers onveilig vinden. Volle verlichting geeft zicht maar verstoort dieren en de donkere nacht en kost stroom. Alternatieven zijn lampen die alleen aangaan als er iemand langskomt, of alleen licht op de gevaarlijkste stukken.",
+    "voor": "Donkerte is waardevol voor natuur en dieren, en slimme lampen die alleen aangaan bij een fietser geven genoeg veiligheid.",
+    "tegen": "Wie 's avonds van school, werk of sport naar huis fietst, moet goed kunnen zien en gezien worden.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": -1,
+        "kern": "goede verlichting op fietsroutes voor veilig thuiskomen",
+        "basis": "programma p.16"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "onverlichte fietstrajecten zoals de N201 goed verlichten",
+        "basis": "programma p.12"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "donkerte en stilte zijn natuurwaarden in de dorpen",
+        "basis": "programma p.26"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "slimme verlichting die reageert op passanten",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": -1,
+        "kern": "goede straatverlichting en veilige speelplekken",
+        "basis": "programma p.7"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "goed licht op de juiste plaats, niet overal meer",
+        "basis": "programma p.27"
+      },
+      "dorp-voor-dorp": {
+        "s": 1,
+        "kern": "gericht licht dat reageert op fietsers; donker waar het kan",
+        "basis": "programma p.67"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "donkere plekken eerst aanpakken met betere verlichting",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "uiterst terughoudend met verlichting; donkerte is een groot goed",
+        "basis": "programma p.18"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 1,
+        "kern": "betere én slimme verlichting op fietspaden en tunnels",
+        "basis": "programma p.35"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Scheidt het midden (VVD en D66 voor, CDA tegen), D66 van Volt, en de lokalen (Stop Betaald Parkeren-VIP voor, Lokaal Eén, Dorp voor Dorp en Gewoon Hilversum tegen); speelt in de dorpen.",
+    "twijfel": "VVD, D66 en SCB vragen 'goede' verlichting zonder slimme lampen af te wijzen; hun -1 kan ook 0 zijn. Stop Betaald Parkeren-VIP noemt verlichting alleen in algemene zin. Overlapt mogelijk met het thema verkeer of natuur."
+  },
+  {
+    "id": "veiligheid-groepsverbod-jongeren",
+    "onderwerp": "jongerenoverlast",
+    "kop": "Eerst een plek voor jongeren",
+    "stelling": "De gemeente mag groepen jongeren pas van een overlastplek weren als er tegelijk een andere plek komt waar zij welkom zijn.",
+    "uitleg": "De gemeente kan op een overlastplek een samenscholingsverbod instellen, zodat groepen daar niet mogen blijven hangen. Jongeren wijken dan vaak uit naar woonstraten in de buurt. In Kortenhoef, Hilversum-Oost en Nederhorst den Berg wordt gepraat over vaste hangplekken voor jongeren.",
+    "voor": "Wegsturen zonder alternatief verplaatst de overlast alleen naar een andere straat.",
+    "tegen": "Omwonenden die al lang last hebben, moeten snel geholpen worden; een alternatieve plek kan later komen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "d66": {
+        "s": 1,
+        "kern": "meer plekken waar jongeren mogen zijn zonder weggejaagd te worden",
+        "basis": "programma p.16"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "bestuurlijke middelen als groeps- en lokaal verbod inzetten",
+        "basis": "afgeleid"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "geen nieuw verbodsgebied zonder plek waar jongeren welkom zijn",
+        "basis": "programma p.12"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "overlastgevers hard aanpakken",
+        "basis": "afgeleid"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "jongeren die buiten samenkomen zijn niet per definitie een probleem",
+        "basis": "programma p.4"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "ruimte voor jongeren, maar wie intimideert wordt bestraft",
+        "basis": "programma p.23"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 1,
+        "kern": "overlast eerst voorkomen met jongerenwerk en buurtcentra",
+        "basis": "afgeleid"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Zet CDA, D66 en SCB tegenover VVD en BVNL; scheidt CDA van de VVD, die in het midden vaak samen optrekken.",
+    "twijfel": "Alleen CDA spreekt zich direct uit over verbodsgebieden; de VVD noemt een groepsverbod alleen rond de jaarwisseling. VVD, BVNL en Volt zijn afgeleid. Het voorstel is vooral nuttig als tweede laag onder de stelling boa's of jongerenwerk."
+  }
+]

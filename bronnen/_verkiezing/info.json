@@ -1,0 +1,388 @@
+{
+  "_meta": {
+    "opgesteld": "2026-11-15",
+    "opmerking": "Elk item: tekst + bron_url. Items met 'zekerheid' staan niet als 'bevestigd' in een officiele bron; 'onzeker' markeert wat niet te staven was. Hilversum.nl-pagina's staan op hilversum.nl/gemeenteraadsverkiezing-2026/... (de pagina's met /verkiezingen/ ervoor geven 404 voor wie-mag-stemmen, volmacht, stempas en stembureaus)."
+  },
+  "wie_mag_stemmen": [
+    {
+      "tekst": "Je mag stemmen als je op 18 november 2026 18 jaar of ouder bent (geboren voor 19 november 2008).",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wie-mag-stemmen"
+    },
+    {
+      "tekst": "Je moet op de dag van de kandidaatstelling, maandag 5 oktober 2026, ingeschreven staan in Hilversum of Wijdemeren. Dat adres bepaalt waar je stempas heen gaat, ook als je daarna verhuist.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wie-mag-stemmen"
+    },
+    {
+      "tekst": "Nederlanders en inwoners met de nationaliteit van een ander EU-land mogen stemmen.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wie-mag-stemmen"
+    },
+    {
+      "tekst": "Inwoners met een nationaliteit van buiten de EU mogen stemmen als zij op 5 oktober 2026 minimaal 5 jaar legaal in Nederland wonen.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wie-mag-stemmen"
+    },
+    {
+      "tekst": "De stempas komt tussen 26 en 30 oktober 2026 per post, op het adres waar je staat ingeschreven.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    },
+    {
+      "tekst": "Voor uitsluiting van het kiesrecht (bijvoorbeeld door rechterlijke uitspraak) noemt de gemeente geen aanvullende uitzonderingen; niet nader nagezocht bij de Kiesraad.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wie-mag-stemmen",
+      "zekerheid": "onzeker"
+    }
+  ],
+  "wat_neem_je_mee": [
+    {
+      "tekst": "Neem je stempas en een identiteitsbewijs mee naar het stembureau.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    },
+    {
+      "tekst": "Het identiteitsbewijs mag maximaal 5 jaar verlopen zijn. Voorbeeld van de gemeente: een ID met 'geldig tot' 19 november 2021 of later kan nog.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    },
+    {
+      "tekst": "Geldige documenten: paspoort, identiteitskaart, Nederlands rijbewijs, Nederlands verblijfsdocument.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    },
+    {
+      "tekst": "Is je ID verloren of gestolen, dan kun je stemmen met een verlies-/diefstalverklaring van de gemeente plus een pasfotokaart zoals een persoonlijke OV-chipkaart.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    },
+    {
+      "tekst": "Heb je geen (bruikbaar) ID en kun je niet op tijd een nieuw krijgen, dan kun je iemand machtigen om voor je te stemmen.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    }
+  ],
+  "volmacht": [
+    {
+      "tekst": "Onderhandse volmacht: vul de achterkant van je stempas in; jij en de gemachtigde ondertekenen allebei. De gemachtigde brengt jouw stempas, een kopie van jouw ID en zijn/haar eigen stempas en ID mee.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/als-u-zelf-niet-kunt-stemmen"
+    },
+    {
+      "tekst": "Schriftelijke volmacht: via een machtigingsformulier (model L 8) dat jij en de gemachtigde beiden invullen (de gemachtigde eerst). Handig bij vakantie of als je geen ID-kopie kunt leveren.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/als-u-zelf-niet-kunt-stemmen"
+    },
+    {
+      "tekst": "Aanvragen schriftelijke volmacht: per post naar Team verkiezingen, Postbus 9900, 1201 GM Hilversum, of op afspraak aan de balie van het gemeentehuis van je eigen gemeente (Hilversum of Wijdemeren). Digitaal aanvragen kan niet meer.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/als-u-zelf-niet-kunt-stemmen"
+    },
+    {
+      "tekst": "Deadline: de aanvraag moet uiterlijk vrijdag 13 november 2026 binnen zijn. Aanvragen tot en met woensdag 11 november worden per post toegestuurd; aanvragen van 12 en 13 november moet je zelf ophalen. Op afspraak aan de balie kan tot dinsdag 17 november 2026, 12.00 uur.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/als-u-zelf-niet-kunt-stemmen"
+    },
+    {
+      "tekst": "Een gemachtigde mag maximaal 2 volmachtstemmen uitbrengen, en doet dat tegelijk met de eigen stem.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/als-u-zelf-niet-kunt-stemmen"
+    },
+    {
+      "tekst": "Een algemene volmacht, curatele of bewind geldt niet bij verkiezingen; de kiezer moet zelf de volmacht aanvragen en ondertekenen.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-beperking"
+    }
+  ],
+  "vervangende_stempas": [
+    {
+      "tekst": "Een vervangende stempas kan als je je stempas kwijt bent, die beschadigd is of niet is ontvangen.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stempas-kwijt-beschadigd-niet-ontvangen"
+    },
+    {
+      "tekst": "Deadline: aanvraag uiterlijk vrijdag 13 november 2026 binnen bij de gemeente. Tot en met woensdag 11 november wordt de nieuwe stempas gestuurd; aanvragen van 12 en 13 november moet je ophalen. Aan de balie op afspraak kan tot dinsdag 17 november 2026, 12.00 uur.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stempas-kwijt-beschadigd-niet-ontvangen"
+    },
+    {
+      "tekst": "Aanvragen: per post (Team verkiezingen, Postbus 9900, 1201 GM Hilversum) of op afspraak bij de balie van het gemeentehuis van Hilversum of Wijdemeren. Digitaal kan niet meer.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stempas-kwijt-beschadigd-niet-ontvangen"
+    },
+    {
+      "tekst": "Vind je de oude stempas terug na een vervangende, dan kun je alleen met de nieuwe stemmen.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stempas-kwijt-beschadigd-niet-ontvangen"
+    }
+  ],
+  "stemmen_in_elk_stembureau": [
+    {
+      "tekst": "Ja: met je stempas kun je bij elk stembureau binnen de gemeenten Hilversum en Wijdemeren stemmen. Op de stempas staat het stembureau dat het dichtst bij je huis ligt.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stembureaus-in-hilversum"
+    }
+  ],
+  "openingstijden": [
+    {
+      "tekst": "De meeste stembureaus zijn open op woensdag 18 november 2026 van 7.30 tot 21.00 uur.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    },
+    {
+      "tekst": "Afwijkend: Stationshal Hilversum (Stationsplein 17) 6.00-21.00 uur; Zandkasteel-Zorg in 's-Graveland (Noordereinde 54 c) 9.30-17.30 uur; Paviljoen De Strook in Breukeleveen (Nieuweweg 28) 16.00-21.00 uur; het mobiele stembureau 9.00-21.00 uur.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    },
+    {
+      "tekst": "Er zijn 60 locaties in de officiele lijst (46 in Hilversum incl. het mobiele stembureau, 14 in Wijdemeren); zie stembureaus.json.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    }
+  ],
+  "toegankelijkheid_en_hulp": [
+    {
+      "tekst": "Toegangen tot de stembureaus zijn toegankelijk voor rolstoelen en rollators; er is altijd een stemhokje voor bezoekers in een rolstoel, een vergrote kandidatenlijst, een leesloep en goede verlichting.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stembureaus-in-hilversum"
+    },
+    {
+      "tekst": "Een tolk Nederlandse Gebarentaal op afstand is beschikbaar: scan de QR-code op de poster in het stembureau met je telefoon of tablet, zonder afspraak.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stembureaus-in-hilversum"
+    },
+    {
+      "tekst": "Hulp in het stemhokje mag van iemand die je meeneemt of van een lid van het stembureau.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stembureaus-in-hilversum"
+    },
+    {
+      "tekst": "Prikkelarm stembureau: Campus Zonnestraal, Loosdrechtse Bos 7B, Hilversum.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    },
+    {
+      "tekst": "Extra toegankelijk (lichamelijke, auditieve of visuele beperking): Wijkcentrum Lopes Dias, Lopes Diaslaan 213, Hilversum, met gastheer, stemmal met soundbox, schrijftolk en gebarentolk op afstand, en een 1,5 m breed stemhokje met verstelbare tafel en lage stembus.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-beperking"
+    },
+    {
+      "tekst": "Houders van een Wmo-vervoerspas reizen gratis van en naar het stembureau met de opkomsttaxi.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/stembureaus-in-hilversum"
+    },
+    {
+      "tekst": "Een mobiel stembureau bezoekt diverse verzorgingshuizen in Hilversum en Wijdemeren (9.00-21.00 uur).",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    },
+    {
+      "tekst": "Stembureaumedewerkers letten op de Hidden Disabilities Zonnebloem-sleutelhanger of lanyard.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-beperking"
+    },
+    {
+      "tekst": "Bij een verstandelijke beperking of dementie mag het stembureau uitleg geven buiten het stemhokje, niet in het stemhokje. Oefenen kan op hoewerktstemmen.nl.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-beperking"
+    },
+    {
+      "tekst": "Vragen: verkiezingen@hilversum.nl of telefoon 14 035.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-beperking"
+    }
+  ],
+  "belangrijke_data": [
+    {
+      "tekst": "5 oktober 2026: dag van de kandidaatstelling (peildatum voor wie mag stemmen).",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "9 oktober 2026: openbare zitting centraal stembureau, kandidatenlijsten vastgesteld (stemgidshilversum.nl: 17.00 uur).",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "16 oktober 2026: stemhulp MijnStem gaat online.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "26-30 oktober 2026: stempas per post. 9-13 november: kandidatenlijst per post (volgens stemgidshilversum.nl).",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/wat-heb-ik-nodig-om-te-stemmen"
+    },
+    {
+      "tekst": "3 november 2026 (20.00-21.30, Raadhuis): De grote Verkiezingsshow; 16 november (20.00-22.00): lijsttrekkersdebat (livestream).",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "13 november 2026: laatste dag om schriftelijk een vervangende stempas of volmacht aan te vragen. 17 november 12.00 uur: laatste moment aan de balie.",
+      "bron_url": "https://hilversum.nl/gemeenteraadsverkiezing-2026/als-u-zelf-niet-kunt-stemmen"
+    },
+    {
+      "tekst": "18 november 2026: verkiezingsdag, stembureaus 7.30-21.00 uur; daarna uitslagenavond met voorlopige uitslag per partij.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "19 november 2026: tellen per kandidaat in Sporthal De Fuik, Kortenhoef (vanaf 9.00 uur).",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-tellen-vaststellen-uitslag"
+    },
+    {
+      "tekst": "20 november 2026: voorlopige uitslag op hilversum.nl.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "26 november 2026, 10.00 uur: openbare zitting centraal stembureau in het Raadhuis; vaststelling definitieve uitslag en benoeming nieuwe raadsleden.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-tellen-vaststellen-uitslag"
+    },
+    {
+      "tekst": "16 december 2026, 20.00 uur, Raadhuis Hilversum: toelating nieuwe raadsleden en afscheid van de raad 2022-2026.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "1 januari 2027: gemeente Wijdemeren wordt opgeheven en onderdeel van de gemeente Hilversum (startdatum nieuwe gemeente).",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/kst-36865-3.html"
+    },
+    {
+      "tekst": "4 januari 2027: beëdiging van raadsleden en start van de nieuwe gemeenteraad.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "Herindelingswet: Wet herindeling gemeenten Hilversum en Wijdemeren van 8 juli 2026, gepubliceerd 16 juli 2026. Tweede Kamer stemde in op 26 mei 2026 (datum uit stemmingsoverzicht), Eerste Kamer op 7 juli 2026.",
+      "bron_url": "https://wijdemeren.hilversum.nl/actueel/3294835.aspx?t=Hilversum+en+Wijdemeren+gaan+definitief+samen"
+    }
+  ],
+  "uitslag": [
+    {
+      "tekst": "Elk stembureau telt na 21.00 uur dezelfde avond de stemmen op lijstniveau (per partij). De stemmen van Zandkasteel-Zorg in 's-Graveland en van het mobiele stembureau worden om 21.00 uur geteld in Sporthal De Fuik in Kortenhoef (Zuidsingel 56).",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    },
+    {
+      "tekst": "Donderdag 19 november 2026: alle stemmen worden op kandidaatniveau geteld in Sporthal De Fuik, Kortenhoef.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/gmb-2026-514668.pdf"
+    },
+    {
+      "tekst": "Uitslagenavond 18 november met voorlopige uitslag per partij; de agenda noemt 'David's' (welkom vanaf 22.00 uur) en een liveblog op hilversum.nl. Het adres van David's staat niet op de pagina.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/verkiezingsagenda-belangrijke-data"
+    },
+    {
+      "tekst": "Voorlopige uitslag op hilversum.nl op 20 november; officiele vaststelling op 26 november 2026, 10.00 uur, openbaar in het Raadhuis (livestream). Een eventuele hertelling volgt in de week na de verkiezing; tijd en plaats komen op de website.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-tellen-vaststellen-uitslag"
+    },
+    {
+      "tekst": "Hilversum organiseert de verkiezing, is het centraal stembureau en stelt de uitslag vast.",
+      "bron_url": "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/gemeenteraadsverkiezing-hilversum-wijdemeren-uitgelegd"
+    }
+  ],
+  "nieuwe_raad": {
+    "zetels": {
+      "tekst": "De nieuwe gemeenteraad krijgt 39 zetels (Hilversum nu 37, Wijdemeren 19, samen 56). Gemeentewet art. 8: 39 leden bij 100.001-200.000 inwoners. Een coalitiemeerderheid is 20 zetels.",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    },
+    "zetels_wet": {
+      "tekst": "Gemeentewet artikel 8: 39 raadsleden in een gemeente van 100.001-200.000 inwoners.",
+      "bron_url": "https://wetten.overheid.nl/BWBR0005416"
+    },
+    "zittingsduur": {
+      "tekst": "De nieuwe raad zit tot de eerstvolgende reguliere gemeenteraadsverkiezingen in maart 2030 (ruim drie jaar), omdat de maartverkiezingen van 2026 voor beide gemeenten zijn overgeslagen en de zittende raden zijn verlengd tot 1 januari 2027.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/kst-36865-3.html"
+    },
+    "inwonertal": {
+      "tekst": "Circa 119.000 inwoners en 123 km2 (waarvan 30 km2 water).",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/kst-36865-3.html"
+    },
+    "inwonertal_bijkomend": {
+      "tekst": "Ook NH Nieuws noemt circa 119.000 inwoners.",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    },
+    "kernen": {
+      "tekst": "Hilversum en de zes kernen van Wijdemeren: Ankeveen, Breukeleveen, 's-Graveland, Kortenhoef, Loosdrecht en Nederhorst den Berg. De nieuwe gemeente heet Hilversum.",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    },
+    "burgemeester": {
+      "tekst": "Eerste burgemeester van de nieuwe gemeente is Gerhard van den Top, nu burgemeester van Hilversum.",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    }
+  },
+  "achtergrond_fusie": [
+    {
+      "tekst": "Wijdemeren kampte al langer met bestuurskracht-problemen (beperkte ambtelijke capaciteit, druk op dienstverlening). Sinds 1 januari 2023 staat de gemeente onder preventief financieel toezicht van de provincie Noord-Holland.",
+      "bron_url": "https://zoek.officielebekendmakingen.nl/kst-36865-3.html"
+    },
+    {
+      "tekst": "Na een verkenning werd Hilversum gekozen als meest logische partner. De gemeenten verkennen samenwerking sinds 2024 (Rijksoverheid); ambtenaren van beide gemeenten werken sinds 1 januari 2026 samen (NH Nieuws).",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    },
+    {
+      "tekst": "De raden van beide gemeenten besloten op 27 maart 2025 verder te gaan als een gemeente (volgens de minister in het debat in de Eerste Kamer; de Wijdemeerse raad stemde eerder unaniem).",
+      "bron_url": "https://www.eerstekamer.nl/verslagdeel/20260630/herindeling_gemeenten_hilversum_en"
+    },
+    {
+      "tekst": "Het is een 'lichte' samenvoeging: de gemeente Wijdemeren wordt opgeheven, haar grondgebied wordt toegevoegd aan Hilversum, dat de naam behoudt (Wet herindeling art. 1 en 2).",
+      "bron_url": "https://wetten.overheid.nl/BWBR0052931/2026-09-11/0"
+    },
+    {
+      "tekst": "Wetgeving: Raad van State adviseerde in oktober 2025 positief; wetsvoorstel naar de Tweede Kamer op 21 november 2025; Tweede Kamer stemde in op 26 mei 2026, Eerste Kamer op 7 juli 2026; wet van 8 juli 2026.",
+      "bron_url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/11/21/wetsvoorstel-herindeling-gemeenten-hilversum-en-wijdemeren-naar-tweede-kamer"
+    },
+    {
+      "tekst": "Omdat beide raden negen maanden na de reguliere verkiezingen zouden verdwijnen, zijn de verkiezingen van maart 2026 overgeslagen; op 18 november 2026 is een herindelingsverkiezing. Hilversum organiseert die.",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    },
+    {
+      "tekst": "Veranderingen: een raad, een college en een burgemeester. Onroerendzaakbelasting: huiseigenaren in het huidige Wijdemeren betalen het lagere Hilversumse tarief (volgens de gemeente gemiddeld ongeveer 330 euro per jaar minder); rioolheffing wordt tot 2029 gelijkgetrokken; de nieuwe gemeente krijgt volgens NH Nieuws 5,7 miljoen euro per jaar extra uit het gemeentefonds.",
+      "bron_url": "https://www.nhnieuws.nl/nieuws/364898/dit-moet-je-weten-over-de-fusie-tussen-hilversum-en-wijdemeren"
+    },
+    {
+      "tekst": "Overgang: de nieuwe gemeente heeft twee jaar om regels, beleid en subsidies te harmoniseren; tot dan blijven de huidige regels gelden. Voor de dorpen worden dorps-cv's opgesteld.",
+      "bron_url": "https://wijdemeren.hilversum.nl/actueel/3294835.aspx?t=Hilversum+en+Wijdemeren+gaan+definitief+samen"
+    }
+  ],
+  "huidige_raden": {
+    "hilversum_2022": {
+      "zetels_totaal": 37,
+      "uitslag_maart_2022": {
+        "tekst": "Hart voor Hilversum 8, D66 7, VVD 5, GroenLinks 4, CDA 4, Democraten Hilversum 3, PvdA 2, SP 2, ChristenUnie 1, BVNL 1 (totaal 37).",
+        "bron_url": "https://nl.wikipedia.org/wiki/Hilversum#Gemeenteraad",
+        "zekerheid": "secundaire bron (Wikipedia); officiele uitslag (Kiesraad/verkiezingsuitslagen.nl) niet kunnen raadplegen"
+      },
+      "opkomst_2022": {
+        "tekst": "Opkomst 2022 in Hilversum: 50,8% volgens de gemeente (Wikipedia noemt 51,0%).",
+        "bron_url": "https://hilversum.bestuurlijkeinformatie.nl/Document/View/35e6be02-40fb-4775-b552-17b3af6aa173"
+      },
+      "latere_afsplitsingen": [
+        {
+          "tekst": "16 april 2025: Joop Lahaise verlaat de PvdA en gaat verder als Fractie Lahaise, vanaf begin september 2025 onder de naam OpStand.nu.",
+          "bron_url": "https://hilversum.nl/sites/default/files/documents/Jaaroverzicht%20Raad%202025.pdf"
+        },
+        {
+          "tekst": "14 augustus 2025: Abdellatif Zaabat verlaat D66 en gaat verder als Fractie Zaabat.",
+          "bron_url": "https://hilversum.nl/sites/default/files/documents/Jaaroverzicht%20Raad%202025.pdf"
+        },
+        {
+          "tekst": "Eind augustus 2025 (rond 25 augustus): de VVD-fractie splitst in twee fracties onder dezelfde naam VVD Hilversum: Haitske van de Linde alleen, en Hidde Fennema, Tobias Westerneng, Gerard Ekelmans en Ellis Zeeuw van der Laan.",
+          "bron_url": "https://www.nhnieuws.nl/nieuws/351866/niet-een-maar-twee-vvds-in-raad-hilversum-geen-harde-breuk-maar-een-herordening"
+        },
+        {
+          "tekst": "Eind 2025 telt de raad 37 raadsleden in 13 fracties: Hart voor Hilversum, D66, VVD (twee fracties), GroenLinks, CDA, PvdA, SP, ChristenUnie, Democraten Hilversum, Fractie Durlacher, OpStand.nu, Fractie Zaabat.",
+          "bron_url": "https://hilversum.nl/sites/default/files/documents/Jaaroverzicht%20Raad%202025.pdf"
+        },
+        {
+          "tekst": "Fractie Durlacher is waarschijnlijk de BVNL-zetel van 2022 (Frederique Durlacher stond in 2022-2023 als BVNL/Belang van Nederland in de stukken); wanneer de naam veranderde is niet vastgesteld.",
+          "bron_url": "https://hilversum.nl/sites/default/files/documents/Jaaroverzicht%20Raad%202025.pdf",
+          "zekerheid": "onzeker"
+        },
+        {
+          "tekst": "Wijzigingen na eind 2025 tot nu zijn niet onderzocht.",
+          "bron_url": "https://hilversum.nl/gemeenteraad",
+          "zekerheid": "onzeker"
+        }
+      ]
+    },
+    "wijdemeren_2022": {
+      "zetels_totaal": 19,
+      "uitslag_maart_2022": {
+        "tekst": "De Lokale Partij 8, CDA 3, DorpsBelangen 2, VVD 2, PvdA-GroenLinks 2, D66 1, ChristenUnie 1 (totaal 19; voorlopige uitslag).",
+        "bron_url": "https://www.nhnieuws.nl/nieuws/301294/voorlopige-uitslag-wijdemeren-de-lokale-partij-explosieve-stijger",
+        "zekerheid": "voorlopige uitslag via lokale media; Wikipedia geeft dezelfde verdeling"
+      },
+      "opkomst_2022": {
+        "tekst": "Opkomst 2022 in Wijdemeren: 58,9% (2018: 61,3%), voorlopige uitslag.",
+        "bron_url": "https://www.nhnieuws.nl/nieuws/301294/voorlopige-uitslag-wijdemeren-de-lokale-partij-explosieve-stijger"
+      },
+      "latere_afsplitsingen": [
+        {
+          "tekst": "Voor juli 2024: Olivier Goetheer verlaat De Lokale Partij en gaat verder als zelfstandige fractie.",
+          "bron_url": "https://www.nhnieuws.nl/nieuws/337989/politieke-chaos-wijdemeren-wordt-alsmaar-groter-bijna-niemand-wil-coalitie-nog-helpen"
+        },
+        {
+          "tekst": "Begin juli 2024: Marjan Pronk-Ligthart verlaat De Lokale Partij voor de ChristenUnie; De Lokale Partij heeft dan nog 6 zetels. Latere wijzigingen zijn niet onderzocht.",
+          "bron_url": "https://www.nhnieuws.nl/nieuws/337989/politieke-chaos-wijdemeren-wordt-alsmaar-groter-bijna-niemand-wil-coalitie-nog-helpen",
+          "zekerheid": "onzeker voor wijzigingen na juli 2024"
+        }
+      ]
+    }
+  },
+  "bestaande_stemhulpen": [
+    {
+      "naam": "MijnStem Hilversum-Wijdemeren",
+      "bron_url": "https://mijnstem.nl/hilversum-wijdemeren/"
+    },
+    {
+      "naam": "Stemgids Hilversum",
+      "bron_url": "https://stemgidshilversum.nl"
+    }
+  ],
+  "niet_gevonden_of_onzeker": [
+    "Officiele definitieve uitslag 2022 per partij voor Hilversum en Wijdemeren (Kiesraad/verkiezingsuitslagen.nl) niet geraadpleegd; cijfers komen van Wikipedia, gemeentedocument en NH Nieuws.",
+    "Opkomst Hilversum 2022: 50,8% (gemeente) tegenover 51,0% (Wikipedia).",
+    "Staatsblad-nummer van de herindelingswet en het koninklijk besluit over de inwerkingtreding niet gevonden; wetten.overheid.nl noemt inwerkingtreding bij KB.",
+    "Adres van 'David's' (uitslagenavond) niet vermeld.",
+    "Datum eerste raadsvergadering na installatie niet onderzocht.",
+    "Wijdemeren-pagina's geven geen afwijkende regels; hilversum.nl-pagina's voor wie-mag-stemmen, volmacht en stempas staan onder /gemeenteraadsverkiezing-2026/ (zonder /verkiezingen/)."
+  ]
+}

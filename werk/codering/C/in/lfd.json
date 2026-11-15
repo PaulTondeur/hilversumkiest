@@ -1,0 +1,485 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|lfd",
+  "id": "wonen-eigen-behoefte",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Bouwen naar de vraag, ook die van buiten",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "wonen-sociale-huur-per-project|lfd",
+  "id": "wonen-sociale-huur-per-project",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-sociale-huur-per-project",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "Geen opgelegde percentages",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "wonen-voorrang-beroepen-weg|lfd",
+  "id": "wonen-voorrang-beroepen-weg",
+  "slug": "lfd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "wonen-voorrang-beroepen-weg",
+   "s": -1,
+   "kern": "Stemde in 2023 voor behoud van voorrang voor cruciale beroepen.",
+   "toelichting": "Het raadslid stemde in 2023 tegen het schrappen van het streven naar voorrang voor cruciale beroepen. Het programma wil schaarste niet verdelen op basis van voorkeur voor groepen; die spanning is niet uitgewerkt.",
+   "citaat": "De gemeente verdeelt schaarste niet op basis van politieke voorkeur voor groepen, maar zorgt voor eerlijke en transparante regels.",
+   "bron": "Raad Hilversum, 8-3-2023: amendement A23-39 (voorrang cruciale beroepen schrappen), tegen, verworpen 13-22; programma p. 11",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": 2,
+   "kern": "Schaarste niet verdelen naar politieke voorkeur voor groepen",
+   "basis": "programma p.11"
+  }
+ },
+ {
+  "sleutel": "wonen-grondbeleid|lfd",
+  "id": "wonen-grondbeleid",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-grondbeleid",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "Gemeente bouwt niet zelf, maar geeft eigenaren ruimte",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|lfd",
+  "id": "verkeer-buurt-beslist",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "criterium is aantoonbare parkeerdruk",
+   "basis": "programma p.19"
+  }
+ },
+ {
+  "sleutel": "verkeer-bezoek|lfd",
+  "id": "verkeer-bezoek",
+  "slug": "lfd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "verkeer-bezoek",
+   "s": 1,
+   "kern": "Geen gratis bezoekersparkeren; bezoekers blijven het bezoekerstarief betalen.",
+   "toelichting": "De lijst was tegen gratis parkeren voor bezoek van bewoners. Ze wil betaald parkeren liever waar mogelijk terugdraaien dan steeds nieuwe uitzonderingen bedenken; haar toelichting zegt ook dat bezoek niet onnodig moet betalen.",
+   "citaat": "LFD wil betaald parkeren waar mogelijk terugdraaien, in plaats van steeds nieuwe uitzonderingsregelingen te bedenken.",
+   "bron": "Stemgids: 'Bezoekers van bewoners moeten gratis kunnen parkeren' (tegen); Raad Hilversum, 12-11-2025: A25-108, tegen",
+   "soort": "stemgids",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "bezoek mag niets kosten; liever betaald parkeren terugdraaien",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "verkeer-eerste-uur|lfd",
+  "id": "verkeer-eerste-uur",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-eerste-uur",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "kort parkeren op straat eenvoudig houden",
+   "basis": "programma p.19"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|lfd",
+  "id": "verkeer-vergunning",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "tarieven kostentransparant, geen verborgen belasting",
+   "basis": "programma p.19"
+  }
+ },
+ {
+  "sleutel": "verkeer-fietspad|lfd",
+  "id": "verkeer-fietspad",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-fietspad",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "kiest niet tussen fiets en auto",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "klimaat-warmtenet-markt|lfd",
+  "id": "klimaat-warmtenet-markt",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-warmtenet-markt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "Geen blanco cheque voor gemeentelijk energieproject",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "klimaat-kern-locatie|lfd",
+  "id": "klimaat-kern-locatie",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "klimaat-kern-locatie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Onderzoek mag, maar geen blanco cheque",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "natuur-snelvaren|lfd",
+  "id": "natuur-snelvaren",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-snelvaren",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "varen moet mogelijk blijven, met respect voor gebruiksrechten",
+   "basis": "mijnstem, afgeleid"
+  }
+ },
+ {
+  "sleutel": "zorg-bijstand-tegenprestatie|lfd",
+  "id": "zorg-bijstand-tegenprestatie",
+  "slug": "lfd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "zorg-bijstand-tegenprestatie",
+   "s": 1,
+   "kern": "Wederkerigheid kan, mits individueel, tijdelijk en zonder verdringing van werk.",
+   "toelichting": "De lijst vindt ondersteuning niet volledig vrijblijvend, maar uitkeringsgerechtigden zijn geen gratis arbeidskrachten. Afspraken over maatschappelijke inzet moeten individueel, proportioneel, tijdelijk en gericht op perspectief zijn en geen regulier werk verdringen.",
+   "citaat": "Afspraken over scholing, re-integratie en maatschappelijke inzet zijn individueel, proportioneel, tijdelijk en gericht op perspectief.",
+   "bron": "p. 26 (W – Werk & Inkomen)",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": -1,
+   "kern": "afspraken individueel en tijdelijk; geen gratis arbeidskrachten",
+   "basis": "programma p.26"
+  }
+ },
+ {
+  "sleutel": "asiel-instroom-voorwaarde|lfd",
+  "id": "asiel-instroom-voorwaarde",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-instroom-voorwaarde",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "nieuwe locaties krijgen niet vanzelf medewerking",
+   "basis": "programma p.3"
+  }
+ },
+ {
+  "sleutel": "asiel-spreidingswet-afschaffen|lfd",
+  "id": "asiel-spreidingswet-afschaffen",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-spreidingswet-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "geen gedwongen opvang; asiel is landelijke taak",
+   "basis": "programma p.3"
+  }
+ },
+ {
+  "sleutel": "asiel-welkomstprogramma|lfd",
+  "id": "asiel-welkomstprogramma",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-welkomstprogramma",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "gemeente is geen opvoeder; eerst noodzaak aantonen",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "asiel-regenbooggeld|lfd",
+  "id": "asiel-regenbooggeld",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-regenbooggeld",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "geen identiteitspolitiek; mensen als individu behandelen",
+   "basis": "programma p.20"
+  }
+ },
+ {
+  "sleutel": "economie-plassen-uitbreiden|lfd",
+  "id": "economie-plassen-uitbreiden",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-plassen-uitbreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "kiest niet tussen recreatie en natuur",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "cultuur-dorpsgarantie|lfd",
+  "id": "cultuur-dorpsgarantie",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-dorpsgarantie",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "maatwerk; niet automatisch harmoniseren naar het duurste niveau",
+   "basis": "programma p.14"
+  }
+ },
+ {
+  "sleutel": "cultuur-sportevenementen|lfd",
+  "id": "cultuur-sportevenementen",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-sportevenementen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "gemeenschapsgeld geen subsidiepot; particulier initiatief voorop",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|lfd",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "besluiten dicht bij inwoners, maar geen extra bestuurslaag",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-heffing-draagkracht|lfd",
+  "id": "financien-heffing-draagkracht",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-heffing-draagkracht",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "eenvoudige heffing, geen gedragssturing of verdienmodel",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "financien-inhuur-vaste-banen|lfd",
+  "id": "financien-inhuur-vaste-banen",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-inhuur-vaste-banen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "eerst eigen organisatie en uitgaven kritisch bekijken",
+   "basis": "programma p.8"
+  }
+ },
+ {
+  "sleutel": "financien-investeringen-spreiden|lfd",
+  "id": "financien-investeringen-spreiden",
+  "slug": "lfd",
+  "soort": "alleen B",
+  "A": {
+   "id": "financien-investeringen-spreiden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "beheersbare schuldenlast, niets doorschuiven naar later",
+   "basis": "programma p.8"
+  }
+ }
+]

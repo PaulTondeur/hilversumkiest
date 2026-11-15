@@ -1,0 +1,203 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|pro",
+  "id": "wonen-eigen-behoefte",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "Regionaal minstens 66 procent betaalbaar aanbod; tempo omhoog",
+   "basis": "programma p.4"
+  }
+ },
+ {
+  "sleutel": "wonen-nederhorst-noord-open|pro",
+  "id": "wonen-nederhorst-noord-open",
+  "slug": "pro",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "wonen-nederhorst-noord-open",
+   "s": 1,
+   "kern": "Wijdemeerse voorganger weigerde een woonwijk in Nederhorst-Noord",
+   "toelichting": "In 2022 stemde PvdA-GroenLinks in Wijdemeren voor definitieve weigering van een woonwijk van circa 150 woningen ten noorden van Nederhorst den Berg. Het programma van 2026 noemt het gebied niet en wil wel meer bouwen, ook op nieuwe locaties.",
+   "citaat": null,
+   "bron": "Raad Wijdemeren, 27-10-2022: weigering verklaring van geen bedenkingen Nederhorst den Berg Noord (PvdA-GroenLinks voor weigeren, aangenomen 14-4)",
+   "soort": "stemgedrag",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "wonen-parkeernorm|pro",
+  "id": "wonen-parkeernorm",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-parkeernorm",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Maatwerk in parkeernormen waar wonen en zorg samengaan",
+   "basis": "programma p.7"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|pro",
+  "id": "verkeer-vergunning",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "eerlijk betalen; tweede vergunning duurder",
+   "basis": "programma p.32"
+  }
+ },
+ {
+  "sleutel": "veiligheid-coffeeshops-scholen|pro",
+  "id": "veiligheid-coffeeshops-scholen",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-coffeeshops-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "coffeeshops buiten de woonwijken",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "asiel-blijvende-opvang|pro",
+  "id": "asiel-blijvende-opvang",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-blijvende-opvang",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "asielzoekers zijn er altijd; structureel meewerken",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "asiel-kader-dorpen|pro",
+  "id": "asiel-kader-dorpen",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-kader-dorpen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "bouwt voort op het 'gesprek met de stad'",
+   "basis": "hilversumsnieuws"
+  }
+ },
+ {
+  "sleutel": "asiel-regenbooggeld|pro",
+  "id": "asiel-regenbooggeld",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "asiel-regenbooggeld",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "budget voor lokaal inclusiebeleid vergroten",
+   "basis": "programma p.21"
+  }
+ },
+ {
+  "sleutel": "economie-centrum-compacter|pro",
+  "id": "economie-centrum-compacter",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-centrum-compacter",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "voorkeur voor compacte winkelgebieden",
+   "basis": "programma p.35"
+  }
+ },
+ {
+  "sleutel": "economie-stadsfonds-afschaffen|pro",
+  "id": "economie-stadsfonds-afschaffen",
+  "slug": "pro",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-stadsfonds-afschaffen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "alle ondernemerssteun in kaart brengen en evalueren",
+   "basis": "programma p.35"
+  }
+ }
+]

@@ -1,0 +1,421 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Opvangplekken voor asielzoekers: ",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "BBB wil de opvang van asielzoekers beperkt houden. De druk op onze voorzieningen, onderwijs, zorg en de al krappe woningmarkt is nu te groot.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "24 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Het kan wel een tandje minder. Immers lopen eigen inwoners op vele fronten vast. Er is geen eerlijke verdeling. Mensen uit de regio zijn dak- en thuisloos, maar passende nood voorzieningen zijn er niet. Eerst eigen zaakjes op orde, daarna anderen helpen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "De gemeente moet zich houden aan wettelijke verplichtingen, maar niet méér opvang realiseren dan nodig is. Eerst voldoende woningen, zorg en voorzieningen voor eigen inwoners, daarna ruimte voor extra taken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "38 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Hilversum neemt haar verantwoordelijkheid voor de wettelijke opvangtaak. Dat doen we zorgvuldig en in goed overleg met inwoners. Daarbij hebben we nadrukkelijk oog voor de leefbaarheid en veiligheid in buurten en investeren we daarin.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "54 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "De ChristenUnie wil dat Hilversum verantwoordelijkheid neemt voor voldoende opvang conform de Spreidingswet. Draagvlak en betrokkenheid van omwonenden is daarbij erg belangrijk, net als goede afspraken voor de veiligheid en leefbaarheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "58 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Mensen die vluchten voor oorlog en geweld verdienen bescherming. D66 staat hiervoor en wil in elk geval voldoen aan de spreidingswet. Belangrijker dan het aantal is dat de opvang goed geregeld is, kleinschalig in de wijk met inburgering vanaf dag één.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "DvD wil geen nieuwe azc's en de bestaande opvang afbouwen. Onze dorpen en buurten zijn geen permanente opvanglocaties: woningen en voorzieningen moeten in de eerste plaats beschikbaar blijven voor de eigen inwoners.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "1 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "In onze gemeente geen nieuwe opvanglocaties, geen AZC’s, geen noodopvang — niet op Crailoo, niet in het Noordse Bosje, nergens. Wij willen de noodopvang in Loosdrecht en die in Gooiland sluiten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "11 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Mensen die vluchten voor oorlog en geweld verdienen een humane opvang. Gewoon, Hilversum betreft kleinschalig, beheersbaar en passend bij de omgeving. Een groot, regionaal AZC voldoet hier niet aan, gezien de uitkomsten van de participatie met inwoners.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "19 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Wij kiezen voor zo beperkt mogelijke opvang en voeren wettelijke verplichtingen uit. De omvang moet passen bij de draagkracht van buurten en voorzieningen. Bewoners worden tijdig betrokken; goede begeleiding en integratie zijn essentieel.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "0 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "De LFD wil niet méér opvang realiseren dan wettelijk verplicht. Zolang wettelijke opvangtaken gelden, kiest LFD voor maximale lokale zeggenschap, kleinschaligheid en tijdelijke, toetsbare afspraken, met volledige vergoeding door het Rijk.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "50 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Lokaal Eén houdt zich aan de verplichtingen vanuit de Spreidingswet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "62 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Niet per se meer, maar ook zeker niet minder. Wel nadruk op humane opvang/AZC, liefst binnen de bebouwde kom en in samenspraak met de buurt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "68 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Huisvesting voor statushouders, asielzoekers en Oekraïense vluchtelingen moet in Nederland op een eerlijke manier geregeld worden. Hilversum werkt daar natuurlijk aan mee. We voeren de spreidingswet uit. Statushouders houden recht op urgentie.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "74 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Wie vlucht voor oorlog of gevaar, moet een veilige plek kunnen vinden. Hilversum-Wijdemeren moet het aantal plekken bieden dat volgt uit de Spreidingswet. Als we meer geschikte plekken kunnen vinden, moet Hilversum-Wijdemeren ruimhartig zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "12 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Wij staan voor menswaardige opvang, maar deze moet beheersbaar blijven voor Hilversum en haar inwoners. Hilversum moet niet meer mensen opvangen dan het vastgestelde gemeentelijke aantal.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "50 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Wij staan voor humane asielopvang. Dat willen we niet alleen overlaten aan een paar gemeentes zoals Ter Apel. We moeten wel alleen doen wat we aankunnen. Dat vraagt kleinschalige opvang, een gemengde samenstelling en goed overleg met de buurt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "31 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "We bieden opvang voor echte vluchtelingen volgens onze wettelijke plicht, passend bij de schaal van de omgeving. Veiligheid en leefbaarheid staan voorop. We maken duidelijke afspraken, altijd vooraf en in samenspraak met de buurt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "51 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "Mensen die op de vlucht zijn voor oorlog, geweld en vervolging vangen we op. De vraag hoe de opvang het beste kan worden geregeld leggen we voor aan onze inwoners. We zorgen voor integratie vanaf het begin.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "35 (schuifbalk 0=zo beperkt mogelijk, 100=meer dan landelijk verplicht)",
+    "toelichting": "We voldoen aan onze wettelijke verplichtingen, maar willen geen extra opvang bovenop wat landelijk van ons wordt gevraagd. Geen extra opvang zolang Den Haag de instroom onvoldoende beperkt. Asiel gaat niet boven alles.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Vluchtelingen met een verblijfsvergunning (statushouders) moeten voorrang houden bij een sociale huurwoning.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Wij vinden dit geen eerlijke verdeling en het is onrechtvaardig voor mensen die al jaren op een wachtlijst staan. Het grootste probleem is dat kinderen gedwongen worden om veel te lang bij hun ouders thuis te blijven wonen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Zonder deze voorrangsregeling zijn de kansen op een reguliere woning voor statushouders gering en moeten zij (te) lang in een AZC verblijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Mensen die vluchten voor oorlog en geweld verdienen bescherming. D66 wil woonruimte voor iedereen, ook voor statushouders, en inburgering vanaf dag één, zodat ze snel mee kunnen doen in de buurt waar ze wonen. Dit betekent dat de huidige regeling nog nodig blijft.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Het CDA Hilversum wil vooral de mogelijkheden benutten om inwoners met lokale binding te behouden voor onze gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "Lokaal Eén wil vooruitlopend op wetgeving de voorrangsregeling voor statushouders omzetten naar reguliere urgentieregeling met bemiddeling. Zo houden we de kansen voor allen die met spoed recht hebben op een sociale huurwoning gelijk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "tegen",
+    "toelichting": "De SP vindt dat statushouders niet puur vanwege hun status voorrang moeten krijgen op andere woningzoekenden die vaak ook al jaren op een wachtlijst staan. Er moeten gewoon veel meer betaalbare woningen bijkomen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "We moeten hierin gewoon de landelijke regels volgen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Statushouders mogen geen automatische voorrang krijgen boven inwoners die soms al jaren op een woning wachten. Dezelfde heldere en eerlijke regels moeten voor alle woningzoekenden gelden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen binnen de wettelijke mogelijkheden voorrang geven aan woningzoekenden met een sterke binding met Hilversum. Ook werkende of studerende statushouders kunnen hiervoor in aanmerking komen, evenals gezinnen met minderjarige kinderen die hier al verblijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Woningen zijn schaars. Ook andere spoedzoekers na bijvoorbeeld een scheiding zoeken woonruimte.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners van onze dorpen en buurten moeten voorrang krijgen bij sociale huurwoningen in hun eigen omgeving. De achterstelling van de huidige bevolking moet stoppen: wie hier woont, werkt en een leven heeft opgebouwd, verdient een eerlijke kans op een woning.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Wij staan voor een eerlijke, transparante woningmarkt. Voorrang krijg je bij ons op basis van medische of sociale urgentie, waarbij dezelfde regels voor iedereen gelden. Een verblijfsstatus is op zichzelf geen reden om iemand die al lang wacht te passeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Hilversum blijft zich onverminderd inzetten om te voldoen aan de taakstelling huisvesting statushouders.”",
+    "herkomst": "Verkiezingsprogramma, p. 43"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Dit zorgt voor een oneerlijke verdeling. Er zijn zoveel spoedzoekers, urgenten en dak- en thuislozen die geen woning krijgen dat je dit niet meer kan verantwoorden, ook niet voor mensen die al jaren wachten op een woning. Gewoon net als ieder ander wachten tot je aan de beurt bent.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Een verblijfsvergunning mag geen automatisch voorrangsbewijs voor een sociale huurwoning zijn. LFD staat voor gelijke behandeling van woningzoekenden. Wie al jarenlang op een woning wacht, mag niet telkens achteraan aansluiten. Het woningtekort lossen we op door meer woningen mogelijk te maken, niet [door voorrang voor bepaalde groepen].",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We gaan 6.500 woningen realiseren voor 2040. Hiervan gaat een zeer klein aantal woningen naar statushouders.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Wij willen voorrang voor kerngebonden inwoners, dus Hilversummers en Wijdemeerders. Wij willen geen automatische voorrang voor statushouders bij sociale huurwoningen. Woningzoekenden moeten op basis van duidelijke en gelijke regels worden behandeld, met ruimte voor wettelijk geregelde urgentie.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "BBB vindt de automatische voorrang voor statushouders op de krappe woningmarkt onrechtvaardig tegenover inwoners die al jaren op een wachtlijst staan. Woningen moeten in de eerste plaats worden toegewezen aan mensen uit de eigen gemeente met een sterke lokale binding.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De gemeente moet asielzoekers blijven opvangen, ook als de Spreidingswet wordt ingetrokken.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Als lokale partij beperken we ons tot de wettelijke taak voor het huisvesten van asielzoekers, die ons met halfjaarlijkse taakstellingen worden opgelegd. Er dient echter ook wel een beperking op de instroom te komen zoals de regering ons heeft beloofd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO staat voor een humane opvang van asielzoekers. Asielzoekers zullen er immers altijd zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "Mensen die vluchten voor oorlog en geweld verdienen bescherming. D66 wil de verantwoordelijkheid voor een humane opvang blijven nemen, met kleinschalige opvang in de wijk en inburgering vanaf dag één.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "„De VVD staat kritisch tegenover verdere uitbreiding van opvang zolang Den Haag de instroom onvoldoende beperkt.”",
+    "herkomst": "Verkiezingsprogramma, p. 13"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Er moet in Nederland voldoende ruimte blijven om vluchtelingen te blijven opvangen; daar waar Hilversum al kansrijke asielzoekers opvangt hoeft deze niet ineens te sluiten wanneer de spreidingswet wordt ingetrokken. Extra locaties zijn dan minder voor de hand liggend.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "De Spreidingswet is er. Daar willen wij aan voldoen met een beheersbare invulling, passend bij de schaal en draagkracht van onze gemeente, in nauw overleg met de samenleving. Dat betekent kleinschalige opvang, verspreid door de gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Een gemengde groep bewoners, kleinschalig, verspreid over de hele gemeente, in overleg met de buurt, ook in de rijkere buurten met de voorzieningen die daarbij horen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "Opvang van asielzoekers is een gezamenlijke verantwoordelijkheid van het Rijk en alle gemeenten samen. Ook Hilversum moet zijn steentje bijdragen om vluchtelingen een menswaardige opvang te kunnen bieden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Zonder wettelijke verplichting moet Hilversum geen extra opvang organiseren. Eerst moeten woningen, zorg, veiligheid en voorzieningen voor eigen inwoners op orde zijn. Geen vrijwillige uitbreiding boven de landelijke taakstelling.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Mensen die vluchten voor oorlog of vervolging verdienen menswaardige opvang. Ook als de wettelijke verplichting verandert, willen we verantwoordelijkheid blijven nemen. De opvang moet beheersbaar zijn, met duidelijke afspraken over aantallen, veiligheid, leefbaarheid en voorzieningen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Asielinstroom moet echt omlaag. We hebben gewoon te weinig woonruimte, huisartsen, zorgverleners enz. om nu asielopvang te doen. Echte oorlogsvluchtelingen vangen we op, maar wel vanaf dag 1 zodat ze kunnen meedoen in onze gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners moeten een doorslaggevende stem hebben bij besluiten die hun directe leefomgeving raken. DvD wil zeggenschap terugbrengen naar het dorp en de wijk, onder andere via dorps- en wijkraden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Wij kijken realistisch naar wat onze eigen gemeente aankan. We nemen verantwoordelijkheid voor onze wettelijke plichten, maar schalen niet vrijwillig op zonder draagvlak. Veiligheid, lokale voorzieningen en leefbaarheid staan altijd stipt op nummer één.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "Het standpunt van de Partij voor de Dieren is dat wie vlucht voor oorlog of gevaar een veilige plek moet kunnen vinden. Hilversum-Wijdemeren moet minimaal het aantal plekken bieden dat volgt uit de Spreidingswet. Als deze wordt ingetrokken, hebben mensen nog steeds een veilig heenkomen nodig.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Belangrijk is wel dat we eerst de basis op orde moeten hebben en zorgen dat inwoners een dak boven hun hoofd hebben. Daarna samen bepalen welk aantal en welke doelgroepen we willen opvangen en waar we denken dat we ze kunnen opvangen. Opvang betekent niet automatisch ook een eigen huis in de regio.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Asielbeleid is een landelijke verantwoordelijkheid. LFD vindt dat de gemeente wettelijke verplichtingen moet nakomen, maar niet vrijwillig nieuwe opvangtaken moet overnemen als die verplichting vervalt. Lokale zeggenschap en de belangen van omwonenden staan voorop.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Wij nemen onze verantwoordelijkheid om mensen op te vangen die worden vervolgd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Forum voor Democratie verzet zich tegen de Spreidingswet en gedwongen opvang. Wij willen geen extra opvangplekken in Hilversum of de dorpen, geen voorkeursbeleid voor statushouders en sluiting van bestaande opvanglocaties.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "Onze lokale voorzieningen, woningmarkt en zorg staan al onder enorme druk. BBB vindt dat de gemeente niet vrijwillig extra opvang moet blijven organiseren zodra de landelijke verplichting wegvalt. De prioriteit moet primair liggen bij onze inwoners en starters.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "hilversumsnieuws",
+  "stelling": "Nieuwe opvanglocaties voor asielzoekers moeten alleen komen als omwonenden vooraf kunnen instemmen",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Als er geen overeenstemming is met de buurt en de directe omgeving is het opvangen van asielzoekers dan wel statushouders een zeer moeilijke opgave. Kleinschalig zodat de buurt het aankan is het uitgangspunt. Er is veel bereidwilligheid om mensen op te vangen maar wel op een schaal die past in een buurt, wijk of dorp. Ga dus vroeg het gesprek…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "pro": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Huisvesting voor asielzoekers moet in Nederland op een eerlijke manier geregeld worden. Wat ons betreft werkt Hilversum daaraan mee en voeren we de Spreidingswet uit. We hebben de laatste jaren in Hilversum veel gedaan om inwoners te betrekken bij de manier waarop we dat doen, via het initiatief ‘gesprek met de stad’. Op basis van de zorgen en ideeën die…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "d66": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Mensen die vluchten voor oorlog en geweld verdienen bescherming en elke gemeente moet bijdragen aan asielopvang. Hilversum koos in 2023, na een uitgebreid gesprek met inwoners, voor kleinschalige opvang in de wijk. Inwoners laten meepraten over hoe we dat doen vinden we belangrijk. Na een locatiekeuze gaan we in gesprek met de inwoners over hoe het past in de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "vvd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Hoewel het verleidelijk is ‘eens!’ te roepen op deze stelling, zit de werkelijkheid weerbarstiger in elkaar. De gemeente moet met alle betrokkenen in gesprek, maar wat als bewoners nergens mee instemmen? Raadsleden en wethouders hebben zich te houden aan de wet (dat moeten zij beloven bij hun installatie) en de spreidingswet is ook een wet. Iedereen die roept dat het…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "cda": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Het CDA voert de Spreidingswet uit. Wij stellen als voorwaarde, zoals eerder met onze inwoners besproken, dat de opvang van asielzoekers kleinschalig, geschikt voor gezinnen en passend bij de draagkracht van een buurt moet zijn. Daarbij is het van belang dat samen met de buurt wordt gekeken welke investeringen er nodig zijn om de leefbaarheid te verbeteren en ervoor te…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "lokaal-een": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Lokaal Eén erkent de verantwoordelijkheid voor opvang van vluchtelingen. Dat willen we doen in nauw overleg met de samenleving, met een beheersbare invulling, passend bij de schaal en draagkracht van onze gemeente. Inwoners mogen niet overvallen worden. Wij zien graag duurzame oplossingen, zodat voorspelbaar en consistent beleid wordt gevolgd. Dat betekent kleinschalige opvang, verspreid door de gemeente, opdat maatschappelijke problemen…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "sp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Vluchtelingen willen en moeten wij opvangen. Omdat wij mensen die vluchten voor oorlog of geweld een veilige plek willen geven. Onze voorwaarden: Niet meer dan 50 tot 100 mensen per locatie. In overleg met de buurt. Mensen mogen niet voor een voldongen feit komen te staan. Is er een geschikte locatie gevonden, dan gaat de gemeente eerst in gesprek met…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "christenunie": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "ChristenUnie vindt het belangrijk dat omwonenden vanaf het begin goed betrokken worden bij nieuwe opvanglocaties voor asielzoekers. Dit is erg belangrijk om samen te zorgen voor de leefbaarheid en veiligheid van zowel de toekomstige bewoners als de omwonenden en de omgeving. De keuze voor de locatie ligt echter bij de gemeenteraad en niet bij de omwonenden. De opvang van mensen…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "bvnl": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Omwonenden verdienen een echte stem wanneer een nieuwe opvanglocatie voor asielzoekers direct invloed heeft op hun buurt. Draagvlak organiseer je niet achteraf, maar vooraf. Daarom zijn wij het eens met de stelling: nieuwe opvanglocaties horen alleen te komen wanneer omwonenden vooraf daadwerkelijk kunnen instemmen. De gemeente hoort inwoners tijdig en volledig te informeren over de locatie, omvang, duur, veiligheid, kosten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "scb": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "SCB vindt dat omwonenden vanaf het begin serieus betrokken moeten worden bij plannen voor nieuwe opvanglocaties. Wij willen ons steentje bijdragen door menswaardige opvang te bieden aan mensen die gevlucht zijn voor oorlog en vervolging. Dit moet wel passen binnen de capaciteiten en mogelijkheden van onze gemeente. Daarbij moeten we ook oog houden voor de belangen en behoeften van onze…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Nieuwe opvanglocaties voor asielzoekers mogen er enkel komen als ze passen in de kaders die in 2023 zijn gesteld. Gewoon, Hilversum staat voor kleinschalig verdeeld over de wijken, buurten, dorpen en zeker ook enkel met draagvlak van de wijk. Geen stiekem of geheim gedoe, geen groot AZC en geen noodopvang!",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Dorp voor Dorp is tegen nieuwe asielzoekerscentra (AZC’s) en vindt dat nieuwkomers geen voorrang moeten krijgen op de woningmarkt. Met de huidige woningnood moeten beschikbare woningen volgens de partij in de eerste plaats toegankelijk zijn voor inwoners, jongeren, ouderen en mensen die hier werken. DvD benadrukt dat ruimte, woningen en voorzieningen zoals zorg en onderwijs niet onbeperkt beschikbaar zijn. Bij…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. De kernwaarde van onze partij is: ‘Eerst luisteren. Dan besluiten’. Omwonenden moeten vooraf een zwaarwegende stem krijgen. Wij controleren altijd inhoudelijk of participatie écht heeft plaatsgevonden en duiken daar scherp in. Echte inspraak mag niet langer degraderen tot een bestuurlijke afvinkoefening, wat nu helaas wél de dagelijkse praktijk is! We voldoen aan de wet, maar de draagkracht van wijk…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "opstand-nu": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Dat lijkt ons een slecht plan. Asielzoekers opnemen is een kwestie van beschaving, van solidair zijn met elkaar, óók met andere Nederlandse gemeenten. Als je ‘verdedig Nederland!’ in het Engels brult, vergeet je waarom mensen vluchten en waarom die opvang ook bij ons nodig is. Wel vindt OpStand.nu dat de buurt het aan moet kunnen. We moeten de opvang zo…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "pvdd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Het standpunt van de Partij voor de Dieren is dat wie vlucht voor oorlog of gevaar een veilige plek moet kunnen vinden. Hilversum-Wijdemeren moet minimaal het aantal plekken bieden dat volgt uit de Spreidingswet. Als we meer geschikte plekken kunnen vinden, moet Hilversum-Wijdemeren ruimhartig zijn. In 2023 organiseerde de gemeente Hilversum een ‘Gesprek met de stad’ over asielopvang. Er was…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Het belangrijkste is dat je als overheid samen zoekt met de inwoners naar de verschillende opties en mogelijkheden. Zeggenschap, serieus genomen worden en meedenken over de juiste oplossingen doe je samen met de bewoners en niet over de rug van de bewoners. De beslissing maak je samen: niet alleen de stem van de inwoners maar zeker niet alleen de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "lfd": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Nieuwe opvanglocaties mogen niet zonder daadwerkelijke betrokkenheid en instemming van de omgeving worden doorgedrukt. Inwoners moeten vooraf weten wat de gevolgen zijn voor hun veiligheid, leefbaarheid, voorzieningen en woonomgeving. LFD is tegen gedwongen grootschalige opvang zonder lokale instemming. Participatie betekent niet dat inwoners achteraf worden geïnformeerd over besluiten die al vaststaan. Hun mening moet daadwerkelijk gewicht hebben en ook…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "volt": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Mensen die vluchten voor oorlog en geweld vangen we op, op basis van de Spreidingswet. We laten inwoners en ondernemers actief meedenken over de manier waarop we dat doen. Dat doen we door bijeenkomsten en het inzetten van een digitale dialoog. Samen met inwoners en ondernemers bepalen we aan welke voorwaarden de opvang moet voldoen. Bijvoorbeeld: kleinschalig, verspreid over de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "fvd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Wij willen in Hilversum en de Wijdemeerse kernen geen opvanglocaties, AZC’s of noodopvang, ook niet op Crailo of in het Noordse Bosje. Wij willen de opvang in Gooiland sluiten. Een meerderheid van de bevolking wil dat het kabinet meer doet om immigratie te beperken. Het kabinet zegt dat te doen. Wij sorteren vóór op de omstandigheid dat Nederland net als…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   },
+   "bbb": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Onze eigen woningzoekenden moeten eerst geholpen worden aan een passende woning; dat willen we nu fixen in plaats van prioriteit te geven aan noodopvang. Daarnaast kan opvanglocatie kan alleen slagen als er voldoende draagvlak is in de buurt. Dat draagvlak creëer je door heldere en tijdige communicatie vooraf en door omwonenden en inwoners echt serieus te betrekken bij de…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (12 nov 2026)"
+   }
+  }
+ }
+]

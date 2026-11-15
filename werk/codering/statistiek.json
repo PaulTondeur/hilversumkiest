@@ -1,0 +1,16 @@
+{
+ "gelijk": 740,
+ "beideNull": 480,
+ "eenStap": 364,
+ "conflict": 35,
+ "alleenA": 41,
+ "alleenB": 400,
+ "totaal": 2060,
+ "zonderA": 0,
+ "beslecht": 421,
+ "audit": {
+  "score": 69,
+  "tekst": 85,
+  "vervallen": 48
+ }
+}

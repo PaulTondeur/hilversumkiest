@@ -1,0 +1,842 @@
+{
+  "slug": "bvnl",
+  "kernboodschap": "BVNL Hilversum presenteert zich als enige klassiek liberale partij in Hilversum, onder de naam Gezamenlijk Belang. De partij wil een kleine overheid die zich richt op kerntaken (veiligheid, wonen, mobiliteit, zorg, lokale economie), lagere lasten, minder bureaucratie en meer vrijheid voor inwoners en ondernemers. Het programma combineert Hilversum en Wijdemeren en legt accenten op wonen voor eigen inwoners, harde handhaving, auto-bereikbaarheid en duurzaamheid zonder dwang.",
+  "speerpunten": [
+    "Lagere lokale lasten op wonen, afval en parkeren; geen prestigeprojecten",
+    "Bevriezen van de groei van het ambtelijk apparaat en minder externe inhuur",
+    "Wonen voor eigen inwoners, met voorrang voor lokaal gebonden woningzoekenden",
+    "Meer wijkagenten en boa's, cameratoezicht op hotspots en harde aanpak van overlast",
+    "Bindende referenda en openbare coalitieonderhandelingen",
+    "Auto-bereikbaarheid: voldoende parkeerplaatsen, geen zero-emissiezones, geen windturbines en zonneparken op onbebouwd gebied",
+    "Behoud van natuur, open landschap en boerenbedrijven in Wijdemeren",
+    "Zo vrij mogelijke winkel- en horecatijden en minder regels voor het MKB"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "voorrang lokaal gebonden woningzoekenden",
+        "standpunt": "Voorrang voor woningzoekenden met een lokale binding, zoals jongeren, mantelzorgers en mensen met werk in Hilversum.",
+        "citaat": "Voorrang voor lokaal gebonden woningzoekenden jongeren, mantelzorgers, mensen met werk in Hilversum.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorrang doelgroepen (debatstelling)",
+        "standpunt": "Gelijke behandeling is uitgangspunt; voorrang voor bepaalde doelgroepen alleen in uitzonderlijke situaties.",
+        "citaat": "Iedereen gelijk behandelen. Voorrang alleen in uitzonderlijke situaties.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "statushouders sociale huur",
+        "standpunt": "Statushouders krijgen geen voorrang op een sociale huurwoning.",
+        "citaat": "Statushouders krijgen géén voorrang op sociale huur.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "sociale huur bij nieuwbouw",
+        "standpunt": "Meer woningen bouwen, maar geen starre quota voor sociale huur die projecten vertragen.",
+        "citaat": "Bouw meer woningen, maar voorkom starre quota die projecten vertragen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "versnellen woningbouw",
+        "standpunt": "Bouw versnellen via eenvoudigere vergunningen en aangepaste bestemmingsplannen.",
+        "citaat": "Versnel bouw door eenvoudigere vergunningen en aangepaste bestemmingsplannen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "leegstaande kantoren en splitsen",
+        "standpunt": "Leegstaande kantoren snel ombouwen tot woningen en woningsplitsing toestaan.",
+        "citaat": "Leegstaande kantoren snel ombouwen tot woningen; woningsplitsing toestaan.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hoogbouw",
+        "standpunt": "Hoogbouw toestaan waar passend en gewenst; niet dogmatisch voor of tegen.",
+        "citaat": "Toestaan waar passend en gewenst, niet dogmatisch voor of tegen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "starters en senioren",
+        "standpunt": "Meer betaalbare woningen voor starters en geschikte seniorenwoningen om doorstroming op gang te brengen, bouwend naar de behoefte van eigen inwoners.",
+        "citaat": "Geschikte seniorenwoningen zodat doorstroming op gang komt.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schaal van bouwen in Wijdemeren",
+        "standpunt": "Groei is nodig, maar geen grootschalige verstedelijking die het dorpse karakter aantast.",
+        "citaat": "Geen grootschalige verstedelijking die het dorpse karakter aantast.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "transparante prijsstelling",
+        "standpunt": "Parkeer- en nutskosten moeten in de woningprijs zijn opgenomen, zodat er geen verborgen maandlasten zijn.",
+        "citaat": "Transparante prijsstelling: parkeer- en nutskosten opgenomen in de woningprijs, geen verborgen maandlasten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bestemming nieuwbouw",
+        "standpunt": "De vraag van inwoners en markt is leidend voor wat er gebouwd wordt, binnen duidelijke kaders.",
+        "citaat": "Vraag van inwoners en markt leidend binnen duidelijke kaders.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Railpro-terrein",
+        "standpunt": "Het Railpro-terrein zo inrichten dat het maximale maatschappelijke en economische waarde oplevert; geen concrete invulling genoemd.",
+        "citaat": "Maximale maatschappelijke en economische waarde voor inwoners.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren",
+        "standpunt": "Betaald parkeren is geen inkomstenbron voor de gemeente en wordt alleen ingevoerd bij aantoonbare parkeerdruk.",
+        "citaat": "Geen inkomstenbron voor de gemeente. Alleen bij aantoonbare parkeerdruk.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeeropbrengsten",
+        "standpunt": "Parkeeropbrengsten gaan terug naar bereikbaarheid; nieuwbouw krijgt altijd voldoende parkeerplaatsen.",
+        "citaat": "Parkeeropbrengsten gaan terug naar bereikbaarheid; nieuwbouw krijgt altijd voldoende parkeerplaatsen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "lagere parkeerlasten",
+        "standpunt": "Lagere lokale lasten op onder meer parkeren.",
+        "citaat": "Lagere lokale lasten op wonen, afval en parkeren; geld naar kerntaken, niet naar prestigeprojecten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "parkeervergunningen",
+        "standpunt": "Een eenvoudig vergunningensysteem met zo min mogelijk beperkingen voor bewoners.",
+        "citaat": "Eenvoudig systeem met zo min mogelijk beperkingen voor bewoners.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "parkeren aan de rand",
+        "standpunt": "Positief over parkeerplaatsen aan de rand van Hilversum, mits vrijwillig gebruikt en ondersteunend aan de bereikbaarheid.",
+        "citaat": "Positief, mits vrijwillig en ondersteunend aan bereikbaarheid van centrum en woonwijken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zero-emissiezones",
+        "standpunt": "Geen zero-emissiezones; elk door de RDW goedgekeurd voertuig blijft welkom.",
+        "citaat": "Géén zero-emissiezones elk RDW-goedgekeurd voertuig blijft welkom in Hilversum.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "maximumsnelheid bebouwde kom",
+        "standpunt": "Geen lagere snelheden zonder duidelijke noodzaak; veiligheid en doorstroming gelden beide.",
+        "citaat": "Veiligheid én doorstroming. Geen lagere snelheden zonder duidelijke noodzaak.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gelijke ruimte voor vervoermiddelen",
+        "standpunt": "Auto, fiets, OV en voetganger krijgen naast elkaar ruimte, zonder keuze voor één vervoermiddel.",
+        "citaat": "Ruimte voor auto, fiets, OV en voetganger. Geen ideologische keuze voor één vervoersmiddel.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "fiets, OV en wegen",
+        "standpunt": "Fietspaden uitbreiden binnen de bebouwde kom en OV, wegen en fietspaden in alle wijken op peil houden.",
+        "citaat": "Fietspaden uitbreiden binnen de bebouwde kom; OV, wegen en fietspaden op peil in álle wijken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "verkeersveiligheid dorpen",
+        "standpunt": "Meer aandacht voor verkeersveiligheid in de dorpen.",
+        "citaat": "Meer aandacht voor verkeersveiligheid.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gratis OV 65+",
+        "standpunt": "Gratis lokaal openbaar vervoer voor 65-plussers.",
+        "citaat": "Nieuwe seniorenhofjes, gratis lokaal OV voor 65+ en financiële steun voor mantelzorgers.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "windturbines en zonneparken",
+        "standpunt": "Geen windturbines en zonneparken op onbebouwd gebied; wel isolatie en zonnepanelen op bebouwing mits er lokaal draagvlak is.",
+        "citaat": "Isolatie en zonnepanelen op bebouwing ja mits lokaal draagvlak. Windturbines en zonneparken op onbebouwd gebied nee.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "windturbines buitengebied (debatstelling)",
+        "standpunt": "Windturbines in het buitengebied alleen bij lokaal draagvlak en aantoonbare meerwaarde.",
+        "citaat": "Alleen bij lokaal draagvlak en aantoonbare meerwaarde.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verduurzaming eigen gebouwen en bedrijven",
+        "standpunt": "De gemeente verduurzaamt eerst haar eigen gebouwen en stelt strenge regels aan vervuilende bedrijven.",
+        "citaat": "De gemeente verduurzaamt eerst haar eigen gebouwen; strenge regels voor bedrijven die vervuilen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "klimaatneutrale gemeente",
+        "standpunt": "Klimaatneutraal maken van de gemeente is acceptabel, mits realistisch, betaalbaar en zonder onnodige lasten voor inwoners.",
+        "citaat": "Ja, maar realistisch, betaalbaar en zonder onnodige lasten voor inwoners.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "diftar en nascheiding",
+        "standpunt": "Afval wordt nagescheiden en diftar (betalen per kilo) wordt afgeschaft.",
+        "citaat": "Nascheiding van afval; diftar (betalen per kilo) schaffen we af.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afvalheffing",
+        "standpunt": "Afvalheffing is kostendekkend en niet hoger dan noodzakelijk.",
+        "citaat": "Kostendekkend, niet meer dan noodzakelijk.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zwerfvuil en plaagdieren",
+        "standpunt": "Vogel- en meeuwproof vuilnisbakken, prioriteit voor plaagdierbestrijding en meer handhaving op zwerfvuil.",
+        "citaat": "Vogel- en meeuwproof vuilnisbakken, prioriteit voor plaagdierbestrijding en meer handhaving op zwerfvuil.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "verduurzaming monumenten",
+        "standpunt": "Verduurzaming van monumenten stimuleren waar technisch haalbaar en financieel verantwoord.",
+        "citaat": "Stimuleren waar technisch haalbaar en financieel verantwoord.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "natuur en open landschap",
+        "standpunt": "Bescherming van natuur en open landschap staat voorop; recreatie en toerisme mogen daar niet ten koste van gaan.",
+        "citaat": "Bescherming van natuur en open landschap staat voorop.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "boeren en landbouwgrond",
+        "standpunt": "Behoud van boerenbedrijven en landbouwgrond, met stimulering van lokale voedselproductie en korte voedselketens.",
+        "citaat": "Behoud van boerenbedrijven en landbouwgrond.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "recreatie en toerisme",
+        "standpunt": "Recreatie en toerisme moeten bijdragen aan leefbaarheid en gaan niet ten koste van natuur en inwoners.",
+        "citaat": "Recreatie en toerisme dragen bij aan leefbaarheid en gaan niet ten koste van natuur en inwoners.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sportvisserij Loosdrechtse Plassen",
+        "standpunt": "Steun voor sportvisserij in Wijdemeren, ook op de Loosdrechtse Plassen, met toegankelijke visplekken, ruimte voor hengelsportverenigingen en zonder onnodige verboden.",
+        "citaat": "Toegankelijke visplekken en ruimte voor lokale hengelsportverenigingen, met respect voor visrechten, vissenwelzijn, schoon water en natuur: vrijheid met verantwoordelijkheid, zonder onnodige verboden.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inrichting Loosdrechtse Plassen",
+        "standpunt": "Een balans tussen recreatie, natuur en ondernemerschap op de Loosdrechtse Plassen.",
+        "citaat": "Balans tussen recreatie, natuur en ondernemerschap.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "buitengebied",
+        "standpunt": "Het buitengebied beschermen tegen verrommeling, met respect voor eigendom en ondernemerschap.",
+        "citaat": "Beschermen tegen verrommeling, met respect voor eigendom en ondernemerschap.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "subsidies duurzame landbouw",
+        "standpunt": "Subsidies voor duurzame landbouw beperkt inzetten; innovatie stimuleren boven subsidieafhankelijkheid.",
+        "citaat": "Beperkt inzetten. Innovatie liever stimuleren dan afhankelijk maken van subsidies.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bestrijdingsmiddelen bij woningen en scholen",
+        "standpunt": "Bestrijdingsmiddelen rondom woningen en scholen voorzichtig toepassen op basis van wetenschap en gezondheidsrisico's, dus geen verbod.",
+        "citaat": "Voorzichtig toepassen op basis van wetenschap en gezondheidsrisico's.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "openbaar groen en maaibeleid",
+        "standpunt": "Onderhoud van openbaar groen moet efficiënt en betaalbaar zijn en biodiversiteit mag niet leiden tot verloederde wijken.",
+        "citaat": "Praktisch en verzorgd. Biodiversiteit mag niet leiden tot verloederde wijken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "versobering sociaal domein",
+        "standpunt": "De versobering van bijstand, Wmo, jeugdzorg en armoedebeleid stoppen.",
+        "citaat": "Stop de versobering van bijstand, WMO, jeugdzorg en armoedebeleid.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wachtlijsten",
+        "standpunt": "Wachtlijsten wegnemen via minder bureaucratie en snellere, gemotiveerde besluiten op maatwerk.",
+        "citaat": "Wachtlijsten weg door minder bureaucratie en snellere, gemotiveerde besluiten op maatwerk.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "managementlagen zorginstellingen",
+        "standpunt": "Geen subsidie voor zorginstellingen met topzware managementlagen.",
+        "citaat": "Zorginstellingen plat organiseren geen subsidie voor topzware managementlagen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "seniorenhofjes en mantelzorg",
+        "standpunt": "Nieuwe seniorenhofjes, gratis lokaal OV voor 65+ en financiële steun voor mantelzorgers.",
+        "citaat": "Nieuwe seniorenhofjes, gratis lokaal OV voor 65+ en financiële steun voor mantelzorgers.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hoogcomplexe jeugdzorg",
+        "standpunt": "Hoogcomplexe jeugdzorg gaat terug naar het Rijk; de gemeente richt zich op preventie en gezin.",
+        "citaat": "Hoogcomplexe jeugdzorg terug naar het Rijk; lokaal focus op preventie en gezin.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "armoederegelingen",
+        "standpunt": "Armoederegelingen zijn gericht op zelfredzaamheid en tijdelijke ondersteuning.",
+        "citaat": "Gericht op zelfredzaamheid en tijdelijke ondersteuning.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "dak- en thuislozen",
+        "standpunt": "Basisopvang bieden en dak- en thuislozen snel begeleiden naar zelfstandigheid.",
+        "citaat": "Basisopvang bieden en snel begeleiden naar zelfstandigheid.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "huishoudelijke hulp",
+        "standpunt": "Ondersteuning bij huishoudelijke hulp is toegankelijk voor wie het echt nodig heeft.",
+        "citaat": "Toegankelijk voor wie het echt nodig heeft.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "buurthuizen",
+        "standpunt": "Goed bezochte buurthuizen behouden hun subsidie.",
+        "citaat": "Goed bezochte buurthuizen behouden hun subsidie",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "wijkagenten en boa's",
+        "standpunt": "Meer wijkagenten en boa's; bezuinigen op boa's wordt uitgesloten.",
+        "citaat": "Meer wijkagenten en boa's die de buurt kennen bezuinigen op boa's is uitgesloten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "boa's buitengebied",
+        "standpunt": "Boa's in het buitengebied gericht inzetten waar overlast en criminaliteit spelen, zonder onnodige uitbreiding.",
+        "citaat": "Gericht inzetten waar overlast en criminaliteit spelen, geen onnodige uitbreiding.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "overlastgevers",
+        "standpunt": "Overlastgevers hard aanpakken, met verhaal van de kosten op daders of hun ouders.",
+        "citaat": "Overlastgevers hard aanpakken, met kostenverhaal op daders of ouders.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "Cameratoezicht op hotspots van criminaliteit en overlast met waarborgen; alleen waar aantoonbaar nodig, tijdelijk en proportioneel.",
+        "citaat": "Cameratoezicht op hotspots van criminaliteit en overlast, met heldere waarborgen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vuurwerk",
+        "standpunt": "Illegaal vuurwerk strikt aanpakken; siervuurwerk blijft toegestaan.",
+        "citaat": "Illegaal vuurwerk keihard aanpakken siervuurwerk blijft toegestaan.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "meldingsapp",
+        "standpunt": "Een meldingsapp voor straatterreur waarmee inwoners laagdrempelig en eventueel anoniem kunnen melden.",
+        "citaat": "Een meldingsapp voor straatterreur, zodat inwoners laagdrempelig (anoniem) kunnen melden.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "handhaving boven preventie",
+        "standpunt": "Minder preventiecampagnes en meer directe handhaving met zichtbare gevolgen.",
+        "citaat": "Minder vrijblijvende preventiecampagnes, meer directe handhaving met zichtbare gevolgen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "coffeeshops",
+        "standpunt": "Geen principieel standpunt voor of tegen coffeeshops; regulering op basis van orde, veiligheid en draagvlak.",
+        "citaat": "Geen principiële voor- of tegenstander. Reguleren op basis van orde, veiligheid en draagvlak.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Burgerwacht Wijdemeren",
+        "standpunt": "Waardering en ondersteuning voor de Burgerwacht Wijdemeren.",
+        "citaat": "Waardering en ondersteuning voor de Burgerwacht Wijdemeren",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "opvang asielzoekers",
+        "standpunt": "Sobere, tijdelijke huisvesting voor asielzoekers volgens SNF-normen en niet meer opvang dan de landelijke taakstelling verplicht.",
+        "citaat": "Sobere, tijdelijke huisvesting voor asielzoekers volgens SNF-normen niet méér opvang dan de landelijke taakstelling verplicht.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "opvangplekken voorwaarden",
+        "standpunt": "Opvangplekken voor asielzoekers alleen wanneer capaciteit, veiligheid en draagvlak voldoende zijn.",
+        "citaat": "Alleen wanneer capaciteit, veiligheid en draagvlak voldoende zijn.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "locatie opvang",
+        "standpunt": "Locaties voor asielopvang worden objectief afgewogen op bereikbaarheid, veiligheid en impact op de omgeving; geen locatie genoemd.",
+        "citaat": "Objectieve afweging op bereikbaarheid, veiligheid en impact op de omgeving.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "statushouders voorrang",
+        "standpunt": "Statushouders krijgen geen voorrang op sociale huur.",
+        "citaat": "Statushouders krijgen géén voorrang op sociale huur.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "internationale conflicten",
+        "standpunt": "De gemeente doet geen uitspraken over internationale conflicten.",
+        "citaat": "De gemeente doet géén uitspraken over internationale conflicten dat is geen kerntaak.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "winkel- en horecatijden",
+        "standpunt": "Zo vrij mogelijke winkel- en horecatijden, met minder bureaucratie en lagere lasten voor het MKB.",
+        "citaat": "Zo vrij mogelijke winkel- en horecatijden; minder bureaucratie en lagere lasten voor het MKB.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kernwinkelgebied",
+        "standpunt": "Leegstand aanpakken met een functiemix en een compacter kernwinkelgebied.",
+        "citaat": "Aantrekkelijke functiemix en een compacter kernwinkelgebied om leegstand aan te pakken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "vergunningen en bestemmingsplannen",
+        "standpunt": "Snelle vergunningverlening en flexibele bestemmingsplannen voor innovatieve bedrijven.",
+        "citaat": "Snelle vergunningverlening en flexibele bestemmingsplannen voor innovatieve bedrijven.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bereikbaarheid centrum",
+        "standpunt": "Voldoende parkeren, goede fietsvoorzieningen en veilige looproutes naar het centrum.",
+        "citaat": "Bereikbaarheid op peil: voldoende parkeren, goede fietsvoorzieningen en veilige looproutes.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "evenementen",
+        "standpunt": "Meer ruimte voor evenementen, waaronder Dutch Media Week, markten en culturele activiteiten.",
+        "citaat": "Meer ruimte voor evenementen en beleving Dutch Media Week, markten en culturele activiteiten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Mediapark",
+        "standpunt": "Op het Mediapark economische groei, innovatie en werkgelegenheid stimuleren.",
+        "citaat": "Economische groei, innovatie en werkgelegenheid stimuleren.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "regels voor ondernemers",
+        "standpunt": "Regels voor ondernemers vereenvoudigen en verminderen.",
+        "citaat": "Vereenvoudigen en verminderen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "MKB, digitalisering en stages",
+        "standpunt": "Steun voor MKB bij digitalisering en voor stage- en leerwerkplekken samen met het onderwijs.",
+        "citaat": "Steun voor MKB bij digitalisering en voor stage- en leerwerkplekken samen met het onderwijs.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "toerisme en toeristenbelasting",
+        "standpunt": "Toerisme stimuleren als het leefbaarheid en economie versterkt, en terughoudend zijn met toeristenbelasting.",
+        "citaat": "Terughoudend mee omgaan en niet als melkkoe gebruiken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schoon en veilig centrum",
+        "standpunt": "Een schoon, verzorgd en veilig centrum met effectieve handhaving en snel herstel.",
+        "citaat": "Een schoon, verzorgd en veilig centrum met effectieve handhaving en snel herstel.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "sport- en cultuurverenigingen",
+        "standpunt": "Steun voor sport- en cultuurverenigingen en voor de sportvissers.",
+        "citaat": "steun voor sport- en cultuurverenigingen en de sportvissers.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "monumenten",
+        "standpunt": "Erfgoed behouden tegen redelijke kosten.",
+        "citaat": "Erfgoed behouden tegen redelijke kosten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bibliotheek Loosdrecht",
+        "standpunt": "Basisvoorzieningen zoals de bibliotheek in Loosdrecht behouden als zij maatschappelijke waarde toevoegen.",
+        "citaat": "Basisvoorzieningen behouden als zij maatschappelijke waarde toevoegen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "praktijkonderwijs",
+        "standpunt": "Praktijkonderwijs en ambachtelijke opleidingen stimuleren, met meer mannelijke rolmodellen.",
+        "citaat": "Stimuleren van praktijkonderwijs en ambachtelijke opleidingen; meer mannelijke rolmodellen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "anti-pestbeleid en leerlingen",
+        "standpunt": "Actief anti-pestbeleid en aandacht voor zowel hoog- als laagpresterende leerlingen.",
+        "citaat": "Actief anti-pestbeleid en aandacht voor zowel hoog- als laagpresterende leerlingen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "seksuele voorlichting",
+        "standpunt": "Ouders hebben het laatste woord over deelname van hun kind aan seksuele voorlichting.",
+        "citaat": "Ouders hebben het laatste woord over deelname aan seksuele voorlichting.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "behoud scholen en verenigingen",
+        "standpunt": "Behoud van scholen, verenigingen en ontmoetingsplaatsen in de dorpen.",
+        "citaat": "Behoud van scholen, verenigingen en ontmoetingsplaatsen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "bindende referenda",
+        "standpunt": "Bindende referenda voor grote lokale besluiten.",
+        "citaat": "Bindende referenda voor grote lokale besluiten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "coalitieonderhandelingen",
+        "standpunt": "Coalitieonderhandelingen worden openbaar gevoerd.",
+        "citaat": "Openbare coalitieonderhandelingen iedereen kan zien welke keuzes worden gemaakt.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ja, tenzij",
+        "standpunt": "Verzoeken van inwoners worden standaard openbaar beantwoord volgens het principe 'ja, tenzij'.",
+        "citaat": "Verzoeken van inwoners worden standaard openbaar beantwoord volgens het principe 'ja, tenzij'.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regionale samenwerking",
+        "standpunt": "Samenwerking met Wijdemeren en Gooise Meren mag de eigen zeggenschap nooit uithollen.",
+        "citaat": "Samenwerking met Wijdemeren en Gooise Meren mag onze zeggenschap nooit uithollen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afdrachten regio",
+        "standpunt": "De afdrachten aan de Regio Gooi en Vechtstreek worden herzien.",
+        "citaat": "Hilversum eerst we herzien onze afdrachten aan de Regio Gooi en Vechtstreek.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "ambtelijk apparaat",
+        "standpunt": "De groei van het ambtelijk apparaat bevriezen, minder externe inhuur en meer mensen in de uitvoering.",
+        "citaat": "Bevries de groei van het ambtelijk apparaat; minder externe inhuur, meer handen in de uitvoering.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorps- en wijkraden",
+        "standpunt": "Dorps- en wijkraden krijgen meer invloed op lokale besluiten die hun leefomgeving raken.",
+        "citaat": "Meer invloed op lokale besluiten die hun leefomgeving raken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gemeenteloketten",
+        "standpunt": "Gemeenteloketten blijven dichtbij inwoners; geen specifieke locaties genoemd.",
+        "citaat": "Dienstverlening dichtbij inwoners houden.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kunstmatige intelligentie",
+        "standpunt": "Inzet van kunstmatige intelligentie in dienstverlening voor betere service en lagere kosten, met waarborging van privacy.",
+        "citaat": "Ja, voor betere service en lagere kosten, met waarborging van privacy.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inwonersparticipatie",
+        "standpunt": "Inwoners eerder en beter betrekken bij belangrijke besluiten.",
+        "citaat": "Inwoners eerder en beter betrekken bij belangrijke besluiten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "herindeling en identiteit dorpen",
+        "standpunt": "BVNL volgt het wetsvoorstel voor de herindeling kritisch en zet zich in voor behoud van de identiteit van dorpen en wijken.",
+        "citaat": "BVNL Hilversum volgt het wetsvoorstel kritisch en zet zich in voor het behoud van de identiteit van onze dorpen en wijken.",
+        "bron": "extra-partij-site.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "lokale lasten",
+        "standpunt": "Lagere lokale lasten op wonen, afval en parkeren, met geld voor kerntaken in plaats van prestigeprojecten.",
+        "citaat": "Lagere lokale lasten op wonen, afval en parkeren; geld naar kerntaken, niet naar prestigeprojecten.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "OZB",
+        "standpunt": "De OZB zo laag mogelijk houden.",
+        "citaat": "Zo laag mogelijk houden.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "begrotingstekorten",
+        "standpunt": "Bij tekorten eerst kritisch naar uitgaven kijken voordat belastingen stijgen.",
+        "citaat": "Eerst kritisch kijken naar uitgaven voordat belastingen stijgen.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "externe inhuur en apparaat",
+        "standpunt": "Groei van het ambtelijk apparaat bevriezen en minder externe inhuur.",
+        "citaat": "Bevries de groei van het ambtelijk apparaat; minder externe inhuur, meer handen in de uitvoering.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toeristenbelasting",
+        "standpunt": "Terughoudend zijn met toeristenbelasting en deze niet als melkkoe gebruiken.",
+        "citaat": "Terughoudend mee omgaan en niet als melkkoe gebruiken.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "afvalheffing",
+        "standpunt": "Afvalheffing kostendekkend en niet meer dan noodzakelijk.",
+        "citaat": "Kostendekkend, niet meer dan noodzakelijk.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "prioriteit lage lasten",
+        "standpunt": "De partij wijst op oplopende lasten, versoberende voorzieningen en een groeiend apparaat, en kiest voor eerlijke lasten en een focus op kerntaken.",
+        "citaat": "Lasten lopen op, voorzieningen versoberen, het apparaat groeit door.",
+        "bron": "programma",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ]
+  },
+  "opvallend": [
+    "Enige partij die zich de 'enige klassiek liberale partij in Hilversum' noemt en andere partijen collectivistisch noemt",
+    "Combineert lagere lasten met stoppen van de versobering van bijstand, Wmo, jeugdzorg en armoedebeleid, plus gratis lokaal OV voor 65+",
+    "Hoogcomplexe jeugdzorg terug naar het Rijk",
+    "Afschaffing van diftar en nascheiding van afval",
+    "Geen zero-emissiezones en geen windturbines of zonneparken op onbebouwd gebied",
+    "Geen voorrang voor statushouders op sociale huur, en asielopvang niet boven de landelijke taakstelling",
+    "Gemeente doet geen uitspraken over internationale conflicten",
+    "Ouders hebben het laatste woord over deelname aan seksuele voorlichting",
+    "Bindende referenda en openbare coalitieonderhandelingen",
+    "Afdrachten aan Regio Gooi en Vechtstreek herzien"
+  ],
+  "dun": [
+    "Geen concrete aantallen woningen of percentages sociale huur; alleen tegen 'starre quota'",
+    "Geen concrete locaties voor woningbouw of asielopvang genoemd",
+    "Weinig over fusie en de dorpen/kernen buiten een nieuwsbericht; Hilversum-specifieke dossiers (stationsgebied, Arenapark, Crailo, Hoorneboeg, Kerkelanden, De Rading, vliegveld) niet behandeld",
+    "Cultuur en sport beperkt tot steun aan verenigingen en erfgoed; zwembaden en sportaccommodaties niet genoemd",
+    "Geen concrete bedragen of dekking bij de uitgavenwensen (gratis OV 65+, behoud subsidies)",
+    "Programma combineert Wijdemeren en Hilversum en noemt geen pagina's (webprogramma)"
+  ]
+}

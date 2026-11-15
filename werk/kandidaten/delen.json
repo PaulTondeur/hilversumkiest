@@ -1,0 +1,234 @@
+[
+ {
+  "slug": "hart-voor-hilversum",
+  "lijst": "Hart voor Hilversum",
+  "deel": 1,
+  "van": 1,
+  "tot": 17,
+  "website": "https://www.hartvoorhilversum.nl/"
+ },
+ {
+  "slug": "pro",
+  "lijst": "Progressief Nederland (PRO)",
+  "deel": 1,
+  "van": 1,
+  "tot": 13,
+  "website": "https://hilversum.progressiefnederland.nl/"
+ },
+ {
+  "slug": "pro",
+  "lijst": "Progressief Nederland (PRO)",
+  "deel": 2,
+  "van": 14,
+  "tot": 25,
+  "website": "https://hilversum.progressiefnederland.nl/"
+ },
+ {
+  "slug": "d66",
+  "lijst": "D66",
+  "deel": 1,
+  "van": 1,
+  "tot": 17,
+  "website": "https://d66.nl/hilversum/"
+ },
+ {
+  "slug": "d66",
+  "lijst": "D66",
+  "deel": 2,
+  "van": 18,
+  "tot": 34,
+  "website": "https://d66.nl/hilversum/"
+ },
+ {
+  "slug": "d66",
+  "lijst": "D66",
+  "deel": 3,
+  "van": 35,
+  "tot": 50,
+  "website": "https://d66.nl/hilversum/"
+ },
+ {
+  "slug": "vvd",
+  "lijst": "VVD",
+  "deel": 1,
+  "van": 1,
+  "tot": 17,
+  "website": "https://www.vvdhilversum.nl/"
+ },
+ {
+  "slug": "vvd",
+  "lijst": "VVD",
+  "deel": 2,
+  "van": 18,
+  "tot": 33,
+  "website": "https://www.vvdhilversum.nl/"
+ },
+ {
+  "slug": "cda",
+  "lijst": "CDA",
+  "deel": 1,
+  "van": 1,
+  "tot": 17,
+  "website": "https://www.cda.nl/noord-holland/hilversum/"
+ },
+ {
+  "slug": "cda",
+  "lijst": "CDA",
+  "deel": 2,
+  "van": 18,
+  "tot": 34,
+  "website": "https://www.cda.nl/noord-holland/hilversum/"
+ },
+ {
+  "slug": "cda",
+  "lijst": "CDA",
+  "deel": 3,
+  "van": 35,
+  "tot": 50,
+  "website": "https://www.cda.nl/noord-holland/hilversum/"
+ },
+ {
+  "slug": "lokaal-een",
+  "lijst": "Lokaal Eén",
+  "deel": 1,
+  "van": 1,
+  "tot": 16,
+  "website": "https://lokaaleen.nl/"
+ },
+ {
+  "slug": "lokaal-een",
+  "lijst": "Lokaal Eén",
+  "deel": 2,
+  "van": 17,
+  "tot": 32,
+  "website": "https://lokaaleen.nl/"
+ },
+ {
+  "slug": "sp",
+  "lijst": "Socialistische Partij (SP)",
+  "deel": 1,
+  "van": 1,
+  "tot": 13,
+  "website": "https://hilversum.sp.nl/"
+ },
+ {
+  "slug": "sp",
+  "lijst": "Socialistische Partij (SP)",
+  "deel": 2,
+  "van": 14,
+  "tot": 25,
+  "website": "https://hilversum.sp.nl/"
+ },
+ {
+  "slug": "christenunie",
+  "lijst": "ChristenUnie",
+  "deel": 1,
+  "van": 1,
+  "tot": 13,
+  "website": "https://hilversum.christenunie.nl/"
+ },
+ {
+  "slug": "christenunie",
+  "lijst": "ChristenUnie",
+  "deel": 2,
+  "van": 14,
+  "tot": 25,
+  "website": "https://hilversum.christenunie.nl/"
+ },
+ {
+  "slug": "bvnl",
+  "lijst": "Belang Van Nederland (BVNL)",
+  "deel": 1,
+  "van": 1,
+  "tot": 7,
+  "website": "https://www.gezamenlijkbelang.nl/"
+ },
+ {
+  "slug": "scb",
+  "lijst": "SCB",
+  "deel": 1,
+  "van": 1,
+  "tot": 3,
+  "website": "https://www.scb.nl/"
+ },
+ {
+  "slug": "gewoon-hilversum",
+  "lijst": "Gewoon, Hilversum",
+  "deel": 1,
+  "van": 1,
+  "tot": 7,
+  "website": "https://www.gewoonhilversum.nl/"
+ },
+ {
+  "slug": "dorp-voor-dorp",
+  "lijst": "Dorp voor Dorp",
+  "deel": 1,
+  "van": 1,
+  "tot": 9,
+  "website": "https://www.dorpvoordorp.nl/"
+ },
+ {
+  "slug": "stop-betaald-parkeren-vip",
+  "lijst": "Stop Betaald Parkeren-VIP",
+  "deel": 1,
+  "van": 1,
+  "tot": 6,
+  "website": "https://viphilversum.nl/"
+ },
+ {
+  "slug": "opstand-nu",
+  "lijst": "OpStand.nu",
+  "deel": 1,
+  "van": 1,
+  "tot": 10,
+  "website": "https://opstand.nu/"
+ },
+ {
+  "slug": "pvdd",
+  "lijst": "Partij voor de Dieren",
+  "deel": 1,
+  "van": 1,
+  "tot": 11,
+  "website": "https://hilversum.partijvoordedieren.nl/"
+ },
+ {
+  "slug": "blanco-van-oostveen",
+  "lijst": "Blanco (van Oostveen, J.W.D.)",
+  "deel": 1,
+  "van": 1,
+  "tot": 1,
+  "website": null
+ },
+ {
+  "slug": "lfd",
+  "lijst": "Libertaire Fractie Durlacher (LFD)",
+  "deel": 1,
+  "van": 1,
+  "tot": 5,
+  "website": "https://stemlfd.nl/"
+ },
+ {
+  "slug": "volt",
+  "lijst": "Volt",
+  "deel": 1,
+  "van": 1,
+  "tot": 6,
+  "website": "https://voltnederland.org/noord-holland/hilversum"
+ },
+ {
+  "slug": "fvd",
+  "lijst": "Forum voor Democratie",
+  "deel": 1,
+  "van": 1,
+  "tot": 14,
+  "website": "https://fvd.nl/gemeentes/hilversum"
+ },
+ {
+  "slug": "bbb",
+  "lijst": "BBB",
+  "deel": 1,
+  "van": 1,
+  "tot": 11,
+  "website": "https://bbb-hilversum.nl/"
+ }
+]

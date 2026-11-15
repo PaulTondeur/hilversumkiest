@@ -1,0 +1,1818 @@
+{
+ "hart-voor-hilversum": [
+  {
+   "onderwerp": "zero-emissiezone",
+   "standpunt": "Wil geen zero-emissiezone in het winkelgebied.",
+   "citaat": "Geen zero-emissiezone in het winkelgebied.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bootjesbelasting",
+   "standpunt": "Wil de bootjesbelasting afschaffen.",
+   "citaat": "Afschaffing van de bootjesbelasting.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "horeca Hilversum-Oost en evenementen",
+   "standpunt": "Wil meer ruimte voor horeca in Hilversum-Oost en minder belemmeringen voor evenementen.",
+   "citaat": "Meer ruimte voor horeca in Hilversum-Oost en minder belemmeringen voor evenementen.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "leges dorpsevenementen",
+   "standpunt": "Wil kleine niet-commerciële dorpsevenementen vrijstellen van leges.",
+   "citaat": "Kleine niet-commerciële dorpsevenementen vrij van leges.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Media Park",
+   "standpunt": "Wil het Media Park behouden voor werkgelegenheid en innovatie; bij structurele leegstand onderzoeken of woningbouw past, zonder de mediasector te belemmeren.",
+   "citaat": "Het Media Park blijft belangrijk voor werkgelegenheid, innovatie en Hilversum als mediastad. Bij structurele leegstand onderzoeken we passende woningbouw, zonder de mediasector te belemmeren.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "regels en vergunningen",
+   "standpunt": "Wil minder regels, eenvoudiger vergunningen en snellere afhandeling voor ondernemers.",
+   "citaat": "Minder onnodige regels, eenvoudiger vergunningen en snellere afhandeling.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "toerisme en toeristenbelasting",
+   "standpunt": "Wil toerisme stimuleren met behoud van rust in woonbuurten en bescherming van kwetsbare natuur; de toeristenbelasting wordt niet zomaar verhoogd.",
+   "citaat": "Toerisme stimuleren dat ondernemers en horeca versterkt, met behoud van rust in woonbuurten en bescherming van kwetsbare natuur. De toeristenbelasting verhogen we niet zomaar.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "ondernemersorganisaties en makers",
+   "standpunt": "Wil samenwerken met ondernemersorganisaties en ruimte bieden voor media, makers en lokale economie.",
+   "citaat": "Samenwerking met ondernemersorganisaties; ruimte voor media, makers en lokale economie.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "richting"
+  }
+ ],
+ "pro": [
+  {
+   "onderwerp": "mediastad en Media Campus",
+   "standpunt": "Wil de mediabedrijven (meer dan 20 procent van de economie) behouden en versterken door samen met hen te investeren in de Media Campus Nederland.",
+   "citaat": "Meer dan 20 procent van onze economie draait om de mediabedrijven. Die willen wij behouden en versterken.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "Media Campus mix bedrijvigheid en wonen",
+   "standpunt": "Ontwikkelt de Media Campus tot een open, innovatieve en maatschappelijke campus met een gezonde mix van bedrijvigheid en wonen.",
+   "citaat": "We richten het in als een gebied met een gezonde mix van bedrijvigheid en wonen.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "HBO Media op het Mediapark",
+   "standpunt": "Ondersteunt het aantrekken van een HBO-opleiding Media, journalistiek en IT met Hogeschool van Amsterdam en Hogeschool Utrecht en de oprichting van een Media-hub Hilversum met de ROM Utrecht.",
+   "citaat": "Wij ondersteunen het aantrekken van een HBO-opleiding Media, journalistiek en IT",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "ROM Utrecht",
+   "standpunt": "Continueert de samenwerking van Hilversum in de Regionale Ontwikkelingsmaatschappij Utrecht en zorgt dat de voordelen bij lokale ondernemers terechtkomen.",
+   "citaat": "PRO wil de samenwerking van Hilversum in de Regionale Ontwikkelingsmaatschappij Utrecht (ROM) continueren.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "kleine en duurzame bedrijven",
+   "standpunt": "Creëert zo veel mogelijk ruimte voor duurzame, middelgrote en kleine bedrijven, met broedplaatsen en plekken voor start-ups.",
+   "citaat": "PRO wil zo veel mogelijk ruimte creëren voor duurzame bedrijvigheid en middelgrote en kleine bedrijven.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "compacte winkelgebieden",
+   "standpunt": "Is voorstander van vitale winkelgebieden in buurten en dorpen en geeft de voorkeur aan compacte winkelgebieden boven verspreide winkels.",
+   "citaat": "Compacte winkelgebieden zijn toekomstbestendiger dan verspreide winkels.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "reclame gokken en fast fashion",
+   "standpunt": "Staat in Hilversum geen reclame-uitingen toe voor gokken of fast fashion, vanwege schulden en verslaving onder jongeren.",
+   "citaat": "Daarom is er voor dit type reclame-uitingen geen plek in Hilversum.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "steun aan ondernemers evalueren",
+   "standpunt": "Brengt alle financiële ondersteuning voor ondernemers (Hilversum Marketing, Stadsfonds, centrummanagement, BIZ'en) in kaart, evalueert die op effectiviteit en past regelingen waar nodig aan.",
+   "citaat": "PRO wil alle bestaande financiële ondersteuningen voor ondernemers integraal in kaart brengen",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "recreatiesector landelijk gebied",
+   "standpunt": "Behoudt en verbetert de recreatiesector; ondernemers zorgen voor het aanbod, de gemeente voor infrastructuur en onderhoud.",
+   "citaat": "De ondernemers zorgen voor het aanbod. De gemeente zorgt voor de goede infrastructuur en onderhoud van de recreatieve voorzieningen.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "evenementen",
+   "standpunt": "Stimuleert grote en kleine evenementen (Top 2000, zeilevenementen, dorpsfeesten, Nederhorst On Ice) en wil eenvoudige en betaalbare aanvraagprocedures.",
+   "citaat": "Aanvraagprocedures voor deze evenementen dienen eenvoudig en betaalbaar te zijn",
+   "bron": "programma",
+   "pagina": 33,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "toerisme en milieu",
+   "standpunt": "Zoekt balans tussen natuurbehoud, waterkwaliteit en een goed verdienmodel voor de recreatiesector en stimuleert verduurzaming (elektrische sloepen, zonnepanelen op vakantieparken).",
+   "citaat": "In de recreatieve sector stimuleert PRO een goede balans tussen natuurbehoud, biodiversiteit en waterkwaliteit en een goed verdienmodel voor onze recreatieve sector.",
+   "bron": "programma",
+   "pagina": 33,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "Trompenburgh",
+   "standpunt": "Geeft de nieuw te openen buitenplaats Trompenburgh in 's-Graveland een volwaardige plaats in het toeristische aanbod.",
+   "citaat": "krijgt wat PRO betreft een volwaardige plaats in het toeristische aanbod van Hilversum.",
+   "bron": "programma",
+   "pagina": 33,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "sociaal ontwikkelbedrijf",
+   "standpunt": "Vormt met de gemeente Gooise Meren een nieuw sociaal ontwikkelbedrijf waarin alle gemeentelijke dienstverlening rond werk en re-integratie wordt gebundeld.",
+   "citaat": "De gemeenten Gooise Meren en Hilversum vormen daartoe samen een nieuw sociaal ontwikkelbedrijf.",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Regionaal Werk Centrum",
+   "standpunt": "Ondersteunt de opening van een Regionaal Werk Centrum in de nieuwe bibliotheek van Hilversum.",
+   "citaat": "PRO ondersteunt de opening van een Regionaal Werk Centrum in de nieuwe bibliotheek van Hilversum.",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "inclusieve arbeidsmarkt",
+   "standpunt": "Biedt meer en diversere trajecten (dagbesteding, basisbanen, beschut werk) voor mensen met een grote afstand tot de arbeidsmarkt.",
+   "citaat": "Van arbeidsmatige dagbesteding (WMO) tot basisbanen en beschut werk",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "concreet"
+  }
+ ],
+ "d66": [
+  {
+   "onderwerp": "regeldruk ondernemers",
+   "standpunt": "Een programma om regels te versimpelen en regeldruk voor ondernemers te verminderen.",
+   "citaat": "We werken aan een programma om regels te versimpelen en regeldruk te verminderen.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "vaste aanspreekpunten",
+   "standpunt": "Vaste aanspreekpunten bij de gemeente voor retail, horeca, recreatie, zorg, media en bedrijventerreinen.",
+   "citaat": "Daarom werken we met vaste aanspreekpunten voor belangrijke sectoren zoals retail, horeca, recreatie, zorg, media en bedrijventerreinen.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "ondernemers met schulden",
+   "standpunt": "Extra investeren in schuldhulpverlening voor ondernemers en een Vroeg Eropaf-aanpak.",
+   "citaat": "Ook voor ondernemers komt er een Vroeg Eropaf-aanpak",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokaal inkopen",
+   "standpunt": "Lokaal of regionaal inkopen waar mogelijk en bij grotere aanbestedingen rekening houden met het mkb.",
+   "citaat": "Waar mogelijk koopt de gemeente lokaal of regionaal in.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "agrarisch ondernemerschap",
+   "standpunt": "Jonge boeren ondersteunen, nevenactiviteiten zoals boerderijwinkels en kleinschalige recreatie mogelijk maken en regionale afzet stimuleren.",
+   "citaat": "D66 wil jonge boeren ondersteunen, nevenactiviteiten zoals boerderijwinkels en kleinschalige recreatie mogelijk maken",
+   "bron": "programma",
+   "pagina": 40,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "lokale markten",
+   "standpunt": "Lokale markten in Ankeveen en aan de Oude Haven behouden en stimuleren.",
+   "citaat": "D66 wil lokale markten, zoals die in Ankeveen en aan de Oude Haven, behouden en stimuleren.",
+   "bron": "programma",
+   "pagina": 40,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "sekswerkbeleid",
+   "standpunt": "Het huidige sekswerkbeleid evalueren en ruimte bieden aan kleinschalige samenwerkingsvormen van sekswerkers, bijvoorbeeld via een vergunning-lightconstructie.",
+   "citaat": "We evalueren het huidige sekswerkbeleid en bieden ruimte aan kleinschalige samenwerkingsvormen van sekswerkers",
+   "bron": "programma",
+   "pagina": 40,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Mediapark",
+   "standpunt": "Het Mediapark blijft economische motor en wordt doorontwikkeld tot een mediacampus die werken, leren, ontspanning en wonen combineert.",
+   "citaat": "Het Mediapark van de toekomst combineert werk, leren, ontspanning en wonen.",
+   "bron": "programma",
+   "pagina": 41,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "mediaevenement",
+   "standpunt": "Een groot mediaevenement naar Hilversum halen, zoals de intocht van Sinterklaas, het Glazen Huis of The Passion.",
+   "citaat": "We zien kansen om de komende periode een groot mediaevenement naar Hilversum te halen, zoals de intocht van Sinterklaas, het Glazen Huis of The Passion.",
+   "bron": "programma",
+   "pagina": 41,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "broedplaats digitale media",
+   "standpunt": "Een broedplaats voor jonge makers van digitale media en serious games, gekoppeld aan onderwijs en het Mediapark.",
+   "citaat": "We denken daarbij aan een broedplaats voor jonge makers van digitale media en serious games.",
+   "bron": "programma",
+   "pagina": 40,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "recreatie en botenbouw",
+   "standpunt": "Meer plekken voor (elektrische) boten in bestaande recreatiegebieden, of botenbouw verplaatsen naar passendere locaties wanneer daarmee ruimte voor recreatie ontstaat.",
+   "citaat": "of door botenbouw te verplaatsen naar meer passende locaties wanneer daarmee ruimte ontstaat voor recreatie.",
+   "bron": "programma",
+   "pagina": 41,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "recreatief fietspad en strandjes",
+   "standpunt": "Een recreatieve fietsverbinding tussen Hilversum, Loosdrecht en andere kernen, meer strandjes voor bewoners en betere bereikbaarheid van bestaande strandjes zoals De Zuwe aan de N201.",
+   "citaat": "willen we een recreatieve fietsverbinding tussen Hilversum en Loosdrecht en andere kernen realiseren.",
+   "bron": "programma",
+   "pagina": 41,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "watersport Loosdrechtse Plassen",
+   "standpunt": "Investeren in voorzieningen voor watersporters en in veiligheid op de plassen en de verbinding tussen recreatie, horeca en lokale ondernemers.",
+   "citaat": "We investeren in goede voorzieningen voor watersporters en in veiligheid op de plassen",
+   "bron": "programma",
+   "pagina": 41,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "toerisme versus natuur",
+   "standpunt": "Recreatie mag niet ten koste gaan van natuur of leefbaarheid; steeds een balans zoeken tussen economische kansen, natuurbescherming en recreatief gebruik.",
+   "citaat": "Recreatie mag niet ten koste gaan van de natuur of de leefbaarheid.",
+   "bron": "programma",
+   "pagina": 41,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "winkelgebieden en leegstand",
+   "standpunt": "Samenwerking tussen vastgoedeigenaren en ondernemers in winkelgebieden, met actieve aanpak van leegstand; ondernemers vroeg betrekken bij herinrichting.",
+   "citaat": "waarbij leegstand actief aangepakt wordt",
+   "bron": "programma",
+   "pagina": 42,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "bedrijventerreinen",
+   "standpunt": "Investeren in aantrekkelijke, veilige, duurzame en bereikbare bedrijventerreinen met vergroening en lokale energieopwekking.",
+   "citaat": "We investeren in aantrekkelijke, veilige, duurzame en goed bereikbare bedrijventerreinen.",
+   "bron": "programma",
+   "pagina": 42,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "stages en discriminatie werk",
+   "standpunt": "Voldoende stageplaatsen stimuleren, de gemeente als voorbeeldwerkgever en een meldpunt voor discriminatie op werk- en stageplekken.",
+   "citaat": "Daarom ondersteunen we een meldpunt voor discriminatie op werk- en stageplekken.",
+   "bron": "programma",
+   "pagina": 43,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "evenementen",
+   "standpunt": "Minimaal een evenement voor de hele gemeente en ruimte voor lokale dorpsfeesten, met duidelijke en voorspelbare regels.",
+   "citaat": "Daarom organiseren we minimaal één evenement voor de hele gemeente",
+   "bron": "programma",
+   "pagina": 19,
+   "soort": "concreet"
+  }
+ ],
+ "vvd": [
+  {
+   "onderwerp": "ondernemersklimaat",
+   "standpunt": "De partij wil het beste ondernemersklimaat van Gooi en Vechtstreek, met minder lokale regels, snellere vergunningen en realistische parkeernormen.",
+   "citaat": "De VVD wil dat de nieuwe gemeente Hilversum het beste ondernemersklimaat van Gooi en Vechtstreek krijgt.",
+   "bron": "programma",
+   "pagina": 14,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "werk vóór wonen op bedrijventerreinen",
+   "standpunt": "Bedrijventerreinen worden beschermd tegen woningdruk; werk gaat voor wonen.",
+   "citaat": "Op bedrijventerreinen gaat werk vóór wonen",
+   "bron": "programma",
+   "pagina": 14,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Ter Sype",
+   "standpunt": "Ter Sype wordt verkend als uitbreidingslocatie voor bedrijventerrein met een deel wonen.",
+   "citaat": "Ter Sype wordt verkend als uitbreidingslocatie voor bedrijventerrein en een deel wonen.",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "De Rading verplaatsen",
+   "standpunt": "Onderzoek of bedrijven van De Rading naar Ter Sype kunnen verhuizen, zodat De Rading voor wonen herontwikkeld kan worden.",
+   "citaat": "We onderzoeken of (een deel van de) bedrijven op De Rading op termijn kan worden verplaatst naar Ter Sype, zodat het vrijgekomen terrein herontwikkeld kan worden voor wonen.",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "zware logistiek",
+   "standpunt": "Zware logistiek wordt aan de randen van de gemeente gevestigd.",
+   "citaat": "Zware logistiek situeren we aan de randen van de gemeente.",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bedrijventerrein Zuidwest",
+   "standpunt": "Meer aandacht voor Bedrijventerrein Zuidwest (Kerkelanden, Havenkwartier, Zeverijnstraat) als een van de grootste economische motoren van Hilversum.",
+   "citaat": "Meer aandacht voor Bedrijventerrein Zuidwest als één van de grootste economische motoren van Hilversum.",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "parkeernormen bedrijven en kantoren",
+   "standpunt": "Voor bedrijfs- en kantoorontwikkelingen gelden realistische parkeernormen die aansluiten bij de marktvraag, niet lage normen.",
+   "citaat": "Voor bedrijfs- en kantoorontwikkelingen hanteren we realistische parkeernormen die aansluiten bij de marktvraag.",
+   "bron": "programma",
+   "pagina": 14,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "regeldruk ondernemers",
+   "standpunt": "Onnodige regeldruk wordt verminderd, samen met het Platform Economie, met een jaarlijkse regeldrukmeting.",
+   "citaat": "We verminderen onnodige regeldruk voor ondernemers",
+   "bron": "programma",
+   "pagina": 14,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "BIZ",
+   "standpunt": "De gemeente stimuleert de oprichting van Bedrijven Investeringszones.",
+   "citaat": "We stimuleren de oprichting van Bedrijven Investeringszones om ondernemers gezamenlijk te laten investeren in hun omgeving.",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "HBO naar Hilversum",
+   "standpunt": "De partij onderzoekt hoe HBO-onderwijs naar Hilversum kan komen, bij voorkeur op het Mediapark.",
+   "citaat": "HBO naar Hilversum: we onderzoeken de mogelijkheden om HBO-onderwijs naar Hilversum te halen, idealiter op het Mediapark.",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "mediacluster en andere sectoren",
+   "standpunt": "Actief lobbyen om mediabedrijven naar Hilversum te krijgen, en daarnaast verbreden naar andere sectoren zoals zorg en recreatie.",
+   "citaat": "In de regio lobbyen we actief zodat mediabedrijven naar Hilversum worden geleid.",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "winkelfuncties in kernen",
+   "standpunt": "Winkelfuncties in kerngebieden zoals de Gijsbrecht, Meenthof Kortenhoef, Nederhorst den Berg en Nieuw Loosdrecht worden beschermd tegen omzetting naar wonen, terwijl wonen boven winkels gestimuleerd wordt.",
+   "citaat": "Winkelfuncties in kerngebieden (Gijsbrecht, Meenthof Kortenhoef, Nederhorst den Berg, Nieuw Loosdrecht) worden actief beschermd tegen lichtvaardige omzetting naar wonen.",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "parkeren centrum voor regiobezoekers (Noordse Bosje)",
+   "standpunt": "Voldoende parkeergelegenheid in het centrum voor bezoekers uit Hilversumse Meent en de dorpen moet worden meegewogen bij ontwikkelingen zoals Noordse Bosje.",
+   "citaat": "dat moet meegewogen worden in ontwikkelingen zoals die bij Noordse Bosje",
+   "bron": "programma",
+   "pagina": 15,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "lasten voor ondernemers",
+   "standpunt": "De partij let op de stapeling van toeristenbelasting, OZB en stadsfonds voor ondernemers; het stadsfonds wordt strikt en eerlijk beheerd.",
+   "citaat": "Wij hebben oog voor de lastenstapeling bij ondernemers (toeristenbelasting, OZB, stadsfonds).",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "verhuurdersheffing motorboten",
+   "standpunt": "De verhuurdersheffing op gemotoriseerde boten wordt afgeschaft.",
+   "citaat": "Verhuurdersheffing van gemotoriseerde boten afschaffen.",
+   "bron": "programma",
+   "pagina": 17,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "vakantieparken",
+   "standpunt": "Het permanente woonverbod op vakantieparken wordt gehandhaafd.",
+   "citaat": "Handhaven permanent woonverbod vakantieparken.",
+   "bron": "programma",
+   "pagina": 17,
+   "soort": "concreet"
+  }
+ ],
+ "cda": [
+  {
+   "onderwerp": "ondernemersloket",
+   "standpunt": "Na de fusie een herkenbaar ondernemersloket en vaste contactpersoon bij ingewikkelde aanvragen; servicenormen voor vergunningen.",
+   "citaat": "Daarom krijgen ondernemers na de fusie één herkenbaar ondernemersloket en bij ingewikkelde aanvragen één vaste contactpersoon.",
+   "bron": "programma",
+   "pagina": 51,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "schraplijst",
+   "standpunt": "Openbare ondernemersschraplijst met besluit en uitleg per schrapvoorstel.",
+   "citaat": "Er komt een openbare ondernemersschraplijst.",
+   "bron": "programma",
+   "pagina": 51,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lastenstapeling",
+   "standpunt": "Voor tarief-, heffings- of regelwijzigingen per sector de totale gevolgen inzichtelijk maken.",
+   "citaat": "Voordat tarieven, heffingen of vergunningregels veranderen, maken wij per sector inzichtelijk wat de totale gevolgen zijn.",
+   "bron": "programma",
+   "pagina": 51,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "winkelgebieden",
+   "standpunt": "Per winkelgebied een koers met afspraken over bereikbaarheid, leegstand en investeringen; versterken, concentreren of transformeren.",
+   "citaat": "Elk winkelgebied krijgt een duidelijke koers met concrete afspraken over bereikbaarheid, openbare ruimte, leegstand en investeringen.",
+   "bron": "programma",
+   "pagina": 51,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Stadsfonds",
+   "standpunt": "Uitbreiding van het Stadsfonds (OZB-opslag niet-woningen) is geen automatisme; alleen na raadsbesluit, raadpleging betalers en doorrekening; geen dubbele financiering met BIZ.",
+   "citaat": "Voor ons is uitbreiding van het fonds geen automatisme.",
+   "bron": "programma",
+   "pagina": 52,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bedrijventerreinen",
+   "standpunt": "Terughoudend met omzetten van bedrijventerreinen naar woningbouw en bewaken van betaalbare werkruimte; kwaliteitsimpuls Zuidwest voortzetten.",
+   "citaat": "Wij zijn terughoudend met het omzetten van bedrijventerreinen naar woningbouw en bewaken dat er voldoende betaalbare werkruimte blijft.",
+   "bron": "programma",
+   "pagina": 52,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Media Park",
+   "standpunt": "Economische functie blijft vooropstaan; open campus, uitbreiding mbo- en hbo-onderwijs, wonen voor studenten, starters en jonge professionals en voorzieningen.",
+   "citaat": "De economische functie blijft vooropstaan.",
+   "bron": "programma",
+   "pagina": 53,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "plassen en recreatie-economie",
+   "standpunt": "Langjarige duidelijkheid voor ondernemers rond de plassen, één aanspreekpunt; plassen en dorpen prominent in marketing naast Mediastad; jaarlijks inzicht in toeristenbelasting.",
+   "citaat": "In de gezamenlijke marketing krijgen de plassen, buitenplaatsen en dorpen een prominente plaats naast Hilversum Mediastad.",
+   "bron": "programma",
+   "pagina": 53,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "leegstand",
+   "standpunt": "Leegstaande panden sneller een nieuwe bestemming (starter, dienstverlening, wonen, ambacht, cultuur).",
+   "citaat": "Leegstaande panden krijgen sneller een passende nieuwe bestemming",
+   "bron": "programma",
+   "pagina": 51,
+   "soort": "richting"
+  }
+ ],
+ "lokaal-een": [
+  {
+   "onderwerp": "regionaal speciaalzaakcentrum",
+   "standpunt": "Hilversum profileert zich als regionaal kwaliteits- en speciaalzaakcentrum in plaats van te concurreren met grote steden.",
+   "citaat": "door te profileren als hét regionale kwaliteits- en speciaalzaakcentrum met een aantrekkelijke, gastvrije binnenstad.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "aanloopstraten",
+   "standpunt": "Koestert aanloopstraten als Havenstraat en Emmastraat en steunt herinrichtingsplannen van winkeliers zelf.",
+   "citaat": "Kansrijke herinrichtingsplannen vanuit de winkeliers zelf ondersteunt de gemeente van harte.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Mediapark",
+   "standpunt": "Stimuleert doorontwikkeling van het Mediapark (digitale media, ICT, innovatie) en onderzoekt studentenhuisvesting op de campus.",
+   "citaat": "De mogelijkheden voor studentenhuisvesting op de campus daarbij uitwerken.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "HBO Mediacampus",
+   "standpunt": "Wil HBO-onderwijs op de Mediacampus uitbreiden in samenwerking met onderwijsinstellingen.",
+   "citaat": "Lokaal Eén ziet sterke kansen voor het uitbreiden van HBO-onderwijs op de Mediacampus.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "één loket en regeldruk",
+   "standpunt": "Overbodige regelgeving schrappen; één vast gemeentelijk aanspreekpunt voor ondernemers en zzp'ers.",
+   "citaat": "Overbodige regelgeving wordt geschrapt en ondernemers en ZZP'ers hebben één vast, effectief gemeentelijk aanspreekpunt voor al hun vragen.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokale inkoop",
+   "standpunt": "Bij gemeentelijke opdrachten bewust ruimte reserveren voor lokale ondernemers.",
+   "citaat": "bij gemeentelijke opdrachten bewust ruimte te reserveren voor onze eigen lokale ondernemers.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "BIZ",
+   "standpunt": "Stimuleert oprichting en voortzetting van Bedrijven Investerings Zones.",
+   "citaat": "Ook de oprichting en voortzetting van Bedrijven Investerings Zones (BIZ) wordt gestimuleerd.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "industrieterreinen",
+   "standpunt": "Geen voorstander van het terugdringen van industrieparken; relocatie of vermenging met wonen per locatie bekijken.",
+   "citaat": "Lokaal Eén is geen voorstander van het terugdringen van industrieparken.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "kantorenmarkt",
+   "standpunt": "Nieuwe kantoorruimte alleen op basis van gedegen onderzoek en werkelijke marktbehoefte.",
+   "citaat": "Nieuwe kantoorruimte wordt uitsluitend gerealiseerd op basis van gedegen onderzoek en werkelijke marktbehoefte",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "toerisme",
+   "standpunt": "Beleid gericht op natuur- en cultuurliefhebbers, niet op massatoerisme; opbrengsten recreatie mede inzetten voor landschapsbeheer.",
+   "citaat": "Beleid is gericht op de natuur- en cultuurliefhebber en niet op massatoerisme.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "city marketing stoppen",
+   "standpunt": "Stopt met City Marketing en stelt een Gebiedsregisseur Recreatie, Toerisme en Natuur aan.",
+   "citaat": "Lokaal Eén wil stoppen met City Marketing en zet in plaats daarvan een Gebiedsregisseur Recreatie, Toerisme en Natuur in.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "forensisme",
+   "standpunt": "Vestigingsbeleid gericht op het verminderen van forensisme; werk en wonen dichter bij elkaar.",
+   "citaat": "Lokaal Eén richt zich op een vestigingsbeleid dat is gericht op het verminderen van forensisme.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "kleine winkels in dorpen",
+   "standpunt": "Stimuleert vestiging van kleine land- en buurtwinkels.",
+   "citaat": "Lokaal Eén stimuleert vestiging van kleine land- en buurtwinkels.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "arbeidsparticipatie",
+   "standpunt": "Maximale arbeidsparticipatie; sociale werkvoorziening met beschut werk en basisbanen; stage- en leerwerkplekken.",
+   "citaat": "Lokaal Eén zet in op maximale arbeidsparticipatie.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "groei bedrijvigheid",
+   "standpunt": "Groei van bedrijvigheid is welkom maar blijft in balans met wonen, bereikbaarheid en leefomgeving.",
+   "citaat": "Groei van bedrijvigheid is welkom en blijft in balans met wonen, bereikbaarheid en leefomgeving.",
+   "bron": "programma",
+   "pagina": 1,
+   "soort": "richting"
+  }
+ ],
+ "sp": [
+  {
+   "onderwerp": "lokaal inkopen",
+   "standpunt": "Voorkeursbeleid voor lokale ondernemers en producenten bij gemeentelijke inkoop, ook voor streekproducten.",
+   "citaat": "Wij willen een voorkeursbeleid voor lokale ondernemers en producenten.",
+   "bron": "programma",
+   "pagina": 7,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "regels voor kleine ondernemers",
+   "standpunt": "Overbodige regels voor ondernemers versoepelen en afschaffen.",
+   "citaat": "Wij werken mee aan het versoepelen en afschaffen van overbodige regels.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "ondernemersfonds",
+   "standpunt": "Het geld uit het ondernemersfonds wordt besteed in gebieden buiten het centrum.",
+   "citaat": "Ook willen wij dat het geld uit het ondernemersfonds wordt besteed in de gebieden buiten het centrum.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "gevelsubsidie winkelstraten",
+   "standpunt": "De gevelsubsidie zoals in de Havenstraat wordt voortgezet en als algemeen beleid opengesteld voor alle winkelstraten die dat nodig hebben, ook in de dorpen.",
+   "citaat": "Wij willen die regeling voortzetten en laten gelden voor alle winkelstraten in onze gemeente die dat nodig hebben, dus ook in de dorpen.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "citymarketing",
+   "standpunt": "Minder geld voor reclame om meer bezoekers te trekken, mogelijk het hele budget; het geld gaat naar buurten, voorzieningen, bereikbaarheid en openbare ruimte.",
+   "citaat": "Wij willen minder geld uitgeven aan reclame om steeds meer bezoekers te trekken.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "zorgsector als economie",
+   "standpunt": "Een duidelijke visie en beleid voor de ontwikkeling van de zorgsector als tweede pijler van de economie.",
+   "citaat": "Daarom willen wij een duidelijke visie en duidelijk beleid voor de ontwikkeling van de zorgsector.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "gratis openbare toiletten",
+   "standpunt": "Meer gratis openbare toiletten in het centrum, bij parkeergarages en bij OV-haltes, plus toegankelijke douches en toiletten voor mensen zonder huis.",
+   "citaat": "Wij willen meer gratis openbare toiletten in het centrum, bij parkeergarages en bij plekken waar bussen en treinen stoppen.",
+   "bron": "programma",
+   "pagina": 24,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokale markt",
+   "standpunt": "Een maandelijkse markt met alleen lokaal geproduceerde producten.",
+   "citaat": "De SP wil een maandelijkse markt met alleen lokaal geproduceerde producten.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "vaste contracten gemeente",
+   "standpunt": "Bij de gemeente wordt een vast contract de norm, na een jaar bij goed functioneren.",
+   "citaat": "Bij de gemeente wordt een vast contract de norm.",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "glasvezel in de dorpen",
+   "standpunt": "Glasvezel in Ankeveen, 's-Graveland, Oud-Loosdrecht en Breukeleveen, waar het nog ontbreekt; een planning alleen is niet voldoende.",
+   "citaat": "Voor de dorpen Ankeveen, ’s-Graveland, Oud-Loosdrecht, en Breukeleveen is er na die jaren nog geen glasvezel.",
+   "bron": "programma",
+   "pagina": 12,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "sociale coöperaties",
+   "standpunt": "Steun voor sociale coöperaties zoals Bloei, waarin mensen met een uitkering samen ondernemen.",
+   "citaat": "De SP steunt sociale coöperaties zoals Bloei, waarin mensen met een uitkering samen ondernemen en diensten aanbieden, van jongerenwerk tot fietsreparatie.",
+   "bron": "programma",
+   "pagina": 16,
+   "soort": "richting"
+  }
+ ],
+ "christenunie": [
+  {
+   "onderwerp": "zondag en winkelopening",
+   "standpunt": "Wil dat winkeliers niet gedwongen worden op zondag te openen en benoemt de zondag als collectief rustmoment.",
+   "citaat": "Winkeliers mogen niet gedwongen worden hun winkel op zondag te openen.",
+   "bron": "programma",
+   "pagina": 31,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "winkelgebieden",
+   "standpunt": "Wil compacte, aantrekkelijke winkelgebieden met een divers aanbod en vindt kleine winkelcentra onmisbaar voor de leefbaarheid.",
+   "citaat": "We zetten in op compacte, aantrekkelijke winkelgebieden en letten op de leefbaarheid, sociale veiligheid en een divers aanbod.",
+   "bron": "programma",
+   "pagina": 31,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "leegstaande winkelpanden naar woningen",
+   "standpunt": "Wil waar nodig leegstaande winkelpanden transformeren naar woningen, met behoud van voldoende kantoorruimte.",
+   "citaat": "Waar nodig transformeren we leegstaande winkelpanden naar woningen om de binnenstad leefbaar en bruisend te houden",
+   "bron": "programma",
+   "pagina": 31,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokaal inkopen",
+   "standpunt": "Wil inkoopbeleid dat extra kansen biedt aan lokale, regionale en sociale bedrijven.",
+   "citaat": "Inkoopbeleid dat extra kansen biedt aan lokale/regionale/sociale bedrijven om leverancier van de gemeente te worden en blijven.",
+   "bron": "programma",
+   "pagina": 30,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "praktijkgeschoolde werkgelegenheid",
+   "standpunt": "Maakt werkgelegenheid voor praktijkgeschoolde inwoners een speerpunt voor alle sectoren, met het MBO-college Hilversum.",
+   "citaat": "Meer werkgelegenheid voor praktijkgeschoolde inwoners als speerpunt voor alle sectoren",
+   "bron": "programma",
+   "pagina": 30,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bedrijventerreinen",
+   "standpunt": "Wil tijdig herstructureren van bedrijventerreinen, met groene ruimtes, goede OV- en fietsontsluiting en aandacht voor leegstand en ondermijning.",
+   "citaat": "In Hilversum zetten we op tijd in op herstructurering van bedrijventerreinen.",
+   "bron": "programma",
+   "pagina": 30,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "strakke projectbeheersing",
+   "standpunt": "Wil strakke projectbeheersing, realistische planning, transparante besluitvorming en onafhankelijke financiële controles bij gemeentelijke projecten.",
+   "citaat": "Daarom kiezen wij voor strakke projectbeheersing, realistische planning, transparante besluitvorming en onafhankelijke financiële controles.",
+   "bron": "programma",
+   "pagina": 30,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "economie van het genoeg",
+   "standpunt": "Kiest voor een economie van het genoeg met brede welvaart en kijkt verder dan economische groei.",
+   "citaat": "We maken de transitie naar een economie van genoeg",
+   "bron": "programma",
+   "pagina": 29,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "toerisme en recreatie",
+   "standpunt": "Wil recreatie en toerisme intensiveren met duurzame recreatie en bescherming van de natuur.",
+   "citaat": "Recreatie en toerisme intensiveren, voor eigen inwoners en recreanten.",
+   "bron": "programma",
+   "pagina": 32,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "winkelcriminaliteit",
+   "standpunt": "Wil samenwerking tussen winkeliers, handhavers en politie tegen winkelcriminaliteit en overlast.",
+   "citaat": "We versterken de samenwerking tussen winkeliers, handhavers en politie om winkelcriminaliteit en overlast aan te pakken.",
+   "bron": "programma",
+   "pagina": 31,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "innovatiefonds circulaire start-ups",
+   "standpunt": "Wil circulaire broedplaatsen en ateliers faciliteren en een innovatiefonds voor startende ondernemers.",
+   "citaat": "en een innovatiefonds voor startende ondernemers.",
+   "bron": "programma",
+   "pagina": 40,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Sociaal Ontwikkelbedrijf / Tomingroep",
+   "standpunt": "Wil coöperatie tussen het Sociaal Ontwikkelbedrijf en werkgevers en behoud van kennis en expertise van de Tomingroep.",
+   "citaat": "Kennis en expertise van de Tomingroep mag niet verloren gaan.",
+   "bron": "programma",
+   "pagina": 17,
+   "soort": "richting"
+  }
+ ],
+ "bvnl": [
+  {
+   "onderwerp": "winkel- en horecatijden",
+   "standpunt": "Zo vrij mogelijke winkel- en horecatijden, met minder bureaucratie en lagere lasten voor het MKB.",
+   "citaat": "Zo vrij mogelijke winkel- en horecatijden; minder bureaucratie en lagere lasten voor het MKB.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "kernwinkelgebied",
+   "standpunt": "Leegstand aanpakken met een functiemix en een compacter kernwinkelgebied.",
+   "citaat": "Aantrekkelijke functiemix en een compacter kernwinkelgebied om leegstand aan te pakken.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "vergunningen en bestemmingsplannen",
+   "standpunt": "Snelle vergunningverlening en flexibele bestemmingsplannen voor innovatieve bedrijven.",
+   "citaat": "Snelle vergunningverlening en flexibele bestemmingsplannen voor innovatieve bedrijven.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bereikbaarheid centrum",
+   "standpunt": "Voldoende parkeren, goede fietsvoorzieningen en veilige looproutes naar het centrum.",
+   "citaat": "Bereikbaarheid op peil: voldoende parkeren, goede fietsvoorzieningen en veilige looproutes.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "evenementen",
+   "standpunt": "Meer ruimte voor evenementen, waaronder Dutch Media Week, markten en culturele activiteiten.",
+   "citaat": "Meer ruimte voor evenementen en beleving Dutch Media Week, markten en culturele activiteiten.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "Mediapark",
+   "standpunt": "Op het Mediapark economische groei, innovatie en werkgelegenheid stimuleren.",
+   "citaat": "Economische groei, innovatie en werkgelegenheid stimuleren.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "regels voor ondernemers",
+   "standpunt": "Regels voor ondernemers vereenvoudigen en verminderen.",
+   "citaat": "Vereenvoudigen en verminderen.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "MKB, digitalisering en stages",
+   "standpunt": "Steun voor MKB bij digitalisering en voor stage- en leerwerkplekken samen met het onderwijs.",
+   "citaat": "Steun voor MKB bij digitalisering en voor stage- en leerwerkplekken samen met het onderwijs.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "toerisme en toeristenbelasting",
+   "standpunt": "Toerisme stimuleren als het leefbaarheid en economie versterkt, en terughoudend zijn met toeristenbelasting.",
+   "citaat": "Terughoudend mee omgaan en niet als melkkoe gebruiken.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "schoon en veilig centrum",
+   "standpunt": "Een schoon, verzorgd en veilig centrum met effectieve handhaving en snel herstel.",
+   "citaat": "Een schoon, verzorgd en veilig centrum met effectieve handhaving en snel herstel.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "richting"
+  }
+ ],
+ "scb": [
+  {
+   "onderwerp": "onderzoek gevolgen voor ondernemers",
+   "standpunt": "Bij nieuwe gemeentelijke plannen die ondernemers raken vooraf de gevolgen voor bereikbaarheid, parkeerdruk en bedrijfsvoering onderzoeken, met betrokkenheid van ondernemers.",
+   "citaat": "Bij nieuwe gemeentelijke plannen die ondernemers raken, vooraf de gevolgen voor bereikbaarheid, parkeerdruk en bedrijfsvoering onderzoeken en ondernemers daarbij betrekken.",
+   "bron": "programma",
+   "pagina": 8,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "regels voor ondernemers",
+   "standpunt": "Minder onnodige regels en duidelijke procedures voor ondernemers.",
+   "citaat": "Minder onnodige regels en duidelijke procedures.",
+   "bron": "programma",
+   "pagina": 8,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "leegstand",
+   "standpunt": "Leegstand tegengaan, zonder maatregelen te noemen.",
+   "citaat": "Leegstand tegengaan.",
+   "bron": "programma",
+   "pagina": 8,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "lokale ondernemers",
+   "standpunt": "Ruimte voor lokale ondernemers en initiatieven.",
+   "citaat": "Ruimte voor lokale ondernemers en initiatieven.",
+   "bron": "programma",
+   "pagina": 8,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "bereikbare voorzieningen",
+   "standpunt": "Dagelijkse voorzieningen bereikbaar houden, ook voor ouderen en minder mobiele inwoners.",
+   "citaat": "Dagelijkse voorzieningen bereikbaar houden, ook voor ouderen en minder mobiele inwoners.",
+   "bron": "programma",
+   "pagina": 8,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "stages en vrijwilligerswerk jongeren",
+   "standpunt": "Meer mogelijkheden voor stages en vrijwilligerswerk voor jongeren.",
+   "citaat": "Meer mogelijkheden voor stages en vrijwilligerswerk.",
+   "bron": "programma",
+   "pagina": 5,
+   "soort": "richting"
+  }
+ ],
+ "gewoon-hilversum": [
+  {
+   "onderwerp": "Mediastad en Media Park",
+   "standpunt": "Wil het Media Park en de creatieve sector versterken als ecosysteem en ziet Mediastad als economisch beleid, niet als citymarketingslogan.",
+   "citaat": "Mediastad is voor ons daarom geen citymarketingslogan, maar economisch beleid.",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "onderwijs en arbeidsmarkt",
+   "standpunt": "Wil dat onderwijs en arbeidsmarkt beter aansluiten, vooral in media, techniek, zorg en ICT, met stages en leerwerkplekken.",
+   "citaat": "We willen daarom dat onderwijs en arbeidsmarkt beter op elkaar aansluiten.",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "werkgelegenheid",
+   "standpunt": "De gemeente schept zelf geen banen maar verbetert de voorwaarden voor bedrijven en helpt inwoners die langs de kant staan de stap naar werk kleiner te maken.",
+   "citaat": "De gemeente heeft niet de taak om zelf banen te creëren, maar kan wel de voorwaarden daarvoor verbeteren.",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "werkruimte versus andere functies",
+   "standpunt": "Beschermt economische ruimte waar dat waardevol is, maar niet automatisch: een andere functie met aantoonbaar meer publieke waarde kan voorgaan.",
+   "citaat": "Daarom beschermen we economische ruimte waar dat waardevol is. Dat wordt geen automatisme: als een andere functie op een bepaalde plek aantoonbaar meer publieke waarde oplevert, maken we die afweging.",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "bedrijventerreinen",
+   "standpunt": "Wil bestaande bedrijventerreinen waar mogelijk behouden, beter benutten en verduurzamen; noemt geen specifieke terreinen.",
+   "citaat": "We willen bestaande bedrijventerreinen waar mogelijk behouden, beter benutten en verduurzamen.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "transformatie bedrijventerrein",
+   "standpunt": "Blokkeert transformatie van bedrijventerreinen niet dogmatisch, maar laat bedrijfsruimte niet verdwijnen zonder afweging en zicht op alternatieven.",
+   "citaat": "Transformatie blokkeren we niet dogmatisch, maar we laten ruimte voor bedrijvigheid ook niet zomaar verdwijnen zonder een goede afweging.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "centrumbeleid en winkels",
+   "standpunt": "Wil geen centrumbeleid dat alleen gericht is op zoveel mogelijk winkelmeters, maar op aantrekkelijke gebieden met een mix van winkels, horeca, dienstverlening en cultuur.",
+   "citaat": "Wij willen daarom geen centrumbeleid dat uitsluitend gericht is op het vullen van zoveel mogelijk winkelmeters",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "horeca- en woongebieden",
+   "standpunt": "Wil voorkomen dat winkelgebieden zonder visie veranderen in uitsluitend horeca- of woongebieden.",
+   "citaat": "Tegelijkertijd willen we voorkomen dat winkelgebieden zonder duidelijke visie langzaam veranderen in uitsluitend horecagebieden of woongebieden.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "leegstand",
+   "standpunt": "Wil leegstand voorkomen en langdurig leegstaande panden makkelijker een nieuwe functie geven.",
+   "citaat": "Leegstand moet waar mogelijk worden voorkomen en langdurig leegstaande panden moeten makkelijker een passende nieuwe functie kunnen krijgen.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "regeldruk en loket",
+   "standpunt": "Wil onnodige regeldruk verminderen en één herkenbaar aanspreekpunt voor ondernemers.",
+   "citaat": "We willen daarom kritisch kijken naar onnodige regeldruk en procedures waar mogelijk eenvoudiger en sneller maken.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "lokaal aanbesteden",
+   "standpunt": "Wil dat lokale en regionale ondernemers binnen de aanbestedingsregels een eerlijke kans krijgen op gemeentelijke opdrachten, zonder automatisch voor de goedkoopste te kiezen.",
+   "citaat": "Waar dat binnen de aanbestedingsregels mogelijk is, willen we dat lokale en regionale ondernemers een eerlijke kans krijgen om mee te dingen naar gemeentelijke opdrachten.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "citymarketing en bezoekers",
+   "standpunt": "Wil dat citymarketing aantoonbare waarde oplevert en richt zich liever op bezoekers die de lokale economie versterken dan op zoveel mogelijk bezoekers.",
+   "citaat": "We richten ons liever op bezoekers die daadwerkelijk bijdragen aan de lokale economie dan op zoveel mogelijk bezoekers zonder duidelijke meerwaarde.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "evenementen",
+   "standpunt": "Wil ruimte bieden aan evenementen die bij de omgeving passen en gedragen worden door de organisatoren, met duidelijke en werkbare regels.",
+   "citaat": "We willen ruimte bieden aan evenementen die passen bij de omgeving en worden gedragen door de mensen die ze organiseren.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "toerisme en schaal",
+   "standpunt": "Evenementen en toeristische activiteiten moeten passen bij de schaal en het karakter van Hilversum.",
+   "citaat": "Evenementen en toeristische activiteiten moeten passen bij de schaal en het karakter van Hilversum.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "eigen economische positie in de regio",
+   "standpunt": "Wil regionaal samenwerken waar dat meerwaarde heeft, maar Hilversum een eigen economische positie laten innemen.",
+   "citaat": "Hilversum moet daarbij een duidelijke eigen economische positie innemen en niet alleen aansluiten bij regionale plannen.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "richting"
+  }
+ ],
+ "dorp-voor-dorp": [
+  {
+   "onderwerp": "Stadsfonds wordt Buurtfonds",
+   "standpunt": "Het huidige centrale Stadsfonds (ondernemersbijdrage) vervangen door Buurtfondsen per buurt of dorp, waarin ondernemers, inwoners en lokale organisaties meebeslissen.",
+   "citaat": "het huidige model van één centraal Stadsfonds vervangen door Buurtfondsen;",
+   "bron": "programma",
+   "pagina": 22,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bijdrage ondernemers per gebied",
+   "standpunt": "De bijdrage van ondernemers aan een Buurtfonds moet per gebied kunnen verschillen, zodat een hoge verplichte bijdrage in een zwak winkelgebied niet averechts werkt.",
+   "citaat": "Ook de bijdrage van ondernemers aan een Buurtfonds moet daarom per gebied kunnen verschillen.",
+   "bron": "programma",
+   "pagina": 20,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokale economie en leefbaarheid",
+   "standpunt": "Lokaal economisch beleid (winkelstraten, bedrijventerreinen) hoort samen met leefbaarheid te worden gezien.",
+   "citaat": "Daarom zien wij lokaal economisch beleid niet als iets dat losstaat van leefbaarheid.",
+   "bron": "programma",
+   "pagina": 21,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "betaald parkeren in het centrum",
+   "standpunt": "Betaald parkeren is in het centrum acceptabel om parkeerruimte te verdelen; daarbuiten kan het een onnodige drempel zijn.",
+   "citaat": "In het centrum kan betaald parkeren een functie hebben om de beschikbare parkeerruimte goed te verdelen.",
+   "bron": "programma",
+   "pagina": 53,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "regels voor agrarische ondernemers",
+   "standpunt": "Gemeentelijke regels die agrarische ondernemers onnodig belemmeren kritisch tegen het licht houden.",
+   "citaat": "gemeentelijke regels die agrarische ondernemers onnodig belemmeren kritisch tegen het licht houden;",
+   "bron": "programma",
+   "pagina": 77,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "onderwijs en regionale arbeidsmarkt",
+   "standpunt": "De aansluiting tussen onderwijs en de regionale arbeidsmarkt veel sterker maken via de Techniekcampus, met regionale technische bedrijven structureel betrokken.",
+   "citaat": "de aansluiting tussen onderwijs en de regionale arbeidsmarkt veel sterker maken.",
+   "bron": "programma",
+   "pagina": 61,
+   "soort": "richting"
+  }
+ ],
+ "stop-betaald-parkeren-vip": [
+  {
+   "onderwerp": "ondernemersloket",
+   "standpunt": "De partij richt één herkenbaar ondernemersloket in voor vragen, vergunningen en procedures, dat bij onvolledige aanvragen zelf contact opneemt.",
+   "citaat": "We richten één herkenbaar ondernemersloket in voor vragen, vergunningen en procedures.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "regels afschaffen en meerjarige vergunningen",
+   "standpunt": "Gemeentelijke regels worden regelmatig getoetst op nut en niet-noodzakelijke regels afgeschaft; voor terugkerende activiteiten komen waar mogelijk meerjarige vergunningen.",
+   "citaat": "Voor terugkerende activiteiten werken we waar mogelijk met meerjarige vergunningen.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "parkeren en ondernemers",
+   "standpunt": "Parkeermaatregelen komen alleen bij een concreet probleem en als betaald parkeren nodig blijkt, houdt de partij parkeren eenvoudig en betaalbaar voor winkels en bezoekers.",
+   "citaat": "Parkeermaatregelen voeren we alleen in als er een concreet probleem is en als betaald parkeren nodig blijkt, houden we parkeren eenvoudig en betaalbaar.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "afspraken bij werkzaamheden en wegafsluitingen",
+   "standpunt": "Bij werkzaamheden en ingrijpende verkeersmaatregelen maakt de partij vooraf afspraken met ondernemers over bereikbaarheid, bevoorrading en laden en lossen.",
+   "citaat": "Bij werkzaamheden en wegafsluitingen maken we vooraf afspraken met ondernemers over bereikbaarheid, bevoorrading en laden en lossen.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bedrijfsruimte bij woningbouw",
+   "standpunt": "Verdwijnt bedrijfsruimte door woningbouw of gebiedsontwikkeling, dan bepaalt de partij vooraf hoe voldoende passende ruimte behouden of gecompenseerd wordt.",
+   "citaat": "Verdwijnt bedrijfsruimte, dan bepalen we vooraf hoe voldoende passende ruimte om te ondernemen behouden of gecompenseerd kan worden.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "groeiende bedrijven en nieuwe locaties",
+   "standpunt": "Voor bedrijven die veel ruimte nodig hebben onderzoekt de partij locaties aan de randen van de gemeente of op goed bereikbare bedrijventerreinen, zonder gedwongen verhuizing; wie vrijwillig verhuist, laat ruimte vrij voor wonen of kleinere bedrijven.",
+   "citaat": "Geen gedwongen standaardoplossing, maar maatwerk per locatie.",
+   "bron": "programma",
+   "pagina": 24,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "winkelgebieden, terrassen en pop-ups",
+   "standpunt": "De partij wil winkelgebieden en dorpscentra aantrekkelijk houden en ruimte geven aan terrassen, pop-upwinkels en kleinschalige evenementen waar die passen.",
+   "citaat": "geven waar mogelijk ruimte aan terrassen, pop-upwinkels, kleinschalige evenementen en andere tijdelijke initiatieven waar die passen.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "startups en media/AI",
+   "standpunt": "De partij wil ruimte geven aan startups en innovatieve bedrijven en waar mogelijk locaties zoeken om talent en bedrijvigheid in media, innovatie, digitalisering en AI te binden.",
+   "citaat": "Zo helpen we talent en bedrijvigheid op het gebied van media, innovatie, digitalisering en AI aan onze gemeente te binden.",
+   "bron": "programma",
+   "pagina": 24,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "regionale samenwerking",
+   "standpunt": "De partij werkt regionaal samen waar dat inwoners en ondernemers aantoonbaar voordeel oplevert en bewaakt daarbij de belangen en zeggenschap van de eigen gemeente.",
+   "citaat": "Daarbij bewaken we de belangen en zeggenschap van onze eigen gemeente.",
+   "bron": "programma",
+   "pagina": 24,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "personeelstekorten",
+   "standpunt": "Met onderwijs, ondernemers en organisaties wil de partij personeelstekorten in onder meer zorg, onderwijs, kinderopvang en techniek aanpakken.",
+   "citaat": "We werken met onderwijs, ondernemers en maatschappelijke organisaties samen aan personeelstekorten die inwoners en de lokale economie direct raken",
+   "bron": "programma",
+   "pagina": 24,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "zondagsopening winkels",
+   "standpunt": "Over ruimere zondagsopening van winkels heeft de partij in de Stemgids een neutraal standpunt zonder toelichting.",
+   "citaat": "De partij gaf geen toelichting.",
+   "bron": "extra-stemgids-standpunten.txt",
+   "pagina": null,
+   "soort": "richting"
+  }
+ ],
+ "opstand-nu": [
+  {
+   "onderwerp": "centrum vergroten",
+   "standpunt": "Wil het centrum niet verkleinen maar vergroten en verlevendigen, met aandacht voor Havenstraat, Langestraat, Bussumerstraat/Naarderweg en de oostzijde van het station.",
+   "citaat": "Het centrum wordt, als het OpStand.nu ligt, niet verkleind maar juist vergroot en verlevendigd",
+   "bron": "programma",
+   "pagina": 2,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "horeca-concentratiebeleid",
+   "standpunt": "Wil breken met het horeca-concentratiebeleid.",
+   "citaat": "Ook breken we met het zogeheten horeca-concentratiebeleid.",
+   "bron": "programma",
+   "pagina": 4,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Mediapark open campus",
+   "standpunt": "Steunt de transformatie van het Mediapark naar een meer open campus en wil de media meer bij de stad betrekken.",
+   "citaat": "OpStand steunt de transformatie van het mediapark naar een meer open campus, maar ziet ook kansen om de media juist meer bij de stad te betrekken.",
+   "bron": "programma",
+   "pagina": 4,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "mediastad in de stad",
+   "standpunt": "Noemt als voorbeelden een debatcentrum, Theater Gooiland, jazz in De Vioolkist, mediaopleidingen met studentenhuisvesting en culturele broedplaatsen.",
+   "citaat": "aan een debatcentrum, het revitaliseren van Theater Gooiland, live jazz in De Vioolkist",
+   "bron": "programma",
+   "pagina": 4,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "televisietoren",
+   "standpunt": "Wil de televisietoren liefst tot leven brengen met een publieksfunctie.",
+   "citaat": "Het liefst zou OpStand.nu de televisietoren tot leven brengen, met een publieksfunctie.",
+   "bron": "programma",
+   "pagina": 4,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "Noord en Mediapark verbinden",
+   "standpunt": "Wil dat Noord meeprofiteert van het Mediapark en wil het Mediapark sterker met Noord en via wandel-/fietsroute met het centrum verbinden.",
+   "citaat": "Het mediapark wordt wat ons betreft sterker met Noord verbonden",
+   "bron": "programma",
+   "pagina": 4,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokale media",
+   "standpunt": "Wil investeren in lokale media met voorop hun redactionele onafhankelijkheid.",
+   "citaat": "We investeren in lokale media, als steunpilaren van onze democratie en als broedplaatsen voor mediatalent.",
+   "bron": "programma",
+   "pagina": 4,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "vakantieverhuur",
+   "standpunt": "Wil geen wildgroei aan particuliere vakantieverhuur zoals in Amsterdam.",
+   "citaat": "We willen straks niet het voordelige afvoerputje van Amsterdam worden, met eenzelfde wildgroei aan particuliere vakantieverhuur als in de hoofdstad.",
+   "bron": "programma",
+   "pagina": 9,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "zondagsopening winkels",
+   "standpunt": "Is neutraal over ruimere zondagsopening van winkels (antwoord in stemgids).",
+   "citaat": "Neutraal: Ruimere zondagsopening winkels",
+   "bron": "extra-stemgids-standpunten.txt",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "zelfvoorzienend Hilversum",
+   "standpunt": "Wil Hilversum zelfvoorzienend met eigen ziekenhuis en topsportcentrum.",
+   "citaat": "ook graag selfsupporting met een eigen ziekenhuis, straks een topsportcentrum",
+   "bron": "programma",
+   "pagina": 6,
+   "soort": "richting"
+  }
+ ],
+ "pvdd": [
+  {
+   "onderwerp": "economische groei",
+   "standpunt": "De partij wil geen economische groei als doel; Hilversum maakt indicatoren van brede welvaart leidend in het beleid.",
+   "citaat": "Welvaart wordt niet meer gemeten of nagestreefd aan de hand van economische groeicijfers of hoge plekken in economische ranglijstjes.",
+   "bron": "programma",
+   "pagina": 32,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "vervuilende bedrijven",
+   "standpunt": "Omgevingsplannen geven geen ruimte aan bedrijven of sectoren die aantoonbaar vervuilen of mensenrechten schenden; milieuhandhaving krijgt hoge prioriteit.",
+   "citaat": "In omgevingsplannen geeft Hilversum geen ruimte aan bedrijven of sectoren die aantoonbaar vervuilen of mensenrechten schenden.",
+   "bron": "programma",
+   "pagina": 33,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bedrijventerreinen",
+   "standpunt": "Bedrijventerreinen zonder toekomst of met te veel hinder worden circulair en schoon of omgevormd tot woonwijken en groen; bij de overige terreinen wordt de ruimte efficiënter gebruikt.",
+   "citaat": "Bedrijventerreinen die geen toekomst meer hebben of te veel hinder veroorzaken voor omliggende woongebieden worden circulair en schoon of omgevormd tot woonwijken en groen.",
+   "bron": "programma",
+   "pagina": 33,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "distributiecentra en datacenters",
+   "standpunt": "De gemeente weert grootschalige distributiecentra en datacenters.",
+   "citaat": "De gemeente gaat verdozing door gebouwen tegen en weert grootschalige distributiecentra en datacenters.",
+   "bron": "programma",
+   "pagina": 33,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "reclame openbare ruimte",
+   "standpunt": "Hilversum stopt met reclame in de openbare ruimte, behalve overheidscampagnes, cultuur en goede doelen; tot die tijd verdwijnen reclames voor dierlijke producten, fossiele producten, gokken en alcohol.",
+   "citaat": "Hilversum stopt met reclame in de openbare ruimte met uitzondering van overheidscampagnes, cultuur en goede doelen.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "evenementenbeleid",
+   "standpunt": "Er komt een evenementenplan met locaties, aantallen en geluidsnormen; festivals mogen geen schade toebrengen aan natuur en leefgebieden; vergunningskosten en gunning hangen af van hoe groen het evenement is.",
+   "citaat": "De gemeente stelt een evenementenplan op.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "grootschalige evenementen",
+   "standpunt": "Hilversum ontmoedigt dure, grootschalige prestige-evenementen van publiek geld.",
+   "citaat": "Hilversum ontmoedigt dure, grootschalige prestige-evenementen van publiek geld.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "toerisme",
+   "standpunt": "De opbrengsten van de toeristenbelasting worden gebruikt om te verduurzamen en de natuur te versterken, en de gemeente wil meer bezoekers met het OV laten komen.",
+   "citaat": "Daarom gebruikt de gemeente de opbrengsten van de toeristenbelasting om te verduurzamen en de natuur te versterken, om de schade van toerisme te beperken.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "horeca",
+   "standpunt": "Horeca wordt gestimuleerd plantaardige opties aan te bieden, terrasverwarming wordt ontmoedigd en bij vergunningen wordt rekening gehouden met geluidsoverlast voor omwonenden.",
+   "citaat": "Terrasverwarming wordt ontmoedigd.",
+   "bron": "programma",
+   "pagina": 35,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "fastfood",
+   "standpunt": "Hilversum zoekt in overleg met het Rijk manieren om nieuwe vestigingen van fastfoodketens te weren.",
+   "citaat": "Hilversum zoekt naar manieren om nieuwe vestigingen van fastfoodketens te kunnen weren en treedt daarover in overleg met het Rijk.",
+   "bron": "programma",
+   "pagina": 63,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "lokaal inkopen en ondernemen",
+   "standpunt": "De gemeente start een koop-lokaal-initiatief, koopt zo veel mogelijk lokaal en regionaal in en past Community Wealth Building toe; zzp'ers en duurzame start-ups worden geholpen aan kantoorruimte.",
+   "citaat": "De gemeente begint een koop-lokaal-initiatief en geeft zelf het goede voorbeeld door zo veel mogelijk lokaal en regionaal in te kopen.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "inkoop",
+   "standpunt": "Het inkoopbeleid is duurzaam en sociaal, met prijs als ondergeschikt criterium; de gemeente koopt 100% circulair in.",
+   "citaat": "Het inkoopbeleid is duurzaam en sociaal, de prijs is daaraan ondergeschikt.",
+   "bron": "programma",
+   "pagina": 36,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "werkgelegenheid en open hiring",
+   "standpunt": "De gemeente start een pilot 'open hiring', behoudt sociale werkplaatsen en geeft bij aanbestedingen voorrang aan werkplekken voor mensen met een afstand tot de arbeidsmarkt.",
+   "citaat": "De gemeente start een pilot op basis van het principe van ‘open hiring’, waarbij iedereen voor bepaalde functies welkom is, ongeacht verleden, opleiding of ervaring.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "sociale werkplaatsen",
+   "standpunt": "Sociale werkplaatsen blijven behouden.",
+   "citaat": "Sociale werkplaatsen blijven behouden, zodat mensen dicht bij huis betekenisvol werk kunnen doen met goede begeleiding.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "concreet"
+  }
+ ],
+ "blanco-van-oostveen": [
+  {
+   "onderwerp": "zondagsopening winkels",
+   "standpunt": "Voor ruimere zondagsopening, naar keuze van de ondernemer; noemt 10.00 tot 20.00 uur redelijk en gratis openbaar vervoer als aanvulling.",
+   "citaat": "Tussen 10.00 en 20.00 zou redelijk zijn immers is de zondag vaak de enige dag dat men naar de stad kan met het gezin.",
+   "bron": "extra-stemgids-standpunten.txt",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Bruisend Hart Oosterspoorplein",
+   "standpunt": "Tegen het plan Bruisend Hart zoals vastgesteld; wil terug naar de oorspronkelijke visie uit het eerdere participatietraject.",
+   "citaat": "Terug naar de tekentafel vanuit de oorspronkelijke visie.",
+   "bron": "extra-stemgids-standpunten.txt",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Kerkbrink",
+   "standpunt": "Voor een soberdere en goedkopere herinrichting van de Kerkbrink: groen, bankjes, ruimte voor kleine evenementen en doorgang voor de fiets.",
+   "citaat": "Terwijl de oplossing simpel is en niet duur: flink wat groen toevoegen, wat bankjes voor ontmoeting en ruimte voor kleine evenementen & ook doorgang voor de fiets behouden.",
+   "bron": "extra-stemgids-standpunten.txt",
+   "pagina": null,
+   "soort": "concreet"
+  }
+ ],
+ "lfd": [
+  {
+   "onderwerp": "vergunningen voor ondernemers",
+   "standpunt": "Vergunningstrajecten voor ondernemers worden sneller en eenvoudiger.",
+   "citaat": "Vergunningstrajecten worden sneller en eenvoudiger.",
+   "bron": "programma",
+   "pagina": 7,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "gelijke behandeling ondernemers",
+   "standpunt": "Geen voorkeursbeleid voor grote bedrijven of organisaties; opdrachten worden op transparante, objectieve voorwaarden verleend.",
+   "citaat": "Er is geen voorkeursbeleid voor grote bedrijven of organisaties.",
+   "bron": "programma",
+   "pagina": 7,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "toeristenbelasting",
+   "standpunt": "De partij was tegen invoering van toeristenbelasting en wil voorkomen dat deze steeds wordt verhoogd om andere uitgaven te financieren.",
+   "citaat": "LFD was tegen de invoering van toeristenbelasting.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "recreatie en toerisme",
+   "standpunt": "De gemeente zorgt voor randvoorwaarden, openbare veiligheid en bereikbaarheid maar organiseert recreatie niet zelf; hotels, campings, horeca en evenementen komen van ondernemers, inwoners en verenigingen.",
+   "citaat": "De gemeente zorgt voor heldere randvoorwaarden, openbare veiligheid en goede bereikbaarheid, maar hoeft recreatie niet zelf te organiseren.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "winkelgebieden en bedrijventerreinen",
+   "standpunt": "Winkelgebieden, bedrijventerreinen en dorpskernen moeten bereikbaar en veilig zijn; de gemeente ontwerpt ondernemerschap niet vanuit het gemeentehuis.",
+   "citaat": "Winkelgebieden, bedrijventerreinen en dorpskernen moeten bereikbaar en veilig zijn.",
+   "bron": "programma",
+   "pagina": 7,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "evenementen",
+   "standpunt": "Terugkerende evenementen die probleemloos verlopen hoeven niet elk jaar opnieuw dezelfde procedure te doorlopen; waar een melding volstaat is geen vergunning nodig.",
+   "citaat": "Terugkerende evenementen en activiteiten die aantoonbaar probleemloos verlopen, horen niet ieder jaar opnieuw dezelfde bureaucratische hindernisbaan te doorlopen.",
+   "bron": "programma",
+   "pagina": 21,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Media Park als onderdeel van aantrekkelijkheid",
+   "standpunt": "Het Media Park wordt genoemd als een van de elementen die de nieuwe gemeente aantrekkelijk maken; er staat geen concreet beleid voor.",
+   "citaat": "De combinatie van Hilversum, het Media Park, de Hilversumse Meent, de zes dorpen van Wijdemeren, de Loosdrechtse Plassen, natuur, cultuur en erfgoed maakt onze nieuwe gemeente aantrekkelijk voor inwoners én bezoekers.",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "ondernemers en regels",
+   "standpunt": "De gemeente helpt ondernemers vooral door regels te vereenvoudigen en schrijft niet voor hoe zij hun organisatie inrichten.",
+   "citaat": "Ondernemers creëren banen. De gemeente helpt vooral door regels te vereenvoudigen, procedures overzichtelijk te houden en ondernemers niet voor te schrijven hoe zij hun organisatie moeten inrichten.",
+   "bron": "programma",
+   "pagina": 26,
+   "soort": "richting"
+  }
+ ],
+ "volt": [
+  {
+   "onderwerp": "winkelgebieden concentreren",
+   "standpunt": "Winkels concentreren in de hoofdstraten, achterblijvende panden verbouwen tot woonruimte en winkels bij een verhuizing van een aanloopstraat ondersteunen.",
+   "citaat": "Minder winkels is onvermijdelijk, daarom willen wij ze graag concentreren in de hoofdstraten.",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "pop-up stores",
+   "standpunt": "Tijdelijke winkels, pop-ups en lokale initiatieven steunen, waar nodig met subsidie voor de opstartperiode.",
+   "citaat": "Waar nodig ondersteunen we dit met subsidies om de opstartperiode te ondersteunen.",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "winkels en horeca in de dorpen",
+   "standpunt": "Winkels en horeca in de dorpen behouden en voorzieningen zoals buitenschoolse opvang dichtbij de dorpscentra organiseren.",
+   "citaat": "zetten wij in op behoud van winkels en horeca in de dorpen",
+   "bron": "programma",
+   "pagina": 37,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "THETA desinformatie",
+   "standpunt": "De gemeente ondersteunt het Hilversumse initiatief THETA, The European Trust Alliance, en verbindt zich de komende vier jaar eraan.",
+   "citaat": "De gemeente ondersteunt THETA en zal zich de komende vier jaar aan dit initiatief verbinden.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "Media Campus",
+   "standpunt": "Langdurige gemeentelijke financiering van de Media Campus voor start-ups, AI-toepassingen en om- en bijscholing.",
+   "citaat": "We steunen de Media Campus met langdurige financiering vanuit de gemeente.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "innovatie mediasector",
+   "standpunt": "Samenwerken via de media innovation hub en de Media Campus om Hilversum het centrum van de nieuwsvoorziening te laten blijven.",
+   "citaat": "Om innovatie te stimuleren blijven we samenwerken, via de media innovation hub en de Media Campus.",
+   "bron": "programma",
+   "pagina": 38,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "start-ups en scale-ups",
+   "standpunt": "Voldoende plekken voor start-ups en scale-ups en blijvende steun aan innovatieve bedrijven via partners.",
+   "citaat": "Wij zorgen in onze gemeente voor voldoende plekken voor start-ups en scale-ups.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "gevolgen van beleid voor ondernemers",
+   "standpunt": "Eerst luisteren naar ondernemers en de gevolgen van nieuw beleid onderzoeken voordat de gemeente handelt.",
+   "citaat": "we luisteren naar ondernemers voordat we handelen en dat we de gevolgen van nieuw beleid eerst onderzoeken.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "bedrijventerreinen",
+   "standpunt": "Bedrijventerreinen verduurzamen, beter benutten en per bedrijf bekijken of het wel op een bedrijventerrein gevestigd moet zijn.",
+   "citaat": "kijken of een bedrijf ook echt op een bedrijventerrein gevestigd moet zijn of dat het zich ook ergens anders kan vestigen.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "logistieke hubs",
+   "standpunt": "Logistieke hubs bij de invalswegen N201, A27 en A1 voor gebundeld lokaal bezorgen, plus subsidies voor emissievrije logistiek.",
+   "citaat": "Met logistieke hubs nabij de invalswegen N201, A27 en A1 kunnen ondernemers hun bevoorrading tijdelijk opslaan en gebundeld lokaal bezorgen.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "inkoop en aanbestedingen",
+   "standpunt": "Bij aanbestedingen is de laagste prijs niet doorslaggevend; voorkeur voor bedrijven met een sociale of circulaire bijdrage.",
+   "citaat": "Bij aanbestedingen is de laagste prijs niet heilig.",
+   "bron": "programma",
+   "pagina": 39,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "horecavergunningen",
+   "standpunt": "Een flexibel vergunningmodel naar Rotterdams voorbeeld waarbij de ondernemer een vergunning op maat samenstelt, met heldere regels over openingstijden, geluid en overlast.",
+   "citaat": "We stappen over op een flexibel model, zoals in Rotterdam, waarbij een ondernemer een vergunning op maat samenstelt.",
+   "bron": "programma",
+   "pagina": 40,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "evenementenvergunningen",
+   "standpunt": "Lagere vergunningkosten voor niet-commerciële evenementen zoals Pride, Sinterklaas en kleine dorps- en wijkinitiatieven; grote commerciële evenementen betalen een kostendekkend tarief.",
+   "citaat": "Voor grote commerciële evenementen hanteren we een eerlijk en kostendekkend tarief",
+   "bron": "programma",
+   "pagina": 23,
+   "soort": "concreet"
+  }
+ ],
+ "fvd": [
+  {
+   "onderwerp": "ondernemersfonds",
+   "standpunt": "Het ondernemersfonds (ongeveer 1,5 miljoen euro per jaar) wordt afgeschaft.",
+   "citaat": "Het ondernemersfonds, dat ongeveer 1,5 miljoen euro per jaar kost, schaffen we af.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokaal inkopen",
+   "standpunt": "De gemeente koopt zoveel mogelijk in bij lokale en regionale ondernemers en maakt opdrachten toegankelijk voor kleine bedrijven.",
+   "citaat": "De gemeente koopt zoveel mogelijk in bij lokale en regionale ondernemers",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "horizonbepalingen",
+   "standpunt": "Regels krijgen een horizonbepaling.",
+   "citaat": "Horizonbepalingen voorkomen dat regels het eeuwige leven krijgen.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "De Groest en nachthoreca",
+   "standpunt": "Ruimte behouden voor kroegen, cafés en nachthoreca in het centrum (De Groest, Biersteeg, Spoorstraat, Leeuwenstraat).",
+   "citaat": "Wij willen ruimte behouden voor cafés en andere nachthoreca in het centrum",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "terrassen",
+   "standpunt": "Bezoekers kunnen later op de avond op terrassen blijven zitten zonder onnodig vroeg weggestuurd te worden.",
+   "citaat": "zonder dat zij onnodig vroeg worden weggestuurd.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "wonen naast horeca",
+   "standpunt": "Wonen en horeca moeten naast elkaar kunnen; bewoners in een levendig centrum accepteren bedrijvigheid; bestaande ondernemers blijven kunnen ondernemen binnen duidelijke regels.",
+   "citaat": "Bestaande ondernemers moeten daarom kunnen blijven ondernemen binnen duidelijke en voorspelbare regels.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "productie naast media",
+   "standpunt": "Meer mogelijkheden voor productie naast media en dienstverlening.",
+   "citaat": "Wij versterken de mogelijkheden voor echte productie naast media en dienstverlening.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "toerisme",
+   "standpunt": "Ruimte voor toerisme; regiomarketing wordt beoordeeld op het effect voor de eigen kwaliteiten.",
+   "citaat": "beoordelen regiomarketing op het effect voor de eigen kwaliteiten van Hilversum en Wijdemeren.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "agrarische ondernemers",
+   "standpunt": "De agrarische sector kan investeren en innoveren met ruimte voor nevenactiviteiten.",
+   "citaat": "De agrarische sector moet kunnen investeren en innoveren, zonder onnodige hinder, met ruimte voor nevenactiviteiten.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "uitgaan voor jongeren",
+   "standpunt": "Breed en toegankelijk uitgaansaanbod voor jongeren uit Hilversum en Wijdemeren in het centrum.",
+   "citaat": "Wij staan voor een breed en toegankelijk uitgaansaanbod",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "initiatief van ondernemers",
+   "standpunt": "Ruimte voor initiatieven van inwoners en ondernemers om het centrum levendig te maken zonder voorschriften van bovenaf.",
+   "citaat": "zonder van bovenaf voor te schrijven hoe die levendigheid eruit moet zien.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "evenementen",
+   "standpunt": "Digitaal evenementenloket en geen zwaardere veiligheidseisen dan nodig bij kleinschalige evenementen.",
+   "citaat": "Wij richten een digitaal evenementenloket in en stellen bij kleinschalige evenementen geen zwaardere veiligheidseisen dan nodig.",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "leges",
+   "standpunt": "Leges dekken de kosten en zijn geen verdienmodel.",
+   "citaat": "Leges dekken de kosten en dienen niet als verdienmodel",
+   "bron": "programma",
+   "pagina": null,
+   "soort": "concreet"
+  }
+ ],
+ "bbb": [
+  {
+   "onderwerp": "Stadsfonds via OZB niet-woningen",
+   "standpunt": "Een Stadsfonds via verhoogde OZB op niet-woningen wordt alleen ingevoerd als een aantoonbare meerderheid van de lokale ondernemers instemt en zeggenschap krijgt over de besteding.",
+   "citaat": "Een Stadsfonds via een verhoogde OZB op niet-­woningen wordt uitsluitend ingevoerd als een aantoonbare meerderheid van de lokale onder­nemers hier zelf mee instemt",
+   "bron": "programma",
+   "pagina": 19,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "toeristenbelasting",
+   "standpunt": "Een laag basistarief voor toeristenbelasting in de hele nieuwe gemeente, waarvan de opbrengst één-op-één terugvloeit naar recreatieve voorzieningen, bereikbaarheid en toeristische infrastructuur.",
+   "citaat": "BBB kiest voor een eerlijk en laag basistarief voor toeristenbelasting",
+   "bron": "programma",
+   "pagina": 19,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "lokaal inkopen",
+   "standpunt": "De gemeente koopt producten en diensten bij voorkeur lokaal in, zo nodig met een roulatiesysteem zodat meer ondernemers aan bod komen.",
+   "citaat": "De gemeentelijke organisatie koopt producten en diensten bij voorkeur lokaal in en maakt daarbij indien nodig gebruik van een roulatiesysteem",
+   "bron": "programma",
+   "pagina": 18,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "BIZ en winkelgebied",
+   "standpunt": "Ondernemersverenigingen en BIZzen worden bijgestaan, de BIZ wordt opgeplust en initiatieven voor een bruisende winkelstraat gesteund.",
+   "citaat": "initiatieven om de winkelstraat bruisend te houden, BIZ op te plussen, locaties beschikbaar te stellen voor bedrijven(terreinen)",
+   "bron": "programma",
+   "pagina": 19,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "lage leges ondernemers en evenementen",
+   "standpunt": "Lage heffingen en leges voor ondernemers en voor lokale evenementen.",
+   "citaat": "Lage heffingen en leges voor ondernemers en voor lokale evenementen.",
+   "bron": "extra-speerpunten.txt",
+   "pagina": 1,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "terrasvergunningen",
+   "standpunt": "Terrasuitbreidingen uit de coronaperiode die inmiddels niet meer zijn toegestaan, alsnog vergunnen waar ze een verrijking zijn en geen hinder geven, ook op gemeentegrond.",
+   "citaat": "Op locaties waar terrassen een verrijking zijn en niet voor hinder zorgen, moeten deze alsnog vergund worden",
+   "bron": "programma",
+   "pagina": 21,
+   "soort": "concreet"
+  },
+  {
+   "onderwerp": "evenementenvergunningen en traditie",
+   "standpunt": "Vergunningen voor dorpsfeesten, markten en culturele evenementen mogen niet onnodig ingewikkeld of streng zijn; wat altijd mocht, wordt niet zomaar verboden.",
+   "citaat": "Wat altijd mocht, moet niet zomaar ineens verboden worden.",
+   "bron": "programma",
+   "pagina": 19,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "bedrijven verplaatsen",
+   "standpunt": "Wonen, natuur en bedrijvigheid onderling afstemmen; bedrijven die naar een passender locatie willen verplaatsen worden ondersteund.",
+   "citaat": "Indien bedrijven verplaatst willen worden naar een passender locatie, worden zij ondersteund.",
+   "bron": "programma",
+   "pagina": 19,
+   "soort": "richting"
+  },
+  {
+   "onderwerp": "geen betaald parkeren in winkelgebieden",
+   "standpunt": "Verzet tegen uitbreiding van parkeerheffingen naar winkelgebieden, ter ondersteuning van de lokale economie.",
+   "citaat": "juist inzetten op het terugdringen ervan om de lokale economie te ondersteunen",
+   "bron": "programma",
+   "pagina": 24,
+   "soort": "concreet"
+  }
+ ]
+}

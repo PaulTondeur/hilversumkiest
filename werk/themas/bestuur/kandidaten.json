@@ -1,0 +1,1584 @@
+[
+  {
+    "id": "bestuur-dorpsraad-op-verzoek",
+    "onderwerp": "dorps- en wijkraden",
+    "kop": "Dorpsraad alleen op verzoek",
+    "stelling": "Een gekozen dorps- of wijkraad komt er alleen in dorpen en wijken waar de inwoners daar zelf om vragen.",
+    "uitleg": "De nieuwe gemeente bestaat uit de stad Hilversum met acht wijken en zes Wijdemeerse dorpen. In oktober 2026 besloot de Hilversumse raad te laten onderzoeken hoe dorpen en wijken meer zeggenschap krijgen. Sommige lijsten willen overal een gekozen dorps- of wijkraad, andere alleen waar inwoners erom vragen, en weer andere kiezen een andere vorm, zoals een jaarlijkse dorpsvergadering of een digitaal platform.",
+    "voor": "Een raad waar niemand om vraagt wordt een lege huls; elk dorp en elke wijk moet zelf kunnen kiezen wat past.",
+    "tegen": "Als het afhangt van wie erom vraagt, krijgen mondige buurten wel een eigen stem en andere buurten niet.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "gekozen dorps- of wijkraden waar bewoners dat willen",
+        "basis": "programma p.4"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "dorps- of wijkraad als een dorp of wijk dat wil",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "pilots en maatwerk; één vast model past niet overal",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "raad hoeft niet overal verplicht of gekozen te zijn",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 0,
+        "kern": "participatie belangrijk, extra laag kan afstand vergroten",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "tegen extra bestuurslaag; wel platform per wijk en dorp",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": -2,
+        "kern": "elk dorp en elke wijk een eigen gekozen raad",
+        "basis": "programma p.8"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "onderzoeken; raden hoeven niet per se gekozen",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": 0,
+        "kern": "tegen verkiezingen voor raden; wel meer invloed wijken",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "jaarvergadering in elk dorp, geen besluitvormende dorpsraad",
+        "basis": "programma p.13"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "in ieder dorp een gekozen dorpsraad van vijf leden",
+        "basis": "programma p.5"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "bewoners kiezen zelf hun raden, voor lokale zeggenschap",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "voor gekozen dorps- en wijkraden met eigen budget",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "elk dorp en elke wijk versterkte dorps- en wijkraden",
+        "basis": "programma p.5"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "inwoners bepalen zelf hoe ze zich lokaal organiseren",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "per onderwerp bekijken hoe dorpen en wijken beslissen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "elk van de zes dorpen een dorpsplatform met bevoegdheden",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "dorpsraden met dorpsbudget, democratisch gekozen",
+        "basis": "programma p.7"
+      }
+    },
+    "spreiding": "Hart voor Hilversum, PRO en VVD (alleen waar gevraagd) staan tegenover SP, Dorp voor Dorp en FVD (overal); scheidt Hart voor Hilversum van Dorp voor Dorp en SBP-VIP, en PRO van SP en PvdD.",
+    "twijfel": "SBP-VIP, Opstand.nu en BBB staan op -1 omdat ze gekozen raden steunen; dat ze die overal willen, zeggen ze niet letterlijk. Lokaal Eén, Gewoon Hilversum en BVNL willen helemaal geen raad als extra bestuurslaag; daar past deze stelling slecht bij, dus 0."
+  },
+  {
+    "id": "bestuur-dorpsraad-beslist",
+    "onderwerp": "dorps- en wijkraden",
+    "kop": "Dorpsraad beslist zelf",
+    "stelling": "Dorps- en wijkraden mogen zelf besluiten nemen over zaken die alleen hun eigen dorp of wijk raken, in plaats van alleen advies te geven.",
+    "uitleg": "Een dorps- of wijkraad kan de gemeente adviseren, of zelf beslissen over bijvoorbeeld een eigen budget of de inrichting van een plein. De Gemeentewet maakt het mogelijk om bevoegdheden over te dragen aan zo'n raad, maar de gemeenteraad houdt het laatste woord over de begroting. Tegenstanders vrezen een extra bestuurslaag tussen inwoners en gemeenteraad.",
+    "voor": "Wie in het dorp woont weet het best wat daar nodig is, en een raad die alleen mag adviseren wordt snel genegeerd.",
+    "tegen": "Een extra bestuurslaag maakt besluiten trager en duurder, en de gekozen gemeenteraad hoort voor de hele gemeente te beslissen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 1,
+        "kern": "beslissingen over leefomgeving beginnen bij bewoners; gebiedsbudgetten binnen kaders",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": 0,
+        "kern": "meer zeggenschap via budgetten, samen met professionals",
+        "basis": "programma p.9"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "eerst pilots; geen vaste vorm zoals wijkraad",
+        "basis": "programma p.45"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "raad is instrument om te betrekken; liever dorpswethouders",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "extra laag tussen inwoners en raad vergroot afstand",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "tegen een extra bestuurslaag",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "eigen budget en zeggenschap over eigen gebied",
+        "basis": "programma p.8"
+      },
+      "christenunie": {
+        "s": 0,
+        "kern": "wil eerst onderzoeken wat nodig is",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "geen extra bestuurslaag; wel meer invloed",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "geen besluitvormende dorpsraad of mini-gemeenteraad; wel gebiedsbudget",
+        "basis": "programma p.13"
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "dorpsraden beslissen, niet alleen adviseren",
+        "basis": "programma p.5"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "meer lokale zeggenschap, eigen agenda met budget",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "gekozen raden met enig budget voor eigen omgeving",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "raden versterken, met uitdaagrecht en buurtbudgetten",
+        "basis": "programma p.75"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "eigen zeggenschap en kernbudget, maar adviesraden",
+        "basis": "hilversumsnieuws"
+      },
+      "lfd": {
+        "s": 0,
+        "kern": "besluiten dicht bij inwoners, maar geen extra bestuurslaag",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "dorpen en wijken beslissen, met eigen budget",
+        "basis": "programma p.19"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "dorpsplatforms met gedelegeerde bevoegdheden en zwaarwegend advies",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "dorps- en wijkraden met echte invloed",
+        "basis": "programma p.27"
+      }
+    },
+    "spreiding": "Dorp voor Dorp, SP en FVD (beslissen) tegenover Gewoon Hilversum en Lokaal Eén (geen bestuurslaag), met CDA, D66, VVD en BVNL; scheidt de lokale lijsten onderling (Dorp voor Dorp, SBP-VIP en Hart voor Hilversum tegenover Gewoon Hilversum en Lokaal Eén) en FVD en BBB van BVNL.",
+    "twijfel": "Hart voor Hilversum zit tussen advies en beslissen in (gebiedsbudgetten binnen kaders van de raad); +1 is een lichte lezing. SCB zegt alleen dat de stem van inwoners beter gehoord moet worden: null."
+  },
+  {
+    "id": "bestuur-wethouder-per-dorp",
+    "onderwerp": "aanspreekpunt in dorp en wijk",
+    "kop": "Eigen wethouder per dorp",
+    "stelling": "Elk dorp en elke wijk krijgt een vaste wethouder als eigen aanspreekpunt, met een spreekuur in het dorp of de wijk zelf.",
+    "uitleg": "De gemeente werkt nu met dorpscoördinatoren en wijkregisseurs: ambtenaren die het eerste aanspreekpunt voor inwoners zijn. Sommige lijsten willen dat het college daarnaast de dorpen en wijken onder de wethouders verdeelt, zodat elke kern een bestuurder heeft die er verantwoordelijk voor is. Andere lijsten willen liever de ambtelijke regisseurs meer bevoegdheden geven.",
+    "voor": "Met een vaste wethouder weet elk dorp wie er in het college verantwoordelijk is en wie je kunt aanspreken.",
+    "tegen": "Ambtelijke regisseurs met genoeg bevoegdheden helpen inwoners sneller, en een wethouder per kern leidt tot opkomen voor het eigen gebied in het college.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "dorpscoördinatoren en buurtregisseurs met budget versterken",
+        "basis": "afgeleid"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 2,
+        "kern": "voorstander van buurt-, wijk- en dorpswethouders",
+        "basis": "programma p.28"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "dorpscoördinatoren en wijkregisseurs meer mandaat als aanspreekpunt",
+        "basis": "programma p.8"
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "elke buurt een eigen wethouder met maandelijks spreekuur",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": -1,
+        "kern": "dorps- en wijkregisseurs meer ruimte geven",
+        "basis": "afgeleid"
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "herkenbaar lokaal aanspreekpunt, niet per se wethouder",
+        "basis": "programma p.14"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "één wethouder voor de dorpen en het buitengebied",
+        "basis": "programma p.7"
+      }
+    },
+    "spreiding": "Lokaal Eén, VVD en BBB tegenover CDA, ChristenUnie en PRO, die de ambtelijke regisseurs willen versterken; scheidt Lokaal Eén van de andere lokale lijsten en VVD van CDA.",
+    "twijfel": "Weinig lijsten noemen dit; de minkant is afgeleid uit hun voorkeur voor ambtelijke regisseurs en is geen uitgesproken afwijzing. BBB wil één wethouder voor alle dorpen samen, niet één per dorp."
+  },
+  {
+    "id": "bestuur-loket-elk-dorp",
+    "onderwerp": "loketten in de dorpen",
+    "kop": "Vast loket in elk dorp",
+    "stelling": "Elk dorp krijgt een eigen gemeenteloket dat minstens één dag per week open is, ook als dat extra geld kost.",
+    "uitleg": "Voor bijvoorbeeld een paspoort of rijbewijs kunnen inwoners nu terecht bij het stadskantoor in Hilversum en het loket in Loosdrecht. Na de fusie is de vraag hoe dichtbij de gemeente in de dorpen moet zijn. Mogelijkheden zijn een vast loket per dorp, spreekuren in dorpshuizen, een mobiel loket dat langs de dorpen rijdt, of vooral hulp via internet en telefoon, op afspraak.",
+    "voor": "Vooral ouderen en minder mobiele inwoners in de dorpen hebben een vaste plek dichtbij nodig.",
+    "tegen": "Vaste loketten in zes dorpen kosten veel geld, terwijl een mobiel loket of goede hulp via internet en telefoon hetzelfde bereikt.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "loket naar behoefte: spreekuren in dorpshuizen of mobiel loket",
+        "basis": "mijnstem"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "niet in elk dorp een loket; wel goede dienstverlening",
+        "basis": "mijnstem"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "fysieke loketten in de buurt, naast digitaal",
+        "basis": "mijnstem"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "geen vast loket per dorp; mobiel loket en dorpscoördinatoren",
+        "basis": "mijnstem"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "dorp- en wijkregisseurs als eerste loket, uitbreiden",
+        "basis": "mijnstem"
+      },
+      "lokaal-een": {
+        "s": -2,
+        "kern": "geen loket in elk dorp: te duur; wel op afspraak",
+        "basis": "mijnstem"
+      },
+      "sp": {
+        "s": 2,
+        "kern": "servicepunt in elk dorp, een dagdeel per week",
+        "basis": "programma p.6"
+      },
+      "christenunie": {
+        "s": 1,
+        "kern": "per dorp vast loket of spreekuur",
+        "basis": "mijnstem"
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "loket per dorp te duur; digitaal en één centraal loket",
+        "basis": "mijnstem"
+      },
+      "scb": {
+        "s": 1,
+        "kern": "loketten dichtbij helpen minder digitaal vaardigen",
+        "basis": "mijnstem"
+      },
+      "gewoon-hilversum": {
+        "s": 2,
+        "kern": "ondersteuning dichtbij in wijken en dorpen",
+        "basis": "mijnstem"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "geen duur vast loket per dorp, wel één mobiel loket",
+        "basis": "mijnstem"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "structurele fysieke dienstverlening dichtbij in de dorpen",
+        "basis": "mijnstem"
+      },
+      "opstand-nu": {
+        "s": 2,
+        "kern": "loketten in dorpen en buitenwijken, met buurthuizen",
+        "basis": "mijnstem"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "loket in Loosdrecht moet blijven, naast stadskantoor",
+        "basis": "mijnstem"
+      },
+      "blanco-van-oostveen": {
+        "s": 2,
+        "kern": "een of twee dagen loket in alle dorpen en wijken",
+        "basis": "mijnstem"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "gemeenteloketten in alle dorpen",
+        "basis": "mijnstem"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "fysieke loketten naar behoefte van de dorpen",
+        "basis": "mijnstem"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "balies in Nederhorst den Berg, Kortenhoef en Loosdrecht",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "loket in álle dorpen onrealistisch; wel fysiek dichtbij",
+        "basis": "mijnstem"
+      }
+    },
+    "spreiding": "SP, LFD, FVD, Gewoon Hilversum, SBP-VIP en Opstand.nu tegenover PRO, Lokaal Eén, BVNL, D66 en VVD; scheidt Dorp voor Dorp (mobiel loket) en Lokaal Eén van Gewoon Hilversum en SBP-VIP, BBB van FVD en BVNL, en SP van PRO.",
+    "twijfel": "Gebaseerd op de MijnStem-stelling over loketten in alle dorpen; 'minstens één dag per week' en 'extra geld' zijn toegevoegd. Dorp voor Dorp antwoordde 100 maar bedoelt een mobiel loket in plaats van vaste loketten, daarom -1. CDA (70) bedoelt vooral regisseurs als loket."
+  },
+  {
+    "id": "bestuur-dorpen-voorrang",
+    "onderwerp": "geld naar de dorpen",
+    "kop": "Voorrang voor de dorpen",
+    "stelling": "De nieuwe gemeente geeft de dorpen de komende jaren voorrang bij investeringen, ook als plannen in de stad daardoor moeten wachten.",
+    "uitleg": "De fusie volgde op financiële en bestuurlijke problemen in Wijdemeren; meerdere lijsten wijzen op achterstallig onderhoud aan wegen en voorzieningen in de dorpen. De nieuwe gemeente moet kiezen hoe ze geld verdeelt tussen stad en dorpen. Sommige lijsten willen de dorpen een gegarandeerd budget geven, andere willen investeren waar de nood het hoogst is, zonder vooraf onderscheid tussen stad en dorp.",
+    "voor": "De dorpen hebben een achterstand opgelopen en moeten zeker weten dat de grotere stad niet al het geld naar zich toe trekt.",
+    "tegen": "Geld hoort te gaan naar waar het het hardst nodig is, en ook wijken in de stad hebben achterstallig onderhoud en problemen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "en-en; voorzieningen in de dorpen op peil houden",
+        "basis": "hilversumsnieuws"
+      },
+      "pro": {
+        "s": -1,
+        "kern": "geld naar waar het het hardst nodig is",
+        "basis": "hilversumsnieuws"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "geen verschil stad en dorp; waar behoefte grootst is",
+        "basis": "hilversumsnieuws"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "oneens: per keer prioriteiten, soms dorp, soms stad",
+        "basis": "hilversumsnieuws"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "in dorpen én stad, niet ten koste van elkaar",
+        "basis": "hilversumsnieuws"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "investeren op basis van wat nodig is",
+        "basis": "hilversumsnieuws"
+      },
+      "sp": {
+        "s": 0,
+        "kern": "fusie betekent in praktijk veel geld naar de dorpen",
+        "basis": "hilversumsnieuws"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "oneens: investeren waar nodig, niet naar locatie",
+        "basis": "hilversumsnieuws"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "eens, mits inwoners er direct profijt van hebben",
+        "basis": "hilversumsnieuws"
+      },
+      "scb": {
+        "s": -2,
+        "kern": "oneens: eerlijke verdeling tussen stad en dorpen",
+        "basis": "hilversumsnieuws"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "geen tegenstelling: overal investeren in infrastructuur",
+        "basis": "hilversumsnieuws"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 2,
+        "kern": "eens: elk dorp gegarandeerd budget, stad slokt niet alles op",
+        "basis": "hilversumsnieuws"
+      },
+      "opstand-nu": {
+        "s": -1,
+        "kern": "ook Hilversumse wijken, waar het hardst nodig is",
+        "basis": "hilversumsnieuws"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "investeren in alle dorpen en wijken, geen tweedeling",
+        "basis": "hilversumsnieuws"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "en-en: elk dorp en elke wijk even belangrijk",
+        "basis": "hilversumsnieuws"
+      },
+      "lfd": {
+        "s": -2,
+        "kern": "oneens: geen financiële strijd tussen stad en dorpen",
+        "basis": "hilversumsnieuws"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "investeren in dorpen houdt ze aantrekkelijk en ontlast stad",
+        "basis": "hilversumsnieuws"
+      },
+      "fvd": {
+        "s": 2,
+        "kern": "eens: schade van de fusie voor de dorpen beperken",
+        "basis": "hilversumsnieuws"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "achterstanden in Wijdemeerse dorpen voortvarend oppakken",
+        "basis": "hilversumsnieuws"
+      }
+    },
+    "spreiding": "FVD, SBP-VIP, BVNL, BBB en Volt tegenover ChristenUnie, LFD, SCB en VVD; scheidt SBP-VIP van Hart voor Hilversum, Gewoon Hilversum en Lokaal Eén, FVD en BVNL van LFD en SCB, en Volt van D66.",
+    "twijfel": "Gebaseerd op Hilversums Nieuws, waar veel lijsten 'en-en' antwoordden zonder eens of oneens; die staan op 0 of -1 (bij 'waar het nodig is'). Volt en BBB (+1) zijn afgeleid uit hun toelichting. Dorp voor Dorp ging niet op de vraag in: null."
+  },
+  {
+    "id": "bestuur-gelijke-regels",
+    "onderwerp": "harmonisatie na de fusie",
+    "kop": "Snel overal dezelfde regels",
+    "stelling": "Na de fusie worden regels, tarieven en subsidies zo snel mogelijk in de hele gemeente gelijk getrokken.",
+    "uitleg": "Hilversum en Wijdemeren hadden elk eigen regels, belastingen en subsidies; die moeten na de fusie op elkaar worden afgestemd (harmoniseren). De raad stelde in oktober 2026 een routekaart vast voor het gelijktrekken van het dorpen- en wijkenbeleid. De keuze is hoe snel en hoe ver: overal hetzelfde, of bewust verschillen per kern laten bestaan.",
+    "voor": "Gelijke regels zijn eerlijk en duidelijk: inwoners van één gemeente horen dezelfde rechten en kosten te hebben.",
+    "tegen": "Wat in de stad werkt past niet altijd in een dorp; snel gelijktrekken kan voorzieningen en gewoonten in de dorpen kosten.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": -1,
+        "kern": "bij harmonisatie voorspelbare lasten, geen plotselinge sprongen",
+        "basis": "programma"
+      },
+      "pro": {
+        "s": 2,
+        "kern": "steun aan sport, kunst en cultuur zo snel mogelijk gelijk",
+        "basis": "programma p.19"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "eigenheid behouden; per kern bepalen wat nodig is",
+        "basis": "programma p.4"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "uitvoeringsagenda per kern; lokale verschillen niet wegpoetsen",
+        "basis": "programma p.4"
+      },
+      "cda": {
+        "s": -2,
+        "kern": "harmonisatie betekent niet automatisch overal dezelfde oplossing",
+        "basis": "programma p.6"
+      },
+      "lokaal-een": {
+        "s": 0,
+        "kern": "gelijkwaardigheid van wijken en dorpen, met maatwerk",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": -2,
+        "kern": "uniformiteit is geen reden om lokale voorziening te beëindigen",
+        "basis": "programma p.12"
+      },
+      "dorp-voor-dorp": {
+        "s": -1,
+        "kern": "voorkomen dat voorzieningen naar Hilversum worden geconcentreerd",
+        "basis": "afgeleid"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": 1,
+        "kern": "wat in dorpen geldt, ook in Hilversum: allemaal gelijk",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "niet vanzelf naar duurste of strengste niveau; maatwerk",
+        "basis": "programma p.14"
+      },
+      "volt": {
+        "s": 1,
+        "kern": "belastingen gelijk; Wijdemeerse regelingen ook voor Hilversum",
+        "basis": "programma p.20"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "fusietoets per dorpskern en overgangsbescherming subsidies",
+        "basis": "programma p.7"
+      }
+    },
+    "spreiding": "PRO, Volt en Blanco tegenover CDA, Gewoon Hilversum, BBB, VVD, LFD, D66 en Hart voor Hilversum; scheidt PRO en Volt van D66 en CDA in het midden.",
+    "twijfel": "De pluskant is smal: weinig lijsten willen hard gelijktrekken. Volt wil vooral Wijdemeerse regelingen ook in Hilversum invoeren (gelijk trekken naar het gunstigste niveau). Blanco is afgeleid uit haar toelichting over leges."
+  },
+  {
+    "id": "bestuur-referendum-advies",
+    "onderwerp": "referendum",
+    "kop": "Referendum is een advies",
+    "stelling": "Een referendum is een advies: de gemeenteraad mag na afweging anders besluiten dan de uitslag.",
+    "uitleg": "Hilversum heeft sinds 2017 een correctief raadgevend referendum: inwoners kunnen na een raadsbesluit om een stemming vragen, maar de raad beslist uiteindelijk zelf. In Wijdemeren is een referendumregeling meerdere keren verworpen. Een bindend referendum, waarbij de uitslag de raad verplicht, kan volgens de huidige wet niet; sommige lijsten willen dat de raad de uitslag toch altijd volgt.",
+    "voor": "De gemeenteraad moet alle belangen kunnen afwegen, ook die van inwoners die niet zijn gaan stemmen.",
+    "tegen": "Als de raad een duidelijke uitslag naast zich neer mag leggen, verliezen inwoners het vertrouwen in de politiek.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "tegen referenda: beslissen is aan de gemeenteraad",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "voor het bestaande correctief raadgevend referendum",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "geen voorstander van referenda",
+        "basis": "programma p.28"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "tegen: vertegenwoordigende democratie en participatie volstaan",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "raadpleging met richtinggevende uitkomst",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "bindende referenda voor grote lokale besluiten",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": 0,
+        "kern": "referendum nuttig, maar per onderwerp afwegen",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "neutraal over referendum",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "bindende referenda; uitslag politiek respecteren",
+        "basis": "programma p.11"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "inwoners laten meebeslissen over grote besluiten",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 0,
+        "kern": "neutraal over referendum",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "raadgevend referendum bij belangrijke besluiten",
+        "basis": "programma p.75"
+      },
+      "blanco-van-oostveen": {
+        "s": 0,
+        "kern": "referendum of ander medium voor grote besluiten",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 1,
+        "kern": "raadgevend referendum bij grote, omkeerbare besluiten",
+        "basis": "programma p.11"
+      },
+      "volt": {
+        "s": 0,
+        "kern": "neutraal; liever burgerberaad",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "bindende lokale referenda, te beginnen over de fusie",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 0,
+        "kern": "referendum om draagvlak te toetsen bij ingrijpende besluiten",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "BVNL, FVD, Dorp voor Dorp en SBP-VIP (uitslag volgen) tegenover PvdD, LFD, Lokaal Eén en D66 (raadgevend) en PRO, VVD en CDA (raad beslist); scheidt de referendumvoorstanders onderling: Dorp voor Dorp van Lokaal Eén, BVNL en FVD van LFD.",
+    "twijfel": "Hart voor Hilversum, SP en ChristenUnie zijn voor een referendum (Stemgids) maar zeggen niets over het volgen van de uitslag: null. ChristenUnie stemde in 2017 en 2024 in de raad tegen referendumvoorstellen. PRO, VVD en CDA zijn tegen referenda; dat ze het eens zijn met 'de raad beslist' is afgeleid. Bindend kan wettelijk niet; de stelling vraagt dus naar het politiek opvolgen van de uitslag."
+  },
+  {
+    "id": "bestuur-burgerberaad",
+    "onderwerp": "burgerberaad en loting",
+    "kop": "Vast geloot burgerberaad",
+    "stelling": "Er komt een vast burgerberaad van ingelote inwoners, en de gemeenteraad neemt de voorstellen over tenzij daar zwaarwegende bezwaren tegen zijn.",
+    "uitleg": "Een burgerberaad is een groep inwoners die door loting is gekozen, zodat de groep lijkt op de hele bevolking. Zo'n beraad bespreekt een vraagstuk en doet voorstellen aan de gemeente. De keuze is of zo'n beraad een vaste plek krijgt en hoe zwaar de voorstellen wegen tegenover de gekozen gemeenteraad.",
+    "voor": "Ingelote inwoners vormen een betere afspiegeling van de gemeente dan de mensen die altijd naar inspraakavonden komen.",
+    "tegen": "Besluiten horen bij de gekozen gemeenteraad, die zich tegenover de kiezer moet verantwoorden; een geloot beraad hoeft dat niet.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -1,
+        "kern": "beslissen is voorbehouden aan de gemeenteraad",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "wel loting bij inspraak; meepraten is niet je zin krijgen",
+        "basis": "programma p.28"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "vertegenwoordigende democratie; participatie binnen projecten",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "burgerberaad krijgt prominente plek, ook per wijk of dorp",
+        "basis": "programma p.75"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": 2,
+        "kern": "permanent burgerberaad; voorstel alleen weigeren bij onoverkomelijke bezwaren",
+        "basis": "programma p.19"
+      },
+      "fvd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Volt en PvdD tegenover PRO, VVD en CDA; scheidt Volt van D66 en PRO, en PvdD van PRO aan de linkerkant.",
+    "twijfel": "Weinig lijsten noemen een burgerberaad; de minkant is afgeleid uit hun opvatting dat de raad beslist (PRO, CDA in de Stemgids over het referendum). VVD wil wel dat de gemeente inspraakdeelnemers door loting kiest, maar geen beslissende rol voor hen."
+  },
+  {
+    "id": "bestuur-algemeen-belang",
+    "onderwerp": "inspraak en algemeen belang",
+    "kop": "Algemeen belang weegt zwaarder",
+    "stelling": "Bij grote plannen zoals woningbouw of een energieproject weegt het belang van de hele gemeente zwaarder dan bezwaren uit de buurt.",
+    "uitleg": "Bij inspraak botsen vaak het belang van een buurt of dorp en een doel voor de hele gemeente, zoals meer woningen of schone energie. De Hilversumse raad stelde in oktober 2026 nieuwe regels vast voor hoe inwoners bij plannen worden betrokken; de gemeenteraad houdt het laatste woord. Sommige lijsten willen dat een dorp via een dorpsraad, referendum of extra grote meerderheid een plan kan tegenhouden.",
+    "voor": "Zonder doorzettingsmacht komen woningen en energieprojecten die de hele gemeente nodig heeft nergens van de grond.",
+    "tegen": "Omwonenden leven met de gevolgen; als hun bezwaren steeds moeten wijken, wordt inspraak een formaliteit.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "collectief belang zwaarder dan individuele bezwaren",
+        "basis": "programma p.9"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "participatie niet laten kapen; meepraten is niet je zin krijgen",
+        "basis": "programma p.28"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": -2,
+        "kern": "dorpsraad kan referendum starten over woningbouw en windmolens",
+        "basis": "programma p.6"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "plannen voor een dorp in dat dorp bespreken; geraakten wegen",
+        "basis": "afgeleid"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "bij besluiten die een kern raken gekwalificeerde meerderheid",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": -1,
+        "kern": "referendum bij besluiten die karakter van dorpen raken",
+        "basis": "afgeleid"
+      }
+    },
+    "spreiding": "PRO en VVD tegenover Dorp voor Dorp, FVD, SBP-VIP en BBB; scheidt VVD van BBB en FVD aan rechts.",
+    "twijfel": "Veel null: de meeste lijsten zeggen alleen dat inwoners vroeg betrokken moeten worden, niet wat voorgaat als belangen botsen. SBP-VIP en BBB zijn afgeleid. Overlapt met de thema's wonen en klimaat."
+  },
+  {
+    "id": "bestuur-organisatie-groei",
+    "onderwerp": "ambtelijke organisatie",
+    "kop": "Ruimte voor meer ambtenaren",
+    "stelling": "De gemeentelijke organisatie mag de komende jaren groeien als dat nodig is voor goede dienstverlening in stad en dorpen.",
+    "uitleg": "Na de fusie gaan de ambtenaren van Hilversum en Wijdemeren samen in één organisatie. Meerdere lijsten wijzen op hoog ziekteverzuim en personeelstekorten. Sommige lijsten willen een vaste bezuiniging op de interne organisatie of de groei bevriezen; andere willen investeren in goed werkgeverschap en eigen vaste medewerkers.",
+    "voor": "Een grotere gemeente heeft genoeg mensen nodig om inwoners goed en op tijd te helpen.",
+    "tegen": "Een kleinere organisatie die slimmer werkt bespaart geld voor inwoners; eerst moet de overhead omlaag.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 1,
+        "kern": "eigen expertise en goede vaste banen",
+        "basis": "programma"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "goed werkgeverschap; mogelijk meer ondersteuning raad en rekenkamer",
+        "basis": "programma p.49"
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "5% taakstelling op de interne organisatie",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lokaal-een": {
+        "s": 1,
+        "kern": "bouwen aan een hecht, vast ambtelijk team",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -2,
+        "kern": "groei van het ambtelijk apparaat bevriezen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": -1,
+        "kern": "kritisch op overhead; eerst besparen",
+        "basis": "programma"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "wijst op ziekteverzuim en personeelstekorten",
+        "basis": "afgeleid"
+      },
+      "pvdd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": -1,
+        "kern": "eerst bureaucratie en overhead verminderen",
+        "basis": "afgeleid"
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -2,
+        "kern": "omvang en kosten van de organisatie terugbrengen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "PRO, D66, Lokaal Eén en Opstand.nu tegenover VVD, FVD, BVNL, SBP-VIP en LFD; scheidt Lokaal Eén van SBP-VIP en VVD van CDA en D66.",
+    "twijfel": "Niemand pleit letterlijk voor groei; de pluskant is afgeleid uit de nadruk op eigen vaste medewerkers en goed werkgeverschap. LFD is afgeleid uit een passage over zorg."
+  },
+  {
+    "id": "bestuur-vast-personeel",
+    "onderwerp": "ambtelijke organisatie",
+    "kop": "Vaste krachten in plaats van inhuur",
+    "stelling": "Om minder dure externe krachten in te huren, neemt de gemeente meer ambtenaren in vaste dienst.",
+    "uitleg": "Gemeenten huren vaak tijdelijk personeel en adviesbureaus in, wat meestal duurder is dan eigen medewerkers. Bijna alle lijsten willen minder externe inhuur. Het verschil zit in het alternatief: meer vaste banen bij de gemeente, of het werk zelf verminderen zodat de organisatie niet groeit.",
+    "voor": "Eigen vaste medewerkers zijn goedkoper dan inhuur, en hun kennis blijft in de gemeente.",
+    "tegen": "Inhuur vervangen door vaste banen laat de organisatie groeien; minder taken en slimmer werken is beter.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": 2,
+        "kern": "tijdelijke inhuur beperken; voorkeur voor goede vaste banen",
+        "basis": "programma"
+      },
+      "d66": {
+        "s": 1,
+        "kern": "goed werkgeverschap om medewerkers te binden",
+        "basis": "programma p.49"
+      },
+      "vvd": {
+        "s": -1,
+        "kern": "minder inhuur én 5% taakstelling op organisatie",
+        "basis": "programma p.29"
+      },
+      "cda": {
+        "s": 1,
+        "kern": "inhuur alleen tijdelijk, geen vervanging van eigen organisatie",
+        "basis": "programma"
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "vast ambtelijk team; inhuur en externe bureaus terugdringen",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": -1,
+        "kern": "minder inhuur, maar groei apparaat bevriezen",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "kennis zoveel mogelijk in eigen organisatie opbouwen",
+        "basis": "programma"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 0,
+        "kern": "kritisch op inhuur, maar ook op overhead",
+        "basis": "programma"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 1,
+        "kern": "inhuur onder 10% houden om kennisverlies te voorkomen",
+        "basis": "programma"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": -1,
+        "kern": "minder inhuur en AI om organisatie te verkleinen",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "investeren in eigen ambtelijke expertise in plaats van bureaus",
+        "basis": "programma"
+      }
+    },
+    "spreiding": "Lokaal Eén, PRO, CDA, Gewoon Hilversum, BBB en PvdD tegenover VVD, BVNL en FVD; scheidt BBB van BVNL en FVD aan rechts, en Lokaal Eén van VVD.",
+    "twijfel": "Ligt dicht bij de vorige stelling (organisatie groeien); bedoeld als tweede laag voor lijsten die het over 'minder inhuur' eens zijn. Hart voor Hilversum wil minder inhuur maar zegt niets over vaste banen: null."
+  },
+  {
+    "id": "bestuur-regio-minder",
+    "onderwerp": "regionale samenwerking",
+    "kop": "Meer zelf, minder regio",
+    "stelling": "Hilversum regelt meer zelf en minder samen met de andere gemeenten in de Regio Gooi en Vechtstreek.",
+    "uitleg": "In de Regio Gooi en Vechtstreek werken de Gooise gemeenten samen, onder meer aan opvang en bescherming, Veilig Thuis en vrouwenopvang. Na de fusie woont ongeveer de helft van de inwoners van de regio in Hilversum. Hilversum zit nu via de regio aan tafel in de Metropoolregio Amsterdam (MRA); sommige lijsten willen daar een eigen plek of taken terughalen, andere willen de samenwerking juist versterken met meer zeggenschap voor de raden.",
+    "voor": "Hilversum is groot genoeg om veel zelf te doen, en dan beslist de eigen gemeenteraad in plaats van een regio waar inwoners weinig zicht op hebben.",
+    "tegen": "Samen met de buurgemeenten sta je sterker en kun je taken beter en goedkoper uitvoeren dan ieder voor zich.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 0,
+        "kern": "raad en inwoners moeten zicht en invloed houden",
+        "basis": "programma p.7"
+      },
+      "pro": {
+        "s": 1,
+        "kern": "onderzoeken of centrumtaken terug kunnen naar Hilversum; eigen stem in MRA",
+        "basis": "programma p.37"
+      },
+      "d66": {
+        "s": -2,
+        "kern": "sterke regio; Hilversum neemt daarin initiatief",
+        "basis": "programma p.47"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "regio geen extra taken; rechtstreeks in de MRA",
+        "basis": "programma p.27"
+      },
+      "cda": {
+        "s": -1,
+        "kern": "voorstander van bestuurlijke samenwerking in de regio",
+        "basis": "programma p.7"
+      },
+      "lokaal-een": {
+        "s": -1,
+        "kern": "onderschrijft belang regio en MRA, kritisch op legitimiteit",
+        "basis": "programma p.1"
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "afdrachten aan de regio herzien; eigen zeggenschap voorop",
+        "basis": "programma"
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": 0,
+        "kern": "stem van Hilversum moet gewicht houden in de regio",
+        "basis": "programma p.10"
+      },
+      "dorp-voor-dorp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": -1,
+        "kern": "regionale samenwerking met betere democratische controle",
+        "basis": "programma p.76"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": -1,
+        "kern": "samenwerken met regio, metropoolregio's en buurgemeenten",
+        "basis": "programma p.42"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "verbanden zonder lokaal draagvlak verlaten",
+        "basis": "programma"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "PRO, VVD, BVNL en FVD tegenover D66, CDA, Volt, Lokaal Eén en PvdD; scheidt PRO van Volt en PvdD aan links, en VVD van CDA en D66 in het midden.",
+    "twijfel": "PRO wil vooral een paar centrumtaken terug en een eigen plek in de MRA, geen algemene terugtrekking: +1. Gewoon Hilversum en Hart voor Hilversum gaan over invloed, niet over minder samenwerking: 0."
+  },
+  {
+    "id": "bestuur-leges-dorpsevenementen",
+    "onderwerp": "harmonisatie na de fusie",
+    "kop": "Dorpsfeesten zonder leges",
+    "stelling": "Kleine evenementen in de dorpen blijven vrij van leges, ook als evenementen in de stad daar wel voor betalen.",
+    "uitleg": "Leges zijn de kosten die de gemeente rekent voor een vergunning, bijvoorbeeld voor een evenement. In Wijdemeren hoefden kleine dorpsevenementen geen leges te betalen; de Wijdemeerse raad nam in november 2025 een motie aan om die vrijstelling na de fusie te houden. De vraag is of dit verschil tussen dorpen en stad mag blijven, of dat overal dezelfde regel gaat gelden.",
+    "voor": "Dorpsevenementen worden door vrijwilligers gedragen en houden de dorpen levendig; extra kosten kunnen ze de kop kosten.",
+    "tegen": "Een vergunning kost de gemeente overal geld, en in één gemeente horen stad en dorp dezelfde regels te hebben.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": 2,
+        "kern": "dorpen zijn gehecht aan kleine evenementen zonder rompslomp",
+        "basis": "stemgids"
+      },
+      "pro": {
+        "s": -2,
+        "kern": "leges dekken kosten die er ook bij kleine evenementen zijn",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": -1,
+        "kern": "tegen; gevolgen voor leges nog onduidelijk",
+        "basis": "stemgids"
+      },
+      "vvd": {
+        "s": 1,
+        "kern": "voor, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "cda": {
+        "s": 2,
+        "kern": "voor; diende de motie in Wijdemeren in",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": 2,
+        "kern": "leges zouden vrijwilligersevenementen in dorpen ernstig benadelen",
+        "basis": "stemgids"
+      },
+      "sp": {
+        "s": 1,
+        "kern": "voor, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "christenunie": {
+        "s": -2,
+        "kern": "tegen, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "bvnl": {
+        "s": 1,
+        "kern": "niet-commerciële evenementen vrijstellen van leges",
+        "basis": "stemgids"
+      },
+      "scb": {
+        "s": -1,
+        "kern": "geen algemene vrijstelling; lage tarieven en maatwerk",
+        "basis": "stemgids"
+      },
+      "gewoon-hilversum": {
+        "s": 1,
+        "kern": "voor, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "dorp-voor-dorp": {
+        "s": 0,
+        "kern": "voor, maar als algemene regel, niet als uitzondering",
+        "basis": "stemgids"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "voor, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "opstand-nu": {
+        "s": 1,
+        "kern": "voor, zonder toelichting",
+        "basis": "stemgids"
+      },
+      "pvdd": {
+        "s": 0,
+        "kern": "kosten afhankelijk van hoe groen het evenement is",
+        "basis": "stemgids"
+      },
+      "blanco-van-oostveen": {
+        "s": -1,
+        "kern": "als dorpen vrij zijn, dan ook Hilversum: allemaal gelijk",
+        "basis": "stemgids"
+      },
+      "lfd": {
+        "s": 2,
+        "kern": "bestaande vrijstelling na de fusie behouden",
+        "basis": "stemgids"
+      },
+      "volt": {
+        "s": 2,
+        "kern": "dorpen vrij van leges; in de stad kosten verlagen",
+        "basis": "stemgids"
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "ondersteuning van evenementen met lokale waarde dekt de leges",
+        "basis": "stemgids"
+      },
+      "bbb": {
+        "s": 1,
+        "kern": "vrijwilligers niet bestraffen met rekeningen, in dorpen en buurten",
+        "basis": "stemgids"
+      }
+    },
+    "spreiding": "De meeste lokale en rechtse lijsten met CDA en Volt tegenover PRO, ChristenUnie, D66 en SCB; scheidt CDA van ChristenUnie en D66, SCB van de andere rechtse lijsten, Volt van D66 en PRO, en Blanco en Dorp voor Dorp (één regel voor iedereen) van de andere lokale lijsten.",
+    "twijfel": "Overlapt mogelijk met de thema's cultuur en economie. De Stemgids vroeg alleen naar de dorpen; de toevoeging 'ook als de stad wel betaalt' is waar mogelijk getoetst aan de toelichting. Lijsten zonder toelichting staan op +1. Of de vrijstelling in heel Wijdemeren gold, is niet gecontroleerd."
+  },
+  {
+    "id": "bestuur-referendum-per-dorp",
+    "onderwerp": "referendum",
+    "kop": "Referendum per dorp",
+    "stelling": "Inwoners van één dorp of wijk kunnen een eigen referendum houden over een plan dat vooral hun dorp of wijk raakt.",
+    "uitleg": "Het Hilversumse referendum gaat over besluiten van de gemeenteraad, en alle kiesgerechtigden van de gemeente mogen meestemmen. Bij een plan voor één dorp, zoals woningbouw of windmolens, weegt de stem van dat dorp dan licht tegenover die van de stad. Sommige lijsten willen daarom referenda per dorp, wijk of buurt, waarin vooral de inwoners stemmen die door het plan worden geraakt.",
+    "voor": "Wie direct met de gevolgen leeft, moet zich er rechtstreeks over kunnen uitspreken, zonder te worden overstemd door de stad.",
+    "tegen": "Een dorp kan dan plannen tegenhouden die de hele gemeente nodig heeft, terwijl de gemeenteraad het geheel moet afwegen.",
+    "posities": {
+      "hart-voor-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pro": {
+        "s": -2,
+        "kern": "tegen referenda: beslissen is aan de gemeenteraad",
+        "basis": "stemgids"
+      },
+      "d66": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "vvd": {
+        "s": -2,
+        "kern": "geen voorstander van referenda",
+        "basis": "programma p.28"
+      },
+      "cda": {
+        "s": -2,
+        "kern": "tegen referenda; vertegenwoordigende democratie",
+        "basis": "stemgids"
+      },
+      "lokaal-een": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "sp": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "christenunie": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "bvnl": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "scb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "gewoon-hilversum": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "dorp-voor-dorp": {
+        "s": 2,
+        "kern": "referenda op buurt-, dorps- en wijkniveau voor wie geraakt wordt",
+        "basis": "programma p.10"
+      },
+      "stop-betaald-parkeren-vip": {
+        "s": 1,
+        "kern": "inwoners raadplegen per wijk en dorp via online peilingen",
+        "basis": "programma p.12"
+      },
+      "opstand-nu": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "pvdd": {
+        "s": 2,
+        "kern": "ook wijk- en buurtreferenda mogelijk maken",
+        "basis": "programma p.75"
+      },
+      "blanco-van-oostveen": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "lfd": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "volt": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      },
+      "fvd": {
+        "s": 1,
+        "kern": "uitslag van referendum van een dorps- of wijkraad is bindend",
+        "basis": "mijnstem"
+      },
+      "bbb": {
+        "s": null,
+        "kern": null,
+        "basis": null
+      }
+    },
+    "spreiding": "Dorp voor Dorp, PvdD, FVD en SBP-VIP tegenover PRO, VVD en CDA; scheidt PvdD van PRO aan links en Dorp voor Dorp van de lokale lijsten die zich niet over dorpsreferenda uitspreken.",
+    "twijfel": "De minkant is afgeleid uit afwijzing van referenda in het algemeen. SBP-VIP wil peilingen per dorp, geen formeel referendum: +1 is een lichte lezing. Andere referendumvoorstanders (BVNL, LFD, Lokaal Eén, D66) zeggen niets over dorpsreferenda: null."
+  }
+]

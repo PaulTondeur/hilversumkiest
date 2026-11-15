@@ -1,0 +1,365 @@
+[
+ {
+  "sleutel": "wonen-eigen-behoefte|pvdd",
+  "id": "wonen-eigen-behoefte",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-eigen-behoefte",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "Grens aan de groei; verdere oplossingen buiten Hilversum",
+   "basis": "programma p.43"
+  }
+ },
+ {
+  "sleutel": "wonen-hoogbouw-alleen-station|pvdd",
+  "id": "wonen-hoogbouw-alleen-station",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "wonen-hoogbouw-alleen-station",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "Hoogbouw kan, maar bij 25 meter wordt inpassen lastig",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "verkeer-buurt-beslist|pvdd",
+  "id": "verkeer-buurt-beslist",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-buurt-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "betaald parkeren in de hele stad",
+   "basis": "programma p.56"
+  }
+ },
+ {
+  "sleutel": "verkeer-vergunning|pvdd",
+  "id": "verkeer-vergunning",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "verkeer-vergunning",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "vergunning naar uitstoot en gewicht, tweede duurder",
+   "basis": "programma p.56"
+  }
+ },
+ {
+  "sleutel": "klimaat-isolatie-eerst|pvdd",
+  "id": "klimaat-isolatie-eerst",
+  "slug": "pvdd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "klimaat-isolatie-eerst",
+   "s": 2,
+   "kern": "Besparen en isoleren gaan voor opwekken.",
+   "toelichting": "De lijst zet energiebesparing en isolatie voorop in haar duurzaamheidsbeleid ('besparen, besparen, besparen') en wil daarna pas duurzaam opwekken.",
+   "citaat": "Wat je niet gebruikt, hoef je ook niet op te wekken. Daarom begint het duurzaamheidsbeleid van Hilversum bij energiebesparing.",
+   "bron": "p. 10",
+   "soort": "programma",
+   "zeker": "hoog"
+  },
+  "B": {
+   "s": 0,
+   "kern": "Fors besparen én per wijk een transitieplan",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "natuur-recreant-betaalt|pvdd",
+  "id": "natuur-recreant-betaalt",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "natuur-recreant-betaalt",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "toeristenbelasting inzetten om natuur te versterken",
+   "basis": "programma p.36"
+  }
+ },
+ {
+  "sleutel": "veiligheid-boa-taken|pvdd",
+  "id": "veiligheid-boa-taken",
+  "slug": "pvdd",
+  "soort": "alleen A (afgeleid/laag)",
+  "A": {
+   "id": "veiligheid-boa-taken",
+   "s": -1,
+   "kern": "Hondenpoep stevig handhaven; boa's ook voor dieren en bomen.",
+   "toelichting": "De lijst wil de opruimplicht voor hondenpoep stevig handhaven en boa's ook inzetten tegen dierenmishandeling en schade aan bomen. Een voorrang voor alleen ernstige overlast spreekt ze niet uit.",
+   "citaat": "De opruimplicht van hondenpoep wordt stevig gehandhaafd.",
+   "bron": "p. 15; MijnStem: 'Meer BOA's inzetten in het uitgaansgebied'",
+   "soort": "programma",
+   "zeker": "laag"
+  },
+  "B": {
+   "s": null,
+   "kern": null,
+   "basis": null
+  }
+ },
+ {
+  "sleutel": "veiligheid-coffeeshops-scholen|pvdd",
+  "id": "veiligheid-coffeeshops-scholen",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-coffeeshops-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "kritisch kijken naar locaties; geen nieuwe bij scholen",
+   "basis": "mijnstem"
+  }
+ },
+ {
+  "sleutel": "veiligheid-bibob|pvdd",
+  "id": "veiligheid-bibob",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-bibob",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "actieve aanpak ondermijning; kritisch op vergunningen",
+   "basis": "programma p.66"
+  }
+ },
+ {
+  "sleutel": "veiligheid-verlichting-fietspaden|pvdd",
+  "id": "veiligheid-verlichting-fietspaden",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "veiligheid-verlichting-fietspaden",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 2,
+   "kern": "uiterst terughoudend met verlichting; donkerte is een groot goed",
+   "basis": "programma p.18"
+  }
+ },
+ {
+  "sleutel": "economie-zondag-beperken|pvdd",
+  "id": "economie-zondag-beperken",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "economie-zondag-beperken",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "neutraal, geen toelichting",
+   "basis": "stemgids"
+  }
+ },
+ {
+  "sleutel": "cultuur-projectsubsidie-eindig|pvdd",
+  "id": "cultuur-projectsubsidie-eindig",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-projectsubsidie-eindig",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "kleine instellingen en amateurkunst juist in aanmerking voor subsidie",
+   "basis": "programma p.72"
+  }
+ },
+ {
+  "sleutel": "cultuur-subsidie-bezoekers|pvdd",
+  "id": "cultuur-subsidie-bezoekers",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-subsidie-bezoekers",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -2,
+   "kern": "meer geld voor laagdrempelige cultuur en groepen die weinig deelnemen",
+   "basis": "programma p.72"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentenregels|pvdd",
+  "id": "cultuur-monumentenregels",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentenregels",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 0,
+   "kern": "zonnepanelen buiten zicht mogelijk, sloop voorkomen",
+   "basis": "programma p.10"
+  }
+ },
+ {
+  "sleutel": "cultuur-monumentale-scholen|pvdd",
+  "id": "cultuur-monumentale-scholen",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "cultuur-monumentale-scholen",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "verouderde schoolpanden natuurinclusief renoveren",
+   "basis": "programma p.70"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-op-verzoek|pvdd",
+  "id": "bestuur-dorpsraad-op-verzoek",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-op-verzoek",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": -1,
+   "kern": "elk dorp en elke wijk versterkte dorps- en wijkraden",
+   "basis": "programma p.5"
+  }
+ },
+ {
+  "sleutel": "bestuur-dorpsraad-beslist|pvdd",
+  "id": "bestuur-dorpsraad-beslist",
+  "slug": "pvdd",
+  "soort": "alleen B",
+  "A": {
+   "id": "bestuur-dorpsraad-beslist",
+   "s": null,
+   "kern": null,
+   "toelichting": null,
+   "citaat": null,
+   "bron": null,
+   "soort": null
+  },
+  "B": {
+   "s": 1,
+   "kern": "raden versterken, met uitdaagrecht en buurtbudgetten",
+   "basis": "programma p.75"
+  }
+ },
+ {
+  "sleutel": "financien-inhuur-vaste-banen|pvdd",
+  "id": "financien-inhuur-vaste-banen",
+  "slug": "pvdd",
+  "soort": "tegenstrijdig",
+  "A": {
+   "id": "financien-inhuur-vaste-banen",
+   "s": 2,
+   "kern": "Eigen personeel in dienst, externe inhuur onder de 10%.",
+   "toelichting": "De lijst wil externe inhuur onder de 10% houden vanwege kennisverlies en neemt waar mogelijk personeel in eigen dienst. Ze wil genoeg ambtenaren voor onder meer het bomenbeleid.",
+   "citaat": "De continue in- en uitstroom van extern personeel veroorzaakt verlies van kennis, ervaring en binding met de gemeente en samenleving. Het doel is de inhuur van extern personeel onder de 10% te houden.",
+   "bron": "p. 76; p. 38",
+   "soort": "programma",
+   "zeker": "middel"
+  },
+  "B": {
+   "s": 0,
+   "kern": "inhuur onder 10% houden",
+   "basis": "programma p.76"
+  }
+ }
+]

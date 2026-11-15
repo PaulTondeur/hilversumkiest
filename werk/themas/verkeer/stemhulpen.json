@@ -1,0 +1,951 @@
+[
+ {
+  "bron": "mijnstem",
+  "stelling": "Parkeren in het centrum van Hilversum op zondag gratis maken",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Als BBB zijn we buiten het centrum tegen betaald parkeren. Gratis parkeren op zondag in het centrum is echter onrealistisch; privaat beheerde garages zoals Q-Park ga je hier namelijk nooit in meekrijgen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Goed idee om een dag per week iedereen de mogelijkheid te geven laagdrempelig te winkelen in het centrum. Zo trekt het ook mensen uit de regio aan. Probleem is wel dat parkeergarages niet mee doen en zoveel andere bovengronds parkeerplekken hebben we niet.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Gratis parkeren op zondag maakt het centrum aantrekkelijker voor bezoekers, ondersteunt lokale ondernemers en voorkomt dat parkeren een extra drempel vormt voor een dagje winkelen of horeca.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "98 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dankzij het CDA is parkeren in het centrum nu tot 12.00 gratis op zondag. Wij willen dit uitbreiden voor de zondag, en overal het eerste uur gratis. Voor bezoek aan familie, maar ook voor een levendig centrum. Uiteraard blijft parkeren in de dorpen gratis.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "4 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie ziet gratis parkeren op zondag niet als doel op zich. Parkeerbeleid moet de leefbaarheid en bereikbaarheid dienen. Ook moet de zondag een collectief rustmoment blijven en winkeliers mogen niet gedwongen worden hun winkel te openen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen een leefbaar en bereikbaar centrum voor iedereen, ook op zondag. Daarom willen we het betaald parkeren in het centrum op zondag behouden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Gratis parkeren op zondag als proef, zodat de impact ervan gemeten kan worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "In Wijdemeren houden we van gratis parkeren. Altijd. Voor je eigen huis in Hilversum ook. De parkeerschillen rond centrum schaffen we af.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "95 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Je moet alleen maar betaald parkeren invoeren als dat een doel dient. Daarbij maakt het voor ons niet uit of het op zondag is of op een andere dag van de week.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "66 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij zijn voor gratis parkeren op zondag in het centrum, met oog voor bewoners en ondernemers. We stemmen de uitwerking met hen af, zodat bezoek aantrekkelijker wordt en de parkeerdruk voor omwonenden beheersbaar blijft.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD ziet betaald parkeren niet als verdienmodel. Als op zondag geen aantoonbare parkeerdruk bestaat die regulering noodzakelijk maakt, hoort parkeren gratis te zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "70 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Dit is een gastvrij gebaar.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "4 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Gratis parkeren is in strijd met streven naar autoluw centrum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "49 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Betaald parkeren draagt bij aan minder auto's op straat en meer ruimte voor fietsers en voetgangers. Welke dag van de week het is, maakt hiervoor niet uit. De zondag-visite kan in de meeste gevallen al gebruik maken van het bezoekerstarief.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Betaald parkeren op zondag in het centrum van Hilversum blijft bestaan. Bezoekers van het centrum worden aangemoedigd om met de fiets of het openbaar vervoer te komen. Voor bezoekers met een gehandicaptenparkeerkaart blijft de ontheffing van kracht.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "40 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Zondagparkeren mag goedkoper, maar hoeft niet gratis. Zo houden we parkeren betaalbaar en voorkomen we onnodige parkeerdruk in het centrum, ook door bezoekers van buiten Hilversum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Zondag is bij uitstek de dag voor familiebezoek. We gunnen de centrumbewoners bezoek dat als het nodig gratis kan parkeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen bestaand betaald parkeren terugdringen. Parkeren is geen verdienmodel, maar een middel om een probleem op te lossen. Gratis parkeren op zondag houdt het centrum gastvrij, betaalbaar en bereikbaar voor iedereen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "26 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Met fietsstraten, goed openbaar vervoer, deelauto’s en gratis P+R maken we het centrum bereikbaar. Gratis parkeren zorgt dat onze wegen nog verder verstopt raken en dat inwoners hun eigen auto niet kunnen parkeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "76 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Tijdens de openingstijden van winkels vindt de VVD betaald parkeren logisch om zo de schaarse plekken een beetje te verdelen. Buiten winkelopeningstijden moet het gratis zijn!",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Investeren in:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "50 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Als BBB kiezen we voor én-én. Goede, veilige fietspaden zijn essentieel, maar de auto blijft voor velen onmisbaar. Investeren in veilige fietsroutes mag niet ten koste gaan van voldoende en betaalbare parkeergelegenheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "50 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Investeren in meer gescheiden vervoerstromen. Dus aparte en veiligere routes voor fietsers, voetgangers en auto's om zo beter overzicht te bewaken en veiligheid te kunnen waarborgen. Gevaarlijke kruispunten voorzien van stoplichten of aandachtsborden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "78 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Goede bereikbaarheid is essentieel voor inwoners, ondernemers, zorgverleners en bezoekers. Fietspaden zijn belangrijk, maar de auto mag niet worden weggejaagd. Investeringen moeten zorgen voor keuzevrijheid en voldoende parkeerplaatsen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "40 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Bakfietsen, elektrische fietsen en gewone fietsen delen nu de smalle paden, dat is onveilig. Het is tijd voor een deltaplan verkeersveiligheid. In het centrum zijn wel voldoende parkeerplekken nodig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "2 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "De ChristenUnie kiest voor veilige, comfortabele fietspaden. Lopen, fietsen en openbaar vervoer hebben prioriteit als het gaat om investeringen in mobiliteit.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "2 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Ieder kind van 8 jaar moet veilig naar school kunnen fietsen. We willen dan ook investeren in veilige straten en doorfietsroutes om het gebruik van de fiets te stimuleren. Dit is belangrijker dan extra parkeerplekken voor auto's.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "85 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Natuurlijk moeten er ook goede fietspaden zijn, maar er moet een einde komen aan het groeiende parkeerprobleem.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "83 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Dit is afhankelijk van de locatie. Het budget voor parkeren uit het mobiliteitsfonds moet gebruikt worden voor parkeren, niet voor iets anders.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "53 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Er is helemaal geen uitwisseling tussen óf fietspaden óf parkeerplekken. Allebei zijn nodig, en er moet vooral gebiedsgericht gekeken worden naar wat nodig is en wat past.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "48 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Wij investeren in veilige, samenhangende fietspaden én voldoende parkeerplekken. Fietsers moeten veilig op pad kunnen, terwijl winkels en dorpscentra bereikbaar blijven. Per buurt bepalen we wat het meest nodig is.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "50 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "De LFD kiest niet tussen fiets en auto. Inwoners bepalen zelf hoe zij zich verplaatsen. Investeringen moeten nodig en doelmatig zijn, niet bedoeld om de vervoerskeuze te sturen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "50 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "De fiets heeft aan populariteit gewonnen. Er zijn meer fietsparkeerplekken nodig. Tegelijk is de auto een gegeven. Als op termijn de balans verschuift naar meer deelvervoer kunnen we parkeerplaatsen voor prive-auto’s verminderen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "81 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Investeren in parkeeroplossingen schept ruimte op straat. Daar profiteren voetgangers en fietsers van. Voor fietspaden is in Hilversum vaak geen ruimte.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "18 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Onze ambitie: de nieuwe gemeente Hilversum wordt een echte fietsgemeente! We investeren in brede en veilige fietspaden, inhaalstroken en doortraproutes. Ook waar de ruimte beperkt is, zoeken we oplossingen die zo veel mogelijk ruimte geven aan fietsers.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "8 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "De PvdD streeft ernaar dat 85% van de verplaatsingen binnen de gemeente per fiets wordt gedaan. De gemeente investeert daartoe fors in een uitgebreid netwerk van veilige en groene wandel- en fietspaden, inclusief doorfietsroutes.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "60 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Zowel goede fietspaden als voldoende parkeerplekken zijn belangrijk. We willen investeren waar dat nodig is, met aandacht voor bereikbaarheid en leefbaarheid. Voor bewoners, bezoekers en ondernemers is voldoende parkeerruimte daarbij van belang.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "34 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Beide zijn belangrijk. Het mobiliteitsfonds zit tjokvol met geld van de Hilversummers. Dat geld kan voor de fiets en voor parkeren worden ingezet. Investeren in de fiets zorgt voor minder auto's en dus minder parkeerdruk.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "50 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Wij zetten de auto en de fiets niet tegenover elkaar. Keuzevrijheid in mobiliteit staat voorop. Wij investeren in veilige fietspaden én behouden voldoende goede parkeerplekken, in plaats van de één voor de ander te schrappen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "10 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "Goede fietspaden zijn nuttig voor iedereen. Een parkeerplek is nuttig voor één auto. Beter openbaar vervoer, deelauto’s en gratis P+R zorgen voor minder behoefte aan parkeerplekken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "50 (schuifbalk 0=fietspaden, 100=parkeerplekken)",
+    "toelichting": "De VVD wil ruimte voor de fiets én voldoende parkeerplaatsen. Veel fietspaden kunnen beter en veiliger. Maar waar keuzes nodig zijn, moeten parkeerplaatsen niet automatisch verdwijnen voor extra fietspaden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maximumsnelheid van 30 km/u invoeren in de bebouwde kom",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Als BBB zijn we tegen een algemene 30 km/u-limiet in de hele bebouwde kom. Dit verslechtert de doorstroming en bereikbaarheid van doorgaande wegen. Wij kiezen voor maatwerk: 30 km/u in woonwijken waar nodig, maar 50 km/u behouden op hoofdwegen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "23 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Op sommige plekken is dit haalbaar en wenselijk, maar op veel plekken niet. 30 km rijden met een auto is best onhandig. Je zou kunnen gaan voor adviessnelheden op de verschillende routes varierende snelheden van 30, 40 en 50 km per uur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Niet elke straat is hetzelfde. 30 km/u kan passend zijn in woonwijken, rond scholen en drukke centra, maar een algemene norm voor de hele bebouwde kom beperkt de doorstroming onnodig en zorgt voor extra regels zonder aantoonbare meerwaarde.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "68 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Plekken waar wandelaars, fietsers en auto's de weg delen zijn geschikt voor 30km per uur. Dus alleen op plekken waar het voor de verkeersveiligheid nodig is. Maar op plekken waar het veilig is en waar aparte fietspaden zijn, is het niet altijd nodig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "84 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De ChristenUnie wil 30 km/u als norm binnen de bebouwde kom, met uitzonderingen voor verbindingswegen en hulpdiensten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "97 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "30 km/u is voor ons de norm. Dit is een snelheid die veilig is voor fietsers en voetgangers. Alleen op echte doorgaande wegen of waar dit nodig is voor hulpdiensten is 50 km/u nog wenselijk.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "DvD is voor verkeersveiligheid, maar 30 km/u is niet altijd de juiste oplossing. Verkeersveiligheid gaat verder dan alleen snelheid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "3 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De auto is geen luxe, maar een noodzaak voor leefbaarheid en economie — zeker in de Wijdemeerse dorpen, waar het openbaar vervoer is uitgekleed. FvD weigert de automobilist te pesten met ideologisch antiautobeleid.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "In woonerven is het volkomen logisch om 30 km/u te vragen, maar op doorgaande wegen is het helemaal niet nodig om de snelheid tot 30 te beperken.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "56 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij kiezen voor 30 km/u waar dit de veiligheid en leefbaarheid verbetert, vooral in woonstraten en bij scholen. Geen algemene invoering zonder maatwerk: hoofdwegen moeten doorstromen en inrichting en handhaving moeten kloppen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "0 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De LFD is tegen een algemene 30 km/u-norm. Snelheidsbeperkingen worden alleen toegepast waar de lokale situatie daar aantoonbaar aanleiding toe geeft.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "75 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Lokaal Eén streeft naar verlaging van de maximum snelheid binnen de wijken en dorpen naar 30 km/u. Zo versterken we de veiligheid en leefbaarheid. Dit gebeurt in overleg met de buurt, handhaving en wegaanpassingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "71 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "OpStand.nu pleit voor 40 km op doorgaande wegen binnen de bebouwde kom en max. 30 km in woonstraten.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "96 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Maximaal 30 km/uur wordt de norm in elke bebouwde kom. Dat scheelt veel gevaar, lawaai en uitstoot. We versterken de handhaving op asociaal en gevaarlijk parkeer- en rijgedrag.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "PvdD is voor een maximumsnelheid van 30km/u voor verkeer binnen de bebouwde kom. Straten zonder trottoirs worden omgevormd tot (woon)erven, met een maximumsnelheid van 15 km/u. Deze snelheid geldt ook in de buurt van scholen en kinderopvang.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "36 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Een algemene maximumsnelheid van 30 km/u vinden wij te ver gaan. Op sommige plekken kan 30 km/u de verkeersveiligheid verbeteren, maar de functie en inrichting van de weg moeten bepalend zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "76 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij willen 30 km/u als standaard in de bebouwde kom, met voorrang binnen de ring. Dat is duidelijker. Wij kijken wel goed waar dat kan en waar niet, ook in de dorpen. Op wegen met een duidelijk gescheiden fietspad is het niet altijd nodig.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "50 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "Wij zijn tegen één standaardoplossing. Snelheid moet passen bij de weg en de omgeving. Alleen op plekken waar veel fietsers en voetgangers zijn en een lagere snelheid aantoonbaar veiliger is, passen we dit lokaal toe.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "83 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "30 km/u is veiliger, stiller en schoner. Wijken en dorpen beslissen zelf over de inrichting van hun straten, ondersteund door experts. Dus ook over de snelheid. Doorgaande routes blijven 50 km/u zodat vanuit de dorpsranden de stad bereikbaar blijft.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "84 (schuifbalk 0=oneens, 100=eens)",
+    "toelichting": "De VVD wil 30 km/u in de bebouwde kom waar dat kan, want dat komt de veiligheid en de leefbaarheid ten goede. Maar: niet op de buitenring van Hilversum. Die moet blijven functioneren als doorgaande route.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "mijnstem",
+  "stelling": "Maak een keuze. Betaald parkeren in het centrum en de wijken van Hilversum:",
+  "antwoorden": {
+   "bbb": {
+    "antwoord": "0 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Als BBB zijn we tegen de uitbreiding en voor het terugdringen van betaald parkeren. Het jaagt inwoners, bezoekers en lokale ondernemers onnodig op hoge kosten. De auto moet betaalbaar blijven; wij kiezen voor leefbare wijken zonder parkeermelkkoe.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "7 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren doet afbreuk aan het sociale netwerk van mensen en zorgt voor minder klanten voor ondernemers. Beleid moet haalbaar en betaalbaar zijn. Sowieso in kerngebieden de tijden inkorten (10.00 tot 17.00) en de prijzen minimaal halveren per uur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "bvnl": {
+    "antwoord": "0 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren hoort een middel te zijn om schaarse ruimte te reguleren, niet een melkkoe voor de gemeente. Bewoners en bezoekers moeten zoveel mogelijk vrij kunnen parkeren, zeker buiten de drukste delen van het centrum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "cda": {
+    "antwoord": "10 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Het betaald parkeren moet anders ingericht worden in Hilversum. Het moet gericht zijn op het behouden van leefbare wijken en een bereikbaar centrum. In de drukke overloopgebieden past regulering wel. In de dorpen geen betaald parkeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "christenunie": {
+    "antwoord": "50 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "De ChristenUnie wil betaald parkeren alleen uitbreiden bij parkeerproblemen en voldoende draagvlak.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "d66": {
+    "antwoord": "62 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren zorgt voor meer leefbaarheid en groen in de wijk. Het is nu alleen ingevoerd binnen de ring van Hilversum. Dat zorgt elders voor overlast. Het uitbreiden van betaald parkeren kan wat ons betreft, maar alleen als straat of wijk dit wil.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "0 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren moet een functie hebben, geen melkkoe zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "fvd": {
+    "antwoord": "0 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "De dure, dwingende parkeerregels uit Hilversum mogen niet worden opgelegd aan de andere dorpen. Daar blijft parkeren onvoorwaardelijk gratis. Gratis parkeren bij je eigen huis. Ook de schiltarieven in Hilversum schaffen we af.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "7 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren is een noodzakelijk kwaad. Alleen als er een aanleiding is, dan moet betaald parkeren ingezet worden. Als er geen parkeerprobleem is, dan niet. Daarom zeggen wij: geen betaald parkeren in De Meent en Wijdemeren.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "hart-voor-hilversum": {
+    "antwoord": "41 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren is voor ons geen doel op zich. Wij willen het terugdringen waar het niet nodig is en alleen inzetten waar het helpt en bewoners dat steunen. Bezoek, mantelzorg en lokale winkels vragen om betaalbare, praktische regelingen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lfd": {
+    "antwoord": "24 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "De LFD wil betaald parkeren terugdringen waar het niet noodzakelijk is. Alleen aantoonbare parkeerdruk rechtvaardigt regulering. Parkeren is geen verdienmodel of middel om vervoerskeuze te sturen.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "lokaal-een": {
+    "antwoord": "26 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Terugdringen daar waar inwoners geen behoefte aan betaald parkeren hebben. Geen betaald parkeren in de dorpen; het eerste uur en op zondag is parkeren gratis en in overleg met inwoners in de woonwijken betaald parkeren van 8 tot 19 uur.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "opstand-nu": {
+    "antwoord": "83 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "In buurten buiten de ring ontstaan nu problemen door het waterbedeffect. Invoering betaald parkeren is ook daar gewenst, zoals op de bedrijventerreinen. Wel moet de uitvoering veel beter dan nu.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pro": {
+    "antwoord": "72 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "PRO is voor meer ruimte voor groen, spelen, fietsen en wandelen. Betaald parkeren zorgt zichtbaar voor minder auto’s op straat. We willen ook dat daar eerlijk voor betaald wordt.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "pvdd": {
+    "antwoord": "100 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Betaald parkeren wordt uitgebreid naar alle wijken in Hilversum. Tweede en opvolgende parkeervergunningen blijven duurder. Inwoners kunnen tegen een lager tarief parkeren in een parkeergarage. Er komen geen nieuwe parkeerplekken bij op straat.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "scb": {
+    "antwoord": "17 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Wij willen betaald parkeren in de wijken waar mogelijk terugdringen. Parkeren moet betaalbaar en praktisch blijven voor bewoners en bezoekers. Betaald parkeren mag geen doel op zich zijn.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "sp": {
+    "antwoord": "0 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Het parkeerbeleid terug naar de tekentafel. Wij zetten het nieuwe parkeerbeleid stil. Eerst gaan wij in gesprek met inwoners, met gesprekken en enquêtes, zodat wij weten wat mensen echt willen en wat er echt nodig is. Wij kijken eerst naar alternatieven.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "0 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Wij stoppen de verdere uitbreiding van betaald parkeren. Bestaand parkeerbeleid bekijken we opnieuw en wat niet werkt, draaien we terug. Parkeren is geen verdienmodel, maar een middel voor een echt probleem.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "volt": {
+    "antwoord": "51 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Wijken en dorpen beslissen zelf hoe ze omgaan met parkeren. Met fietsstraten, verbeterd openbaar vervoer en deelauto’s zijn er alternatieven. Een P+R buiten het centrum houdt auto's buiten het centrum.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   },
+   "vvd": {
+    "antwoord": "25 (schuifbalk 0=terugdringen, 100=uitbreiden)",
+    "toelichting": "Parkeren is voor de VVD geen verdienmodel en al zeker geen melkkoe. We willen betaald parkeren niet verder uitbreiden, en de eindtijd moet weer eerder dan middernacht worden.",
+    "herkomst": "ingevuld door de partij in MijnStem"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "De uitbreiding van betaald parkeren naar meer wijken moet opnieuw worden bekeken en zo nodig worden teruggedraaid.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Geen betaald parkeren in de Meent & de dorpen in Wijdemeren. Evalueren en waar mogelijk herijken van het gevoerde beleid. Parkeren moet geen melkkoe zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "PRO wil op zo kort mogelijke termijn samen met bewoners inventariseren waar verdere uitbreiding van betaald parkeren gewenst is.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "Betaald parkeren zorgt voor meer leefbaarheid en groen in de wijk. Nu geldt het alleen binnen de ring van Hilversum, wat elders voor overlast zorgt. Uitbreiden kan, maar alleen na afstemming met inwoners en ondernemers en als straat of wijk dit wil.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Het betaald parkeren in Hilversum moet opnieuw bekeken worden. We moeten bijsturen naar beleid dat onze inwoners en winkels voldoende parkeerruimte oplevert en parkeeroverlast van buiten vermindert. Ook mag er geen financiële drempel zijn voor het ontvangen van bezoek of vrijwilligerswerk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "Lokaal Eén wil een afgewogen Betaald Parkeren beleid: geen betaald parkeren buiten de ring of in de dorpen; het eerste uur parkeren is gratis en in overleg met inwoners in de woonwijken betaald parkeren van 8 tot 19 uur. Op zondag is parkeren vrij.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Wij zetten het nieuwe parkeerbeleid stil. Eerst gaan wij in gesprek met inwoners zodat wij weten wat mensen echt willen en wat er echt nodig is. Wij kijken eerst naar alternatieven. Denk aan betere fietsvoorzieningen, een P+R en aan beter openbaar vervoer. Bied eerst een alternatief.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "De uitbreiding van het betaald parkeren in 2025 ging te snel en met te weinig betrokkenheid van inwoners. Daar willen we van leren en komende tijd terughoudend zijn met verdere uitbreiding van het betaald parkeren. Het direct weer terugdraaien gaat ons echter een stap te ver.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Betaald parkeren hoort parkeerdruk te reguleren en mag geen gemeentelijke melkkoe zijn. Waar nut, noodzaak en draagvlak ontbreken, moet uitbreiding worden teruggedraaid.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Betaald parkeren mag geen doel op zichzelf zijn. We willen de effecten op bewoners, bezoekers en ondernemers zorgvuldig onderzoeken en waar nodig bijsturen. Bereikbaarheid, betaalbaarheid en leefbaarheid moeten in balans zijn.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Betaald parkeren moet functioneel zijn en bijdragen aan een goede bereikbaarheid. Het hoort thuis in het centrum, niet in woonwijken en dorpen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Dit is een van onze belangrijkste beloftes! Wij stoppen direct met de uitbreiding van betaald parkeren en draaien terug wat niet werkt. Parkeren is géén melkkoe voor de gemeente. We houden onze dorpen en wijken gastvrij, sociaal en bereikbaar voor o.a. vrienden, familie, mantelzorgers en bezoek.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "tegen",
+    "toelichting": "„Er komt betaald parkeren in de hele stad Hilversum en de tweede en opvolgende parkeervergunningen blijven duurder.”",
+    "herkomst": "Verkiezingsprogramma, p. 56"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Het betaald parkeren zorgt voor verarming van de leefbaarheid voor de inwoners en inkomstendaling voor ondernemers. Allebei geen gewenste ontwikkelingen. Qua parkeerbeleid staat maatschappelijke winst voorop niet financiele winst. Dus kies voor je inwoners en ondernemers ipv betaald parkeren",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "voor",
+    "toelichting": "Parkeren is geen melkkoe voor de gemeente. LFD is tegen verdere uitbreiding van betaald parkeren. Bestaande parkeergebieden moeten opnieuw worden beoordeeld. Waar de noodzaak ontbreekt, draaien we betaald parkeren terug. De gemeente moet parkeerproblemen oplossen, niet de belastingbetaler opzadelen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "neutraal",
+    "toelichting": "Dorpen en wijken beslissen zelf over het parkeerbeleid.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "De auto is voor veel inwoners noodzakelijk voor werk, gezin en dagelijkse voorzieningen. Wij willen de uitbreiding van betaald parkeren heroverwegen en waar mogelijk terugdraaien. Woonwijken moeten bereikbaar blijven.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "BBB verzet zich fel tegen betaald parkeren in woonwijken. Het is een extra belasting voor inwoners en een drempel voor winkelend publiek. Wij willen de uitbreiding terugdraaien om de lokale economie te ondersteunen.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Hilversum moet het plan voor een zero-emissiezone in het centrum niet opgeven: een gebied waar alleen bestel- en vrachtauto's zonder uitstoot in mogen.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "Inwoners en ondernemers worden hier enorm door geraakt en op kosten gejaagd. Ondernemers door het moeten doen van investeringen en inwoners door doorbelasting van hogere kosten. Bijkomend risico is dat ondernemers werk in het centrum gaan mijden en inwoners de dupe worden. Zie ook ervaringen elders.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "Pro wil stapsgewijs toewerken naar emissievrij verkeer in Hilversum",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "We willen dat de gemeente slimme keuzes maakt die duurzame mobiliteit voorrang geven. Een zero-emissiezone kan heel goed worden ingevoerd in het centrum van Hilversum, met alle ruimte voor uitzonderingen de komende jaren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "cda": {
+    "antwoord": "tegen",
+    "toelichting": "Het invoeren van zero-emissiezones leidt in verschillende steden tot onbetaalbare dienstverlening van bouwvakkers of zelfs tot onbeschikbaarheid. Dat is een onwenselijke ontwikkeling. Ook zet deze ontwikkeling Hilversumse ondernemers op achterstand tegenover omliggende gemeentes.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "neutraal",
+    "toelichting": "De kosten van klimaatmaatregelen moeten bij grote vervuilers en multinationals liggen, en niet bij gewone burgers, mkb'ers of zzp'ers. De SP vindt het oneerlijk als kleine ondernemers gedwongen worden om een dure elektrische bestelbus aan te schaffen. Stop te veel lokale regels.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Geen zero-emissiezone die ondernemers en inwoners dwingt vervroegd een duur nieuw voertuig te kopen. Elk RDW-goedgekeurd voertuig moet welkom blijven. Stimuleer schoner vervoer zonder verboden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "We willen een bereikbaar centrum waar ondernemers hun werk goed kunnen blijven doen. Maatregelen voor schoner vervoer mogen niet leiden tot onnodige lasten of praktische problemen voor lokale bedrijven. Bereikbaarheid, uitvoerbaarheid en leefbaarheid moeten zorgvuldig worden afgewogen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "DvD stelt de mens centraal, niet het zero-emissiebeleid. Maatregelen moeten praktisch, betaalbaar en haalbaar zijn. Inwoners en ondernemers mogen niet onnodig worden beperkt.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Wij kiezen voor een bruisend en gastvrij centrum dat voor iedereen toegankelijk is. Ondernemers moeten kunnen ondernemen zonder torenhoge kosten voor nieuwe, elektrische bussen. Verduurzamen doen we graag samen, niet met dwingende regels.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„Er komt een zero-emissiezone van toepassing op commercieel verkeer in het centrum van Hilversum.”",
+    "herkomst": "Verkiezingsprogramma, p. 57"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "tegen",
+    "toelichting": "Dit is niet wenselijk en helemaal niet haalbaar immers is er zoveel eenrichtingsverkeer dat je vaak door het centrum heen moet om ergens te komen. De gevolgen zijn groot voor grote en kleine ondernemers. Ondernemers die geen aanvoer en klanten krijgen en kleine zzp'ers die er niet kunnen werken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Schone lucht is belangrijk, maar ondernemers verplichten hun bestel- of vrachtauto te vervangen gaat te ver. LFD kiest voor keuzevrijheid, bereikbaarheid en betaalbare oplossingen. De gemeente moet verduurzaming niet afdwingen met extra verboden en hoge kosten voor ondernemers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "Hilversum-Centrum wordt een zero-emissiezone omdat we iedereen schone lucht gunnen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Een verplichte zero-emissiezone brengt extra kosten mee voor ondernemers en vervoerders. Het is een dure maatregel die vooral kleine ondernemers raakt. Elektrische busjes en vrachtwagens zijn duurder en hebben minder actieradius. Forum voor Democratie is tegen dwang.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "tegen",
+    "toelichting": "Een zero-emissiezone haalt lokale ondernemers en winkeliers volledig onderuit. Veel MKB’ers en zzp'ers kunnen de verplichte overstap naar dure elektrische bussen simpelweg niet betalen. BBB kiest voor een bereikbare binnenstad en weigert onze ondernemers op kosten te jagen.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Bezoekers van bewoners moeten gratis kunnen parkeren in wijken met betaald parkeren.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "Hart voor Hilversum vindt het uitermate belangrijk dat sociale contacten in stand blijven, daaronder vallen ook oppas & mantelzorg, dus is gratis parkeren een must. Bovendien brengt betaald parkeren veel meer op dan begroot door de gemeente.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "tegen",
+    "toelichting": "Hilversum moet voor iedereen bereikbaar zijn. Er is gekozen voor een lager tarief voor bezoekersparkeren om dit zo te houden. Helemaal gratis zou afbreuk doen aan de doelstellingen van het beleid om Hilversum leefbaar en groen te houden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "cda": {
+    "antwoord": "voor",
+    "toelichting": "Het CDA wil 300 bezoekersuren per maand beschikbaar stellen, naast de algemene mogelijkheid om overal in Hilversum een uur gratis te parkeren, de zondag gratis te houden, en mantelzorgers en vrijwilligers een vergunning te verstrekken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "neutraal",
+    "toelichting": "Niet altijd gratis, in sommige buurten kan dat niet. Lokaal Eén wil een afgewogen Betaald Parkeren beleid: geen betaald parkeren buiten de ring of in de dorpen; het eerste uur parkeren is gratis en in overleg met inwoners in de woonwijken betaald parkeren van 8 tot 19 uur. Op zondag is parkeren vrij.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "Wij willen het nieuwe parkeerbeleid, betaald parkeren tot de buitenring, terugdraaien en eerst met inwoners in gesprek of zij in meerderheid voor betaald parkeren zijn in hun wijk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "tegen",
+    "toelichting": "Bezoekers betalen al een sterk gereduceerd tarief van max 1,50 euro per dag en na 21.00 uur gratis. Daarnaast is er al een mantelzorgvergunning waarmee mantelzorgers gratis kunnen parkeren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "voor",
+    "toelichting": "Bewoners moeten zonder extra kosten familie, mantelzorgers, oppassers en ander bezoek kunnen ontvangen. Een ruime gratis bezoekersregeling voorkomt dat betaald parkeren sociaal contact en mantelzorg belemmert.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "voor",
+    "toelichting": "Bewoners moeten familie, vrienden en mantelzorgers gratis kunnen laten parkeren via een duidelijke bezoekersregeling. Zo voorkomen we onnodige kosten, met aandacht voor parkeerdruk en eerlijk gebruik.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "neutraal",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "voor",
+    "toelichting": "Buiten het centrum wil DvD geen betaald parkeren. Woonwijken zijn er om te wonen, niet om extra inkomsten voor de gemeente te genereren.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "voor",
+    "toelichting": "Mantelzorgers, de vaste oppas of gezellig bezoek maken het leven mooi. Zij moeten altijd zonder financiële drempels langs kunnen komen. Wij maken bezoekersregelingen gratis of uiterst betaalbaar, zodat onze buurten warm en sociaal blijven!",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "neutraal",
+    "toelichting": "Hoewel ik destijds voor het SP-amendement heb gestemd, beschouw ik deze als te breed. OpStand.nu is wel voor een meer ruimhartige bezoekersregeling.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "neutraal",
+    "toelichting": "Bewoners kunnen een bezoekersvergunning aanvragen, waarmee betaald parkeren voor bezoekers al een stuk goedkoper is geworden. Bewoners kunnen ook een mantelzorgvergunning aanvragen voor 120 uur per kwartaal gratis parkeren voor de mantelzorger.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Ja veel mensen zijn blij als ze bezoek krijgen. Maar dat het bezoek moet betalen is natuurlijk de reinste onzin. We klagen over eenzaamheid maar het parkeerbeleid werkt hier gewoon aan mee. Is dit wenselijk? Nee De gevolgen zijn voor bezoek thuis maar ook aan sociale en culturele voorzieningen",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Bezoek ontvangen mag geen extra kostenpost worden. LFD wil betaald parkeren waar mogelijk terugdraaien, in plaats van steeds nieuwe uitzonderingsregelingen te bedenken. Bewoners en hun bezoekers moeten niet onnodig betalen om gewoon bij elkaar langs te kunnen gaan.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "voor",
+    "toelichting": "Familie, vrienden en mantelzorgers moeten inwoners kunnen bezoeken zonder extra parkeerkosten. Wij willen gratis bezoekersparkeren en minder ingewikkelde parkeerregels.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "voor",
+    "toelichting": "Bezoek van familie, vrienden, mantelzorgers of oppas moet laagdrempelig en gratis blijven. Parkeerkosten mogen geen drempel vormen voor sociale contacten en de ondersteuning van ouderen of gezin. BBB wil niet dat inwoners en hun bezoek financieel worden belast.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "stemgids",
+  "stelling": "Op drukke dorpsstraten waar auto's, fietsers en voetgangers de weg delen, moet de gemeente meteen 30 kilometer per uur invoeren, ook als de weg nog niet is aangepast.",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "voor",
+    "toelichting": "E.e.a. kan alleen geschieden op verzoek van of op basis van participatie met de inwoners.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pro": {
+    "antwoord": "voor",
+    "toelichting": "PRO wil enkele ontsluitingswegen tussen de dorpen 30 km/uur maken. Dat doen we waar de weg smal is en voetgangers, fietsers en auto’s de weg met elkaar delen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "d66": {
+    "antwoord": "voor",
+    "toelichting": "30 km/u is voor ons de norm: veilig voor fietsers en voetgangers. We richten wegen waar mogelijk in op 30 km/u, met prioriteit voor knelpunten zoals het Noordereinde en Zuidereinde. Alleen op echte doorgaande wegen blijft 50 km/u wenselijk.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "vvd": {
+    "antwoord": "tegen",
+    "toelichting": "",
+    "herkomst": "Stemde tegen in de raad"
+   },
+   "cda": {
+    "antwoord": "neutraal",
+    "toelichting": "Het is belangrijk dat een weg ook aangepast wordt wanneer een 30km zone wordt ingevoerd; die aanpassingen zijn dan noodzakelijk voordat verkeersveiligheidswinst behaald kan worden.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lokaal-een": {
+    "antwoord": "voor",
+    "toelichting": "In het Mobiliteitsplan is al vastgelegd dat op wegen waar auto's, voetgangers en fietsers de weg delen, de weg een 30 km-weg is. Het Zuidereinde moet heringericht worden om een 30 km-weg te worden. Alleen borden neerzetten creëert schijnveiligheid, en dan kan de maximumsnelheid van 30 km niet worden gehandhaafd.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "sp": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "christenunie": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bvnl": {
+    "antwoord": "tegen",
+    "toelichting": "Een snelheidslimiet moet logisch, herkenbaar en handhaafbaar zijn. Voer 30 km/u gericht in waar veiligheid dit aantoonbaar vereist en pas waar nodig eerst de weg aan. Geen algemene verlaging zonder duidelijke noodzaak.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "scb": {
+    "antwoord": "tegen",
+    "toelichting": "Verkeersveiligheid is belangrijk, vooral voor kinderen, ouderen en kwetsbare verkeersdeelnemers. Snelheidsmaatregelen moeten passen bij de verkeerssituatie en goed worden ingericht en gehandhaafd. We zijn tegen directe algemene verlagingen zonder de situatie per weg te beoordelen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "tegen",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "tegen",
+    "toelichting": "Het verkeersbeeld moet voorspelbaar zijn. Duidelijke en herkenbare verkeerssituaties vergroten de veiligheid en voorkomen onnodige verwarring bij automobilisten, fietsers en voetgangers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "tegen",
+    "toelichting": "Snelheid moet passen bij de weg en de omgeving. Op plekken waar veel fietsers en voetgangers zijn en een lagere snelheid aantoonbaar bijdraagt aan de veiligheid, richten we de weg daar passend op in.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "opstand-nu": {
+    "antwoord": "voor",
+    "toelichting": "De partij gaf geen toelichting.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "pvdd": {
+    "antwoord": "voor",
+    "toelichting": "„In straten zonder vrijliggende fietspaden wordt de maximumsnelheid beperkt tot 30 km/u.”",
+    "herkomst": "Verkiezingsprogramma, p. 55"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "voor",
+    "toelichting": "Je moet wel per situatie kijken of het haalbaar is en het daardoor overzichtelijker en dus veiliger wordt. Gescheiden fiets- en autowegen helpen hier ook bij. Geen vaste regels maar een pakket aan maatregelen waarbij je kan inzetten wat op die plek het beste lijkt in overleg met inwoners en gebruikers.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "lfd": {
+    "antwoord": "tegen",
+    "toelichting": "Verkeersveiligheid vraagt om maatwerk. Een bord met 30 km/u maakt een onveilige weg niet vanzelf veilig. LFD wil snelheidsbeperkingen waar die aantoonbaar nodig zijn, met een passende weginrichting. Geen symboolmaatregelen.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "volt": {
+    "antwoord": "voor",
+    "toelichting": "We vervullen bijvoorbeeld de wens van ’s-Graveland om de gehele weg 30 km/u te maken.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "fvd": {
+    "antwoord": "tegen",
+    "toelichting": "Forum voor Democratie kiest voor bereikbaarheid op basis van hoe inwoners zich werkelijk verplaatsen. Parkeerregels, afsluitingen en verkeersmaatregelen mogen de dorpen niet opzadelen met beleid dat hun situatie miskent.",
+    "herkomst": "Antwoord van de partij"
+   },
+   "bbb": {
+    "antwoord": "neutraal",
+    "toelichting": "Verkeersveiligheid op drukke dorpsstraten heeft prioriteit, maar simpelweg borden neerzetten is niet altijd effectief. BBB wil per situatie maatwerk: op knelpunten direct de snelheid omlaag, maar wel snel gekoppeld aan de juiste fysieke aanpassingen van de weg.",
+    "herkomst": "Antwoord van de partij"
+   }
+  }
+ },
+ {
+  "bron": "hilversumsnieuws",
+  "stelling": "Gratis parkeren moet op termijn terugkeren in Hilversum",
+  "antwoorden": {
+   "hart-voor-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Gratis parkeren is een mooi streven maar parkeergelden zijn inmiddels een belangrijke inkomstenbron voor de gemeente en heeft in diverse wijken verlichting gebracht met betrekking tot parkeerdruk. Aan de andere kant heeft het ook een verschuiving veroorzaakt, zo zie je dat de overloop gebieden nu extra last ervaren en dat kan niet de bedoeling geweest zijn. Hart voor Hilversum heeft…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "pro": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Wij maken in Hilversum meer ruimte voor groen, wandelen en spelen op straat. Waar geparkeerde auto’s veel van de beschikbare ruimte innemen, pleiten wij voor betaald parkeren. Dat helpt de hoeveelheid auto’s op straat verminderen. Op plaatsen waar dit probleem niet bestaat, voeren we geen betaald parkeren in. Dus niet in de dorpen. Als buurten er zelf om vragen,…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "d66": {
+    "antwoord": "Oneens",
+    "toelichting": "Oneens. Betaald parkeren is geen doel op zich, maar een middel voor meer leefbaarheid en groen in de wijk. Minder ruimte voor stilstaande auto’s betekent meer ruimte voor fietsers, wandelaars, groen en spelen De invoering van betaald parkeren heeft in veel straten tot verbetering geleid, maar het proces is niet goed verlopen. Het parkeerbeleid kan beter: duidelijk, voorspelbaar, met eerlijke…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "vvd": {
+    "antwoord": "Oneens, want dit lost niets op",
+    "toelichting": "Oneens, want dit lost niets op. Elke partij die beweert dat dit kan zonder dat het een enorme puinhoop wordt, doet valse beloftes. Dit komt omdat er sinds het jaar 2000 zo’n 9.000 auto’s bijgekomen zijn en we nu totaal ruim 42.000 auto’s in Hilversum hebben, waar te weinig plek voor is. Net als bij sociale woningbouw moet de gemeente…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "cda": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Wij gaan voor het eerste uur overal gratis parkeren en wat ons betreft krijgen vrijwilligers en mantelzorgers een vergunning voor de locatie waar zij helpen. Het parkeerbeleid in Hilversum moet vooral anders. Wij kiezen voor eenvoudig beleid dat betaalbaar is voor onze inwoners, ontmoetingen en winkelen stimuleert in plaats van ontmoedigt. Tegelijkertijd is de ruimte op straat beperkt. Betaald parkeren…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "lokaal-een": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Helemaal geen betaald parkeren in Hilversum zal niet lukken. Lokaal Eén wil wel een afgewogen betaald parkeerbeleid. Betaald parkeren op de openbare weg is uitsluitend ingevoerd waar en wanneer dat nodig is. Geen betaald parkeren buiten de ring of in de dorpen. Maak het eerste uur parkeren gratis. Parkeergeld mag geen belemmering zijn voor een bezoekje aan vrienden of familie.…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "sp": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Wij zetten het nieuwe parkeerbeleid stil. Eerst gaan wij in gesprek met inwoners, met gesprekken en enquêtes, zodat wij weten wat mensen echt willen en wat er echt nodig is. Wij kijken eerst naar alternatieven. Denk aan een P+R, beter openbaar vervoer en betere fietsroutes. Bied eerst een alternatief voordat je mensen laat betalen. In de dorpen komt geen…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "christenunie": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Als gratis parkeren op termijn haalbaar blijkt, juichen wij dat toe. Voor de komende jaren zien wij die mogelijkheid alleen nog niet. Geparkeerde auto’s nemen nog te veel openbare ruimte in beslag, die wij liever benutten voor groen, veilige wandelroutes en betere fietsvoorzieningen. Betaald parkeren is voor ons geen doel, maar een middel om de leefbaarheid en bereikbaarheid van Hilversum…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "bvnl": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Een bereikbaar Hilversum is goed voor inwoners, bezoekers en ondernemers. Parkeren hoort geen verdienmodel te zijn. Gratis parkeren gedurende bijvoorbeeld de eerste uren kan het centrum aantrekkelijker maken en ondernemers ondersteunen. Mensen verdienen vrijheid in de manier waarop zij Hilversum bezoeken.",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "scb": {
+    "antwoord": "Eens, maar niet overal",
+    "toelichting": "Eens, maar niet overal. SCB wil de uitbreiding van betaald parkeren terugdraaien, zodat parkeren in woonwijken weer gratis wordt. Betaald parkeren kan op drukke locaties zinvol zijn, maar moet niet de standaard zijn in heel Hilversum. Waar betaald parkeren nodig blijft, willen we kijken naar lagere tarieven en gratis parkeren voor bezoekers en zorgverleners mogelijk maken. Parkeerbeleid moet bijdragen aan…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "gewoon-hilversum": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Gewoon, Hilversum ziet betaald parkeren in sommige straten als oplossingen voor de parkeerdruk, maar we willen geen uitbreiding betaald parkeren in de Hilversumse Meent en in dorpen van Wijdemeren! Volledig gratis parkeren in onze gemeente zien we niet terugkeren. Wel aanpassing op dagen en tijden.",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "dorp-voor-dorp": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Dorp voor Dorp vindt dat betaald parkeren alleen nodig is in het centrum, waar het helpt de beschikbare parkeerruimte te verdelen. Buiten het centrum moet parkeren gratis blijven. Uitbreiding van betaald parkeren kan de leefbaarheid en gezelligheid verminderen en vormt een financiële drempel voor familiebezoek, mantelzorg en professionele zorg. Mensen moeten elkaar kunnen bezoeken en helpen zonder steeds parkeergeld te…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "stop-betaald-parkeren-vip": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Als partij, ontstaan uit een lokaal bewonerscollectief, deden wij uitvoerig onderzoek naar het parkeerbeleid. De conclusie is helder: de uitbreiding is doorgedrukt zonder burgerparticipatie. De dagelijkse gevolgen raken mensen direct. Mantelzorgers en familieleden blijven vaker weg, waardoor kwetsbare inwoners onnodig vereenzamen. Parkeren mag nooit een gemeentelijk verdienmodel zijn. Daarom stoppen wij direct met deze uitbreiding, verdere uitbreiding van heel…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "opstand-nu": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Hilversum heeft net zo veel auto’s als woonadressen. Er komen nog steeds auto’s bij, vooral dikkere auto’s, maar niet meer ruimte. Een kind ziet dat niet iedereen voor zijn woning kan parkeren, laat staan twee auto’s. Kijk om je heen! Hele straten zijn onbegaanbaar voor mensen met een beperking, omdat trottoirs vol met auto’s staan. De brandweer kan er soms…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "pvdd": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "De Partij voor de Dieren is voorstander van betaald parkeren in Hilversum. Betaald parkeren is een rechtvaardige keuze. In feite huur je met betaald parkeren een stuk van de schaarse publieke ruimte om deze privé te mogen gebruiken. Deze ruimte had immers ook gebruikt kunnen worden voor waardevolle publieke functies, zoals groenvoorzieningen, speeltuinen en ontmoetingsplekken. Gratis parkeren moedigt autogebruik aan.…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "blanco-van-oostveen": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Betaald parkeren is een verarming van de leefbaarheid, bereikbaarheid en eenzaamheid. Hierdoor is de maatschappelijke winst nihil en de financiële winst (te) hoog. Dit staat niet in verhouding. Juist in het digitale tijdperk is menselijk contact van essentieel belang. Als alternatief kun je denken aan een bepaalde jaarbijdrage per auto zowel voor privé als voor zakelijk gebruik. Dit bedrag…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "lfd": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Parkeren is een voorziening, geen verdienmodel voor de gemeente. LFD wil stoppen met de verdere uitbreiding van betaald parkeren naar woonwijken en bestaande parkeergebieden opnieuw beoordelen. Waar geen aantoonbare parkeerdruk bestaat, moet betaald parkeren kunnen verdwijnen. Waar regulering noodzakelijk is, kiezen we voor de minst ingrijpende oplossing. Parkeertarieven moeten transparant zijn en parkeergarages aantrekkelijk geprijsd. De gemeente moet inwoners…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "volt": {
+    "antwoord": "geen expliciet eens/oneens in de reactie",
+    "toelichting": "Gratis parkeren in het centrum betekent dat bewoners zelf geen plek hebben voor hun auto. Met fietsstraten, verbeterd openbaar vervoer en deelauto’s willen we goede alternatieven bieden. Een gratis P+R houdt auto’s buiten het centrum. Zo is het centrum goed en veilig bereikbaar. En blijft ook in het centrum de lucht schoon. Maar parkeergeld mag niet worden ingezet om begrotingsgaten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "fvd": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Wij schaffen de schiltarieven op korte termijn af. Dat sluit maatwerk niet uit voor buurten met ruimtegebrek. De schiltarieven zijn te willekeurig want ze omspannen gebieden waar helemaal geen parkeerprobleem bestaat. De insteek van Forum voor Democratie op de langere termijn is dat je bij je huis kunt parkeren. In de centrumzone van Hilversum maken wij kortparkeren gratis. In…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   },
+   "bbb": {
+    "antwoord": "Eens",
+    "toelichting": "Eens. Betaald parkeren is helaas een melkkoe van de gemeente geworden. De gemeente moet weer leren realistisch en goed te begroten, in plaats van financiële gaten te dichten met parkeergeld. Parkeerheffingen mogen uitsluitend worden ingezet in het centrum op plekken waar sturing bij hoge parkeerdruk echt nodig is. We verzetten ons fel tegen uitbreiding naar woonwijken en winkelgebieden en zetten…",
+    "herkomst": "reactie van de partij in Hilversums Nieuws (29 okt 2026)"
+   }
+  }
+ }
+]

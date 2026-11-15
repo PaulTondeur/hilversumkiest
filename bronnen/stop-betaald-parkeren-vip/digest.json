@@ -1,0 +1,1047 @@
+{
+  "slug": "stop-betaald-parkeren-vip",
+  "kernboodschap": "Stop Betaald Parkeren - VIP is een nieuwe lokale partij die voortkomt uit het verzet tegen uitbreiding van betaald parkeren en dat als aanleiding, maar niet als eindpunt ziet. De partij wil dat de gemeente eerst luistert, feiten onderzoekt en alternatieven bekijkt voordat ze besluit, en dat maatregelen alleen worden genomen bij een aantoonbaar probleem. Verder legt ze accenten op betaalbare woningen voor jongeren, starters en ouderen, bereikbaarheid, maatwerk per wijk en dorp, en lage en uitlegbare gemeentelijke lasten.",
+  "speerpunten": [
+    "Verdere uitbreiding van betaald parkeren stoppen en bestaand parkeerbeleid gebied voor gebied opnieuw bekijken",
+    "Eerst een goed alternatief, dan pas een maatregel (geen parkeerplaatsen schrappen of parkeren duurder maken zonder alternatief)",
+    "Inwoners en ondernemers vooraf laten meepraten, ook via de eigen platforms hilversumstemt.nl en wijdemerenstemt.nl",
+    "Betaalbare en passende woningen voor jongeren, starters en ouderen, gericht op doorstroming",
+    "Maatwerk voor elke wijk en elk dorp, met een eigen agenda en budget en een lokaal aanspreekpunt in de dorpen",
+    "Eerst besparen, dan pas lasten verhogen; eerst de basis op orde, dan nieuwe ambities",
+    "Eén ondernemersloket en minder regels voor ondernemers"
+  ],
+  "themas": {
+    "wonen": [
+      {
+        "onderwerp": "voorrang sociale huur / statushouders",
+        "standpunt": "Voorrang voor sociale huur wil de partij baseren op aantoonbare urgentie met dezelfde regels voor iedereen; een verblijfsstatus is op zichzelf geen reden voor voorrang en lang wachtenden mogen niet zonder goede reden worden gepasseerd.",
+        "citaat": "Voorrang is gebaseerd op aantoonbare urgentie en duidelijke regels die voor iedereen gelden. Een verblijfsstatus is op zichzelf geen reden voor voorrang.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "transparantie woningtoewijzing",
+        "standpunt": "De gemeente maakt jaarlijks openbaar hoeveel sociale huurwoningen beschikbaar kwamen en hoeveel daarvan met voorrang of urgentie zijn toegewezen.",
+        "citaat": "Jaarlijks maken we inzichtelijk hoeveel woningen beschikbaar kwamen en hoeveel daarvan met voorrang of urgentie zijn toegewezen.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "huisvesting statushouders",
+        "standpunt": "Voor statushouders wil de partij waar mogelijk flexwoningen, woningdelen, tijdelijke huisvesting en geschikte leegstaande gebouwen benutten.",
+        "citaat": "We benutten voor statushouders waar mogelijk ook flexwoningen, woningdelen, tijdelijke huisvesting en geschikte leegstaande gebouwen.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "starterslening",
+        "standpunt": "De partij is voor een starterslening, maar zet die gericht in en alleen als zij starters daadwerkelijk helpt bij het kopen van een eerste woning.",
+        "citaat": "We zetten startersleningen gericht in wanneer die starters daadwerkelijk helpen bij het kopen van hun eerste woning.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaalbaar houden voor doelgroep",
+        "standpunt": "Bij betaalbare woningbouw wil de partij de gemeentelijke mogelijkheden gebruiken om woningen zoveel mogelijk betaalbaar en beschikbaar te houden voor de doelgroep waarvoor ze zijn gebouwd.",
+        "citaat": "Bij betaalbare woningbouw gebruiken we de mogelijkheden van de gemeente om woningen zoveel mogelijk betaalbaar en beschikbaar te houden voor de mensen voor wie ze worden gebouwd.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "splitsen, woningdelen, kantoren en wonen boven winkels",
+        "standpunt": "De partij wil leegstaande kantoren omzetten, wonen boven winkels, woningdelen en het splitsen van grote woningen eenvoudiger maken waar dat verantwoord kan.",
+        "citaat": "Leegstaande kantoren en andere geschikte gebouwen, wonen boven winkels, woningdelen en het splitsen van grote woningen maken we waar dat verantwoord kan eenvoudiger.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kantoren ombouwen alleen met compensatie werkruimte",
+        "standpunt": "Kantoren en bedrijfsruimtes mogen alleen woningen worden als er elders ruimte voor werk bijkomt; de partij wil voldoende ruimte voor lokale ondernemers houden.",
+        "citaat": "We toveren leegstaande panden graag om tot prachtige woningen, maar we zorgen er altijd voor dat er voldoende ruimte en aantrekkelijke alternatieven overblijven voor onze lokale ondernemers.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kleine en tijdelijke woonvormen",
+        "standpunt": "De partij wil ruimte geven aan compacte en tijdelijke woningen voor jongeren en starters, mits ze passen en van voldoende kwaliteit zijn.",
+        "citaat": "We geven ruimte aan kleine en betaalbare woonvormen voor jongeren en starters, waaronder compacte woningen en tijdelijke woningen waar die passen en van voldoende kwaliteit zijn.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "woningen voor ouderen en Van Groot naar Beter",
+        "standpunt": "De partij wil in de grotere kernen en waar passend ook in de dorpen kleinere, gelijkvloerse en levensloopbestendige woningen en woonhofjes voor ouderen, en met corporaties verhuizen binnen de eigen omgeving stimuleren.",
+        "citaat": "We stimuleren ‘Van Groot naar Beter’. Samen met woningcorporaties helpen we ouderen die kleiner en passender willen wonen om binnen hun eigen dorp, wijk of vertrouwde omgeving te verhuizen.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mantelwonen en extra woning op eigen erf",
+        "standpunt": "De partij wil mantelwonen eenvoudiger maken en waar verantwoord meer ruimte geven voor een kleine extra woning op het eigen erf.",
+        "citaat": "We geven waar dat verantwoord kan meer ruimte aan een kleine extra woning op het eigen erf.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "hoogbouw",
+        "standpunt": "De partij wil bouwen in de hoogte meenemen op geschikte locaties zonder onevenredige belasting van de omgeving; in de Stemgids is ze voor bij uitzondering tot 25 meter, zoals in het centrum van de Meent. Verdichting is voor haar geen doel op zich.",
+        "citaat": "We kijken ook naar bouwen in de hoogte wanneer daarmee op een geschikte locatie meer woningen kunnen worden gerealiseerd zonder dat de omgeving onevenredig wordt belast.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "woningmix grote projecten",
+        "standpunt": "Bij grotere projecten streeft de partij naar een mix van betaalbare, sociale en andere woningen, zonder percentages te noemen en met financiële uitvoerbaarheid als voorwaarde.",
+        "citaat": "Bij grotere woningbouwprojecten streven we naar een evenwichtige mix van betaalbare, sociale en andere woningen.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "bouwen naar behoefte per wijk en dorp",
+        "standpunt": "Woningbouwplannen beoordeelt de partij niet alleen op aantallen maar ook op betaalbaarheid, doelgroep, doorstroming en wat ze toevoegt aan wijk of dorp; per wijk en dorp wordt in beeld gebracht welke woningen ontbreken.",
+        "citaat": "We beoordelen woningbouwplannen daarom niet alleen op aantallen woningen, maar ook op betaalbaarheid, doelgroep, doorstroming, uitvoerbaarheid en wat het plan toevoegt aan wijk of dorp.",
+        "bron": "programma",
+        "pagina": 17,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "versnellen van procedures",
+        "standpunt": "De partij wil procedures en onderzoeken parallel laten lopen en regels die geen duidelijk doel meer dienen of ondergeschikt zijn aan de noodzaak geen goede plannen laten tegenhouden.",
+        "citaat": "Regels die geen duidelijk doel meer dienen of ondergeschikt zijn aan de noodzaak, mogen goede plannen niet onnodig tegenhouden.",
+        "bron": "programma",
+        "pagina": 18,
+        "soort": "richting"
+      }
+    ],
+    "verkeer": [
+      {
+        "onderwerp": "betaald parkeren: uitbreiding stoppen",
+        "standpunt": "De partij stopt de verdere uitbreiding van betaald parkeren en bekijkt het bestaande beleid gebied voor gebied opnieuw; wat niet werkt wordt aangepast of teruggedraaid.",
+        "citaat": "We stoppen de verdere uitbreiding van betaald parkeren en bekijken het bestaande parkeerbeleid gebied voor gebied opnieuw.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "betaald parkeren: alleen bij echt probleem",
+        "standpunt": "Betaald parkeren wordt alleen ingevoerd bij een echt probleem waar een andere oplossing onvoldoende werkt, en een maatregel in de ene wijk wordt niet automatisch elders ingevoerd.",
+        "citaat": "Betaald parkeren voeren we alleen in als er een echt probleem is en een andere oplossing onvoldoende werkt.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeren geen verdienmodel",
+        "standpunt": "Parkeerregels zijn voor de partij een middel tegen een probleem en geen inkomstenbron voor de gemeente.",
+        "citaat": "Parkeerregels zijn een middel om een probleem op te lossen, geen doel of verdienmodel.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "tarieven en vergunningen betaalbaar",
+        "standpunt": "Parkeertarieven en vergunningen moeten betaalbaar blijven zodat parkeren geen onnodig hoge extra last wordt voor inwoners, bezoekers en ondernemers; concrete tarieven noemt de partij niet.",
+        "citaat": "Parkeertarieven en vergunningen moeten betaalbaar blijven.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gratis parkeren bezoek",
+        "standpunt": "De partij wil bezoek van bewoners in wijken met betaald parkeren gratis of uiterst betaalbaar laten parkeren via bezoekersregelingen.",
+        "citaat": "Wij maken bezoekersregelingen gratis of uiterst betaalbaar, zodat onze buurten warm en sociaal blijven!",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mantelzorgers en autoafhankelijke groepen",
+        "standpunt": "Mantelzorgers, mensen met een beperking en andere autoafhankelijke groepen moeten bereikbaar blijven; bij parkeerbeleid kijkt de partij expliciet naar hun situatie.",
+        "citaat": "Mantelzorgers, mensen met een beperking en andere groepen die afhankelijk zijn van de auto houden we bereikbaar.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "blauwe zone als alternatief",
+        "standpunt": "Waar regulering nodig is, onderzoekt de partij eerst of een blauwe zone volstaat, vooral bij winkelgebieden en voorzieningen, met alleen beperkingen op tijden dat er een aantoonbaar parkeerprobleem is en met ontheffingen voor lang parkeren.",
+        "citaat": "Waar regulering nodig is, onderzoeken we eerst of een blauwe zone voldoende is.",
+        "bron": "programma",
+        "pagina": 6,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "geen parkeerplaatsen schrappen zonder alternatief",
+        "standpunt": "Parkeerplaatsen verdwijnen of parkeren wordt duurder pas als er een goed en werkbaar alternatief is of is onderzocht; parkeerplaatsen verdwijnen niet automatisch voor andere vormen van mobiliteit.",
+        "citaat": "Geen parkeerplaatsen schrappen of parkeren duurder maken voordat er een goed en werkbaar alternatief beschikbaar is of is onderzocht.",
+        "bron": "programma",
+        "pagina": 5,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gratis parkeren bij culturele voorzieningen",
+        "standpunt": "Waar de gemeente er zelf over beslist, zorgt de partij voor gratis parkeermogelijkheden voor bezoekers van belangrijke culturele voorzieningen.",
+        "citaat": "Waar de gemeente daar zelf over kan beslissen, zorgen we voor gratis parkeermogelijkheden voor bezoekers.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeren bij nieuwbouw",
+        "standpunt": "De partij wil de parkeerbehoefte bij nieuwe woningen niet kunstmatig wegrekenen en bij grotere projecten vanaf het begin een mobiliteitsplan maken.",
+        "citaat": "Parkeerbehoefte rekenen we niet kunstmatig weg.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "30 km/u",
+        "standpunt": "De partij kiest voor lagere snelheid alleen waar die aantoonbaar bijdraagt aan veiligheid en de weg daarop wordt ingericht; ze is tegen meteen 30 km/u op drukke dorpsstraten zonder aanpassing van de weg. Een eigen peiling toont 70 procent tegen 30 km/u in heel Hilversum.",
+        "citaat": "Op plekken waar veel fietsers en voetgangers zijn en een lagere snelheid aantoonbaar bijdraagt aan de veiligheid, richten we de weg daar passend op in.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mobiliteitstoets voor verkeers- en parkeermaatregelen",
+        "standpunt": "Bij elke belangrijke verkeers- of parkeermaatregel beantwoordt de partij zes vragen (probleem, alternatieven, werkbaar alternatief, gevolgen, passendheid, meten); zonder duidelijke antwoorden is het plan niet klaar voor een besluit.",
+        "citaat": "Kunnen deze vragen niet duidelijk worden beantwoord? Dan is het plan nog niet klaar voor een besluit.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "inwoners raadplegen bij parkeer- en verkeersbeleid",
+        "standpunt": "Bij grote veranderingen in parkeer- en verkeersbeleid raadpleegt de partij inwoners vooraf, onder meer via HilversumStemt.nl en WijdemerenStemt.nl.",
+        "citaat": "Bij grote veranderingen in parkeer- en verkeersbeleid raadplegen we inwoners vooraf, onder andere via HilversumStemt.nl en WijdemerenStemt.nl.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "fietsnetwerk, doorfietsroutes en obstakels",
+        "standpunt": "De partij wil ontbrekende schakels in het fietsnetwerk aanpakken, geplande doorfietsroutes voortvarend uitvoeren en paaltjes en obstakels op fietsroutes weghalen tenzij er een verkeers- of veiligheidsreden is.",
+        "citaat": "Ontbrekende schakels en onveilige verbindingen pakken we aan en geplande doorfietsroutes voeren we voortvarend uit.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "schoolzones en veilige schoolroutes",
+        "standpunt": "Waar verkeersveiligheid dat vraagt, richt de partij een passende schoolzone in of verbetert ze bestaande zones, samen met scholen, ouders en verenigingen.",
+        "citaat": "Waar de verkeersveiligheid daarom vraagt, richten we een passende schoolzone in of verbeteren wij de bestaande zones.",
+        "bron": "programma",
+        "pagina": 7,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "openbaar vervoer en dorpen",
+        "standpunt": "De partij wil betere avond-, nacht- en weekendverbindingen met Amsterdam, Utrecht en Amersfoort, flexbussen waar vaste lijnen niet werken, en geen buslijn of halte schrappen zonder eerst een bruikbaar alternatief.",
+        "citaat": "Een busverbinding of halte verdwijnt niet zonder dat eerst naar een goed en bruikbaar alternatief is gekeken.",
+        "bron": "programma",
+        "pagina": 9,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "P+R",
+        "standpunt": "De partij wil P+R- en overstapplekken op logische locaties als bruikbaar alternatief voor een deel van de autorit; een eigen peiling toont 50 procent steun voor P+R langs de drie uitvalswegen van Hilversum.",
+        "citaat": "We maken goede P+R- en overstapplekken op logische locaties.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "deelmobiliteit in de dorpen",
+        "standpunt": "Deelauto's, deelfietsen en deelscooters moeten er ook komen in de dorpen en waar behoefte aan is.",
+        "citaat": "Deelauto’s, deelfietsen en deelscooters komen ook in de dorpen en daar waar behoefte aan is.",
+        "bron": "programma",
+        "pagina": 8,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zero-emissiezone centrum",
+        "standpunt": "De partij is tegen het behouden van het plan voor een zero-emissiezone in het centrum van Hilversum, vanwege kosten voor ondernemers en dwingende regels.",
+        "citaat": "Ondernemers moeten kunnen ondernemen zonder torenhoge kosten voor nieuwe, elektrische bussen. Verduurzamen doen we graag samen, niet met dwingende regels.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bewonersenquête bij grote verkeersonderzoeken",
+        "standpunt": "Volgens een eigen inwonerspeiling vindt 66 procent dat de gemeente bij grote verkeersonderzoeken, zoals de rotonde op de Soestdijkerstraatweg, eerst een bewonersenquête moet houden voordat ze miljoenen investeert.",
+        "citaat": "Bij grote verkeersonderzoeken (zoals bij de rotonde op de Soestdijkerstraatweg) moet de gemeente eerst een bewonersenquête uitschrijven voordat het miljoenen investeert in aanpassingen.",
+        "bron": "extra-website-programma.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "klimaat": [
+      {
+        "onderwerp": "grootschalige wind- en zonneparken",
+        "standpunt": "De partij vindt grootschalige windmolenparken en zonneparken niet passen bij Hilversum en geeft voorrang aan oplossingen op of rond bestaande bebouwing voordat natuur- of buitengebied wordt gebruikt.",
+        "citaat": "Grootschalige windmolenparken en zonneparken passen niet bij de beperkte ruimte en het groene karakter van Hilversum.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "windmolens bij Nederhorst den Berg",
+        "standpunt": "De partij is voor verzet van de gemeente tegen grote windmolens vlak bij de dorpen, zoals bij Nederhorst den Berg.",
+        "citaat": "Wij zeggen krachtig 'nee' tegen de komst van grote windmolens in onze groene randen.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zonnepanelen op daken",
+        "standpunt": "Zonnepanelen komen bij voorkeur op geschikte daken en andere al bebouwde plekken, voordat waardevolle natuur of landschap wordt gebruikt.",
+        "citaat": "Zonnepanelen leggen we bij voorkeur op geschikte daken en andere al bebouwde plekken, voordat waardevolle natuur of landschap daarvoor wordt gebruikt.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kleine kerncentrale",
+        "standpunt": "De partij is tegen laten onderzoeken van een kleine kerncentrale in Hilversum of de regio, omdat grootschalige energieprojecten niet bij de beperkte ruimte passen.",
+        "citaat": "Grootschalige energieprojecten, zoals kerncentrales of enorme windmolenparken, passen simpelweg niet bij de beperkte ruimte en het prachtige, groene karakter van onze dorpen en stad.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "aardgasvrij 2050",
+        "standpunt": "De partij is tegen een gemeentelijk plan met tussendoelen om alle gebouwen in 2050 van het aardgas af te hebben; ze wil geen dwingende plannen opleggen en kiest voor praktische isolatie.",
+        "citaat": "We leggen onze inwoners geen peperdure, dwingende plannen op.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "energiebesparing en isolatie eerst",
+        "standpunt": "Energie besparen komt eerst: de partij geeft voorrang aan isolatie en andere praktische besparing en wil regels voor inwoners en ondernemers die zelf verduurzamen niet ingewikkelder maken dan nodig.",
+        "citaat": "Energie besparen komt eerst. We geven ruimte aan isolatie en andere praktische vormen van energiebesparing.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "netcapaciteit",
+        "standpunt": "Bij grote ontwikkelingen brengt de partij vroeg in beeld wat het elektriciteitsnet aankan en zoekt ze met netbeheerders oplossingen tegen vastlopen van woningbouw en bedrijven.",
+        "citaat": "Bij grote ontwikkelingen brengen we vroeg in beeld wat het elektriciteitsnet aankan.",
+        "bron": "programma",
+        "pagina": 34,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "betaalbaar verduurzamen",
+        "standpunt": "Verduurzamen moet praktisch, betaalbaar en aantoonbaar effectief zijn; de partij weegt kosten mee en kiest voor maatregelen met aantoonbaar resultaat.",
+        "citaat": "We kiezen voor praktische maatregelen die aantoonbaar resultaat opleveren en wegen daarbij ook de kosten mee.",
+        "bron": "programma",
+        "pagina": 32,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "klimaatadaptatie: groen en water",
+        "standpunt": "Op plekken waar hitte of hevige regen problemen geven, wil de partij meer schaduw en betere wateropvang en onderhoud, vergroening en wateropvang zoveel mogelijk combineren.",
+        "citaat": "Op plekken waar problemen spelen, kijken we naar meer schaduw en betere wateropvang.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      }
+    ],
+    "natuur": [
+      {
+        "onderwerp": "bescherming bossen, heide, plassen en bomen",
+        "standpunt": "De partij wil bossen, heide, plassen, bomen en waardevol groen beschermen en goed onderhouden, en eerst zorgen voor wat er is voordat automatisch nieuw groen wordt aangelegd.",
+        "citaat": "Eerst goed zorgen voor wat we hebben, voordat we automatisch nieuw groen aanleggen.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "natuurcompensatie en netto natuurwinst",
+        "standpunt": "Als natuur moet wijken voor wonen, werken of bereikbaarheid, onderzoekt de partij eerst alternatieven, regelt ze compensatie tijdig en vooraf, kijkt ze ook naar kwaliteit en controleert ze het resultaat; de ambitie is dat de natuur er per saldo op vooruitgaat.",
+        "citaat": "Onze ambitie is dat natuur bij ontwikkelingen er per saldo op vooruitgaat.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groen behouden in groenarme buurten",
+        "standpunt": "In buurten met weinig groen mag volgens de partij geen openbaar groen meer verdwijnen; waar toch gebouwd moet worden, compenseert ze het groen indien mogelijk.",
+        "citaat": "In versteende buurten beschermen en koesteren we elke boom en elk parkje. Waar toch gebouwd moet worden, compenseren we het groen (indien mogelijk)",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "waardevolle bomen",
+        "standpunt": "Waardevolle bomen blijven behouden waar dat redelijkerwijs kan; moeten ze toch verdwijnen, dan komt waar mogelijk herstel op of rond de locatie.",
+        "citaat": "Waardevolle bomen behouden we waar dat redelijkerwijs kan.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "groen bij woningbouw",
+        "standpunt": "Bij woningbouw en gebiedsontwikkeling neemt de partij groen vanaf het begin mee in plaats van achteraf te kijken welke ruimte overblijft.",
+        "citaat": "Bij woningbouw en gebiedsontwikkeling nemen we groen vanaf het begin mee. Niet achteraf kijken welke ruimte nog over is.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "recreatie rond de plassen",
+        "standpunt": "Recreatie, horeca en watersport krijgen ruimte waar dat past; rond de plassen zoekt de partij een balans tussen natuur, leefbaarheid en recreatief gebruik.",
+        "citaat": "Rond de plassen zoeken we naar een goede balans tussen natuur, leefbaarheid en recreatief gebruik.",
+        "bron": "programma",
+        "pagina": 33,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "recreatie versus natuurbescherming",
+        "standpunt": "De partij is voor dat vrij wandelen en recreëren in natuurgebieden rond de stad even zwaar weegt als natuurbescherming, met behoud van flora en fauna.",
+        "citaat": "Wandelaars, sporters en hondenbezitters moeten volop de ruimte krijgen in onze mooie natuurgebieden, terwijl we samen zorgdragen dat flora en fauna beschermd blijven.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "prioriteit natuur en economie",
+        "standpunt": "De partij ziet natuur en economie niet als tegenstanders en wil ontwikkeling mogelijk maken die verantwoord in de omgeving past; ze wil het gebied niet op slot zetten.",
+        "citaat": "Zo houden we onze gemeente groen en aantrekkelijk, zonder haar op slot te zetten.",
+        "bron": "programma",
+        "pagina": 32,
+        "soort": "richting"
+      }
+    ],
+    "zorg": [
+      {
+        "onderwerp": "jeugdzorg en bezuinigingen",
+        "standpunt": "De partij is tegen miljoenen bezuinigen op jeugdzorg; ze wil de organisatie slimmer maken met preventie en lokale samenwerking in plaats van op de kwaliteit te bezuinigen.",
+        "citaat": "We bezuinigen niet botweg op de kwaliteit van hulp, maar organiseren het wel véél slimmer",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "subsidie wijkcentra vijf jaar",
+        "standpunt": "De partij is voor vijfjarige subsidie in plaats van eenjarige voor wijk- en buurtcentra, voor financiële zekerheid en minder papierwerk.",
+        "citaat": "Wij geven ze graag de broodnodige financiële zekerheid en rust voor vijf jaar.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "één toegang tot zorg, persoonlijk contact",
+        "standpunt": "De partij wil één herkenbare toegang tot gemeentelijke zorg en ondersteuning en persoonlijk en telefonisch contact naast digitale dienstverlening.",
+        "citaat": "We zorgen voor één herkenbare toegang tot gemeentelijke zorg en ondersteuning.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "mantelzorg",
+        "standpunt": "De partij wil mantelzorgers makkelijker informatie, advies en praktische ondersteuning geven en eerder hulp bieden als de belasting te groot wordt.",
+        "citaat": "We zorgen dat zij makkelijk informatie, advies en praktische ondersteuning kunnen krijgen en eerder hulp kunnen krijgen wanneer de belasting te groot wordt.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zorg dichtbij in wijken en dorpen",
+        "standpunt": "Ondersteuning wordt zoveel mogelijk dichtbij georganiseerd via bestaande voorzieningen en netwerken, en wonen, welzijn en zorg worden in samenhang bekeken, vooral bij seniorenwoningen.",
+        "citaat": "Ondersteuning organiseren we zoveel mogelijk dichtbij, via bestaande voorzieningen en netwerken in wijken en dorpen.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "preventie en eenzaamheid",
+        "standpunt": "De partij zet in op preventie waar die grotere problemen en zwaardere zorg voorkomt, met aandacht voor bewegen, ontmoeting, eenzaamheid en mentale gezondheid.",
+        "citaat": "We zetten in op preventie als daarmee grotere problemen en zwaardere zorg kunnen worden voorkomen.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "meedoen en eigen inzet nieuwkomers",
+        "standpunt": "Voor nieuwkomers wil de partij hulp bij taal, onderwijs en werk, maar verwacht ze ook eigen inzet; vrijwilligerswerk ziet ze als opstap.",
+        "citaat": "De gemeente helpt waar nodig en verwacht eigen inzet.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zwemles voor ieder kind",
+        "standpunt": "De partij wil dat geld geen reden is dat een kind geen zwemdiploma haalt, door bestaande financiële hulp beter bekend te maken en te onderzoeken of die alle kinderen bereikt.",
+        "citaat": "Geld mag geen reden zijn waarom een kind geen zwemles of zwemdiploma krijgt.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "richting"
+      }
+    ],
+    "veiligheid": [
+      {
+        "onderwerp": "boa's en handhaving",
+        "standpunt": "Boa's worden vooral ingezet op plaatsen en tijden waar overlast en onveiligheid voorkomen of worden gemeld, met een aanpak per wijk en dorp; aantallen noemt de partij niet.",
+        "citaat": "Boa’s worden vooral ingezet op plaatsen en tijden waar overlast en onveiligheid voorkomen of wordt gemeld.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "cameratoezicht",
+        "standpunt": "De partij is tegen het behouden van cameratoezicht als vast middel: bij structurele overlast komen eerst betere verlichting en gerichte handhaving, camera's pas als uiterste middel.",
+        "citaat": "Cameratoezicht is pas aan de orde als uiterste middel, wanneer andere maatregelen onvoldoende effect hebben.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "overlast: gezamenlijke aanpak en terugkoppeling",
+        "standpunt": "Structurele overlast krijgt één gezamenlijke aanpak van gemeente, politie, jongerenwerk, zorg en corporaties, en melders krijgen terugkoppeling.",
+        "citaat": "Structurele overlast krijgt één gezamenlijke aanpak.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "donkere en onveilige plekken",
+        "standpunt": "Samen met inwoners brengt de partij donkere en sociaal onveilige plekken in beeld en kijkt ze naar verlichting, inrichting en toezicht.",
+        "citaat": "Samen met inwoners brengen we donkere en sociaal onveilige plekken in beeld en kijken we naar verlichting, inrichting, toezicht of andere oplossingen.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "ondermijning",
+        "standpunt": "Gemeente, politie en andere organisaties werken samen tegen criminele activiteiten die misbruik maken van woningen, bedrijfspanden of ondernemingen.",
+        "citaat": "We pakken ondermijnende criminaliteit aan.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jongeren: vroeg signaleren, handhaven met begeleiding",
+        "standpunt": "De partij wil jongerenwerk laten aanwezig zijn waar jongeren zijn en bij ernstige of herhaalde overlast duidelijk optreden, gecombineerd met begeleiding.",
+        "citaat": "Bij ernstige of herhaalde overlast wordt duidelijk opgetreden. We combineren handhaving met begeleiding waar dat nodig is.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "fraude en kwetsbare ouderen",
+        "standpunt": "De partij pakt digitale fraude en babbeltrucs aan met voorlichting en preventie, gericht op mensen die digitaal minder vaardig of extra kwetsbaar zijn.",
+        "citaat": "We pakken digitale fraude en babbeltrucs actief aan met voorlichting en preventie.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "crisisbeheersing en weerbaarheid",
+        "standpunt": "De gemeente bereidt zich voor op langdurige stroomuitval, internetuitval, extreem weer en cyberaanvallen, met nood- en continuïteitsplannen en herkenbare plekken waar inwoners bij langdurige uitval informatie en hulp krijgen.",
+        "citaat": "Voor essentiële dienstverlening liggen nood- en continuïteitsplannen klaar.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "buurtpreventie",
+        "standpunt": "Buurtpreventie en lokale initiatieven voor veiligheid krijgen praktische ondersteuning.",
+        "citaat": "Buurtpreventie, verenigingen en andere lokale initiatieven die bijdragen aan veiligheid en omzien naar elkaar krijgen praktische ondersteuning.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      }
+    ],
+    "asiel": [
+      {
+        "onderwerp": "asielopvang: wettelijke plicht, geen vrijwillige opschaling",
+        "standpunt": "De partij biedt de opvang die nodig is voor wettelijke verplichtingen en eerder genomen besluiten, en is tegen opvang ook zonder Spreidingswet; ze schaalt niet vrijwillig op zonder draagvlak.",
+        "citaat": "We bieden de opvang aan die nodig is om aan onze wettelijke verplichtingen en reeds genomen besluiten te voldoen.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tijdelijke opvang met einddatum",
+        "standpunt": "Tijdelijke opvang krijgt een vaste einddatum met vooraf vastgelegd aantal plaatsen en looptijd; verlenging is niet automatisch maar vraagt een nieuw onderbouwd besluit.",
+        "citaat": "Tijdelijke opvang heeft een duidelijke einddatum.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "openheid over opvang en COA-afspraken",
+        "standpunt": "Vooraf maakt de partij openbaar hoeveel opvangplaatsen er komen, voor hoe lang, wat de kosten en gevolgen zijn en welke afspraken met het COA zijn gemaakt.",
+        "citaat": "Vooraf maken we inzichtelijk hoeveel opvangplaatsen er komen, voor hoe lang, wat de kosten en gevolgen zijn en welke afspraken met het COA zijn gemaakt.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "gevolgen voor de buurt bij opvang",
+        "standpunt": "Bij opvang brengt de partij vooraf de gevolgen voor buurt, veiligheid, zorg, onderwijs en verkeer in beeld; veiligheid en leefbaarheid staan voorop.",
+        "citaat": "Veiligheid en leefbaarheid staan voorop.",
+        "bron": "programma",
+        "pagina": 21,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "statushouders en sociale huur",
+        "standpunt": "Een verblijfsstatus geeft op zichzelf geen voorrang bij sociale huur; de partij is tegen voorrang voor statushouders als aparte categorie.",
+        "citaat": "Een verblijfsstatus is op zichzelf geen reden om iemand die al lang wacht te passeren.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "meedoen en inburgering",
+        "standpunt": "Voor nieuwkomers noemt de partij taal leren, onderwijs, werken en deelnemen aan de samenleving en brengt ze inburgeraars en verenigingen met vrijwilligersvraag bij elkaar.",
+        "citaat": "Taal leren, onderwijs volgen, werken en deelnemen aan de samenleving horen daarbij.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "richting"
+      }
+    ],
+    "economie": [
+      {
+        "onderwerp": "ondernemersloket",
+        "standpunt": "De partij richt één herkenbaar ondernemersloket in voor vragen, vergunningen en procedures, dat bij onvolledige aanvragen zelf contact opneemt.",
+        "citaat": "We richten één herkenbaar ondernemersloket in voor vragen, vergunningen en procedures.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regels afschaffen en meerjarige vergunningen",
+        "standpunt": "Gemeentelijke regels worden regelmatig getoetst op nut en niet-noodzakelijke regels afgeschaft; voor terugkerende activiteiten komen waar mogelijk meerjarige vergunningen.",
+        "citaat": "Voor terugkerende activiteiten werken we waar mogelijk met meerjarige vergunningen.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "parkeren en ondernemers",
+        "standpunt": "Parkeermaatregelen komen alleen bij een concreet probleem en als betaald parkeren nodig blijkt, houdt de partij parkeren eenvoudig en betaalbaar voor winkels en bezoekers.",
+        "citaat": "Parkeermaatregelen voeren we alleen in als er een concreet probleem is en als betaald parkeren nodig blijkt, houden we parkeren eenvoudig en betaalbaar.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "afspraken bij werkzaamheden en wegafsluitingen",
+        "standpunt": "Bij werkzaamheden en ingrijpende verkeersmaatregelen maakt de partij vooraf afspraken met ondernemers over bereikbaarheid, bevoorrading en laden en lossen.",
+        "citaat": "Bij werkzaamheden en wegafsluitingen maken we vooraf afspraken met ondernemers over bereikbaarheid, bevoorrading en laden en lossen.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "bedrijfsruimte bij woningbouw",
+        "standpunt": "Verdwijnt bedrijfsruimte door woningbouw of gebiedsontwikkeling, dan bepaalt de partij vooraf hoe voldoende passende ruimte behouden of gecompenseerd wordt.",
+        "citaat": "Verdwijnt bedrijfsruimte, dan bepalen we vooraf hoe voldoende passende ruimte om te ondernemen behouden of gecompenseerd kan worden.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "groeiende bedrijven en nieuwe locaties",
+        "standpunt": "Voor bedrijven die veel ruimte nodig hebben onderzoekt de partij locaties aan de randen van de gemeente of op goed bereikbare bedrijventerreinen, zonder gedwongen verhuizing; wie vrijwillig verhuist, laat ruimte vrij voor wonen of kleinere bedrijven.",
+        "citaat": "Geen gedwongen standaardoplossing, maar maatwerk per locatie.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "winkelgebieden, terrassen en pop-ups",
+        "standpunt": "De partij wil winkelgebieden en dorpscentra aantrekkelijk houden en ruimte geven aan terrassen, pop-upwinkels en kleinschalige evenementen waar die passen.",
+        "citaat": "geven waar mogelijk ruimte aan terrassen, pop-upwinkels, kleinschalige evenementen en andere tijdelijke initiatieven waar die passen.",
+        "bron": "programma",
+        "pagina": 23,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "startups en media/AI",
+        "standpunt": "De partij wil ruimte geven aan startups en innovatieve bedrijven en waar mogelijk locaties zoeken om talent en bedrijvigheid in media, innovatie, digitalisering en AI te binden.",
+        "citaat": "Zo helpen we talent en bedrijvigheid op het gebied van media, innovatie, digitalisering en AI aan onze gemeente te binden.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "regionale samenwerking",
+        "standpunt": "De partij werkt regionaal samen waar dat inwoners en ondernemers aantoonbaar voordeel oplevert en bewaakt daarbij de belangen en zeggenschap van de eigen gemeente.",
+        "citaat": "Daarbij bewaken we de belangen en zeggenschap van onze eigen gemeente.",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "personeelstekorten",
+        "standpunt": "Met onderwijs, ondernemers en organisaties wil de partij personeelstekorten in onder meer zorg, onderwijs, kinderopvang en techniek aanpakken.",
+        "citaat": "We werken met onderwijs, ondernemers en maatschappelijke organisaties samen aan personeelstekorten die inwoners en de lokale economie direct raken",
+        "bron": "programma",
+        "pagina": 24,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "zondagsopening winkels",
+        "standpunt": "Over ruimere zondagsopening van winkels heeft de partij in de Stemgids een neutraal standpunt zonder toelichting.",
+        "citaat": "De partij gaf geen toelichting.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "richting"
+      }
+    ],
+    "cultuur": [
+      {
+        "onderwerp": "cultuurbudget",
+        "standpunt": "De partij is neutraal over meer geld voor kunst en cultuur; ze investeert pas in nieuwe plannen als basisvoorzieningen, zorg en veiligheid op orde zijn.",
+        "citaat": "we investeren pas in nieuwe plannen als de basisvoorzieningen, zorg en veiligheid helemaal op orde zijn.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "waarde van bibliotheken en culturele voorzieningen",
+        "standpunt": "Bibliotheken en culturele voorzieningen beoordeelt de partij niet alleen op kosten maar ook op betekenis voor ontmoeting en leefbaarheid.",
+        "citaat": "Bibliotheken, culturele voorzieningen en ontmoetingsplekken zijn meer dan een kostenpost.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "erfgoed",
+        "standpunt": "De partij beschermt cultureel en monumentaal erfgoed dat belangrijk is voor de geschiedenis en identiteit van Hilversum en de dorpen.",
+        "citaat": "We beschermen cultureel en monumentaal erfgoed dat belangrijk is voor de geschiedenis en identiteit van Hilversum en de dorpen.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "lokale evenementen en leges",
+        "standpunt": "Procedures voor lokale evenementen worden eenvoudig en regels afgestemd op omvang en risico; in de Stemgids is de partij voor geen leges voor kleine dorpsevenementen na de fusie.",
+        "citaat": "Lokale evenementen en activiteiten krijgen ruimte. Procedures maken we eenvoudig en regels laten we passen bij de omvang en het risico van een activiteit.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "tijdelijk gebruik leegstaande ruimtes",
+        "standpunt": "Leegstaande gemeentelijke ruimtes worden waar mogelijk tijdelijk benut voor maatschappelijke, culturele en creatieve initiatieven.",
+        "citaat": "Leegstaande gemeentelijke ruimtes benutten we waar mogelijk tijdelijk voor maatschappelijke, culturele en creatieve initiatieven.",
+        "bron": "programma",
+        "pagina": 31,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "sportaccommodaties en verenigingen",
+        "standpunt": "De partij wil sportverenigingen helpen bij accommodaties, onderhoud, verduurzaming en gezamenlijk gebruik, en sportaccommodaties breder benutten; bij nieuwe woonwijken en grote bouwprojecten reserveert ze vanaf het begin ruimte voor sport, bewegen en spelen.",
+        "citaat": "Bij nieuwe woonwijken en grote woningbouwprojecten reserveren we vanaf het begin ruimte voor sport, bewegen en spelen.",
+        "bron": "programma",
+        "pagina": 29,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "regeldruk voor verenigingen",
+        "standpunt": "De partij vereenvoudigt gemeentelijke regels, vergunningen en subsidies voor verenigingen en vrijwilligers en geeft hen één aanspreekpunt bij de gemeente.",
+        "citaat": "Verenigingen krijgen een duidelijk aanspreekpunt bij de gemeente voor accommodaties, vergunningen, subsidies en activiteiten.",
+        "bron": "programma",
+        "pagina": 30,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "schoolgebouwen en IHP",
+        "standpunt": "De partij voert het Integraal Huisvestingsplan voor het onderwijs uit en past het aan waar nodig; noodzakelijk onderhoud stelt ze niet uit en schoolgebouwen krijgen een gezond binnenklimaat.",
+        "citaat": "We voeren het Integraal Huisvestingsplan voor het onderwijs uit en passen het aan wanneer ontwikkelingen daarom vragen.",
+        "bron": "programma",
+        "pagina": 27,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "smartphones en sociale media op school",
+        "standpunt": "Scholen houden zelf de regie over regels voor smartphones en sociale media; de gemeente helpt met voorlichting, preventie en samenwerking.",
+        "citaat": "Scholen houden zelf de regie over regels voor smartphones en sociale media",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "kinderopvang bij scholen en nieuwe wijken",
+        "standpunt": "Bij nieuwe wijken, scholen en renovaties maakt de partij vanaf het begin ruimte voor opvang en bekijkt ze of opvang en onderwijs op één locatie kunnen.",
+        "citaat": "Bij nieuwe wijken, scholen en renovaties maken we vanaf het begin ruimte voor opvang",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "leerlingenvervoer",
+        "standpunt": "Leerlingenvervoer blijft beschikbaar voor kinderen die het nodig hebben, per kind beoordeeld.",
+        "citaat": "De gemeente beoordeelt per kind of leerlingenvervoer nodig is.",
+        "bron": "programma",
+        "pagina": 26,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "jongeren: ontmoetingsplekken",
+        "standpunt": "Samen met jongeren en omwonenden bekijkt de partij wat nodig en mogelijk is voor veilige ontmoetingsplekken voor jongeren.",
+        "citaat": "Jongeren hebben veilige plekken nodig om elkaar te ontmoeten.",
+        "bron": "programma",
+        "pagina": 20,
+        "soort": "richting"
+      }
+    ],
+    "bestuur": [
+      {
+        "onderwerp": "participatie vóór de voorkeursoplossing",
+        "standpunt": "Participatie begint voordat de voorkeursoplossing is gekozen; vooraf is duidelijk waarover inwoners invloed hebben en wie meepraat krijgt antwoord op wat met de inbreng is gedaan.",
+        "citaat": "Participatie begint voordat de voorkeursoplossing is gekozen.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "referendum",
+        "standpunt": "De partij is voor een referendum waarmee inwoners kunnen meebeslissen over grote gemeentelijke besluiten.",
+        "citaat": "Een referendum is een prachtig middel om écht naar inwoners te luisteren voordat we besluiten nemen die grote impact hebben op de omgeving.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "HilversumStemt en WijdemerenStemt",
+        "standpunt": "De partij raadpleegt inwoners ook tussen verkiezingen via hilversumstemt.nl en wijdemerenstemt.nl, ook per wijk en dorp, en laat zien wat met de uitkomsten gebeurt; online raadpleging vervangt persoonlijk contact niet.",
+        "citaat": "We gebruiken de platforms hilversumstemt.nl en wijdemerenstemt.nl ook per wijk en dorp.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "zes vragen bij elk belangrijk plan",
+        "standpunt": "Bij elk belangrijk nieuw plan beantwoordt de partij vooraf zes vragen over probleem, feiten en alternatieven, geraakten, kosten en capaciteit, inbreng en evaluatie; zonder antwoorden volgt geen besluit.",
+        "citaat": "Kunnen deze vragen niet duidelijk worden beantwoord? Dan is het plan nog niet klaar voor een besluit.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "openbaarheid van besluitinformatie",
+        "standpunt": "Belangrijke besluiten krijgen een publieksversie in gewone taal en relevante onderzoeken, kosten en alternatieven worden zoveel mogelijk vooraf openbaar gemaakt.",
+        "citaat": "Belangrijke besluiten krijgen een korte publieksversie in gewone taal",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dorpen en lokaal aanspreekpunt na de fusie",
+        "standpunt": "In de dorpen komt een herkenbaar lokaal aanspreekpunt zodat inwoners niet voor iedere vraag naar het gemeentehuis hoeven; plannen voor een dorp worden in dat dorp besproken.",
+        "citaat": "In de dorpen zorgen we voor een herkenbaar lokaal aanspreekpunt, zodat inwoners niet voor iedere vraag naar het gemeentehuis hoeven.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "wijk- en dorpsagenda met budget",
+        "standpunt": "Iedere wijk en ieder dorp krijgt een eigen agenda met acties, verantwoordelijken en uitvoeringsbudget, plus een budget voor lokale initiatieven; de hoogte noemt de partij niet.",
+        "citaat": "Iedere wijk en ieder dorp krijgt samen met inwoners, ondernemers en verenigingen een eigen agenda met de belangrijkste verbeteringen voor de komende jaren.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "voorzieningen in dorpen en wijken behouden",
+        "standpunt": "Een belangrijke lokale voorziening verdwijnt niet voordat alternatieven zijn onderzocht; de partij weegt ook bereikbaarheid, ontmoeting en betekenis voor wijk of dorp mee, niet alleen kosten en aantallen.",
+        "citaat": "Een belangrijke lokale voorziening verdwijnt niet voordat alternatieven zijn onderzocht.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "maatschappelijke gebouwen slimmer gebruiken",
+        "standpunt": "Dorpshuizen, sportaccommodaties, bibliotheken en andere gebouwen kunnen waar mogelijk door meerdere organisaties worden gebruikt.",
+        "citaat": "Dorpshuizen, sportaccommodaties, bibliotheken en andere gebouwen kunnen waar mogelijk door meerdere organisaties worden gebruikt.",
+        "bron": "programma",
+        "pagina": 14,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "persoonlijke dienstverlening",
+        "standpunt": "Naast digitale dienstverlening blijven persoonlijk en telefonisch contact mogelijk en krijgen inwoners een herkenbaar aanspreekpunt.",
+        "citaat": "De gemeente blijft persoonlijk bereikbaar.",
+        "bron": "programma",
+        "pagina": 11,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "toezeggingen en jaarlijkse verantwoording",
+        "standpunt": "Toezeggingen worden vastgelegd en gevolgd, en jaarlijks laat de partij zien wat is beloofd, uitgevoerd, niet gelukt en waarom.",
+        "citaat": "Toezeggingen worden vastgelegd en gevolgd.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "minder plannen, beter uitvoeren",
+        "standpunt": "De partij begint niet aan een groot nieuw plan zonder geld, mensen en planning en voert eerst uit wat is afgesproken voordat nieuwe ambities worden toegevoegd.",
+        "citaat": "Geen groot nieuw plan zonder geld, mensen en planning.",
+        "bron": "programma",
+        "pagina": 12,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "gemeentelijk aanspreekpunt bij ondernemers en inwoners (loket)",
+        "standpunt": "Inwoners en ondernemers worden niet van loket naar loket gestuurd; de gemeente regelt de afstemming intern.",
+        "citaat": "Geen inwoner of ondernemer van loket naar loket.",
+        "bron": "programma",
+        "pagina": 10,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "Bruisend Hart en Kerkbrink",
+        "standpunt": "De partij is neutraal over het plan Bruisend Hart voor het Oosterspoorplein: voor de eerste steen wil ze kritisch naar kosten en alternatieven kijken. De herinrichting van de Kerkbrink wil ze soberder en goedkoper.",
+        "citaat": "Voordat de eerste steen gelegd wordt, kijken we kritisch naar de kosten en alternatieven.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ],
+    "financien": [
+      {
+        "onderwerp": "woonlasten",
+        "standpunt": "De partij is voor beperking van de woonlasten (OZB, afvalstoffenheffing en rioolheffing samen) tot de inflatie.",
+        "citaat": "Inwoners moeten kunnen rekenen op lage en voorspelbare gemeentelijke lasten.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "eerst besparen, dan lasten verhogen",
+        "standpunt": "Voordat lasten stijgen, kijkt de partij eerst wat de gemeente zelf eenvoudiger, slimmer of goedkoper kan doen; ze wil lasten zo laag mogelijk houden zonder percentages te noemen.",
+        "citaat": "We houden gemeentelijke lasten zo laag mogelijk.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "externe inhuur en overhead",
+        "standpunt": "De partij kijkt kritisch naar externe inhuur, advieskosten en overhead en zet externe deskundigheid alleen in als die echt nodig is en meerwaarde heeft.",
+        "citaat": "We kijken kritisch naar externe inhuur, advieskosten en overhead.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "stapeling van lasten zichtbaar maken",
+        "standpunt": "Bij nieuwe voorstellen maakt de partij zichtbaar wat inwoners en ondernemers in totaal extra gaan betalen.",
+        "citaat": "Bij nieuwe voorstellen maken we zichtbaar wat inwoners en ondernemers in totaal extra gaan betalen.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "dekking en meevallers",
+        "standpunt": "De partij begint niet aan nieuwe structurele uitgaven zonder dekking en geeft meevallers niet automatisch uit maar kijkt eerst naar investeringen, risico's en reserves.",
+        "citaat": "Meevallers geven we niet automatisch uit.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "prioriteit basis boven nieuwe ambities",
+        "standpunt": "Onderhoud, veiligheid, zorg, bereikbaarheid en belangrijke voorzieningen gaan voor nieuwe ambities; nieuwe plannen starten alleen met voldoende geld én mensen.",
+        "citaat": "Onderhoud, veiligheid, zorg, bereikbaarheid en belangrijke voorzieningen gaan vóór nieuwe ambities.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "onderhoud niet uitstellen",
+        "standpunt": "Onderhoud en noodzakelijke investeringen stelt de partij niet uit als wachten uiteindelijk duurder is.",
+        "citaat": "Uitstel dat later tot hogere kosten leidt, is geen besparing.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "financiële buffer",
+        "standpunt": "De partij houdt voldoende financiële ruimte voor tegenvallers zodat niet bij ieder probleem direct wordt bezuinigd of lasten omhoog gaan.",
+        "citaat": "We houden voldoende financiële ruimte voor tegenvallers en onverwachte gebeurtenissen.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "kosten fusie",
+        "standpunt": "De partij wil dat de samenvoeging van Hilversum en Wijdemeren financieel beheersbaar blijft, met inzicht in kosten, besparingen en risico's.",
+        "citaat": "De samenvoeging van Hilversum en Wijdemeren moet financieel beheersbaar blijven.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "richting"
+      },
+      {
+        "onderwerp": "subsidies tijdelijk en toetsen op resultaat",
+        "standpunt": "Subsidies krijgen vooraf een doel en beoordelingsmoment en tijdelijke subsidies worden niet vanzelf permanent; werkt beleid onvoldoende dan wordt het verbeterd of gestopt.",
+        "citaat": "Tijdelijke subsidies worden niet vanzelf permanent.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "grip op grote projecten",
+        "standpunt": "Grote projecten krijgen vooraf een doel, budget, planning, risicoanalyse en verantwoordelijke; bij overschrijding wordt de raad tijdig geïnformeerd en wordt bewust gekozen voor doorgaan, aanpassen, uitstellen of stoppen.",
+        "citaat": "Grote projecten krijgen een helder doel, budget, planning en risicoanalyse.",
+        "bron": "programma",
+        "pagina": 37,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "begroting begrijpelijk en open",
+        "standpunt": "De partij maakt de begroting en jaarrekening begrijpelijker en laat de belangrijkste inkomsten en uitgaven overzichtelijk zien; grote financiële tegenvallers worden niet verstopt.",
+        "citaat": "Grote financiële tegenvallers worden niet verstopt.",
+        "bron": "programma",
+        "pagina": 36,
+        "soort": "concreet"
+      },
+      {
+        "onderwerp": "Kerkbrink soberder en goedkoper",
+        "standpunt": "De partij is voor een soberder en goedkoper ontwerp van de Kerkbrink en wil eerst de basis in Hilversum op orde brengen.",
+        "citaat": "We brengen eerst de basis in Hilversum keurig op orde.",
+        "bron": "extra-stemgids-standpunten.txt",
+        "pagina": null,
+        "soort": "concreet"
+      }
+    ]
+  },
+  "opvallend": [
+    "Het partijprogramma is opgebouwd rond één procesprincipe (eerst meten, dan beslissen; alleen maatregelen bij een aantoonbaar probleem en met een werkbaar alternatief) en past dat toe op parkeren, verkeer, bouwplannen en financiën, met zes vaste toetsvragen bij belangrijke plannen.",
+    "De partij raadpleegt de eigen achterban structureel via de eigen platforms hilversumstemt.nl en wijdemerenstemt.nl en wil die uitkomsten betrekken bij raadsbesluiten; ze noemt 139 van de 142 polls terug te vinden in het programma.",
+    "Op parkeren wil de partij verdere uitbreiding stoppen en bestaand beleid gebied voor gebied herzien, met een blauwe zone als eerste alternatief; het programma noemt geen aparte regeling voor het centrum van Hilversum.",
+    "De partij is in de Stemgids tegen het behouden van het zero-emissiezone-plan, tegen een aardgasvrij-plan tot 2050 en tegen een onderzoek naar een kleine kerncentrale, en wil grootschalige wind- en zonneparken niet in het groen.",
+    "Bij cameratoezicht kiest de partij voor camera's alleen als uiterste middel na verlichting en handhaving.",
+    "Voor statushouders geen voorrang op sociale huur op grond van verblijfsstatus, maar wel flexwoningen en tijdelijke huisvesting, en tijdelijke asielopvang met vaste einddatum waarvan verlenging een nieuw besluit vraagt.",
+    "Het programma noemt vrijwel geen aantallen, percentages, bedragen of tarieven; keuzes zijn procedureel en voorwaardelijk geformuleerd."
+  ],
+  "dun": [
+    "Geen woningbouwaantallen, geen percentages sociale huur of middenhuur en geen concrete bouwlocaties bij naam in het programma",
+    "Geen lokale dossiers bij naam in het programma (zoals Mediapark, Arenapark, Crailo, Loosdrechtse Plassen als dossier, vliegveld, zwembaden); alleen Bruisend Hart, Kerkbrink, de Meent en Nederhorst den Berg komen via de Stemgids voor",
+    "Geen concrete OZB-percentages of bedragen, afgezien van de Stemgids-lijn dat woonlasten niet harder stijgen dan de inflatie",
+    "Geen standpunt over koopzondag in het programma (alleen neutraal zonder toelichting in de Stemgids), coffeeshops of vuurwerk",
+    "Weinig over de specifieke positie van het centrum van Hilversum, de Mediastad en toerisme",
+    "Geen concrete aantallen voor boa's, politie of handhaving",
+    "Natuur, dierenwelzijn en landbouw: geen standpunten over boeren, dierenwelzijn of het vliegveld Hilversum"
+  ]
+}

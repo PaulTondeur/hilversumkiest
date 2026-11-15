@@ -1,0 +1,22 @@
+{
+  "naam": "Blanco lijst (Jacqueline van Oostveen)",
+  "lijstnummer": 16,
+  "lijsttrekker": "Jacqueline van Oostveen",
+  "website": null,
+  "programma_url": null,
+  "programma_titel": null,
+  "programma_paginas": 0,
+  "type": "blanco lijst (lijst zonder partijnaam, eenpersoonslijst)",
+  "achtergrond": "Eenpersoonslijst van Jacqueline van Oostveen (Hilversum, doet voor het eerst mee als lijsttrekker). Volgens stemgidshilversum.nl stond zij in 2022 op plek 2 van Leefbaar Hilversum (niet gekozen) en was zij vanaf april 2020 commissielid (geen raadslid) voor Leefbaar Hilversum. Geen zetels.",
+  "bronnen": [
+    "https://stemgidshilversum.nl/partijen/blanco-van-oostveen/",
+    "https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/op-wie-kan-ik-stemmen",
+    "https://www.kiesraad.nl/verkiezingen/gemeenteraden/kandidaatstelling/blanco-lijst"
+  ],
+  "opmerkingen": "GEEN verkiezingsprogramma of eigen website gevonden. Stemgids noemt een ibabs-link (api1.ibabs.eu publicdownload id 8748894e-...), maar die gaf 403 (waarschijnlijk het kandidatenlijst-/ondersteuningsstuk). WebSearch vond niets. Enige standpuntbron: de antwoorden van de lijst zelf op de stemgidsstellingen (extra-stemgids-standpunten.txt); de pagina zegt dat de partij de pagina niet heeft gecontroleerd (samengesteld door redactie), dus herkomst van antwoorden niet 100% zeker.",
+  "slug": "blanco-van-oostveen",
+  "opgehaald_op": "2026-11-15",
+  "extra_bestanden": [
+    "extra-stemgids-standpunten.txt"
+  ]
+}

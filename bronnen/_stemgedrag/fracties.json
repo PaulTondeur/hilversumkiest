@@ -1,0 +1,68 @@
+{
+  "toelichting": "Fracties in de gemeenteraden van Hilversum (37 zetels) en Wijdemeren (19 zetels) in de raadsperiode 2022-2026, en hoe ze zich verhouden tot de 20 lijsten van 18 november 2026. Zetels bij de start komen uit de hoofdelijke stemregistratie (iBabs 8-6-2022, alle 37 leden aanwezig; Notubiz 14-12-2022, 19 leden) en zijn voor de grootste partijen gecontroleerd tegen nieuwsbronnen. De verloopdata zijn afgeleid uit de eerste/laatste stemming waarin een raadslid onder een fractielabel voorkomt, dus op vergaderdatum nauwkeurig, niet op de dag. 'continuiteit' zegt of stemgedrag van de fractie mag gelden voor de lijst van nu: 'helder', 'gedeeltelijk' of 'nee'.",
+  "bronnen_algemeen": [
+    "https://hilversum.bestuurlijkeinformatie.nl/ (iBabs, hoofdelijke stemmingen per raadslid; ruwe pagina's in origineel/ibabs/raad/)",
+    "https://wijdemeren.raadsinformatie.nl/ (Notubiz, hoofdelijke stemmingen; ruwe pagina's in origineel/notubiz/raad/)",
+    "https://stemgidshilversum.nl/partijen/stemgedrag/ (wegwijzer; origineel/stemgids/stemgedrag.html)",
+    "https://www.nhnieuws.nl/nieuws/301294/voorlopige-uitslag-wijdemeren-de-lokale-partij-explosieve-stijger",
+    "https://www.wijdemeren.nl/4/Wijdemeren-Informeren/Wijdemeren-Informeren-30-03-2022.pdf"
+  ],
+  "onzeker": [
+    "De officiele Kiesraad-uitslag (verkiezingsuitslagen.nl) kon niet worden opgehaald (certificaatfout); zetels bij de start zijn afgeleid uit de stemregistratie bij volledige opkomst en voor Wijdemeren bevestigd door NH Nieuws / Wijdemeren Informeren (DLP 8, CDA 3, DB 2, VVD 2). Voor Hilversum bevestigt NH Nieuws alleen HvH 8.",
+    "Tussentijdse wisselingen zijn gereconstrueerd uit de stemregistratie; exacte datum van overstap is niet nagezocht in installatiebesluiten.",
+    "Het iBabs-veld 'Raadsleden' bij moties (gebruikt als indieners) noemt fracties met hun huidige naam en is niet altijd consistent met de stemming."
+  ],
+  "Hilversum": {
+    "zetels_totaal": 37,
+    "coalities": [
+      {"periode": "juni 2022 - mei 2024", "partijen": ["Hart voor Hilversum", "VVD", "GroenLinks", "CDA"], "bron": "Raadsvoorstel coalitieakkoord 2022-2026 'Hilversum koesteren' (iBabs 8-6-2022, https://hilversum.bestuurlijkeinformatie.nl/Agenda/Index/15cf7c2d-a03e-4167-b084-3a8b76449caf)"},
+      {"periode": "mei 2024 - eind periode", "partijen": ["VVD", "GroenLinks", "CDA", "Democraten Hilversum", "PvdA"], "bron": "Raadsvergadering 29-5-2024: duidingsdebat aanpassing coalitie, installatie wethouders J. Kalk (PvdA) en E. Gobbels (DH) (https://hilversum.bestuurlijkeinformatie.nl/Agenda/Index/3c637c38-2058-4af2-bebd-2cb7d883b3de); HvH vanaf toen oppositie (Stemgids)."}
+    ],
+    "fracties": [
+      {"fractie": "Hart voor Hilversum", "zetels_2022": 8, "verloop": "8 -> 7 (H. Koc naar Democraten Hilversum, voor april 2023) -> 6 (C. Jansson naar DH, maart 2024); R. Redmeijer vertrok na 1-7-2026 naar Gewoon, Hilversum -> 5.", "lijst_2026": "Hart voor Hilversum (lijst 1)", "continuiteit": "helder", "opmerking": "Let op: twee HvH-raadsleden zitten sinds 2023/2024 bij DH (nu Lokaal Een) en Redmeijer bij Gewoon, Hilversum. HvH-lijsttrekker 2026 is duo Ron Lance / Jan-Jaap de Kloet (ex-raadslid DorpsBelangen Wijdemeren tot 2023, bron: https://www.hilversumsnieuws.nl/politiek/politiek/380799/hilversum-kiest-twintig-partijen-op-de-lijst-van-18-november)."},
+      {"fractie": "D66", "zetels_2022": 7, "verloop": "7 -> 6: A. Zaabat ging in september 2025 verder als Fractie Zaabat.", "lijst_2026": "D66 (lijst 3)", "continuiteit": "helder"},
+      {"fractie": "VVD", "zetels_2022": 5, "verloop": "5 -> 4: H. van de Linde splitste af (september 2025; tot maart 2026 in iBabs als tweede fractie 'VVD').", "lijst_2026": "VVD (lijst 4)", "continuiteit": "helder", "bron": "https://www.nhnieuws.nl/nieuws/351866/niet-een-maar-twee-vvds-in-raad-hilversum-geen-harde-breuk-maar-een-herordening"},
+      {"fractie": "GroenLinks", "zetels_2022": 4, "verloop": "4; na vertrek S. Hexspoor (jan. 2026) werd opvolger H. al Ibrahim toegelaten, die in de raad zit voor SCB -> GroenLinks 3.", "lijst_2026": "PRO (lijst 2)", "continuiteit": "helder", "opmerking": "PRO = GroenLinks-PvdA; Stemgids koppelt GL en PvdA aan PRO Hilversum."},
+      {"fractie": "CDA", "zetels_2022": 4, "verloop": "4 (wisseling van personen).", "lijst_2026": "CDA (lijst 5)", "continuiteit": "helder"},
+      {"fractie": "Democraten Hilversum", "zetels_2022": 3, "verloop": "3 -> 4 (Koc, ex-HvH) -> 5 (Jansson, ex-HvH).", "lijst_2026": "Lokaal Een (lijst 6)", "continuiteit": "helder", "bron": "lokaal-een/meta.json; https://www.hilversumsnieuws.nl/politiek/politiek/369488/drie-lokale-partijen-uit-hilversum-en-wijdemeren-worden-lokaal-een-nieuwe-partij-doet-mee-aan-gemeenteraadsverkiezingen", "opmerking": "Lokaal Een is een fusie van DH met De Lokale Partij en DorpsBelangen (Wijdemeren). Die drie stemden niet altijd hetzelfde: zie samenvatting."},
+      {"fractie": "PvdA", "zetels_2022": 2, "verloop": "2 -> 1: J. Lahaise splitste af in mei 2025 (Fractie Lahaise, vanaf sept. 2025 OpStand).", "lijst_2026": "PRO (lijst 2)", "continuiteit": "helder"},
+      {"fractie": "SP", "zetels_2022": 2, "verloop": "2 (wisseling van personen).", "lijst_2026": "SP (lijst 7)", "continuiteit": "helder"},
+      {"fractie": "ChristenUnie", "zetels_2022": 1, "verloop": "1.", "lijst_2026": "ChristenUnie (lijst 8)", "continuiteit": "helder"},
+      {"fractie": "BVNL", "zetels_2022": 1, "verloop": "F. Durlacher; vanaf december 2024 Fractie Durlacher, vanaf september 2026 Libertaire Fractie Durlacher.", "lijst_2026": "BVNL (lijst 9) en/of LFD (lijst 17)", "continuiteit": "gedeeltelijk", "opmerking": "Het stemgedrag 'BVNL' 2022-dec 2024 is volledig dat van Durlacher, die nu LFD trekt. BVNL doet in 2026 mee met een andere lijsttrekker (J. van Beers) en heeft sinds december 2024 geen raadslid meer. Toerekening aan BVNL-2026 is dus onzeker; aan LFD alleen als je de persoon volgt."},
+      {"fractie": "Fractie Durlacher / Libertaire Fractie Durlacher", "zetels_2022": 0, "verloop": "Afsplitsing van BVNL, december 2024 (zelfde raadslid).", "lijst_2026": "LFD (lijst 17)", "continuiteit": "helder", "opmerking": "Zelfde persoon en lijsttrekker; stemgedrag vanaf dec. 2024 telt voor LFD."},
+      {"fractie": "Fractie Lahaise / OpStand", "zetels_2022": 0, "verloop": "Afsplitsing van PvdA, mei 2025.", "lijst_2026": "Opstand.nu (lijst 14)", "continuiteit": "helder", "opmerking": "Lahaise is lijsttrekker van Opstand.nu. Zijn stemgedrag voor mei 2025 valt onder PvdA."},
+      {"fractie": "Fractie Zaabat", "zetels_2022": 0, "verloop": "Afsplitsing van D66, september 2025.", "lijst_2026": null, "continuiteit": "nee", "opmerking": "Geen lijst in 2026 bekend; ontbrak in de lijst van de gebruiker."},
+      {"fractie": "Fractie Van de Linde", "zetels_2022": 0, "verloop": "Afsplitsing van VVD, september 2025; in september 2026 samen met Redmeijer verder als Gewoon, Hilversum.", "lijst_2026": "Gewoon, Hilversum (lijst 11)", "continuiteit": "helder", "opmerking": "Van de Linde staat op plek 3 van Gewoon, Hilversum."},
+      {"fractie": "Sociaal-Conservatieve Beweging (SCB)", "zetels_2022": 0, "verloop": "H. al Ibrahim, gekozen op de GroenLinks-lijst 2022, toegelaten 28-1-2026 als opvolger van Hexspoor, maar zit in de raad voor SCB.", "lijst_2026": "SCB (lijst 10)", "continuiteit": "helder", "opmerking": "Slechts ca. 10 maanden raadshistorie. Zijn zetel is formeel een GroenLinks-zetel; zijn stemmen horen bij SCB, niet bij PRO. Toelating zelf was omstreden (21-16)."},
+      {"fractie": "Gewoon, Hilversum", "zetels_2022": 0, "verloop": "Sinds september 2026: R. Redmeijer (ex-HvH) en H. van de Linde (ex-VVD).", "lijst_2026": "Gewoon, Hilversum (lijst 11)", "continuiteit": "gedeeltelijk", "opmerking": "Eigen stemhistorie slechts sept-nov 2026. Redmeijers stemmen 2022-juli 2026 vallen onder HvH (fractiestem), die van Van de Linde onder VVD tot sept. 2025. Correctie op de aanname: Colin Majoor was geen raadslid maar commissielid voor HvH (benoemd nov. 2023) en sinds sept. 2026 voor Gewoon, Hilversum; hij heeft dus geen eigen stemgedrag in de raad (bron: iBabs 8-11-2023 en 9-9-2026; https://hilversum.nl/nieuwsoverzicht/terugblik-raadsvergadering-9-september-2026)."}
+    ]
+  },
+  "Wijdemeren": {
+    "zetels_totaal": 19,
+    "coalities": [
+      {"periode": "2022 - juli 2023", "partijen": ["De Lokale Partij", "VVD", "PvdA-GroenLinks"], "bron": "Stemgids (coalitie/oppositie per fractie); niet zelf nagelezen in het coalitieakkoord 2022"},
+      {"periode": "juli 2023 - oktober 2024", "partijen": ["De Lokale Partij", "VVD"], "bron": "Stemgids"},
+      {"periode": "oktober 2024 - eind periode", "partijen": ["De Lokale Partij", "VVD", "CDA", "PvdA-GroenLinks"], "bron": "Coalitieakkoord 'Samen verder' 2024-2026, raad 24-10-2024 (https://wijdemeren.raadsinformatie.nl/vergadering/1176098); samenstelling volgens Stemgids"}
+    ],
+    "fracties": [
+      {"fractie": "De Lokale Partij", "zetels_2022": 8, "verloop": "8 -> 7 (O. Goetheer splitste af, oktober 2023) -> 6 (M. Pronk naar ChristenUnie, juni/juli 2024).", "lijst_2026": "Lokaal Een (lijst 6)", "continuiteit": "helder", "opmerking": "Lijsttrekker Lokaal Een (M. Rademaker) is DLP-raadslid."},
+      {"fractie": "CDA", "zetels_2022": 3, "verloop": "3.", "lijst_2026": "CDA (lijst 5)", "continuiteit": "helder"},
+      {"fractie": "DorpsBelangen", "zetels_2022": 2, "verloop": "2.", "lijst_2026": "Lokaal Een (lijst 6)", "continuiteit": "helder", "opmerking": "Oud-DB-raadslid J.J. de Kloet (tot 2023) is nu co-lijsttrekker van Hart voor Hilversum; persoonlijke continuiteit, niet die van de fractie."},
+      {"fractie": "PvdA-GroenLinks (in 2026 ook 'PRO Wijdemeren')", "zetels_2022": 2, "verloop": "2.", "lijst_2026": "PRO (lijst 2)", "continuiteit": "helder", "opmerking": "Lijsttrekker PRO 2026 (S. Poels) is PvdA-GL-raadslid in Wijdemeren."},
+      {"fractie": "VVD", "zetels_2022": 2, "verloop": "2.", "lijst_2026": "VVD (lijst 4)", "continuiteit": "helder"},
+      {"fractie": "D66", "zetels_2022": 1, "verloop": "1 (in de stemregistratie soms 2 namen door opvolging).", "lijst_2026": "D66 (lijst 3)", "continuiteit": "helder"},
+      {"fractie": "ChristenUnie", "zetels_2022": 1, "verloop": "1 -> 2 (Pronk, ex-DLP, 2024).", "lijst_2026": "ChristenUnie (lijst 8)", "continuiteit": "helder"},
+      {"fractie": "Groep Goetheer", "zetels_2022": 0, "verloop": "Afsplitsing van De Lokale Partij, oktober 2023.", "lijst_2026": null, "continuiteit": "nee", "opmerking": "Geen lijst in 2026 bekend."}
+    ]
+  },
+  "lijsten_zonder_raadshistorie": [
+    {"lijst": "Dorp voor Dorp (12)", "opmerking": "Geen fractie in Hilversum of Wijdemeren 2022-2026."},
+    {"lijst": "Stop Betaald Parkeren-VIP (13)", "opmerking": "Geen fractie 2022-2026."},
+    {"lijst": "Partij voor de Dieren (15)", "opmerking": "Geen fractie 2022-2026."},
+    {"lijst": "Blanco (van Oostveen) (16)", "opmerking": "Geen fractie 2022-2026."},
+    {"lijst": "Volt (18)", "opmerking": "Geen fractie 2022-2026."},
+    {"lijst": "Forum voor Democratie (19)", "opmerking": "Geen fractie 2022-2026."},
+    {"lijst": "BBB (20)", "opmerking": "Geen fractie 2022-2026."},
+    {"lijst": "BVNL (9)", "opmerking": "Had 2022-dec 2024 een zetel (Durlacher), sinds dec. 2024 niet meer; zie boven."}
+  ]
+}

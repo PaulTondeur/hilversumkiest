@@ -1,0 +1,3612 @@
+[
+ {
+  "nr": 1,
+  "naam": "Hart voor Hilversum",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Lancé, R.J.G. (Ron) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Lancé",
+    "voorletters": "R.J.G.",
+    "roepnaam": "Ron",
+    "geslacht": "m",
+    "naam": "Ron Lancé"
+   },
+   {
+    "nr": 2,
+    "ruw": "de Kloet, J.J. (Jan Jaap) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "de Kloet",
+    "voorletters": "J.J.",
+    "roepnaam": "Jan Jaap",
+    "geslacht": "m",
+    "naam": "Jan Jaap de Kloet"
+   },
+   {
+    "nr": 3,
+    "ruw": "Boumadkar-Boukhriss, M. (Malika) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Boumadkar-Boukhriss",
+    "voorletters": "M.",
+    "roepnaam": "Malika",
+    "geslacht": "v",
+    "naam": "Malika Boumadkar-Boukhriss"
+   },
+   {
+    "nr": 4,
+    "ruw": "van den Hoek, M.C. (Mark) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van den Hoek",
+    "voorletters": "M.C.",
+    "roepnaam": "Mark",
+    "geslacht": "m",
+    "naam": "Mark van den Hoek"
+   },
+   {
+    "nr": 5,
+    "ruw": "van den Bos, J. (Joery) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van den Bos",
+    "voorletters": "J.",
+    "roepnaam": "Joery",
+    "geslacht": "m",
+    "naam": "Joery van den Bos"
+   },
+   {
+    "nr": 6,
+    "ruw": "van Rijn, W. (Willem) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "van Rijn",
+    "voorletters": "W.",
+    "roepnaam": "Willem",
+    "geslacht": "m",
+    "naam": "Willem van Rijn"
+   },
+   {
+    "nr": 7,
+    "ruw": "Haver, S.B. (Stan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Haver",
+    "voorletters": "S.B.",
+    "roepnaam": "Stan",
+    "geslacht": "m",
+    "naam": "Stan Haver"
+   },
+   {
+    "nr": 8,
+    "ruw": "de Jong-Schrijvers, M.J. (Ria) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "de Jong-Schrijvers",
+    "voorletters": "M.J.",
+    "roepnaam": "Ria",
+    "geslacht": "v",
+    "naam": "Ria de Jong-Schrijvers"
+   },
+   {
+    "nr": 9,
+    "ruw": "Chevreux, N.G.J. (Nicolas) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Chevreux",
+    "voorletters": "N.G.J.",
+    "roepnaam": "Nicolas",
+    "geslacht": "m",
+    "naam": "Nicolas Chevreux"
+   },
+   {
+    "nr": 10,
+    "ruw": "Eerenberg, M.F. (Michiel) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Eerenberg",
+    "voorletters": "M.F.",
+    "roepnaam": "Michiel",
+    "geslacht": "m",
+    "naam": "Michiel Eerenberg"
+   },
+   {
+    "nr": 11,
+    "ruw": "Groeneveld, C.M. (Chris) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Groeneveld",
+    "voorletters": "C.M.",
+    "roepnaam": "Chris",
+    "geslacht": "m",
+    "naam": "Chris Groeneveld"
+   },
+   {
+    "nr": 12,
+    "ruw": "Steenkamp, H. (Harm) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Steenkamp",
+    "voorletters": "H.",
+    "roepnaam": "Harm",
+    "geslacht": "m",
+    "naam": "Harm Steenkamp"
+   },
+   {
+    "nr": 13,
+    "ruw": "Sazias, N.D.D. (Noël) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Sazias",
+    "voorletters": "N.D.D.",
+    "roepnaam": "Noël",
+    "geslacht": "m",
+    "naam": "Noël Sazias"
+   },
+   {
+    "nr": 14,
+    "ruw": "van Oudheusden, W. (Wim) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van Oudheusden",
+    "voorletters": "W.",
+    "roepnaam": "Wim",
+    "geslacht": "m",
+    "naam": "Wim van Oudheusden"
+   },
+   {
+    "nr": 15,
+    "ruw": "Enkelaar, J.C. (Joris) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Enkelaar",
+    "voorletters": "J.C.",
+    "roepnaam": "Joris",
+    "geslacht": "m",
+    "naam": "Joris Enkelaar"
+   },
+   {
+    "nr": 16,
+    "ruw": "Metz, E. (Eduard) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Metz",
+    "voorletters": "E.",
+    "roepnaam": "Eduard",
+    "geslacht": "m",
+    "naam": "Eduard Metz"
+   },
+   {
+    "nr": 17,
+    "ruw": "Braum, M. (Mitchiko) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Braum",
+    "voorletters": "M.",
+    "roepnaam": "Mitchiko",
+    "geslacht": "v",
+    "naam": "Mitchiko Braum"
+   }
+  ],
+  "slug": "hart-voor-hilversum"
+ },
+ {
+  "nr": 2,
+  "naam": "Progressief Nederland (PRO)",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Poels, S. (Stan) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Poels",
+    "voorletters": "S.",
+    "roepnaam": "Stan",
+    "geslacht": "m",
+    "naam": "Stan Poels"
+   },
+   {
+    "nr": 2,
+    "ruw": "Faber, E. (Elske) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Faber",
+    "voorletters": "E.",
+    "roepnaam": "Elske",
+    "geslacht": "v",
+    "naam": "Elske Faber"
+   },
+   {
+    "nr": 3,
+    "ruw": "Taibi, N. (Nassreddin) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Taibi",
+    "voorletters": "N.",
+    "roepnaam": "Nassreddin",
+    "geslacht": "m",
+    "naam": "Nassreddin Taibi"
+   },
+   {
+    "nr": 4,
+    "ruw": "Hoogendam, P. (Paul) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Hoogendam",
+    "voorletters": "P.",
+    "roepnaam": "Paul",
+    "geslacht": "m",
+    "naam": "Paul Hoogendam"
+   },
+   {
+    "nr": 5,
+    "ruw": "van Waarden, J.A. (Lex) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Waarden",
+    "voorletters": "J.A.",
+    "roepnaam": "Lex",
+    "geslacht": "m",
+    "naam": "Lex van Waarden"
+   },
+   {
+    "nr": 6,
+    "ruw": "Steenkamp, S. (Sara) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Steenkamp",
+    "voorletters": "S.",
+    "roepnaam": "Sara",
+    "geslacht": "v",
+    "naam": "Sara Steenkamp"
+   },
+   {
+    "nr": 7,
+    "ruw": "van der Wal, L. (Lucy) (v)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "van der Wal",
+    "voorletters": "L.",
+    "roepnaam": "Lucy",
+    "geslacht": "v",
+    "naam": "Lucy van der Wal"
+   },
+   {
+    "nr": 8,
+    "ruw": "Bakker, M.F.J. (Martijn) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bakker",
+    "voorletters": "M.F.J.",
+    "roepnaam": "Martijn",
+    "geslacht": "m",
+    "naam": "Martijn Bakker"
+   },
+   {
+    "nr": 9,
+    "ruw": "Brouwer, M. (Maarten) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Brouwer",
+    "voorletters": "M.",
+    "roepnaam": "Maarten",
+    "geslacht": "m",
+    "naam": "Maarten Brouwer"
+   },
+   {
+    "nr": 10,
+    "ruw": "Zwanenburg, B.P. (Boudewijn) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Zwanenburg",
+    "voorletters": "B.P.",
+    "roepnaam": "Boudewijn",
+    "geslacht": "m",
+    "naam": "Boudewijn Zwanenburg"
+   },
+   {
+    "nr": 11,
+    "ruw": "de Niet, S. (Senna) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "de Niet",
+    "voorletters": "S.",
+    "roepnaam": "Senna",
+    "geslacht": "m",
+    "naam": "Senna de Niet"
+   },
+   {
+    "nr": 12,
+    "ruw": "van Beers, I. (Iris) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Beers",
+    "voorletters": "I.",
+    "roepnaam": "Iris",
+    "geslacht": "v",
+    "naam": "Iris van Beers"
+   },
+   {
+    "nr": 13,
+    "ruw": "Peters, R.F. (Ries) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Peters",
+    "voorletters": "R.F.",
+    "roepnaam": "Ries",
+    "geslacht": "m",
+    "naam": "Ries Peters"
+   },
+   {
+    "nr": 14,
+    "ruw": "Postma, M.T. (Machiel) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Postma",
+    "voorletters": "M.T.",
+    "roepnaam": "Machiel",
+    "geslacht": "m",
+    "naam": "Machiel Postma"
+   },
+   {
+    "nr": 15,
+    "ruw": "van Schaick, H. (Hidde) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Schaick",
+    "voorletters": "H.",
+    "roepnaam": "Hidde",
+    "geslacht": "m",
+    "naam": "Hidde van Schaick"
+   },
+   {
+    "nr": 16,
+    "ruw": "Astfalck, D.A. (Pim) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Astfalck",
+    "voorletters": "D.A.",
+    "roepnaam": "Pim",
+    "geslacht": "m",
+    "naam": "Pim Astfalck"
+   },
+   {
+    "nr": 17,
+    "ruw": "Heller, B. (Bart) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Heller",
+    "voorletters": "B.",
+    "roepnaam": "Bart",
+    "geslacht": "m",
+    "naam": "Bart Heller"
+   },
+   {
+    "nr": 18,
+    "ruw": "Bakker, C. (Kees) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bakker",
+    "voorletters": "C.",
+    "roepnaam": "Kees",
+    "geslacht": "m",
+    "naam": "Kees Bakker"
+   },
+   {
+    "nr": 19,
+    "ruw": "Remmers, M.H.A. (Marleen) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Remmers",
+    "voorletters": "M.H.A.",
+    "roepnaam": "Marleen",
+    "geslacht": "v",
+    "naam": "Marleen Remmers"
+   },
+   {
+    "nr": 20,
+    "ruw": "Wind, W. (Wilna) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Wind",
+    "voorletters": "W.",
+    "roepnaam": "Wilna",
+    "geslacht": "v",
+    "naam": "Wilna Wind"
+   },
+   {
+    "nr": 21,
+    "ruw": "Abrahamse, H.M. (Henrieke) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Abrahamse",
+    "voorletters": "H.M.",
+    "roepnaam": "Henrieke",
+    "geslacht": "v",
+    "naam": "Henrieke Abrahamse"
+   },
+   {
+    "nr": 22,
+    "ruw": "van Drogen, J. (Jos) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Drogen",
+    "voorletters": "J.",
+    "roepnaam": "Jos",
+    "geslacht": "m",
+    "naam": "Jos van Drogen"
+   },
+   {
+    "nr": 23,
+    "ruw": "van Hessen, P.A.W. (Paulien) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Hessen",
+    "voorletters": "P.A.W.",
+    "roepnaam": "Paulien",
+    "geslacht": "v",
+    "naam": "Paulien van Hessen"
+   },
+   {
+    "nr": 24,
+    "ruw": "Oude Elferink, J.B. (Jos) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Oude Elferink",
+    "voorletters": "J.B.",
+    "roepnaam": "Jos",
+    "geslacht": "m",
+    "naam": "Jos Oude Elferink"
+   },
+   {
+    "nr": 25,
+    "ruw": "Kalk, J. (Jacqueline) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kalk",
+    "voorletters": "J.",
+    "roepnaam": "Jacqueline",
+    "geslacht": "v",
+    "naam": "Jacqueline Kalk"
+   }
+  ],
+  "slug": "pro"
+ },
+ {
+  "nr": 3,
+  "naam": "D66",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Deen, J.J.A.N. (Jarno)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Deen",
+    "voorletters": "J.J.A.N.",
+    "roepnaam": "Jarno",
+    "geslacht": null,
+    "naam": "Jarno Deen"
+   },
+   {
+    "nr": 2,
+    "ruw": "van Nistelrooij, J.T.M. (Jos)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Nistelrooij",
+    "voorletters": "J.T.M.",
+    "roepnaam": "Jos",
+    "geslacht": null,
+    "naam": "Jos van Nistelrooij"
+   },
+   {
+    "nr": 3,
+    "ruw": "Stroucken, E. (Eveline)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Stroucken",
+    "voorletters": "E.",
+    "roepnaam": "Eveline",
+    "geslacht": null,
+    "naam": "Eveline Stroucken"
+   },
+   {
+    "nr": 4,
+    "ruw": "Verburg, L.J. (Laurens)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verburg",
+    "voorletters": "L.J.",
+    "roepnaam": "Laurens",
+    "geslacht": null,
+    "naam": "Laurens Verburg"
+   },
+   {
+    "nr": 5,
+    "ruw": "Proos, R.J. (Robbert Jan)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Proos",
+    "voorletters": "R.J.",
+    "roepnaam": "Robbert Jan",
+    "geslacht": null,
+    "naam": "Robbert Jan Proos"
+   },
+   {
+    "nr": 6,
+    "ruw": "Roobol, P. (Patricia)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Roobol",
+    "voorletters": "P.",
+    "roepnaam": "Patricia",
+    "geslacht": null,
+    "naam": "Patricia Roobol"
+   },
+   {
+    "nr": 7,
+    "ruw": "Usman, L.N. (Amin)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Usman",
+    "voorletters": "L.N.",
+    "roepnaam": "Amin",
+    "geslacht": null,
+    "naam": "Amin Usman"
+   },
+   {
+    "nr": 8,
+    "ruw": "Borsboom, J.C.A. (Julia)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Borsboom",
+    "voorletters": "J.C.A.",
+    "roepnaam": "Julia",
+    "geslacht": null,
+    "naam": "Julia Borsboom"
+   },
+   {
+    "nr": 9,
+    "ruw": "van der Heijden, L.J.M. (Leontien)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Heijden",
+    "voorletters": "L.J.M.",
+    "roepnaam": "Leontien",
+    "geslacht": null,
+    "naam": "Leontien van der Heijden"
+   },
+   {
+    "nr": 10,
+    "ruw": "Brand, E.F. (Eric)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Brand",
+    "voorletters": "E.F.",
+    "roepnaam": "Eric",
+    "geslacht": null,
+    "naam": "Eric Brand"
+   },
+   {
+    "nr": 11,
+    "ruw": "Reichman, G. (Gertjan)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Reichman",
+    "voorletters": "G.",
+    "roepnaam": "Gertjan",
+    "geslacht": null,
+    "naam": "Gertjan Reichman"
+   },
+   {
+    "nr": 12,
+    "ruw": "Başli, H. (Harun)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Başli",
+    "voorletters": "H.",
+    "roepnaam": "Harun",
+    "geslacht": null,
+    "naam": "Harun Başli"
+   },
+   {
+    "nr": 13,
+    "ruw": "Verhoeven, G.A. (Gemma)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verhoeven",
+    "voorletters": "G.A.",
+    "roepnaam": "Gemma",
+    "geslacht": null,
+    "naam": "Gemma Verhoeven"
+   },
+   {
+    "nr": 14,
+    "ruw": "Alici, Y. (Yusuf)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Alici",
+    "voorletters": "Y.",
+    "roepnaam": "Yusuf",
+    "geslacht": null,
+    "naam": "Yusuf Alici"
+   },
+   {
+    "nr": 15,
+    "ruw": "Wouters, M.J.H. (Mario)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "Wouters",
+    "voorletters": "M.J.H.",
+    "roepnaam": "Mario",
+    "geslacht": null,
+    "naam": "Mario Wouters"
+   },
+   {
+    "nr": 16,
+    "ruw": "de Bruin, N.D. (Nanda)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "de Bruin",
+    "voorletters": "N.D.",
+    "roepnaam": "Nanda",
+    "geslacht": null,
+    "naam": "Nanda de Bruin"
+   },
+   {
+    "nr": 17,
+    "ruw": "Kool, A.J.M. (Arjen)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kool",
+    "voorletters": "A.J.M.",
+    "roepnaam": "Arjen",
+    "geslacht": null,
+    "naam": "Arjen Kool"
+   },
+   {
+    "nr": 18,
+    "ruw": "van Vliet, M.I. (Marianne)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Vliet",
+    "voorletters": "M.I.",
+    "roepnaam": "Marianne",
+    "geslacht": null,
+    "naam": "Marianne van Vliet"
+   },
+   {
+    "nr": 19,
+    "ruw": "Koelega, J.W.J. (Joost)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Koelega",
+    "voorletters": "J.W.J.",
+    "roepnaam": "Joost",
+    "geslacht": null,
+    "naam": "Joost Koelega"
+   },
+   {
+    "nr": 20,
+    "ruw": "van Gulick, G. (Guido)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van Gulick",
+    "voorletters": "G.",
+    "roepnaam": "Guido",
+    "geslacht": null,
+    "naam": "Guido van Gulick"
+   },
+   {
+    "nr": 21,
+    "ruw": "Koedijker, G.R. (Rob)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Koedijker",
+    "voorletters": "G.R.",
+    "roepnaam": "Rob",
+    "geslacht": null,
+    "naam": "Rob Koedijker"
+   },
+   {
+    "nr": 22,
+    "ruw": "Helmich, P. (Paul)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Helmich",
+    "voorletters": "P.",
+    "roepnaam": "Paul",
+    "geslacht": null,
+    "naam": "Paul Helmich"
+   },
+   {
+    "nr": 23,
+    "ruw": "Feenstra, N. (Nienke)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Feenstra",
+    "voorletters": "N.",
+    "roepnaam": "Nienke",
+    "geslacht": null,
+    "naam": "Nienke Feenstra"
+   },
+   {
+    "nr": 24,
+    "ruw": "Jalink, O.K. (Oskar)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Jalink",
+    "voorletters": "O.K.",
+    "roepnaam": "Oskar",
+    "geslacht": null,
+    "naam": "Oskar Jalink"
+   },
+   {
+    "nr": 25,
+    "ruw": "Lindeboom, H.J. (Harmen)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Lindeboom",
+    "voorletters": "H.J.",
+    "roepnaam": "Harmen",
+    "geslacht": null,
+    "naam": "Harmen Lindeboom"
+   },
+   {
+    "nr": 26,
+    "ruw": "Klaus, E.A. (Ellen)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "Klaus",
+    "voorletters": "E.A.",
+    "roepnaam": "Ellen",
+    "geslacht": null,
+    "naam": "Ellen Klaus"
+   },
+   {
+    "nr": 27,
+    "ruw": "Meuwissen, O.J.M.E. (Otger)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Meuwissen",
+    "voorletters": "O.J.M.E.",
+    "roepnaam": "Otger",
+    "geslacht": null,
+    "naam": "Otger Meuwissen"
+   },
+   {
+    "nr": 28,
+    "ruw": "van der Veen, M.L. (Mark)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Veen",
+    "voorletters": "M.L.",
+    "roepnaam": "Mark",
+    "geslacht": null,
+    "naam": "Mark van der Veen"
+   },
+   {
+    "nr": 29,
+    "ruw": "Betsema, M.J.J.H. (Mariken)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Betsema",
+    "voorletters": "M.J.J.H.",
+    "roepnaam": "Mariken",
+    "geslacht": null,
+    "naam": "Mariken Betsema"
+   },
+   {
+    "nr": 30,
+    "ruw": "Kroesen, W.M.A. (Wilbert)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kroesen",
+    "voorletters": "W.M.A.",
+    "roepnaam": "Wilbert",
+    "geslacht": null,
+    "naam": "Wilbert Kroesen"
+   },
+   {
+    "nr": 31,
+    "ruw": "van Zanten, M.D. (Mariska)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "van Zanten",
+    "voorletters": "M.D.",
+    "roepnaam": "Mariska",
+    "geslacht": null,
+    "naam": "Mariska van Zanten"
+   },
+   {
+    "nr": 32,
+    "ruw": "Klarenbeek, T.F.J. (Theo)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Klarenbeek",
+    "voorletters": "T.F.J.",
+    "roepnaam": "Theo",
+    "geslacht": null,
+    "naam": "Theo Klarenbeek"
+   },
+   {
+    "nr": 33,
+    "ruw": "Kooij-Heijmerink, M.C.M. (Myriam)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Kooij-Heijmerink",
+    "voorletters": "M.C.M.",
+    "roepnaam": "Myriam",
+    "geslacht": null,
+    "naam": "Myriam Kooij-Heijmerink"
+   },
+   {
+    "nr": 34,
+    "ruw": "Bouma, R. (Robert)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bouma",
+    "voorletters": "R.",
+    "roepnaam": "Robert",
+    "geslacht": null,
+    "naam": "Robert Bouma"
+   },
+   {
+    "nr": 35,
+    "ruw": "Simons-Jongens, P.M. (Pauline)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Simons-Jongens",
+    "voorletters": "P.M.",
+    "roepnaam": "Pauline",
+    "geslacht": null,
+    "naam": "Pauline Simons-Jongens"
+   },
+   {
+    "nr": 36,
+    "ruw": "Verhoeven, R. (Rogier)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verhoeven",
+    "voorletters": "R.",
+    "roepnaam": "Rogier",
+    "geslacht": null,
+    "naam": "Rogier Verhoeven"
+   },
+   {
+    "nr": 37,
+    "ruw": "Brandenburg, S.P. (Sikko)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Brandenburg",
+    "voorletters": "S.P.",
+    "roepnaam": "Sikko",
+    "geslacht": null,
+    "naam": "Sikko Brandenburg"
+   },
+   {
+    "nr": 38,
+    "ruw": "Vermeulen, M.C. (Marinus)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Vermeulen",
+    "voorletters": "M.C.",
+    "roepnaam": "Marinus",
+    "geslacht": null,
+    "naam": "Marinus Vermeulen"
+   },
+   {
+    "nr": 39,
+    "ruw": "Berenschot, M.A.B. (Marianne)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Berenschot",
+    "voorletters": "M.A.B.",
+    "roepnaam": "Marianne",
+    "geslacht": null,
+    "naam": "Marianne Berenschot"
+   },
+   {
+    "nr": 40,
+    "ruw": "Rengelink, W. (Wouter)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Rengelink",
+    "voorletters": "W.",
+    "roepnaam": "Wouter",
+    "geslacht": null,
+    "naam": "Wouter Rengelink"
+   },
+   {
+    "nr": 41,
+    "ruw": "Jap-Sam, G.D.M. (Gina)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Jap-Sam",
+    "voorletters": "G.D.M.",
+    "roepnaam": "Gina",
+    "geslacht": null,
+    "naam": "Gina Jap-Sam"
+   },
+   {
+    "nr": 42,
+    "ruw": "Kwak, H.E.W. (Herbert)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kwak",
+    "voorletters": "H.E.W.",
+    "roepnaam": "Herbert",
+    "geslacht": null,
+    "naam": "Herbert Kwak"
+   },
+   {
+    "nr": 43,
+    "ruw": "Berkvens, L.C.M. (Laurien)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Berkvens",
+    "voorletters": "L.C.M.",
+    "roepnaam": "Laurien",
+    "geslacht": null,
+    "naam": "Laurien Berkvens"
+   },
+   {
+    "nr": 44,
+    "ruw": "van Klooster, R.A. (Ronald)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Klooster",
+    "voorletters": "R.A.",
+    "roepnaam": "Ronald",
+    "geslacht": null,
+    "naam": "Ronald van Klooster"
+   },
+   {
+    "nr": 45,
+    "ruw": "den Daas, A.A.S. (Annemarie)",
+    "woonplaats": "Hilversum",
+    "achternaam": "den Daas",
+    "voorletters": "A.A.S.",
+    "roepnaam": "Annemarie",
+    "geslacht": null,
+    "naam": "Annemarie den Daas"
+   },
+   {
+    "nr": 46,
+    "ruw": "van der Want, E.G.J. (Eric)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Want",
+    "voorletters": "E.G.J.",
+    "roepnaam": "Eric",
+    "geslacht": null,
+    "naam": "Eric van der Want"
+   },
+   {
+    "nr": 47,
+    "ruw": "Wolthers, A.J. (Annette)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Wolthers",
+    "voorletters": "A.J.",
+    "roepnaam": "Annette",
+    "geslacht": null,
+    "naam": "Annette Wolthers"
+   },
+   {
+    "nr": 48,
+    "ruw": "van Grieken, R.H. (Roderik)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Grieken",
+    "voorletters": "R.H.",
+    "roepnaam": "Roderik",
+    "geslacht": null,
+    "naam": "Roderik van Grieken"
+   },
+   {
+    "nr": 49,
+    "ruw": "Wesselink, V. (Vivienne)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Wesselink",
+    "voorletters": "V.",
+    "roepnaam": "Vivienne",
+    "geslacht": null,
+    "naam": "Vivienne Wesselink"
+   },
+   {
+    "nr": 50,
+    "ruw": "Roosenschoon, N.W.M. (Nanne)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Roosenschoon",
+    "voorletters": "N.W.M.",
+    "roepnaam": "Nanne",
+    "geslacht": null,
+    "naam": "Nanne Roosenschoon"
+   }
+  ],
+  "slug": "d66"
+ },
+ {
+  "nr": 4,
+  "naam": "VVD",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Fennema, H.H. (Hidde) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Fennema",
+    "voorletters": "H.H.",
+    "roepnaam": "Hidde",
+    "geslacht": "m",
+    "naam": "Hidde Fennema"
+   },
+   {
+    "nr": 2,
+    "ruw": "de Kruijff, B.C. (Bo) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "de Kruijff",
+    "voorletters": "B.C.",
+    "roepnaam": "Bo",
+    "geslacht": "m",
+    "naam": "Bo de Kruijff"
+   },
+   {
+    "nr": 3,
+    "ruw": "Gianfreda-Warringa, S.S. (Sabrina) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Gianfreda-Warringa",
+    "voorletters": "S.S.",
+    "roepnaam": "Sabrina",
+    "geslacht": "v",
+    "naam": "Sabrina Gianfreda-Warringa"
+   },
+   {
+    "nr": 4,
+    "ruw": "Westerneng, T.R. (Tobias) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Westerneng",
+    "voorletters": "T.R.",
+    "roepnaam": "Tobias",
+    "geslacht": "m",
+    "naam": "Tobias Westerneng"
+   },
+   {
+    "nr": 5,
+    "ruw": "Martens, O.D.D. (Olivier) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Martens",
+    "voorletters": "O.D.D.",
+    "roepnaam": "Olivier",
+    "geslacht": "m",
+    "naam": "Olivier Martens"
+   },
+   {
+    "nr": 6,
+    "ruw": "Joosten, A.G. (Ita) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Joosten",
+    "voorletters": "A.G.",
+    "roepnaam": "Ita",
+    "geslacht": "v",
+    "naam": "Ita Joosten"
+   },
+   {
+    "nr": 7,
+    "ruw": "ten Broek, C.H.J. (Cees) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "ten Broek",
+    "voorletters": "C.H.J.",
+    "roepnaam": "Cees",
+    "geslacht": "m",
+    "naam": "Cees ten Broek"
+   },
+   {
+    "nr": 8,
+    "ruw": "Zeeuw van der Laan, E.M. (Ellis) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Zeeuw van der Laan",
+    "voorletters": "E.M.",
+    "roepnaam": "Ellis",
+    "geslacht": "v",
+    "naam": "Ellis Zeeuw van der Laan"
+   },
+   {
+    "nr": 9,
+    "ruw": "Mol, A.E. (Adriaan) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Mol",
+    "voorletters": "A.E.",
+    "roepnaam": "Adriaan",
+    "geslacht": "m",
+    "naam": "Adriaan Mol"
+   },
+   {
+    "nr": 10,
+    "ruw": "Klink, J.J. (Jan) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Klink",
+    "voorletters": "J.J.",
+    "roepnaam": "Jan",
+    "geslacht": "m",
+    "naam": "Jan Klink"
+   },
+   {
+    "nr": 11,
+    "ruw": "Knecht, R. (Renzo) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Knecht",
+    "voorletters": "R.",
+    "roepnaam": "Renzo",
+    "geslacht": "m",
+    "naam": "Renzo Knecht"
+   },
+   {
+    "nr": 12,
+    "ruw": "van Eendenburg, J.M. (Jan-Matthijs) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Eendenburg",
+    "voorletters": "J.M.",
+    "roepnaam": "Jan-Matthijs",
+    "geslacht": "m",
+    "naam": "Jan-Matthijs van Eendenburg"
+   },
+   {
+    "nr": 13,
+    "ruw": "van der Ree, J.R. (John) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "van der Ree",
+    "voorletters": "J.R.",
+    "roepnaam": "John",
+    "geslacht": "m",
+    "naam": "John van der Ree"
+   },
+   {
+    "nr": 14,
+    "ruw": "Reinders, S.C. (Sophia) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Reinders",
+    "voorletters": "S.C.",
+    "roepnaam": "Sophia",
+    "geslacht": "v",
+    "naam": "Sophia Reinders"
+   },
+   {
+    "nr": 15,
+    "ruw": "de Haas, M.M. (Max) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "de Haas",
+    "voorletters": "M.M.",
+    "roepnaam": "Max",
+    "geslacht": "m",
+    "naam": "Max de Haas"
+   },
+   {
+    "nr": 16,
+    "ruw": "Muskee, T. (Tim) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Muskee",
+    "voorletters": "T.",
+    "roepnaam": "Tim",
+    "geslacht": "m",
+    "naam": "Tim Muskee"
+   },
+   {
+    "nr": 17,
+    "ruw": "Gallas, O.C. (Oscar) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Gallas",
+    "voorletters": "O.C.",
+    "roepnaam": "Oscar",
+    "geslacht": "m",
+    "naam": "Oscar Gallas"
+   },
+   {
+    "nr": 18,
+    "ruw": "Voorink, F.G.J. (Floris) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Voorink",
+    "voorletters": "F.G.J.",
+    "roepnaam": "Floris",
+    "geslacht": "m",
+    "naam": "Floris Voorink"
+   },
+   {
+    "nr": 19,
+    "ruw": "Kruijt, E.L. (Els) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Kruijt",
+    "voorletters": "E.L.",
+    "roepnaam": "Els",
+    "geslacht": "v",
+    "naam": "Els Kruijt"
+   },
+   {
+    "nr": 20,
+    "ruw": "Lamme, N. (Nils) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Lamme",
+    "voorletters": "N.",
+    "roepnaam": "Nils",
+    "geslacht": "m",
+    "naam": "Nils Lamme"
+   },
+   {
+    "nr": 21,
+    "ruw": "Haselhoff Lich Kasteleijn, E. (Ernst) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Haselhoff Lich Kasteleijn",
+    "voorletters": "E.",
+    "roepnaam": "Ernst",
+    "geslacht": "m",
+    "naam": "Ernst Haselhoff Lich Kasteleijn"
+   },
+   {
+    "nr": 22,
+    "ruw": "van Leeuwen Boomkamp, W.T.C. (Door) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Leeuwen Boomkamp",
+    "voorletters": "W.T.C.",
+    "roepnaam": "Door",
+    "geslacht": "v",
+    "naam": "Door van Leeuwen Boomkamp"
+   },
+   {
+    "nr": 23,
+    "ruw": "Fluitman, A.A.G. (Age) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Fluitman",
+    "voorletters": "A.A.G.",
+    "roepnaam": "Age",
+    "geslacht": "m",
+    "naam": "Age Fluitman"
+   },
+   {
+    "nr": 24,
+    "ruw": "Warringa, G.M. (Guus) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Warringa",
+    "voorletters": "G.M.",
+    "roepnaam": "Guus",
+    "geslacht": "m",
+    "naam": "Guus Warringa"
+   },
+   {
+    "nr": 25,
+    "ruw": "Kea, J.H.J. (Jos) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Kea",
+    "voorletters": "J.H.J.",
+    "roepnaam": "Jos",
+    "geslacht": "m",
+    "naam": "Jos Kea"
+   },
+   {
+    "nr": 26,
+    "ruw": "Mader, T.J. (Terrrence) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Mader",
+    "voorletters": "T.J.",
+    "roepnaam": "Terrrence",
+    "geslacht": "m",
+    "naam": "Terrrence Mader"
+   },
+   {
+    "nr": 27,
+    "ruw": "Steman, W.J. (Wim) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Steman",
+    "voorletters": "W.J.",
+    "roepnaam": "Wim",
+    "geslacht": "m",
+    "naam": "Wim Steman"
+   },
+   {
+    "nr": 28,
+    "ruw": "Brandsma, A.G. (Abe) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Brandsma",
+    "voorletters": "A.G.",
+    "roepnaam": "Abe",
+    "geslacht": "m",
+    "naam": "Abe Brandsma"
+   },
+   {
+    "nr": 29,
+    "ruw": "Lorjé, W. (Wim) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Lorjé",
+    "voorletters": "W.",
+    "roepnaam": "Wim",
+    "geslacht": "m",
+    "naam": "Wim Lorjé"
+   },
+   {
+    "nr": 30,
+    "ruw": "Vogel, M.F. (Frits) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Vogel",
+    "voorletters": "M.F.",
+    "roepnaam": "Frits",
+    "geslacht": "m",
+    "naam": "Frits Vogel"
+   },
+   {
+    "nr": 31,
+    "ruw": "van der Linden, M.N.J. (Marjolein) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Linden",
+    "voorletters": "M.N.J.",
+    "roepnaam": "Marjolein",
+    "geslacht": "v",
+    "naam": "Marjolein van der Linden"
+   },
+   {
+    "nr": 32,
+    "ruw": "van Gilse, J.P.H.M. (Joost) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Gilse",
+    "voorletters": "J.P.H.M.",
+    "roepnaam": "Joost",
+    "geslacht": "m",
+    "naam": "Joost van Gilse"
+   },
+   {
+    "nr": 33,
+    "ruw": "Verkuijlen, R. (Ruud) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verkuijlen",
+    "voorletters": "R.",
+    "roepnaam": "Ruud",
+    "geslacht": "m",
+    "naam": "Ruud Verkuijlen"
+   }
+  ],
+  "slug": "vvd"
+ },
+ {
+  "nr": 5,
+  "naam": "CDA",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "van Voorden, N.G.T. (Gerben) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Voorden",
+    "voorletters": "N.G.T.",
+    "roepnaam": "Gerben",
+    "geslacht": "m",
+    "naam": "Gerben van Voorden"
+   },
+   {
+    "nr": 2,
+    "ruw": "van Rijn, R.M. (Rosalie) (v)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "van Rijn",
+    "voorletters": "R.M.",
+    "roepnaam": "Rosalie",
+    "geslacht": "v",
+    "naam": "Rosalie van Rijn"
+   },
+   {
+    "nr": 3,
+    "ruw": "Tabak, K. (Koen) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Tabak",
+    "voorletters": "K.",
+    "roepnaam": "Koen",
+    "geslacht": "m",
+    "naam": "Koen Tabak"
+   },
+   {
+    "nr": 4,
+    "ruw": "Nienhuis, J.W.B. (Jan Willem) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Nienhuis",
+    "voorletters": "J.W.B.",
+    "roepnaam": "Jan Willem",
+    "geslacht": "m",
+    "naam": "Jan Willem Nienhuis"
+   },
+   {
+    "nr": 5,
+    "ruw": "Brussaard, L.H.A. (Leoni) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Brussaard",
+    "voorletters": "L.H.A.",
+    "roepnaam": "Leoni",
+    "geslacht": "v",
+    "naam": "Leoni Brussaard"
+   },
+   {
+    "nr": 6,
+    "ruw": "Torsing, E.P.J. (Eric) (m)",
+    "woonplaats": "Ankeveen",
+    "achternaam": "Torsing",
+    "voorletters": "E.P.J.",
+    "roepnaam": "Eric",
+    "geslacht": "m",
+    "naam": "Eric Torsing"
+   },
+   {
+    "nr": 7,
+    "ruw": "van der Meulen, T.J. (Tim) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Meulen",
+    "voorletters": "T.J.",
+    "roepnaam": "Tim",
+    "geslacht": "m",
+    "naam": "Tim van der Meulen"
+   },
+   {
+    "nr": 8,
+    "ruw": "van Dijk, J.F. (Jacobine) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Dijk",
+    "voorletters": "J.F.",
+    "roepnaam": "Jacobine",
+    "geslacht": "v",
+    "naam": "Jacobine van Dijk"
+   },
+   {
+    "nr": 9,
+    "ruw": "van Ooijen, S. (Siem) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Ooijen",
+    "voorletters": "S.",
+    "roepnaam": "Siem",
+    "geslacht": "m",
+    "naam": "Siem van Ooijen"
+   },
+   {
+    "nr": 10,
+    "ruw": "Verbruggen, J. (Jan) (m)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "Verbruggen",
+    "voorletters": "J.",
+    "roepnaam": "Jan",
+    "geslacht": "m",
+    "naam": "Jan Verbruggen"
+   },
+   {
+    "nr": 11,
+    "ruw": "van Enk, D.A. (Dik) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "van Enk",
+    "voorletters": "D.A.",
+    "roepnaam": "Dik",
+    "geslacht": "m",
+    "naam": "Dik van Enk"
+   },
+   {
+    "nr": 12,
+    "ruw": "van Osch, V.F. (Vito) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Osch",
+    "voorletters": "V.F.",
+    "roepnaam": "Vito",
+    "geslacht": "m",
+    "naam": "Vito van Osch"
+   },
+   {
+    "nr": 13,
+    "ruw": "Haselager, M.J. (Mathijs) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Haselager",
+    "voorletters": "M.J.",
+    "roepnaam": "Mathijs",
+    "geslacht": "m",
+    "naam": "Mathijs Haselager"
+   },
+   {
+    "nr": 14,
+    "ruw": "Majoor, M.M. (Merlin) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Majoor",
+    "voorletters": "M.M.",
+    "roepnaam": "Merlin",
+    "geslacht": "m",
+    "naam": "Merlin Majoor"
+   },
+   {
+    "nr": 15,
+    "ruw": "Yorulmaz, A. (Ahmet) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Yorulmaz",
+    "voorletters": "A.",
+    "roepnaam": "Ahmet",
+    "geslacht": "m",
+    "naam": "Ahmet Yorulmaz"
+   },
+   {
+    "nr": 16,
+    "ruw": "Kers, S.D.L. (Bas) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Kers",
+    "voorletters": "S.D.L.",
+    "roepnaam": "Bas",
+    "geslacht": "m",
+    "naam": "Bas Kers"
+   },
+   {
+    "nr": 17,
+    "ruw": "Rooimans, B. (Barry) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Rooimans",
+    "voorletters": "B.",
+    "roepnaam": "Barry",
+    "geslacht": "v",
+    "naam": "Barry Rooimans"
+   },
+   {
+    "nr": 18,
+    "ruw": "Postma, G.J. (Gertjan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Postma",
+    "voorletters": "G.J.",
+    "roepnaam": "Gertjan",
+    "geslacht": "m",
+    "naam": "Gertjan Postma"
+   },
+   {
+    "nr": 19,
+    "ruw": "Heeren, P.G. (Peter) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Heeren",
+    "voorletters": "P.G.",
+    "roepnaam": "Peter",
+    "geslacht": "m",
+    "naam": "Peter Heeren"
+   },
+   {
+    "nr": 20,
+    "ruw": "Meijer, Y.E. (Ymkje) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Meijer",
+    "voorletters": "Y.E.",
+    "roepnaam": "Ymkje",
+    "geslacht": "v",
+    "naam": "Ymkje Meijer"
+   },
+   {
+    "nr": 21,
+    "ruw": "Kruijswijk Jansen, E.J. (Evert Jan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kruijswijk Jansen",
+    "voorletters": "E.J.",
+    "roepnaam": "Evert Jan",
+    "geslacht": "m",
+    "naam": "Evert Jan Kruijswijk Jansen"
+   },
+   {
+    "nr": 22,
+    "ruw": "Boshuizen, R.I. (Remco) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Boshuizen",
+    "voorletters": "R.I.",
+    "roepnaam": "Remco",
+    "geslacht": "m",
+    "naam": "Remco Boshuizen"
+   },
+   {
+    "nr": 23,
+    "ruw": "Hoff, R.J. (Richard) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Hoff",
+    "voorletters": "R.J.",
+    "roepnaam": "Richard",
+    "geslacht": "m",
+    "naam": "Richard Hoff"
+   },
+   {
+    "nr": 24,
+    "ruw": "de Haan, S.N.G. (Suzanne) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "de Haan",
+    "voorletters": "S.N.G.",
+    "roepnaam": "Suzanne",
+    "geslacht": "v",
+    "naam": "Suzanne de Haan"
+   },
+   {
+    "nr": 25,
+    "ruw": "Molenaar, D.A.O. (Daan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Molenaar",
+    "voorletters": "D.A.O.",
+    "roepnaam": "Daan",
+    "geslacht": "m",
+    "naam": "Daan Molenaar"
+   },
+   {
+    "nr": 26,
+    "ruw": "Krijnen, M.K. (Menno) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Krijnen",
+    "voorletters": "M.K.",
+    "roepnaam": "Menno",
+    "geslacht": "m",
+    "naam": "Menno Krijnen"
+   },
+   {
+    "nr": 27,
+    "ruw": "Cornielje, J.F.W. (Joost) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Cornielje",
+    "voorletters": "J.F.W.",
+    "roepnaam": "Joost",
+    "geslacht": "m",
+    "naam": "Joost Cornielje"
+   },
+   {
+    "nr": 28,
+    "ruw": "Sandbergen, J.J. (Jan Jaap) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Sandbergen",
+    "voorletters": "J.J.",
+    "roepnaam": "Jan Jaap",
+    "geslacht": "m",
+    "naam": "Jan Jaap Sandbergen"
+   },
+   {
+    "nr": 29,
+    "ruw": "van Weeghel-Luijer, A.E. (Annemieke) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "van Weeghel-Luijer",
+    "voorletters": "A.E.",
+    "roepnaam": "Annemieke",
+    "geslacht": "v",
+    "naam": "Annemieke van Weeghel-Luijer"
+   },
+   {
+    "nr": 30,
+    "ruw": "Bloemhof, A. (Albèrt) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bloemhof",
+    "voorletters": "A.",
+    "roepnaam": "Albèrt",
+    "geslacht": "m",
+    "naam": "Albèrt Bloemhof"
+   },
+   {
+    "nr": 31,
+    "ruw": "Veldhuisen, H.J. (Herman) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Veldhuisen",
+    "voorletters": "H.J.",
+    "roepnaam": "Herman",
+    "geslacht": "m",
+    "naam": "Herman Veldhuisen"
+   },
+   {
+    "nr": 32,
+    "ruw": "Baartman, B.M. (Bas) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Baartman",
+    "voorletters": "B.M.",
+    "roepnaam": "Bas",
+    "geslacht": "m",
+    "naam": "Bas Baartman"
+   },
+   {
+    "nr": 33,
+    "ruw": "van Zaalen, F.D.R. (Daniel) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Zaalen",
+    "voorletters": "F.D.R.",
+    "roepnaam": "Daniel",
+    "geslacht": "m",
+    "naam": "Daniel van Zaalen"
+   },
+   {
+    "nr": 34,
+    "ruw": "van Erp, W.P.M. (Wil) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "van Erp",
+    "voorletters": "W.P.M.",
+    "roepnaam": "Wil",
+    "geslacht": "m",
+    "naam": "Wil van Erp"
+   },
+   {
+    "nr": 35,
+    "ruw": "Hennipman, T. (Tijmen) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Hennipman",
+    "voorletters": "T.",
+    "roepnaam": "Tijmen",
+    "geslacht": "m",
+    "naam": "Tijmen Hennipman"
+   },
+   {
+    "nr": 36,
+    "ruw": "Wijnands-van Daal, A.W.A.M.P. (Anja) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Wijnands-van Daal",
+    "voorletters": "A.W.A.M.P.",
+    "roepnaam": "Anja",
+    "geslacht": "v",
+    "naam": "Anja Wijnands-van Daal"
+   },
+   {
+    "nr": 37,
+    "ruw": "Luijer, S.Y. (Saskia) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Luijer",
+    "voorletters": "S.Y.",
+    "roepnaam": "Saskia",
+    "geslacht": "v",
+    "naam": "Saskia Luijer"
+   },
+   {
+    "nr": 38,
+    "ruw": "de Haas, A.T.Y. (Nico) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "de Haas",
+    "voorletters": "A.T.Y.",
+    "roepnaam": "Nico",
+    "geslacht": "m",
+    "naam": "Nico de Haas"
+   },
+   {
+    "nr": 39,
+    "ruw": "van Schaick, A.W. (Anton) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Schaick",
+    "voorletters": "A.W.",
+    "roepnaam": "Anton",
+    "geslacht": "m",
+    "naam": "Anton van Schaick"
+   },
+   {
+    "nr": 40,
+    "ruw": "Lam, A.J. (Anja) (v)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Lam",
+    "voorletters": "A.J.",
+    "roepnaam": "Anja",
+    "geslacht": "v",
+    "naam": "Anja Lam"
+   },
+   {
+    "nr": 41,
+    "ruw": "Verbruggen-van Corteveen, J.E. (Janneke) (v)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "Verbruggen-van Corteveen",
+    "voorletters": "J.E.",
+    "roepnaam": "Janneke",
+    "geslacht": "v",
+    "naam": "Janneke Verbruggen-van Corteveen"
+   },
+   {
+    "nr": 42,
+    "ruw": "Abbink, R.H. (Robbert) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Abbink",
+    "voorletters": "R.H.",
+    "roepnaam": "Robbert",
+    "geslacht": "m",
+    "naam": "Robbert Abbink"
+   },
+   {
+    "nr": 43,
+    "ruw": "Brouwer, M. (Marcel) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Brouwer",
+    "voorletters": "M.",
+    "roepnaam": "Marcel",
+    "geslacht": "m",
+    "naam": "Marcel Brouwer"
+   },
+   {
+    "nr": 44,
+    "ruw": "Maris, T.J.A. (Tjebbel) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Maris",
+    "voorletters": "T.J.A.",
+    "roepnaam": "Tjebbel",
+    "geslacht": "m",
+    "naam": "Tjebbel Maris"
+   },
+   {
+    "nr": 45,
+    "ruw": "van der Spek, W.A. (Willem) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Spek",
+    "voorletters": "W.A.",
+    "roepnaam": "Willem",
+    "geslacht": "m",
+    "naam": "Willem van der Spek"
+   },
+   {
+    "nr": 46,
+    "ruw": "Jansen, E.P.F. (Ewout) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Jansen",
+    "voorletters": "E.P.F.",
+    "roepnaam": "Ewout",
+    "geslacht": "m",
+    "naam": "Ewout Jansen"
+   },
+   {
+    "nr": 47,
+    "ruw": "Mourits, J.M.H. (Joep) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Mourits",
+    "voorletters": "J.M.H.",
+    "roepnaam": "Joep",
+    "geslacht": "m",
+    "naam": "Joep Mourits"
+   },
+   {
+    "nr": 48,
+    "ruw": "Jansen, S.G.L. (Sach) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Jansen",
+    "voorletters": "S.G.L.",
+    "roepnaam": "Sach",
+    "geslacht": "m",
+    "naam": "Sach Jansen"
+   },
+   {
+    "nr": 49,
+    "ruw": "Hillen, J.S.J. (Hans) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Hillen",
+    "voorletters": "J.S.J.",
+    "roepnaam": "Hans",
+    "geslacht": "m",
+    "naam": "Hans Hillen"
+   },
+   {
+    "nr": 50,
+    "ruw": "Streutker, D.E.O. (Olaf) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Streutker",
+    "voorletters": "D.E.O.",
+    "roepnaam": "Olaf",
+    "geslacht": "m",
+    "naam": "Olaf Streutker"
+   }
+  ],
+  "slug": "cda"
+ },
+ {
+  "nr": 6,
+  "naam": "Lokaal Eén",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Rademaker-Verdegaal, M.M. (Margriet)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "Rademaker-Verdegaal",
+    "voorletters": "M.M.",
+    "roepnaam": "Margriet",
+    "geslacht": null,
+    "naam": "Margriet Rademaker-Verdegaal"
+   },
+   {
+    "nr": 2,
+    "ruw": "van de Beek, A. (Atie)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van de Beek",
+    "voorletters": "A.",
+    "roepnaam": "Atie",
+    "geslacht": null,
+    "naam": "Atie van de Beek"
+   },
+   {
+    "nr": 3,
+    "ruw": "IJsbrandij-van Kerkhof, P.C.M. (Patricia)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "IJsbrandij-van Kerkhof",
+    "voorletters": "P.C.M.",
+    "roepnaam": "Patricia",
+    "geslacht": null,
+    "naam": "Patricia IJsbrandij-van Kerkhof"
+   },
+   {
+    "nr": 4,
+    "ruw": "Zagt, G. (Gert)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Zagt",
+    "voorletters": "G.",
+    "roepnaam": "Gert",
+    "geslacht": null,
+    "naam": "Gert Zagt"
+   },
+   {
+    "nr": 5,
+    "ruw": "Docter, R.J.H. (Rob)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Docter",
+    "voorletters": "R.J.H.",
+    "roepnaam": "Rob",
+    "geslacht": null,
+    "naam": "Rob Docter"
+   },
+   {
+    "nr": 6,
+    "ruw": "den Hartog, F. (Frits)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "den Hartog",
+    "voorletters": "F.",
+    "roepnaam": "Frits",
+    "geslacht": null,
+    "naam": "Frits den Hartog"
+   },
+   {
+    "nr": 7,
+    "ruw": "Voigt, R.H.J. (Rene)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Voigt",
+    "voorletters": "R.H.J.",
+    "roepnaam": "Rene",
+    "geslacht": null,
+    "naam": "Rene Voigt"
+   },
+   {
+    "nr": 8,
+    "ruw": "Barnstijn, S.F.T. (Sascha)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Barnstijn",
+    "voorletters": "S.F.T.",
+    "roepnaam": "Sascha",
+    "geslacht": null,
+    "naam": "Sascha Barnstijn"
+   },
+   {
+    "nr": 9,
+    "ruw": "Zaabat, A. (Latif)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Zaabat",
+    "voorletters": "A.",
+    "roepnaam": "Latif",
+    "geslacht": null,
+    "naam": "Latif Zaabat"
+   },
+   {
+    "nr": 10,
+    "ruw": "Degives Mas, D.B. (Diego)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Degives Mas",
+    "voorletters": "D.B.",
+    "roepnaam": "Diego",
+    "geslacht": null,
+    "naam": "Diego Degives Mas"
+   },
+   {
+    "nr": 11,
+    "ruw": "Bosch, L. (Lucas)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bosch",
+    "voorletters": "L.",
+    "roepnaam": "Lucas",
+    "geslacht": null,
+    "naam": "Lucas Bosch"
+   },
+   {
+    "nr": 12,
+    "ruw": "Doets, P.A. (Pieter)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Doets",
+    "voorletters": "P.A.",
+    "roepnaam": "Pieter",
+    "geslacht": null,
+    "naam": "Pieter Doets"
+   },
+   {
+    "nr": 13,
+    "ruw": "van der Meulen, R.M. (Maire)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van der Meulen",
+    "voorletters": "R.M.",
+    "roepnaam": "Maire",
+    "geslacht": null,
+    "naam": "Maire van der Meulen"
+   },
+   {
+    "nr": 14,
+    "ruw": "Goossen, D.J.W. (Dingeman)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Goossen",
+    "voorletters": "D.J.W.",
+    "roepnaam": "Dingeman",
+    "geslacht": null,
+    "naam": "Dingeman Goossen"
+   },
+   {
+    "nr": 15,
+    "ruw": "Kulkens, M. (Michael)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Kulkens",
+    "voorletters": "M.",
+    "roepnaam": "Michael",
+    "geslacht": null,
+    "naam": "Michael Kulkens"
+   },
+   {
+    "nr": 16,
+    "ruw": "van Zanten, N.F. (Nico)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "van Zanten",
+    "voorletters": "N.F.",
+    "roepnaam": "Nico",
+    "geslacht": null,
+    "naam": "Nico van Zanten"
+   },
+   {
+    "nr": 17,
+    "ruw": "Kliphuis, T.D. (Tim)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kliphuis",
+    "voorletters": "T.D.",
+    "roepnaam": "Tim",
+    "geslacht": null,
+    "naam": "Tim Kliphuis"
+   },
+   {
+    "nr": 18,
+    "ruw": "Steenvoorden, B.W.M. (Ben)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Steenvoorden",
+    "voorletters": "B.W.M.",
+    "roepnaam": "Ben",
+    "geslacht": null,
+    "naam": "Ben Steenvoorden"
+   },
+   {
+    "nr": 19,
+    "ruw": "Jansson, C. (Carolien)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Jansson",
+    "voorletters": "C.",
+    "roepnaam": "Carolien",
+    "geslacht": null,
+    "naam": "Carolien Jansson"
+   },
+   {
+    "nr": 20,
+    "ruw": "Stolker, J.H.P.M. (Jan)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Stolker",
+    "voorletters": "J.H.P.M.",
+    "roepnaam": "Jan",
+    "geslacht": null,
+    "naam": "Jan Stolker"
+   },
+   {
+    "nr": 21,
+    "ruw": "Nuissl-Wendt, L. (Lide)",
+    "woonplaats": "'s-Graveland",
+    "achternaam": "Nuissl-Wendt",
+    "voorletters": "L.",
+    "roepnaam": "Lide",
+    "geslacht": null,
+    "naam": "Lide Nuissl-Wendt"
+   },
+   {
+    "nr": 22,
+    "ruw": "Spaan, K.C. (Krijn)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Spaan",
+    "voorletters": "K.C.",
+    "roepnaam": "Krijn",
+    "geslacht": null,
+    "naam": "Krijn Spaan"
+   },
+   {
+    "nr": 23,
+    "ruw": "Heijdra, E.H.M. (Lilian)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Heijdra",
+    "voorletters": "E.H.M.",
+    "roepnaam": "Lilian",
+    "geslacht": null,
+    "naam": "Lilian Heijdra"
+   },
+   {
+    "nr": 24,
+    "ruw": "van de Bunt, G.G. (Barry)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van de Bunt",
+    "voorletters": "G.G.",
+    "roepnaam": "Barry",
+    "geslacht": null,
+    "naam": "Barry van de Bunt"
+   },
+   {
+    "nr": 25,
+    "ruw": "Meens, H.J.G.M. (Joes)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Meens",
+    "voorletters": "H.J.G.M.",
+    "roepnaam": "Joes",
+    "geslacht": null,
+    "naam": "Joes Meens"
+   },
+   {
+    "nr": 26,
+    "ruw": "Verdegaal, J.P. (Jan)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verdegaal",
+    "voorletters": "J.P.",
+    "roepnaam": "Jan",
+    "geslacht": null,
+    "naam": "Jan Verdegaal"
+   },
+   {
+    "nr": 27,
+    "ruw": "Zeldenrijk, C. (Kees)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Zeldenrijk",
+    "voorletters": "C.",
+    "roepnaam": "Kees",
+    "geslacht": null,
+    "naam": "Kees Zeldenrijk"
+   },
+   {
+    "nr": 28,
+    "ruw": "Davelaar, W.J. (Willem Jaap)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Davelaar",
+    "voorletters": "W.J.",
+    "roepnaam": "Willem Jaap",
+    "geslacht": null,
+    "naam": "Willem Jaap Davelaar"
+   },
+   {
+    "nr": 29,
+    "ruw": "Rotteveel, H.P. (Hellen)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Rotteveel",
+    "voorletters": "H.P.",
+    "roepnaam": "Hellen",
+    "geslacht": null,
+    "naam": "Hellen Rotteveel"
+   },
+   {
+    "nr": 30,
+    "ruw": "van Ee-Lamme, P.M. (Patrice)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van Ee-Lamme",
+    "voorletters": "P.M.",
+    "roepnaam": "Patrice",
+    "geslacht": null,
+    "naam": "Patrice van Ee-Lamme"
+   },
+   {
+    "nr": 31,
+    "ruw": "Snel, A.W. (Wilma)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Snel",
+    "voorletters": "A.W.",
+    "roepnaam": "Wilma",
+    "geslacht": null,
+    "naam": "Wilma Snel"
+   },
+   {
+    "nr": 32,
+    "ruw": "Göbbels, J.E.M.G. (Edwin)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Göbbels",
+    "voorletters": "J.E.M.G.",
+    "roepnaam": "Edwin",
+    "geslacht": null,
+    "naam": "Edwin Göbbels"
+   }
+  ],
+  "slug": "lokaal-een"
+ },
+ {
+  "nr": 7,
+  "naam": "Socialistische Partij (SP)",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Vonk, P.C.M. (Paul) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Vonk",
+    "voorletters": "P.C.M.",
+    "roepnaam": "Paul",
+    "geslacht": "m",
+    "naam": "Paul Vonk"
+   },
+   {
+    "nr": 2,
+    "ruw": "Meddens, J.W.A. (Joep) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Meddens",
+    "voorletters": "J.W.A.",
+    "roepnaam": "Joep",
+    "geslacht": "m",
+    "naam": "Joep Meddens"
+   },
+   {
+    "nr": 3,
+    "ruw": "Scholte, A.J. (Amy) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Scholte",
+    "voorletters": "A.J.",
+    "roepnaam": "Amy",
+    "geslacht": "v",
+    "naam": "Amy Scholte"
+   },
+   {
+    "nr": 4,
+    "ruw": "Grob, E. (Eduard) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Grob",
+    "voorletters": "E.",
+    "roepnaam": "Eduard",
+    "geslacht": "m",
+    "naam": "Eduard Grob"
+   },
+   {
+    "nr": 5,
+    "ruw": "Kiksen van Moock, L. (Leanne) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kiksen van Moock",
+    "voorletters": "L.",
+    "roepnaam": "Leanne",
+    "geslacht": "v",
+    "naam": "Leanne Kiksen van Moock"
+   },
+   {
+    "nr": 6,
+    "ruw": "Siddiqui, M.S. (Sajid) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Siddiqui",
+    "voorletters": "M.S.",
+    "roepnaam": "Sajid",
+    "geslacht": "m",
+    "naam": "Sajid Siddiqui"
+   },
+   {
+    "nr": 7,
+    "ruw": "Hoenderkamp, S.L. (Saskia) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Hoenderkamp",
+    "voorletters": "S.L.",
+    "roepnaam": "Saskia",
+    "geslacht": "v",
+    "naam": "Saskia Hoenderkamp"
+   },
+   {
+    "nr": 8,
+    "ruw": "ten Hoeve, F. (Fendi) (v)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "ten Hoeve",
+    "voorletters": "F.",
+    "roepnaam": "Fendi",
+    "geslacht": "v",
+    "naam": "Fendi ten Hoeve"
+   },
+   {
+    "nr": 9,
+    "ruw": "Dunker, G.C. (Gregory) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Dunker",
+    "voorletters": "G.C.",
+    "roepnaam": "Gregory",
+    "geslacht": "m",
+    "naam": "Gregory Dunker"
+   },
+   {
+    "nr": 10,
+    "ruw": "Raes, A.W. (Wolter) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Raes",
+    "voorletters": "A.W.",
+    "roepnaam": "Wolter",
+    "geslacht": "m",
+    "naam": "Wolter Raes"
+   },
+   {
+    "nr": 11,
+    "ruw": "Muller, N.C. (Nienke) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Muller",
+    "voorletters": "N.C.",
+    "roepnaam": "Nienke",
+    "geslacht": "v",
+    "naam": "Nienke Muller"
+   },
+   {
+    "nr": 12,
+    "ruw": "van Bleijswijk, N. (Yael) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "van Bleijswijk",
+    "voorletters": "N.",
+    "roepnaam": "Yael",
+    "geslacht": "m",
+    "naam": "Yael van Bleijswijk"
+   },
+   {
+    "nr": 13,
+    "ruw": "Kuiper, K. (Karin) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kuiper",
+    "voorletters": "K.",
+    "roepnaam": "Karin",
+    "geslacht": "v",
+    "naam": "Karin Kuiper"
+   },
+   {
+    "nr": 14,
+    "ruw": "Demir, K.B. (Kay) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Demir",
+    "voorletters": "K.B.",
+    "roepnaam": "Kay",
+    "geslacht": "m",
+    "naam": "Kay Demir"
+   },
+   {
+    "nr": 15,
+    "ruw": "Graafsma, S. (Stef) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Graafsma",
+    "voorletters": "S.",
+    "roepnaam": "Stef",
+    "geslacht": "m",
+    "naam": "Stef Graafsma"
+   },
+   {
+    "nr": 16,
+    "ruw": "Visser, E.L. (Els) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Visser",
+    "voorletters": "E.L.",
+    "roepnaam": "Els",
+    "geslacht": "v",
+    "naam": "Els Visser"
+   },
+   {
+    "nr": 17,
+    "ruw": "van Dijk, Y.M. (Ysbrand) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Dijk",
+    "voorletters": "Y.M.",
+    "roepnaam": "Ysbrand",
+    "geslacht": "m",
+    "naam": "Ysbrand van Dijk"
+   },
+   {
+    "nr": 18,
+    "ruw": "Schraagen, M.C. (Rien) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Schraagen",
+    "voorletters": "M.C.",
+    "roepnaam": "Rien",
+    "geslacht": "m",
+    "naam": "Rien Schraagen"
+   },
+   {
+    "nr": 19,
+    "ruw": "Walta, S. (Serge) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Walta",
+    "voorletters": "S.",
+    "roepnaam": "Serge",
+    "geslacht": "m",
+    "naam": "Serge Walta"
+   },
+   {
+    "nr": 20,
+    "ruw": "Langendoen, M. (Mees) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Langendoen",
+    "voorletters": "M.",
+    "roepnaam": "Mees",
+    "geslacht": "m",
+    "naam": "Mees Langendoen"
+   },
+   {
+    "nr": 21,
+    "ruw": "de Wit, J. (Julius) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "de Wit",
+    "voorletters": "J.",
+    "roepnaam": "Julius",
+    "geslacht": "m",
+    "naam": "Julius de Wit"
+   },
+   {
+    "nr": 22,
+    "ruw": "Glastra van Loon, N.J. (Noa) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Glastra van Loon",
+    "voorletters": "N.J.",
+    "roepnaam": "Noa",
+    "geslacht": "v",
+    "naam": "Noa Glastra van Loon"
+   },
+   {
+    "nr": 23,
+    "ruw": "Portier, R. (Ronald) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Portier",
+    "voorletters": "R.",
+    "roepnaam": "Ronald",
+    "geslacht": "m",
+    "naam": "Ronald Portier"
+   },
+   {
+    "nr": 24,
+    "ruw": "Klamer, A. (Arjo) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Klamer",
+    "voorletters": "A.",
+    "roepnaam": "Arjo",
+    "geslacht": "m",
+    "naam": "Arjo Klamer"
+   },
+   {
+    "nr": 25,
+    "ruw": "Verweij, B. (Bianca) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verweij",
+    "voorletters": "B.",
+    "roepnaam": "Bianca",
+    "geslacht": "v",
+    "naam": "Bianca Verweij"
+   }
+  ],
+  "slug": "sp"
+ },
+ {
+  "nr": 8,
+  "naam": "ChristenUnie",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Nanninga, B. (Bas) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Nanninga",
+    "voorletters": "B.",
+    "roepnaam": "Bas",
+    "geslacht": "m",
+    "naam": "Bas Nanninga"
+   },
+   {
+    "nr": 2,
+    "ruw": "Pronk-Ligthart, M. (Marjan) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Pronk-Ligthart",
+    "voorletters": "M.",
+    "roepnaam": "Marjan",
+    "geslacht": "v",
+    "naam": "Marjan Pronk-Ligthart"
+   },
+   {
+    "nr": 3,
+    "ruw": "Hildering-Spoelstra, M.C. (Marijke) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Hildering-Spoelstra",
+    "voorletters": "M.C.",
+    "roepnaam": "Marijke",
+    "geslacht": "v",
+    "naam": "Marijke Hildering-Spoelstra"
+   },
+   {
+    "nr": 4,
+    "ruw": "Grasmeijer-Bronsema, R. (Rolina) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Grasmeijer-Bronsema",
+    "voorletters": "R.",
+    "roepnaam": "Rolina",
+    "geslacht": "v",
+    "naam": "Rolina Grasmeijer-Bronsema"
+   },
+   {
+    "nr": 5,
+    "ruw": "van Wagtendonk, B.M. (Bryan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Wagtendonk",
+    "voorletters": "B.M.",
+    "roepnaam": "Bryan",
+    "geslacht": "m",
+    "naam": "Bryan van Wagtendonk"
+   },
+   {
+    "nr": 6,
+    "ruw": "van Popta, M.A. (Marian) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Popta",
+    "voorletters": "M.A.",
+    "roepnaam": "Marian",
+    "geslacht": "v",
+    "naam": "Marian van Popta"
+   },
+   {
+    "nr": 7,
+    "ruw": "Fleurke, R.G. (Reinoud) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Fleurke",
+    "voorletters": "R.G.",
+    "roepnaam": "Reinoud",
+    "geslacht": "m",
+    "naam": "Reinoud Fleurke"
+   },
+   {
+    "nr": 8,
+    "ruw": "Plaggenmarsch, G.J. (Gerard) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Plaggenmarsch",
+    "voorletters": "G.J.",
+    "roepnaam": "Gerard",
+    "geslacht": "m",
+    "naam": "Gerard Plaggenmarsch"
+   },
+   {
+    "nr": 9,
+    "ruw": "Roezi, W. (Wahid) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Roezi",
+    "voorletters": "W.",
+    "roepnaam": "Wahid",
+    "geslacht": "m",
+    "naam": "Wahid Roezi"
+   },
+   {
+    "nr": 10,
+    "ruw": "Luijer-van Rooijen, E. (Esther) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Luijer-van Rooijen",
+    "voorletters": "E.",
+    "roepnaam": "Esther",
+    "geslacht": "v",
+    "naam": "Esther Luijer-van Rooijen"
+   },
+   {
+    "nr": 11,
+    "ruw": "Heek, G.A. (Gerjanne) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Heek",
+    "voorletters": "G.A.",
+    "roepnaam": "Gerjanne",
+    "geslacht": "v",
+    "naam": "Gerjanne Heek"
+   },
+   {
+    "nr": 12,
+    "ruw": "ter Stege, L. (Bert) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "ter Stege",
+    "voorletters": "L.",
+    "roepnaam": "Bert",
+    "geslacht": "m",
+    "naam": "Bert ter Stege"
+   },
+   {
+    "nr": 13,
+    "ruw": "Schouten van de Velden, H.T.G. (Hetty) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Schouten van de Velden",
+    "voorletters": "H.T.G.",
+    "roepnaam": "Hetty",
+    "geslacht": "v",
+    "naam": "Hetty Schouten van de Velden"
+   },
+   {
+    "nr": 14,
+    "ruw": "van der Horst-Hamming, B. (Bianca) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Horst-Hamming",
+    "voorletters": "B.",
+    "roepnaam": "Bianca",
+    "geslacht": "v",
+    "naam": "Bianca van der Horst-Hamming"
+   },
+   {
+    "nr": 15,
+    "ruw": "Verhoeff-Moll, T.G. (Tamara) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Verhoeff-Moll",
+    "voorletters": "T.G.",
+    "roepnaam": "Tamara",
+    "geslacht": "v",
+    "naam": "Tamara Verhoeff-Moll"
+   },
+   {
+    "nr": 16,
+    "ruw": "Goedhart, R.M. (Reinier) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Goedhart",
+    "voorletters": "R.M.",
+    "roepnaam": "Reinier",
+    "geslacht": "m",
+    "naam": "Reinier Goedhart"
+   },
+   {
+    "nr": 17,
+    "ruw": "Hopman-van Zaanen, U. (Ursula) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Hopman-van Zaanen",
+    "voorletters": "U.",
+    "roepnaam": "Ursula",
+    "geslacht": "v",
+    "naam": "Ursula Hopman-van Zaanen"
+   },
+   {
+    "nr": 18,
+    "ruw": "Burema, Z.H. (Bert) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Burema",
+    "voorletters": "Z.H.",
+    "roepnaam": "Bert",
+    "geslacht": "m",
+    "naam": "Bert Burema"
+   },
+   {
+    "nr": 19,
+    "ruw": "Potters-Blijdorp, G.H.W. (Gerdien) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Potters-Blijdorp",
+    "voorletters": "G.H.W.",
+    "roepnaam": "Gerdien",
+    "geslacht": "v",
+    "naam": "Gerdien Potters-Blijdorp"
+   },
+   {
+    "nr": 20,
+    "ruw": "Volkerink, T. (Tjitske) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Volkerink",
+    "voorletters": "T.",
+    "roepnaam": "Tjitske",
+    "geslacht": "v",
+    "naam": "Tjitske Volkerink"
+   },
+   {
+    "nr": 21,
+    "ruw": "Oomen, E. (Elzbeth) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Oomen",
+    "voorletters": "E.",
+    "roepnaam": "Elzbeth",
+    "geslacht": "v",
+    "naam": "Elzbeth Oomen"
+   },
+   {
+    "nr": 22,
+    "ruw": "IJmker, E.L. (Egbert) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "IJmker",
+    "voorletters": "E.L.",
+    "roepnaam": "Egbert",
+    "geslacht": "m",
+    "naam": "Egbert IJmker"
+   },
+   {
+    "nr": 23,
+    "ruw": "de Wit, J. (Jan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "de Wit",
+    "voorletters": "J.",
+    "roepnaam": "Jan",
+    "geslacht": "m",
+    "naam": "Jan de Wit"
+   },
+   {
+    "nr": 24,
+    "ruw": "Vreugdenhil-de Blecourt, A.F. (Aafke) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Vreugdenhil-de Blecourt",
+    "voorletters": "A.F.",
+    "roepnaam": "Aafke",
+    "geslacht": "v",
+    "naam": "Aafke Vreugdenhil-de Blecourt"
+   },
+   {
+    "nr": 25,
+    "ruw": "Kaper-Hartenberg, E.T. (Esther) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Kaper-Hartenberg",
+    "voorletters": "E.T.",
+    "roepnaam": "Esther",
+    "geslacht": "v",
+    "naam": "Esther Kaper-Hartenberg"
+   }
+  ],
+  "slug": "christenunie"
+ },
+ {
+  "nr": 9,
+  "naam": "Belang Van Nederland (BVNL)",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "van Beers, J.F.H. (Joost) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Beers",
+    "voorletters": "J.F.H.",
+    "roepnaam": "Joost",
+    "geslacht": "m",
+    "naam": "Joost van Beers"
+   },
+   {
+    "nr": 2,
+    "ruw": "Cornelissen, N.I. (Niels) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Cornelissen",
+    "voorletters": "N.I.",
+    "roepnaam": "Niels",
+    "geslacht": "m",
+    "naam": "Niels Cornelissen"
+   },
+   {
+    "nr": 3,
+    "ruw": "Bonhomme, G.H. (Gustave) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bonhomme",
+    "voorletters": "G.H.",
+    "roepnaam": "Gustave",
+    "geslacht": "m",
+    "naam": "Gustave Bonhomme"
+   },
+   {
+    "nr": 4,
+    "ruw": "Bakker, R. (Romy) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Bakker",
+    "voorletters": "R.",
+    "roepnaam": "Romy",
+    "geslacht": "v",
+    "naam": "Romy Bakker"
+   },
+   {
+    "nr": 5,
+    "ruw": "Verhulst, M. (Michael) (m)",
+    "woonplaats": "Breukelen",
+    "achternaam": "Verhulst",
+    "voorletters": "M.",
+    "roepnaam": "Michael",
+    "geslacht": "m",
+    "naam": "Michael Verhulst"
+   },
+   {
+    "nr": 6,
+    "ruw": "Bruins, J.W. (Johannes) (m)",
+    "woonplaats": "Bussum",
+    "achternaam": "Bruins",
+    "voorletters": "J.W.",
+    "roepnaam": "Johannes",
+    "geslacht": "m",
+    "naam": "Johannes Bruins"
+   },
+   {
+    "nr": 7,
+    "ruw": "van Haga, W.R. (Wybren) (m)",
+    "woonplaats": "Haarlem",
+    "achternaam": "van Haga",
+    "voorletters": "W.R.",
+    "roepnaam": "Wybren",
+    "geslacht": "m",
+    "naam": "Wybren van Haga"
+   }
+  ],
+  "slug": "bvnl"
+ },
+ {
+  "nr": 10,
+  "naam": "SCB",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "al Ibrahim, H. (Haidar) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "al Ibrahim",
+    "voorletters": "H.",
+    "roepnaam": "Haidar",
+    "geslacht": "m",
+    "naam": "Haidar al Ibrahim"
+   },
+   {
+    "nr": 2,
+    "ruw": "al Seraf, H. (Hassan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "al Seraf",
+    "voorletters": "H.",
+    "roepnaam": "Hassan",
+    "geslacht": "m",
+    "naam": "Hassan al Seraf"
+   },
+   {
+    "nr": 3,
+    "ruw": "Tribak, F. (Fatima) (v)",
+    "woonplaats": "Drachten",
+    "achternaam": "Tribak",
+    "voorletters": "F.",
+    "roepnaam": "Fatima",
+    "geslacht": "v",
+    "naam": "Fatima Tribak"
+   }
+  ],
+  "slug": "scb"
+ },
+ {
+  "nr": 11,
+  "naam": "Gewoon, Hilversum",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Redmeijer, R.W.C. (Regie) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Redmeijer",
+    "voorletters": "R.W.C.",
+    "roepnaam": "Regie",
+    "geslacht": "v",
+    "naam": "Regie Redmeijer"
+   },
+   {
+    "nr": 2,
+    "ruw": "Majoor, C. (Collin) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Majoor",
+    "voorletters": "C.",
+    "roepnaam": "Collin",
+    "geslacht": "m",
+    "naam": "Collin Majoor"
+   },
+   {
+    "nr": 3,
+    "ruw": "van de Linde, H.M.G.J. (Haitske) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van de Linde",
+    "voorletters": "H.M.G.J.",
+    "roepnaam": "Haitske",
+    "geslacht": "v",
+    "naam": "Haitske van de Linde"
+   },
+   {
+    "nr": 4,
+    "ruw": "van Nispen, G.J.M.M. (Gert-Jan) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Nispen",
+    "voorletters": "G.J.M.M.",
+    "roepnaam": "Gert-Jan",
+    "geslacht": "m",
+    "naam": "Gert-Jan van Nispen"
+   },
+   {
+    "nr": 5,
+    "ruw": "van Nispen, N.D. (Naomi) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Nispen",
+    "voorletters": "N.D.",
+    "roepnaam": "Naomi",
+    "geslacht": "v",
+    "naam": "Naomi van Nispen"
+   },
+   {
+    "nr": 6,
+    "ruw": "Bolding, A.C.D. (Diana) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Bolding",
+    "voorletters": "A.C.D.",
+    "roepnaam": "Diana",
+    "geslacht": "v",
+    "naam": "Diana Bolding"
+   },
+   {
+    "nr": 7,
+    "ruw": "van der Meer, A.C. (Atty) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Meer",
+    "voorletters": "A.C.",
+    "roepnaam": "Atty",
+    "geslacht": "v",
+    "naam": "Atty van der Meer"
+   }
+  ],
+  "slug": "gewoon-hilversum"
+ },
+ {
+  "nr": 12,
+  "naam": "Dorp voor Dorp",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Volkers, D.W.J. (Diederick) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Volkers",
+    "voorletters": "D.W.J.",
+    "roepnaam": "Diederick",
+    "geslacht": "m",
+    "naam": "Diederick Volkers"
+   },
+   {
+    "nr": 2,
+    "ruw": "Reuderink, R.J. (Reinout) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Reuderink",
+    "voorletters": "R.J.",
+    "roepnaam": "Reinout",
+    "geslacht": "m",
+    "naam": "Reinout Reuderink"
+   },
+   {
+    "nr": 3,
+    "ruw": "Kok, S. (Sil) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kok",
+    "voorletters": "S.",
+    "roepnaam": "Sil",
+    "geslacht": "m",
+    "naam": "Sil Kok"
+   },
+   {
+    "nr": 4,
+    "ruw": "Koopmanschap, T.M. (Tanya) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Koopmanschap",
+    "voorletters": "T.M.",
+    "roepnaam": "Tanya",
+    "geslacht": "v",
+    "naam": "Tanya Koopmanschap"
+   },
+   {
+    "nr": 5,
+    "ruw": "Holtkamp, P.V. (Patrick) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Holtkamp",
+    "voorletters": "P.V.",
+    "roepnaam": "Patrick",
+    "geslacht": "m",
+    "naam": "Patrick Holtkamp"
+   },
+   {
+    "nr": 6,
+    "ruw": "Hermsen, J. (Jan) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Hermsen",
+    "voorletters": "J.",
+    "roepnaam": "Jan",
+    "geslacht": "m",
+    "naam": "Jan Hermsen"
+   },
+   {
+    "nr": 7,
+    "ruw": "Sarmanov, A. (Abdugapir) (m)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "Sarmanov",
+    "voorletters": "A.",
+    "roepnaam": "Abdugapir",
+    "geslacht": "m",
+    "naam": "Abdugapir Sarmanov"
+   },
+   {
+    "nr": 8,
+    "ruw": "van de Wouw-Spaargaren, G.J.A. (Coby) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van de Wouw-Spaargaren",
+    "voorletters": "G.J.A.",
+    "roepnaam": "Coby",
+    "geslacht": "v",
+    "naam": "Coby van de Wouw-Spaargaren"
+   },
+   {
+    "nr": 9,
+    "ruw": "Bouwer, C. (Cindy) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Bouwer",
+    "voorletters": "C.",
+    "roepnaam": "Cindy",
+    "geslacht": "v",
+    "naam": "Cindy Bouwer"
+   }
+  ],
+  "slug": "dorp-voor-dorp"
+ },
+ {
+  "nr": 13,
+  "naam": "Stop Betaald Parkeren-VIP",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Kleinsmit, G.H. (Gerke) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kleinsmit",
+    "voorletters": "G.H.",
+    "roepnaam": "Gerke",
+    "geslacht": "m",
+    "naam": "Gerke Kleinsmit"
+   },
+   {
+    "nr": 2,
+    "ruw": "van Driel, J.C. (Jan-Ernst) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van Driel",
+    "voorletters": "J.C.",
+    "roepnaam": "Jan-Ernst",
+    "geslacht": "m",
+    "naam": "Jan-Ernst van Driel"
+   },
+   {
+    "nr": 3,
+    "ruw": "Veer, A.T. (Albert) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Veer",
+    "voorletters": "A.T.",
+    "roepnaam": "Albert",
+    "geslacht": "m",
+    "naam": "Albert Veer"
+   },
+   {
+    "nr": 4,
+    "ruw": "Kok, J.M.H. (Joke) (v)",
+    "woonplaats": "Ankeveen",
+    "achternaam": "Kok",
+    "voorletters": "J.M.H.",
+    "roepnaam": "Joke",
+    "geslacht": "v",
+    "naam": "Joke Kok"
+   },
+   {
+    "nr": 5,
+    "ruw": "Delforno, R.L. (Richard) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Delforno",
+    "voorletters": "R.L.",
+    "roepnaam": "Richard",
+    "geslacht": "m",
+    "naam": "Richard Delforno"
+   },
+   {
+    "nr": 6,
+    "ruw": "van der Klein, M.W. (Menno) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Klein",
+    "voorletters": "M.W.",
+    "roepnaam": "Menno",
+    "geslacht": "m",
+    "naam": "Menno van der Klein"
+   }
+  ],
+  "slug": "stop-betaald-parkeren-vip"
+ },
+ {
+  "nr": 14,
+  "naam": "OpStand.nu",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Lahaise, J.P. (Joop) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Lahaise",
+    "voorletters": "J.P.",
+    "roepnaam": "Joop",
+    "geslacht": "m",
+    "naam": "Joop Lahaise"
+   },
+   {
+    "nr": 2,
+    "ruw": "Bijl-Postuma, H. (Henriëtte) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bijl-Postuma",
+    "voorletters": "H.",
+    "roepnaam": "Henriëtte",
+    "geslacht": "v",
+    "naam": "Henriëtte Bijl-Postuma"
+   },
+   {
+    "nr": 3,
+    "ruw": "Borstlap, E.M. (Emma) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Borstlap",
+    "voorletters": "E.M.",
+    "roepnaam": "Emma",
+    "geslacht": "v",
+    "naam": "Emma Borstlap"
+   },
+   {
+    "nr": 4,
+    "ruw": "van Hest, S.M. (Sabine) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Hest",
+    "voorletters": "S.M.",
+    "roepnaam": "Sabine",
+    "geslacht": "v",
+    "naam": "Sabine van Hest"
+   },
+   {
+    "nr": 5,
+    "ruw": "Roeters, R.M. (Remco) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Roeters",
+    "voorletters": "R.M.",
+    "roepnaam": "Remco",
+    "geslacht": "m",
+    "naam": "Remco Roeters"
+   },
+   {
+    "nr": 6,
+    "ruw": "Fennis, B.P. (Berna) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Fennis",
+    "voorletters": "B.P.",
+    "roepnaam": "Berna",
+    "geslacht": "v",
+    "naam": "Berna Fennis"
+   },
+   {
+    "nr": 7,
+    "ruw": "Blok, H.P. (Henk) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Blok",
+    "voorletters": "H.P.",
+    "roepnaam": "Henk",
+    "geslacht": "m",
+    "naam": "Henk Blok"
+   },
+   {
+    "nr": 8,
+    "ruw": "Postuma, W. (Wopke) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Postuma",
+    "voorletters": "W.",
+    "roepnaam": "Wopke",
+    "geslacht": "m",
+    "naam": "Wopke Postuma"
+   },
+   {
+    "nr": 9,
+    "ruw": "Drenth, I. (Iris) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Drenth",
+    "voorletters": "I.",
+    "roepnaam": "Iris",
+    "geslacht": "v",
+    "naam": "Iris Drenth"
+   },
+   {
+    "nr": 10,
+    "ruw": "Kerkhoff, L.J.M. (Leo) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Kerkhoff",
+    "voorletters": "L.J.M.",
+    "roepnaam": "Leo",
+    "geslacht": "m",
+    "naam": "Leo Kerkhoff"
+   }
+  ],
+  "slug": "opstand-nu"
+ },
+ {
+  "nr": 15,
+  "naam": "Partij voor de Dieren",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Vanderveen, J.S. (Jojanneke)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Vanderveen",
+    "voorletters": "J.S.",
+    "roepnaam": "Jojanneke",
+    "geslacht": null,
+    "naam": "Jojanneke Vanderveen"
+   },
+   {
+    "nr": 2,
+    "ruw": "Mulder, I.A. (Anne)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Mulder",
+    "voorletters": "I.A.",
+    "roepnaam": "Anne",
+    "geslacht": null,
+    "naam": "Anne Mulder"
+   },
+   {
+    "nr": 3,
+    "ruw": "Ricker, J.M. (John)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Ricker",
+    "voorletters": "J.M.",
+    "roepnaam": "John",
+    "geslacht": null,
+    "naam": "John Ricker"
+   },
+   {
+    "nr": 4,
+    "ruw": "de Sterke, P.A.M. (Pam)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "de Sterke",
+    "voorletters": "P.A.M.",
+    "roepnaam": "Pam",
+    "geslacht": null,
+    "naam": "Pam de Sterke"
+   },
+   {
+    "nr": 5,
+    "ruw": "van Miltenburg, N. (Nynke)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Miltenburg",
+    "voorletters": "N.",
+    "roepnaam": "Nynke",
+    "geslacht": null,
+    "naam": "Nynke van Miltenburg"
+   },
+   {
+    "nr": 6,
+    "ruw": "van den Berg, H.P. (Harry Poko)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van den Berg",
+    "voorletters": "H.P.",
+    "roepnaam": "Harry Poko",
+    "geslacht": null,
+    "naam": "Harry Poko van den Berg"
+   },
+   {
+    "nr": 7,
+    "ruw": "Vrakking, A.F. (Amanda)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Vrakking",
+    "voorletters": "A.F.",
+    "roepnaam": "Amanda",
+    "geslacht": null,
+    "naam": "Amanda Vrakking"
+   },
+   {
+    "nr": 8,
+    "ruw": "Heselmans, Y.A.M. (Yvonne)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Heselmans",
+    "voorletters": "Y.A.M.",
+    "roepnaam": "Yvonne",
+    "geslacht": null,
+    "naam": "Yvonne Heselmans"
+   },
+   {
+    "nr": 9,
+    "ruw": "Leliveld, A.H.M. (André)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Leliveld",
+    "voorletters": "A.H.M.",
+    "roepnaam": "André",
+    "geslacht": null,
+    "naam": "André Leliveld"
+   },
+   {
+    "nr": 10,
+    "ruw": "Bouhuijs, R. (Rebecca)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Bouhuijs",
+    "voorletters": "R.",
+    "roepnaam": "Rebecca",
+    "geslacht": null,
+    "naam": "Rebecca Bouhuijs"
+   },
+   {
+    "nr": 11,
+    "ruw": "Hartensveld, H.G.J. (Ilona)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Hartensveld",
+    "voorletters": "H.G.J.",
+    "roepnaam": "Ilona",
+    "geslacht": null,
+    "naam": "Ilona Hartensveld"
+   }
+  ],
+  "slug": "pvdd"
+ },
+ {
+  "nr": 16,
+  "naam": "Blanco (van Oostveen, J.W.D.)",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "van Oostveen, J.W.D. (Jacqueline) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Oostveen",
+    "voorletters": "J.W.D.",
+    "roepnaam": "Jacqueline",
+    "geslacht": "v",
+    "naam": "Jacqueline van Oostveen"
+   }
+  ],
+  "slug": "blanco-van-oostveen"
+ },
+ {
+  "nr": 17,
+  "naam": "Libertaire Fractie Durlacher (LFD)",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Durlacher, F. (Frederique) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Durlacher",
+    "voorletters": "F.",
+    "roepnaam": "Frederique",
+    "geslacht": "v",
+    "naam": "Frederique Durlacher"
+   },
+   {
+    "nr": 2,
+    "ruw": "van Ginhoven, W.A.J. (Walda) (v)",
+    "woonplaats": "Nederhorst den Berg",
+    "achternaam": "van Ginhoven",
+    "voorletters": "W.A.J.",
+    "roepnaam": "Walda",
+    "geslacht": "v",
+    "naam": "Walda van Ginhoven"
+   },
+   {
+    "nr": 3,
+    "ruw": "Besemer, M.E. (Mirella) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Besemer",
+    "voorletters": "M.E.",
+    "roepnaam": "Mirella",
+    "geslacht": "v",
+    "naam": "Mirella Besemer"
+   },
+   {
+    "nr": 4,
+    "ruw": "Williams, M.E. (Marline) (v)",
+    "woonplaats": "Amsterdam",
+    "achternaam": "Williams",
+    "voorletters": "M.E.",
+    "roepnaam": "Marline",
+    "geslacht": "v",
+    "naam": "Marline Williams"
+   },
+   {
+    "nr": 5,
+    "ruw": "Bais, H. (Hester) (v)",
+    "woonplaats": "Amersfoort",
+    "achternaam": "Bais",
+    "voorletters": "H.",
+    "roepnaam": "Hester",
+    "geslacht": "v",
+    "naam": "Hester Bais"
+   }
+  ],
+  "slug": "lfd"
+ },
+ {
+  "nr": 18,
+  "naam": "Volt",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Kok, L.S.A. (Leonie) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Kok",
+    "voorletters": "L.S.A.",
+    "roepnaam": "Leonie",
+    "geslacht": "v",
+    "naam": "Leonie Kok"
+   },
+   {
+    "nr": 2,
+    "ruw": "de Haan, E. (Edwin) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "de Haan",
+    "voorletters": "E.",
+    "roepnaam": "Edwin",
+    "geslacht": "m",
+    "naam": "Edwin de Haan"
+   },
+   {
+    "nr": 3,
+    "ruw": "Weel, L.M. (Leonie) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Weel",
+    "voorletters": "L.M.",
+    "roepnaam": "Leonie",
+    "geslacht": "v",
+    "naam": "Leonie Weel"
+   },
+   {
+    "nr": 4,
+    "ruw": "la Rivière, R. (René) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "la Rivière",
+    "voorletters": "R.",
+    "roepnaam": "René",
+    "geslacht": "m",
+    "naam": "René la Rivière"
+   },
+   {
+    "nr": 5,
+    "ruw": "Keates, A.F. (Annette) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Keates",
+    "voorletters": "A.F.",
+    "roepnaam": "Annette",
+    "geslacht": "v",
+    "naam": "Annette Keates"
+   },
+   {
+    "nr": 6,
+    "ruw": "Pels Rijcken, A.F. (Arjen) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Pels Rijcken",
+    "voorletters": "A.F.",
+    "roepnaam": "Arjen",
+    "geslacht": "m",
+    "naam": "Arjen Pels Rijcken"
+   }
+  ],
+  "slug": "volt"
+ },
+ {
+  "nr": 19,
+  "naam": "Forum voor Democratie",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Joustra, W. (Willem) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Joustra",
+    "voorletters": "W.",
+    "roepnaam": "Willem",
+    "geslacht": "m",
+    "naam": "Willem Joustra"
+   },
+   {
+    "nr": 2,
+    "ruw": "Leeuwin, A.E. (Anita) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Leeuwin",
+    "voorletters": "A.E.",
+    "roepnaam": "Anita",
+    "geslacht": "v",
+    "naam": "Anita Leeuwin"
+   },
+   {
+    "nr": 3,
+    "ruw": "Engelberts, B. (Bart) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Engelberts",
+    "voorletters": "B.",
+    "roepnaam": "Bart",
+    "geslacht": "m",
+    "naam": "Bart Engelberts"
+   },
+   {
+    "nr": 4,
+    "ruw": "Lambeck, S.J.A.A. (Sem) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Lambeck",
+    "voorletters": "S.J.A.A.",
+    "roepnaam": "Sem",
+    "geslacht": "m",
+    "naam": "Sem Lambeck"
+   },
+   {
+    "nr": 5,
+    "ruw": "Hanenburg, C.M.A. (Charlotte) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Hanenburg",
+    "voorletters": "C.M.A.",
+    "roepnaam": "Charlotte",
+    "geslacht": "v",
+    "naam": "Charlotte Hanenburg"
+   },
+   {
+    "nr": 6,
+    "ruw": "van Kluijve, R.V. (Rolf) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Kluijve",
+    "voorletters": "R.V.",
+    "roepnaam": "Rolf",
+    "geslacht": "m",
+    "naam": "Rolf van Kluijve"
+   },
+   {
+    "nr": 7,
+    "ruw": "van Beijsterveldt, Y.A.B.M. (Yvonne) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "van Beijsterveldt",
+    "voorletters": "Y.A.B.M.",
+    "roepnaam": "Yvonne",
+    "geslacht": "v",
+    "naam": "Yvonne van Beijsterveldt"
+   },
+   {
+    "nr": 8,
+    "ruw": "Westerveld, A.M. (Annelies) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Westerveld",
+    "voorletters": "A.M.",
+    "roepnaam": "Annelies",
+    "geslacht": "v",
+    "naam": "Annelies Westerveld"
+   },
+   {
+    "nr": 9,
+    "ruw": "Prins, M. (Marrit) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Prins",
+    "voorletters": "M.",
+    "roepnaam": "Marrit",
+    "geslacht": "v",
+    "naam": "Marrit Prins"
+   },
+   {
+    "nr": 10,
+    "ruw": "Stuivenberg, P.P.K. (Karin) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Stuivenberg",
+    "voorletters": "P.P.K.",
+    "roepnaam": "Karin",
+    "geslacht": "v",
+    "naam": "Karin Stuivenberg"
+   },
+   {
+    "nr": 11,
+    "ruw": "Fonhof, M.M. (Maurice) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Fonhof",
+    "voorletters": "M.M.",
+    "roepnaam": "Maurice",
+    "geslacht": "m",
+    "naam": "Maurice Fonhof"
+   },
+   {
+    "nr": 12,
+    "ruw": "van Huisstede, A. (André) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van Huisstede",
+    "voorletters": "A.",
+    "roepnaam": "André",
+    "geslacht": "m",
+    "naam": "André van Huisstede"
+   },
+   {
+    "nr": 13,
+    "ruw": "Simons, S.A.H. (Stefan) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Simons",
+    "voorletters": "S.A.H.",
+    "roepnaam": "Stefan",
+    "geslacht": "m",
+    "naam": "Stefan Simons"
+   },
+   {
+    "nr": 14,
+    "ruw": "Dankers, J.V.G. (John) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Dankers",
+    "voorletters": "J.V.G.",
+    "roepnaam": "John",
+    "geslacht": "m",
+    "naam": "John Dankers"
+   }
+  ],
+  "slug": "fvd"
+ },
+ {
+  "nr": 20,
+  "naam": "BBB",
+  "kandidaten": [
+   {
+    "nr": 1,
+    "ruw": "Visee, S. (Stijn) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Visee",
+    "voorletters": "S.",
+    "roepnaam": "Stijn",
+    "geslacht": "m",
+    "naam": "Stijn Visee"
+   },
+   {
+    "nr": 2,
+    "ruw": "van der Helm, F.A. (Freek) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van der Helm",
+    "voorletters": "F.A.",
+    "roepnaam": "Freek",
+    "geslacht": "m",
+    "naam": "Freek van der Helm"
+   },
+   {
+    "nr": 3,
+    "ruw": "Azar-de Vlieger, H.P. (Ilona) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Azar-de Vlieger",
+    "voorletters": "H.P.",
+    "roepnaam": "Ilona",
+    "geslacht": "v",
+    "naam": "Ilona Azar-de Vlieger"
+   },
+   {
+    "nr": 4,
+    "ruw": "Snijders, J.P.L.J. (Jack) (m)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Snijders",
+    "voorletters": "J.P.L.J.",
+    "roepnaam": "Jack",
+    "geslacht": "m",
+    "naam": "Jack Snijders"
+   },
+   {
+    "nr": 5,
+    "ruw": "Huisman, M.L. (Maurice) (m)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Huisman",
+    "voorletters": "M.L.",
+    "roepnaam": "Maurice",
+    "geslacht": "m",
+    "naam": "Maurice Huisman"
+   },
+   {
+    "nr": 6,
+    "ruw": "Mur, M.J.C. (Marijke) (v)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Mur",
+    "voorletters": "M.J.C.",
+    "roepnaam": "Marijke",
+    "geslacht": "v",
+    "naam": "Marijke Mur"
+   },
+   {
+    "nr": 7,
+    "ruw": "Kastelein-Beaujon, C.H. (Hetty) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "Kastelein-Beaujon",
+    "voorletters": "C.H.",
+    "roepnaam": "Hetty",
+    "geslacht": "v",
+    "naam": "Hetty Kastelein-Beaujon"
+   },
+   {
+    "nr": 8,
+    "ruw": "Wels, A.W. (Astrid) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "Wels",
+    "voorletters": "A.W.",
+    "roepnaam": "Astrid",
+    "geslacht": "v",
+    "naam": "Astrid Wels"
+   },
+   {
+    "nr": 9,
+    "ruw": "van den Berg, L.M.G. (Lydia) (v)",
+    "woonplaats": "Hilversum",
+    "achternaam": "van den Berg",
+    "voorletters": "L.M.G.",
+    "roepnaam": "Lydia",
+    "geslacht": "v",
+    "naam": "Lydia van den Berg"
+   },
+   {
+    "nr": 10,
+    "ruw": "de Groot, E.E.J. (Ineke) (v)",
+    "woonplaats": "Loosdrecht",
+    "achternaam": "de Groot",
+    "voorletters": "E.E.J.",
+    "roepnaam": "Ineke",
+    "geslacht": "v",
+    "naam": "Ineke de Groot"
+   },
+   {
+    "nr": 11,
+    "ruw": "Mur, M.H. (Mijndert) (m)",
+    "woonplaats": "Kortenhoef",
+    "achternaam": "Mur",
+    "voorletters": "M.H.",
+    "roepnaam": "Mijndert",
+    "geslacht": "m",
+    "naam": "Mijndert Mur"
+   }
+  ],
+  "slug": "bbb"
+ }
+]
