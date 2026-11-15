@@ -4,7 +4,8 @@
 
 Wat op de site komt:
   naam, nummer en woonplaats  altijd, uit de bekendmaking van het centraal stembureau (Gemeenteblad 2026, 499712)
-  foto                        alleen als ronde B haar zelf bij deze naam op de bron zag staan
+  foto                        alleen als ronde B haar zelf bij deze naam op de bron zag staan; zonder zo'n foto
+                              de profielfoto van een bevestigd LinkedIn-profiel ("foto_bestand" in de redactie)
   biografie                   de tekst zoals ronde B haar na controle tegen de bron liet staan
   LinkedIn                    alleen als ronde A en ronde B los van elkaar hetzelfde profiel vonden, met bewijs
 
@@ -128,6 +129,18 @@ def main():
                     item["linkedin"] = None
                 else:
                     profielen.setdefault(item["linkedin"], []).append((slug, k["nr"]))
+
+            # Een profielfoto van LinkedIn, alleen als de partij of de gemeente geen foto gaf en het profiel
+            # zelf door de controle is. Het bestand staat in bronnen/_kandidaten/raw/ (niet in de repository).
+            if red.get("foto_bestand") and "_ruw" not in item and red.get("foto", True) is not None:
+                ruw = (RAW / red["foto_bestand"]).resolve()
+                if not item["linkedin"]:
+                    meldingen.append(f"{slug}/{k['nr']}: foto_bestand zonder bevestigd LinkedIn-profiel; niet geplaatst")
+                elif not ruw.is_relative_to(RAW.resolve()) or not ruw.is_file() or ruw.stat().st_size < 500:
+                    meldingen.append(f"{slug}/{k['nr']}: foto_bestand {red['foto_bestand']} niet gevonden in {RAW}; niet geplaatst")
+                else:
+                    fotos.setdefault(hashlib.sha1(ruw.read_bytes()).hexdigest(), []).append((slug, k["nr"], ruw))
+                    item["_ruw"] = ruw
             rij.append(item)
         uit[slug] = rij
 
