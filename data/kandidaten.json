@@ -177,7 +177,7 @@
    "naam": "Stan Poels",
    "woonplaats": "Kortenhoef",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/1.jpg",
    "bio": "Is lijsttrekker van PRO Hilversum. Woont in Kortenhoef en is sinds 2012 actief in de lokale politiek in Wijdemeren; was eerder directeur van de toenmalige Sociale Dienst in Hilversum.",
    "bron": "https://www.hilversumsnieuws.nl/politiek/politiek/378181/stan-poels-lijsttrekker-van-pro-hilversum-bij-gemeenteraadsverkiezingen",
    "linkedin": null
@@ -207,9 +207,9 @@
    "naam": "Paul Hoogendam",
    "woonplaats": "Loosdrecht",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/4.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/paul-hoogendam/",
    "linkedin": null
   },
   {
@@ -227,39 +227,39 @@
    "naam": "Sara Steenkamp",
    "woonplaats": "Hilversum",
    "geslacht": "v",
-   "foto": null,
+   "foto": "pro/6.jpg",
    "bio": null,
-   "bron": null,
-   "linkedin": null
+   "bron": "https://hilversum.progressiefnederland.nl/mens/sara-steenkamp/",
+   "linkedin": "https://www.linkedin.com/in/sara-steenkamp/"
   },
   {
    "nr": 7,
    "naam": "Lucy van der Wal",
    "woonplaats": "'s-Graveland",
    "geslacht": "v",
-   "foto": null,
+   "foto": "pro/7.jpg",
    "bio": null,
-   "bron": null,
-   "linkedin": null
+   "bron": "https://hilversum.progressiefnederland.nl/mens/lucy-van-der-wal/",
+   "linkedin": "https://www.linkedin.com/in/lucy-van-der-wal-223451120/"
   },
   {
    "nr": 8,
    "naam": "Martijn Bakker",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/8.jpg",
    "bio": null,
-   "bron": null,
-   "linkedin": null
+   "bron": "https://hilversum.progressiefnederland.nl/mens/martijn-bakker/",
+   "linkedin": "https://www.linkedin.com/in/mfjbakker/"
   },
   {
    "nr": 9,
    "naam": "Maarten Brouwer",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/9.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/maarten-brouwer/",
    "linkedin": null
   },
   {
@@ -267,9 +267,9 @@
    "naam": "Boudewijn Zwanenburg",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/10.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/boudewijn-zwanenburg/",
    "linkedin": null
   },
   {
@@ -277,9 +277,9 @@
    "naam": "Senna de Niet",
    "woonplaats": "Loosdrecht",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/11.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/senna-de-niet/",
    "linkedin": null
   },
   {
@@ -287,9 +287,9 @@
    "naam": "Iris van Beers",
    "woonplaats": "Hilversum",
    "geslacht": "v",
-   "foto": null,
+   "foto": "pro/12.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/iris-van-beers/",
    "linkedin": null
   },
   {
@@ -307,19 +307,19 @@
    "naam": "Machiel Postma",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/14.jpg",
    "bio": null,
-   "bron": null,
-   "linkedin": null
+   "bron": "https://hilversum.progressiefnederland.nl/mens/machiel-postma/",
+   "linkedin": "https://www.linkedin.com/in/machielpostma/"
   },
   {
    "nr": 15,
    "naam": "Hidde van Schaick",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/15.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/hidde-van-schaick/",
    "linkedin": null
   },
   {
@@ -327,9 +327,9 @@
    "naam": "Pim Astfalck",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "pro/16.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.progressiefnederland.nl/mens/pim/",
    "linkedin": null
   },
   {
@@ -1778,7 +1778,7 @@
    "foto": "lokaal-een/2.jpg",
    "bio": "Is verpleegkundige en rTMS-technician in de geestelijke gezondheidszorg en begeleidt zorgmedewerkers in opleiding.",
    "bron": "https://lokaaleen.nl/kandidaten/",
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/atie-van-de-beek-655b5314b/"
   },
   {
    "nr": 3,
@@ -1838,7 +1838,7 @@
    "foto": "lokaal-een/8.jpg",
    "bio": "Is ondernemer en geboren en getogen in Hilversum.",
    "bron": "https://lokaaleen.nl/kandidaten/",
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/sascha-barnstijn-916381129/"
   },
   {
    "nr": 9,
@@ -3033,19 +3033,19 @@
    "naam": "Anne Mulder",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/2.jpg",
    "bio": null,
-   "bron": null,
-   "linkedin": null
+   "bron": "https://hilversum.partijvoordedieren.nl/personen/anne-mulder",
+   "linkedin": "https://www.linkedin.com/in/annemulder1/"
   },
   {
    "nr": 3,
    "naam": "John Ricker",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/3.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.partijvoordedieren.nl/personen/john-ricker",
    "linkedin": null
   },
   {
@@ -3053,9 +3053,9 @@
    "naam": "Pam de Sterke",
    "woonplaats": "Nederhorst den Berg",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/4.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.partijvoordedieren.nl/personen/pam-de-sterke",
    "linkedin": null
   },
   {
@@ -3063,19 +3063,19 @@
    "naam": "Nynke van Miltenburg",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/5.jpg",
    "bio": null,
-   "bron": null,
-   "linkedin": null
+   "bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten",
+   "linkedin": "https://www.linkedin.com/in/nynke-van-miltenburg-77b9a826/"
   },
   {
    "nr": 6,
    "naam": "Harry Poko van den Berg",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/6.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten",
    "linkedin": null
   },
   {
@@ -3083,9 +3083,9 @@
    "naam": "Amanda Vrakking",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/7.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten",
    "linkedin": null
   },
   {
@@ -3093,9 +3093,9 @@
    "naam": "Yvonne Heselmans",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/8.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten",
    "linkedin": null
   },
   {
@@ -3103,9 +3103,9 @@
    "naam": "André Leliveld",
    "woonplaats": "Hilversum",
    "geslacht": "x",
-   "foto": null,
+   "foto": "pvdd/9.jpg",
    "bio": null,
-   "bron": null,
+   "bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten",
    "linkedin": null
   },
   {
@@ -3180,7 +3180,7 @@
    "foto": "lfd/4.jpg",
    "bio": "Is lijstduwer van LFD en werkt als trainer, coach en actrice, met communicatie als rode draad.",
    "bron": "https://stemlfd.nl/marline-williams/",
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/marline-williams-61a9986/"
   },
   {
    "nr": 5,
@@ -3242,7 +3242,7 @@
    "foto": "volt/5.jpg",
    "bio": "Annette Keates is adviseur en programmamanager met ruim tien jaar ervaring in beleidsterreinen als armoedebestrijding, schuldhulpverlening, arbeidsmarkt en innovatie. Ze zet zich in voor gratis fietsstalling bij het station en meer groen.",
    "bron": "https://voltnederland.org/noord-holland/mensen/annette-keates",
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/annettekeates/"
   },
   {
    "nr": 6,
@@ -3311,10 +3311,10 @@
    "naam": "Rolf van Kluijve",
    "woonplaats": "Hilversum",
    "geslacht": "m",
-   "foto": null,
+   "foto": "fvd/6.jpg",
    "bio": null,
    "bron": null,
-   "linkedin": null
+   "linkedin": "https://www.linkedin.com/in/rolf-van-kluijve-a62b8016/"
   },
   {
    "nr": 7,

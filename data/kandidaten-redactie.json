@@ -213,5 +213,132 @@
  "vvd/33": {
   "foto_bestand": "linkedin/vvd-33.png",
   "reden": "Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon."
+ },
+ "pro/6": {
+  "reden": "De persoonspagina van de partij (hilversum.progressiefnederland.nl/mens/sara-steenkamp/) linkt zelf naar dit profiel (klasse A). Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Sara Steenkamp'; foto Sara_landscape-scaled.jpg op die pagina.",
+  "linkedin": "https://www.linkedin.com/in/sara-steenkamp/",
+  "foto_bestand": "partij/pro-6.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/sara-steenkamp/"
+ },
+ "pro/7": {
+  "reden": "De persoonspagina van de partij (hilversum.progressiefnederland.nl/mens/lucy-van-der-wal/) linkt zelf naar dit profiel (klasse A). Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Lucy van der Wal'; foto Lucy_landscape-scaled.jpg op die pagina.",
+  "linkedin": "https://www.linkedin.com/in/lucy-van-der-wal-223451120/",
+  "foto_bestand": "partij/pro-7.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/lucy-van-der-wal/"
+ },
+ "pro/8": {
+  "reden": "De persoonspagina van de partij (hilversum.progressiefnederland.nl/mens/martijn-bakker/) linkt zelf naar dit profiel (klasse A); het profiel zelf noemt hem kandidaat 8 voor Progressief Hilversum. Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Martijn Bakker'; foto Martijn_landscape-scaled.jpg op die pagina.",
+  "linkedin": "https://www.linkedin.com/in/mfjbakker/",
+  "foto_bestand": "partij/pro-8.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/martijn-bakker/"
+ },
+ "pro/14": {
+  "reden": "De persoonspagina van de partij (hilversum.progressiefnederland.nl/mens/machiel-postma/) linkt zelf naar dit profiel (klasse A); in een eigen bericht noemt hij zich kandidaat 14 voor PRO. Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Machiel Postma'; foto Machiel_landscape op die pagina.",
+  "linkedin": "https://www.linkedin.com/in/machielpostma/",
+  "foto_bestand": "partij/pro-14.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/machiel-postma/"
+ },
+ "pvdd/2": {
+  "reden": "De persoonspagina van de partij (hilversum.partijvoordedieren.nl/personen/anne-mulder) linkt zelf naar dit profiel (klasse A). Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Anne Mulder'; foto Anne-2-hond-boom.jpg op die pagina.",
+  "linkedin": "https://www.linkedin.com/in/annemulder1/",
+  "foto_bestand": "partij/pvdd-2.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/personen/anne-mulder"
+ },
+ "pvdd/5": {
+  "reden": "De persoonspagina van de partij (hilversum.partijvoordedieren.nl/personen/nynke-van-miltenburg) linkt zelf naar dit profiel (klasse A). Foto zelf van de partijsite gehaald: Kaartje 'Nynke van Miltenburg' op de kandidatenpagina; foto 20260609_191345_IH.jpg in dat kaartje.",
+  "linkedin": "https://www.linkedin.com/in/nynke-van-miltenburg-77b9a826/",
+  "foto_bestand": "partij/pvdd-5.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten"
+ },
+ "lokaal-een/2": {
+  "reden": "Zoekresultaat van dit profiel: voorzitter van de commissie Duurzaamheid en Bereikbaarheid en betrokken bij de werkgeverscommissie in Hilversum (klasse B). Profiel zelf bekeken: verpleegkundige; de partij schrijft dat zij verpleegkundige is.",
+  "linkedin": "https://www.linkedin.com/in/atie-van-de-beek-655b5314b/"
+ },
+ "fvd/6": {
+  "reden": "Profiel zelf bekeken: locatie Hilversum, eigen bericht \"FVD doet mee!! 18 november 2026 - Herindelingsverkiezingen Hilversum-Wijdemeren\" (klasse B). Foto: de profielfoto van dit bevestigde LinkedIn-profiel, omdat de partij geen foto gaf; bekeken: portret van één persoon.",
+  "linkedin": "https://www.linkedin.com/in/rolf-van-kluijve-a62b8016/",
+  "foto_bestand": "linkedin/fvd-6.png"
+ },
+ "volt/5": {
+  "reden": "Profiel zelf bekeken: \"Programmamanager Innovatie Metropoolregio Amsterdam\", locatie Hilversum. Naam, plaats en beroep kloppen met wat de partij schrijft: adviseur en programmamanager (klasse C).",
+  "linkedin": "https://www.linkedin.com/in/annettekeates/"
+ },
+ "lfd/4": {
+  "reden": "Profiel zelf bekeken: trainer en coach in communicatie (Amsterdam Talks); de berichten op het profiel gaan over de Libertaire Fractie Durlacher (LFD), lijst 17 in Hilversum en Wijdemeren (klasse B). De partij noemt haar trainer en coach.",
+  "linkedin": "https://www.linkedin.com/in/marline-williams-61a9986/"
+ },
+ "lokaal-een/8": {
+  "reden": "Profiel zelf bekeken: \"Eigenaar Felicitas Hospitality\", locatie Hilversum. Naam, plaats en werk kloppen met wat de partij schrijft: ondernemer in Hilversum (klasse C).",
+  "linkedin": "https://www.linkedin.com/in/sascha-barnstijn-916381129/"
+ },
+ "pro/1": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Stan Poels'; foto Stan_landscape-scaled.jpg op die pagina.",
+  "foto_bestand": "partij/pro-1.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/stan-poels/"
+ },
+ "pro/4": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Paul Hoogendam'; foto Paul_landscape-scaled.jpg op die pagina.",
+  "foto_bestand": "partij/pro-4.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/paul-hoogendam/"
+ },
+ "pro/9": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Maarten Brouwer'; foto Maarten_landscape-scaled.jpg op die pagina.",
+  "foto_bestand": "partij/pro-9.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/maarten-brouwer/"
+ },
+ "pro/10": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Boudewijn Zwanenburg'; foto Boudewijn_landscape-scaled.jpg op die pagina.",
+  "foto_bestand": "partij/pro-10.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/boudewijn-zwanenburg/"
+ },
+ "pro/11": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Senna de Niet'; foto Senna_landscape op die pagina.",
+  "foto_bestand": "partij/pro-11.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/senna-de-niet/"
+ },
+ "pro/12": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Iris van Beers'; foto Iris_landscape op die pagina.",
+  "foto_bestand": "partij/pro-12.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/iris-van-beers/"
+ },
+ "pro/15": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Hidde van Schaick'; foto Hidde_landscape op die pagina.",
+  "foto_bestand": "partij/pro-15.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/hidde-van-schaick/"
+ },
+ "pro/16": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Pim Astfalck'; foto Pim_landscape op die pagina.",
+  "foto_bestand": "partij/pro-16.png",
+  "foto_bron": "https://hilversum.progressiefnederland.nl/mens/pim/"
+ },
+ "pvdd/3": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'John Ricker'; foto 20260623_194053_IH.jpg op die pagina.",
+  "foto_bestand": "partij/pvdd-3.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/personen/john-ricker"
+ },
+ "pvdd/4": {
+  "reden": "Foto zelf van de partijsite gehaald: Persoonspagina met kop 'Pam de Sterke'; foto 20260609_182537_IH.jpg op die pagina.",
+  "foto_bestand": "partij/pvdd-4.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/personen/pam-de-sterke"
+ },
+ "pvdd/6": {
+  "reden": "Foto zelf van de partijsite gehaald: Kaartje 'Harry Poko van den Berg' op de kandidatenpagina; foto 20260609_190207_IH-2.jpg in dat kaartje.",
+  "foto_bestand": "partij/pvdd-6.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten"
+ },
+ "pvdd/7": {
+  "reden": "Foto zelf van de partijsite gehaald: Kaartje 'Amanda Vrakking' op de kandidatenpagina; foto 20260609_192327_IH.jpg in dat kaartje.",
+  "foto_bestand": "partij/pvdd-7.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten"
+ },
+ "pvdd/8": {
+  "reden": "Foto zelf van de partijsite gehaald: Kaartje 'Yvonne Heselmans' op de kandidatenpagina; foto 20260623_195953_IH.jpg in dat kaartje.",
+  "foto_bestand": "partij/pvdd-8.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten"
+ },
+ "pvdd/9": {
+  "reden": "Foto zelf van de partijsite gehaald: Kaartje 'André Leliveld' op de kandidatenpagina; foto 20260609_190631_IH.jpg in dat kaartje.",
+  "foto_bestand": "partij/pvdd-9.png",
+  "foto_bron": "https://hilversum.partijvoordedieren.nl/onze-mensen/kandidaten"
  }
 }
