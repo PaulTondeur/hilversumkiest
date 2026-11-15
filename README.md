@@ -1,8 +1,16 @@
 # Hilversum kiest
 
-Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum + Wijdemeren). Statische site zonder backend: bouwen kan met alleen Node. Voor de kaart en de kandidaten zijn er Python-scripts (met `uv`), en three.js staat in de repository zelf.
+De code en de gegevens achter **[hilversumkiest.nl](https://hilversumkiest.nl)**: een onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van woensdag 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum en Wijdemeren samen).
 
-Live op https://hilversumkiest.nl. Wil je hetzelfde voor een andere verkiezing: de volledige opdracht staat in `data/prompt.md` en op de pagina Zelf maken van de site, en verwijst naar deze repository als voorbeeld.
+Wat er op de site staat:
+
+- **Stemwijzer.** Je kiest zelf welke partijen en thema's meedoen en krijgt alleen stellingen waarop juist die partijen verschillen. Bij elk standpunt staan de nuance en de bron.
+- **Partijen.** Alle twintig, met logo, speerpunten, standpunten en alle 347 kandidaten.
+- **Vergelijken.** Een kaart van welke partijen inhoudelijk dicht bij elkaar staan; tik er twee tot zes aan en leg ze naast elkaar.
+- **Stembureauvinder.** Een 3D-kaart van de hele gemeente met alle zestig stembureaus.
+- **Verantwoording.** Hoe alles gemaakt is, en de uitkomst van de eerlijkheidstoets.
+
+Het is een statische site zonder server. Bouwen kan met alleen Node; voor de kaart en de kandidaten zijn er Python-scripts (met `uv`).
 
 ## Bouwen en bekijken
 
@@ -14,81 +22,78 @@ node build.mjs
 python3 -m http.server 4173 --directory dist
 ```
 
-Voor een adres met een submap (bijvoorbeeld `gebruiker.github.io/hilversumkiest/`): `BASIS=/hilversumkiest/ node build.mjs`. Met een eigen domein: `DOMEIN=hilversumkiest.nl node build.mjs` (schrijft ook `CNAME`). De workflow in `.github/workflows/pages.yml` doet dit vanzelf bij een push naar `main`.
+Een push naar `main` bouwt en publiceert de site via `.github/workflows/pages.yml`. Voor een eigen domein zet je de repository-variabele `DOMEIN`; zonder domein komt de site op het adres van de repository te staan.
 
-## Hoe de inhoud tot stand komt
+## Zelf maken voor een andere verkiezing
+
+De volledige opdracht om dit met een AI-assistent na te bouwen staat in [`data/prompt.md`](data/prompt.md) en op de pagina Zelf maken van de site. Ze verwijst naar deze repository als voorbeeld. De code, de opdrachten aan de hulpagenten en de werkwijze kun je hergebruiken; de stellingen, standpunten en gegevens over kandidaten gelden alleen voor deze verkiezing.
+
+## Hoe de standpunten tot stand komen
 
 | Stap | Waar | Wat |
 |---|---|---|
-| Bronnen | `bronnen/<lijst>/` | Programma (origineel en tekst), eigen antwoorden in andere stemhulpen, digest met citaten |
-| Stemgedrag | `bronnen/_stemgedrag/` | 120 geverifieerde raadsstemmingen 2022–2026, fractiegeschiedenis |
-| Verkiezing | `bronnen/_verkiezing/` | Praktische informatie en 60 stembureaus met coördinaten |
-| Stellingen | `werk/themas/<thema>/kandidaten.json` → `tools/maak_basis.mjs` → `data/stellingen-basis.json` | Kandidaten per thema, eindselectie |
-| Ronde 1 | `werk/codering/A/<lijst>.json` | Per lijst: heel programma gelezen, positie op elke stelling |
-| Ronde 2 | `werk/codering/B/per-stelling.json` | Per thema: alle lijsten naast elkaar |
-| Ronde 3 | `werk/codering/C/<lijst>.json` | Beslechting van verschillen, terug naar de bron |
-| Ronde 4 | `werk/audit/*.json` | Consistentie per stelling over alle lijsten |
-| Feitencheck | `werk/feitencheck/*.json` | Uitlegteksten gecontroleerd tegen officiële en lokale bronnen |
-| Eindredactie | `data/redactie.json` | Geschrapte en geherformuleerde stellingen, met reden |
+| Bronnen | `bronnen/<partij>/` | Het programma, eigen antwoorden in andere stemhulpen en een overzicht met citaten |
+| Stemgedrag | `bronnen/_stemgedrag/` | 120 nagelopen raadsstemmingen uit 2022 tot 2026 |
+| Verkiezing | `bronnen/_verkiezing/` | Praktische informatie, de stembureaus en de officiële kandidatenlijsten |
+| Stellingen | `werk/themas/` → `tools/maak_basis.mjs` → `data/stellingen-basis.json` | Mogelijke stellingen per thema en de eindselectie |
+| Ronde 1 | `werk/codering/A/` | Per partij het hele programma gelezen, een positie op elke stelling |
+| Ronde 2 | `werk/codering/B/` | Per thema alle partijen naast elkaar |
+| Ronde 3 | `werk/codering/C/` | Verschillen tussen ronde 1 en 2 beslecht, terug naar de bron |
+| Ronde 4 | `werk/audit/` | Per stelling nagegaan of gelijke standpunten gelijk scoren |
+| Feitencheck | `werk/feitencheck/` | De uitleg bij elke stelling gecontroleerd tegen officiële en lokale bronnen |
+| Eindredactie | `data/redactie.json` | Geschrapte en herschreven stellingen, met reden |
 | Samenvoegen | `node tools/voeg_samen.mjs` → `data/stellingen.json` | Alle rondes tot één bestand |
-| Toets | `node tools/toets.mjs` → `data/toets.json` | Eerlijkheidstoets; uitkomst staat op de verantwoordingspagina |
+| Toets | `node tools/toets.mjs` → `data/toets.json` | De eerlijkheidstoets |
 
-## De stembureaukaart
-
-De kaart op de pagina Stemmen is een 3D-kaart van de hele gemeente, getekend in de browser (`src/assets/js/kaart3d.js`, met three.js in `src/assets/vendor/`). Ze staat op de site zelf: er worden geen kaartbeelden bij anderen opgehaald. De opzet is afgekeken van [isometric-helenaveen](https://github.com/jankeesvw/isometric-helenaveen) van @jankeesvw: dezelfde open gegevens, maar hier niet vooraf tot plaatjes gerenderd, zodat je kunt draaien en naar een platte kaart kunt wisselen.
-
-| Stap | Waar | Wat |
-|---|---|---|
-| Ophalen | `uv run tools/kaart/haal.py` → `bronnen/_kaart/raw/` | Gebouwen uit 3D BAG per vierkant van 500 m, de ondergrond uit het OpenStreetMap-uittreksel van Noord-Holland (Geofabrik). Gemeentegrenzen van PDOK staan in `bronnen/_kaart/g_*.json` |
-| Bouwen | `uv run tools/kaart/bouw.py` → `src/assets/kaart/` | Drie detailniveaus (zie hieronder) en de koppeling van elk stembureau aan zijn gebouw via het BAG-adres (`bronnen/_kaart/adressen.json`) |
-
-De kaart laadt naar behoefte, afhankelijk van hoe ver je bent ingezoomd:
-
-- `basis.bin.gz` (ongeveer 600 kB, altijd): de hele gemeente sterk vereenvoudigd, de hoofdwegen, de plaatsnamen, de grootste gebouwen als blok en de stembureaus met hun echte dakvorm. Helemaal uitgezoomd staan alleen de stembureaus in 3D, groter dan ze zijn, met een rood potlood erop.
-- `m/` (191 blokken van 1 km, samen 4 MB): grond en wegen in detail, straatnamen en elk gebouw als blok. De browser trekt de muren zelf op uit het grondvlak en de hoogte.
-- `h/` (373 blokken van 500 m, samen 18 MB): elk gebouw met zijn dakvorm (3D BAG LoD2.2).
-
-Alleen blokken die in beeld zijn worden opgehaald; wat lang uit beeld is, wordt weggegooid. De drempels staan bovenaan `kaart3d.js`. Met `/stemmen/?kaartmeet` is de kaart in de console te sturen en na te meten (`await kaart.meet({ mpp: 1 })`).
-
-Gebouwen: 3D BAG, TU Delft en 3DGI, CC BY 4.0. Ondergrond: © OpenStreetMap-bijdragers, ODbL. Grenzen en adressen: PDOK (Kadaster), CC0 en CC BY 4.0.
-
-De kaart heeft schaduwen (een dieptebeeld vanuit de zon), ramen en dakkleuren in de tekenwijze van de gebouwen, bomen (het bos gevuld op een rooster, plus de losse bomen uit OpenStreetMap) en wat beweegt: treinen over het spoor, zeilboten op de plassen, herten op de hei en eenden in de vijvers. De trein, de zeilboot, het hert en de eend zijn vrije 3D-modellen (Quaternius, CC0; de eend van Poly by Google, CC BY 3.0); herkomst en licenties staan in `bronnen/_kaart/modellen/LICENTIES.md`. `uv run tools/kaart/modellen.py` zet ze om naar `src/assets/kaart/modellen.bin.gz`; de trein krijgt daarbij de kleuren van een NS-intercity en een NS-sprinter.
-
-## Kandidaten en logo's
-
-| Stap | Waar | Wat |
-|---|---|---|
-| Officiële lijsten | `bronnen/_verkiezing/kandidaten.json` | Alle 347 kandidaten uit Gemeenteblad 2026, 499712 |
-| Ronde A | opdracht `werk/briefs/kandidaten.md` | Per lijst foto, beschrijving en LinkedIn zoeken, elk met bewijs |
-| Ronde B | opdracht `werk/briefs/kandidaten-controle.md` | Onafhankelijke controle op de bron; alleen wat B zelf zag, komt op de site |
-| Eindredactie | `data/kandidaten-redactie.json` | Besluiten over twijfelgevallen, elk met reden |
-| Samenvoegen | `python3 -I tools/maak_kandidaten.py` → `data/kandidaten.json`, `src/assets/kandidaten/` | Voegt samen, haalt foto's op en verkleint ze, en weigert dezelfde foto of hetzelfde profiel bij twee mensen |
-| Logo's | `data/logos.json`, `src/assets/logos/` | Van de site van de lijst, of van Wikimedia Commons |
-
-De werkbestanden van beide rondes (`werk/kandidaten/A` en `B`) staan niet in de repository: het zijn aantekeningen over personen.
-
-De opdrachten die de agents kregen staan in `werk/briefs/`. De rekenkern (`src/engine.mjs`) wordt zowel door de browser als door de toets gebruikt.
-
-Na een wijziging in posities of stellingen:
+De letterlijke opdrachten aan de hulpagenten staan in `werk/briefs/`. De rekenkern (`src/engine.mjs`) wordt door de browser en door de toets gebruikt. Na een wijziging in standpunten of stellingen:
 
 ```bash
 node tools/voeg_samen.mjs && node tools/toets.mjs --stil && node build.mjs
 ```
 
-Citaten controleren: `python3 -I werk/tools/check_citaten.py <lijst> <bestand.json>`.
+## Kandidaten en logo's
 
-## Wat niet in de repository hoort
+| Stap | Waar | Wat |
+|---|---|---|
+| Officiële lijsten | `bronnen/_verkiezing/kandidaten.json` | Alle kandidaten uit Gemeenteblad 2026, nr. 499712 |
+| Ronde A | `werk/briefs/kandidaten.md` | Per partij foto, beschrijving en LinkedIn zoeken, elk met bewijs |
+| Ronde B | `werk/briefs/kandidaten-controle.md` | Onafhankelijke controle op de bron; alleen wat hier bevestigd is, komt op de site |
+| Eindredactie | `data/kandidaten-redactie.json` | Besluiten over twijfelgevallen, met reden |
+| Samenvoegen | `python3 -I tools/maak_kandidaten.py` → `data/kandidaten.json` | Voegt samen, verkleint de foto's en weigert dezelfde foto of hetzelfde profiel bij twee mensen |
+| Logo's | `data/logos.json`, `src/assets/logos/` | Van de site van de partij, of van Wikimedia Commons |
 
-De gedownloade programma's en volledige teksten (`bronnen/*/origineel/`, `programma.txt`, `extra-*.txt`) staan in `.gitignore`: het zijn stukken van de partijen zelf. Ook de ruwe kaartgegevens (`bronnen/_kaart/raw/`, ruim 400 MB) staan erin; `tools/kaart/haal.py` haalt ze opnieuw op. De gebouwde kaartlagen in `src/assets/kaart/` (23 MB) horen wel in de repository, want de site wordt daaruit gebouwd. Zonder die bestanden werkt `node build.mjs` nog wel, maar `tools/voeg_samen.mjs` en de citaatcontrole niet volledig.
+Een foto, beschrijving of LinkedIn-link staat er alleen bij als die zeker bij de persoon hoort. Is er geen foto, dan toont de site een getekend figuurtje.
 
-## Voor publicatie nalopen
+## De stembureauvinder
 
-- Foto's van kandidaten en logo's zijn van de lijsten zelf. Ze staan hier om kiezers te informeren; haal een foto weg als een lijst of kandidaat daarom vraagt.
-- LinkedIn-profielen staan er bijna alleen bij lijsten die er zelf naar linken (56 van de 347 kandidaten). Voor de rest is niet uitputtend gezocht.
-- De video op de voorpagina is nog een lege plek: zet het adres van het bestand in `data/site.json` onder `video`.
+De kaart wordt in de browser getekend (`src/assets/js/kaart3d.js`, met three.js) en staat op de site zelf: er worden geen kaartbeelden bij anderen opgehaald. De opzet is afgekeken van [isometric-helenaveen](https://github.com/jankeesvw/isometric-helenaveen) van @jankeesvw, met dezelfde open gegevens, maar hier niet vooraf tot plaatjes gemaakt, zodat je kunt draaien en naar een platte kaart kunt wisselen.
 
-- De posities zijn niet door de lijsten bevestigd. Lees een steekproef na, vooral bij de lijsten die je zelf overweegt.
-- Er staat geen naam of contactadres op de site. Beslis of je dat wilt, en waar lijsten correcties kunnen melden.
-- De partijkleuren zijn benaderingen, geen officiële huisstijlkleuren.
-- De kaart van de stembureaus staat op de site zelf. De knop "waar ben ik" vraagt de browser om je plek en stuurt die nergens heen.
-- Stembureaus zijn via hun adres aan een gebouw gekoppeld. Bij vier adressen die de BAG niet kent (Pinetum Blijdenstein, Campus Zonnestraal, de stationshal en zwembad De Lieberg) is het dichtstbijzijnde gebouw bij het eerder gevonden punt genomen. Loop die vier na op de kaart.
+| Stap | Opdracht | Wat |
+|---|---|---|
+| Ophalen | `uv run tools/kaart/haal.py` | Gebouwen uit 3D BAG en de ondergrond uit OpenStreetMap, naar `bronnen/_kaart/raw/` |
+| Bouwen | `uv run tools/kaart/bouw.py` | De kaartlagen in `src/assets/kaart/`, en elk stembureau gekoppeld aan zijn gebouw |
+| Modellen | `uv run tools/kaart/modellen.py` | De 3D-modellen van trein, zeilboot, hert en eend omgezet naar het kaartformaat |
+
+De kaart laadt in lagen, afhankelijk van hoe ver je bent ingezoomd, en alleen wat in beeld is:
+
+- `basis.bin.gz` (ongeveer 600 kB, altijd): de hele gemeente vereenvoudigd, met hoofdwegen, plaatsnamen en de stembureaus als rood gebouw.
+- `m/` (blokken van 1 km, samen 5 MB): grond en wegen in detail, straatnamen, bomen en elk gebouw als blok.
+- `h/` (blokken van 500 m, samen 18 MB): elk gebouw met zijn dakvorm.
+
+Verder: schaduwen, ramen, treinen die over doorgaande routes rijden en op de stations stoppen, zeilboten op de plassen, herten op de hei en eenden in de vijvers. Met `/stembureauvinder/?kaartmeet` is de kaart vanuit de console te sturen en na te meten.
+
+## Wat wel en niet in de repository staat
+
+De gedownloade programma's en volledige teksten van partijen (`bronnen/*/origineel/`, `programma.txt`, `extra-*.txt`) staan er niet in: het zijn stukken van de partijen zelf. De site gebruikt alleen korte citaten met bron. Ook de ruwe kaartgegevens (`bronnen/_kaart/raw/`) en de aantekeningen over personen uit het zoekwerk naar kandidaten (`werk/kandidaten/A` en `B`) ontbreken. De gebouwde kaartlagen staan er wel in, want de site wordt daaruit gebouwd.
+
+## Bronnen en licenties van de gegevens
+
+- Gebouwen: 3D BAG, TU Delft en 3DGI, CC BY 4.0.
+- Ondergrond: © OpenStreetMap-bijdragers, ODbL.
+- Grenzen en adressen: PDOK (Kadaster).
+- 3D-modellen: Quaternius (CC0) en Poly by Google (CC BY 3.0); zie `bronnen/_kaart/modellen/LICENTIES.md`.
+- Logo's en portretten zijn van de partijen en de kandidaten zelf. Ze staan hier om kiezers te informeren.
+
+## Maker
+
+Gemaakt door [Paul Tondeur](https://www.linkedin.com/in/paultondeur/), inwoner van Hilversum. Zie je iets wat niet klopt, meld het dan via de [issues](https://github.com/PaulTondeur/hilversumkiest/issues).
