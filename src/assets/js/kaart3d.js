@@ -539,13 +539,37 @@ export async function maakKaart(vak, { opKies = () => {} } = {}) {
   const ding = (net) => { const m = werpt(new THREE.Mesh(net, matDoos)); m.frustumCulled = false; m.renderOrder = 31; m.visible = false; scene.add(m); return m; };
   const zet = (m, x, z, hoek, schaal, smal = 1) => { m.position.set(x, 0, z); m.rotation.y = hoek; m.scale.set(schaal, schaal, schaal * smal); };
 
-  // Treinen: een intercity van zes bakken en een sprinter van drie, met een kop voor en achter.
+  // Treinen: een intercity van zes bakken en een sprinter van drie, met een kop voor en achter. De sprinter stopt
+  // op elk station langs zijn baan, de intercity alleen op Hilversum.
   const spoor = leven.spoor.map((b) => baan(b));
+  for (const b of spoor) {
+    // Welke stations liggen aan deze baan, en op welke afstand vanaf het begin?
+    b.stations = [];
+    for (const [sx, sy, naam] of leven.stations || []) {
+      const [x, z] = wereld([sx, sy]);
+      let best = Infinity, waar = 0;
+      for (let i = 1; i < b.p.length; i++) {
+        const ax = b.p[i - 1][0], az = b.p[i - 1][1], dx = b.p[i][0] - ax, dz = b.p[i][1] - az, l2 = dx * dx + dz * dz || 1;
+        const t = Math.min(Math.max(((x - ax) * dx + (z - az) * dz) / l2, 0), 1), d = Math.hypot(x - ax - dx * t, z - az - dz * t);
+        if (d < best) { best = d; waar = b.s[i - 1] + Math.sqrt(l2) * t; }
+      }
+      if (best < 90) b.stations.push({ naam, waar });
+    }
+  }
   const bakken = {
     intercity: { kop: vorm('intercity-kop', VORMEN.intercity), wagen: vorm('intercity-wagen', VORMEN.intercity), aantal: 6, maat: 1 },
     sprinter: { kop: vorm('sprinter-kop', VORMEN.sprinter), wagen: vorm('sprinter-wagen', VORMEN.sprinter), aantal: 3, maat: 0.74 },
   };
   const treinen = spoor.length ? [0.4, 2.5, 6, 11].map((wacht, i) => ({ netten: [], wacht, rijdt: false, eerste: true, soort: i % 2 ? 'sprinter' : 'intercity' })) : [];
+  // Een trein op een baan zetten: `afstand` is hoe ver de voorkant al is, gemeten in de rijrichting.
+  function vertrek(t, b, heen, afstand) {
+    t.soort = t.soort === 'sprinter' ? 'intercity' : 'sprinter';
+    t.baan = b; t.heen = heen; t.afstand = afstand; t.snelheid = 0; t.halte = 0; t.gestopt = new Set(); t.rijdt = true; t.eerste = false;
+    for (const m of t.netten) scene.remove(m);
+    const soort = bakken[t.soort];
+    t.netten = Array.from({ length: soort.aantal }, (_, i) => ding((i === 0 || i === soort.aantal - 1 ? soort.kop : soort.wagen).net));
+  }
+  let gekeken = 0, beurt = 0;
   const bootVorm = vorm('zeilboot', () => VORMEN.boot('#f4f4f1'));
   const boten = leven.boten.map((b, i) => ({ baan: baan(b, true), afstand: i * 137, net: ding(bootVorm.net) }));
   const hertVormen = [vorm('hert', VORMEN.hert)], eendVorm = vorm('eend', VORMEN.eend);
@@ -561,24 +585,33 @@ export async function maakKaart(vak, { opKies = () => {} } = {}) {
   function stapLeven(nu) {
     const dt = Math.min(Math.max((nu - vorige) / 1000, 0), 0.1), mpp = stand.mpp;
     vorige = nu;
-    // Van ver groter dan echt, net als de stembureaus: anders zie je ze niet rijden of varen.
-    const groot = Math.min(Math.max(mpp / 1.6, 1.25), 8);
+    // Van ver zijn trein en boot veel groter dan echt, zodat je ze ziet rijden en varen; hoe verder je inzoomt,
+    // hoe dichter ze bij hun ware grootte komen. Ze gaan ook harder naarmate ze groter zijn, anders lijken ze stil te staan.
+    const groot = Math.min(Math.max(1.5 * mpp, 1), 30), tempo = Math.pow(groot, 0.8);
+    let inBeeld_ = 0;
     for (const t of treinen) {
       if (!t.rijdt) {
         t.wacht -= dt;
         if (t.wacht > 0 || rustig) continue;
-        t.soort = t.soort === 'sprinter' ? 'intercity' : 'sprinter';
-        t.baan = spoor[Math.floor(Math.random() * spoor.length)];
-        t.heen = Math.random() < 0.5;
-        // De allereerste keer staat de trein al ergens onderweg, zodat er meteen iets rijdt.
-        t.afstand = t.eerste ? Math.random() * t.baan.lengte * 0.7 : 0;
-        t.eerste = false; t.rijdt = true;
-        for (const m of t.netten) scene.remove(m);
-        const b = bakken[t.soort];
-        t.netten = Array.from({ length: b.aantal }, (_, i) => ding((i === 0 || i === b.aantal - 1 ? b.kop : b.wagen).net));
+        // Een nieuwe trein komt aan het begin van een baan binnenrijden; alleen de allereerste staat al onderweg.
+        const b = spoor[Math.floor(Math.random() * spoor.length)];
+        vertrek(t, b, Math.random() < 0.5, t.eerste ? Math.random() * b.lengte * 0.7 : 0);
       }
-      const b = bakken[t.soort], schaal = b.maat * groot, stap = ((b.wagen.lengte || 26) * b.maat + 0.5) * groot;
-      t.afstand += 30 * dt;
+      const soort = bakken[t.soort], schaal = soort.maat * groot, stap = ((soort.wagen.lengte || 26) * soort.maat + 0.5) * groot, lang = stap * soort.aantal;
+      // De volgende halte: het midden van de trein komt bij het station tot stilstand.
+      let rem = Infinity;
+      for (const st of t.baan.stations) {
+        if (t.gestopt.has(st.naam) || (t.soort === 'intercity' && st.naam !== 'Hilversum')) continue;
+        const tot = (t.heen ? st.waar : t.baan.lengte - st.waar) + lang / 2 - t.afstand;
+        if (tot > -1 && tot < rem) { rem = tot; t.volgende = st.naam; }
+      }
+      if (t.halte > 0) {
+        t.halte -= dt; t.snelheid = 0;
+      } else {
+        const top = 30 * tempo, doel = Math.min(top, Math.sqrt(2 * 1.1 * tempo * Math.max(rem, 0)) + 0.4 * tempo);
+        t.snelheid = Math.min(doel, t.snelheid + 1.4 * tempo * dt);
+        if (rem < t.snelheid * dt + 0.6 * tempo) { t.afstand += Math.max(rem, 0); t.gestopt.add(t.volgende); t.halte = 5; t.snelheid = 0; } else t.afstand += t.snelheid * dt;
+      }
       let ergens = false;
       t.netten.forEach((bak, i) => {
         const a = t.afstand - i * stap, op = a > 0 && a < t.baan.lengte;
@@ -587,13 +620,34 @@ export async function maakKaart(vak, { opKies = () => {} } = {}) {
         if (!op) return;
         opBaan(t.baan, t.heen ? a : t.baan.lengte - a, pl);
         // De neus wijst in de rijrichting; de laatste bak staat andersom.
-        zet(bak, pl.x, pl.z, pl.hoek + (t.heen ? 0 : Math.PI) + (i === b.aantal - 1 ? Math.PI : 0), schaal, 0.72);
+        zet(bak, pl.x, pl.z, pl.hoek + (t.heen ? 0 : Math.PI) + (i === soort.aantal - 1 ? Math.PI : 0), schaal, mpp > 1.5 ? 1 : 0.72);
+        const sch = opScherm(pl.x, 0, pl.z);
+        if (sch.x > -20 && sch.x < breed + 20 && sch.y > -20 && sch.y < hoog + 20) inBeeld_++;
       });
-      if (!ergens) { t.rijdt = false; t.wacht = 5 + Math.random() * 18; }
+      if (!ergens) { t.rijdt = false; t.wacht = 4 + Math.random() * 12; }
     }
-    const bootMaat = Math.min(Math.max(mpp / 1.1, 2.4), 13);
+    // Is er spoor in beeld maar geen trein? Dan komt er een aan de rand van het beeld binnenrijden.
+    if (!inBeeld_ && !rustig && treinen.length && nu - gekeken > 900) {
+      gekeken = nu;
+      let keuze = null;
+      for (const b of spoor) {
+        let eerste = -1, laatste = -1;
+        for (let a = 0; a <= b.lengte; a += Math.max(b.lengte / 120, 40)) {
+          opBaan(b, a, pl);
+          const sch = opScherm(pl.x, 0, pl.z);
+          if (sch.x > 0 && sch.x < breed && sch.y > 0 && sch.y < hoog) { if (eerste < 0) eerste = a; laatste = a; }
+        }
+        if (eerste >= 0 && (!keuze || laatste - eerste > keuze.laatste - keuze.eerste)) keuze = { b, eerste, laatste };
+      }
+      if (keuze) {
+        const heen = Math.random() < 0.5, t = treinen[beurt++ % treinen.length];
+        vertrek(t, keuze.b, heen, Math.max(heen ? keuze.eerste : keuze.b.lengte - keuze.laatste, 0));
+        t.snelheid = 30 * tempo;
+      }
+    }
+    const bootMaat = Math.min(Math.max(2.4 * mpp, 1.6), 46), vaart = 2.8 * Math.pow(bootMaat, 0.8);
     for (const b of boten) {
-      b.afstand = (b.afstand + 2.8 * dt) % b.baan.lengte;
+      b.afstand = (b.afstand + vaart * dt) % b.baan.lengte;
       opBaan(b.baan, b.afstand, pl);
       b.net.visible = true;
       zet(b.net, pl.x, pl.z, pl.hoek, bootMaat);
@@ -1099,6 +1153,17 @@ export async function maakKaart(vak, { opKies = () => {} } = {}) {
     filter(zichtbaar) { for (const p of plekken) p.zicht = p.nrs.some((n) => zichtbaar.has(n)); if (gekozen && !gekozen.zicht) kies(null); vraagBeeld(); },
     toon(nr) { const p = plekken.find((q) => q.nrs.includes(nr)); if (p) kies(p); return !!p; },
     sluit() { kies(null); },
+    // Voor het nameten: de treinen en boten een aantal seconden vooruitspoelen en per seconde de rit teruggeven.
+    spoel(seconden) {
+      const log = [];
+      for (let i = 0; i < seconden * 10; i++) {
+        const t = performance.now();
+        vorige = t - 100; stapLeven(t);
+        if (i % 10 === 9) log.push(treinen.map((x) => (x.rijdt ? `${x.soort[0]} ${Math.round(x.afstand)} v${Math.round(x.snelheid)} h${x.halte > 0 ? x.halte.toFixed(0) : '-'} ${[...x.gestopt].join('+')}` : '-')).join(' | '));
+      }
+      vraagBeeld();
+      return log;
+    },
     // Voor het nameten (stemmen/?kaartmeet): een stand zetten, wachten tot alles geladen is en beelden tekenen.
     async meet(doel, beelden = 20) {
       Object.assign(stand, doel); vlucht = null;
@@ -1107,7 +1172,7 @@ export async function maakKaart(vak, { opKies = () => {} } = {}) {
       for (let i = 0; i < beelden; i++) { teken(performance.now()); gl.finish(); }
       const info = renderer.info;
       const waar = (m) => (m ? [Math.round(m.position.x), Math.round(m.position.z)] : null);
-      return { trein: waar(treinen.flatMap((t) => t.netten).find((m) => m.visible)), boot: waar(boten[0]?.net), hert: waar(herten[0]?.net), eend: waar(eenden[0]?.net), treinen: treinen.filter((t) => t.rijdt).length, bakken: treinen.reduce((n, t) => n + t.netten.filter((m) => m.visible).length, 0), boten: boten.length, herten: herten.length, eenden: eenden.length, modellen: !!modellen, msPerBeeld: +((performance.now() - start) / beelden).toFixed(1), mpp: +stand.mpp.toFixed(2), blokkenM: blokM.size, blokkenH: blokH.size, driehoeken: info.render.triangles, netten: info.memory.geometries };
+      return { rit: treinen.map((t) => (t.rijdt ? [t.soort, Math.round(t.afstand), Math.round(t.snelheid), +t.halte.toFixed(1), [...t.gestopt].join('+')] : null)), trein: waar(treinen.flatMap((t) => t.netten).find((m) => m.visible)), boot: waar(boten[0]?.net), hert: waar(herten[0]?.net), eend: waar(eenden[0]?.net), treinen: treinen.filter((t) => t.rijdt).length, bakken: treinen.reduce((n, t) => n + t.netten.filter((m) => m.visible).length, 0), boten: boten.length, herten: herten.length, eenden: eenden.length, modellen: !!modellen, msPerBeeld: +((performance.now() - start) / beelden).toFixed(1), mpp: +stand.mpp.toFixed(2), blokkenM: blokM.size, blokkenH: blokH.size, driehoeken: info.render.triangles, netten: info.memory.geometries };
     },
     // Een punt in rijksdriehoekscoordinaten tonen (de eigen plek van de bezoeker).
     hier(rdx, rdy) {

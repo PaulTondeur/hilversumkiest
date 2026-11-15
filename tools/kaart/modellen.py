@@ -47,8 +47,8 @@ AANTAL = {"SCALAR": 1, "VEC2": 2, "VEC3": 3, "VEC4": 4, "MAT4": 16}
 
 # De kleuren van de NS, per materiaalnaam in het treinmodel.
 # Het model is voor twee vijfde 'Black' (dak en onderkant); dat wordt hier lichtgrijs, anders valt de trein weg.
-INTERCITY = {"White": "#ffc917", "Grey": "#ffc917", "Blue": "#003082", "DarkBlue": "#0b2a66", "Black": "#c9cdd3"}
-SPRINTER = {"White": "#f4f4f1", "Grey": "#f4f4f1", "Blue": "#ffc917", "DarkBlue": "#003082", "Black": "#c9cdd3"}
+INTERCITY = {"White": "#ffc917", "Blue": "#ffc917", "Grey": "#003082", "DarkBlue": "#0b2a66", "Black": "#c9cdd3"}
+SPRINTER = {"White": "#f4f4f1", "Blue": "#003082", "Grey": "#ffc917", "DarkBlue": "#0b2a66", "Black": "#c9cdd3"}
 BOOT = {"Sail": "#ffffff", "LightWood": "#c08a54", "DarkWood": "#f4f4f1", "Steel": "#9aa3ad"}
 
 

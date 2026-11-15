@@ -478,7 +478,59 @@ def pak_bomen(bos, losse, vrij_van, x0, y0, zaad):
     return {"tP": np.round((p[:, :2] - (x0, y0)) * 10).astype(np.int16).ravel(), "tG": np.round(p[:, 2] * 2).astype(np.uint8)}
 
 
-def pak_leven(vlakken, wegen, gebied):
+def spoorroutes(wegen, rand):
+    """Doorgaande routes over het spoor, van de ene rand van de kaart naar de andere. De sporen zijn in
+    OpenStreetMap bij elke wissel geknipt, dus een trein die alleen losse stukken volgt, komt nooit door een station:
+    hier zoeken we in het net van alle stukken de kortste weg tussen de punten waar het spoor de kaart verlaat."""
+    import heapq
+
+    net = unary_union([l for k, l, _ in wegen if k == SPOOR])
+    kanten = lijnen(net)
+    knoop = lambda c: (round(c[0] * 2) / 2, round(c[1] * 2) / 2)  # noqa: E731
+    buren = defaultdict(list)
+    for i, lijn in enumerate(kanten):
+        a, b = knoop(lijn.coords[0]), knoop(lijn.coords[-1])
+        buren[a].append((b, i, False))
+        buren[b].append((a, i, True))
+    eindes = [k for k, v in buren.items() if len(v) == 1 and rand.distance(Point(k)) < 60]
+
+    def kortste(van):
+        afstand, vorig, rij = {van: 0.0}, {}, [(0.0, van)]
+        while rij:
+            d, k = heapq.heappop(rij)
+            if d > afstand.get(k, 1e18):
+                continue
+            for naar, i, om in buren[k]:
+                nd = d + kanten[i].length
+                if nd < afstand.get(naar, 1e18):
+                    afstand[naar], vorig[naar] = nd, (k, i, om)
+                    heapq.heappush(rij, (nd, naar))
+        return afstand, vorig
+
+    mogelijk = []
+    for van in eindes:
+        afstand, vorig = kortste(van)
+        for naar in eindes:
+            if naar > van and naar in afstand and afstand[naar] > 5000:
+                punten, k = [], naar
+                while k != van:
+                    k_vorig, i, om = vorig[k]
+                    stuk = list(kanten[i].coords)
+                    punten += stuk if om else stuk[::-1]
+                    k = k_vorig
+                mogelijk.append((afstand[naar], van, naar, LineString(punten[::-1])))
+    # De langste eerst; een route die tussen dezelfde twee randen loopt als een eerdere (het andere spoor van een
+    # dubbel spoor) mag er een keer bij, meer niet.
+    routes, gezien = [], defaultdict(int)
+    for lengte, van, naar, lijn in sorted(mogelijk, key=lambda m: -m[0]):
+        richting = tuple(sorted((round(van[0] / 1500), round(van[1] / 1500), round(naar[0] / 1500), round(naar[1] / 1500))))
+        if gezien[richting] < 2 and len(routes) < 6:
+            gezien[richting] += 1
+            routes.append(lijn)
+    return routes
+
+
+def pak_leven(vlakken, wegen, gebied, rand):
     """Wat er op de kaart beweegt: de spoorbanen voor de treinen, vaarrondjes voor zeilboten op de grote plassen,
     plekken voor eenden in vijvers en sloten en voor herten op de hei. Alles in meters vanaf de hoek van het gebied."""
     toeval = np.random.default_rng(1811)
@@ -492,8 +544,7 @@ def pak_leven(vlakken, wegen, gebied):
                 return p
         return None
 
-    banen = sorted(lijnen(linemerge([l for k, l, _ in wegen if k == SPOOR])), key=lambda l: -l.length)
-    spoor = [rel(b.simplify(1.5).coords) for b in banen[:4] if b.length > 2500]
+    spoor = [rel(b.simplify(1.5).coords) for b in spoorroutes(wegen, rand)]
 
     boten, eenden = [], []
     water = veelhoeken(vlakken[WATER].intersection(gebied))
@@ -650,7 +701,11 @@ def main():
     for naam, soort, x, y in osm["plaatsen"]:
         if soort in RANG and gebied.contains(Point(x, y)):
             plaatsen.append([naam, round(x - XMIN), round(y - YMIN), RANG[soort]])
-    leven = pak_leven(vlakken, wegen, gebied)
+    leven = pak_leven(vlakken, wegen, gebied, ruim.exterior)
+    # Stations: daar stoppen de treinen op de kaart.
+    leven["stations"] = [[round(x - XMIN, 1), round(y - YMIN, 1), naam] for naam, soort, x, y in osm["plaatsen"]
+                         if soort == "station" and XMIN < x < XMAX and YMIN < y < YMAX]
+    print(f"  stations: {[s[2] for s in leven['stations']]}", file=sys.stderr)
     m_blokken = sorted({(int((g["x"] - XMIN) // GROOT), int((g["y"] - YMIN) // GROOT)) for g in rest}
                        | {(ix, iy) for ix in range((XMAX - XMIN) // GROOT) for iy in range((YMAX - YMIN) // GROOT)
                           if ruim.intersects(box(XMIN + ix * GROOT, YMIN + iy * GROOT, XMIN + (ix + 1) * GROOT, YMIN + (iy + 1) * GROOT))})
