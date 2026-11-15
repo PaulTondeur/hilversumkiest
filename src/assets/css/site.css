@@ -282,7 +282,7 @@ td.heat { text-align: center; padding: 0.35rem 0.3rem; font-variant-numeric: tab
 .lijstkaart__kop:hover b { text-decoration: underline; }
 .lijstkaart__naam { display: grid; gap: 0.1rem; font-size: 0.9375rem; }
 .lijstkaart__naam b { font: 600 1.2rem/1.2 var(--kop); }
-.logo { width: 6.5rem; height: 3.9rem; display: grid; place-items: center; background: #fff; border: 1px solid var(--lijn); padding: 0.4rem; }
+.logo { width: 6.5rem; height: 3.9rem; display: grid; grid-template: minmax(0, 1fr) / minmax(0, 1fr); place-items: center; background: #fff; border: 1px solid var(--lijn); padding: 0.4rem; }
 .logo img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; }
 .logo--donker { background: var(--inkt); border-color: var(--inkt); }
 .logo--naam { font: 600 0.95rem/1.15 var(--kop); text-align: center; color: var(--grijs); }
