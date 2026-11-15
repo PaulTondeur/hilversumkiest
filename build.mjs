@@ -20,7 +20,7 @@ const T = Object.fromEntries(themas.map((t) => [t.id, t]));
 const slugs = partijen.map((p) => p.slug);
 
 const POS = { 2: 'Eens', 1: 'Eerder eens', 0: 'Midden', '-1': 'Eerder oneens', '-2': 'Oneens', null: 'Geen standpunt gevonden' };
-const SOORT = { programma: 'Verkiezingsprogramma', mijnstem: 'Antwoord van de lijst in MijnStem', stemgids: 'Antwoord van de lijst in Stemgids Hilversum', hilversumsnieuws: 'Reactie van de lijst in Hilversums Nieuws', stemgedrag: 'Stemgedrag in de raad', afgeleid: 'Afgeleid uit wat de lijst over een verwant punt zegt' };
+const SOORT = { programma: 'Verkiezingsprogramma', mijnstem: 'Antwoord van de partij in MijnStem', stemgids: 'Antwoord van de partij in Stemgids Hilversum', hilversumsnieuws: 'Reactie van de partij in Hilversums Nieuws', stemgedrag: 'Stemgedrag in de raad', afgeleid: 'Afgeleid uit wat de partij over een verwant punt zegt' };
 
 const BASIS = (process.env.BASIS || '/').replace(/\/?$/, '/'); // bv. BASIS=/hilversumkiest/ voor gebruiker.github.io/hilversumkiest/
 const DIST = path.join(ROOT, 'dist');
@@ -40,7 +40,7 @@ function schrijf(rel, html) {
 const REPO = (process.env.REPO || (bestaat('data/site.json') ? lees('data/site.json').repo : '') || '').replace(/\/$/, '');
 const NAV = [
   ['/stemwijzer/', 'Stemwijzer'],
-  ['/lijsten/', 'Lijsten'],
+  ['/lijsten/', 'Partijen'],
   ['/vergelijk/', 'Vergelijken'],
   ['/stemmen/', 'Stemmen'],
 ];
@@ -48,8 +48,8 @@ const VINDER = '/stembureauvinder/';
 
 // Bezoeken tellen met Plausible op een eigen server (data/site.json, "plausible"): zonder cookies. Het script meet
 // niets uit zichzelf; wij sturen het paginabezoek en een paar handelingen, steeds met alleen het pad van de pagina.
-// Wat achter # of ? staat (een gedeelde uitslag, gekozen lijsten) gaat nooit mee, en antwoorden ook niet. Bij een uitslag
-// sturen we wel welke drie lijsten bovenaan staan (stemwijzer.js, meld), zodat te zien is waar mensen uitkomen.
+// Wat achter # of ? staat (een gedeelde uitslag, gekozen partijen) gaat nooit mee, en antwoorden ook niet. Bij een uitslag
+// sturen we wel welke drie partijen bovenaan staan (stemwijzer.js, meld), zodat te zien is waar mensen uitkomen.
 // Het script stuurt ook de vorige pagina mee (document.referrer); daarom geeft elke pagina die alleen als domein door
 // (meta referrer hieronder), anders ging bij doorklikken een adres als /vergelijk/?a=d66&b=vvd toch mee.
 const PLAUSIBLE = (bestaat('data/site.json') ? lees('data/site.json').plausible : null) || null;
@@ -94,8 +94,8 @@ ${inhoud}
       <h3>Over deze site</h3>
       <ul class="voet__feiten">
         <li><b>Onafhankelijk.</b> Een eigen initiatief, niet verbonden aan een partij of aan de gemeente.</li>
-        <li><b>Uit de programma's.</b> De standpunten komen uit de verkiezingsprogramma's en uit wat lijsten zelf elders antwoordden. De lijsten hebben ze niet gecontroleerd.</li>
-        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser. We tellen anoniem hoeveel mensen langskomen en welke lijsten bovenaan hun uitslag staan, nooit wat je antwoordt.</li>
+        <li><b>Uit de programma's.</b> De standpunten komen uit de verkiezingsprogramma's en uit wat partijen zelf elders antwoordden. De partijen hebben ze niet gecontroleerd.</li>
+        <li><b>Van jou.</b> Geen cookies; je antwoorden blijven in je eigen browser. We tellen anoniem hoeveel mensen langskomen en welke partijen bovenaan hun uitslag staan, nooit wat je antwoordt.</li>
       </ul>
       <p class="voet__links"><a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>Hoe dit gemaakt is</a><a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>Zelf zoiets maken</a>${REPO ? `<a href="${e(REPO)}" rel="noopener">Broncode</a>` : ''}</p>
     </div>
@@ -111,7 +111,7 @@ const lijstLink = (p) => `<a href="/lijsten/${p.slug}/">${e(p.kort)}</a>`;
 
 function biljet({ voet = '' } = {}) {
   return `<div class="biljet" data-biljet>
-  <div class="biljet__kop"><span>Lijsten op het stembiljet</span><span><button type="button" data-alles>Kleur alles</button> <button type="button" data-wis>Wis</button></span></div>
+  <div class="biljet__kop"><span>Partijen op het stembiljet</span><span><button type="button" data-alles>Kleur alles</button> <button type="button" data-wis>Wis</button></span></div>
   <ul class="biljet__lijst">
   ${partijen.map((p) => `<li><label><input type="checkbox" name="lijst" value="${p.slug}"><span class="vakje" aria-hidden="true"></span><span class="biljet__nr">${p.nr}</span><span class="biljet__naam">${e(p.kort)}</span></label></li>`).join('\n  ')}
   </ul>
@@ -122,7 +122,7 @@ function biljet({ voet = '' } = {}) {
 // De video op de voorpagina: zet het adres van het bestand in data/site.json ("video") zodra hij er is.
 const VIDEO = (bestaat('data/site.json') ? lees('data/site.json').video : '') || '';
 const logos = bestaat('data/logos.json') ? lees('data/logos.json') : {};
-// Het logo van een lijst, of haar naam als er geen logo is (de blanco lijst).
+// Het logo van een partij, of haar naam als er geen logo is (de blanco lijst).
 const logoHtml = (p) => {
   const l = logos[p.slug];
   return l?.bestand
@@ -134,23 +134,23 @@ const logoHtml = (p) => {
 const raad = info.nieuwe_raad || {};
 schrijf('index.html', pagina({
   titel: 'Hilversum kiest – stemwijzer voor 18 november 2026',
-  beschrijving: 'Onafhankelijke stemwijzer voor de gemeenteraadsverkiezing in Hilversum en de dorpen van Wijdemeren. Kies zelf welke lijsten en thema\'s meedoen.',
+  beschrijving: 'Onafhankelijke stemwijzer voor de gemeenteraadsverkiezing in Hilversum en de dorpen van Wijdemeren. Kies zelf welke partijen en thema\'s meedoen.',
   pad: '/',
   inhoud: `
 <section class="opening">
   <div class="opening__tekst">
-    <h1>Twintig lijsten. Tussen welke twijfel jij?</h1>
-    <p>Kleur de lijsten die je overweegt. De stemwijzer vraagt daarna alleen door op de punten waar juist die lijsten van elkaar verschillen.</p>
+    <h1>Twintig partijen. Tussen welke twijfel jij?</h1>
+    <p>Kleur de partijen die je overweegt. De stemwijzer vraagt daarna alleen door op de punten waar juist die partijen van elkaar verschillen.</p>
     <p class="klein">Woensdag 18 november 2026 kiezen Hilversum, Loosdrecht, Kortenhoef, 's-Graveland, Ankeveen, Nederhorst den Berg en Breukeleveen samen één nieuwe gemeenteraad.</p>
   </div>
-  ${biljet({ voet: `<div class="biljet__voet"><span data-telling class="grijs">Nog geen lijst gekleurd</span><a class="knop" href="/stemwijzer/" data-start>Start de stemwijzer</a></div>` })}
+  ${biljet({ voet: `<div class="biljet__voet"><span data-telling class="grijs">Nog geen partij gekleurd</span><a class="knop" href="/stemwijzer/" data-start>Start de stemwijzer</a></div>` })}
 </section>
 
 <dl class="feiten">
   <div><dt>Verkiezingsdag</dt><dd>Woensdag 18 november</dd></div>
   <div><dt>Stembureaus open</dt><dd>7.30 tot 21.00 uur</dd></div>
   <div><dt>Te verdelen</dt><dd>39 raadszetels</dd></div>
-  <div><dt>Op het biljet</dt><dd>${partijen.length} lijsten</dd></div>
+  <div><dt>Op het biljet</dt><dd>${partijen.length} partijen</dd></div>
   <div><dt>In de stemwijzer</dt><dd>${stellingen.length} stellingen, ${themas.length} thema's</dd></div>
 </dl>
 
@@ -165,9 +165,9 @@ schrijf('index.html', pagina({
 
 <h2>Anders dan je gewend bent</h2>
 <div class="tweekolom">
-  <div class="blok"><h3>Jij kiest wie meedoet</h3><p>Weet je al dat een lijst nooit jouw stem krijgt? Laat die weg. De uitslag vergelijkt je alleen met de lijsten die je zelf hebt gekleurd, ook als dat er maar twee zijn.</p></div>
-  <div class="blok"><h3>Verdieping op jouw thema's</h3><p>Kies de onderwerpen die voor jou tellen. Per thema krijg je meerdere stellingen, zodat ook lijsten die op hoofdlijnen hetzelfde willen uit elkaar gaan.</p></div>
-  <div class="blok"><h3>Nuance in plaats van ja of nee</h3><p>Een lijst die een voorstel afwijst omdat ze een eigen plan heeft, staat anders dan een lijst die het doel verwerpt. Bij elk standpunt lees je de toelichting en het citaat uit het programma.</p></div>
+  <div class="blok"><h3>Jij kiest wie meedoet</h3><p>Weet je al dat een partij nooit jouw stem krijgt? Laat die weg. De uitslag vergelijkt je alleen met de partijen die je zelf hebt gekleurd, ook als dat er maar twee zijn.</p></div>
+  <div class="blok"><h3>Verdieping op jouw thema's</h3><p>Kies de onderwerpen die voor jou tellen. Per thema krijg je meerdere stellingen, zodat ook partijen die op hoofdlijnen hetzelfde willen uit elkaar gaan.</p></div>
+  <div class="blok"><h3>Nuance in plaats van ja of nee</h3><p>Een partij die een voorstel afwijst omdat ze een eigen plan heeft, staat anders dan een partij die het doel verwerpt. Bij elk standpunt lees je de toelichting en het citaat uit het programma.</p></div>
 </div>
 
 <h2>Waarover gaat het</h2>
@@ -183,8 +183,8 @@ schrijf('index.html', pagina({
     <p><a href="/stemmen/">Alles over stemmen, volmacht en stembureaus</a></p>
   </div>
   <div>
-    <p>Wil je eerst rondkijken? Elke lijst heeft een eigen pagina met haar speerpunten, haar standpunt op elke stelling en de lijsten die er inhoudelijk het dichtst bij zitten.</p>
-    <p><a href="/lijsten/">Bekijk de twintig lijsten</a><br><a href="/vergelijk/">Leg twee lijsten naast elkaar</a></p>
+    <p>Wil je eerst rondkijken? Elke partij heeft een eigen pagina met haar speerpunten, haar standpunt op elke stelling en de partijen die er inhoudelijk het dichtst bij zitten.</p>
+    <p><a href="/lijsten/">Bekijk de twintig partijen</a><br><a href="/vergelijk/">Leg twee partijen naast elkaar</a></p>
   </div>
 </div>`,
   scripts: `<script type="module" src="/assets/js/biljet.js"></script>`,
@@ -193,9 +193,9 @@ schrijf('index.html', pagina({
 // ---------- Stemwijzer ----------
 schrijf('stemwijzer/index.html', pagina({
   titel: 'Stemwijzer – Hilversum kiest',
-  beschrijving: 'Kies de lijsten die je overweegt en de thema\'s die je belangrijk vindt. De stemwijzer stelt de vragen waarop die lijsten verschillen.',
+  beschrijving: 'Kies de partijen die je overweegt en de thema\'s die je belangrijk vindt. De stemwijzer stelt de vragen waarop die partijen verschillen.',
   pad: '/stemwijzer/',
-  inhoud: `<div id="app"><noscript><p>De stemwijzer heeft JavaScript nodig. Zonder JavaScript kun je wel <a href="/lijsten/">alle standpunten per lijst</a> lezen.</p></noscript><p class="grijs">De stemwijzer wordt geladen.</p></div>`,
+  inhoud: `<div id="app"><noscript><p>De stemwijzer heeft JavaScript nodig. Zonder JavaScript kun je wel <a href="/lijsten/">alle standpunten per partij</a> lezen.</p></noscript><p class="grijs">De stemwijzer wordt geladen.</p></div>`,
   scripts: `<script type="module" src="/assets/js/stemwijzer.js"></script>`,
 }));
 
@@ -214,7 +214,7 @@ function kandidatenHtml(p) {
 <h2 id="kandidaten">Kandidaten</h2>
 <p>${rij.length === 1 ? 'Eén kandidaat' : `${rij.length} kandidaten`}, in de volgorde van het stembiljet.</p>
 <ol class="kandidaten">${rij.map(kandidaatHtml).join('')}</ol>
-<p class="klein">Namen, volgorde en woonplaats komen uit de bekendmaking van het centraal stembureau (<a href="https://zoek.officielebekendmakingen.nl/gmb-2026-499712.html" rel="noopener">Gemeenteblad 2026, nr. 499712</a>). Foto's en beschrijvingen komen van de lijst zelf of van de gemeente; een LinkedIn-profiel staat er alleen bij als twee controles los van elkaar bij dezelfde persoon uitkwamen. Staat er niets bij een naam, dan is er niets gevonden dat zeker genoeg was. <a href="/verantwoording/#kandidaten">Hoe dit is nagelopen</a>.</p>`;
+<p class="klein">Namen, volgorde en woonplaats komen uit de bekendmaking van het centraal stembureau (<a href="https://zoek.officielebekendmakingen.nl/gmb-2026-499712.html" rel="noopener">Gemeenteblad 2026, nr. 499712</a>). Foto's en beschrijvingen komen van de partij zelf of van de gemeente; een LinkedIn-profiel staat er alleen bij als twee controles los van elkaar bij dezelfde persoon uitkwamen. Staat er niets bij een naam, dan is er niets gevonden dat zeker genoeg was. <a href="/verantwoording/#kandidaten">Hoe dit is nagelopen</a>.</p>`;
 }
 
 
@@ -267,7 +267,7 @@ function kaartSvg() {
     Object.assign(o, { ly: plek.ly, links: plek.links });
     geplaatst.push({ ly: plek.ly, x1: plek.x1, x2: plek.x2 });
   }
-  return `<div class="landschap"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Kaart van de twintig lijsten: lijsten die dicht bij elkaar staan, hebben vergelijkbare standpunten">
+  return `<div class="landschap"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Kaart van de twintig partijen: partijen die dicht bij elkaar staan, hebben vergelijkbare standpunten">
   ${pt.map((o) => `<a href="/lijsten/${o.p.slug}/" data-slug="${o.p.slug}"><circle cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="8" fill="${o.p.kleur}" stroke="#0e1b2c" stroke-width="1.5"/><text x="${(o.links ? o.x - 12 : o.x + 12).toFixed(1)}" y="${o.ly.toFixed(1)}"${o.links ? ' text-anchor="end"' : ''}>${e(o.p.kort)}</text></a>`).join('\n  ')}
   </svg></div>`;
 }
@@ -279,12 +279,12 @@ function heat(v) {
 }
 
 schrijf('lijsten/index.html', pagina({
-  titel: 'De twintig lijsten – Hilversum kiest',
-  beschrijving: 'Alle lijsten voor de gemeenteraadsverkiezing van 18 november 2026 in Hilversum, met hun speerpunten en hoe dicht ze bij elkaar staan.',
+  titel: 'De twintig partijen – Hilversum kiest',
+  beschrijving: 'Alle partijen voor de gemeenteraadsverkiezing van 18 november 2026 in Hilversum, met hun speerpunten en hoe dicht ze bij elkaar staan.',
   pad: '/lijsten/',
   inhoud: `
-<h1>De twintig lijsten</h1>
-<p>In de volgorde van het stembiljet. Elke lijst heeft een eigen pagina met speerpunten, standpunten per thema en de lijsten die er het dichtst bij staan.</p>
+<h1>De twintig partijen</h1>
+<p>In de volgorde van het stembiljet. Elke partij heeft een eigen pagina met speerpunten, standpunten per thema en de partijen die er het dichtst bij staan.</p>
 <ul class="lijstkaarten">
 ${partijen.map((p) => {
     const rij = kandidaten[p.slug] || [];
@@ -293,16 +293,16 @@ ${partijen.map((p) => {
   }).join('\n')}
 </ul>
 <p class="klein">Elk rondje is een kandidaat, in de volgorde van het stembiljet; een getekend figuurtje betekent dat er geen foto is gevonden die zeker bij die persoon hoort. Tik op een rondje voor de kandidaat.</p>
-<p><a class="knop knop--licht" href="/vergelijk/">Vergelijk lijsten met elkaar</a></p>`,
+<p><a class="knop knop--licht" href="/vergelijk/">Vergelijk partijen met elkaar</a></p>`,
 }));
 
 function landschapHtml() {
   return `<h2 id="landschap">Wie staat dicht bij wie</h2>
-<p>Deze kaart is berekend uit de standpunten op alle ${stellingen.length} stellingen. Lijsten die dicht bij elkaar staan, kiezen vaak hetzelfde. De assen hebben geen vaste betekenis zoals links en rechts: de kaart laat alleen afstanden zien, en plat op een scherm klopt dat nooit helemaal.</p>
-<p><strong>Tik op twee tot zes lijsten in de kaart</strong> om ze hieronder naast elkaar te leggen. Daarna kun je met precies die lijsten de stemwijzer doen.</p>
+<p>Deze kaart is berekend uit de standpunten op alle ${stellingen.length} stellingen. Partijen die dicht bij elkaar staan, kiezen vaak hetzelfde. De assen hebben geen vaste betekenis zoals links en rechts: de kaart laat alleen afstanden zien, en plat op een scherm klopt dat nooit helemaal.</p>
+<p><strong>Tik op twee tot zes partijen in de kaart</strong> om ze hieronder naast elkaar te leggen. Daarna kun je met precies die partijen de stemwijzer doen.</p>
 ${kaartSvg()}
-<details class="uitleg"><summary>Overeenkomst tussen alle lijsten in procenten</summary>
-<p class="klein">100 betekent: op elke stelling waar beide lijsten een standpunt hebben precies dezelfde positie. Lijsten met weinig bekende standpunten zijn minder betrouwbaar te vergelijken.</p>
+<details class="uitleg"><summary>Overeenkomst tussen alle partijen in procenten</summary>
+<p class="klein">100 betekent: op elke stelling waar beide partijen een standpunt hebben precies dezelfde positie. Partijen met weinig bekende standpunten zijn minder betrouwbaar te vergelijken.</p>
 <div class="tabel-wrap"><table>
 <thead><tr><th></th>${partijen.map((p) => `<th class="num" title="${e(p.kort)}">${p.nr}</th>`).join('')}</tr></thead>
 <tbody>
@@ -347,12 +347,12 @@ for (const p of partijen) {
 ${p.kernboodschap ? `<p style="font-size:1.2rem;line-height:1.5">${e(p.kernboodschap)}</p>` : ''}
 ${p.achtergrond ? `<p class="grijs">${e(p.achtergrond)}</p>` : ''}
 ${p.basis ? `<div class="melding"><p>${e(p.basis)}</p></div>` : ''}
-${p.speerpunten.length ? `<h2>Wat de lijst zelf vooropzet</h2><ul>${p.speerpunten.map((s) => `<li>${e(s)}</li>`).join('')}</ul>` : ''}
+${p.speerpunten.length ? `<h2>Wat de partij zelf vooropzet</h2><ul>${p.speerpunten.map((s) => `<li>${e(s)}</li>`).join('')}</ul>` : ''}
 </div>
 ${kandidatenHtml(p)}
 
 <h2 id="buren">Dicht bij en ver van</h2>
-<p>Berekend uit de standpunten op de stellingen waar beide lijsten een positie hebben. Van ${e(p.kort)} zijn ${bekend} van de ${stellingen.length} standpunten bekend.</p>
+<p>Berekend uit de standpunten op de stellingen waar beide partijen een positie hebben. Van ${e(p.kort)} zijn ${bekend} van de ${stellingen.length} standpunten bekend.</p>
 <div class="buren">
   <div><h3>Het dichtst bij</h3><ol>${dicht.map((b) => `<li><span>${lijstLink(P[b.s])}</span><b>${pct(b.afstand)}%</b><span class="balk"><i style="width:${pct(b.afstand)}%"></i></span></li>`).join('')}</ol></div>
   <div><h3>Het verst van</h3><ol>${ver.map((b) => `<li><span>${lijstLink(P[b.s])}</span><b>${pct(b.afstand)}%</b><span class="balk"><i style="width:${pct(b.afstand)}%"></i></span></li>`).join('')}</ol></div>
@@ -360,7 +360,7 @@ ${kandidatenHtml(p)}
 ${dicht.slice(0, 3).map((b) => {
     const v = verschil(b.s);
     if (!v.length) return '';
-    return `<h3>Waar ${e(p.kort)} en ${e(P[b.s].kort)} toch uit elkaar gaan</h3><ul class="punten">${v.map((x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(p.kort)}: ${POS[x.a].toLowerCase()} · ${e(P[b.s].kort)}: ${POS[x.b].toLowerCase()}</span></summary><div class="inhoud">${standpuntHtml(x.st, p.slug, { metNaam: true })}${standpuntHtml(x.st, b.s, { metNaam: true })}</div></details></li>`).join('')}</ul><p class="klein"><a href="/vergelijk/?a=${p.slug}&amp;b=${b.s}">Volledige vergelijking van deze twee lijsten</a></p>`;
+    return `<h3>Waar ${e(p.kort)} en ${e(P[b.s].kort)} toch uit elkaar gaan</h3><ul class="punten">${v.map((x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(p.kort)}: ${POS[x.a].toLowerCase()} · ${e(P[b.s].kort)}: ${POS[x.b].toLowerCase()}</span></summary><div class="inhoud">${standpuntHtml(x.st, p.slug, { metNaam: true })}${standpuntHtml(x.st, b.s, { metNaam: true })}</div></details></li>`).join('')}</ul><p class="klein"><a href="/vergelijk/?a=${p.slug}&amp;b=${b.s}">Volledige vergelijking van deze twee partijen</a></p>`;
   }).join('')}
 
 <h2>Standpunten per thema</h2>
@@ -379,11 +379,11 @@ ${themas.map((t) => {
 
 // ---------- Vergelijken ----------
 schrijf('vergelijk/index.html', pagina({
-  titel: 'Lijsten vergelijken – Hilversum kiest',
-  beschrijving: 'Leg twee tot zes lijsten naast elkaar, zie op welke stellingen ze verschillen en doe met die lijsten de stemwijzer.',
+  titel: 'Partijen vergelijken – Hilversum kiest',
+  beschrijving: 'Leg twee tot zes partijen naast elkaar, zie op welke stellingen ze verschillen en doe met die partijen de stemwijzer.',
   pad: '/vergelijk/',
-  inhoud: `<h1>Lijsten vergelijken</h1>
-<p>Kies twee tot zes lijsten, in de kaart of in de keuzelijsten eronder. Je ziet eerst de stellingen waarop ze het verst uit elkaar staan, en je kunt met die lijsten meteen de stemwijzer doen.</p>
+  inhoud: `<h1>Partijen vergelijken</h1>
+<p>Kies twee tot zes partijen, in de kaart of in de keuzelijsten eronder. Je ziet eerst de stellingen waarop ze het verst uit elkaar staan, en je kunt met die partijen meteen de stemwijzer doen.</p>
 ${landschapHtml()}
 <h2 id="naast-elkaar">Naast elkaar</h2>
 <div id="vergelijk"><noscript><p>Vergelijken heeft JavaScript nodig.</p></noscript></div>`,
@@ -497,11 +497,11 @@ const geschrapt = basisAlle.filter((b) => redactie[b.id]?.schrap);
 const proc = (n, t) => Math.round((n / t) * 100);
 const bekendTotaal = Object.values(soortTel).reduce((a, b) => a + b, 0);
 const citaten = stellingen.reduce((n, st) => n + slugs.filter((s) => st.posities[s]?.citaat).length, 0);
-const coderingZin = cs ? `Van de ${cs.totaal.toLocaleString('nl-NL')} posities (${basisAlle.length} stellingen maal ${partijen.length} lijsten) kwamen de twee rondes in ${proc(cs.gelijk + cs.beideNull, cs.totaal)}% precies overeen en lagen ze in ${proc(cs.eenStap, cs.totaal)}% één stap uit elkaar. In ${proc(cs.conflict, cs.totaal)}% stonden ze tegenover elkaar, en in ${proc(cs.alleenA + cs.alleenB, cs.totaal)}% zag maar één van de twee een standpunt. Die laatste twee groepen, samen ${cs.beslecht} posities, zijn in de derde ronde opnieuw aan de bron getoetst; in ruim een derde van die gevallen was de uitkomst “geen standpunt”. Daarna is per stelling over alle lijsten heen gecontroleerd of dezelfde maat is aangelegd en of de richting klopt bij omgekeerd geformuleerde stellingen. Dat leidde tot ${cs.audit.score} aangepaste scores, ${cs.audit.vervallen} posities die vervielen omdat het bewijs te dun was, en ${cs.audit.tekst} herschreven toelichtingen.` : '';
+const coderingZin = cs ? `Van de ${cs.totaal.toLocaleString('nl-NL')} posities (${basisAlle.length} stellingen maal ${partijen.length} partijen) kwamen de twee rondes in ${proc(cs.gelijk + cs.beideNull, cs.totaal)}% precies overeen en lagen ze in ${proc(cs.eenStap, cs.totaal)}% één stap uit elkaar. In ${proc(cs.conflict, cs.totaal)}% stonden ze tegenover elkaar, en in ${proc(cs.alleenA + cs.alleenB, cs.totaal)}% zag maar één van de twee een standpunt. Die laatste twee groepen, samen ${cs.beslecht} posities, zijn in de derde ronde opnieuw aan de bron getoetst; in ruim een derde van die gevallen was de uitkomst “geen standpunt”. Daarna is per stelling over alle partijen heen gecontroleerd of dezelfde maat is aangelegd en of de richting klopt bij omgekeerd geformuleerde stellingen. Dat leidde tot ${cs.audit.score} aangepaste scores, ${cs.audit.vervallen} posities die vervielen omdat het bewijs te dun was, en ${cs.audit.tekst} herschreven toelichtingen.` : '';
 const verantwoordingExtra = (bestaat('data/verantwoording.html') ? fs.readFileSync(path.join(ROOT, 'data/verantwoording.html'), 'utf8') : '')
   .replace('STELLINGEN_AANTAL', stellingen.length)
   .replace('CODERING_CIJFERS', coderingZin)
-  .replace('BRON_CIJFERS', `<p>Van de ${bekendTotaal.toLocaleString('nl-NL')} bekende standpunten komen er ${soortTel.programma || 0} rechtstreeks uit een verkiezingsprogramma, ${(soortTel.mijnstem || 0) + (soortTel.stemgids || 0) + (soortTel.hilversumsnieuws || 0)} uit een eigen antwoord van de lijst in een andere stemhulp of in Hilversums Nieuws, ${soortTel.stemgedrag || 0} uit stemgedrag in de raad en ${soortTel.afgeleid || 0} zijn afgeleid. Bij ${citaten.toLocaleString('nl-NL')} standpunten staat een letterlijk citaat; elk citaat is door een script teruggezocht in de brontekst. Paginanummers verwijzen naar de pagina van het pdf-bestand, die soms één of twee afwijkt van het gedrukte nummer.</p>`)
+  .replace('BRON_CIJFERS', `<p>Van de ${bekendTotaal.toLocaleString('nl-NL')} bekende standpunten komen er ${soortTel.programma || 0} rechtstreeks uit een verkiezingsprogramma, ${(soortTel.mijnstem || 0) + (soortTel.stemgids || 0) + (soortTel.hilversumsnieuws || 0)} uit een eigen antwoord van de partij in een andere stemhulp of in Hilversums Nieuws, ${soortTel.stemgedrag || 0} uit stemgedrag in de raad en ${soortTel.afgeleid || 0} zijn afgeleid. Bij ${citaten.toLocaleString('nl-NL')} standpunten staat een letterlijk citaat; elk citaat is door een script teruggezocht in de brontekst. Paginanummers verwijzen naar de pagina van het pdf-bestand, die soms één of twee afwijkt van het gedrukte nummer.</p>`)
   .replace('GESCHRAPT_LIJST', geschrapt.length ? `<p>De bank begon met ${basisAlle.length} stellingen. ${geschrapt.length} zijn na het bepalen van de posities geschrapt:</p><ul>${geschrapt.map((g) => `<li>“${e(g.stelling)}” ${e(redactie[g.id].reden ? '(' + redactie[g.id].reden + ')' : '')}</li>`).join('')}</ul>` : '');
 schrijf('verantwoording/index.html', pagina({
   titel: 'Verantwoording – Hilversum kiest',
@@ -511,10 +511,10 @@ schrijf('verantwoording/index.html', pagina({
 <h1>Verantwoording</h1>
 <div class="smal">
 ${verantwoordingExtra}
-<h2 id="dekking">Hoeveel standpunten per lijst bekend zijn</h2>
-<p>Niet elk programma zegt iets over elke stelling. Waar geen standpunt te vinden was, staat “geen standpunt gevonden” en telt de stelling voor die lijst als half overeenkomend: het helpt de lijst niet en het schaadt haar niet.</p>
+<h2 id="dekking">Hoeveel standpunten per partij bekend zijn</h2>
+<p>Niet elk programma zegt iets over elke stelling. Waar geen standpunt te vinden was, staat “geen standpunt gevonden” en telt de stelling voor die partij als half overeenkomend: het helpt de partij niet en het schaadt haar niet.</p>
 </div>
-<div class="tabel-wrap"><table><thead><tr><th>Lijst</th><th class="num">Standpunten bekend</th><th class="num">Van</th><th>Programma</th></tr></thead><tbody>
+<div class="tabel-wrap"><table><thead><tr><th>Partij</th><th class="num">Standpunten bekend</th><th class="num">Van</th><th>Programma</th></tr></thead><tbody>
 ${dekking.map(({ p, n }) => `<tr><td><a href="/lijsten/${p.slug}/">${p.nr}. ${e(p.naam)}</a></td><td class="num">${n}</td><td class="num">${stellingen.length}</td><td>${p.programma.url ? `<a href="${e(p.programma.url)}" rel="noopener">${e(p.programma.titel || 'programma')}</a>${p.programma.woorden ? `, ${Math.round(p.programma.woorden / 100) * 100} woorden` : ''}` : 'Geen programma gevonden'}</td></tr>`).join('\n')}
 </tbody></table></div>
 ${toets ? toets.html : ''}`,
@@ -543,7 +543,7 @@ ${REPO ? `<p>Alles wat hiervoor gemaakt is, staat openbaar op GitHub: de code va
 <h2>Drie adviezen uit de praktijk</h2>
 <ul>
 <li>Laat elk citaat door een script controleren tegen de brontekst. Het is de goedkoopste manier om verzinsels te vangen.</li>
-<li>Bekijk de uitkomsten van de eerlijkheidstoets zelf. Als één lijst opvallend vaak wint bij willekeurige antwoorden, klopt er iets niet in de stellingen of de rekenwijze.</li>
+<li>Bekijk de uitkomsten van de eerlijkheidstoets zelf. Als één partij opvallend vaak wint bij willekeurige antwoorden, klopt er iets niet in de stellingen of de rekenwijze.</li>
 <li>Zet op de site hoe het gemaakt is en wat het niet kan. <a href="/verantwoording/">Zo hebben wij dat gedaan</a>.</li>
 </ul>
 </div>`,
@@ -572,4 +572,4 @@ if (BASIS !== '/') {
 schrijf('.nojekyll', '');
 if (process.env.DOMEIN) schrijf('CNAME', process.env.DOMEIN + '\n');
 schrijf('404.html', pagina({ titel: 'Pagina niet gevonden – Hilversum kiest', beschrijving: 'Deze pagina bestaat niet.', pad: '/404', scripts: `<script>window.meet('404',{pad:location.pathname})</script>`, inhoud: '<h1>Deze pagina bestaat niet</h1><p>Misschien is het adres verkeerd overgenomen. <a href="/">Ga naar de voorpagina</a> of <a href="/stemwijzer/">start de stemwijzer</a>.</p>' }));
-console.log(`Gebouwd: ${partijen.length} lijsten, ${stellingen.length} stellingen, ${bureaus.length} stembureaus -> dist/`);
+console.log(`Gebouwd: ${partijen.length} partijen, ${stellingen.length} stellingen, ${bureaus.length} stembureaus -> dist/`);

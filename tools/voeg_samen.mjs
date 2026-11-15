@@ -115,6 +115,12 @@ const uit = basis.map((st) => {
   const h = hand[st.id] || {};
   return { ...st, stelling: h.stelling || st.stelling, kop: h.kop || st.kop, uitleg: h.uitleg || f.uitleg_nieuw || st.uitleg, voor: h.voor || f.voor_nieuw || st.voor, tegen: h.tegen || f.tegen_nieuw || st.tegen, posities };
 }).filter((st) => !(hand[st.id] && hand[st.id].schrap));
+// Woordkeus op de site: het gaat om partijen. 'Lijst' blijft alleen staan waar het een opsomming is ("een vaste lijst van").
+const woordkeus = (t) => t.replace(/\b([Dd]e|[Dd]eze|[Dd]ie|[Ee]lke|[Ee]en|[Gg]een) lijst\b(?! van)/g, '$1 partij').replace(/\blijsten\b/g, 'partijen').replace(/\bLijsten\b/g, 'Partijen');
+for (const st of uit) {
+  for (const veld of ['stelling', 'uitleg', 'voor', 'tegen', 'kop']) if (typeof st[veld] === 'string') st[veld] = woordkeus(st[veld]);
+  for (const pos of Object.values(st.posities || {})) for (const veld of ['kern', 'toelichting']) if (typeof pos[veld] === 'string') pos[veld] = woordkeus(pos[veld]);
+}
 fs.writeFileSync(R('data/stellingen.json'), JSON.stringify(uit, null, 1));
 fs.writeFileSync(R('werk/codering/verschillen.json'), JSON.stringify(verschillen, null, 1));
 fs.writeFileSync(R('werk/codering/statistiek.json'), JSON.stringify(stat, null, 1));

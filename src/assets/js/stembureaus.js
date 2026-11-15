@@ -29,7 +29,7 @@ function meld(tekst) {
   wisTimer = setTimeout(() => { melding.hidden = true; }, 6000);
 }
 
-// Het kaartje bij een gekozen potlood: dezelfde regels als in de lijst.
+// Het kaartje bij een gekozen potlood: dezelfde regels als in de partij.
 function toonKaartje(nrs) {
   for (const li of items) li.classList.toggle('gekozen', !!nrs && nrs.includes(+li.dataset.nr));
   kaartje.hidden = !nrs;

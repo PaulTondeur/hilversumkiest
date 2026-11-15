@@ -3,7 +3,7 @@ export const e = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&l
 export const POS = { 2: 'Eens', 1: 'Eerder eens', 0: 'Midden', '-1': 'Eerder oneens', '-2': 'Oneens', null: 'Geen standpunt gevonden' };
 export const ANTWOORD = { 2: 'Eens', 1: 'Eerder eens', 0: 'Neutraal', '-1': 'Eerder oneens', '-2': 'Oneens' };
 export const SCHAAL = [2, 1, 0, -1, -2];
-export const SOORT = { programma: 'Verkiezingsprogramma', mijnstem: 'Antwoord van de lijst in MijnStem', stemgids: 'Antwoord van de lijst in Stemgids Hilversum', hilversumsnieuws: 'Reactie van de lijst in Hilversums Nieuws', stemgedrag: 'Stemgedrag in de raad', afgeleid: 'Afgeleid uit wat de lijst over een verwant punt zegt' };
+export const SOORT = { programma: 'Verkiezingsprogramma', mijnstem: 'Antwoord van de partij in MijnStem', stemgids: 'Antwoord van de partij in Stemgids Hilversum', hilversumsnieuws: 'Reactie van de partij in Hilversums Nieuws', stemgedrag: 'Stemgedrag in de raad', afgeleid: 'Afgeleid uit wat de partij over een verwant punt zegt' };
 
 const SLEUTEL = 'hilversumkiest.v1';
 export function laadStaat() {

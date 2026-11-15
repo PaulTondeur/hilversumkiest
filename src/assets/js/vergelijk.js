@@ -1,7 +1,7 @@
 import { onderscheid, partijAfstand } from './engine.mjs';
 import { e, POS, laadData, laadStaat, bewaarStaat, standpuntHtml, spectrumHtml, pos } from './deel.js';
 
-const MAX = 6; // zoveel lijsten kun je naast elkaar leggen
+const MAX = 6; // zoveel partijen kun je naast elkaar leggen
 
 const el = document.getElementById('vergelijk');
 const data = await laadData();
@@ -11,7 +11,7 @@ let keuze = [...'abcdef'].map((k) => q.get(k)).filter((s) => P[s]).slice(0, MAX)
 
 function teken() {
   const partijen = keuze.map((s) => P[s]);
-  const kiezers = Array.from({ length: Math.min(MAX, Math.max(keuze.length + 1, 3)) }, (_, i) => i).map((i) => `<select class="keuze" data-i="${i}" aria-label="Lijst ${i + 1}"><option value="">${i < 2 ? 'Kies een lijst' : 'Nog een lijst (mag)'}</option>${data.partijen.map((p) => `<option value="${p.slug}" ${keuze[i] === p.slug ? 'selected' : ''} ${keuze.includes(p.slug) && keuze[i] !== p.slug ? 'disabled' : ''}>${p.nr}. ${e(p.kort)}</option>`).join('')}</select>`).join('');
+  const kiezers = Array.from({ length: Math.min(MAX, Math.max(keuze.length + 1, 3)) }, (_, i) => i).map((i) => `<select class="keuze" data-i="${i}" aria-label="Partij ${i + 1}"><option value="">${i < 2 ? 'Kies een partij' : 'Nog een partij (mag)'}</option>${data.partijen.map((p) => `<option value="${p.slug}" ${keuze[i] === p.slug ? 'selected' : ''} ${keuze.includes(p.slug) && keuze[i] !== p.slug ? 'disabled' : ''}>${p.nr}. ${e(p.kort)}</option>`).join('')}</select>`).join('');
   let uit = `<div class="zoek">${kiezers}</div>`;
   if (partijen.length >= 2) {
     const slugs = keuze;
@@ -24,12 +24,12 @@ function teken() {
     const blok = (x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(data.themas.find((t) => t.id === x.st.thema).kort)} · ${partijen.map((p) => `${e(p.kort)}: ${POS[pos(x.st, p.slug)].toLowerCase()}`).join(' · ')}</span></summary><div class="inhoud">${x.st.uitleg ? `<p class="grijs">${e(x.st.uitleg)}</p>` : ''}${spectrumHtml(x.st, partijen)}${partijen.map((p) => standpuntHtml(x.st, p)).join('')}</div></details></li>`;
     uit += `<h2>Hier verschillen ze (${verschil.length})</h2><p>Gesorteerd van groot naar klein verschil.</p><ul class="punten">${verschil.map(blok).join('')}</ul>`;
     uit += `<h2>Hier staan ze op dezelfde plek (${gelijk.length})</h2><ul class="punten">${gelijk.map(blok).join('')}</ul>`;
-    uit += `<p style="margin-top:2rem"><button class="knop" type="button" data-stemwijzer>Doe de stemwijzer met deze ${slugs.length} lijsten</button></p>`;
+    uit += `<p style="margin-top:2rem"><button class="knop" type="button" data-stemwijzer>Doe de stemwijzer met deze ${slugs.length} partijen</button></p>`;
   } else {
-    uit += `<p class="grijs">Kies minstens twee lijsten.</p>`;
+    uit += `<p class="grijs">Kies minstens twee partijen.</p>`;
   }
   el.innerHTML = uit;
-  // Met precies deze lijsten de stemwijzer in: de keuze gaat mee, je begint bij de thema's.
+  // Met precies deze partijen de stemwijzer in: de keuze gaat mee, je begint bij de thema's.
   const start = el.querySelector('[data-stemwijzer]');
   if (start) start.onclick = () => {
     window.meet?.('Vergelijking: naar stemwijzer', { lijsten: keuze.length });
@@ -44,7 +44,7 @@ function teken() {
   for (const a of stippen) { const aan = keuze.includes(a.dataset.slug); a.classList.toggle('gekozen', aan); a.setAttribute('aria-pressed', String(aan)); }
   stand.innerHTML = keuze.length
     ? `Gekozen: ${keuze.map((s) => e(P[s].kort)).join(', ')}. ${keuze.length >= 2 ? '<a href="#naast-elkaar">Bekijk de vergelijking</a>' : 'Kies er nog minstens een bij.'}`
-    : 'Nog geen lijst gekozen.';
+    : 'Nog geen partij gekozen.';
 }
 
 function kies(nieuw) {
@@ -56,7 +56,7 @@ function kies(nieuw) {
   teken();
 }
 
-// Kiezen in de kaart: een tik zet een lijst erbij of haalt haar weg; bij een vijfde vervalt de oudste.
+// Kiezen in de kaart: een tik zet een partij erbij of haalt haar weg; bij een vijfde vervalt de oudste.
 const stippen = [...document.querySelectorAll('.landschap a[data-slug]')];
 const stand = document.createElement('p');
 stand.className = 'landschap__stand';

@@ -1,4 +1,4 @@
-// Het stembiljet op de voorpagina: kleur lijsten en neem de keuze mee naar de stemwijzer.
+// Het stembiljet op de voorpagina: kleur partijen en neem de keuze mee naar de stemwijzer.
 import { laadStaat, bewaarStaat } from './deel.js';
 for (const b of document.querySelectorAll('[data-biljet]')) {
   const vakjes = [...b.querySelectorAll('input[name="lijst"]')];
@@ -10,9 +10,9 @@ for (const b of document.querySelectorAll('[data-biljet]')) {
     const gekozen = vakjes.filter((v) => v.checked).map((v) => v.value);
     const s = laadStaat();
     if (JSON.stringify(s.lijsten || []) !== JSON.stringify(gekozen)) { s.lijsten = gekozen; delete s.set; s.stap = 'lijsten'; bewaarStaat(s); }
-    if (telling) telling.textContent = gekozen.length === 0 ? 'Nog geen lijst gekleurd' : gekozen.length === 1 ? '1 lijst gekleurd: kies er minstens twee' : `${gekozen.length} lijsten gekleurd`;
+    if (telling) telling.textContent = gekozen.length === 0 ? 'Nog geen partij gekleurd' : gekozen.length === 1 ? '1 partij gekleurd: kies er minstens twee' : `${gekozen.length} partijen gekleurd`;
     if (start) {
-      start.textContent = gekozen.length >= 2 ? `Start met ${gekozen.length} lijsten` : 'Start de stemwijzer';
+      start.textContent = gekozen.length >= 2 ? `Start met ${gekozen.length} partijen` : 'Start de stemwijzer';
       start.href = gekozen.length >= 2 ? '/stemwijzer/#themas' : '/stemwijzer/';
     }
   };
