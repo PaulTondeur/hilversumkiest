@@ -28,6 +28,12 @@ Een push naar `main` bouwt en publiceert de site via `.github/workflows/pages.ym
 
 De volledige opdracht om dit met een AI-assistent na te bouwen staat in [`data/prompt.md`](data/prompt.md) en op de pagina Zelf maken van de site. Ze verwijst naar deze repository als voorbeeld. De code, de opdrachten aan de hulpagenten en de werkwijze kun je hergebruiken; de stellingen, standpunten en gegevens over kandidaten gelden alleen voor deze verkiezing.
 
+## Adressen, metadata en deelafbeeldingen
+
+De pagina's: `/`, `/stemwijzer/`, `/partijen/` en `/partijen/<slug>/`, `/vergelijken/`, `/stemmen/`, `/stembureauvinder/`, `/verantwoording/` en `/zelf-maken/`. De oude adressen `/lijsten/…` en `/vergelijk/` sturen door naar de nieuwe, met wat achter `?` en `#` staat; ze staan niet in de sitemap en worden niet geïndexeerd. Verander je een adres, laat dan net zo een doorverwijzing staan (`doorverwijzing()` in `build.mjs`).
+
+Elke pagina krijgt in `pagina()` een canoniek adres op https://hilversumkiest.nl, Open Graph, een Twitter-kaart en een eigen deelafbeelding van 1200 bij 630 (`src/assets/deel/`). Die afbeeldingen en het `apple-touch-icon` maakt `node tools/deelbeelden.mjs` met Playwright, lokaal; de teksten erop staan in `data/deelbeelden.json`. Draai het opnieuw als een partij, logo of lijsttrekker verandert, en zet de afbeeldingen in de repository: de bouwstap op GitHub heeft geen browser. `node build.mjs` schrijft ook `sitemap.xml` en `robots.txt`.
+
 ## Hoe de standpunten tot stand komen
 
 | Stap | Waar | Wat |

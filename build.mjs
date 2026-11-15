@@ -40,8 +40,8 @@ function schrijf(rel, html) {
 const REPO = (process.env.REPO || (bestaat('data/site.json') ? lees('data/site.json').repo : '') || '').replace(/\/$/, '');
 const NAV = [
   ['/stemwijzer/', 'Stemwijzer'],
-  ['/lijsten/', 'Partijen'],
-  ['/vergelijk/', 'Vergelijken'],
+  ['/partijen/', 'Partijen'],
+  ['/vergelijken/', 'Vergelijken'],
   ['/stemmen/', 'Stemmen'],
 ];
 const VINDER = '/stembureauvinder/';
@@ -51,12 +51,26 @@ const VINDER = '/stembureauvinder/';
 // Wat achter # of ? staat (een gedeelde uitslag, gekozen partijen) gaat nooit mee, en antwoorden ook niet. Bij een uitslag
 // sturen we wel welke drie partijen bovenaan staan (stemwijzer.js, meld), zodat te zien is waar mensen uitkomen.
 // Het script stuurt ook de vorige pagina mee (document.referrer); daarom geeft elke pagina die alleen als domein door
-// (meta referrer hieronder), anders ging bij doorklikken een adres als /vergelijk/?a=d66&b=vvd toch mee.
+// (meta referrer hieronder), anders ging bij doorklikken een adres als /vergelijken/?a=d66&b=vvd toch mee.
 const PLAUSIBLE = (bestaat('data/site.json') ? lees('data/site.json').plausible : null) || null;
 const meetKop = PLAUSIBLE ? `<script defer data-domain="${e(PLAUSIBLE.domein)}" src="${e(PLAUSIBLE.server)}/js/script.manual.js"></script>
 <script>window.plausible=window.plausible||function(){(window.plausible.q=window.plausible.q||[]).push(arguments)};(function(){var p=new URLSearchParams(location.search),q=new URLSearchParams();['utm_source','utm_medium','utm_campaign','utm_content','utm_term','ref','source'].forEach(function(k){if(p.has(k))q.set(k,p.get(k))});var s=q.toString(),u=location.origin+location.pathname+(s?'?'+s:'');window.meet=function(naam,props){var o={u:u};if(props)o.props=props;window.plausible(naam,o)};window.meet('pageview');document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a[href]');if(a&&a.host&&a.host!==location.host&&/^https?:$/.test(a.protocol))window.meet('Outbound Link: Click',{url:a.origin+a.pathname})},true)})();</script>` : `<script>window.meet=function(){}</script>`;
 
-function pagina({ titel, beschrijving, pad, inhoud, scripts = '', kop = '' }) {
+// Het vaste adres van de site, voor canonieke adressen, deelafbeeldingen en de sitemap.
+const SITE = (process.env.DOMEIN ? `https://${process.env.DOMEIN}` : (bestaat('data/site.json') && lees('data/site.json').url) || 'https://hilversumkiest.nl').replace(/\/$/, '');
+const volledig = (pad) => SITE + BASIS.replace(/\/$/, '') + pad;
+// Deelafbeeldingen (1200 x 630) maakt tools/deelbeelden.mjs; de teksten erop staan in data/deelbeelden.json.
+const DEEL = bestaat('data/deelbeelden.json') ? lees('data/deelbeelden.json') : {};
+const OP_BEELD = 'Hilversum kiest, gemeenteraadsverkiezing woensdag 18 november 2026';
+const deelBeeld = (naam) => (bestaat(`src/assets/deel/${naam}.png`) ? naam : bestaat('src/assets/deel/voorpagina.png') ? 'voorpagina' : null);
+const deelAlt = (naam) => (DEEL[naam] ? `${DEEL[naam].kop}${/[.?!]$/.test(DEEL[naam].kop) ? '' : '.'} ${DEEL[naam].tekst}. ${OP_BEELD}.` : `${OP_BEELD}.`);
+const ldJson = (x) => `<script type="application/ld+json">${JSON.stringify(x).replace(/</g, '\\u003c')}</script>`;
+const sitemap = [];
+
+function pagina({ titel, beschrijving, pad, url = pad, inhoud, scripts = '', kop = '', beeld = 'voorpagina', beeldAlt = null, index = true, ld = [] }) {
+  const b = deelBeeld(beeld);
+  if (index) sitemap.push(url);
+  const huidig = (h) => (url === h ? ' aria-current="page"' : pad === h ? ' aria-current="true"' : '');
   return `<!doctype html>
 <html lang="nl">
 <head>
@@ -65,23 +79,37 @@ function pagina({ titel, beschrijving, pad, inhoud, scripts = '', kop = '' }) {
 <meta name="referrer" content="strict-origin">
 <title>${e(titel)}</title>
 <meta name="description" content="${e(beschrijving)}">
-<meta property="og:title" content="${e(titel)}">
-<meta property="og:description" content="${e(beschrijving)}">
+${index ? `<link rel="canonical" href="${e(volledig(url))}">` : '<meta name="robots" content="noindex">'}
+<meta property="og:site_name" content="Hilversum kiest">
+<meta property="og:locale" content="nl_NL">
 <meta property="og:type" content="website">
+<meta property="og:title" content="${e(titel.replace(/ – Hilversum kiest$/, ''))}">
+<meta property="og:description" content="${e(beschrijving)}">
+${index ? `<meta property="og:url" content="${e(volledig(url))}">` : ''}
+${b ? `<meta property="og:image" content="${e(volledig(`/assets/deel/${b}.png`))}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${e(beeldAlt || deelAlt(b))}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="${e(beeldAlt || deelAlt(b))}">` : '<meta name="twitter:card" content="summary">'}
+<meta name="theme-color" content="#ffffff">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/fonts/jost.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/site.css">
+${ld.map(ldJson).join('\n')}
 ${kop}
 ${meetKop}
 </head>
 <body>
-<a class="sr" href="#inhoud">Naar de inhoud</a>
+<a class="sr sr--focus" href="#inhoud">Naar de inhoud</a>
 <header class="kop"><div class="binnen">
   <a class="merk" href="/"><span class="vakje vakje--vol" aria-hidden="true"></span><span class="merk__tekst"><span class="merk__naam">Hilversum kiest<span class="beta" title="Proefversie: er kunnen nog fouten in zitten">bèta</span></span><span class="merk__wanneer">op woensdag 18 november, 7.30 tot 21.00 uur</span></span></a>
-  <nav aria-label="Hoofdmenu">${NAV.map(([h, t]) => `<a href="${h}"${pad.startsWith(h) ? ' aria-current="page"' : ''}>${t}</a>`).join('')}<a class="navknop" href="${VINDER}"${pad === VINDER ? ' aria-current="page"' : ''}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 18s6-5.6 6-10A6 6 0 0 0 4 8c0 4.4 6 10 6 10z"/><circle cx="10" cy="8" r="2.2"/></svg>Stembureauvinder</a></nav>
+  <nav aria-label="Hoofdmenu">${NAV.map(([h, t]) => `<a href="${h}"${huidig(h)}>${t}</a>`).join('')}<a class="navknop" href="${VINDER}"${huidig(VINDER)}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 18s6-5.6 6-10A6 6 0 0 0 4 8c0 4.4 6 10 6 10z"/><circle cx="10" cy="8" r="2.2"/></svg>Stembureauvinder</a></nav>
 </div></header>
-<main id="inhoud"><div class="binnen">
-${inhoud}
+<main id="inhoud" tabindex="-1"><div class="binnen">
+${inhoud.replace(/<div class="tabel-wrap">/g, '<div class="tabel-wrap" tabindex="0" role="region" aria-label="Tabel">')}
 </div></main>
 <footer class="voet"><div class="binnen">
   <div class="voet__raster">
@@ -103,7 +131,7 @@ ${scripts}
 }
 
 const stip = (p) => `<i style="background:${p.kleur}"></i>`;
-const lijstLink = (p) => `<a href="/lijsten/${p.slug}/">${e(p.kort)}</a>`;
+const lijstLink = (p) => `<a href="/partijen/${p.slug}/">${e(p.kort)}</a>`;
 
 function biljet({ voet = '' } = {}) {
   return `<div class="biljet" data-biljet>
@@ -119,19 +147,20 @@ function biljet({ voet = '' } = {}) {
 const VIDEO = (bestaat('data/site.json') ? lees('data/site.json').video : '') || '';
 const logos = bestaat('data/logos.json') ? lees('data/logos.json') : {};
 // Het logo van een partij, of haar naam als er geen logo is (de blanco lijst).
-const logoHtml = (p) => {
+const logoHtml = (p, { versiering = false } = {}) => {
   const l = logos[p.slug];
   return l?.bestand
-    ? `<span class="logo${l.achtergrond === 'donker' ? ' logo--donker' : ''}"><img src="/assets/logos/${e(l.bestand)}" alt="Logo ${e(p.kort)}" loading="lazy"></span>`
-    : `<span class="logo logo--naam">${e(p.kort.replace(/\s*\(.*$/, ''))}</span>`;
+    ? `<span class="logo${l.achtergrond === 'donker' ? ' logo--donker' : ''}"><img src="/assets/logos/${e(l.bestand)}" alt="${versiering ? '' : `Logo ${e(p.kort)}`}" loading="lazy"></span>`
+    : `<span class="logo logo--naam"${versiering ? ' aria-hidden="true"' : ''}>${e(p.kort.replace(/\s*\(.*$/, ''))}</span>`;
 };
 
 // ---------- Voorpagina ----------
 const raad = info.nieuwe_raad || {};
 schrijf('index.html', pagina({
-  titel: 'Hilversum kiest – stemwijzer voor 18 november 2026',
+  titel: 'Hilversum kiest – stemwijzer gemeenteraadsverkiezing 18 november 2026',
   beschrijving: 'Onafhankelijke stemwijzer voor de gemeenteraadsverkiezing in Hilversum en de dorpen van Wijdemeren. Kies zelf welke partijen en thema\'s meedoen.',
   pad: '/',
+  ld: [{ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Hilversum kiest', url: volledig('/'), inLanguage: 'nl-NL', description: 'Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum en Wijdemeren).', author: { '@type': 'Person', name: 'Paul Tondeur', url: 'https://www.paultondeur.com/' } }],
   inhoud: `
 <section class="opening">
   <div class="opening__tekst">
@@ -139,7 +168,7 @@ schrijf('index.html', pagina({
     <p>Kleur de partijen die je overweegt. De stemwijzer vraagt daarna alleen door op de punten waar juist die partijen van elkaar verschillen.</p>
     <p class="klein">Woensdag 18 november 2026 kiezen Hilversum, Loosdrecht, Kortenhoef, 's-Graveland, Ankeveen, Nederhorst den Berg en Breukeleveen samen één nieuwe gemeenteraad.</p>
   </div>
-  ${biljet({ voet: `<div class="biljet__voet"><span data-telling class="grijs">Nog geen partij gekleurd</span><a class="knop" href="/stemwijzer/" data-start>Start de stemwijzer</a></div>` })}
+  ${biljet({ voet: `<div class="biljet__voet"><span data-telling class="grijs" role="status">Nog geen partij gekleurd</span><a class="knop" href="/stemwijzer/" data-start>Start de stemwijzer</a></div>` })}
 </section>
 
 <dl class="feiten">
@@ -180,7 +209,7 @@ schrijf('index.html', pagina({
   </div>
   <div>
     <p>Wil je eerst rondkijken? Elke partij heeft een eigen pagina met haar speerpunten, haar standpunt op elke stelling en de partijen die er inhoudelijk het dichtst bij zitten.</p>
-    <p><a href="/lijsten/">Bekijk de twintig partijen</a><br><a href="/vergelijk/">Leg twee partijen naast elkaar</a></p>
+    <p><a href="/partijen/">Bekijk de twintig partijen</a><br><a href="/vergelijken/">Leg twee partijen naast elkaar</a></p>
   </div>
 </div>`,
   scripts: `<script type="module" src="/assets/js/biljet.js"></script>`,
@@ -188,10 +217,11 @@ schrijf('index.html', pagina({
 
 // ---------- Stemwijzer ----------
 schrijf('stemwijzer/index.html', pagina({
-  titel: 'Stemwijzer – Hilversum kiest',
+  titel: 'Stemwijzer Hilversum en Wijdemeren 2026 – Hilversum kiest',
   beschrijving: 'Kies de partijen die je overweegt en de thema\'s die je belangrijk vindt. De stemwijzer stelt de vragen waarop die partijen verschillen.',
   pad: '/stemwijzer/',
-  inhoud: `<div id="app"><noscript><p>De stemwijzer heeft JavaScript nodig. Zonder JavaScript kun je wel <a href="/lijsten/">alle standpunten per partij</a> lezen.</p></noscript><p class="grijs">De stemwijzer wordt geladen.</p></div>`,
+  beeld: 'stemwijzer',
+  inhoud: `<div id="app"><noscript><p>De stemwijzer heeft JavaScript nodig. Zonder JavaScript kun je wel <a href="/partijen/">alle standpunten per partij</a> lezen.</p></noscript><p class="grijs">De stemwijzer wordt geladen.</p></div>`,
   scripts: `<script type="module" src="/assets/js/stemwijzer.js"></script>`,
 }));
 
@@ -200,7 +230,8 @@ schrijf('stemwijzer/index.html', pagina({
 // los van elkaar bij deze persoon vonden (tools/maak_kandidaten.py).
 const kandidaten = bestaat('data/kandidaten.json') ? lees('data/kandidaten.json') : {};
 function kandidaatHtml(k) {
-  const links = [k.linkedin ? `<a href="${e(k.linkedin)}" rel="noopener">LinkedIn</a>` : '', k.bron ? `<a href="${e(k.bron)}" rel="noopener">bron</a>` : ''].filter(Boolean).join('');
+  const van = `<span class="sr"> van ${e(k.naam)}</span>`;
+  const links = [k.linkedin ? `<a href="${e(k.linkedin)}" rel="noopener">LinkedIn${van}</a>` : '', k.bron ? `<a href="${e(k.bron)}" rel="noopener">bron${van}</a>` : ''].filter(Boolean).join('');
   return `<li class="kandidaat" id="kandidaat-${k.nr}"><span class="portret${k.foto ? '' : ` portret--${k.geslacht || 'x'}`}">${k.foto ? `<img src="/assets/kandidaten/${e(k.foto)}" alt="" width="132" height="132" loading="lazy">` : ''}</span><div><b><span class="knr">${k.nr}</span> ${e(k.naam)}</b><span class="grijs">${e(k.woonplaats)}</span>${k.bio ? `<p>${e(k.bio)}</p>` : ''}${links ? `<span class="klinks">${links}</span>` : ''}</div></li>`;
 }
 function kandidatenHtml(p) {
@@ -263,33 +294,42 @@ function kaartSvg() {
     Object.assign(o, { ly: plek.ly, links: plek.links });
     geplaatst.push({ ly: plek.ly, x1: plek.x1, x2: plek.x2 });
   }
-  return `<div class="landschap"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Kaart van de twintig partijen: partijen die dicht bij elkaar staan, hebben vergelijkbare standpunten">
-  ${pt.map((o) => `<a href="/lijsten/${o.p.slug}/" data-slug="${o.p.slug}"><circle cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="8" fill="${o.p.kleur}" stroke="#0e1b2c" stroke-width="1.5"/><text x="${(o.links ? o.x - 12 : o.x + 12).toFixed(1)}" y="${o.ly.toFixed(1)}"${o.links ? ' text-anchor="end"' : ''}>${e(o.p.kort)}</text></a>`).join('\n  ')}
-  </svg></div>`;
+  return `<div class="landschap"><svg viewBox="0 0 ${W} ${H}" role="group" aria-label="Kaart van de twintig partijen: partijen die dicht bij elkaar staan, hebben vergelijkbare standpunten">
+  ${pt.map((o) => `<a href="/partijen/${o.p.slug}/" data-slug="${o.p.slug}"><circle class="tikvlak" cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="17"/><circle cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="8" fill="${o.p.kleur}" stroke="#0e1b2c" stroke-width="1.5"/><text x="${(o.links ? o.x - 12 : o.x + 12).toFixed(1)}" y="${o.ly.toFixed(1)}"${o.links ? ' text-anchor="end"' : ''}>${e(o.p.kort)}</text></a>`).join('\n  ')}
+  </svg></div>
+<p class="klein alleen-smal">Schuif de kaart opzij om alle partijen te zien.</p>`;
 }
 const pct = (afst) => (afst === null ? '–' : Math.round((1 - afst) * 100));
+const lum = (rgb) => { const [r, g, b] = rgb.map((c) => { c /= 255; return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4; }); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };
+const contrast = (a, b) => (Math.max(lum(a), lum(b)) + 0.05) / (Math.min(lum(a), lum(b)) + 0.05);
 function heat(v) {
   if (v === null) return '';
   const t = Math.max(0, Math.min(1, (v - 35) / 55));
-  return `background:rgba(29,79,145,${(t * 0.85).toFixed(2)});color:${t > 0.55 ? '#fff' : '#0e1b2c'}`;
+  // Een tussenkleur waarop wit noch inkt goed leesbaar is, schuift door naar de eerste tint waarop wit dat wel is.
+  let a = t * 0.85;
+  const vlak = (x) => [29, 79, 145].map((c) => Math.round(255 * (1 - x) + c * x));
+  const inkt = [14, 27, 44], wit = [255, 255, 255];
+  while (a < 0.85 && contrast(vlak(a), inkt) < 4.5 && contrast(vlak(a), wit) < 4.5) a += 0.01;
+  return `background:rgb(${vlak(a).join(',')});color:${contrast(vlak(a), wit) >= 4.5 ? '#fff' : '#0e1b2c'}`;
 }
 
-schrijf('lijsten/index.html', pagina({
-  titel: 'De twintig partijen – Hilversum kiest',
-  beschrijving: 'Alle partijen voor de gemeenteraadsverkiezing van 18 november 2026 in Hilversum, met hun speerpunten en hoe dicht ze bij elkaar staan.',
-  pad: '/lijsten/',
+schrijf('partijen/index.html', pagina({
+  titel: 'De twintig partijen en hun kandidaten – Hilversum kiest',
+  beschrijving: 'De twintig partijen voor de gemeenteraadsverkiezing van 18 november in Hilversum, met lijsttrekker, alle kandidaten, speerpunten en standpunten.',
+  pad: '/partijen/',
+  beeld: 'partijen',
   inhoud: `
 <h1>De twintig partijen</h1>
 <p>In de volgorde van het stembiljet. Elke partij heeft een eigen pagina met speerpunten, standpunten per thema en de partijen die er het dichtst bij staan.</p>
 <ul class="lijstkaarten">
 ${partijen.map((p) => {
     const rij = kandidaten[p.slug] || [];
-    return `<li><a class="lijstkaart__kop" href="/lijsten/${p.slug}/">${logoHtml(p)}<span class="lijstkaart__naam"><span class="grijs">Lijst ${p.nr}</span><b>${e(p.naam)}</b><span class="grijs">Lijsttrekker ${e(p.lijsttrekker)}</span></span></a>
-  <div class="gezichten" aria-label="Kandidaten van ${e(p.kort)}">${rij.map((k) => `<a href="/lijsten/${p.slug}/#kandidaat-${k.nr}" title="${k.nr}. ${e(k.naam)}" aria-label="${k.nr}. ${e(k.naam)}"${k.foto ? '' : ` class="leeg portret--${k.geslacht || 'x'}"`}>${k.foto ? `<img src="/assets/kandidaten/${e(k.foto.replace('.jpg', '-k.jpg'))}" alt="" width="40" height="40" loading="lazy">` : ''}</a>`).join('')}</div></li>`;
+    return `<li><a class="lijstkaart__kop" href="/partijen/${p.slug}/">${logoHtml(p, { versiering: true })}<span class="lijstkaart__naam"><span class="grijs">Lijst ${p.nr}</span><b>${e(p.naam)}</b><span class="grijs">Lijsttrekker ${e(p.lijsttrekker)}</span></span></a>
+  <ul class="gezichten" aria-label="Kandidaten van ${e(p.kort)}">${rij.map((k) => `<li><a href="/partijen/${p.slug}/#kandidaat-${k.nr}" title="${k.nr}. ${e(k.naam)}" aria-label="${k.nr}. ${e(k.naam)}"${k.foto ? '' : ` class="leeg portret--${k.geslacht || 'x'}"`}>${k.foto ? `<img src="/assets/kandidaten/${e(k.foto.replace('.jpg', '-k.jpg'))}" alt="" width="40" height="40" loading="lazy">` : ''}</a></li>`).join('')}</ul></li>`;
   }).join('\n')}
 </ul>
 <p class="klein">Elk rondje is een kandidaat, in de volgorde van het stembiljet; een getekend figuurtje betekent dat er geen foto is gevonden die zeker bij die persoon hoort. Tik op een rondje voor de kandidaat.</p>
-<p><a class="knop knop--licht" href="/vergelijk/">Vergelijk partijen met elkaar</a></p>`,
+<p><a class="knop knop--licht" href="/vergelijken/">Vergelijk partijen met elkaar</a></p>`,
 }));
 
 function landschapHtml() {
@@ -299,10 +339,10 @@ function landschapHtml() {
 ${kaartSvg()}
 <details class="uitleg"><summary>Overeenkomst tussen alle partijen in procenten</summary>
 <p class="klein">100 betekent: op elke stelling waar beide partijen een standpunt hebben precies dezelfde positie. Partijen met weinig bekende standpunten zijn minder betrouwbaar te vergelijken.</p>
-<div class="tabel-wrap"><table>
-<thead><tr><th></th>${partijen.map((p) => `<th class="num" title="${e(p.kort)}">${p.nr}</th>`).join('')}</tr></thead>
+<div class="tabel-wrap" tabindex="0" role="region" aria-label="Overeenkomst tussen alle partijen"><table>
+<thead><tr><td></td>${partijen.map((p) => `<th class="num" scope="col" title="${e(p.kort)}">${p.nr}<span class="sr"> ${e(p.kort)}</span></th>`).join('')}</tr></thead>
 <tbody>
-${partijen.map((p, i) => `<tr><th><a href="/lijsten/${p.slug}/">${p.nr}. ${e(p.kort)}</a></th>${partijen.map((q, j) => (i === j ? '<td class="heat">·</td>' : `<td class="heat" style="${heat(pct(D[i][j]))}">${pct(D[i][j])}</td>`)).join('')}</tr>`).join('\n')}
+${partijen.map((p, i) => `<tr><th scope="row"><a href="/partijen/${p.slug}/">${p.nr}. ${e(p.kort)}</a></th>${partijen.map((q, j) => (i === j ? '<td class="heat">·</td>' : `<td class="heat" style="${heat(pct(D[i][j]))}">${pct(D[i][j])}</td>`)).join('')}</tr>`).join('\n')}
 </tbody></table></div></details>`;
 }
 
@@ -311,7 +351,7 @@ function standpuntHtml(st, slug, { metNaam = false } = {}) {
   const p = P[slug];
   const bron = pos.bron ? `<cite>${e(SOORT[pos.soort] || '')}${pos.soort && pos.bron ? ': ' : ''}${e(pos.bron)}</cite>` : pos.soort ? `<cite>${e(SOORT[pos.soort])}</cite>` : '';
   return `<div class="standpunt" style="border-left-color:${p.kleur}">
-  <h5>${metNaam ? e(p.kort) + ' ' : ''}<span class="pos" data-s="${pos.s ?? 'null'}">${POS[pos.s ?? null]}</span>${pos.kern ? ` <span>${e(pos.kern)}</span>` : ''}</h5>
+  <h4 class="standpunt__kop">${metNaam ? e(p.kort) + ' ' : ''}<span class="pos" data-s="${pos.s ?? 'null'}">${POS[pos.s ?? null]}</span>${pos.kern ? ` <span>${e(pos.kern)}</span>` : ''}</h4>
   ${pos.toelichting ? `<p>${e(pos.toelichting)}</p>` : pos.s === null || pos.s === undefined ? '<p class="grijs">In het programma en de andere bronnen is hierover geen duidelijk standpunt gevonden.</p>' : ''}
   ${pos.citaat ? `<blockquote>“${e(pos.citaat)}”</blockquote>` : ''}
   ${bron}
@@ -327,10 +367,17 @@ for (const p of partijen) {
     .map((st) => ({ st, a: positie(st, p.slug), b: positie(st, ander) }))
     .filter((x) => x.a !== null && x.b !== null && Math.abs(x.a - x.b) >= 2)
     .sort((x, y) => Math.abs(y.a - y.b) - Math.abs(x.a - x.b)).slice(0, 4);
-  schrijf(`lijsten/${p.slug}/index.html`, pagina({
+  schrijf(`partijen/${p.slug}/index.html`, pagina({
     titel: `${p.naam} – lijst ${p.nr} – Hilversum kiest`,
-    beschrijving: `Speerpunten en standpunten van ${p.naam} (lijst ${p.nr}) voor de gemeenteraadsverkiezing van 18 november 2026 in Hilversum.`,
-    pad: '/lijsten/',
+    beschrijving: `${p.naam}, lijst ${p.nr}, lijsttrekker ${p.lijsttrekker}: speerpunten, standpunten${(kandidaten[p.slug] || []).length > 1 ? ` en alle ${(kandidaten[p.slug] || []).length} kandidaten` : ''}. Gemeenteraadsverkiezing Hilversum, 18 november.`,
+    pad: '/partijen/',
+    url: `/partijen/${p.slug}/`,
+    beeld: `partij-${p.slug}`,
+    beeldAlt: `${logos[p.slug]?.bestand ? `Logo van ${p.naam}. ` : ''}${p.naam}, lijst ${p.nr}, lijsttrekker ${p.lijsttrekker}. ${OP_BEELD}.`,
+    ld: [{ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Partijen', item: volledig('/partijen/') },
+      { '@type': 'ListItem', position: 2, name: p.naam, item: volledig(`/partijen/${p.slug}/`) },
+    ] }],
     inhoud: `
 <div class="partijkop">
   ${logos[p.slug]?.bestand ? logoHtml(p) : ''}
@@ -338,7 +385,7 @@ for (const p of partijen) {
   <h1>${e(p.naam)}</h1>
   <span class="grijs">Lijsttrekker ${e(p.lijsttrekker)}${p.website ? ` · <a href="${e(p.website)}" rel="noopener">website</a>` : ''}${p.programma.url ? ` · <a href="${e(p.programma.url)}" rel="noopener">verkiezingsprogramma${p.programma.paginas ? ` (${p.programma.paginas} pagina's)` : ''}</a>` : ''}</span>
 </div>
-<ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul>
+<nav aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
 <div class="smal">
 ${p.kernboodschap ? `<p style="font-size:1.2rem;line-height:1.5">${e(p.kernboodschap)}</p>` : ''}
 ${p.achtergrond ? `<p class="grijs">${e(p.achtergrond)}</p>` : ''}
@@ -356,7 +403,7 @@ ${kandidatenHtml(p)}
 ${dicht.slice(0, 3).map((b) => {
     const v = verschil(b.s);
     if (!v.length) return '';
-    return `<h3>Waar ${e(p.kort)} en ${e(P[b.s].kort)} toch uit elkaar gaan</h3><ul class="punten">${v.map((x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(p.kort)}: ${POS[x.a].toLowerCase()} · ${e(P[b.s].kort)}: ${POS[x.b].toLowerCase()}</span></summary><div class="inhoud">${standpuntHtml(x.st, p.slug, { metNaam: true })}${standpuntHtml(x.st, b.s, { metNaam: true })}</div></details></li>`).join('')}</ul><p class="klein"><a href="/vergelijk/?a=${p.slug}&amp;b=${b.s}">Volledige vergelijking van deze twee partijen</a></p>`;
+    return `<h3>Waar ${e(p.kort)} en ${e(P[b.s].kort)} toch uit elkaar gaan</h3><ul class="punten">${v.map((x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(p.kort)}: ${POS[x.a].toLowerCase()} · ${e(P[b.s].kort)}: ${POS[x.b].toLowerCase()}</span></summary><div class="inhoud">${standpuntHtml(x.st, p.slug, { metNaam: true })}${standpuntHtml(x.st, b.s, { metNaam: true })}</div></details></li>`).join('')}</ul><p class="klein"><a href="/vergelijken/?a=${p.slug}&amp;b=${b.s}">Volledige vergelijking van deze twee partijen</a></p>`;
   }).join('')}
 
 <h2>Standpunten per thema</h2>
@@ -374,10 +421,11 @@ ${themas.map((t) => {
 }
 
 // ---------- Vergelijken ----------
-schrijf('vergelijk/index.html', pagina({
+schrijf('vergelijken/index.html', pagina({
   titel: 'Partijen vergelijken – Hilversum kiest',
   beschrijving: 'Leg twee tot zes partijen naast elkaar, zie op welke stellingen ze verschillen en doe met die partijen de stemwijzer.',
-  pad: '/vergelijk/',
+  pad: '/vergelijken/',
+  beeld: 'vergelijken',
   inhoud: `<h1>Partijen vergelijken</h1>
 <p>Kies twee tot zes partijen, in de kaart of in de keuzelijsten eronder. Je ziet eerst de stellingen waarop ze het verst uit elkaar staan, en je kunt met die partijen meteen de stemwijzer doen.</p>
 ${landschapHtml()}
@@ -395,16 +443,25 @@ schrijf('stemmen/index.html', pagina({
   titel: 'Stemmen op 18 november – Hilversum kiest',
   beschrijving: 'Wie mag stemmen, wat neem je mee, hoe werkt een volmacht en waar zijn de stembureaus in Hilversum en de dorpen.',
   pad: '/stemmen/',
+  beeld: 'stemmen',
+  // De verkiezingsdag als gebeurtenis: de gemeente Hilversum organiseert de verkiezing (bronnen/_verkiezing/info.json).
+  ld: [{ '@context': 'https://schema.org', '@type': 'Event', name: 'Gemeenteraadsverkiezing Hilversum 2026',
+    description: 'Verkiezing van de gemeenteraad van de nieuwe gemeente Hilversum, waarin Wijdemeren op 1 januari 2027 opgaat. De meeste stembureaus zijn open van 7.30 tot 21.00 uur.',
+    startDate: '2026-11-18T07:30:00+01:00', endDate: '2026-11-18T21:00:00+01:00',
+    eventStatus: 'https://schema.org/EventScheduled', eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode', isAccessibleForFree: true,
+    location: { '@type': 'Place', name: `${bureaus.length} stembureaus in de gemeenten Hilversum en Wijdemeren`, address: { '@type': 'PostalAddress', addressRegion: 'Noord-Holland', addressCountry: 'NL' } },
+    organizer: { '@type': 'GovernmentOrganization', name: 'Gemeente Hilversum', url: 'https://hilversum.nl/gemeenteraadsverkiezing-2026' },
+    image: volledig('/assets/deel/stemmen.png'), url: volledig('/stemmen/') }],
   inhoud: `
 <h1>Stemmen op woensdag 18 november</h1>
 <p style="font-size:1.2rem;max-width:44ch">Neem je stempas en een identiteitsbewijs mee. Je mag stemmen in elk stembureau van Hilversum en Wijdemeren, tussen 7.30 en 21.00 uur.</p>
-<ul class="inpagina"><li><a href="#mag-ik">Mag ik stemmen</a></li><li><a href="#meenemen">Wat neem ik mee</a></li><li><a href="#volmacht">Volmacht</a></li><li><a href="#stempas-kwijt">Stempas kwijt</a></li><li><a href="#stembureaus">Stembureaus</a></li><li><a href="#hulp">Hulp en toegankelijkheid</a></li><li><a href="#data">Data</a></li><li><a href="#fusie">De fusie</a></li></ul>
+<nav aria-label="Op deze pagina"><ul class="inpagina"><li><a href="#mag-ik">Mag ik stemmen</a></li><li><a href="#meenemen">Wat neem ik mee</a></li><li><a href="#volmacht">Volmacht</a></li><li><a href="#stempas-kwijt">Stempas kwijt</a></li><li><a href="#stembureaus">Stembureaus</a></li><li><a href="#hulp">Hulp en toegankelijkheid</a></li><li><a href="#data">Data</a></li><li><a href="#fusie">De fusie</a></li></ul></nav>
 
 <div class="tweekolom">
-<section class="blok" id="mag-ik"><h3>Mag ik stemmen</h3>${lijst((info.wie_mag_stemmen || []).slice(0, 4))}</section>
-<section class="blok" id="meenemen"><h3>Wat neem ik mee</h3>${lijst(info.wat_neem_je_mee)}</section>
-<section class="blok" id="volmacht"><h3>Iemand anders laten stemmen</h3>${lijst(info.volmacht)}</section>
-<section class="blok" id="stempas-kwijt"><h3>Stempas kwijt of niet gekregen</h3>${lijst(info.vervangende_stempas)}</section>
+<section class="blok" id="mag-ik"><h2 class="blok__kop">Mag ik stemmen</h2>${lijst((info.wie_mag_stemmen || []).slice(0, 4))}</section>
+<section class="blok" id="meenemen"><h2 class="blok__kop">Wat neem ik mee</h2>${lijst(info.wat_neem_je_mee)}</section>
+<section class="blok" id="volmacht"><h2 class="blok__kop">Iemand anders laten stemmen</h2>${lijst(info.volmacht)}</section>
+<section class="blok" id="stempas-kwijt"><h2 class="blok__kop">Stempas kwijt of niet gekregen</h2>${lijst(info.vervangende_stempas)}</section>
 </div>
 
 <h2 id="stembureaus">Stembureaus</h2>
@@ -447,12 +504,14 @@ schrijf('stembureauvinder/index.html', pagina({
   titel: 'Stembureauvinder – Hilversum kiest',
   beschrijving: 'Alle stembureaus van Hilversum en de dorpen op een 3D-kaart, met adres en openingstijd. Woensdag 18 november van 7.30 tot 21.00 uur.',
   pad: VINDER,
+  beeld: 'stembureauvinder',
   inhoud: `
 <h1>Stembureauvinder</h1>
 <p style="font-size:1.2rem;max-width:52ch">Woensdag 18 november, van 7.30 tot 21.00 uur. Neem je stempas en een identiteitsbewijs mee.</p>
-<p>${bureaus.length} locaties. Je bent niet gebonden aan het stembureau op je stempas. Elk rood gebouw op de kaart is een stembureau: tik erop voor het adres en de openingstijd.</p>
+<p>${bureaus.length} locaties. Je bent niet gebonden aan het stembureau op je stempas. Elk rood gebouw op de kaart is een stembureau: tik erop voor het adres en de openingstijd. Onder de kaart staan dezelfde stembureaus als lijst, met een zoekveld.</p>
+<p><a class="sr sr--focus" href="#alle-stembureaus">Sla de kaart over, naar de lijst met alle stembureaus</a></p>
 <div class="kaartvak kaartvak--groot" id="kaartvak">
-  <canvas class="kaart3d" tabindex="0" aria-label="Kaart van de gemeente met alle stembureaus. Schuif met de pijltjestoetsen, zoom met plus en min. De lijst onder de kaart bevat dezelfde stembureaus."></canvas>
+  <canvas class="kaart3d" tabindex="0" role="img" aria-label="3D-kaart van de gemeente met alle stembureaus. Schuif met de pijltjestoetsen, zoom met plus en min. De lijst onder de kaart bevat dezelfde stembureaus, met adres en openingstijd."></canvas>
   <canvas class="kaartlabels" aria-hidden="true"></canvas>
   <div class="wissel" role="group" aria-label="Weergave van de kaart">
     <button type="button" data-weergave="3d" aria-pressed="true">3D</button><button type="button" data-weergave="plat" aria-pressed="false">Plat</button>
@@ -464,17 +523,19 @@ schrijf('stembureauvinder/index.html', pagina({
     <button type="button" data-kaart="thuis" aria-label="Toon de hele gemeente"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 8V3h5M12 3h5v5M17 12v5h-5M8 17H3v-5"/></svg></button>
     <button type="button" data-kaart="hier" aria-label="Toon waar ik ben"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="4.5"/><path d="M10 1.5v3M10 15.5v3M1.5 10h3M15.5 10h3"/></svg></button>
   </div>
-  <div class="kaartkaartje" id="kaartkaartje" hidden></div>
+  <div class="kaartkaartje" id="kaartkaartje" role="region" aria-label="Gekozen stembureau" aria-live="polite" tabindex="-1" hidden></div>
   <p class="kaartmelding" id="kaartmelding" role="status" hidden></p>
   <p class="kaartlaadt" hidden>Kaart laden</p>
 </div>
 <p class="klein">Gebouwen: <a href="https://3dbag.nl" rel="noopener">3D BAG</a> (TU Delft en 3DGI, CC BY 4.0). Ondergrond: © <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap</a>-bijdragers. Trein, zeilboot en hert: <a href="https://quaternius.com" rel="noopener">Quaternius</a> (CC0); eend: Poly by Google (CC BY 3.0). De kaart staat op deze site zelf: er wordt niets bij anderen opgehaald.</p>
+<h2 id="alle-stembureaus" tabindex="-1">Alle stembureaus</h2>
 <div class="zoek">
-  <input type="search" id="zoek" placeholder="Zoek op naam, straat of plaats" aria-label="Zoek een stembureau">
+  <input type="search" id="zoek" placeholder="Zoek op naam, straat of plaats" aria-label="Zoek een stembureau op naam, straat of plaats">
   <select id="plaats" aria-label="Plaats"><option value="">Alle plaatsen</option>${plaatsen.map((p) => `<option>${e(p)}</option>`).join('')}</select>
 </div>
+<p class="sr" id="aantal" role="status"></p>
 <ul class="bureaus" id="bureaus">
-${bureaus.map((b, nr) => `<li data-nr="${nr}" data-plaats="${e(b.plaats)}" data-zoek="${e((b.naam + ' ' + b.adres + ' ' + b.plaats).toLowerCase())}"${b.lat ? ` data-lat="${b.lat}" data-lon="${b.lon}"` : ''}><b>${e(b.naam)}</b><span>${e(b.adres)}, ${e(b.plaats)}</span><span${b.afwijkend ? ' class="afw"' : ''}>${uur(b.open)} tot ${uur(b.dicht)} uur${b.afwijkend ? ' (afwijkend)' : ''}</span>${b.bijzonder ? `<span>${e(b.bijzonder[0].toUpperCase() + b.bijzonder.slice(1))}</span>` : ''}${b.lat ? `<button class="opkaart" type="button">Toon op de kaart</button>` : ''}</li>`).join('\n')}
+${bureaus.map((b, nr) => `<li data-nr="${nr}" data-plaats="${e(b.plaats)}" data-zoek="${e((b.naam + ' ' + b.adres + ' ' + b.plaats).toLowerCase())}"${b.lat ? ` data-lat="${b.lat}" data-lon="${b.lon}"` : ''}><b>${e(b.naam)}</b><span>${e(b.adres)}, ${e(b.plaats)}</span><span${b.afwijkend ? ' class="afw"' : ''}>${uur(b.open)} tot ${uur(b.dicht)} uur${b.afwijkend ? ' (afwijkend)' : ''}</span>${b.bijzonder ? `<span>${e(b.bijzonder[0].toUpperCase() + b.bijzonder.slice(1))}</span>` : ''}${b.lat ? `<button class="opkaart" type="button">Toon op de kaart<span class="sr">: ${e(b.naam)}</span></button>` : ''}</li>`).join('\n')}
 </ul>
 
 <p class="klein">Bron: Gemeenteblad 2026, nr. 514668 (4 november 2026). Kijk bij twijfel op <a href="https://hilversum.nl/gemeenteraadsverkiezing-2026" rel="noopener">hilversum.nl</a>.</p>
@@ -503,6 +564,7 @@ schrijf('verantwoording/index.html', pagina({
   titel: 'Verantwoording – Hilversum kiest',
   beschrijving: 'Hoe de stellingen en standpunten van Hilversum kiest tot stand zijn gekomen, hoe de uitslag wordt berekend en hoe de eerlijkheid is getoetst.',
   pad: '/verantwoording/',
+  beeld: 'verantwoording',
   inhoud: `
 <h1>Verantwoording</h1>
 <div class="smal">
@@ -510,8 +572,8 @@ ${verantwoordingExtra}
 <h2 id="dekking">Hoeveel standpunten per partij bekend zijn</h2>
 <p>Niet elk programma zegt iets over elke stelling. Waar geen standpunt te vinden was, staat “geen standpunt gevonden” en telt de stelling voor die partij als half overeenkomend: het helpt de partij niet en het schaadt haar niet.</p>
 </div>
-<div class="tabel-wrap"><table><thead><tr><th>Partij</th><th class="num">Standpunten bekend</th><th class="num">Van</th><th>Programma</th></tr></thead><tbody>
-${dekking.map(({ p, n }) => `<tr><td><a href="/lijsten/${p.slug}/">${p.nr}. ${e(p.naam)}</a></td><td class="num">${n}</td><td class="num">${stellingen.length}</td><td>${p.programma.url ? `<a href="${e(p.programma.url)}" rel="noopener">${e(p.programma.titel || 'programma')}</a>${p.programma.woorden ? `, ${Math.round(p.programma.woorden / 100) * 100} woorden` : ''}` : 'Geen programma gevonden'}</td></tr>`).join('\n')}
+<div class="tabel-wrap" tabindex="0" role="region" aria-label="Standpunten bekend per partij"><table><thead><tr><th>Partij</th><th class="num">Standpunten bekend</th><th class="num">Van</th><th>Programma</th></tr></thead><tbody>
+${dekking.map(({ p, n }) => `<tr><td><a href="/partijen/${p.slug}/">${p.nr}. ${e(p.naam)}</a></td><td class="num">${n}</td><td class="num">${stellingen.length}</td><td>${p.programma.url ? `<a href="${e(p.programma.url)}" rel="noopener">${e(p.programma.titel || 'programma')}</a>${p.programma.woorden ? `, ${Math.round(p.programma.woorden / 100) * 100} woorden` : ''}` : 'Geen programma gevonden'}</td></tr>`).join('\n')}
 </tbody></table></div>
 ${toets ? toets.html : ''}`,
 }));
@@ -534,6 +596,7 @@ schrijf('zelf-maken/index.html', pagina({
   titel: 'Zelf zo\'n stemwijzer maken – Hilversum kiest',
   beschrijving: 'De opdracht waarmee je met een AI-assistent zelf een stemwijzer als deze maakt, voor je eigen gemeente of verkiezing.',
   pad: '/zelf-maken/',
+  beeld: 'zelf-maken',
   inhoud: `
 <h1>Maak je eigen versie</h1>
 <div class="smal">
@@ -562,18 +625,50 @@ const licht = {
 };
 schrijf('data/stemwijzer.json', JSON.stringify(licht));
 schrijf('assets/favicon.svg', `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fff"/><circle cx="16" cy="16" r="11" fill="#d0271d" stroke="#0e1b2c" stroke-width="3"/></svg>`);
-schrijf('robots.txt', 'User-agent: *\nAllow: /\n');
 // Paden in de scripts aanpassen aan het basispad, en bestanden voor GitHub Pages
 if (BASIS !== '/') {
   const jsDir = path.join(DIST, 'assets/js');
   for (const f of fs.readdirSync(jsDir)) {
     const fp = path.join(jsDir, f);
     let t = fs.readFileSync(fp, 'utf8');
-    t = t.replace(/(href|src)="\/(?!\/)/g, `$1="${BASIS}`).replace(/(['"`])\/(data|stemwijzer|lijsten|vergelijk)\//g, `$1${BASIS}$2/`);
+    t = t.replace(/(href|src)="\/(?!\/)/g, `$1="${BASIS}`).replace(/(['"`])\/(data|stemwijzer|partijen|vergelijken)\//g, `$1${BASIS}$2/`);
     fs.writeFileSync(fp, t);
   }
 }
 schrijf('.nojekyll', '');
 if (process.env.DOMEIN) schrijf('CNAME', process.env.DOMEIN + '\n');
-schrijf('404.html', pagina({ titel: 'Pagina niet gevonden – Hilversum kiest', beschrijving: 'Deze pagina bestaat niet.', pad: '/404', scripts: `<script>window.meet('404',{pad:location.pathname})</script>`, inhoud: '<h1>Deze pagina bestaat niet</h1><p>Misschien is het adres verkeerd overgenomen. <a href="/">Ga naar de voorpagina</a> of <a href="/stemwijzer/">start de stemwijzer</a>.</p>' }));
+schrijf('404.html', pagina({ titel: 'Pagina niet gevonden – Hilversum kiest', beschrijving: 'Deze pagina bestaat niet.', pad: '/404', index: false, scripts: `<script>window.meet('404',{pad:location.pathname})</script>`, inhoud: '<h1>Deze pagina bestaat niet</h1><p>Misschien is het adres verkeerd overgenomen. <a href="/">Ga naar de voorpagina</a> of <a href="/stemwijzer/">start de stemwijzer</a>.</p>' }));
+// ---------- Oude adressen ----------
+// /lijsten/ heet nu /partijen/ en /vergelijk/ heet /vergelijken/. De oude adressen zijn gedeeld en staan in de video:
+// daar blijft een pagina staan die meteen doorstuurt, met wat achter ? en # staat erbij (een gekozen kandidaat of
+// vergelijking). Ze tellen niet mee in de bezoektelling en komen niet in zoekmachines.
+function doorverwijzing(oud, nieuw) {
+  schrijf(`${oud.slice(1)}index.html`, `<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<script>location.replace(${JSON.stringify(BASIS + nieuw.slice(1))}+location.search+location.hash)</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verhuisd – Hilversum kiest</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="${e(volledig(nieuw))}">
+<meta http-equiv="refresh" content="0; url=${e(BASIS + nieuw.slice(1))}">
+</head>
+<body>
+<p>Deze pagina staat nu op <a href="${nieuw}">${e(volledig(nieuw))}</a>.</p>
+</body>
+</html>`);
+}
+doorverwijzing('/lijsten/', '/partijen/');
+for (const p of partijen) doorverwijzing(`/lijsten/${p.slug}/`, `/partijen/${p.slug}/`);
+doorverwijzing('/vergelijk/', '/vergelijken/');
+
+// ---------- Voor zoekmachines ----------
+schrijf('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${volledig('/sitemap.xml')}\n`);
+const vandaag = new Date().toISOString().slice(0, 10);
+schrijf('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemap.map((u) => `<url><loc>${e(volledig(u))}</loc><lastmod>${vandaag}</lastmod></url>`).join('\n')}
+</urlset>
+`);
 console.log(`Gebouwd: ${partijen.length} partijen, ${stellingen.length} stellingen, ${bureaus.length} stembureaus -> dist/`);
