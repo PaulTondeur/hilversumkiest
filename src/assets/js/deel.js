@@ -19,12 +19,13 @@ export async function laadData() {
 }
 export const pos = (st, slug) => { const p = st.posities[slug]; return p && typeof p.s === 'number' ? p.s : null; };
 
-export function standpuntHtml(st, partij) {
+// kop: het kopniveau, passend bij de koppen erboven op de pagina.
+export function standpuntHtml(st, partij, kop = 'h4') {
   const p = st.posities[partij.slug] || { s: null };
   const s = typeof p.s === 'number' ? p.s : null;
   const bron = p.bron || p.soort ? `<cite>${e(SOORT[p.soort] || '')}${p.soort && p.bron ? ': ' : ''}${e(p.bron || '')}</cite>` : '';
   return `<div class="standpunt" style="border-left-color:${partij.kleur}">
-  <h5>${e(partij.kort)} <span class="pos" data-s="${s ?? 'null'}">${POS[s]}</span>${p.kern ? ` <span>${e(p.kern)}</span>` : ''}</h5>
+  <${kop} class="standpunt__kop">${e(partij.kort)} <span class="pos" data-s="${s ?? 'null'}">${POS[s]}</span>${p.kern ? ` <span>${e(p.kern)}</span>` : ''}</${kop}>
   ${p.toelichting ? `<p>${e(p.toelichting)}</p>` : s === null ? '<p class="grijs">Hierover is geen duidelijk standpunt gevonden.</p>' : ''}
   ${p.citaat ? `<blockquote>“${e(p.citaat)}”</blockquote>` : ''}
   ${bron}
@@ -37,7 +38,7 @@ export function spectrumHtml(st, partijen, jouw) {
     const hier = partijen.filter((p) => pos(st, p.slug) === v);
     const chips = hier.map((p) => `<span class="chip chip--vast" title="${e(st.posities[p.slug]?.kern || '')}"><i style="background:${p.kleur}"></i>${e(p.kort)}</span>`).join('');
     const jij = jouw === v ? '<span class="chip chip--jij">Jij</span>' : '';
-    return `<div class="${jouw === v ? 'jouw' : ''}"><h5>${POS[v]}</h5><div class="chips">${jij}${chips}</div></div>`;
+    return `<div class="${jouw === v ? 'jouw' : ''}"><p class="spectrum__kop">${POS[v]}</p><div class="chips">${jij}${chips}</div></div>`;
   }).join('');
   const onbekend = partijen.filter((p) => pos(st, p.slug) === null);
   return `<div class="spectrum">${kolommen}</div>${onbekend.length ? `<p class="onbekend">Geen standpunt gevonden: ${onbekend.map((p) => e(p.kort)).join(', ')}</p>` : ''}`;

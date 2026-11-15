@@ -6,7 +6,7 @@ let data;
 let verouderd = false;
 let staat = Object.assign({ lijsten: [], themas: [], diepte: 'normaal', antwoorden: {}, zwaar: [], set: null, i: 0, stap: 'lijsten' }, laadStaat());
 
-const STAPPEN = [['lijsten', 'Lijsten'], ['themas', "Thema's"], ['stellingen', 'Stellingen'], ['uitslag', 'Uitslag']];
+const STAPPEN = [['lijsten', 'Partijen'], ['themas', "Thema's"], ['stellingen', 'Stellingen'], ['uitslag', 'Uitslag']];
 const bewaar = () => bewaarStaat(staat);
 const P = () => Object.fromEntries(data.partijen.map((p) => [p.slug, p]));
 const gekozenPartijen = () => data.partijen.filter((p) => staat.lijsten.includes(p.slug));
@@ -72,6 +72,14 @@ function meld(stap) {
   window.meet?.({ themas: 'Stemwijzer: lijsten gekozen', stellingen: 'Stemwijzer: gestart', uitslag: 'Stemwijzer: uitslag' }[stap] || 'Stemwijzer: terug naar lijsten', props);
 }
 
+// Na een nieuwe stap of stelling gaat de focus naar de kop, zodat toetsenbord en schermlezer meegaan.
+function focusKop() {
+  const h = app.querySelector('h1');
+  if (!h) return;
+  h.tabIndex = -1;
+  h.focus({ preventScroll: true });
+}
+
 function ga(stap) {
   if (stap !== staat.stap) meld(stap);
   staat.stap = stap;
@@ -79,6 +87,7 @@ function ga(stap) {
   history.replaceState(null, '', stap === 'lijsten' ? location.pathname : '#' + stap);
   teken();
   app.scrollIntoView({ block: 'start' });
+  focusKop();
 }
 
 function stappenbalk() {
@@ -94,9 +103,9 @@ function tekenLijsten() {
 <div class="biljet">
   <div class="biljet__kop"><span>Partijen op het stembiljet</span><span><button type="button" data-alles>Kleur alles</button> <button type="button" data-wis>Wis</button></span></div>
   <ul class="biljet__lijst">${data.partijen.map((p) => `<li><label><input type="checkbox" value="${p.slug}" ${staat.lijsten.includes(p.slug) ? 'checked' : ''}><span class="vakje" aria-hidden="true"></span><span class="biljet__nr">${p.nr}</span><span class="biljet__naam">${e(p.kort)}</span></label></li>`).join('')}</ul>
-  <div class="biljet__voet"><span class="grijs" data-telling></span><button class="knop" type="button" data-verder>Verder naar thema's</button></div>
+  <div class="biljet__voet"><span class="grijs" data-telling role="status"></span><button class="knop" type="button" data-verder>Verder naar thema's</button></div>
 </div>
-<p class="klein" style="margin-top:1rem">Wil je eerst weten wat een partij wil? <a href="/lijsten/">Bekijk alle partijen</a>.</p>`;
+<p class="klein" style="margin-top:1rem">Wil je eerst weten wat een partij wil? <a href="/partijen/">Bekijk alle partijen</a>.</p>`;
   const vakjes = [...app.querySelectorAll('input[type=checkbox]')];
   const werkBij = () => {
     staat.lijsten = vakjes.filter((v) => v.checked).map((v) => v.value);
@@ -157,9 +166,9 @@ function tekenStelling() {
   const thema = data.themas.find((t) => t.id === st.thema);
   const a = staat.antwoorden[st.id];
   app.innerHTML = `${stappenbalk()}
-<article class="stelling" aria-live="polite">
-  <div class="stelling__meta"><span>${e(thema.naam)}</span><span>${staat.i + 1} van ${set.length}</span></div>
-  <div class="voortgang"><i style="width:${((staat.i) / set.length) * 100}%"></i></div>
+<article class="stelling">
+  <div class="stelling__meta"><span>${e(thema.naam)}</span><span>Stelling ${staat.i + 1} van ${set.length}</span></div>
+  <div class="voortgang" aria-hidden="true"><i style="width:${((staat.i) / set.length) * 100}%"></i></div>
   <div class="stelling__lijf">
     <p class="stelling__kop">${e(st.kop || '')}</p>
     <h1 class="stelling__tekst">${e(st.stelling)}</h1>
@@ -191,7 +200,7 @@ function tekenStelling() {
     const kanMeer = gekozenPartijen().length < data.partijen.length;
     blik.innerHTML = `<p class="klein">${alle ? `Alle ${data.partijen.length} partijen.` : `De ${lijsten.length} partijen die je hebt gekozen.`} ${kanMeer ? `<button class="knop knop--tekst" type="button" data-blik-wissel>${alle ? 'Toon alleen mijn partijen' : `Toon alle ${data.partijen.length} partijen`}</button>` : ''}</p>
 ${spectrumHtml(st, lijsten, staat.antwoorden[st.id])}
-${metStandpunt.map((p) => standpuntHtml(st, p)).join('')}`;
+${metStandpunt.map((p) => standpuntHtml(st, p, 'h2')).join('')}`;
     const wissel = blik.querySelector('[data-blik-wissel]');
     if (wissel) wissel.onclick = () => tekenBlik(!alle);
   };
@@ -202,7 +211,7 @@ ${metStandpunt.map((p) => standpuntHtml(st, p)).join('')}`;
     blikKnop.textContent = open ? 'Verberg de standpunten' : 'Wat vinden de partijen?';
     if (open) tekenBlik(false);
   };
-  const volgende = () => { if (staat.i >= set.length - 1) return ga('uitslag'); staat.i++; bewaar(); tekenStelling(); };
+  const volgende = () => { if (staat.i >= set.length - 1) return ga('uitslag'); staat.i++; bewaar(); tekenStelling(); focusKop(); };
   app.querySelectorAll('[data-antwoord]').forEach((b) => (b.onclick = () => {
     staat.antwoorden[st.id] = +b.dataset.antwoord;
     app.querySelectorAll('[data-antwoord]').forEach((x) => x.setAttribute('aria-pressed', x === b));
@@ -211,7 +220,7 @@ ${metStandpunt.map((p) => standpuntHtml(st, p)).join('')}`;
     else { tekenBlik(blik.querySelector('[data-blik-wissel]')?.textContent.startsWith('Toon alleen') || false); app.querySelector('[data-sla]').textContent = 'Volgende'; }
   }));
   app.querySelector('[data-sla]').onclick = volgende;
-  app.querySelector('[data-vorige]').onclick = () => { if (staat.i === 0) return ga('themas'); staat.i--; bewaar(); tekenStelling(); };
+  app.querySelector('[data-vorige]').onclick = () => { if (staat.i === 0) return ga('themas'); staat.i--; bewaar(); tekenStelling(); focusKop(); };
   app.querySelector('[data-zwaar]').onchange = (ev) => {
     staat.zwaar = ev.target.checked ? [...new Set([...staat.zwaar, st.id])] : staat.zwaar.filter((x) => x !== st.id);
     bewaar();
@@ -242,13 +251,13 @@ ${verschil !== null && verschil <= 3 && gelijk.length === 1 ? `<div class="meldi
 <ol class="uitslag">${uit.map((u, i) => {
     const p = pm[u.slug];
     const pct = procent(u.score);
-    return `<li class="${Math.abs(u.score - top) < 0.005 ? 'top' : ''}"><span class="uitslag__nr">${p.nr}</span><span class="uitslag__naam"><a href="/lijsten/${p.slug}/">${e(p.naam)}</a></span><span class="uitslag__pct">${pct}%</span><span class="uitslag__balk"><i style="width:${pct}%;background:${p.kleur}"></i></span>${u.bekend < u.beantwoord ? `<span class="uitslag__noot">Van ${u.bekend} van jouw ${u.beantwoord} stellingen is een standpunt bekend${u.bekend < u.beantwoord / 2 ? '. Deze score zegt daardoor weinig' : ''}.</span>` : ''}</li>`;
+    return `<li class="${Math.abs(u.score - top) < 0.005 ? 'top' : ''}"><span class="uitslag__nr">${p.nr}</span><span class="uitslag__naam"><a href="/partijen/${p.slug}/">${e(p.naam)}</a></span><span class="uitslag__pct">${pct}%</span><span class="uitslag__balk"><i style="width:${pct}%;background:${p.kleur}"></i></span>${u.bekend < u.beantwoord ? `<span class="uitslag__noot">Van ${u.bekend} van jouw ${u.beantwoord} stellingen is een standpunt bekend${u.bekend < u.beantwoord / 2 ? '. Deze score zegt daardoor weinig' : ''}.</span>` : ''}</li>`;
   }).join('')}</ol>
 <p class="klein">Het percentage zegt hoe dicht jullie posities bij elkaar liggen: 100% is overal dezelfde positie, 0% overal zo ver mogelijk van je af. Een stelling waarover een partij geen standpunt heeft, telt voor die partij neutraal. <a href="/verantwoording/#rekenen">Zo wordt het berekend</a>. Dit is een hulpmiddel om verschillen te zien, geen stemadvies.</p>
 <div class="rij" style="margin:1.2rem 0 0"><button class="knop knop--licht" type="button" data-deel>Kopieer link naar deze uitslag</button><button class="knop knop--licht" type="button" data-ga="lijsten">Andere partijen of thema's</button><button class="knop knop--tekst" type="button" data-opnieuw>Begin opnieuw</button></div>
 
 ${themaIds.length > 1 ? `<h2>Per thema</h2>
-<div class="tabel-wrap"><table><thead><tr><th>Partij</th>${themaIds.map((t) => `<th class="num">${e(data.themas.find((x) => x.id === t).kort)}</th>`).join('')}</tr></thead><tbody>
+<div class="tabel-wrap" tabindex="0" role="region" aria-label="Uitslag per thema"><table><thead><tr><th>Partij</th>${themaIds.map((t) => `<th class="num">${e(data.themas.find((x) => x.id === t).kort)}</th>`).join('')}</tr></thead><tbody>
 ${uit.map((u) => `<tr><th>${e(pm[u.slug].kort)}</th>${themaIds.map((t) => { const x = u.themas[t]; return `<td class="num">${x && x.score !== null ? procent(x.score) + '%' : '–'}</td>`; }).join('')}</tr>`).join('')}
 </tbody></table></div>` : ''}
 
@@ -257,7 +266,7 @@ ${uit.map((u) => `<tr><th>${e(pm[u.slug].kort)}</th>${themaIds.map((t) => { cons
 ${themaIds.map((t) => `<h3 class="themakop">${e(data.themas.find((x) => x.id === t).naam)}</h3><ul class="punten">${set.filter((s) => s.thema === t).map((st) => {
     const a = staat.antwoorden[st.id];
     const eens = a === undefined ? [] : partijen.filter((p) => { const v = pos(st, p.slug); return v !== null && Math.abs(v - a) <= 1 && (a === 0 || Math.sign(v) === Math.sign(a) || v === 0 && Math.abs(a) === 1); });
-    return `<li><details><summary><span class="st">${e(st.stelling)}</span><span class="sub">${a === undefined ? 'Overgeslagen' : `Jij: ${ANTWOORD[a].toLowerCase()}`}${staat.zwaar.includes(st.id) ? ' (telt dubbel)' : ''}${a !== undefined ? ` · Dicht bij jou: ${eens.length ? eens.map((p) => e(p.kort)).join(', ') : 'geen van je partijen'}` : ''}</span></summary><div class="inhoud">${spectrumHtml(st, partijen, a)}${partijen.filter((p) => pos(st, p.slug) !== null).sort((x, y) => pos(st, y.slug) - pos(st, x.slug)).map((p) => standpuntHtml(st, p)).join('')}</div></details></li>`;
+    return `<li><details><summary><span class="st">${e(st.stelling)}</span><span class="sub">${a === undefined ? 'Overgeslagen' : `Jij: ${ANTWOORD[a].toLowerCase()}`}${staat.zwaar.includes(st.id) ? ' (telt dubbel)' : ''}${a !== undefined ? ` · Dicht bij jou: ${eens.length ? eens.map((p) => e(p.kort)).join(', ') : 'geen van je partijen'}` : ''}</span></summary><div class="inhoud">${spectrumHtml(st, partijen, a)}${partijen.filter((p) => pos(st, p.slug) !== null).sort((x, y) => pos(st, y.slug) - pos(st, x.slug)).map((p) => standpuntHtml(st, p, 'h4')).join('')}</div></details></li>`;
   }).join('')}</ul>`).join('')}`;
   app.querySelector('[data-deel]').onclick = async (ev) => {
     window.meet?.('Stemwijzer: link gekopieerd');
@@ -314,5 +323,5 @@ try {
   teken();
   if (verouderd) app.insertAdjacentHTML('afterbegin', '<div class="melding"><p>Deze link hoort bij een eerdere versie van de stellingen en werkt niet meer. Je kunt de stemwijzer opnieuw doen.</p></div>');
 } catch (err) {
-  app.innerHTML = `<h1>De stemwijzer laadt niet</h1><p>${e(err.message)} Laad de pagina opnieuw. Blijft het misgaan, dan kun je de standpunten ook <a href="/lijsten/">per partij lezen</a>.</p>`;
+  app.innerHTML = `<h1>De stemwijzer laadt niet</h1><p>${e(err.message)} Laad de pagina opnieuw. Blijft het misgaan, dan kun je de standpunten ook <a href="/partijen/">per partij lezen</a>.</p>`;
 }

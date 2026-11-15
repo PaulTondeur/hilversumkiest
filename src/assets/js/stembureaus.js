@@ -6,7 +6,16 @@ const items = [...document.querySelectorAll('#bureaus li')];
 const vak = document.getElementById('kaartvak');
 const kaartje = document.getElementById('kaartkaartje');
 const melding = document.getElementById('kaartmelding');
+const aantal = document.getElementById('aantal');
 let kaart = null;
+let terug = null; // de knop "Toon op de kaart" waar de focus na het sluiten heen gaat
+
+// Sluit het kaartje; stond de focus erin, dan gaat die terug naar waar je vandaan kwam.
+function sluitKaartje() {
+  const binnen = kaartje.contains(document.activeElement), naar = terug;
+  kaart.sluit();
+  if (binnen) (naar && !naar.closest('[hidden]') ? naar : vak.querySelector('.kaart3d')).focus();
+}
 
 function filter() {
   const q = zoek.value.trim().toLowerCase();
@@ -17,6 +26,8 @@ function filter() {
     if (!li.hidden) zichtbaar.add(+li.dataset.nr);
   }
   kaart?.filter(zichtbaar);
+  // Voor schermlezers: hoeveel stembureaus er na het zoeken over zijn.
+  if (aantal) aantal.textContent = q || pl ? `${zichtbaar.size} ${zichtbaar.size === 1 ? 'stembureau' : 'stembureaus'} gevonden` : '';
 }
 zoek.addEventListener('input', filter);
 plaats.addEventListener('change', filter);
@@ -31,6 +42,7 @@ function meld(tekst) {
 
 // Het kaartje bij een gekozen potlood: dezelfde regels als in de partij.
 function toonKaartje(nrs) {
+  terug = null;
   for (const li of items) li.classList.toggle('gekozen', !!nrs && nrs.includes(+li.dataset.nr));
   kaartje.hidden = !nrs;
   if (!nrs) return;
@@ -54,7 +66,7 @@ function toonKaartje(nrs) {
   sluit.className = 'sluit';
   sluit.setAttribute('aria-label', 'Sluit');
   sluit.textContent = '×';
-  sluit.onclick = () => kaart.sluit();
+  sluit.onclick = sluitKaartje;
   kaartje.append(sluit);
 }
 
@@ -92,11 +104,19 @@ try {
       );
     });
   }
+  // Na "Toon op de kaart" gaat de focus naar het kaartje met het adres; Escape sluit het en zet de focus terug.
   for (const li of items) {
-    li.querySelector('.opkaart')?.addEventListener('click', () => {
-      if (kaart.toon(+li.dataset.nr)) vak.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    const knop = li.querySelector('.opkaart');
+    knop?.addEventListener('click', () => {
+      if (!kaart.toon(+li.dataset.nr)) return;
+      terug = knop;
+      vak.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+      kaartje.focus({ preventScroll: true });
     });
   }
+  vak.addEventListener('keydown', (ev) => {
+    if (ev.key === 'Escape' && !kaartje.hidden) sluitKaartje();
+  });
   filter();
   if (location.search.includes('kaartmeet')) window.kaart = kaart;
 } catch (fout) {

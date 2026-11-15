@@ -113,6 +113,22 @@ Een snelle, toegankelijke, statische site zonder server, die ook op een telefoon
 
 Geef de site een eigen gezicht dat bij de plaats past. Houd de pagina's eenvoudig: liever alles zichtbaar dan veel uitklappen. Een nieuwe versie heet "bèta" tot ze is nagelopen.
 
+Toegankelijk voor iedereen die mag stemmen, ook wie slecht ziet, een schermlezer gebruikt of geen muis heeft (WCAG 2.2, niveau AA):
+
+- alles werkt met alleen het toetsenbord, met een duidelijk zichtbare focus, ook in de stemwijzer, de kaart met partijen en de knoppen van de stembureauvinder; na elke nieuwe stap of stelling gaat de focus naar de kop ervan;
+- elke knop en elk formulierveld heeft een naam die zonder de omgeving te begrijpen is ("Toon op de kaart: Raadhuis", niet alleen "Toon op de kaart"); logo's en portretten hebben een tekstalternatief, of een lege alt-tekst als de naam er al naast staat;
+- tekst en bedieningselementen halen het vereiste contrast, ook grijze tekst, tekst op een gekleurd vlak en de voettekst; kleur is nooit de enige drager van betekenis;
+- één h1 per pagina en koppen in logische volgorde, tikdoelen van minstens 24 pixels op een telefoon, wat verandert (de telling van gekozen partijen, zoekresultaten) wordt aangekondigd, en beweging stopt bij "beperk beweging" in het systeem;
+- een kaart op een canvas is voor een schermlezer leeg: zeg dat de lijst eronder hetzelfde bevat en geef een link om de kaart over te slaan.
+
+Meet het, voor en na: draai axe of Lighthouse op elke pagina en elke stap van de stemwijzer, op telefoon- en bureaubladformaat, en loop de stemwijzer één keer helemaal door met alleen het toetsenbord.
+
+Vindbaar en goed te delen:
+
+- korte, logische adressen in gewone taal die het menu volgen (/stemwijzer/, /partijen/, /vergelijken/, /stemmen/); verander je er later een, laat dan op het oude adres een doorverwijzing staan;
+- elke pagina een eigen titel en beschrijving, een canoniek adres, Open Graph en een Twitter-kaart, met per pagina een eigen deelafbeelding van 1200 bij 630 in de vormtaal van de site, ook één per partij (allemaal even groot en even mooi); maak ze met een script en zet ze in de repository;
+- een sitemap.xml, een robots.txt, een apple-touch-icon, en gestructureerde gegevens alleen waar ze kloppen (de site als WebSite, de verkiezingsdag als gebeurtenis); de foutpagina en doorverwijzingen niet laten indexeren.
+
 STAP 9. DE STEMBUREAUVINDER
 
 Een kaart van de hele gemeente die op de site zelf staat, zonder kaartdienst van buiten, standaard in 3D met een wissel naar plat.

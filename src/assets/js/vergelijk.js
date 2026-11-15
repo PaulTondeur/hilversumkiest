@@ -21,7 +21,7 @@ function teken() {
     const met = data.stellingen.map((st) => ({ st, d: onderscheid(st, slugs) }));
     const verschil = met.filter((x) => x.d > 0).sort((x, y) => y.d - x.d);
     const gelijk = met.filter((x) => x.d === 0 && slugs.filter((s) => pos(x.st, s) !== null).length >= 2);
-    const blok = (x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(data.themas.find((t) => t.id === x.st.thema).kort)} · ${partijen.map((p) => `${e(p.kort)}: ${POS[pos(x.st, p.slug)].toLowerCase()}`).join(' · ')}</span></summary><div class="inhoud">${x.st.uitleg ? `<p class="grijs">${e(x.st.uitleg)}</p>` : ''}${spectrumHtml(x.st, partijen)}${partijen.map((p) => standpuntHtml(x.st, p)).join('')}</div></details></li>`;
+    const blok = (x) => `<li><details><summary><span class="st">${e(x.st.stelling)}</span><span class="sub">${e(data.themas.find((t) => t.id === x.st.thema).kort)} · ${partijen.map((p) => `${e(p.kort)}: ${POS[pos(x.st, p.slug)].toLowerCase()}`).join(' · ')}</span></summary><div class="inhoud">${x.st.uitleg ? `<p class="grijs">${e(x.st.uitleg)}</p>` : ''}${spectrumHtml(x.st, partijen)}${partijen.map((p) => standpuntHtml(x.st, p, 'h3')).join('')}</div></details></li>`;
     uit += `<h2>Hier verschillen ze (${verschil.length})</h2><p>Gesorteerd van groot naar klein verschil.</p><ul class="punten">${verschil.map(blok).join('')}</ul>`;
     uit += `<h2>Hier staan ze op dezelfde plek (${gelijk.length})</h2><ul class="punten">${gelijk.map(blok).join('')}</ul>`;
     uit += `<p style="margin-top:2rem"><button class="knop" type="button" data-stemwijzer>Doe de stemwijzer met deze ${slugs.length} partijen</button></p>`;
@@ -64,10 +64,12 @@ stand.setAttribute('aria-live', 'polite');
 document.querySelector('.landschap')?.after(stand);
 for (const a of stippen) {
   a.setAttribute('role', 'button');
-  a.addEventListener('click', (ev) => {
-    ev.preventDefault();
+  const wissel = () => {
     const s = a.dataset.slug;
     kies(keuze.includes(s) ? keuze.filter((x) => x !== s) : [...keuze, s].slice(-MAX));
-  });
+  };
+  a.addEventListener('click', (ev) => { ev.preventDefault(); wissel(); });
+  // Een knop gaat ook met de spatiebalk (Enter doet de link al).
+  a.addEventListener('keydown', (ev) => { if (ev.key === ' ') { ev.preventDefault(); wissel(); } });
 }
 teken();
