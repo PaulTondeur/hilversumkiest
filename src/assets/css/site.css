@@ -288,7 +288,7 @@ td.heat { text-align: center; padding: 0.35rem 0.3rem; font-variant-numeric: tab
 .logo--naam { font: 600 0.95rem/1.15 var(--kop); text-align: center; color: var(--grijs); }
 .partijkop .logo { width: 9.5rem; height: 5.5rem; margin-bottom: 0.6rem; }
 .gezichten { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.9rem; }
-.gezichten a { width: 2.15rem; height: 2.15rem; border-radius: 50%; border: 2px solid var(--inkt); background: #fff; overflow: hidden; display: block; }
+.gezichten a { width: 2.15rem; height: 2.15rem; border-radius: 50%; border: 2px solid var(--inkt); background-color: #fff; overflow: hidden; display: block; }
 .gezichten a.leeg { border-color: var(--lijn); }
 .gezichten a:hover, .gezichten a:focus-visible { border-color: var(--potlood); box-shadow: 0 0 0 2px var(--potlood); }
 .gezichten img { width: 100%; height: 100%; object-fit: cover; display: block; }
