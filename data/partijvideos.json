@@ -1,0 +1,15 @@
+{
+ "_uitleg": "YouTube-id van de partijvideo per partij (kanaal @hilversumkiest). Partijen zonder id krijgen op hun pagina de melding dat de video volgt.",
+ "kanaal": "https://www.youtube.com/@hilversumkiest",
+ "videos": {
+  "hart-voor-hilversum": "uGGFY_FE0Fc",
+  "pro": "sCKn-GccrOY",
+  "d66": "3H3WFV6s3Pg",
+  "vvd": "97we0CEwiRU",
+  "cda": "vp_7mDzo5fs",
+  "lokaal-een": "d145iERpn0M",
+  "sp": "LFr93xWeIxQ",
+  "christenunie": "xc3iRsADfMM",
+  "bvnl": "1yHGIRcLMWs"
+ }
+}
