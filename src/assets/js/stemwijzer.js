@@ -253,7 +253,7 @@ ${verschil !== null && verschil <= 3 && gelijk.length === 1 ? `<div class="meldi
     const pct = procent(u.score);
     return `<li class="${Math.abs(u.score - top) < 0.005 ? 'top' : ''}"><span class="uitslag__nr">${p.nr}</span><span class="uitslag__naam"><a href="/partijen/${p.slug}/">${e(p.naam)}</a></span><span class="uitslag__pct">${pct}%</span><span class="uitslag__balk"><i style="width:${pct}%;background:${p.kleur}"></i></span>${u.bekend < u.beantwoord ? `<span class="uitslag__noot">Van ${u.bekend} van jouw ${u.beantwoord} stellingen is een standpunt bekend${u.bekend < u.beantwoord / 2 ? '. Deze score zegt daardoor weinig' : ''}.</span>` : ''}</li>`;
   }).join('')}</ol>
-<p class="klein">Het percentage zegt hoe dicht jullie posities bij elkaar liggen: 100% is overal dezelfde positie, 0% overal zo ver mogelijk van je af. Een stelling waarover een partij geen standpunt heeft, telt voor die partij neutraal. <a href="/verantwoording/#rekenen">Zo wordt het berekend</a>. Dit is een hulpmiddel om verschillen te zien, geen stemadvies.</p>
+<p class="klein">Het percentage zegt hoe dicht jullie posities bij elkaar liggen: 100% is overal dezelfde positie, 0% overal zo ver mogelijk van je af. Een stelling waarover een partij geen standpunt heeft, telt voor die partij neutraal. <a href="/verantwoording/#rekenen">Zo wordt het berekend</a>. De standpunten zijn met hulp van AI afgeleid uit de programma's en uit wat partijen elders antwoordden; de partijen hebben ze niet nagekeken. Dit is een hulpmiddel om verschillen te zien, geen stemadvies.</p>
 <div class="rij" style="margin:1.2rem 0 0"><button class="knop knop--licht" type="button" data-deel>Kopieer link naar deze uitslag</button><button class="knop knop--licht" type="button" data-ga="lijsten">Andere partijen of thema's</button><button class="knop knop--tekst" type="button" data-opnieuw>Begin opnieuw</button></div>
 
 ${themaIds.length > 1 ? `<h2>Per thema</h2>
@@ -262,7 +262,7 @@ ${uit.map((u) => `<tr><th>${e(pm[u.slug].kort)}</th>${themaIds.map((t) => { cons
 </tbody></table></div>` : ''}
 
 <h2>Stelling voor stelling</h2>
-<p>Klik een stelling open om te zien waar elke partij staat, met toelichting en bron.</p>
+<p>Klik een stelling open om te zien waar elke partij staat, met toelichting en bron.${data.repo ? ` Klopt een standpunt volgens jou niet? <a href="${e(data.repo)}/issues" rel="noopener">Meld het op GitHub</a>, met de stelling en de partij erbij, dan kijk ik ernaar.` : ''}</p>
 ${themaIds.map((t) => `<h3 class="themakop">${e(data.themas.find((x) => x.id === t).naam)}</h3><ul class="punten">${set.filter((s) => s.thema === t).map((st) => {
     const a = staat.antwoorden[st.id];
     const eens = a === undefined ? [] : partijen.filter((p) => { const v = pos(st, p.slug); return v !== null && Math.abs(v - a) <= 1 && (a === 0 || Math.sign(v) === Math.sign(a) || v === 0 && Math.abs(a) === 1); });

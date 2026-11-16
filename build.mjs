@@ -674,6 +674,7 @@ ${stemhulpen.map(stemhulpKaart).join('\n')}
 
 // ---------- Data voor de browser ----------
 const licht = {
+  repo: REPO, // voor de link 'meld het' in de uitslag
   partijen: partijen.map(({ slug, nr, naam, kort, kleur }) => ({ slug, nr, naam, kort, kleur })),
   themas,
   stellingen,
