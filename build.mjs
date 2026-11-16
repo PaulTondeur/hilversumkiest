@@ -133,6 +133,7 @@ ${inhoud.replace(/<div class="tabel-wrap">/g, '<div class="tabel-wrap" tabindex=
       <h3><span class="voet__code" aria-hidden="true">&lt;/&gt;</span>Open tot en met de code</h3>
       <p>Hilversum kiest hoort bij geen partij en niet bij de gemeente. De standpunten komen uit de verkiezingsprogramma's en uit wat partijen zelf elders antwoordden; de partijen hebben ze niet nagekeken. Juist daarom ligt alles open: <a href="/verantwoording/"${pad === '/verantwoording/' ? ' aria-current="page"' : ''}>lees hoe het gemaakt is</a>${REPO ? `, of <a href="${e(REPO)}" rel="noopener">kijk mee in de code op GitHub</a>. Zie je iets wat niet klopt? <a href="${e(REPO)}/issues" rel="noopener">Meld het daar</a>, dan kijk ik ernaar` : ''}.</p>
       <p>Zin om er zelf een te maken voor jouw gemeente? <a href="/zelf-maken/"${pad === '/zelf-maken/' ? ' aria-current="page"' : ''}>De hele opdracht staat voor je klaar</a>.</p>
+      <p>Er zijn meer stemhulpen voor deze verkiezing, elk met een eigen aanpak: <a href="/andere-stemhulpen/"${pad === '/andere-stemhulpen/' ? ' aria-current="page"' : ''}>bekijk ze op een rij</a>.</p>
     </div>
   </div>
 </div></footer>
@@ -223,6 +224,7 @@ schrijf('index.html', pagina({
   <div>
     <p>Wil je eerst rondkijken? Elke partij heeft een eigen pagina met haar speerpunten, haar standpunt op elke stelling en de partijen die er inhoudelijk het dichtst bij zitten.</p>
     <p><a href="/partijen/">Bekijk de twintig partijen</a><br><a href="/vergelijken/">Leg twee partijen naast elkaar</a></p>
+    <p>Er zijn ook andere stemhulpen voor deze verkiezing, elk met een eigen aanpak. <a href="/andere-stemhulpen/">Bekijk ze op een rij</a></p>
   </div>
 </div>`,
   scripts: `<script type="module" src="/assets/js/biljet.js"></script>`,
