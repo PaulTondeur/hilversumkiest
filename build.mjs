@@ -406,7 +406,6 @@ for (const p of partijen) {
   ${p.kernboodschap ? `<p class="partijkop__kern">${e(p.kernboodschap)}</p>` : ''}
   <figure class="partijkop__video" id="video">
   ${PARTIJVIDEOS.videos[p.slug] ? `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(PARTIJVIDEOS.videos[p.slug])}?rel=0" title="Video over ${e(p.naam)}, lijst ${p.nr}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` : `<div class="video__beeld video__beeld--leeg"><span>De video van deze ${p.slug === 'blanco-van-oostveen' ? 'lijst' : 'partij'} volgt binnenkort</span></div>`}
-  <figcaption class="klein grijs">Elke partij krijgt een video in hetzelfde format: speerpunten met uitleg, wie er meedoen en de geschiedenis in Hilversum en Wijdemeren. <a href="${e(PARTIJVIDEOS.kanaal || 'https://www.youtube.com/@hilversumkiest')}" rel="noopener">Alle video's op YouTube</a></figcaption>
   </figure>
 </div>
 <nav aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
