@@ -408,7 +408,7 @@ for (const p of partijen) {
   ${PARTIJVIDEOS.videos[p.slug] ? `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(PARTIJVIDEOS.videos[p.slug])}?rel=0" title="Video over ${e(p.naam)}, lijst ${p.nr}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` : `<div class="video__beeld video__beeld--leeg"><span>De video van deze ${p.slug === 'blanco-van-oostveen' ? 'lijst' : 'partij'} volgt binnenkort</span></div>`}
   </figure>
 </div>
-<nav aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
+<nav class="inpagina-balk" aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
 <div class="smal">
 ${p.speerpunten.length ? `<h2>Wat de partij zelf vooropzet</h2><ul>${p.speerpunten.map((s) => `<li>${e(s)}</li>`).join('')}</ul>` : ''}
 ${p.basis ? `<div class="melding"><p>${e(p.basis)}</p></div>` : ''}
@@ -476,7 +476,7 @@ schrijf('stemmen/index.html', pagina({
   inhoud: `
 <h1>Stemmen op woensdag 18 november</h1>
 <p style="font-size:1.2rem;max-width:44ch">Neem je stempas en een identiteitsbewijs mee. Je mag stemmen in elk stembureau van Hilversum en Wijdemeren, tussen 7.30 en 21.00 uur.</p>
-<nav aria-label="Op deze pagina"><ul class="inpagina"><li><a href="#mag-ik">Mag ik stemmen</a></li><li><a href="#meenemen">Wat neem ik mee</a></li><li><a href="#volmacht">Volmacht</a></li><li><a href="#stempas-kwijt">Stempas kwijt</a></li><li><a href="#stembureaus">Stembureaus</a></li><li><a href="#hulp">Hulp en toegankelijkheid</a></li><li><a href="#data">Data</a></li><li><a href="#fusie">De fusie</a></li></ul></nav>
+<nav class="inpagina-balk" aria-label="Op deze pagina"><ul class="inpagina"><li><a href="#mag-ik">Mag ik stemmen</a></li><li><a href="#meenemen">Wat neem ik mee</a></li><li><a href="#volmacht">Volmacht</a></li><li><a href="#stempas-kwijt">Stempas kwijt</a></li><li><a href="#stembureaus">Stembureaus</a></li><li><a href="#hulp">Hulp en toegankelijkheid</a></li><li><a href="#data">Data</a></li><li><a href="#fusie">De fusie</a></li></ul></nav>
 
 <div class="tweekolom">
 <section class="blok" id="mag-ik"><h2 class="blok__kop">Mag ik stemmen</h2>${lijst((info.wie_mag_stemmen || []).slice(0, 4))}</section>

@@ -293,7 +293,14 @@ td.heat { text-align: center; padding: 0.35rem 0.3rem; font-variant-numeric: tab
 .buren li { display: grid; grid-template-columns: 1fr auto; gap: 0.1rem 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid var(--lijn); margin: 0; }
 .buren li span.balk { grid-column: 1 / -1; height: 0.35rem; background: var(--veld); position: relative; }
 .buren li span.balk i { position: absolute; inset: 0 auto 0 0; background: var(--inkt); }
-.inpagina { display: flex; gap: 0.3rem 1.1rem; flex-wrap: wrap; font: 500 0.9688rem/1.3 var(--kop); margin: 0 0 1.5rem; padding: 0; list-style: none; max-width: none; }
+.inpagina-balk { position: sticky; top: 0; z-index: 3; background: var(--papier); border-bottom: 1px solid var(--inkt); margin: 0 0 1.5rem; padding: 0.35rem 0; }
+.inpagina { display: flex; gap: 0.3rem 1.1rem; flex-wrap: wrap; font: 500 0.9688rem/1.3 var(--kop); margin: 0; padding: 0; list-style: none; max-width: none; }
+main h2[id], main h3[id], main section[id], main div[id] { scroll-margin-top: 4.5rem; }
+@media (max-width: 52rem) {
+  .inpagina-balk { margin-left: -1.25rem; margin-right: -1.25rem; padding-left: 1.25rem; padding-right: 1.25rem; }
+  .inpagina { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; white-space: nowrap; }
+  .inpagina::-webkit-scrollbar { display: none; }
+}
 .inpagina li { margin: 0; }
 .inpagina a { display: inline-block; padding: 0.3rem 0; }
 
