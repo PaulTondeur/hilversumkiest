@@ -11,7 +11,7 @@ export const DIEPTES = {
 // Basis is de afstand op de schaal van vijf ("city block"). Die maat heeft een bekend nadeel: een lijst op een
 // middenpositie ligt nooit ver van je af en scoort dus gemiddeld hoger, wat je ook antwoordt. Daarom wordt de
 // afstand per positie gestandaardiseerd: voor elke positie is de verwachte score van een willekeurige invuller 0
-// en de spreiding 1. Een lijst zonder standpunt krijgt 0: het helpt haar niet en het schaadt haar niet.
+// en de spreiding 1. Heeft een lijst geen standpunt, dan telt de stelling in bereken voor haar niet mee.
 const SCHAAL = [-2, -1, 0, 1, 2];
 const Z = {};
 for (const p of SCHAAL) {
@@ -110,19 +110,23 @@ export function bereken(stellingen, slugs, antwoorden, zwaar = []) {
       const a = antwoorden[st.id];
       if (a === undefined || a === null) continue;
       beantwoord++;
-      const w = dubbel.has(st.id) ? 2 : 1;
+      const t = (perThema[st.thema] ||= { teller: 0, noemer: 0, bekend: 0, n: 0 });
+      t.n++;
       const p = positie(st, slug);
-      if (p !== null) bekend++;
+      // Geen standpunt: de stelling telt voor deze partij niet mee, in teller noch noemer.
+      // (Tot 16 november telde ze als 0 op de gestandaardiseerde maat, wat partijen met minder standpunten benadeelde;
+      // zie werk/audit/eindcontrole-neutraliteit.md, bevinding 1.)
+      if (p === null) continue;
+      bekend++;
+      t.bekend++;
+      const w = dubbel.has(st.id) ? 2 : 1;
       const [laag, hoog] = grenzen(a);
       const o = w * (overeenkomst(a, p) - laag);
       const n = w * (hoog - laag);
       teller += o;
       noemer += n;
-      const t = (perThema[st.thema] ||= { teller: 0, noemer: 0, bekend: 0, n: 0 });
       t.teller += o;
       t.noemer += n;
-      t.n++;
-      if (p !== null) t.bekend++;
     }
     const themas = {};
     for (const [id, t] of Object.entries(perThema)) {

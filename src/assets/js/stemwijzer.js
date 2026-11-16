@@ -270,11 +270,11 @@ function tekenUitslag() {
   if (staat.aanvullen) { staat.aanvullen = false; bewaar(); }
   const uit = bereken(set, staat.lijsten, staat.antwoorden, staat.zwaar);
   const buiten = buitenKeuze(set, staat.lijsten, data.partijen.map((p) => p.slug), staat.antwoorden, staat.zwaar);
-  const top = uit[0].score;
-  const gelijk = uit.filter((u) => Math.abs(u.score - top) < 0.005);
+  const top = uit[0].score ?? 0;
+  const gelijk = uit.filter((u) => u.score !== null && Math.abs(u.score - top) < 0.005);
   const themaIds = data.themas.map((t) => t.id).filter((t) => set.some((s) => s.thema === t));
   const kop = gelijk.length > 1 ? `${gelijk.map((u) => pm[u.slug].kort).join(' en ')} staan even dicht bij je` : `${pm[uit[0].slug].kort} staat het dichtst bij je`;
-  const verschil = uit.length > 1 ? Math.round((uit[0].score - uit[1].score) * 100) : null;
+  const verschil = uit.length > 1 && uit[1].score !== null ? Math.round((uit[0].score - uit[1].score) * 100) : null;
   app.innerHTML = `${stappenbalk()}
 <h1>${e(kop)}</h1>
 <p>Gebaseerd op ${beantwoord.length} ${beantwoord.length === 1 ? 'stelling' : 'stellingen'} die je hebt beantwoord, vergeleken met de ${partijen.length} partijen die je hebt gekozen.${staat.zwaar.length ? ` ${staat.zwaar.filter((id) => id in staat.antwoorden).length} daarvan tellen dubbel.` : ''}</p>
@@ -282,9 +282,11 @@ ${verschil !== null && verschil <= 3 && gelijk.length === 1 ? `<div class="meldi
 <ol class="uitslag">${uit.map((u, i) => {
     const p = pm[u.slug];
     const pct = procent(u.score);
-    return `<li class="${Math.abs(u.score - top) < 0.005 ? 'top' : ''}"><span class="uitslag__nr">${p.nr}</span><span class="uitslag__naam"><a href="/partijen/${p.slug}/">${e(p.naam)}</a></span><span class="uitslag__pct">${pct}%</span><span class="uitslag__balk"><i style="width:${pct}%;background:${p.kleur}"></i></span>${u.bekend < u.beantwoord ? `<span class="uitslag__noot">Van ${u.bekend} van jouw ${u.beantwoord} stellingen is een standpunt bekend${u.bekend < u.beantwoord / 2 ? '. Deze score zegt daardoor weinig' : ''}.</span>` : ''}</li>`;
+    const noot = u.bekend === 0 ? 'Op geen van jouw stellingen is van deze partij een standpunt bekend.'
+      : u.bekend < u.beantwoord ? `Deze score rust op ${u.bekend} van je ${u.beantwoord} stellingen: alleen daarover is van deze partij een standpunt bekend${u.bekend < u.beantwoord / 2 ? '. Ze zegt daardoor weinig' : ''}.` : '';
+    return `<li class="${u.score !== null && Math.abs(u.score - top) < 0.005 ? 'top' : ''}"><span class="uitslag__nr">${p.nr}</span><span class="uitslag__naam"><a href="/partijen/${p.slug}/">${e(p.naam)}</a></span><span class="uitslag__pct">${pct === null ? '–' : `${pct}%`}</span><span class="uitslag__balk"><i style="width:${pct ?? 0}%;background:${p.kleur}"></i></span>${noot ? `<span class="uitslag__noot">${noot}</span>` : ''}</li>`;
   }).join('')}</ol>
-<p class="klein">Het percentage zegt hoe dicht jullie posities bij elkaar liggen: 100% is overal dezelfde positie, 0% overal zo ver mogelijk van je af. Een stelling waarover een partij geen standpunt heeft, telt voor die partij neutraal. <a href="/verantwoording/#rekenen">Zo wordt het berekend</a>. De standpunten zijn met hulp van AI afgeleid uit de programma's en uit wat partijen elders antwoordden; de partijen hebben ze niet nagekeken. Dit is een hulpmiddel om verschillen te zien, geen stemadvies.</p>
+<p class="klein">Het percentage zegt hoe dicht jullie posities bij elkaar liggen: 100% is overal dezelfde positie, 0% overal zo ver mogelijk van je af. Een stelling waarover een partij geen standpunt heeft, telt voor die partij niet mee. <a href="/verantwoording/#rekenen">Zo wordt het berekend</a>. De standpunten zijn met hulp van AI afgeleid uit de programma's en uit wat partijen elders antwoordden; de partijen hebben ze niet nagekeken. Dit is een hulpmiddel om verschillen te zien, geen stemadvies.</p>
 <div class="rij" style="margin:1.2rem 0 0"><button class="knop knop--licht" type="button" data-deel>Kopieer link naar deze uitslag</button><button class="knop knop--licht" type="button" data-ga="lijsten">Andere partijen of thema's</button><button class="knop knop--tekst" type="button" data-opnieuw>Begin opnieuw</button></div>
 ${buitenHtml(buiten, beantwoord.length, pm[uit[0].slug])}
 

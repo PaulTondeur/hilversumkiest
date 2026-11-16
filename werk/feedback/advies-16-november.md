@@ -40,7 +40,7 @@ Drie mensen deden de stemwijzer en gaven feedback. Per punt: wat ik deed, wat ni
 **Terecht, en het raakt de open bevinding 1 uit de eindcontrole.** Nu kost "geen standpunt" een partij punten. Partijen met minder gevonden standpunten (SCB, SBP, Lijst Van Oostveen, Hart voor Hilversum, Volt, Dorp voor Dorp) komen daardoor structureel lager uit.
 
 - **Al zichtbaar.** De uitslag zegt bij elke partij op hoeveel van je stellingen een standpunt bekend is ("Van 9 van jouw 14 stellingen is een standpunt bekend"), met de waarschuwing "Deze score zegt daardoor weinig" onder de helft. Daar hoefde niets bij.
-- **Herstel klaargelegd, niet live:** `werk/feedback/rekenregel-geen-standpunt.patch`. Wat er verandert:
+- **Herstel live gezet op 16 november, op verzoek van Paul** (eerst klaargelegd als patch). Wat er verandert:
   - `bereken` slaat een stelling zonder standpunt voor die partij over;
   - de uitslag toont "–" voor een partij zonder enig standpunt op je stellingen;
   - de noot wordt "Deze score rust op 9 van je 14 stellingen";
@@ -52,7 +52,7 @@ Drie mensen deden de stemwijzer en gaven feedback. Per punt: wat ik deed, wat ni
   - Kans om bovenaan te staan als je gekozen bent: nu 15,2–22,2% per partij, na herstel 17,2–20,9%. Erop vooruit: Lijst Van Oostveen (+2,4), Volt (+2,2), SCB en SBP (+2,1), HvH (+1,9), Dorp voor Dorp (+1,6). Erop achteruit: PRO (−2,3), VVD (−1,9), CDA (−1,7), Lokaal Eén (−1,5).
   - Keerzijde in de eigen toets (`data/toets.json` in de patch): bij willekeurig invullen wint SCB nu het vaakst (7,0%, was 3,3%); de reeks wordt 3,3–7,0% (was 3,0–7,8%). De proef-aanhanger van de toets herkent zijn partij gemiddeld in 97% (was 100%), laagste HvH 90%. Die proef-aanhanger slaat over waar zijn partij zwijgt; de eindcontrole liet zien dat die maat het probleem juist mist. Met de realistischer mengkiezer uit de eindcontrole stijgt de herkenning van de zwakste partij van 55% naar 78%.
 
-**Let op: twee zinnen op de site kloppen nu niet.** Zolang de patch niet live is, zeggen de verantwoording en de uitslag dat "geen standpunt" neutraal telt. De eindcontrole toonde aan dat dat niet zo is. Als de patch niet live gaat, moeten die zinnen anders.
+Met het herstel kloppen de verantwoording en de uitslag weer: daar staat nu dat een stelling zonder standpunt voor die partij niet meetelt.
 
 ## 2b. "AI vond antwoorden waarvan ik denk dat de lijsttrekker het tegendeel zou zeggen"
 

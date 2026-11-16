@@ -1,5 +1,5 @@
 {
- "gemaakt": "2026-11-15",
+ "gemaakt": "2026-11-16",
  "stellingen": 90,
  "perLijst": [
   {
@@ -1150,18 +1150,18 @@
  "ruis": [
   {
    "slug": "hart-voor-hilversum",
-   "top1": 0.9925,
-   "top3": 1
+   "top1": 0.9025,
+   "top3": 0.9925
   },
   {
    "slug": "pro",
-   "top1": 1,
+   "top1": 0.9775,
    "top3": 1
   },
   {
    "slug": "d66",
-   "top1": 0.995,
-   "top3": 1
+   "top1": 0.9825,
+   "top3": 0.9975
   },
   {
    "slug": "vvd",
@@ -1170,185 +1170,185 @@
   },
   {
    "slug": "cda",
-   "top1": 1,
+   "top1": 0.9825,
    "top3": 1
   },
   {
    "slug": "lokaal-een",
-   "top1": 1,
+   "top1": 0.9875,
    "top3": 1
   },
   {
    "slug": "sp",
-   "top1": 1,
-   "top3": 1
+   "top1": 0.985,
+   "top3": 0.9975
   },
   {
    "slug": "christenunie",
-   "top1": 1,
+   "top1": 0.9875,
    "top3": 1
   },
   {
    "slug": "bvnl",
-   "top1": 0.9975,
+   "top1": 0.955,
    "top3": 1
   },
   {
    "slug": "scb",
-   "top1": 0.98,
-   "top3": 1
+   "top1": 0.9675,
+   "top3": 0.995
   },
   {
    "slug": "gewoon-hilversum",
-   "top1": 1,
+   "top1": 0.945,
    "top3": 1
   },
   {
    "slug": "dorp-voor-dorp",
-   "top1": 0.9975,
+   "top1": 0.9775,
    "top3": 1
   },
   {
    "slug": "stop-betaald-parkeren-vip",
-   "top1": 0.9725,
+   "top1": 0.9175,
    "top3": 1
   },
   {
    "slug": "opstand-nu",
-   "top1": 0.995,
+   "top1": 0.98,
    "top3": 1
   },
   {
    "slug": "pvdd",
-   "top1": 0.9975,
+   "top1": 0.98,
    "top3": 1
   },
   {
    "slug": "blanco-van-oostveen",
-   "top1": 0.995,
+   "top1": 0.9775,
    "top3": 1
   },
   {
    "slug": "lfd",
-   "top1": 1,
+   "top1": 0.9875,
    "top3": 1
   },
   {
    "slug": "volt",
-   "top1": 0.99,
+   "top1": 0.9575,
    "top3": 1
   },
   {
    "slug": "fvd",
-   "top1": 1,
+   "top1": 0.9925,
    "top3": 1
   },
   {
    "slug": "bbb",
-   "top1": 0.995,
-   "top3": 1
+   "top1": 0.9575,
+   "top3": 0.9975
   }
  ],
  "willekeur": [
   {
    "slug": "hart-voor-hilversum",
-   "winst": 0.02985,
-   "gemScore": 0.38773642994820184
+   "winst": 0.0372,
+   "gemScore": 0.38801305704808825
   },
   {
    "slug": "pro",
-   "winst": 0.073525,
-   "gemScore": 0.3880346567173688
+   "winst": 0.03815,
+   "gemScore": 0.3881082622922584
   },
   {
    "slug": "d66",
-   "winst": 0.0507,
-   "gemScore": 0.3879915525409061
+   "winst": 0.0521,
+   "gemScore": 0.3881931311324988
   },
   {
    "slug": "vvd",
-   "winst": 0.06745,
-   "gemScore": 0.38802180193360475
+   "winst": 0.04535,
+   "gemScore": 0.38823697847581
   },
   {
    "slug": "cda",
-   "winst": 0.0568,
-   "gemScore": 0.3881923875304402
+   "winst": 0.0423,
+   "gemScore": 0.388384409612843
   },
   {
    "slug": "lokaal-een",
-   "winst": 0.0516,
-   "gemScore": 0.3878492277207638
+   "winst": 0.0392,
+   "gemScore": 0.3881222005819773
   },
   {
    "slug": "sp",
-   "winst": 0.06295,
-   "gemScore": 0.38750962811507034
+   "winst": 0.04835,
+   "gemScore": 0.38755043026310937
   },
   {
    "slug": "christenunie",
-   "winst": 0.0552,
-   "gemScore": 0.3877717961902668
+   "winst": 0.0574,
+   "gemScore": 0.38779784282289154
   },
   {
    "slug": "bvnl",
-   "winst": 0.05585,
-   "gemScore": 0.3878125631956545
+   "winst": 0.04515,
+   "gemScore": 0.3878917645298389
   },
   {
    "slug": "scb",
-   "winst": 0.032775,
-   "gemScore": 0.38829963221822683
+   "winst": 0.07,
+   "gemScore": 0.38909880715350786
   },
   {
    "slug": "gewoon-hilversum",
-   "winst": 0.0363,
-   "gemScore": 0.3877627153561922
+   "winst": 0.03265,
+   "gemScore": 0.3880410079276369
   },
   {
    "slug": "dorp-voor-dorp",
-   "winst": 0.04205,
-   "gemScore": 0.3877127106859486
+   "winst": 0.06025,
+   "gemScore": 0.38794546111990946
   },
   {
    "slug": "stop-betaald-parkeren-vip",
-   "winst": 0.0297,
-   "gemScore": 0.3871914913066461
+   "winst": 0.05805,
+   "gemScore": 0.3872117517434862
   },
   {
    "slug": "opstand-nu",
-   "winst": 0.0474,
-   "gemScore": 0.38763843851636665
+   "winst": 0.05355,
+   "gemScore": 0.38776897093516094
   },
   {
    "slug": "pvdd",
-   "winst": 0.06055,
-   "gemScore": 0.38771542225873873
+   "winst": 0.0484,
+   "gemScore": 0.38774314902231233
   },
   {
    "slug": "blanco-van-oostveen",
-   "winst": 0.031,
-   "gemScore": 0.38754269252789747
+   "winst": 0.06225,
+   "gemScore": 0.38770716912900316
   },
   {
    "slug": "lfd",
-   "winst": 0.06495,
-   "gemScore": 0.38765577583186545
+   "winst": 0.05385,
+   "gemScore": 0.3878161397873264
   },
   {
    "slug": "volt",
-   "winst": 0.0408,
-   "gemScore": 0.3879725961698561
+   "winst": 0.05785,
+   "gemScore": 0.3882331553412704
   },
   {
    "slug": "fvd",
-   "winst": 0.07755,
-   "gemScore": 0.38779997768526825
+   "winst": 0.0611,
+   "gemScore": 0.3878625795496683
   },
   {
    "slug": "bbb",
-   "winst": 0.033,
-   "gemScore": 0.3876423010014151
+   "winst": 0.03685,
+   "gemScore": 0.387727271513836
   }
  ],
  "vast": {
@@ -1356,136 +1356,136 @@
    "top": [
     [
      "lokaal-een",
-     0.297
-    ],
-    [
-     "gewoon-hilversum",
-     0.237
+     0.382
     ],
     [
      "hart-voor-hilversum",
-     0.223
+     0.346
+    ],
+    [
+     "gewoon-hilversum",
+     0.333
     ]
    ],
    "onder": [
     [
      "bvnl",
-     0.131
+     0.176
     ],
     [
      "fvd",
-     0.112
+     0.146
     ]
    ],
-   "spreiding": 0.186
+   "spreiding": 0.237
   },
   "1": {
    "top": [
     [
      "sp",
-     0.497
-    ],
-    [
-     "cda",
-     0.48
+     0.548
     ],
     [
      "gewoon-hilversum",
-     0.473
+     0.527
+    ],
+    [
+     "cda",
+     0.518
     ]
    ],
    "onder": [
     [
-     "stop-betaald-parkeren-vip",
-     0.402
+     "pvdd",
+     0.425
     ],
     [
      "dorp-voor-dorp",
-     0.383
+     0.409
     ]
    ],
-   "spreiding": 0.114
+   "spreiding": 0.139
   },
   "2": {
    "top": [
     [
      "sp",
-     0.456
+     0.433
     ],
     [
-     "volt",
-     0.448
+     "pro",
+     0.428
     ],
     [
-     "blanco-van-oostveen",
-     0.441
+     "fvd",
+     0.413
     ]
    ],
    "onder": [
     [
-     "pvdd",
-     0.396
+     "opstand-nu",
+     0.341
     ],
     [
      "lokaal-een",
-     0.351
+     0.301
     ]
    ],
-   "spreiding": 0.104
+   "spreiding": 0.132
   },
   "-1": {
    "top": [
     [
      "lokaal-een",
-     0.476
+     0.515
     ],
     [
-     "vvd",
-     0.453
+     "stop-betaald-parkeren-vip",
+     0.511
     ],
     [
      "opstand-nu",
-     0.444
+     0.494
     ]
    ],
    "onder": [
     [
      "christenunie",
-     0.397
+     0.42
     ],
     [
      "sp",
-     0.363
+     0.37
     ]
    ],
-   "spreiding": 0.113
+   "spreiding": 0.144
   },
   "-2": {
    "top": [
     [
      "pvdd",
-     0.468
+     0.45
     ],
     [
-     "dorp-voor-dorp",
-     0.455
+     "bvnl",
+     0.423
     ],
     [
      "bbb",
-     0.454
+     0.419
     ]
    ],
    "onder": [
     [
-     "gewoon-hilversum",
-     0.359
+     "cda",
+     0.305
     ],
     [
-     "cda",
-     0.352
+     "gewoon-hilversum",
+     0.291
     ]
    ],
-   "spreiding": 0.116
+   "spreiding": 0.159
   }
  },
  "perThema": [
@@ -1552,86 +1552,86 @@
   "kans": [
    {
     "slug": "hart-voor-hilversum",
-    "kans": 0.19958202716823406
+    "kans": 0.2066353187042842
    },
    {
     "slug": "pro",
-    "kans": 0.2936241610738255
+    "kans": 0.2802013422818792
    },
    {
     "slug": "d66",
-    "kans": 0.23095623987034036
+    "kans": 0.23743922204213938
    },
    {
     "slug": "vvd",
-    "kans": 0.22364217252396165
+    "kans": 0.21565495207667731
    },
    {
     "slug": "cda",
-    "kans": 0.24178403755868544
+    "kans": 0.22065727699530516
    },
    {
     "slug": "lokaal-een",
-    "kans": 0.22186322024771132
+    "kans": 0.22024771136241247
    },
    {
     "slug": "sp",
-    "kans": 0.2752902155887231
+    "kans": 0.2802653399668325
    },
    {
     "slug": "christenunie",
-    "kans": 0.24097331240188383
+    "kans": 0.2401883830455259
    },
    {
     "slug": "bvnl",
-    "kans": 0.24193548387096775
+    "kans": 0.23313782991202345
    },
    {
     "slug": "scb",
-    "kans": 0.21957671957671956
+    "kans": 0.24162257495590828
    },
    {
     "slug": "gewoon-hilversum",
-    "kans": 0.2641509433962264
+    "kans": 0.25157232704402516
    },
    {
     "slug": "dorp-voor-dorp",
-    "kans": 0.24735915492957747
+    "kans": 0.2438380281690141
    },
    {
     "slug": "stop-betaald-parkeren-vip",
-    "kans": 0.25128644939965694
+    "kans": 0.2855917667238422
    },
    {
     "slug": "opstand-nu",
-    "kans": 0.2557427258805513
+    "kans": 0.24553343542623784
    },
    {
     "slug": "pvdd",
-    "kans": 0.26261829652996843
+    "kans": 0.2531545741324921
    },
    {
     "slug": "blanco-van-oostveen",
-    "kans": 0.22213500784929358
+    "kans": 0.24149659863945575
    },
    {
     "slug": "lfd",
-    "kans": 0.2818181818181818
+    "kans": 0.26694214876033057
    },
    {
     "slug": "volt",
-    "kans": 0.23555166374781086
+    "kans": 0.2553998832457677
    },
    {
     "slug": "fvd",
-    "kans": 0.22844827586206898
+    "kans": 0.22327586206896552
    },
    {
     "slug": "bbb",
-    "kans": 0.24080362195812108
+    "kans": 0.24250141482739102
    }
   ],
-  "gemKans": 0.2439570955626255
+  "gemKans": 0.2442677995190255
  },
  "minstVerschillendeParen": [
   {
@@ -1695,5 +1695,5 @@
    "n": 25
   }
  ],
- "html": "\n<h2 id=\"toets\">Hoe de eerlijkheid is getoetst</h2>\n<div class=\"smal\">\n<p>Een stemhulp kan een partij ongemerkt bevoordelen: door de keuze van stellingen, door de formulering, of doordat een vaag programma minder kan “mislopen” dan een uitgesproken programma. Daarom draait bij elke wijziging van de stellingenbank een vaste reeks proeven. Dit zijn de uitkomsten voor de huidige 90 stellingen (stand 2026-11-15).</p>\n<ul>\n<li><strong>Zelfherkenning.</strong> Wie precies antwoordt zoals partij X, moet partij X bovenaan krijgen. Dat lukt voor 20 van de 20 partijen. Binnen willekeurig gekozen groepjes partijen en thema's lukt het in 100% van 2995 proeven.</li>\n<li><strong>Aanhangers met eigen accenten.</strong> Een kiezer die vier van de tien stellingen overslaat, op een vijfde van de rest iets heel anders vindt dan zijn partij en op de helft een stap afwijkt, krijgt die partij gemiddeld in 100% van de gevallen op één (laagste lijst: 97%, hoogste: 100%) en in 100% bij de eerste drie.</li>\n<li><strong>Willekeurige antwoorden.</strong> Bij 20.000 kiezers die zomaar iets invullen zou elke partij idealiter even vaak winnen (5%). De uitkomst loopt van 3.0% tot 7.8%.</li>\n<li><strong>Overal “eens” of overal “oneens”.</strong> Wie op alles hetzelfde antwoordt, mag daar geen partij mee uitkiezen. Het verschil tussen de hoogste en laagste partij is dan 10% (overal eens) en 12% (overal oneens).</li>\n<li><strong>Richting van de stellingen.</strong> Per partij is geteld hoe vaak zij het met een stelling eens en oneens is. Geen partij mag de vaste “ja-partij” of “nee-partij” zijn. Het gemiddelde standpunt per partij loopt van -0.23 tot 0.21 op een schaal van −2 tot +2.</li>\n<li><strong>Onderscheid.</strong> Bij 80 van de 90 stellingen staat minstens een vijfde van de partijen met een standpunt aan elke kant. De overige 10 zijn bewust gehouden omdat ze partijen scheiden die verder dicht bij elkaar staan.</li>\n</ul>\n</div>\n<div class=\"tabel-wrap\"><table><thead><tr><th>Partij</th><th class=\"num\">Eens</th><th class=\"num\">Midden</th><th class=\"num\">Oneens</th><th class=\"num\">Wint bij willekeur</th><th class=\"num\">Aanhanger op 1</th></tr></thead><tbody>\n<tr><td>Hart voor Hilversum</td><td class=\"num\">23</td><td class=\"num\">12</td><td class=\"num\">23</td><td class=\"num\">3.0%</td><td class=\"num\">99%</td></tr>\n<tr><td>PRO</td><td class=\"num\">40</td><td class=\"num\">4</td><td class=\"num\">35</td><td class=\"num\">7.4%</td><td class=\"num\">100%</td></tr>\n<tr><td>D66</td><td class=\"num\">28</td><td class=\"num\">8</td><td class=\"num\">30</td><td class=\"num\">5.1%</td><td class=\"num\">100%</td></tr>\n<tr><td>VVD</td><td class=\"num\">34</td><td class=\"num\">5</td><td class=\"num\">35</td><td class=\"num\">6.7%</td><td class=\"num\">100%</td></tr>\n<tr><td>CDA</td><td class=\"num\">36</td><td class=\"num\">6</td><td class=\"num\">29</td><td class=\"num\">5.7%</td><td class=\"num\">100%</td></tr>\n<tr><td>Lokaal Eén</td><td class=\"num\">25</td><td class=\"num\">16</td><td class=\"num\">29</td><td class=\"num\">5.2%</td><td class=\"num\">100%</td></tr>\n<tr><td>SP</td><td class=\"num\">37</td><td class=\"num\">6</td><td class=\"num\">25</td><td class=\"num\">6.3%</td><td class=\"num\">100%</td></tr>\n<tr><td>ChristenUnie</td><td class=\"num\">32</td><td class=\"num\">5</td><td class=\"num\">27</td><td class=\"num\">5.5%</td><td class=\"num\">100%</td></tr>\n<tr><td>BVNL</td><td class=\"num\">31</td><td class=\"num\">2</td><td class=\"num\">34</td><td class=\"num\">5.6%</td><td class=\"num\">100%</td></tr>\n<tr><td>SCB</td><td class=\"num\">22</td><td class=\"num\">5</td><td class=\"num\">22</td><td class=\"num\">3.3%</td><td class=\"num\">98%</td></tr>\n<tr><td>Gewoon, Hilversum</td><td class=\"num\">30</td><td class=\"num\">12</td><td class=\"num\">22</td><td class=\"num\">3.6%</td><td class=\"num\">100%</td></tr>\n<tr><td>Dorp voor Dorp</td><td class=\"num\">23</td><td class=\"num\">7</td><td class=\"num\">26</td><td class=\"num\">4.2%</td><td class=\"num\">100%</td></tr>\n<tr><td>Stop Betaald Parkeren-VIP</td><td class=\"num\">20</td><td class=\"num\">8</td><td class=\"num\">22</td><td class=\"num\">3.0%</td><td class=\"num\">97%</td></tr>\n<tr><td>Opstand.nu</td><td class=\"num\">26</td><td class=\"num\">4</td><td class=\"num\">31</td><td class=\"num\">4.7%</td><td class=\"num\">100%</td></tr>\n<tr><td>Partij voor de Dieren</td><td class=\"num\">29</td><td class=\"num\">6</td><td class=\"num\">34</td><td class=\"num\">6.1%</td><td class=\"num\">100%</td></tr>\n<tr><td>Lijst Van Oostveen</td><td class=\"num\">24</td><td class=\"num\">5</td><td class=\"num\">22</td><td class=\"num\">3.1%</td><td class=\"num\">100%</td></tr>\n<tr><td>LFD</td><td class=\"num\">32</td><td class=\"num\">4</td><td class=\"num\">32</td><td class=\"num\">6.5%</td><td class=\"num\">100%</td></tr>\n<tr><td>Volt</td><td class=\"num\">28</td><td class=\"num\">5</td><td class=\"num\">25</td><td class=\"num\">4.1%</td><td class=\"num\">99%</td></tr>\n<tr><td>FVD</td><td class=\"num\">34</td><td class=\"num\">1</td><td class=\"num\">34</td><td class=\"num\">7.8%</td><td class=\"num\">100%</td></tr>\n<tr><td>BBB</td><td class=\"num\">26</td><td class=\"num\">6</td><td class=\"num\">28</td><td class=\"num\">3.3%</td><td class=\"num\">100%</td></tr>\n</tbody></table></div>"
+ "html": "\n<h2 id=\"toets\">Hoe de eerlijkheid is getoetst</h2>\n<div class=\"smal\">\n<p>Een stemhulp kan een partij ongemerkt bevoordelen: door de keuze van stellingen, door de formulering, of doordat een vaag programma minder kan “mislopen” dan een uitgesproken programma. Daarom draait bij elke wijziging van de stellingenbank een vaste reeks proeven. Dit zijn de uitkomsten voor de huidige 90 stellingen (stand 2026-11-16).</p>\n<ul>\n<li><strong>Zelfherkenning.</strong> Wie precies antwoordt zoals partij X, moet partij X bovenaan krijgen. Dat lukt voor 20 van de 20 partijen. Binnen willekeurig gekozen groepjes partijen en thema's lukt het in 100% van 2995 proeven.</li>\n<li><strong>Aanhangers met eigen accenten.</strong> Een kiezer die vier van de tien stellingen overslaat, op een vijfde van de rest iets heel anders vindt dan zijn partij en op de helft een stap afwijkt, krijgt die partij gemiddeld in 97% van de gevallen op één (laagste lijst: 90%, hoogste: 100%) en in 100% bij de eerste drie.</li>\n<li><strong>Willekeurige antwoorden.</strong> Bij 20.000 kiezers die zomaar iets invullen zou elke partij idealiter even vaak winnen (5%). De uitkomst loopt van 3.3% tot 7.0%.</li>\n<li><strong>Overal “eens” of overal “oneens”.</strong> Wie op alles hetzelfde antwoordt, mag daar geen partij mee uitkiezen. Het verschil tussen de hoogste en laagste partij is dan 13% (overal eens) en 16% (overal oneens).</li>\n<li><strong>Richting van de stellingen.</strong> Per partij is geteld hoe vaak zij het met een stelling eens en oneens is. Geen partij mag de vaste “ja-partij” of “nee-partij” zijn. Het gemiddelde standpunt per partij loopt van -0.23 tot 0.21 op een schaal van −2 tot +2.</li>\n<li><strong>Onderscheid.</strong> Bij 80 van de 90 stellingen staat minstens een vijfde van de partijen met een standpunt aan elke kant. De overige 10 zijn bewust gehouden omdat ze partijen scheiden die verder dicht bij elkaar staan.</li>\n</ul>\n</div>\n<div class=\"tabel-wrap\"><table><thead><tr><th>Partij</th><th class=\"num\">Eens</th><th class=\"num\">Midden</th><th class=\"num\">Oneens</th><th class=\"num\">Wint bij willekeur</th><th class=\"num\">Aanhanger op 1</th></tr></thead><tbody>\n<tr><td>Hart voor Hilversum</td><td class=\"num\">23</td><td class=\"num\">12</td><td class=\"num\">23</td><td class=\"num\">3.7%</td><td class=\"num\">90%</td></tr>\n<tr><td>PRO</td><td class=\"num\">40</td><td class=\"num\">4</td><td class=\"num\">35</td><td class=\"num\">3.8%</td><td class=\"num\">98%</td></tr>\n<tr><td>D66</td><td class=\"num\">28</td><td class=\"num\">8</td><td class=\"num\">30</td><td class=\"num\">5.2%</td><td class=\"num\">98%</td></tr>\n<tr><td>VVD</td><td class=\"num\">34</td><td class=\"num\">5</td><td class=\"num\">35</td><td class=\"num\">4.5%</td><td class=\"num\">100%</td></tr>\n<tr><td>CDA</td><td class=\"num\">36</td><td class=\"num\">6</td><td class=\"num\">29</td><td class=\"num\">4.2%</td><td class=\"num\">98%</td></tr>\n<tr><td>Lokaal Eén</td><td class=\"num\">25</td><td class=\"num\">16</td><td class=\"num\">29</td><td class=\"num\">3.9%</td><td class=\"num\">99%</td></tr>\n<tr><td>SP</td><td class=\"num\">37</td><td class=\"num\">6</td><td class=\"num\">25</td><td class=\"num\">4.8%</td><td class=\"num\">99%</td></tr>\n<tr><td>ChristenUnie</td><td class=\"num\">32</td><td class=\"num\">5</td><td class=\"num\">27</td><td class=\"num\">5.7%</td><td class=\"num\">99%</td></tr>\n<tr><td>BVNL</td><td class=\"num\">31</td><td class=\"num\">2</td><td class=\"num\">34</td><td class=\"num\">4.5%</td><td class=\"num\">96%</td></tr>\n<tr><td>SCB</td><td class=\"num\">22</td><td class=\"num\">5</td><td class=\"num\">22</td><td class=\"num\">7.0%</td><td class=\"num\">97%</td></tr>\n<tr><td>Gewoon, Hilversum</td><td class=\"num\">30</td><td class=\"num\">12</td><td class=\"num\">22</td><td class=\"num\">3.3%</td><td class=\"num\">95%</td></tr>\n<tr><td>Dorp voor Dorp</td><td class=\"num\">23</td><td class=\"num\">7</td><td class=\"num\">26</td><td class=\"num\">6.0%</td><td class=\"num\">98%</td></tr>\n<tr><td>Stop Betaald Parkeren-VIP</td><td class=\"num\">20</td><td class=\"num\">8</td><td class=\"num\">22</td><td class=\"num\">5.8%</td><td class=\"num\">92%</td></tr>\n<tr><td>Opstand.nu</td><td class=\"num\">26</td><td class=\"num\">4</td><td class=\"num\">31</td><td class=\"num\">5.4%</td><td class=\"num\">98%</td></tr>\n<tr><td>Partij voor de Dieren</td><td class=\"num\">29</td><td class=\"num\">6</td><td class=\"num\">34</td><td class=\"num\">4.8%</td><td class=\"num\">98%</td></tr>\n<tr><td>Lijst Van Oostveen</td><td class=\"num\">24</td><td class=\"num\">5</td><td class=\"num\">22</td><td class=\"num\">6.2%</td><td class=\"num\">98%</td></tr>\n<tr><td>LFD</td><td class=\"num\">32</td><td class=\"num\">4</td><td class=\"num\">32</td><td class=\"num\">5.4%</td><td class=\"num\">99%</td></tr>\n<tr><td>Volt</td><td class=\"num\">28</td><td class=\"num\">5</td><td class=\"num\">25</td><td class=\"num\">5.8%</td><td class=\"num\">96%</td></tr>\n<tr><td>FVD</td><td class=\"num\">34</td><td class=\"num\">1</td><td class=\"num\">34</td><td class=\"num\">6.1%</td><td class=\"num\">99%</td></tr>\n<tr><td>BBB</td><td class=\"num\">26</td><td class=\"num\">6</td><td class=\"num\">28</td><td class=\"num\">3.7%</td><td class=\"num\">96%</td></tr>\n</tbody></table></div>"
 }

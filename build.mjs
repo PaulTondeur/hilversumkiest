@@ -591,7 +591,7 @@ schrijf('verantwoording/index.html', pagina({
 <div class="smal">
 ${verantwoordingExtra}
 <h2 id="dekking">Hoeveel standpunten per partij bekend zijn</h2>
-<p>Niet elk programma zegt iets over elke stelling. Waar geen standpunt te vinden was, staat “geen standpunt gevonden” en telt de stelling voor die partij als half overeenkomend: het helpt de partij niet en het schaadt haar niet.</p>
+<p>Niet elk programma zegt iets over elke stelling. Waar geen standpunt te vinden was, staat “geen standpunt gevonden” en telt de stelling voor die partij niet mee in de uitslag.</p>
 </div>
 <div class="tabel-wrap" tabindex="0" role="region" aria-label="Standpunten bekend per partij"><table><thead><tr><th>Partij</th><th class="num">Standpunten bekend</th><th class="num">Van</th><th>Programma</th></tr></thead><tbody>
 ${dekking.map(({ p, n }) => `<tr><td><a href="/partijen/${p.slug}/">${p.nr}. ${e(p.naam)}</a></td><td class="num">${n}</td><td class="num">${stellingen.length}</td><td>${p.programma.url ? `<a href="${e(p.programma.url)}" rel="noopener">${e(p.programma.titel || 'programma')}</a>${p.programma.woorden ? `, ${Math.round(p.programma.woorden / 100) * 100} woorden` : ''}` : 'Geen programma gevonden'}</td></tr>`).join('\n')}
