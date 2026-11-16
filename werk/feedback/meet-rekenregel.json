@@ -1,0 +1,218 @@
+{
+ "proefuitslagen": 19918,
+ "andereEerste": 7.7,
+ "gemVerschuiving": 2.2,
+ "scoreNull": 91,
+ "perPartij": {
+  "hart-voor-hilversum": {
+   "bekend": 58,
+   "dekking": 77.2,
+   "eersteNu": 16.9,
+   "eersteNieuw": 18.8,
+   "gemVerschil": 3.5,
+   "p10": -1.4,
+   "p90": 10.5
+  },
+  "pro": {
+   "bekend": 79,
+   "dekking": 90.9,
+   "eersteNu": 22.2,
+   "eersteNieuw": 19.9,
+   "gemVerschil": 0.8,
+   "p10": -1.6,
+   "p90": 4.1
+  },
+  "d66": {
+   "bekend": 66,
+   "dekking": 82.6,
+   "eersteNu": 19.3,
+   "eersteNieuw": 19.2,
+   "gemVerschil": 1.8,
+   "p10": -2.4,
+   "p90": 7.5
+  },
+  "vvd": {
+   "bekend": 74,
+   "dekking": 89.8,
+   "eersteNu": 21.7,
+   "eersteNieuw": 19.8,
+   "gemVerschil": 1.1,
+   "p10": -1.3,
+   "p90": 4.6
+  },
+  "cda": {
+   "bekend": 71,
+   "dekking": 87.9,
+   "eersteNu": 20.3,
+   "eersteNieuw": 18.6,
+   "gemVerschil": 1.5,
+   "p10": -0.8,
+   "p90": 5.4
+  },
+  "lokaal-een": {
+   "bekend": 70,
+   "dekking": 85.7,
+   "eersteNu": 18.7,
+   "eersteNieuw": 17.2,
+   "gemVerschil": 1.8,
+   "p10": -0.9,
+   "p90": 5.9
+  },
+  "sp": {
+   "bekend": 68,
+   "dekking": 84,
+   "eersteNu": 21.1,
+   "eersteNieuw": 20.2,
+   "gemVerschil": 1.6,
+   "p10": -2.1,
+   "p90": 6.5
+  },
+  "christenunie": {
+   "bekend": 64,
+   "dekking": 80.6,
+   "eersteNu": 19.1,
+   "eersteNieuw": 19.7,
+   "gemVerschil": 2,
+   "p10": -2.5,
+   "p90": 8
+  },
+  "bvnl": {
+   "bekend": 67,
+   "dekking": 86.7,
+   "eersteNu": 21.2,
+   "eersteNieuw": 20.3,
+   "gemVerschil": 1.7,
+   "p10": -1.5,
+   "p90": 6.4
+  },
+  "scb": {
+   "bekend": 49,
+   "dekking": 73,
+   "eersteNu": 15.9,
+   "eersteNieuw": 18,
+   "gemVerschil": 3.7,
+   "p10": -2,
+   "p90": 11.8
+  },
+  "gewoon-hilversum": {
+   "bekend": 64,
+   "dekking": 84.1,
+   "eersteNu": 19.9,
+   "eersteNieuw": 19,
+   "gemVerschil": 2.3,
+   "p10": -1,
+   "p90": 7.3
+  },
+  "dorp-voor-dorp": {
+   "bekend": 56,
+   "dekking": 77.3,
+   "eersteNu": 18.3,
+   "eersteNieuw": 19.9,
+   "gemVerschil": 2.9,
+   "p10": -3,
+   "p90": 11
+  },
+  "stop-betaald-parkeren-vip": {
+   "bekend": 50,
+   "dekking": 73.1,
+   "eersteNu": 15.2,
+   "eersteNieuw": 17.3,
+   "gemVerschil": 3.6,
+   "p10": -3,
+   "p90": 11.8
+  },
+  "opstand-nu": {
+   "bekend": 61,
+   "dekking": 81.2,
+   "eersteNu": 19.5,
+   "eersteNieuw": 19.7,
+   "gemVerschil": 2.2,
+   "p10": -2.2,
+   "p90": 8.3
+  },
+  "pvdd": {
+   "bekend": 69,
+   "dekking": 85.9,
+   "eersteNu": 21.8,
+   "eersteNieuw": 20.8,
+   "gemVerschil": 1.2,
+   "p10": -2.8,
+   "p90": 6.2
+  },
+  "blanco-van-oostveen": {
+   "bekend": 51,
+   "dekking": 74.9,
+   "eersteNu": 16.3,
+   "eersteNieuw": 18.7,
+   "gemVerschil": 3.4,
+   "p10": -1.9,
+   "p90": 11.1
+  },
+  "lfd": {
+   "bekend": 68,
+   "dekking": 85.2,
+   "eersteNu": 20.9,
+   "eersteNieuw": 19.6,
+   "gemVerschil": 1.7,
+   "p10": -1.8,
+   "p90": 6.7
+  },
+  "volt": {
+   "bekend": 58,
+   "dekking": 75.9,
+   "eersteNu": 16.2,
+   "eersteNieuw": 18.4,
+   "gemVerschil": 2.8,
+   "p10": -3.1,
+   "p90": 10.9
+  },
+  "fvd": {
+   "bekend": 69,
+   "dekking": 84.7,
+   "eersteNu": 20.6,
+   "eersteNieuw": 19.5,
+   "gemVerschil": 1.1,
+   "p10": -3.5,
+   "p90": 6.4
+  },
+  "bbb": {
+   "bekend": 60,
+   "dekking": 80.1,
+   "eersteNu": 20.6,
+   "eersteNieuw": 20.9,
+   "gemVerschil": 2.7,
+   "p10": -2.5,
+   "p90": 9.9
+  }
+ },
+ "profielen": {
+  "twee": {
+   "nu": "PRO 64%, VVD 35%",
+   "voorstel": "PRO 64%, VVD 35%"
+  },
+  "zes": {
+   "nu": "PRO 72%, D66 52%, Lokaal Eén 47%",
+   "voorstel": "PRO 77%, D66 58%, Lokaal Eén 50%"
+  },
+  "alle": {
+   "nu": "Volt 80%, Partij voor de Dieren 62%, PRO 53%",
+   "voorstel": "Volt 100%, Partij voor de Dieren 67%, PRO 59%"
+  },
+  "duidelijk": {
+   "nu": "CDA 50%, VVD 21%",
+   "voorstel": "CDA 50%, VVD 21%"
+  },
+  "binnen": {
+   "nu": "VVD 77%, D66 49%, PRO 26%",
+   "voorstel": "VVD 78%, D66 51%, PRO 26%"
+  },
+  "lokaal": {
+   "nu": "Stop Betaald Parkeren-VIP 73%, Hart voor Hilversum 57%, Gewoon, Hilversum 54%",
+   "voorstel": "Stop Betaald Parkeren-VIP 85%, Hart voor Hilversum 66%, Gewoon, Hilversum 56%"
+  },
+  "dun": {
+   "nu": "SCB 89%, PRO 43%, Volt 40%",
+   "voorstel": "SCB 100%, PRO 43%, Volt 41%"
+  }
+ }
+}
