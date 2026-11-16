@@ -1,0 +1,44 @@
+{
+  "_uitleg": "Andere stemhulpen voor de gemeenteraadsverkiezing van 18 november 2026, voor de pagina /andere-stemhulpen/. build.mjs zet de officiële stemhulp van de gemeenten (officieel: true) eerst en de rest op alfabet van naam. Alleen opnemen wat de stemhulp zelf op haar pagina zegt; geen overzichten die een partij zelf maakte. 'nagekeken' is de datum waarop de link en de tekst voor het laatst zijn nagelopen.",
+  "nagekeken": "2026-11-16",
+  "stemhulpen": [
+    {
+      "naam": "MijnStem Hilversum-Wijdemeren",
+      "url": "https://mijnstem.nl/hilversum-wijdemeren/",
+      "officieel": true,
+      "maker": "Bureau Citisens, in opdracht van de raadsgriffies van Hilversum en Wijdemeren. Dit is de officiële stemhulp van de gemeenten.",
+      "werking": "Je geeft bij 25 stellingen op een schuifbalk aan wat je ervan vindt en leest meteen hoe de partijen reageerden; daarna zie je welke partijen het best bij je passen.",
+      "standpunten": "Alle twintig partijen hebben de stellingen zelf ingevuld en toegelicht. De onderwerpen komen uit de verkiezingsprogramma's en een raadpleging van ruim 800 inwoners.",
+      "bron": "https://hilversum.nl/nieuwsoverzicht/online-stemhulp-mijnstem-hilversum-wijdemeren-live"
+    },
+    {
+      "naam": "Kies 2026 wijzer",
+      "url": "https://hilversum100.nl/stichting-hilversum100/kies-2026-wijzer/",
+      "maker": "Hilversum100, het netwerk van duurzame doeners. De onderwerpen komen uit hun eigen peiling en volgen dus hun invalshoek.",
+      "werking": "Per onderwerp binnen vijf thema's (groen, mobiliteit, circulariteit, wonen, focus en visie) zie je hoeveel procent van de 224 deelnemers aan de Kies2026-peiling van Hilversum100 het ermee eens was, en welke partijen ervoor of ertegen zijn.",
+      "standpunten": "De makers hebben de standpunten uit de verkiezingsprogramma's gehaald. Het is volgens hen een onderzoeksversie die nog wordt gecontroleerd; een partij zonder verwerkte passage staat bij dat onderwerp niet vermeld."
+    },
+    {
+      "naam": "Stellingen van HilversumsNieuws",
+      "url": "https://www.hilversumsnieuws.nl/verkiezingen",
+      "maker": "HilversumsNieuws, in de krant en online.",
+      "werking": "In de weken voor de verkiezing verscheen elke week één stelling, met daaronder de reacties van de partijen. Je vult zelf niets in; je leest de antwoorden naast elkaar.",
+      "standpunten": "De partijen schreven hun reactie zelf."
+    },
+    {
+      "naam": "Stemgids Hilversum",
+      "url": "https://stemgidshilversum.nl/",
+      "maker": "Een onafhankelijk initiatief, niet verbonden aan de gemeenten of aan een partij.",
+      "werking": "Je beantwoordt 20 stellingen en 2 over je eigen woonplaats en krijgt een ranglijst van partijen en een kompas met twee assen. Elke stelling komt uit een stemming in de raad van Hilversum of Wijdemeren.",
+      "standpunten": "Negentien partijen vulden de vragenlijst van de stemgids zelf in. Waar een antwoord ontbreekt, komt het standpunt uit het verkiezingsprogramma of uit hoe de fractie in de raad stemde.",
+      "bron": "https://stemgidshilversum.nl/verantwoording/"
+    },
+    {
+      "naam": "Verkiezingsgids NH Gooi",
+      "url": "https://nhgooi.nl/widgets/verkiezingsronde-hilversum",
+      "maker": "NH Gooi, de lokale omroep.",
+      "werking": "Zes stellingen over dorpen en wijken, wonen en asielopvang, met per stelling welke partijen ja of nee zeggen en hun toelichting, en korte interviews in een stemhokje. Je vult zelf niets in.",
+      "standpunten": "Achttien partijen beantwoordden de stellingen zelf, in hoogstens 75 woorden die letterlijk zijn overgenomen. BVNL en LFD deden niet mee."
+    }
+  ]
+}

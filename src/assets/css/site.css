@@ -117,6 +117,9 @@ input:focus-visible + .vakje { outline: 3px solid var(--dudok); outline-offset: 
 .blok { border-top: 2px solid var(--inkt); padding-top: 1rem; }
 .blok h3, .blok__kop { margin-top: 0; }
 .blok__kop { font-size: 1.28rem; }
+.stemhulpen { list-style: none; padding: 0; margin: 2rem 0; display: grid; gap: 2rem; max-width: var(--smal); }
+.stemhulpen > li { margin: 0; }
+.stemhulpen p { margin: 0.4rem 0 0; }
 
 /* Stappen van de stemwijzer */
 .stappen { list-style: none; display: flex; flex-wrap: wrap; gap: 0; padding: 0; margin: 0 0 2rem; max-width: none; border-bottom: 1px solid var(--lijn); font: 500 0.9375rem/1.2 var(--kop); }

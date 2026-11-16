@@ -629,6 +629,36 @@ ${REPO ? `<p>Alles wat hiervoor gemaakt is, staat openbaar op GitHub: de code va
   scripts: `<script>document.getElementById('kopieer').onclick=async(ev)=>{const t=document.getElementById('prompt').textContent;try{await navigator.clipboard.writeText(t);ev.target.textContent='Gekopieerd';window.meet('Opdracht gekopieerd');}catch{const r=document.createRange();r.selectNodeContents(document.getElementById('prompt'));const s=getSelection();s.removeAllRanges();s.addRange(r);ev.target.textContent='Geselecteerd: kopieer met Ctrl+C';}};</script>`,
 }));
 
+// ---------- Andere stemhulpen ----------
+// De lijst staat in data/stemhulpen.json: de officiële stemhulp van de gemeenten eerst, de rest op alfabet.
+const ANDERE = '/andere-stemhulpen/';
+const stemhulpData = bestaat('data/stemhulpen.json') ? lees('data/stemhulpen.json') : { stemhulpen: [] };
+const stemhulpen = [...stemhulpData.stemhulpen].sort((a, b) => (b.officieel ? 1 : 0) - (a.officieel ? 1 : 0) || a.naam.localeCompare(b.naam, 'nl'));
+const datumNl = (d) => new Date(`${d}T12:00:00`).toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' });
+schrijf('andere-stemhulpen/index.html', pagina({
+  titel: 'Andere stemhulpen voor 18 november – Hilversum kiest',
+  beschrijving: 'Alle stemhulpen en verkiezingsgidsen voor de gemeenteraadsverkiezing in Hilversum en Wijdemeren op een rij: wie ze maakte, hoe ze werken en waar de standpunten vandaan komen.',
+  pad: ANDERE,
+  inhoud: `
+<h1>Andere stemhulpen</h1>
+<div class="smal">
+<p style="font-size:1.2rem;line-height:1.5">Hilversum kiest is niet de enige hulp bij je keuze. Voor deze verkiezing zijn er meer stemhulpen en gidsen, elk met een eigen aanpak. Kijk gerust verder.</p>
+<p>Het verschil met Hilversum kiest: daar kies je eerst tussen welke partijen je twijfelt, en krijg je daarna de stellingen waarop juist die partijen van elkaar verschillen.</p>
+<p class="klein">Bovenaan staat de officiële stemhulp van de gemeenten, de rest staat op alfabet. De volgorde is geen rangorde en geen aanbeveling. Per stemhulp staat wat die er zelf over zegt, nagekeken op ${datumNl(stemhulpData.nagekeken)}.</p>
+</div>
+<ul class="stemhulpen">
+${stemhulpen.map((s) => `<li class="blok">
+  <h2 class="blok__kop"><a href="${e(s.url)}" rel="noopener">${e(s.naam)}</a></h2>
+  <p class="grijs">${e(s.maker)}</p>
+  <p>${e(s.werking)}</p>
+  <p>${e(s.standpunten)}</p>
+</li>`).join('\n')}
+</ul>
+<div class="smal">
+<p class="klein">Overzichten die een partij zelf maakte, staan hier niet bij. Mist er een stemhulp of klopt er iets niet?${REPO ? ` <a href="${e(REPO)}/issues" rel="noopener">Meld het op GitHub</a>, dan kijk ik ernaar.` : ''}</p>
+</div>`,
+}));
+
 // ---------- Data voor de browser ----------
 const licht = {
   partijen: partijen.map(({ slug, nr, naam, kort, kleur }) => ({ slug, nr, naam, kort, kleur })),
