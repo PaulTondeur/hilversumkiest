@@ -637,7 +637,6 @@ ${REPO ? `<p>Alles wat hiervoor gemaakt is, staat openbaar op GitHub: de code va
 const ANDERE = '/andere-stemhulpen/';
 const stemhulpData = bestaat('data/stemhulpen.json') ? lees('data/stemhulpen.json') : { stemhulpen: [] };
 const stemhulpen = [...stemhulpData.stemhulpen].sort((a, b) => (b.officieel ? 1 : 0) - (a.officieel ? 1 : 0) || a.naam.localeCompare(b.naam, 'nl'));
-const datumNl = (d) => new Date(`${d}T12:00:00`).toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' });
 const domein = (u) => new URL(u).hostname.replace(/^www\./, '');
 const stemhulpKaart = (s) => `<li class="stemhulp${s.officieel ? ' stemhulp--officieel' : ''}">
   ${s.beeld && bestaat(`src/assets/stemhulpen/${s.beeld}.jpg`) ? `<a class="venster" href="${e(s.url)}" rel="noopener" tabindex="-1" aria-hidden="true"><span class="venster__balk"><i></i><i></i><i></i><span>${e(domein(s.url))}</span></span><img src="/assets/stemhulpen/${e(s.beeld)}.jpg" alt="" width="880" height="550" loading="lazy"></a>` : ''}
@@ -646,8 +645,7 @@ const stemhulpKaart = (s) => `<li class="stemhulp${s.officieel ? ' stemhulp--off
     <h2>${e(s.naam)}</h2>
     ${s.kenmerken?.length ? `<ul class="kenmerken" aria-label="Kenmerken">${s.kenmerken.map((k) => `<li${k === 'Officieel' ? ' class="kenmerk--officieel"' : /^Invalshoek/.test(k) ? ' class="kenmerk--invalshoek"' : ''}>${e(k)}</li>`).join('')}</ul>` : ''}
     <p>${e(s.werking)}</p>
-    <p>${e(s.standpunten)}</p>
-    <p class="klein">${e(s.maker)}</p>
+    ${s.standpunten ? `<p>${e(s.standpunten)}</p>` : ''}
     <p><a class="knop knop--licht" href="${e(s.url)}" rel="noopener">Naar ${e(s.naam)}</a></p>
   </div>
 </li>`;
@@ -658,15 +656,14 @@ schrijf('andere-stemhulpen/index.html', pagina({
   inhoud: `
 <div class="smal">
 <h1>Andere stemhulpen</h1>
-<p style="font-size:1.2rem;line-height:1.5">Hilversum kiest is niet de enige hulp bij je keuze. Voor deze verkiezing zijn er meer stemhulpen en gidsen, elk met een eigen aanpak. Kijk gerust verder.</p>
-<div class="melding"><p><strong>Het verschil met Hilversum kiest:</strong> daar kies je eerst tussen welke partijen je twijfelt, en krijg je daarna de stellingen waarop juist die partijen van elkaar verschillen.</p></div>
-<p class="klein">Bovenaan staat de officiële stemhulp van de gemeenten, de rest staat op alfabet. De volgorde is geen rangorde en geen aanbeveling. Per stemhulp staat wat die er zelf over zegt, nagekeken op ${datumNl(stemhulpData.nagekeken)}.</p>
+<p style="font-size:1.2rem;line-height:1.5">Voor deze verkiezing zijn er meer stemhulpen en gidsen, elk met een eigen aanpak. Kijk gerust verder.</p>
+<div class="melding"><p><strong>Het verschil met Hilversum kiest:</strong> daar kies je eerst tussen welke partijen je twijfelt, en krijg je alleen de stellingen waarop die verschillen.</p></div>
 </div>
 <ul class="stemhulpen">
 ${stemhulpen.map(stemhulpKaart).join('\n')}
 </ul>
 <div class="smal">
-<p class="klein">De beelden zijn schermafbeeldingen van de stemhulpen zelf, gemaakt op ${datumNl(stemhulpData.nagekeken)}; bij HilversumsNieuws staat het logo, omdat op die pagina advertenties van partijen staan. Overzichten die een partij zelf maakte, staan hier niet bij. Mist er een stemhulp of klopt er iets niet?${REPO ? ` <a href="${e(REPO)}/issues" rel="noopener">Meld het op GitHub</a>, dan kijk ik ernaar.` : ''}</p>
+<p class="klein">Mist er een stemhulp of klopt er iets niet?${REPO ? ` <a href="${e(REPO)}/issues" rel="noopener">Meld het op GitHub</a>, dan kijk ik ernaar.` : ''}</p>
 </div>`,
 }));
 
