@@ -396,21 +396,24 @@ for (const p of partijen) {
       { '@type': 'ListItem', position: 2, name: p.naam, item: volledig(`/partijen/${p.slug}/`) },
     ] }],
     inhoud: `
-<div class="partijkop">
+<div class="partijkop partijkop--video">
+  <div class="partijkop__tekst">
   ${logos[p.slug]?.bestand ? logoHtml(p) : ''}
   <span class="lijstnr">${stip(p)} Lijst ${p.nr}</span>
   <h1>${e(p.naam)}</h1>
   <span class="grijs">Lijsttrekker ${e(p.lijsttrekker)}${p.website ? ` · <a href="${e(p.website)}" rel="noopener">website</a>` : ''}${p.programma.url ? ` · <a href="${e(p.programma.url)}" rel="noopener">verkiezingsprogramma${p.programma.paginas ? ` (${p.programma.paginas} pagina's)` : ''}</a>` : ''}</span>
+  </div>
+  ${p.kernboodschap ? `<p class="partijkop__kern">${e(p.kernboodschap)}</p>` : ''}
+  <figure class="partijkop__video" id="video">
+  ${PARTIJVIDEOS.videos[p.slug] ? `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(PARTIJVIDEOS.videos[p.slug])}?rel=0" title="Video over ${e(p.naam)}, lijst ${p.nr}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` : `<div class="video__beeld video__beeld--leeg"><span>De video van deze ${p.slug === 'blanco-van-oostveen' ? 'lijst' : 'partij'} volgt binnenkort</span></div>`}
+  <figcaption class="klein grijs">Elke partij krijgt een video in hetzelfde format: speerpunten met uitleg, wie er meedoen en de geschiedenis in Hilversum en Wijdemeren. <a href="${e(PARTIJVIDEOS.kanaal || 'https://www.youtube.com/@hilversumkiest')}" rel="noopener">Alle video's op YouTube</a></figcaption>
+  </figure>
 </div>
-<nav aria-label="Op deze pagina"><ul class="inpagina"><li><a href="#video">Video</a></li>${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
+<nav aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
 <div class="smal">
-${p.kernboodschap ? `<p style="font-size:1.2rem;line-height:1.5">${e(p.kernboodschap)}</p>` : ''}
 ${p.achtergrond ? `<p class="grijs">${e(p.achtergrond)}</p>` : ''}
 ${p.basis ? `<div class="melding"><p>${e(p.basis)}</p></div>` : ''}
 ${p.speerpunten.length ? `<h2>Wat de partij zelf vooropzet</h2><ul>${p.speerpunten.map((s) => `<li>${e(s)}</li>`).join('')}</ul>` : ''}
-<h2 id="video">In een video</h2>
-${PARTIJVIDEOS.videos[p.slug] ? `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(PARTIJVIDEOS.videos[p.slug])}?rel=0" title="Video over ${e(p.naam)}, lijst ${p.nr}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` : `<div class="video__beeld video__beeld--leeg"><span>De video van deze ${p.slug === 'blanco-van-oostveen' ? 'lijst' : 'partij'} volgt binnenkort</span></div>`}
-<p class="klein grijs">Een video van Hilversum kiest, voor elke partij in hetzelfde format: de speerpunten met uitleg, een snelle ronde langs andere standpunten, wie er meedoen en de geschiedenis in Hilversum en Wijdemeren. Alle video's staan op <a href="${e(PARTIJVIDEOS.kanaal || 'https://www.youtube.com/@hilversumkiest')}" rel="noopener">YouTube</a>.</p>
 </div>
 ${kandidatenHtml(p)}
 

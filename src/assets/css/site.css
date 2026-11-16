@@ -282,6 +282,12 @@ td.heat { text-align: center; padding: 0.35rem 0.3rem; font-variant-numeric: tab
 .partijkop .lijstnr { font: 500 1.05rem/1 var(--kop); color: var(--grijs); display: flex; align-items: center; gap: 0.5rem; }
 .partijkop .lijstnr i { width: 0.85rem; height: 0.85rem; border-radius: 50%; }
 .partijkop h1 { font-size: clamp(2rem, 5vw, 3.3rem); margin: 0; }
+.partijkop--video { grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); grid-template-areas: "tekst video" "kern video"; gap: 0.8rem 2.5rem; align-items: start; }
+.partijkop__tekst { grid-area: tekst; display: grid; gap: 0.3rem; align-content: end; justify-items: start; }
+.partijkop__kern { grid-area: kern; font-size: 1.1rem; line-height: 1.5; margin: 0; }
+.partijkop__video { grid-area: video; margin: 0; align-self: center; }
+.partijkop__video figcaption { margin-top: 0.5rem; }
+@media (max-width: 52rem) { .partijkop--video { grid-template-columns: 1fr; grid-template-areas: "tekst" "video" "kern"; gap: 1.2rem; } }
 .buren { display: grid; gap: 1.5rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); }
 .buren ol { list-style: none; padding: 0; margin: 0; }
 .buren li { display: grid; grid-template-columns: 1fr auto; gap: 0.1rem 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid var(--lijn); margin: 0; }
