@@ -1,4 +1,4 @@
-import { DIEPTES, kiesStellingen, bereken, onderscheid, procent } from './engine.mjs';
+import { DIEPTES, kiesStellingen, bereken, onderscheid, procent, buitenKeuze } from './engine.mjs';
 import { e, ANTWOORD, SCHAAL, laadStaat, bewaarStaat, laadData, standpuntHtml, spectrumHtml, pos } from './deel.js';
 
 const app = document.getElementById('app');
@@ -82,6 +82,7 @@ function focusKop() {
 
 function ga(stap) {
   if (stap !== staat.stap) meld(stap);
+  if (stap === 'lijsten' || stap === 'themas') staat.aanvullen = false;
   staat.stap = stap;
   bewaar();
   history.replaceState(null, '', stap === 'lijsten' ? location.pathname : '#' + stap);
@@ -158,6 +159,11 @@ ${Object.entries(DIEPTES).map(([id, d]) => `<label><input type="radio" name="die
 }
 
 // --- stap 3: stellingen ---
+// Teller voor wie de stemwijzer aanvult met een partij erbij: alleen de nieuwe stellingen tellen.
+function nogNieuw(set, st) {
+  const nog = set.filter((x) => !(x.id in staat.antwoorden) && x.id !== st.id && set.indexOf(x) > set.indexOf(st)).length;
+  return nog ? `Nieuwe stelling, nog ${nog} na deze` : 'Laatste nieuwe stelling';
+}
 function tekenStelling() {
   const set = setStellingen();
   if (!set.length) return ga('themas');
@@ -167,7 +173,7 @@ function tekenStelling() {
   const a = staat.antwoorden[st.id];
   app.innerHTML = `${stappenbalk()}
 <article class="stelling">
-  <div class="stelling__meta"><span>${e(thema.naam)}</span><span>Stelling ${staat.i + 1} van ${set.length}</span></div>
+  <div class="stelling__meta"><span>${e(thema.naam)}</span><span>${staat.aanvullen ? nogNieuw(set, st) : `Stelling ${staat.i + 1} van ${set.length}`}</span></div>
   <div class="voortgang" aria-hidden="true"><i style="width:${((staat.i) / set.length) * 100}%"></i></div>
   <div class="stelling__lijf">
     <p class="stelling__kop">${e(st.kop || '')}</p>
@@ -211,7 +217,12 @@ ${metStandpunt.map((p) => standpuntHtml(st, p, 'h2')).join('')}`;
     blikKnop.textContent = open ? 'Verberg de standpunten' : 'Wat vinden de partijen?';
     if (open) tekenBlik(false);
   };
-  const volgende = () => { if (staat.i >= set.length - 1) return ga('uitslag'); staat.i++; bewaar(); tekenStelling(); focusKop(); };
+  const volgende = () => {
+    // Na 'doe de stemwijzer met … erbij' sla je stellingen over die je al beantwoordde.
+    const na = staat.aanvullen ? set.findIndex((x, j) => j > staat.i && !(x.id in staat.antwoorden)) : staat.i + 1;
+    if (na < 0 || na > set.length - 1) return ga('uitslag');
+    staat.i = na; bewaar(); tekenStelling(); focusKop();
+  };
   app.querySelectorAll('[data-antwoord]').forEach((b) => (b.onclick = () => {
     staat.antwoorden[st.id] = +b.dataset.antwoord;
     app.querySelectorAll('[data-antwoord]').forEach((x) => x.setAttribute('aria-pressed', x === b));
@@ -227,6 +238,24 @@ ${metStandpunt.map((p) => standpuntHtml(st, p, 'h2')).join('')}`;
   };
 }
 
+// Partijen buiten je keuze die op jouw antwoorden duidelijk dichter bij je staan (regel: buitenKeuze in engine.mjs).
+// Rustig onder de eigen uitslag, zonder percentage, en alleen als een partij de vaste drempel haalt.
+function buitenHtml(buiten, n, eerste) {
+  if (!buiten.length) return '';
+  const pm = P();
+  const namen = buiten.map((u) => pm[u.slug].kort);
+  const en = (a) => (a.length > 1 ? `${a.slice(0, -1).join(', ')} en ${a.at(-1)}` : a[0]);
+  const wie = en(namen.map((x) => `<b>${e(x)}</b>`));
+  const dekking = `${e(namen[0])} heeft een standpunt op ${buiten[0].bekend}${buiten[1] ? ` en ${e(namen[1])} op ${buiten[1].bekend}` : ''} van je ${n} stellingen`;
+  const naast = new URLSearchParams([...buiten.map((u) => u.slug), eerste.slug].map((s, i) => ['abcdef'[i], s])).toString();
+  return `<section class="buiten" aria-labelledby="buiten-kop">
+<h2 id="buiten-kop">Buiten je eigen keuze</h2>
+<p>Op de stellingen die je beantwoordde, ${buiten.length === 1 ? 'staat' : 'staan'} ook ${wie} dicht bij je: duidelijk dichter dan de partijen die je koos.</p>
+<p class="klein">Zeker is dat niet. Je kreeg de stellingen waarop jouw partijen verschillen, niet die waarop ${e(en(namen))} zich ${buiten.length === 1 ? 'onderscheidt' : 'onderscheiden'}. ${dekking}. Doe je de stemwijzer met ${buiten.length === 1 ? 'deze partij' : 'deze partijen'} erbij, dan krijg je stellingen waarop ${buiten.length === 1 ? 'zij' : 'ze'} van jouw partijen ${buiten.length === 1 ? 'verschilt' : 'verschillen'}; je antwoorden blijven staan. <a href="/verantwoording/#buiten">Hoe dit berekend wordt</a>.</p>
+<div class="rij"><button class="knop knop--licht" type="button" data-erbij>Doe de stemwijzer met ${e(en(namen))} erbij</button><a href="/vergelijken/?${naast}">Leg ${buiten.length === 1 ? e(namen[0]) : 'ze'} naast ${e(eerste.kort)}</a></div>
+</section>`;
+}
+
 // --- stap 4: uitslag ---
 function tekenUitslag() {
   const set = setStellingen();
@@ -238,7 +267,9 @@ function tekenUitslag() {
     app.innerHTML = `${stappenbalk()}<h1>Nog geen uitslag</h1><p>Je hebt alle stellingen overgeslagen. Beantwoord er een paar, dan kunnen we je met de partijen vergelijken.</p><p><button class="knop" type="button" data-ga="stellingen">Terug naar de stellingen</button></p>`;
     return;
   }
+  if (staat.aanvullen) { staat.aanvullen = false; bewaar(); }
   const uit = bereken(set, staat.lijsten, staat.antwoorden, staat.zwaar);
+  const buiten = buitenKeuze(set, staat.lijsten, data.partijen.map((p) => p.slug), staat.antwoorden, staat.zwaar);
   const top = uit[0].score;
   const gelijk = uit.filter((u) => Math.abs(u.score - top) < 0.005);
   const themaIds = data.themas.map((t) => t.id).filter((t) => set.some((s) => s.thema === t));
@@ -255,6 +286,7 @@ ${verschil !== null && verschil <= 3 && gelijk.length === 1 ? `<div class="meldi
   }).join('')}</ol>
 <p class="klein">Het percentage zegt hoe dicht jullie posities bij elkaar liggen: 100% is overal dezelfde positie, 0% overal zo ver mogelijk van je af. Een stelling waarover een partij geen standpunt heeft, telt voor die partij neutraal. <a href="/verantwoording/#rekenen">Zo wordt het berekend</a>. De standpunten zijn met hulp van AI afgeleid uit de programma's en uit wat partijen elders antwoordden; de partijen hebben ze niet nagekeken. Dit is een hulpmiddel om verschillen te zien, geen stemadvies.</p>
 <div class="rij" style="margin:1.2rem 0 0"><button class="knop knop--licht" type="button" data-deel>Kopieer link naar deze uitslag</button><button class="knop knop--licht" type="button" data-ga="lijsten">Andere partijen of thema's</button><button class="knop knop--tekst" type="button" data-opnieuw>Begin opnieuw</button></div>
+${buitenHtml(buiten, beantwoord.length, pm[uit[0].slug])}
 
 ${themaIds.length > 1 ? `<h2>Per thema</h2>
 <div class="tabel-wrap" tabindex="0" role="region" aria-label="Uitslag per thema"><table><thead><tr><th>Partij</th>${themaIds.map((t) => `<th class="num">${e(data.themas.find((x) => x.id === t).kort)}</th>`).join('')}</tr></thead><tbody>
@@ -284,8 +316,20 @@ ${themaIds.map((t) => `<h3 class="themakop">${e(data.themas.find((x) => x.id ===
     veld.select();
     try { await navigator.clipboard.writeText(url); ev.target.textContent = 'Link gekopieerd'; } catch { ev.target.textContent = 'Kopieer de link hieronder'; }
   };
+  const erbij = app.querySelector('[data-erbij]');
+  if (erbij) erbij.onclick = () => {
+    window.meet?.('Stemwijzer: partij buiten keuze erbij', { erbij: buiten.length });
+    const nieuw = new Set([...staat.lijsten, ...buiten.map((u) => u.slug)]);
+    staat.lijsten = data.partijen.map((p) => p.slug).filter((s) => nieuw.has(s));
+    maakSet();
+    const eerste = setStellingen().findIndex((x) => !(x.id in staat.antwoorden));
+    if (eerste < 0) return ga('uitslag');
+    staat.i = eerste;
+    staat.aanvullen = true;
+    ga('stellingen');
+  };
   app.querySelector('[data-opnieuw]').onclick = () => {
-    staat = { lijsten: [], themas: [], diepte: 'normaal', antwoorden: {}, zwaar: [], set: null, i: 0, stap: 'lijsten' };
+    staat = { lijsten: [], themas: [], diepte: 'normaal', antwoorden: {}, zwaar: [], set: null, i: 0, stap: 'lijsten', aanvullen: false };
     ga('lijsten');
   };
 }

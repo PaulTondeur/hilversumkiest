@@ -1,0 +1,2496 @@
+{
+ "regel": {
+  "minBekend": 8,
+  "minDekking": 0.5,
+  "marge": 0.1,
+  "max": 2
+ },
+ "scenario": {
+  "willekeurig": {
+   "n": 11970,
+   "regels": {
+    "gekozen: 10 pp, helft, min 8": {
+     "metSuggestie": 23.4,
+     "gemAantal": 0.35,
+     "genoemdMinMax": [
+      1.3,
+      2.9
+     ],
+     "samenhangGenoemdBekend": 0.42,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 1.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 1.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 1.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 1.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 1.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    },
+    "5 pp, helft, min 8": {
+     "metSuggestie": 40.2,
+     "gemAantal": 0.65,
+     "genoemdMinMax": [
+      2.7,
+      5.1
+     ],
+     "samenhangGenoemdBekend": 0.36,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 4.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 2.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 5.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    },
+    "5 pp, twee derde, min 8": {
+     "metSuggestie": 38.6,
+     "gemAantal": 0.62,
+     "genoemdMinMax": [
+      2.6,
+      5.1
+     ],
+     "samenhangGenoemdBekend": 0.75,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 4.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 3.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 5.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    },
+    "10 pp, geen dekkingseis, min 8": {
+     "metSuggestie": 23.5,
+     "gemAantal": 0.35,
+     "genoemdMinMax": [
+      1.3,
+      2.9
+     ],
+     "samenhangGenoemdBekend": 0.4,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 1.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 1.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 1.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 1.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    },
+    "marge 0,4/wortel(n), helft": {
+     "metSuggestie": 24.5,
+     "gemAantal": 0.37,
+     "genoemdMinMax": [
+      1.3,
+      2.9
+     ],
+     "samenhangGenoemdBekend": 0.41,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 1.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 2.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 1.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 1.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 2.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 1.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    },
+    "live (geen standpunt = 0), 10 pp": {
+     "metSuggestie": 17.2,
+     "gemAantal": 0.25,
+     "genoemdMinMax": [
+      0.9,
+      2.5
+     ],
+     "samenhangGenoemdBekend": 0.83,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 0.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 1.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 1.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 1.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 1.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 1.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 1.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 1.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 1.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 1.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 1.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 1.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 1.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 1.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 1.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 2.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 1.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    },
+    "live (geen standpunt = 0), 5 pp": {
+     "metSuggestie": 34.3,
+     "gemAantal": 0.55,
+     "genoemdMinMax": [
+      2.3,
+      4.7
+     ],
+     "samenhangGenoemdBekend": 0.87,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 69.7
+      },
+      "d66": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.7
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.2
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.9
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68
+      },
+      "sp": {
+       "genoemdAlsBuiten": 3.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 68.5
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.6
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 2.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.5
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.9
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.3
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 67.9
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 2.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.2
+      }
+     }
+    }
+   }
+  },
+  "buiten": {
+   "n": 11975,
+   "regels": {
+    "gekozen: 10 pp, helft, min 8": {
+     "metSuggestie": 40,
+     "gemAantal": 0.55,
+     "genoemdMinMax": [
+      2.6,
+      4.4
+     ],
+     "samenhangGenoemdBekend": 0.34,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 29.7,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4,
+       "herkendAlsAnker": 40.8,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 38.3,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 43.9,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 33,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 33.7,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 38.3,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 37.8,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 38.9,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": 28.4,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 29.2,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": 35.8,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": 26.9,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": 35.1,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": 36.1,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 32.3,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 38.7,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 3.6,
+       "herkendAlsAnker": 36.1,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 38.3,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": 39.6,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      26.9,
+      43.9
+     ],
+     "samenhangHerkendBekend": 0.68,
+     "herkendGem": 35.6
+    },
+    "5 pp, helft, min 8": {
+     "metSuggestie": 50,
+     "gemAantal": 0.76,
+     "genoemdMinMax": [
+      3.9,
+      6.2
+     ],
+     "samenhangGenoemdBekend": 0.22,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 4.9,
+       "herkendAlsAnker": 38,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 5.6,
+       "herkendAlsAnker": 50.1,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 4.7,
+       "herkendAlsAnker": 45,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 50.3,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": 41.2,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 4.6,
+       "herkendAlsAnker": 41.9,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": 45.3,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": 46.5,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 4.8,
+       "herkendAlsAnker": 46.7,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": 37.4,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 4.6,
+       "herkendAlsAnker": 37.9,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 5.1,
+       "herkendAlsAnker": 43,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": 33.8,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 4.1,
+       "herkendAlsAnker": 44,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 5.3,
+       "herkendAlsAnker": 44.5,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 4.6,
+       "herkendAlsAnker": 39.2,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 45.2,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 5,
+       "herkendAlsAnker": 46.4,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": 48.1,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 6.2,
+       "herkendAlsAnker": 46.4,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      33.8,
+      50.3
+     ],
+     "samenhangHerkendBekend": 0.71,
+     "herkendGem": 43.5
+    },
+    "5 pp, twee derde, min 8": {
+     "metSuggestie": 47.3,
+     "gemAantal": 0.71,
+     "genoemdMinMax": [
+      2.9,
+      6.2
+     ],
+     "samenhangGenoemdBekend": 0.63,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": 34.1,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 5.7,
+       "herkendAlsAnker": 50.1,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 4.7,
+       "herkendAlsAnker": 43.3,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 50.1,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": 41.2,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 4.6,
+       "herkendAlsAnker": 41.5,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": 43.6,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 42.8,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 4.9,
+       "herkendAlsAnker": 46.7,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": 27.6,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": 36.7,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 4.1,
+       "herkendAlsAnker": 36.2,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": 24.3,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 4,
+       "herkendAlsAnker": 42.5,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 5.3,
+       "herkendAlsAnker": 43.4,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": 31.1,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 44.8,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 38.6,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": 47.6,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 6.2,
+       "herkendAlsAnker": 44.3,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      24.3,
+      50.1
+     ],
+     "samenhangHerkendBekend": 0.89,
+     "herkendGem": 40.5
+    },
+    "10 pp, geen dekkingseis, min 8": {
+     "metSuggestie": 40.1,
+     "gemAantal": 0.55,
+     "genoemdMinMax": [
+      2.7,
+      4.4
+     ],
+     "samenhangGenoemdBekend": 0.33,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 29.7,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4,
+       "herkendAlsAnker": 40.8,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 38.3,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 43.9,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 33,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 33.7,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 38.5,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 37.8,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 38.9,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.7,
+       "herkendAlsAnker": 29.1,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 29.2,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": 35.8,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": 27.1,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": 35.1,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": 36.1,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 32.4,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 38.7,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 3.6,
+       "herkendAlsAnker": 36.3,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 38.3,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": 39.6,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      27.1,
+      43.9
+     ],
+     "samenhangHerkendBekend": 0.67,
+     "herkendGem": 35.6
+    },
+    "marge 0,4/wortel(n), helft": {
+     "metSuggestie": 39.5,
+     "gemAantal": 0.54,
+     "genoemdMinMax": [
+      2.6,
+      4.4
+     ],
+     "samenhangGenoemdBekend": 0.4,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 29.7,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 41.8,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 38.3,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 43.9,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 32.7,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 35.4,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 39,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 37.8,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 38.6,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": 28.6,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 29.7,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 3.7,
+       "herkendAlsAnker": 35.7,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": 27.1,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": 35.1,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 3.8,
+       "herkendAlsAnker": 36.5,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 32.4,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 38.7,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 3.5,
+       "herkendAlsAnker": 35.8,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 40.2,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": 39.6,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      27.1,
+      43.9
+     ],
+     "samenhangHerkendBekend": 0.72,
+     "herkendGem": 35.8
+    },
+    "live (geen standpunt = 0), 10 pp": {
+     "metSuggestie": 32.3,
+     "gemAantal": 0.43,
+     "genoemdMinMax": [
+      1.2,
+      4.3
+     ],
+     "samenhangGenoemdBekend": 0.88,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": 19.3,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": 42.6,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 2.9,
+       "herkendAlsAnker": 30.4,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 3.1,
+       "herkendAlsAnker": 39.7,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 3,
+       "herkendAlsAnker": 30,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": 29.9,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": 35,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": 28.2,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 3.6,
+       "herkendAlsAnker": 36.3,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 1.3,
+       "herkendAlsAnker": 14.4,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": 24.7,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 2.2,
+       "herkendAlsAnker": 24.6,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 1.2,
+       "herkendAlsAnker": 13.5,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": 29.7,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 32.1,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 2,
+       "herkendAlsAnker": 21.4,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 2.6,
+       "herkendAlsAnker": 33.3,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 2.1,
+       "herkendAlsAnker": 24.1,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 2.8,
+       "herkendAlsAnker": 34.5,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 29.8,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      13.5,
+      42.6
+     ],
+     "samenhangHerkendBekend": 0.91,
+     "herkendGem": 28.7
+    },
+    "live (geen standpunt = 0), 5 pp": {
+     "metSuggestie": 44.3,
+     "gemAantal": 0.65,
+     "genoemdMinMax": [
+      2.3,
+      6.2
+     ],
+     "samenhangGenoemdBekend": 0.81,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 3.6,
+       "herkendAlsAnker": 29.1,
+       "dekkingOk": 60.8
+      },
+      "pro": {
+       "genoemdAlsBuiten": 6.2,
+       "herkendAlsAnker": 51.5,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 4.1,
+       "herkendAlsAnker": 40.4,
+       "dekkingOk": 62.6
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 4.3,
+       "herkendAlsAnker": 50.1,
+       "dekkingOk": 64.9
+      },
+      "cda": {
+       "genoemdAlsBuiten": 4.5,
+       "herkendAlsAnker": 39.2,
+       "dekkingOk": 65.7
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 4.4,
+       "herkendAlsAnker": 41,
+       "dekkingOk": 64.4
+      },
+      "sp": {
+       "genoemdAlsBuiten": 4.1,
+       "herkendAlsAnker": 43.3,
+       "dekkingOk": 62.3
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 3.7,
+       "herkendAlsAnker": 39.4,
+       "dekkingOk": 61.7
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 5,
+       "herkendAlsAnker": 45.9,
+       "dekkingOk": 65.1
+      },
+      "scb": {
+       "genoemdAlsBuiten": 2.4,
+       "herkendAlsAnker": 26.4,
+       "dekkingOk": 56.8
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 4.2,
+       "herkendAlsAnker": 34.6,
+       "dekkingOk": 63.6
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 34.9,
+       "dekkingOk": 59
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 2.3,
+       "herkendAlsAnker": 23.8,
+       "dekkingOk": 57.1
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 3.4,
+       "herkendAlsAnker": 37.8,
+       "dekkingOk": 62
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 5,
+       "herkendAlsAnker": 42.1,
+       "dekkingOk": 64.5
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 3.2,
+       "herkendAlsAnker": 30.8,
+       "dekkingOk": 59.7
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": 42.3,
+       "dekkingOk": 62.8
+      },
+      "volt": {
+       "genoemdAlsBuiten": 3.3,
+       "herkendAlsAnker": 35.2,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 3.9,
+       "herkendAlsAnker": 45.2,
+       "dekkingOk": 63.5
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 5.2,
+       "herkendAlsAnker": 39.1,
+       "dekkingOk": 62.1
+      }
+     },
+     "herkendMinMax": [
+      23.8,
+      51.5
+     ],
+     "samenhangHerkendBekend": 0.92,
+     "herkendGem": 38.6
+    }
+   }
+  },
+  "binnen": {
+   "n": 11977,
+   "regels": {
+    "gekozen: 10 pp, helft, min 8": {
+     "metSuggestie": 3,
+     "gemAantal": 0.04,
+     "genoemdMinMax": [
+      0.1,
+      0.4
+     ],
+     "samenhangGenoemdBekend": -0.52,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    },
+    "5 pp, helft, min 8": {
+     "metSuggestie": 6.8,
+     "gemAantal": 0.09,
+     "genoemdMinMax": [
+      0.3,
+      1.1
+     ],
+     "samenhangGenoemdBekend": -0.43,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 1.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    },
+    "5 pp, twee derde, min 8": {
+     "metSuggestie": 6.4,
+     "gemAantal": 0.09,
+     "genoemdMinMax": [
+      0.3,
+      1
+     ],
+     "samenhangGenoemdBekend": -0.25,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.6,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    },
+    "10 pp, geen dekkingseis, min 8": {
+     "metSuggestie": 3,
+     "gemAantal": 0.04,
+     "genoemdMinMax": [
+      0.1,
+      0.4
+     ],
+     "samenhangGenoemdBekend": -0.52,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    },
+    "marge 0,4/wortel(n), helft": {
+     "metSuggestie": 2.4,
+     "gemAantal": 0.03,
+     "genoemdMinMax": [
+      0.1,
+      0.4
+     ],
+     "samenhangGenoemdBekend": -0.45,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    },
+    "live (geen standpunt = 0), 10 pp": {
+     "metSuggestie": 1.8,
+     "gemAantal": 0.02,
+     "genoemdMinMax": [
+      0,
+      0.4
+     ],
+     "samenhangGenoemdBekend": 0.07,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.1,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    },
+    "live (geen standpunt = 0), 5 pp": {
+     "metSuggestie": 4.6,
+     "gemAantal": 0.06,
+     "genoemdMinMax": [
+      0.2,
+      0.8
+     ],
+     "samenhangGenoemdBekend": 0.2,
+     "perPartij": {
+      "hart-voor-hilversum": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 61.4
+      },
+      "pro": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.4
+      },
+      "d66": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.1
+      },
+      "vvd": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 65.4
+      },
+      "cda": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66.1
+      },
+      "lokaal-een": {
+       "genoemdAlsBuiten": 0.8,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.2
+      },
+      "sp": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.4
+      },
+      "christenunie": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.3
+      },
+      "bvnl": {
+       "genoemdAlsBuiten": 0.5,
+       "herkendAlsAnker": null,
+       "dekkingOk": 66
+      },
+      "scb": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.9
+      },
+      "gewoon-hilversum": {
+       "genoemdAlsBuiten": 0.7,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.8
+      },
+      "dorp-voor-dorp": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.3
+      },
+      "stop-betaald-parkeren-vip": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 57.2
+      },
+      "opstand-nu": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      },
+      "pvdd": {
+       "genoemdAlsBuiten": 0.4,
+       "herkendAlsAnker": null,
+       "dekkingOk": 64.6
+      },
+      "blanco-van-oostveen": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 60.2
+      },
+      "lfd": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.5
+      },
+      "volt": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 59.8
+      },
+      "fvd": {
+       "genoemdAlsBuiten": 0.2,
+       "herkendAlsAnker": null,
+       "dekkingOk": 63.7
+      },
+      "bbb": {
+       "genoemdAlsBuiten": 0.3,
+       "herkendAlsAnker": null,
+       "dekkingOk": 62.8
+      }
+     }
+    }
+   }
+  }
+ },
+ "maskeer": {
+  "pro": {
+   "voor": {
+    "gekozen": 49.7,
+    "5 pp, 2/3": 60.5,
+    "live 10 pp": 50.6
+   },
+   "na": {
+    "gekozen": 43.1,
+    "5 pp, 2/3": 45.3,
+    "live 10 pp": 25.6
+   }
+  },
+  "vvd": {
+   "voor": {
+    "gekozen": 49.3,
+    "5 pp, 2/3": 58.4,
+    "live 10 pp": 45.7
+   },
+   "na": {
+    "gekozen": 41.5,
+    "5 pp, 2/3": 37.8,
+    "live 10 pp": 26.3
+   }
+  },
+  "cda": {
+   "voor": {
+    "gekozen": 46.1,
+    "5 pp, 2/3": 55.4,
+    "live 10 pp": 42.7
+   },
+   "na": {
+    "gekozen": 33.2,
+    "5 pp, 2/3": 18,
+    "live 10 pp": 13.5
+   }
+  },
+  "hart-voor-hilversum": {
+   "voor": {
+    "gekozen": 38.1,
+    "5 pp, 2/3": 44.4,
+    "live 10 pp": 24.8
+   },
+   "na": {
+    "gekozen": 29.4,
+    "5 pp, 2/3": 11.7,
+    "live 10 pp": 7.9
+   }
+  },
+  "scb": {
+   "voor": {
+    "gekozen": 36.6,
+    "5 pp, 2/3": 33.7,
+    "live 10 pp": 20.9
+   },
+   "na": {
+    "gekozen": 15.8,
+    "5 pp, 2/3": 4.1,
+    "live 10 pp": 4.2
+   }
+  },
+  "stop-betaald-parkeren-vip": {
+   "voor": {
+    "gekozen": 35.5,
+    "5 pp, 2/3": 34.1,
+    "live 10 pp": 20
+   },
+   "na": {
+    "gekozen": 27.4,
+    "5 pp, 2/3": 11.4,
+    "live 10 pp": 9.2
+   }
+  },
+  "volt": {
+   "voor": {
+    "gekozen": 45.6,
+    "5 pp, 2/3": 47.9,
+    "live 10 pp": 32.4
+   },
+   "na": {
+    "gekozen": 26.9,
+    "5 pp, 2/3": 5.9,
+    "live 10 pp": 9.3
+   }
+  },
+  "blanco-van-oostveen": {
+   "voor": {
+    "gekozen": 44,
+    "5 pp, 2/3": 43.1,
+    "live 10 pp": 27.8
+   },
+   "na": {
+    "gekozen": 34.1,
+    "5 pp, 2/3": 14.8,
+    "live 10 pp": 11.6
+   }
+  }
+ }
+}

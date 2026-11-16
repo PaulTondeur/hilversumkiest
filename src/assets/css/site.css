@@ -423,3 +423,8 @@ pre.prompt { white-space: pre-wrap; word-break: break-word; font: 400 0.9375rem/
 
 @media print { .kop nav, .voet, .knop, .stappen { display: none; } details { open: true; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
+/* Uitslag: partijen buiten je eigen keuze die duidelijk dichter bij je staan. Rustig, onder de eigen uitslag. */
+.buiten { margin: 2.2rem 0 0; padding: 1rem 1.1rem 1.1rem; background: var(--veld); border-left: 4px solid var(--dudok); max-width: var(--smal); }
+.buiten h2 { margin: 0 0 0.4rem; font-size: 1.28rem; }
+.buiten p { margin: 0 0 0.6rem; }
+.buiten .rij { margin-top: 0.8rem; }

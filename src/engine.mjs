@@ -134,6 +134,49 @@ export function bereken(stellingen, slugs, antwoorden, zwaar = []) {
   return uit;
 }
 
+// --- Buiten je keuze ---
+// Partijen die je niet koos, maar die op jouw antwoorden dichter bij je staan dan elk van je eigen partijen.
+// Elke partij, gekozen of niet, wordt hier op dezelfde manier gemeten: alleen op de beantwoorde stellingen waar
+// zij een standpunt heeft (geen standpunt telt dus niet mee, in plus noch min). Een partij buiten je keuze komt
+// alleen in aanmerking met een standpunt op minstens de helft van je stellingen en op minstens acht, en als ze
+// minstens 10 procentpunt dichter bij je staat dan je eigen partij die het dichtst bij staat. Hoe die drempels
+// gekozen zijn: werk/feedback/meet-suggestie.mjs en werk/feedback/advies-16-november.md.
+export const BUITEN = { minBekend: 8, minDekking: 1 / 2, marge: 0.10, max: 2 };
+
+export function scoreOpBekend(stellingen, slug, antwoorden, zwaar = []) {
+  const dubbel = new Set(zwaar);
+  let teller = 0;
+  let noemer = 0;
+  let bekend = 0;
+  for (const st of stellingen) {
+    const a = antwoorden[st.id];
+    if (a === undefined || a === null) continue;
+    const p = positie(st, slug);
+    if (p === null) continue;
+    const w = dubbel.has(st.id) ? 2 : 1;
+    const [laag, hoog] = grenzen(a);
+    teller += w * (overeenkomst(a, p) - laag);
+    noemer += w * (hoog - laag);
+    bekend++;
+  }
+  return { slug, score: noemer ? teller / noemer : null, bekend };
+}
+
+// Geeft de partijen terug op volgorde van het meegegeven `alle` (de volgorde van het stembiljet).
+export function buitenKeuze(stellingen, gekozen, alle, antwoorden, zwaar = [], regel = BUITEN) {
+  const beantwoord = stellingen.filter((st) => antwoorden[st.id] !== undefined && antwoorden[st.id] !== null).length;
+  const eigen = gekozen.map((s) => scoreOpBekend(stellingen, s, antwoorden, zwaar).score).filter((v) => v !== null);
+  if (!eigen.length || beantwoord < regel.minBekend) return [];
+  const lat = Math.max(...eigen) + regel.marge;
+  const kandidaten = alle
+    .filter((s) => !gekozen.includes(s))
+    .map((s) => scoreOpBekend(stellingen, s, antwoorden, zwaar))
+    .filter((u) => u.bekend >= regel.minBekend && u.bekend >= regel.minDekking * beantwoord && u.score >= lat - 1e-9);
+  // Halen er meer dan `max` de lat, dan de partijen die het verst boven de lat uitkomen; getoond op stembiljetvolgorde.
+  const gepakt = new Set([...kandidaten].sort((a, b) => b.score - a.score).slice(0, regel.max).map((u) => u.slug));
+  return kandidaten.filter((u) => gepakt.has(u.slug));
+}
+
 // Afstand tussen twee lijsten over alle stellingen waar beide een standpunt hebben (0 = identiek, 1 = tegenpolen).
 export function partijAfstand(stellingen, a, b, thema = null) {
   let som = 0;
