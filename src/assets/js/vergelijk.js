@@ -29,13 +29,6 @@ function teken() {
     uit += `<p class="grijs">Kies minstens twee partijen.</p>`;
   }
   el.innerHTML = uit;
-  // Met precies deze partijen de stemwijzer in: de keuze gaat mee, je begint bij de thema's.
-  const start = el.querySelector('[data-stemwijzer]');
-  if (start) start.onclick = () => {
-    window.meet?.('Vergelijking: naar stemwijzer', { lijsten: keuze.length });
-    bewaarStaat({ ...laadStaat(), lijsten: [...keuze], set: null, i: 0, stap: 'themas' });
-    location.href = new URL('../stemwijzer/#themas', location.href).href;
-  };
   el.querySelectorAll('select').forEach((s) => (s.onchange = () => {
     const nieuw = [...el.querySelectorAll('select')].map((x) => x.value).filter(Boolean);
     kies([...new Set(nieuw)]);
@@ -45,6 +38,15 @@ function teken() {
   stand.innerHTML = keuze.length
     ? `Gekozen: ${keuze.map((s) => e(P[s].kort)).join(', ')}. ${keuze.length >= 2 ? '<a href="#naast-elkaar">Bekijk de vergelijking</a>' : 'Kies er nog minstens een bij.'}`
     : 'Nog geen partij gekozen.';
+  // Direct onder de kaart: met de gekozen partijen de stemwijzer in. Daar gaat het om, dus niet pas onderaan.
+  actie.hidden = keuze.length < 2;
+  actie.innerHTML = keuze.length >= 2 ? `<button class="knop" type="button" data-stemwijzer>Doe de stemwijzer met deze ${keuze.length} partijen</button>` : '';
+  // Met precies deze partijen de stemwijzer in: de keuze gaat mee, je begint bij de thema's.
+  for (const start of document.querySelectorAll('[data-stemwijzer]')) start.onclick = () => {
+    window.meet?.('Vergelijking: naar stemwijzer', { lijsten: keuze.length });
+    bewaarStaat({ ...laadStaat(), lijsten: [...keuze], set: null, i: 0, stap: 'themas' });
+    location.href = new URL('../stemwijzer/#themas', location.href).href;
+  };
 }
 
 function kies(nieuw) {
@@ -62,6 +64,10 @@ const stand = document.createElement('p');
 stand.className = 'landschap__stand';
 stand.setAttribute('aria-live', 'polite');
 document.querySelector('.landschap')?.after(stand);
+const actie = document.createElement('p');
+actie.className = 'landschap__actie';
+actie.hidden = true;
+(stand.isConnected ? stand : el).after(actie);
 for (const a of stippen) {
   a.setAttribute('role', 'button');
   const wissel = () => {

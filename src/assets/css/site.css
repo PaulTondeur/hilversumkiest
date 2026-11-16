@@ -314,6 +314,8 @@ iframe.video__beeld { height: auto; border: 0; }
 .landschap a.gekozen circle { stroke: var(--potlood); stroke-width: 5; }
 .landschap a.gekozen text { font-weight: 700; }
 .landschap__stand { font: 500 1rem/1.4 var(--kop); margin: 0.6rem 0 1.5rem; }
+.landschap__stand:has(+ .landschap__actie:not([hidden])) { margin-bottom: 0.8rem; }
+.landschap__actie { margin: 0 0 2rem; }
 .kaartvak--groot { height: min(82vh, 46rem, 125vw); }
 
 /* Kandidaten: het portret in het rondje van het stembiljet */
