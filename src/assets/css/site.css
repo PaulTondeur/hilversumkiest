@@ -10,6 +10,7 @@
   --veld: #eff2f5;
   --potlood: #d0271d;
   --potlood-licht: #fbe9e7;
+  --goed: #1b7a3a;
   --dudok: #1d4f91;
   --baksteen: #dba93a;
   --baksteen-licht: #f8edcf;
@@ -212,7 +213,7 @@ details.uitleg p { font-size: 1rem; }
 .uitslag__balk { grid-column: 2 / 4; height: 0.8rem; background: var(--veld); position: relative; }
 .uitslag__balk i { position: absolute; inset: 0 auto 0 0; display: block; }
 .uitslag__noot { grid-column: 2 / 4; font-size: 0.875rem; color: var(--grijs); }
-.uitslag li.top .uitslag__pct { color: var(--potlood); }
+.uitslag li.top .uitslag__pct { color: var(--goed); }
 .melding { border-left: 4px solid var(--baksteen); background: var(--baksteen-licht); padding: 0.9rem 1.1rem; margin: 1.2rem 0; max-width: 72ch; }
 .melding p:last-child { margin-bottom: 0; }
 
