@@ -410,9 +410,8 @@ for (const p of partijen) {
 </div>
 <nav aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
 <div class="smal">
-${p.achtergrond ? `<p class="grijs">${e(p.achtergrond)}</p>` : ''}
-${p.basis ? `<div class="melding"><p>${e(p.basis)}</p></div>` : ''}
 ${p.speerpunten.length ? `<h2>Wat de partij zelf vooropzet</h2><ul>${p.speerpunten.map((s) => `<li>${e(s)}</li>`).join('')}</ul>` : ''}
+${p.basis ? `<div class="melding"><p>${e(p.basis)}</p></div>` : ''}
 </div>
 ${kandidatenHtml(p)}
 
