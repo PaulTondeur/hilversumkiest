@@ -117,9 +117,28 @@ input:focus-visible + .vakje { outline: 3px solid var(--dudok); outline-offset: 
 .blok { border-top: 2px solid var(--inkt); padding-top: 1rem; }
 .blok h3, .blok__kop { margin-top: 0; }
 .blok__kop { font-size: 1.28rem; }
-.stemhulpen { list-style: none; padding: 0; margin: 2rem 0; display: grid; gap: 2rem; max-width: var(--smal); }
-.stemhulpen > li { margin: 0; }
-.stemhulpen p { margin: 0.4rem 0 0; }
+.stemhulpen { list-style: none; padding: 0; margin: 2.5rem 0 3rem; max-width: none; display: grid; gap: 3rem 2.5rem; }
+.stemhulp { margin: 0; display: flex; flex-direction: column; gap: 1.4rem; }
+.stemhulp__tekst p { margin: 0 0 0.7rem; }
+.stemhulp__tekst p:last-child { margin: 1rem 0 0; }
+.stemhulp__door { font: 600 0.8125rem/1.2 var(--kop); text-transform: uppercase; letter-spacing: 0.07em; color: var(--grijs); }
+.stemhulp h2 { margin: 0 0 0.7rem; font-size: clamp(1.45rem, 2.6vw, 1.8rem); }
+.venster { display: block; text-decoration: none; border: 2px solid var(--inkt); background: #fff; box-shadow: 6px 6px 0 var(--baksteen); transition: transform 0.15s, box-shadow 0.15s; }
+.venster:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--baksteen); }
+.venster__balk { display: flex; align-items: center; gap: 0.35rem; padding: 0.45rem 0.7rem; border-bottom: 2px solid var(--inkt); background: var(--veld); font: 500 0.8125rem/1 var(--tekst); color: var(--grijs); }
+.venster__balk i { width: 0.6rem; height: 0.6rem; border-radius: 50%; border: 1.5px solid var(--inkt); background: #fff; }
+.venster__balk i:first-child { background: var(--potlood); }
+.venster__balk i:nth-child(2) { background: var(--baksteen); }
+.venster__balk span { margin-left: 0.45rem; }
+.venster img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 10; object-fit: cover; object-position: top; }
+.kenmerken { list-style: none; padding: 0; margin: 0 0 1rem; max-width: none; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.kenmerken li { margin: 0; font: 500 0.8438rem/1.2 var(--kop); padding: 0.3rem 0.6rem; border: 1.5px solid var(--lijn); border-radius: 2px; background: #fff; }
+.kenmerken .kenmerk--officieel { background: var(--inkt); border-color: var(--inkt); color: #fff; }
+.kenmerken .kenmerk--invalshoek { background: var(--baksteen-licht); border-color: var(--baksteen); }
+@media (min-width: 48rem) {
+  .stemhulpen { grid-template-columns: 1fr 1fr; }
+  .stemhulp--officieel { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 2.5rem; align-items: center; padding-bottom: 3rem; border-bottom: 2px solid var(--inkt); }
+}
 
 /* Stappen van de stemwijzer */
 .stappen { list-style: none; display: flex; flex-wrap: wrap; gap: 0; padding: 0; margin: 0 0 2rem; max-width: none; border-bottom: 1px solid var(--lijn); font: 500 0.9375rem/1.2 var(--kop); }
