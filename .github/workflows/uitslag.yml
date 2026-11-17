@@ -1,0 +1,84 @@
+# Haalt de uitslag van de gemeenteraadsverkiezing van 18 november 2026 op bij de gemeente Hilversum en publiceert
+# hem, na strenge controles, op de site (tools/uitslag/haal.mjs). Draait zonder iemands computer.
+# Zet zichzelf uit zodra de officiële uitslag erin staat, en in elk geval na 30 november.
+# Handmatig stoppen: Actions > Uitslag ophalen > ··· > Disable workflow (of: gh workflow disable uitslag.yml).
+# Tijden in UTC; Nederland is in november UTC+1.
+name: Uitslag ophalen
+on:
+  schedule:
+    - cron: '32 6 18 11 *'              # woensdag 07.32 uur: blok "nog geen uitslag" op de site
+    - cron: '2,17,32,47 20-22 18 11 *'  # woensdag 21.00 tot 23.45 uur: elk kwartier
+    - cron: '2 23 18 11 *'              # middernacht
+    - cron: '17 * 19 11 *'              # donderdag 19 november (vanaf 01.00 uur): elk uur
+    - cron: '17 */2 20-28 11 *'         # 20 tot en met 28 november: elke twee uur
+    - cron: '47 9-11 26 11 *'           # 26 november, na de zitting van 10.00 uur: extra rondes
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: uitslag
+  cancel-in-progress: false
+jobs:
+  haal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Na 30 november niet meer
+        id: datum
+        run: |
+          if [ "$(date -u +%Y%m%d)" -gt 20261130 ]; then echo "voorbij=1" >> "$GITHUB_OUTPUT"; fi
+      - name: Workflow uitzetten na 30 november
+        if: steps.datum.outputs.voorbij == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow disable uitslag.yml --repo "$GITHUB_REPOSITORY"
+      - uses: actions/checkout@v4
+        if: steps.datum.outputs.voorbij != '1'
+        with:
+          ref: main
+          fetch-depth: 20
+      - uses: actions/setup-node@v4
+        if: steps.datum.outputs.voorbij != '1'
+        with:
+          node-version: 22
+      - name: Uitslag ophalen, controleren en publiceren
+        if: steps.datum.outputs.voorbij != '1'
+        id: haal
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "hilversumkiest-uitslag"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          set +e
+          node tools/uitslag/haal.mjs --push > uitkomst.json
+          code=$?
+          set -e
+          cat uitkomst.json
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if grep -q '"status": "gepubliceerd"' uitkomst.json; then echo "nieuw=1" >> "$GITHUB_OUTPUT"; fi
+          case $code in
+            0|10) ;;
+            2) echo "::warning::De gemeente meldt iets over de uitslag dat het script niet kan lezen. De Claude-taak of Paul moet kijken." ;;
+            3) echo "::warning::Bron gevonden, maar afgewezen door de controles. De vorige stand blijft staan." ;;
+            *) echo "::warning::Bron niet bereikbaar of onverwachte fout (exit $code)." ;;
+          esac
+      # Een push met de token van de workflow start de publicatie niet vanzelf; daarom hier expliciet.
+      - name: Site opnieuw publiceren
+        if: steps.haal.outputs.nieuw == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
+      # De bron is leidend, maar wijkt onze eigen berekening (zetels, gekozenen) af, dan moet Paul het weten: de run
+      # faalt dan, en GitHub stuurt daar een melding van. De cijfers van de bron staan dan al op de site.
+      - name: Afwijking tussen bron en eigen berekening melden
+        if: steps.haal.outputs.nieuw == '1'
+        run: |
+          if node -e 'const u=require("./uitkomst.json");process.exit((u.waarschuwingen||[]).length?1:0)'; then exit 0; fi
+          node -e 'for (const w of require("./uitkomst.json").waarschuwingen) console.log("::error::" + w)'
+          exit 1
+      - name: Klaar? Dan workflow uitzetten
+        if: steps.haal.outputs.code == '10'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow disable uitslag.yml --repo "$GITHUB_REPOSITORY"

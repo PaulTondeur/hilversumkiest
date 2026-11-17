@@ -24,6 +24,10 @@ python3 -m http.server 4173 --directory dist
 
 Een push naar `main` bouwt en publiceert de site via `.github/workflows/pages.yml`. Voor een eigen domein zet je de repository-variabele `DOMEIN`; zonder domein komt de site op het adres van de repository te staan.
 
+## Uitslag
+
+Vanaf verkiezingsdag zet `tools/uitslag/haal.mjs` de uitslag van de gemeente Hilversum vanzelf op de site (`/uitslag/`, de voorpagina en de partijpagina's), na strenge controles; de geplande workflow `.github/workflows/uitslag.yml` draait het. Zolang `data/uitslag.json` leeg is (`{}`), ziet de site er uit zoals zonder uitslag. Bron, tijden, controles en hoe je het stopzet: [`tools/uitslag/LEESMIJ.md`](tools/uitslag/LEESMIJ.md).
+
 ## Zelf maken voor een andere verkiezing
 
 De volledige opdracht om dit met een AI-assistent na te bouwen staat in [`data/prompt.md`](data/prompt.md) en op de pagina Zelf maken van de site. Ze verwijst naar deze repository als voorbeeld. De code, de opdrachten aan de hulpagenten en de werkwijze kun je hergebruiken; de stellingen, standpunten en gegevens over kandidaten gelden alleen voor deze verkiezing.

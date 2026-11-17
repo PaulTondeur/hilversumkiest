@@ -4,6 +4,8 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { partijAfstand, positie, onderscheid } from './src/engine.mjs';
 import { themaSprite, themaBeeld } from './src/themabeelden.mjs';
+import { maakUitslag } from './src/uitslag.mjs';
+import { controleer } from './src/uitslagcontrole.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const lees = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
@@ -19,6 +21,18 @@ const toets = bestaat('data/toets.json') ? lees('data/toets.json') : null;
 const P = Object.fromEntries(partijen.map((p) => [p.slug, p]));
 const T = Object.fromEntries(themas.map((t) => [t.id, t]));
 const slugs = partijen.map((p) => p.slug);
+// De uitslag (data/uitslag.json, gevuld door tools/uitslag/haal.mjs). Leeg ({}) betekent: nog niets, de site blijft
+// zoals ze is. Klopt het bestand niet, dan stopt de bouw en blijft de vorige versie van de site online staan.
+const kandidatenAlle = bestaat('data/kandidaten.json') ? lees('data/kandidaten.json') : {};
+const uitslagData = bestaat('data/uitslag.json') ? lees('data/uitslag.json') : {};
+const ZETELS = +(process.env.UITSLAG_ZETELS || 39); // anders dan 39 alleen in de oefening met een oude verkiezing
+{
+  const fouten = controleer(uitslagData, partijen, kandidatenAlle, { zetels: ZETELS });
+  if (fouten.length) throw new Error(`data/uitslag.json klopt niet:\n- ${fouten.join('\n- ')}`);
+  // Verzonnen cijfers voor de simulatie komen nooit op de echte site: die bouwen alleen met SIMULATIE=1.
+  if (uitslagData.simulatie && process.env.SIMULATIE !== '1') throw new Error('data/uitslag.json is een simulatie; bouw die alleen met SIMULATIE=1');
+}
+const UK = maakUitslag({ u: uitslagData, partijen, kandidaten: kandidatenAlle, e, zetels: ZETELS });
 
 const POS = { 2: 'Eens', 1: 'Eerder eens', 0: 'Midden', '-1': 'Eerder oneens', '-2': 'Oneens', null: 'Geen standpunt gevonden' };
 const SOORT = { programma: 'Verkiezingsprogramma', mijnstem: 'Antwoord van de partij in MijnStem', stemgids: 'Antwoord van de partij in Stemgids Hilversum', hilversumsnieuws: 'Reactie van de partij in Hilversums Nieuws', stemgedrag: 'Stemgedrag in de raad', afgeleid: 'Afgeleid uit wat de partij over een verwant punt zegt' };
@@ -51,10 +65,12 @@ function schrijf(rel, html) {
 // Adres van de openbare repository: uit de omgeving (de GitHub-workflow vult dit zelf in) of uit data/site.json.
 const REPO = (process.env.REPO || (bestaat('data/site.json') ? lees('data/site.json').repo : '') || '').replace(/\/$/, '');
 const NAV = [
+  ...(UK ? [['/uitslag/', 'Uitslag']] : []),
   ['/stemwijzer/', 'Stemwijzer'],
   ['/partijen/', 'Partijen'],
   ['/vergelijken/', 'Vergelijken'],
-  ['/stemmen/', 'Stemmen'],
+  // Zodra er een uitslag is (vanaf de tussenstand), maakt Stemmen in het menu plaats voor Uitslag. De pagina blijft bestaan.
+  ...(UK && UK.stadium !== 'wacht' ? [] : [['/stemmen/', 'Stemmen']]),
   ['/andere-stemhulpen/', 'Andere stemhulpen'],
 ];
 const VINDER = '/stembureauvinder/';
@@ -116,7 +132,7 @@ ${kop}
 ${meetKop}
 </head>
 <body>
-<a class="sr sr--focus" href="#inhoud">Naar de inhoud</a>
+<a class="sr sr--focus" href="#inhoud">Naar de inhoud</a>${UK?.simulatie ? '<div class="uk-simbalk" role="note">Simulatie: alle uitslagcijfers op deze site zijn verzonnen. Dit is geen echte uitslag.</div>' : ''}
 <header class="kop"><div class="binnen">
   <a class="merk" href="/"><span class="vakje vakje--vol" aria-hidden="true"></span><span class="merk__tekst"><span class="merk__naam">Hilversum kiest<span class="beta" title="Proefversie: er kunnen nog fouten in zitten">bèta</span></span><span class="merk__wanneer">op woensdag 18 november, 7.30 tot 21.00 uur</span></span></a>
   <nav aria-label="Hoofdmenu">${NAV.map(([h, t]) => `<a href="${h}"${huidig(h)}>${t}</a>`).join('')}<a class="navknop" href="${VINDER}"${huidig(VINDER)}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 18s6-5.6 6-10A6 6 0 0 0 4 8c0 4.4 6 10 6 10z"/><circle cx="10" cy="8" r="2.2"/></svg>Stembureauvinder</a></nav>
@@ -178,7 +194,7 @@ schrijf('index.html', pagina({
   beschrijving: 'Onafhankelijke stemwijzer voor de gemeenteraadsverkiezing in Hilversum en de dorpen van Wijdemeren. Kies zelf welke partijen en thema\'s meedoen.',
   pad: '/',
   ld: [{ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Hilversum kiest', url: volledig('/'), inLanguage: 'nl-NL', description: 'Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum en Wijdemeren).', author: { '@type': 'Person', name: 'Paul Tondeur', url: 'https://www.paultondeur.com/' } }],
-  inhoud: `
+  inhoud: `${UK ? UK.voorpagina() : ''}
 <section class="opening">
   <div class="opening__tekst">
     <h1>Twintig partijen. Tussen welke twijfel jij?</h1>
@@ -247,10 +263,10 @@ schrijf('stemwijzer/index.html', pagina({
 // Kandidaten: namen en volgorde van de officiële lijst; foto, beschrijving en LinkedIn alleen waar twee rondes ze
 // los van elkaar bij deze persoon vonden (tools/maak_kandidaten.py).
 const kandidaten = bestaat('data/kandidaten.json') ? lees('data/kandidaten.json') : {};
-function kandidaatHtml(k) {
+function kandidaatHtml(k, p) {
   const van = `<span class="sr"> van ${e(k.naam)}</span>`;
   const links = [k.linkedin ? `<a href="${e(k.linkedin)}" rel="noopener">LinkedIn${van}</a>` : '', k.bron ? `<a href="${e(k.bron)}" rel="noopener">bron${van}</a>` : ''].filter(Boolean).join('');
-  return `<li class="kandidaat" id="kandidaat-${k.nr}"><span class="portret${k.foto ? '' : ` portret--${k.geslacht || 'x'}`}">${k.foto ? `<img src="/assets/kandidaten/${e(k.foto)}" alt="" width="132" height="132" loading="lazy">` : ''}</span><div><b><span class="knr">${k.nr}</span> ${e(k.naam)}</b><span class="grijs">${e(k.woonplaats)}</span>${k.bio ? `<p>${e(k.bio)}</p>` : ''}${links ? `<span class="klinks">${links}</span>` : ''}</div></li>`;
+  return `<li class="kandidaat" id="kandidaat-${k.nr}"><span class="portret${k.foto ? '' : ` portret--${k.geslacht || 'x'}`}">${k.foto ? `<img src="/assets/kandidaten/${e(k.foto)}" alt="" width="132" height="132" loading="lazy">` : ''}</span><div><b><span class="knr">${k.nr}</span> ${e(k.naam)}</b><span class="grijs">${e(k.woonplaats)}</span>${UK && p ? UK.kandidaat(p, k.nr) : ''}${k.bio ? `<p>${e(k.bio)}</p>` : ''}${links ? `<span class="klinks">${links}</span>` : ''}</div></li>`;
 }
 function kandidatenHtml(p) {
   const rij = kandidaten[p.slug] || [];
@@ -258,7 +274,7 @@ function kandidatenHtml(p) {
   return `
 <h2 id="kandidaten">Kandidaten</h2>
 <p>${rij.length === 1 ? 'Eén kandidaat' : `${rij.length} kandidaten`}, in de volgorde van het stembiljet.</p>
-<ol class="kandidaten">${rij.map(kandidaatHtml).join('')}</ol>
+<ol class="kandidaten">${rij.map((k) => kandidaatHtml(k, p)).join('')}</ol>
 <p class="klein">Namen, volgorde en woonplaats komen uit de bekendmaking van het centraal stembureau (<a href="https://zoek.officielebekendmakingen.nl/gmb-2026-499712.html" rel="noopener">Gemeenteblad 2026, nr. 499712</a>). Foto's en beschrijvingen komen van de partij zelf of van de gemeente; een LinkedIn-profiel staat er alleen bij als twee controles los van elkaar bij dezelfde persoon uitkwamen. Staat er niets bij een naam, dan is er niets gevonden dat zeker genoeg was. <a href="/verantwoording/#kandidaten">Hoe dit is nagelopen</a>.</p>`;
 }
 
@@ -408,7 +424,7 @@ for (const p of partijen) {
   <figure class="partijkop__video" id="video">
   ${PARTIJVIDEOS.videos[p.slug] ? `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(PARTIJVIDEOS.videos[p.slug])}?rel=0" title="Video over ${e(p.naam)}, lijst ${p.nr}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` : `<div class="video__beeld video__beeld--leeg"><span>De video van deze ${p.slug === 'blanco-van-oostveen' ? 'lijst' : 'partij'} volgt binnenkort</span></div>`}
   </figure>
-</div>
+</div>${UK ? `\n${UK.partij(p)}` : ''}
 <nav class="inpagina-balk" aria-label="Op deze pagina"><ul class="inpagina">${(kandidaten[p.slug] || []).length ? '<li><a href="#kandidaten">Kandidaten</a></li>' : ''}<li><a href="#buren">Dicht bij en ver van</a></li>${themas.map((t) => `<li><a href="#${t.id}">${e(t.kort)}</a></li>`).join('')}</ul></nav>
 <div class="smal">
 ${p.speerpunten.length ? `<h2>Wat de partij zelf vooropzet</h2><ul>${p.speerpunten.map((s) => `<li>${e(s)}</li>`).join('')}</ul>` : ''}
@@ -674,6 +690,18 @@ ${stemhulpen.map(stemhulpKaart).join('\n')}
 <p class="klein">Mist er een stemhulp of klopt er iets niet?${REPO ? ` <a href="${e(REPO)}/issues" rel="noopener">Meld het op GitHub</a>, dan kijk ik ernaar.` : ''}</p>
 </div>`,
 }));
+
+// ---------- Uitslag ----------
+if (UK) {
+  schrijf('uitslag/index.html', pagina({
+    titel: 'Uitslag gemeenteraadsverkiezing 2026 – Hilversum kiest',
+    beschrijving: 'De uitslag van de gemeenteraadsverkiezing van 18 november 2026 in Hilversum en Wijdemeren: stemmen en zetels per partij en stemmen per kandidaat, met de bron.',
+    pad: '/uitslag/',
+    inhoud: UK.pagina(),
+  }));
+  // Klein bestand waarmee open pagina's zien dat er een nieuwere stand is.
+  schrijf('data/uitslag-stand.json', JSON.stringify({ stadium: UK.stadium, bijgewerkt: UK.bijgewerkt }));
+}
 
 // ---------- Data voor de browser ----------
 const licht = {
