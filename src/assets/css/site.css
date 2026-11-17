@@ -269,6 +269,29 @@ td.heat { text-align: center; padding: 0.35rem 0.3rem; font-variant-numeric: tab
 .punten .inhoud { padding: 0 0 1.2rem; }
 .themakop { font: 600 1.28rem/1.2 var(--kop); margin: 2.2rem 0 0.2rem; padding-top: 0.6rem; border-top: 2px solid var(--inkt); }
 
+/* Partijpagina: elk thema een eigen blok met een getekend beeldmerk (src/themabeelden.mjs). Zelfde beeld voor elke partij. */
+.sprite { position: absolute; width: 0; height: 0; overflow: hidden; }
+.themabeeld { display: block; width: 100%; height: auto; stroke: var(--inkt); stroke-width: 2.4; stroke-linejoin: round; stroke-linecap: round; }
+.themawijzer { list-style: none; padding: 0; margin: 1.3rem 0 0; max-width: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(4.6rem, 1fr)); gap: 1rem 0.5rem; }
+.themawijzer li { margin: 0; }
+.themawijzer a { display: grid; justify-items: center; gap: 0.3rem; padding: 0.15rem 0 0.25rem; font: 500 0.9375rem/1.2 var(--kop); text-align: center; }
+.themawijzer .themabeeld { width: 3.6rem; stroke-width: 3.6; }
+.thema { border-top: 2px solid var(--inkt); margin-top: 2.75rem; padding-top: 1.2rem; }
+.thema__kop { display: grid; grid-template-columns: 4.75rem minmax(0, 1fr); gap: 1rem; align-items: center; margin-bottom: 0.3rem; }
+.thema__beeld { display: block; border: 2px solid var(--inkt); background: #fff; box-shadow: 4px 4px 0 var(--baksteen); padding: 0.15rem; }
+.thema__beeld .themabeeld { stroke-width: 3.2; }
+.thema__tekst h3 { font-size: clamp(1.35rem, 3vw, 1.6rem); margin: 0 0 0.15rem; }
+.thema__tekst p { margin: 0; color: var(--grijs); font-size: 0.9375rem; line-height: 1.45; }
+@media (min-width: 52rem) {
+  .thema { display: grid; grid-template-columns: 11rem minmax(0, 1fr); gap: 0 2.75rem; margin-top: 3.5rem; padding-top: 1.75rem; }
+  .thema__kop { grid-template-columns: 1fr; align-items: start; align-self: start; position: sticky; top: 4.5rem; gap: 1.1rem; margin: 0; }
+  .thema__beeld { box-shadow: 6px 6px 0 var(--baksteen); padding: 0.35rem; margin-right: 6px; }
+  .thema__beeld .themabeeld { stroke-width: 2.2; }
+  .thema__tekst h3 { font-size: 1.45rem; }
+  .thema__tekst p { font-size: 0.9063rem; }
+  .thema .punten > li:first-child > details > summary { padding-top: 0.1rem; }
+}
+
 /* Lijstenoverzicht */
 .lijsten { list-style: none; padding: 0; margin: 1.5rem 0; max-width: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(18.5rem, 1fr)); border-top: 2px solid var(--inkt); column-gap: 2rem; }
 .lijsten li { margin: 0; border-bottom: 1px solid var(--lijn); }

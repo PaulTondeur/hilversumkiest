@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { partijAfstand, positie, onderscheid } from './src/engine.mjs';
+import { themaSprite, themaBeeld } from './src/themabeelden.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const lees = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
@@ -428,13 +429,15 @@ ${dicht.slice(0, 3).map((b) => {
   }).join('')}
 
 <h2>Standpunten per thema</h2>
+${themaSprite(themas.map((t) => t.id))}
+<ul class="themawijzer">${themas.filter((t) => stellingen.some((s) => s.thema === t.id)).map((t) => `<li><a href="#${t.id}">${themaBeeld(t.id)}<span>${e(t.kort)}</span></a></li>`).join('')}</ul>
 ${themas.map((t) => {
     const ss = stellingen.filter((s) => s.thema === t.id);
     if (!ss.length) return '';
-    return `<h3 class="themakop" id="${t.id}">${e(t.naam)}</h3><ul class="punten">${ss.map((st) => {
+    return `<section class="thema" id="${t.id}" aria-labelledby="${t.id}-kop"><div class="thema__kop"><span class="thema__beeld">${themaBeeld(t.id)}</span><div class="thema__tekst"><h3 id="${t.id}-kop">${e(t.naam)}</h3><p>${e(t.omschrijving)}</p></div></div><ul class="punten">${ss.map((st) => {
       const pos = st.posities[p.slug] || { s: null };
       return `<li><details><summary><span class="st">${e(st.stelling)}</span><span class="sub"><span class="pos" data-s="${pos.s ?? 'null'}">${POS[pos.s ?? null]}</span>${pos.kern ? ' ' + e(pos.kern) : ''}</span></summary><div class="inhoud">${st.uitleg ? `<p class="grijs">${e(st.uitleg)}</p>` : ''}${standpuntHtml(st, p.slug)}</div></details></li>`;
-    }).join('')}</ul>`;
+    }).join('')}</ul></section>`;
   }).join('')}
 <p style="margin-top:2.5rem"><a class="knop" href="/stemwijzer/">Doe de stemwijzer</a></p>`,
     scripts: `<script>(function(){function toon(){var el=/^#kandidaat-\\d+$/.test(location.hash)&&document.querySelector(location.hash);if(!el)return;el.scrollIntoView({block:'center'});}addEventListener('hashchange',toon);toon();})();</script>`,
