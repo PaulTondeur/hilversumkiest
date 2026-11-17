@@ -31,6 +31,16 @@ Twee lagen, die elkaar aanvullen:
    - Herkent het script de bron niet (exit 2), bijvoorbeeld omdat het liveblog lopende tekst of een plaatje is, dan leest Claude zelf wat de gemeente publiceert. Daarna haalt Claude het door dezelfde controles (`tools/uitslag/publiceer.mjs`).
    - Werkt alleen als de computer aanstaat, de Claude-app open is en de computer niet slaapt.
 
+De Claude-taken draaien in een eigen kopie, `/home/paul/Work/hilversumkiest-uitslag-taak`, en niet in de gedeelde map. Ze heten:
+
+| Taak | Wanneer |
+|---|---|
+| `uitslag-avond` | woensdag 21.00–23.45 uur, elk kwartier |
+| `uitslag-donderdag` | donderdag 00.00–23.00 uur, elk uur |
+| `uitslag-dagen-erna` | 20–27 november om 9, 12, 15, 18 en 21 uur |
+
+Ze kunnen alleen zonder vragen werken als hun toestemmingsmodus in de app op Auto of Bypass staat, of als je ze één keer met "Run now" hebt laten draaien en de gevraagde tools (git, node, het ophalen van hilversum.nl) hebt goedgekeurd.
+
 Controles vóór elke publicatie (`src/uitslagcontrole.mjs`):
 
 - precies de 20 partijen van de site;
