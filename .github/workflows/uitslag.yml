@@ -6,8 +6,7 @@
 name: Uitslag ophalen
 on:
   schedule:
-    - cron: '32 6 18 11 *'              # woensdag 07.32 uur: blok "nog geen uitslag" op de site
-    - cron: '2,17,32,47 20-22 18 11 *'  # woensdag 21.00 tot 23.45 uur: elk kwartier
+    - cron: '2,17,32,47 20-22 18 11 *'  # woensdag 21.00 tot 23.45 uur: elk kwartier (niet eerder: tot 21.00 uur staat er niets over de uitslag)
     - cron: '2 23 18 11 *'              # middernacht
     - cron: '17 * 19 11 *'              # donderdag 19 november (vanaf 01.00 uur): elk uur
     - cron: '17 */2 20-28 11 *'         # 20 tot en met 28 november: elke twee uur

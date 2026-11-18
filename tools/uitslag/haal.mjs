@@ -24,7 +24,6 @@ const PUSH = process.argv.includes('--push');
 const NU = process.env.UITSLAG_NU ? new Date(process.env.UITSLAG_NU) : new Date();
 const VERKIEZINGSDATUM = process.env.UITSLAG_DATUM || '2026-11-18';
 const VASTSTELLING = new Date(process.env.UITSLAG_VASTSTELLING || '2026-11-26T10:00:00+01:00');
-const OPEN = new Date(`${VERKIEZINGSDATUM}T07:30:00+01:00`);
 const DICHT = new Date(`${VERKIEZINGSDATUM}T21:00:00+01:00`);
 const LIVEBLOG = 'https://hilversum.nl/liveblog';
 const PAGINAS = (process.env.UITSLAG_PAGINAS || [
@@ -178,7 +177,8 @@ async function main() {
     if (naSluiting && (signaal || onleesbaar.length || tellingen.length)) {
       klaar(2, 'de gemeente meldt iets over de uitslag dat het script niet kan lezen', { liveblog: LIVEBLOG, onleesbaar, tellingenMetAnderAantalPartijen: tellingen.filter((t) => !tellingMetBureaus.includes(t)).map((t) => `${t.url}: ${t.lijsten.length} partijen`) });
     }
-    if (!huidig.stadium && NU >= OPEN) nieuw = { stadium: 'wacht', bijgewerkt: NU.toISOString() };
+    // Zolang de stembureaus open zijn, staat er niets over de uitslag op de site: het wachtblok komt pas na 21.00 uur.
+    if (!huidig.stadium && NU >= DICHT) nieuw = { stadium: 'wacht', bijgewerkt: NU.toISOString() };
     else klaar(0, 'niets nieuws', { links: links.size });
   }
 

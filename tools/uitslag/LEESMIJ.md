@@ -76,8 +76,8 @@ Op de site staat:
 
 | Stadium | Wanneer | Wat de site toont |
 |---|---|---|
-| leeg `{}` | tot woensdag 07.30 uur | de site zoals ze was |
-| `wacht` | vanaf woensdag 07.30 uur | blok op de voorpagina en `/uitslag/`: open tot 21.00 uur, daarna "de stemmen worden geteld" |
+| leeg `{}` | tot woensdag 21.00 uur, zolang de stembureaus open zijn | de site zoals ze was, zonder iets over de uitslag |
+| `wacht` | vanaf woensdag 21.00 uur | blok op de voorpagina en `/uitslag/`: "de stemmen worden geteld" |
 | `tussenstand` | als de gemeente totalen en het aantal getelde stembureaus geeft | stemmen en percentages, geen zetels |
 | `voorlopig` | alle stembureaus geteld | stemmen, percentages, 39 zetels, opkomst |
 | `voorlopig` + kandidaten | na de telling per kandidaat | voorkeurstemmen en "gekozen (voorlopig)", ook op de partijpagina's |
