@@ -192,11 +192,13 @@ ${lijst.map((k) => `<tr><td class="num">${k.nr}</td><td><a href="/partijen/${p.s
       const namen22 = (p, g) => (V.per[p.slug].oud[g] || []).map((x) => x.naam);
       const zetels22 = (p, g) => (V.per[p.slug].oud[g] ? V.per[p.slug].oud[g].reduce((n, x) => n + x.zetels, 0) : null);
       const [r1, r2] = V.raden;
-      return `<h2 id="verschil">Verschil met 2022</h2>
+      return `<div class="uk-naast uk-naast--verschil"><div class="uk-naast__a"><h2 id="verschil">Verschil met 2022</h2>
 <p class="klein">Zetels nu, vergeleken met de uitslag van 2022 in Hilversum en Wijdemeren samen, omgerekend naar ${Z} zetels. Gevuld vakje: een zetel erbij. Gearceerd vakje: een zetel minder.</p>
 <ol class="uk-verlijst" style="--min:${maxMin};--plus:${maxPlus}">
 ${op.map((p) => { const n = V.per[p.slug].verschil; return `<li><span class="uk-vnaam"><a href="/partijen/${p.slug}/">${e(p.kort)}</a>${V.per[p.slug].nieuw ? ' <span class="uk-vnieuw">deed in 2022 niet mee</span>' : ''}</span><span class="uk-vmin" aria-hidden="true">${n < 0 ? vakjes(-n, p.kleur, 'min') : ''}</span><span class="uk-vplus" aria-hidden="true">${n > 0 ? vakjes(n, p.kleur, 'plus') : ''}</span><span class="uk-vgetal" data-r="${n > 0 ? 'plus' : n < 0 ? 'min' : 'gelijk'}"><span aria-hidden="true">${teken(n)}</span><span class="sr">${verschilWoord(n)}</span></span></li>`; }).join('\n')}
 </ol>
+</div>
+<div class="uk-naast__b">
 <div class="smal">
 <p>In 2022 kozen Hilversum en Wijdemeren elk een eigen raad: ${r1.zetels} en ${r2.zetels} zetels, samen ${r1.zetels + r2.zetels}. De nieuwe raad heeft ${Z} zetels. Wie de zetels gewoon naast elkaar legt, ziet daardoor bijna elke partij dalen.</p>
 <p>Daarom vergelijken we met een omgerekende uitslag: de stemmen van 2022 in beide gemeenten bij elkaar, verdeeld over ${Z} zetels met de regels van de Kieswet. Partijen die zijn samengegaan tellen we bij elkaar op. Een partij die in 2022 niet meedeed begint op nul: al haar zetels zijn erbij gekomen.</p>
@@ -207,7 +209,8 @@ ${op.map((p) => { const n = V.per[p.slug].verschil; return `<li><span class="uk-
 ${metVerleden.map((p) => { const a = zetels22(p, r1.gemeente), b = zetels22(p, r2.gemeente); const anders = [...namen22(p, r1.gemeente), ...namen22(p, r2.gemeente)].filter((n, i, l) => l.indexOf(n) === i); const toon = anders.length > 1 || (anders[0] && anders[0] !== p.kort); return `<tr><td>${e(p.kort)}${toon ? `<br><span class="grijs klein">in 2022: ${e(anders.join(', '))}</span>` : ''}</td><td class="num">${a === null ? '–' : a}</td><td class="num">${b === null ? '–' : b}</td><td class="num">${V.per[p.slug].was}</td><td class="num">${P[p.slug].zetels}</td><td class="num"><b>${teken(V.per[p.slug].verschil)}</b></td></tr>`; }).join('\n')}
 </tbody></table></div>
 <p class="klein">Een streepje betekent: deed in die gemeente niet mee. ${nieuw.length ? `Niet in de tabel, omdat ze in 2022 in geen van beide gemeenten meededen: ${e(nieuw.map((p) => p.kort).join(', '))}. ` : ''}${V.zonderOpvolger.length ? `In de rekensom tellen ook de stemmen mee op ${e(V.zonderOpvolger.join(' en '))}, die in 2022 geen zetel haalden en nu niet meedoen. ` : ''}Bron voor 2022: Kiesraad, ${V.raden.map((r) => `<a href="${e(r.bron)}" rel="noopener">${e(r.gemeente)}</a>`).join(' en ')}.</p>
-</details>`;
+</details>
+</div></div>`;
     };
     // Meerderheid maken: partijen aantikken en zien of ze samen aan de helft plus één komen.
     const meerderheidHtml = () => {
@@ -230,13 +233,16 @@ ${metVerleden.map((p) => { const a = zetels22(p, r1.gemeente), b = zetels22(p, r
 ${melding}
 <dl class="feiten uk-feiten">${feiten.map(([t, d]) => `<div><dt>${t}</dt><dd>${d}</dd></div>`).join('')}</dl>
 ${metZetels ? `<h2 id="zetels">Zetels in de nieuwe raad</h2>${zetelBalk()}
-<p><a class="knop" href="#meerderheid">Maak zelf een meerderheid</a></p>` : ''}
+<p class="uk-spring"><a class="knop" href="#meerderheid">Maak zelf een meerderheid</a></p>` : ''}
+<div class="uk-naast${metZetels ? ' uk-naast--meer' : ''}"><div class="uk-naast__a">
 ${alleenZetels ? `<h2 id="stemmen">Zetels per partij</h2>
 <p class="klein">Op volgorde van het aantal zetels. De bron geeft nog alleen de zetelverdeling; de stemmen per partij volgen.${V ? ' Het getal erachter is het <a href="#verschil">verschil met 2022</a>.' : ''}</p>
 <ol class="uk-lijst uk-lijst--alleenzetels${V ? ' uk-lijst--ver' : ''}">` : `<h2 id="stemmen">Stemmen per partij</h2>
 <p class="klein">Op volgorde van het aantal stemmen. Het percentage is van alle geldige stemmen op een partij${st === 'tussenstand' ? ' in de stembureaus die al geteld zijn' : ''}.${V ? ' Het getal achter de zetels is het <a href="#verschil">verschil met 2022</a>.' : ''}</p>
 <ol class="uk-lijst${metZetels ? ' uk-lijst--zetels' : ''}${V ? ' uk-lijst--ver' : ''}">`}${rij.map(partijRij).join('\n')}</ol>
+</div>${metZetels ? `<div class="uk-naast__b">
 ${meerderheidHtml()}
+</div>` : ''}</div>
 ${verschilHtml()}
 ${kandHtml}
 <h2 id="over">Over deze cijfers</h2>

@@ -104,7 +104,13 @@ const deelAlt = (naam) => (DEEL[naam] ? `${DEEL[naam].kop}${/[.?!]$/.test(DEEL[n
 const ldJson = (x) => `<script type="application/ld+json">${JSON.stringify(x).replace(/</g, '\\u003c')}</script>`;
 const sitemap = [];
 
-function pagina({ titel, beschrijving, pad, url = pad, inhoud, scripts = '', kop = '', beeld = 'voorpagina', beeldAlt = null, index = true, ld = [], breed = false }) {
+// Lange leespagina's krijgen op een breed scherm rechts een inhoudsopgave die meeloopt (uit de h2's met een id).
+const metWijzer = (html) => {
+  const koppen = [...html.matchAll(/<h2 id="([^"]+)">([^<]+)<\/h2>/g)];
+  if (koppen.length < 3) return html;
+  return `<div class="lees"><div class="lees__tekst">${html}</div><nav class="leeswijzer" aria-label="Op deze pagina"><b>Op deze pagina</b><ol>${koppen.map(([, id, t]) => `<li><a href="#${id}">${t}</a></li>`).join('')}</ol></nav></div>`;
+};
+function pagina({ titel, beschrijving, pad, url = pad, inhoud, scripts = '', kop = '', beeld = 'voorpagina', beeldAlt = null, index = true, ld = [], wijzer = false }) {
   const b = deelBeeld(beeld);
   if (index) sitemap.push(url);
   const huidig = (h) => (url === h ? ' aria-current="page"' : pad === h ? ' aria-current="true"' : '');
@@ -139,14 +145,14 @@ ${ld.map(ldJson).join('\n')}
 ${kop}
 ${meetKop}
 </head>
-<body${breed ? ' class="breed"' : ''}>
+<body>
 <a class="sr sr--focus" href="#inhoud">Naar de inhoud</a>${UK?.simulatie ? '<div class="uk-simbalk" role="note">Simulatie: alle uitslagcijfers op deze site zijn verzonnen. Dit is geen echte uitslag.</div>' : ''}
 <header class="kop"><div class="binnen">
   <a class="merk" href="/"><span class="vakje vakje--vol" aria-hidden="true"></span><span class="merk__tekst"><span class="merk__naam">Hilversum kiest<span class="beta" title="Proefversie: er kunnen nog fouten in zitten">bèta</span></span><span class="merk__wanneer">${NA ? 'verkiezing van 18 november 2026' : 'op woensdag 18 november, 7.30 tot 21.00 uur'}</span></span></a>
   <nav aria-label="Hoofdmenu">${NAV.map(([h, t]) => `<a href="${h}"${huidig(h)}>${t}</a>`).join('')}${NA ? '' : `<a class="navknop" href="${VINDER}"${huidig(VINDER)}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 18s6-5.6 6-10A6 6 0 0 0 4 8c0 4.4 6 10 6 10z"/><circle cx="10" cy="8" r="2.2"/></svg>Stembureauvinder</a>`}</nav>
 </div></header>
 <main id="inhoud" tabindex="-1"><div class="binnen">
-${inhoud.replace(/<div class="tabel-wrap">/g, '<div class="tabel-wrap" tabindex="0" role="region" aria-label="Tabel">')}
+${(wijzer ? metWijzer(inhoud) : inhoud).replace(/<div class="tabel-wrap">/g, '<div class="tabel-wrap" tabindex="0" role="region" aria-label="Tabel">')}
 </div></main>
 <footer class="voet"><div class="binnen">
   <div class="voet__raster">
@@ -237,7 +243,6 @@ ${UITSLAGVIDEO_ID ? `<figure class="thuis__video">
 </div>
 </div>
 
-<div class="maatzone">
 <dl class="feiten">
   <div><dt>Nieuwe raad</dt><dd>${ZETELS} zetels</dd></div>
   <div><dt>Meerderheid</dt><dd>${Math.floor(ZETELS / 2) + 1} zetels</dd></div>
@@ -296,8 +301,7 @@ schrijf('index.html', pagina({
     <p><a href="/partijen/">Bekijk de twintig partijen</a><br><a href="/vergelijken/">Leg twee partijen naast elkaar</a></p>
     <p>Er zijn ook andere stemhulpen voor deze verkiezing, elk met een eigen aanpak. <a href="/andere-stemhulpen/">Bekijk ze op een rij</a></p>
   </div>
-</div>${NA ? '\n</div>' : ''}`,
-  breed: NA,
+</div>`,
   scripts: NA ? '' : `<script type="module" src="/assets/js/biljet.js"></script>`,
 }));
 
@@ -656,6 +660,7 @@ schrijf('verantwoording/index.html', pagina({
   titel: 'Verantwoording – Hilversum kiest',
   beschrijving: 'Hoe de stellingen en standpunten van Hilversum kiest tot stand zijn gekomen, hoe de uitslag wordt berekend en hoe de eerlijkheid is getoetst.',
   pad: '/verantwoording/',
+  wijzer: true,
   beeld: 'verantwoording',
   inhoud: `
 <h1>Verantwoording</h1>
