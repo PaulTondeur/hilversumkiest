@@ -101,7 +101,7 @@ ${tijden}
     ].filter(Boolean);
     const melding = st === 'tussenstand'
       ? `<div class="melding"><p><strong>Tussenstand.</strong> Nog niet alle stembureaus zijn geteld, dus de verhoudingen kunnen nog flink verschuiven. Zetels staan er pas bij als alle stembureaus geteld zijn.</p></div>`
-      : voorlopig ? `<div class="melding"><p><strong>Voorlopig.</strong> Alle stembureaus zijn geteld, maar de uitslag is pas officieel als het centraal stembureau haar vaststelt, op ${VASTSTELLING}. Tot dan kunnen er kleine correcties komen.</p></div>` : '';
+      : voorlopig ? `<div class="melding"><p><strong>Voorlopig.</strong> ${alleenZetels ? 'De gemeente heeft de voorlopige zetelverdeling bekendgemaakt' : 'Alle stembureaus zijn geteld'}, maar de uitslag is pas officieel als het centraal stembureau haar vaststelt, op ${VASTSTELLING}. Tot dan kunnen er kleine correcties komen.</p></div>` : '';
     const kandHtml = u.kandidaten ? `<h2 id="voorkeurstemmen">Stemmen per kandidaat</h2>
 <p>Per partij in de volgorde van het stembiljet. ${u.gekozen ? `<span class="uk-gekozen">${kandVoorlopig ? 'Gekozen (voorlopig)' : 'Gekozen'}</span> staat bij wie volgens ${u.gekozenBron === 'berekend' ? 'de regels van de Kieswet' : 'het centraal stembureau'} een zetel krijgt.` : ''}</p>
 ${rij.map((p) => {
