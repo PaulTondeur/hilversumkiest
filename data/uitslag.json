@@ -1,1 +1,90 @@
-{}
+{
+ "stadium": "voorlopig",
+ "bijgewerkt": "2026-11-19T00:44:00+01:00",
+ "bron": {
+  "naam": "Gemeente Hilversum, liveblog",
+  "url": "https://hilversum.nl/liveblog"
+ },
+ "partijen": {
+  "hart-voor-hilversum": {
+   "stemmen": null,
+   "zetels": 5
+  },
+  "pro": {
+   "stemmen": null,
+   "zetels": 7
+  },
+  "d66": {
+   "stemmen": null,
+   "zetels": 6
+  },
+  "vvd": {
+   "stemmen": null,
+   "zetels": 4
+  },
+  "cda": {
+   "stemmen": null,
+   "zetels": 4
+  },
+  "lokaal-een": {
+   "stemmen": null,
+   "zetels": 1
+  },
+  "sp": {
+   "stemmen": null,
+   "zetels": 1
+  },
+  "christenunie": {
+   "stemmen": null,
+   "zetels": 1
+  },
+  "bvnl": {
+   "stemmen": null,
+   "zetels": 0
+  },
+  "scb": {
+   "stemmen": null,
+   "zetels": 0
+  },
+  "gewoon-hilversum": {
+   "stemmen": null,
+   "zetels": 0
+  },
+  "dorp-voor-dorp": {
+   "stemmen": null,
+   "zetels": 1
+  },
+  "stop-betaald-parkeren-vip": {
+   "stemmen": null,
+   "zetels": 1
+  },
+  "opstand-nu": {
+   "stemmen": null,
+   "zetels": 0
+  },
+  "pvdd": {
+   "stemmen": null,
+   "zetels": 2
+  },
+  "blanco-van-oostveen": {
+   "stemmen": null,
+   "zetels": 0
+  },
+  "lfd": {
+   "stemmen": null,
+   "zetels": 0
+  },
+  "volt": {
+   "stemmen": null,
+   "zetels": 1
+  },
+  "fvd": {
+   "stemmen": null,
+   "zetels": 4
+  },
+  "bbb": {
+   "stemmen": null,
+   "zetels": 1
+  }
+ }
+}
