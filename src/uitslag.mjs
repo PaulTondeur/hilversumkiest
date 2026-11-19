@@ -85,7 +85,10 @@ export function maakUitslag({ u: ruw, partijen, kandidaten, e, zetels: Z = 39, v
   };
 
   // ---------- Voorpagina ----------
-  function voorpagina() {
+  function voorpagina({ titel = '' } = {}) {
+    // Met zetels: in de legenda de partijen met een zetel; de partijen zonder zetel staan er in één regel onder.
+    const inLegenda = metZetels ? rij.filter((p) => P[p.slug].zetels > 0) : rij;
+    const zonder = metZetels ? rij.filter((p) => !P[p.slug].zetels) : [];
     if (st === 'wacht') {
       return `<section class="uk-blok${sim ? ' uk-blok--sim' : ''}" aria-labelledby="uk-kop">
   <div class="uk-blok__kop">${stadiumLabel}</div>
@@ -96,9 +99,10 @@ export function maakUitslag({ u: ruw, partijen, kandidaten, e, zetels: Z = 39, v
     }
     return `<section class="uk-blok${sim ? ' uk-blok--sim' : ''}" aria-labelledby="uk-kop">
   <div class="uk-blok__kop">${stadiumLabel}<span class="klein">${[geteld && st === 'tussenstand' ? geteld : '', u.bijgewerkt ? `bijgewerkt ${tijdstip(u.bijgewerkt)}` : ''].filter(Boolean).join(' · ')}</span></div>
-  <h2 id="uk-kop">${st === 'tussenstand' ? 'De stemmen worden geteld' : 'Uitslag gemeenteraadsverkiezing'}</h2>
+  <h2 id="uk-kop">${titel || (st === 'tussenstand' ? 'De stemmen worden geteld' : 'Uitslag gemeenteraadsverkiezing')}</h2>
   ${metZetels ? zetelBalk() : stemBalk()}
-  <ul class="uk-legenda">${rij.map((p) => `<li><i style="background:${p.kleur}"></i><a href="/partijen/${p.slug}/">${e(p.kort)}</a> <span>${metZetels ? `${P[p.slug].zetels} ${P[p.slug].zetels === 1 ? 'zetel' : 'zetels'}` : `${procent(P[p.slug].stemmen, geldig)}%`}</span></li>`).join('')}</ul>
+  <ul class="uk-legenda">${inLegenda.map((p) => `<li><i style="background:${p.kleur}"></i><a href="/partijen/${p.slug}/">${e(p.kort)}</a> <span>${metZetels ? `${P[p.slug].zetels} ${P[p.slug].zetels === 1 ? 'zetel' : 'zetels'}` : `${procent(P[p.slug].stemmen, geldig)}%`}</span></li>`).join('')}</ul>
+  ${zonder.length ? `<p class="uk-zonder">Geen zetel: ${zonder.map((p) => `<a href="/partijen/${p.slug}/">${e(p.kort)}</a>`).join(', ')}.</p>` : ''}
   <p class="klein">${st === 'tussenstand' ? 'Tussenstand: nog niet alle stembureaus zijn geteld. Zetels staan er pas bij als alles geteld is.' : voorlopig ? `Voorlopig: het centraal stembureau stelt de officiële uitslag vast op ${VASTSTELLING}.` : 'Vastgesteld door het centraal stembureau.'} ${bron}.</p>
   <p><a class="knop" href="/uitslag/">Bekijk de hele uitslag</a>${metZetels ? ' <a class="knop knop--licht" href="/uitslag/#meerderheid">Maak zelf een meerderheid</a>' : ''}</p>
 </section>`;

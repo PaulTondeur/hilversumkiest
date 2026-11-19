@@ -340,6 +340,27 @@ main h2[id], main h3[id], main section[id], main div[id] { scroll-margin-top: 4.
 .video__beeld--leeg span { font: 600 1.05rem/1 var(--kop); background: #fff; border: 2px solid var(--inkt); padding: 0.6rem 1rem; }
 iframe.video__beeld { height: auto; border: 0; }
 @media (max-width: 46rem) { .video { grid-template-columns: 1fr; gap: 1rem; } }
+/* Voorpagina na de verkiezing: de uitslag met de uitslagvideo ernaast, daaronder kort de stemwijzer. */
+.thuis__kop { margin-bottom: 0.4rem; }
+.thuis__intro { font-size: 1.2rem; line-height: 1.5; max-width: 56ch; margin: 0 0 1.6rem; }
+.thuis { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.6rem 2.4rem; align-items: start; }
+.thuis .uk-blok { margin-bottom: 0; }
+.thuis__video { margin: 0; }
+.thuis__video figcaption { margin-top: 0.7rem; color: var(--grijs); font-size: 0.9375rem; line-height: 1.45; }
+.thuis__video figcaption b { display: block; font: 600 1.2rem/1.25 var(--kop); color: var(--inkt); margin-bottom: 0.15rem; }
+@media (min-width: 62rem) {
+  .thuis--video { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .thuis--video .uk-zetels { grid-template-columns: repeat(13, minmax(0, 1fr)); gap: 4px; }
+  .thuis--video .uk-zetels li { aspect-ratio: 2.2; }
+  .thuis--video .uk-legenda { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+.thuis__naast { display: grid; gap: 1.6rem; align-content: start; }
+.uk-zonder { font-size: 0.9375rem; margin: 0 0 1rem; }
+.uk-zonder a { color: var(--inkt); }
+.roep { padding: 1.1rem 1.2rem 1.2rem; background: var(--veld); border-left: 6px solid var(--inkt); }
+.roep h2 { margin: 0 0 0.35rem; font-size: 1.4rem; }
+.roep p { margin: 0 0 0.9rem; max-width: 52ch; }
+.roep .roep__knoppen { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0; max-width: none; }
 
 /* Lijstenoverzicht: het logo en alle kandidaten als rondjes, zoals de kolom op het stembiljet */
 .lijstkaarten { list-style: none; padding: 0; margin: 1.5rem 0; max-width: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); gap: 0 2.25rem; }

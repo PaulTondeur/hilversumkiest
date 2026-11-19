@@ -79,6 +79,9 @@ const NAV = [
   ['/andere-stemhulpen/', 'Andere stemhulpen'],
 ];
 const VINDER = '/stembureauvinder/';
+// Na de verkiezing (er staat een voorlopige of officiële uitslag) gaat de site over de uitslag: de voorpagina opent
+// ermee, en de verwijzingen naar de verkiezingsdag en de stembureaus verdwijnen uit de kop.
+const NA = !!UK && ['voorlopig', 'officieel'].includes(UK.stadium);
 
 // Bezoeken tellen met Plausible op een eigen server (data/site.json, "plausible"): zonder cookies. Het script meet
 // niets uit zichzelf; wij sturen het paginabezoek en een paar handelingen, steeds met alleen het pad van de pagina.
@@ -139,8 +142,8 @@ ${meetKop}
 <body>
 <a class="sr sr--focus" href="#inhoud">Naar de inhoud</a>${UK?.simulatie ? '<div class="uk-simbalk" role="note">Simulatie: alle uitslagcijfers op deze site zijn verzonnen. Dit is geen echte uitslag.</div>' : ''}
 <header class="kop"><div class="binnen">
-  <a class="merk" href="/"><span class="vakje vakje--vol" aria-hidden="true"></span><span class="merk__tekst"><span class="merk__naam">Hilversum kiest<span class="beta" title="Proefversie: er kunnen nog fouten in zitten">bèta</span></span><span class="merk__wanneer">op woensdag 18 november, 7.30 tot 21.00 uur</span></span></a>
-  <nav aria-label="Hoofdmenu">${NAV.map(([h, t]) => `<a href="${h}"${huidig(h)}>${t}</a>`).join('')}<a class="navknop" href="${VINDER}"${huidig(VINDER)}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 18s6-5.6 6-10A6 6 0 0 0 4 8c0 4.4 6 10 6 10z"/><circle cx="10" cy="8" r="2.2"/></svg>Stembureauvinder</a></nav>
+  <a class="merk" href="/"><span class="vakje vakje--vol" aria-hidden="true"></span><span class="merk__tekst"><span class="merk__naam">Hilversum kiest<span class="beta" title="Proefversie: er kunnen nog fouten in zitten">bèta</span></span><span class="merk__wanneer">${NA ? 'verkiezing van 18 november 2026' : 'op woensdag 18 november, 7.30 tot 21.00 uur'}</span></span></a>
+  <nav aria-label="Hoofdmenu">${NAV.map(([h, t]) => `<a href="${h}"${huidig(h)}>${t}</a>`).join('')}${NA ? '' : `<a class="navknop" href="${VINDER}"${huidig(VINDER)}><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 18s6-5.6 6-10A6 6 0 0 0 4 8c0 4.4 6 10 6 10z"/><circle cx="10" cy="8" r="2.2"/></svg>Stembureauvinder</a>`}</nav>
 </div></header>
 <main id="inhoud" tabindex="-1"><div class="binnen">
 ${inhoud.replace(/<div class="tabel-wrap">/g, '<div class="tabel-wrap" tabindex="0" role="region" aria-label="Tabel">')}
@@ -194,12 +197,47 @@ const logoHtml = (p, { versiering = false } = {}) => {
 
 // ---------- Voorpagina ----------
 const raad = info.nieuwe_raad || {};
-schrijf('index.html', pagina({
-  titel: 'Hilversum kiest – stemwijzer gemeenteraadsverkiezing 18 november 2026',
-  beschrijving: 'Onafhankelijke stemwijzer voor de gemeenteraadsverkiezing in Hilversum en de dorpen van Wijdemeren. Kies zelf welke partijen en thema\'s meedoen.',
-  pad: '/',
-  ld: [{ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Hilversum kiest', url: volledig('/'), inLanguage: 'nl-NL', description: 'Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum en Wijdemeren).', author: { '@type': 'Person', name: 'Paul Tondeur', url: 'https://www.paultondeur.com/' } }],
-  inhoud: `${UK ? UK.voorpagina() : ''}
+const ytId = (adres) => ((adres || '').match(/(?:youtu\.be\/|youtube(?:-nocookie)?\.com\/(?:watch\?v=|embed\/|shorts\/))([\w-]{11})/) || [])[1] || '';
+const ytSpeler = (id, titel) => `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(id)}?rel=0" title="${e(titel)}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+// De uitslagvideo naast de uitslag: data/site.json, "uitslagVideo": { "url": "<YouTube-adres>", "tekst": "<regel eronder>" }.
+const UITSLAGVIDEO = (bestaat('data/site.json') ? lees('data/site.json').uitslagVideo : null) || {};
+const UITSLAGVIDEO_ID = ytId(UITSLAGVIDEO.url);
+const waaromBlok = `<section class="video" id="waarom">
+  ${YOUTUBE ? ytSpeler(YOUTUBE, 'Video: waarom ik Hilversum kiest heb gemaakt, en hoe je het gebruikt') : VIDEO ? `<video class="video__beeld" controls preload="metadata" src="${e(VIDEO)}"></video>` : `<div class="video__beeld video__beeld--leeg"><span>Hier komt de video</span></div>`}
+  <div>
+    <h2>${NA ? 'Wie dit maakt, en hoe het werkt' : 'Waarom dit er is, en hoe je het gebruikt'}</h2>
+    <p>${NA ? 'Ik ben Paul Tondeur. Ik heb Hilversum kiest gemaakt, los van alle partijen. In deze video leg ik uit waarom, en hoe de stemwijzer in elkaar zit.' : VIDEO ? 'In deze video leg ik uit waarom ik Hilversum kiest heb gemaakt en hoe je er het meeste uit haalt.' : 'Binnenkort leg ik hier in een korte video uit waarom ik Hilversum kiest heb gemaakt en hoe je er het meeste uit haalt.'}</p>
+    <p><a href="/verantwoording/">Lees hoe dit gemaakt is</a></p>
+  </div>
+</section>`;
+const metZetel = NA ? partijen.filter((p) => uitslagData.partijen?.[p.slug]?.zetels > 0).length : 0;
+// Na de verkiezing: eerst de uitslag (met de video ernaast), dan kort de stemwijzer, dan wie dit maakt en hoe het werkt.
+const voorpaginaBoven = NA ? `<h1 class="thuis__kop">De nieuwe raad is gekozen</h1>
+<p class="thuis__intro">Op woensdag 18 november 2026 kozen Hilversum en de dorpen van Wijdemeren samen één raad van ${ZETELS} zetels.</p>
+<div class="thuis${UITSLAGVIDEO_ID ? ' thuis--video' : ''}">
+${UK.voorpagina({ titel: 'Zetels per partij' })}
+<div class="thuis__naast">
+${UITSLAGVIDEO_ID ? `<figure class="thuis__video">
+  ${ytSpeler(UITSLAGVIDEO_ID, 'Video: de uitslag van de gemeenteraadsverkiezing, partij voor partij')}
+  <figcaption><b>De uitslag in beeld</b> ${e(UITSLAGVIDEO.tekst || '')}</figcaption>
+</figure>` : ''}
+<section class="roep" aria-labelledby="roep-kop">
+  <h2 id="roep-kop">Welke partij staat het dichtst bij jou?</h2>
+  <p>De stemwijzer blijft open. Kies zelf welke partijen en thema's meedoen en leg je antwoorden naast hun standpunten.</p>
+  <p class="roep__knoppen"><a class="knop" href="/stemwijzer/">Start de stemwijzer</a> <a class="knop knop--licht" href="/partijen/">Bekijk de partijen</a></p>
+</section>
+</div>
+</div>
+
+<dl class="feiten">
+  <div><dt>Nieuwe raad</dt><dd>${ZETELS} zetels</dd></div>
+  <div><dt>Meerderheid</dt><dd>${Math.floor(ZETELS / 2) + 1} zetels</dd></div>
+  <div><dt>In de raad</dt><dd>${metZetel} van de ${partijen.length} partijen</dd></div>
+  <div><dt>Nieuwe gemeente</dt><dd>Vanaf 1 januari 2027</dd></div>
+</dl>
+
+${waaromBlok}
+` : `${UK ? UK.voorpagina() : ''}
 <section class="opening">
   <div class="opening__tekst">
     <h1>Twintig partijen. Tussen welke twijfel jij?</h1>
@@ -217,18 +255,17 @@ schrijf('index.html', pagina({
   <div><dt>In de stemwijzer</dt><dd>${stellingen.length} stellingen, ${themas.length} thema's</dd></div>
 </dl>
 
-<section class="video" id="waarom">
-  ${YOUTUBE ? `<iframe class="video__beeld" src="https://www.youtube-nocookie.com/embed/${e(YOUTUBE)}?rel=0" title="Video: waarom ik Hilversum kiest heb gemaakt, en hoe je het gebruikt" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>` : VIDEO ? `<video class="video__beeld" controls preload="metadata" src="${e(VIDEO)}"></video>` : `<div class="video__beeld video__beeld--leeg"><span>Hier komt de video</span></div>`}
-  <div>
-    <h2>Waarom dit er is, en hoe je het gebruikt</h2>
-    <p>${VIDEO ? 'In deze video leg ik uit waarom ik Hilversum kiest heb gemaakt en hoe je er het meeste uit haalt.' : 'Binnenkort leg ik hier in een korte video uit waarom ik Hilversum kiest heb gemaakt en hoe je er het meeste uit haalt.'}</p>
-    <p><a href="/verantwoording/">Lees hoe dit gemaakt is</a></p>
-  </div>
-</section>
-
-<h2>Anders dan je gewend bent</h2>
+${waaromBlok}
+`;
+schrijf('index.html', pagina({
+  titel: NA ? 'Hilversum kiest – uitslag gemeenteraadsverkiezing 18 november 2026' : 'Hilversum kiest – stemwijzer gemeenteraadsverkiezing 18 november 2026',
+  beschrijving: NA ? 'De uitslag van de gemeenteraadsverkiezing van 18 november 2026 in Hilversum en de dorpen van Wijdemeren: zetels per partij, het verschil met 2022 en zelf een meerderheid maken. Met de onafhankelijke stemwijzer erbij.' : 'Onafhankelijke stemwijzer voor de gemeenteraadsverkiezing in Hilversum en de dorpen van Wijdemeren. Kies zelf welke partijen en thema\'s meedoen.',
+  pad: '/',
+  ld: [{ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Hilversum kiest', url: volledig('/'), inLanguage: 'nl-NL', description: 'Onafhankelijke stemwijzer en informatiesite voor de gemeenteraadsverkiezing van 18 november 2026 in de nieuwe gemeente Hilversum (Hilversum en Wijdemeren).', author: { '@type': 'Person', name: 'Paul Tondeur', url: 'https://www.paultondeur.com/' } }],
+  inhoud: `${voorpaginaBoven}
+<h2>${NA ? 'Zo werkt de stemwijzer' : 'Anders dan je gewend bent'}</h2>
 <div class="tweekolom">
-  <div class="blok"><h3>Jij kiest wie meedoet</h3><p>Weet je al dat een partij nooit jouw stem krijgt? Laat die weg. De uitslag vergelijkt je alleen met de partijen die je zelf hebt gekleurd, ook als dat er maar twee zijn.</p></div>
+  <div class="blok"><h3>Jij kiest wie meedoet</h3><p>Weet je al dat een partij nooit jouw stem krijgt? Laat die weg. Het resultaat vergelijkt je alleen met de partijen die je zelf hebt gekleurd, ook als dat er maar twee zijn.</p></div>
   <div class="blok"><h3>Verdieping op jouw thema's</h3><p>Kies de onderwerpen die voor jou tellen. Per thema krijg je meerdere stellingen, zodat ook partijen die op hoofdlijnen hetzelfde willen uit elkaar gaan.</p></div>
   <div class="blok"><h3>Nuance in plaats van ja of nee</h3><p>Een partij die een voorstel afwijst omdat ze een eigen plan heeft, staat anders dan een partij die het doel verwerpt. Bij elk standpunt lees je de toelichting en het citaat uit het programma.</p></div>
 </div>
@@ -241,9 +278,9 @@ schrijf('index.html', pagina({
 <h2>Eén nieuwe gemeente</h2>
 <div class="tweekolom">
   <div>
-    <p>Op 1 januari 2027 gaat de gemeente Wijdemeren op in Hilversum. De nieuwe gemeente telt ongeveer 119.000 inwoners en heet Hilversum. Daarom is er nu een aparte verkiezing: de gewone raadsverkiezingen van maart 2026 zijn in beide gemeenten overgeslagen.</p>
-    <p>De raad die je nu kiest, zit tot de volgende gewone gemeenteraadsverkiezingen in maart 2030.</p>
-    <p><a href="/stemmen/">Alles over stemmen, volmacht en stembureaus</a></p>
+    <p>Op 1 januari 2027 gaat de gemeente Wijdemeren op in Hilversum. De nieuwe gemeente telt ongeveer 119.000 inwoners en heet Hilversum. ${NA ? 'Daarom was er op 18 november een aparte verkiezing: de gewone raadsverkiezingen van maart 2026 zijn in beide gemeenten overgeslagen.' : 'Daarom is er nu een aparte verkiezing: de gewone raadsverkiezingen van maart 2026 zijn in beide gemeenten overgeslagen.'}</p>
+    <p>${NA ? 'De raad die nu gekozen is' : 'De raad die je nu kiest'}, zit tot de volgende gewone gemeenteraadsverkiezingen in maart 2030.</p>
+    <p>${NA ? '<a href="/uitslag/">Bekijk de hele uitslag</a>' : '<a href="/stemmen/">Alles over stemmen, volmacht en stembureaus</a>'}</p>
   </div>
   <div>
     <p>Wil je eerst rondkijken? Elke partij heeft een eigen pagina met haar speerpunten, haar standpunt op elke stelling en de partijen die er inhoudelijk het dichtst bij zitten.</p>
@@ -251,7 +288,7 @@ schrijf('index.html', pagina({
     <p>Er zijn ook andere stemhulpen voor deze verkiezing, elk met een eigen aanpak. <a href="/andere-stemhulpen/">Bekijk ze op een rij</a></p>
   </div>
 </div>`,
-  scripts: `<script type="module" src="/assets/js/biljet.js"></script>`,
+  scripts: NA ? '' : `<script type="module" src="/assets/js/biljet.js"></script>`,
 }));
 
 // ---------- Stemwijzer ----------
