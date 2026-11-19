@@ -340,27 +340,49 @@ main h2[id], main h3[id], main section[id], main div[id] { scroll-margin-top: 4.
 .video__beeld--leeg span { font: 600 1.05rem/1 var(--kop); background: #fff; border: 2px solid var(--inkt); padding: 0.6rem 1rem; }
 iframe.video__beeld { height: auto; border: 0; }
 @media (max-width: 46rem) { .video { grid-template-columns: 1fr; gap: 1rem; } }
-/* Voorpagina na de verkiezing: de uitslag met de uitslagvideo ernaast, daaronder kort de stemwijzer. */
-.thuis__kop { margin-bottom: 0.4rem; }
-.thuis__intro { font-size: 1.2rem; line-height: 1.5; max-width: 56ch; margin: 0 0 1.6rem; }
-.thuis { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.6rem 2.4rem; align-items: start; }
-.thuis .uk-blok { margin-bottom: 0; }
-.thuis__video { margin: 0; }
-.thuis__video figcaption { margin-top: 0.7rem; color: var(--grijs); font-size: 0.9375rem; line-height: 1.45; }
-.thuis__video figcaption b { display: block; font: 600 1.2rem/1.25 var(--kop); color: var(--inkt); margin-bottom: 0.15rem; }
-@media (min-width: 62rem) {
-  .thuis--video { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
-  .thuis--video .uk-zetels { grid-template-columns: repeat(13, minmax(0, 1fr)); gap: 4px; }
-  .thuis--video .uk-zetels li { aspect-ratio: 2.2; }
-  .thuis--video .uk-legenda { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
+/* Voorpagina na de verkiezing: een band over de hele breedte met de raadzaal (39 zetels) en de uitslagvideo ernaast,
+   daaronder kort de stemwijzer. */
+.thuisband { background: var(--veld); box-shadow: 0 0 0 100vmax var(--veld); clip-path: inset(0 -100vmax); margin-top: -2.5rem; padding: 2.6rem 0 3.2rem; }
+.thuis__kop { margin: 0 0 0.5rem; }
+.thuis__intro { font-size: 1.2rem; line-height: 1.5; max-width: 56ch; margin: 0 0 2rem; }
+.thuis { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2rem 2.6rem; align-items: start; }
 .thuis__naast { display: grid; gap: 1.6rem; align-content: start; }
-.uk-zonder { font-size: 0.9375rem; margin: 0 0 1rem; }
+@media (min-width: 62rem) { .thuis--video { grid-template-columns: minmax(0, 1.08fr) minmax(0, 1fr); } }
+.uk-thuis { border: 2px solid var(--inkt); box-shadow: 7px 7px 0 var(--baksteen); background: var(--papier); padding: 1.1rem 1.3rem 1.2rem; margin-right: 7px; }
+.uk-thuis > .klein { margin: 0.9rem 0 0; }
+.halfrond { display: block; width: 100%; max-width: 27rem; height: auto; margin: 0.9rem auto 1.1rem; overflow: visible; }
+.halfrond circle { stroke: var(--inkt); stroke-width: 1.5; transform-box: fill-box; transform-origin: center; animation: zetel-in 0.45s cubic-bezier(0.2, 0.9, 0.3, 1.3) both; animation-delay: calc(var(--i) * 22ms + 150ms); transition: opacity 0.15s; }
+.halfrond circle.dof { opacity: 0.14; }
+@keyframes zetel-in { from { opacity: 0; transform: scale(0.3); } }
+.halfrond__getal { font: 600 58px/1 var(--kop); fill: var(--inkt); }
+.halfrond__woord { font: 500 17px/1 var(--tekst); fill: var(--grijs); }
+.uk-thuislijst { list-style: none; padding: 0; margin: 0 0 0.9rem; max-width: none; columns: 2; column-gap: 1.6rem; border-top: 2px solid var(--inkt); }
+.uk-thuislijst li { break-inside: avoid; margin: 0; display: flex; align-items: center; gap: 0.5rem; padding: 0.42rem 0.2rem; border-bottom: 1px solid var(--lijn); line-height: 1.25; }
+.uk-thuislijst li:hover, .uk-thuislijst li.aan { background: var(--veld); }
+.uk-thuislijst i { width: 0.85rem; height: 0.85rem; border-radius: 50%; flex: none; border: 1.5px solid var(--inkt); }
+.uk-thuislijst a { color: var(--inkt); text-decoration: none; min-width: 0; }
+.uk-thuislijst a:hover { text-decoration: underline; }
+.uk-thuislijst b { margin-left: auto; font: 600 1.2rem/1 var(--kop); font-variant-numeric: tabular-nums; }
+@media (max-width: 26rem) { .uk-thuislijst { columns: 1; } }
+.uk-zonder { font-size: 0.9375rem; margin: 0 0 1.1rem; color: var(--grijs); }
 .uk-zonder a { color: var(--inkt); }
-.roep { padding: 1.1rem 1.2rem 1.2rem; background: var(--veld); border-left: 6px solid var(--inkt); }
-.roep h2 { margin: 0 0 0.35rem; font-size: 1.4rem; }
-.roep p { margin: 0 0 0.9rem; max-width: 52ch; }
+.uk-thuis__knoppen { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0; }
+.thuis__video { margin: 0; }
+.thuis__video .video__beeld { box-shadow: 7px 7px 0 var(--inkt); width: calc(100% - 7px); }
+.thuis__video figcaption { margin-top: 1.1rem; color: var(--grijs); font-size: 0.9375rem; line-height: 1.45; }
+.thuis__video figcaption b { display: block; font: 600 1.25rem/1.25 var(--kop); color: var(--inkt); margin-bottom: 0.15rem; }
+.thuis__meer { border: 2px solid var(--inkt); background: var(--papier); padding: 1.1rem 1.3rem 1.2rem; }
+.thuis__meer h2 { margin: 0 0 0.2rem; font-size: 1.4rem; }
+.thuis__meer p { margin: 0 0 0.9rem; }
+.thuis__meer p:last-child { margin: 0; }
+.roep { padding: 1.2rem 1.3rem 1.3rem; background: var(--inkt); color: #fff; }
+.roep h2 { margin: 0 0 0.4rem; font-size: 1.4rem; color: #fff; }
+.roep p { margin: 0 0 1rem; max-width: 52ch; color: #dfe5ec; }
 .roep .roep__knoppen { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0; max-width: none; }
+.roep .knop { background: var(--baksteen); border-color: var(--baksteen); color: var(--inkt); }
+.roep .knop:hover { background: #fff; border-color: #fff; color: var(--inkt); }
+.roep .knop--licht { background: transparent; border-color: #fff; color: #fff; }
+.thuisband + .feiten { margin-top: 0; border-top: 0; }
 
 /* Lijstenoverzicht: het logo en alle kandidaten als rondjes, zoals de kolom op het stembiljet */
 .lijstkaarten { list-style: none; padding: 0; margin: 1.5rem 0; max-width: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); gap: 0 2.25rem; }

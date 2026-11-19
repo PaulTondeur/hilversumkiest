@@ -108,6 +108,37 @@ export function maakUitslag({ u: ruw, partijen, kandidaten, e, zetels: Z = 39, v
 </section>`;
   }
 
+  // ---------- Voorpagina na de verkiezing: de raadzaal ----------
+  // De zetels als halfrond, zoals een raadzaal: drie rijen (9, 13 en 17 stoelen), van links naar rechts gevuld op
+  // grootte van de partij. De volgorde zegt niets over links of rechts in de politiek.
+  function halfrond(metZetel) {
+    const rijen = Z === 39 ? [[9, 100], [13, 150], [17, 200]] : null;
+    if (!rijen) return zetelBalk();
+    const stoelen = rijen.flatMap(([n, r], rijNr) => Array.from({ length: n }, (_, i) => ({ hoek: Math.PI - (i * Math.PI) / (n - 1), r, rijNr })))
+      .sort((x, y) => y.hoek - x.hoek || y.rijNr - x.rijNr);
+    const eigenaar = metZetel.flatMap((p) => Array.from({ length: P[p.slug].zetels }, () => p));
+    const f = (n) => n.toFixed(1);
+    return `<svg class="halfrond" viewBox="0 0 440 240" role="img" aria-label="De ${Z} zetels van de nieuwe raad: ${e(metZetel.map((p) => `${p.kort} ${P[p.slug].zetels}`).join(', '))}">
+${stoelen.map((st2, i) => `<circle cx="${f(220 + st2.r * Math.cos(st2.hoek))}" cy="${f(220 - st2.r * Math.sin(st2.hoek))}" r="16.5" fill="${eigenaar[i].kleur}" data-p="${eigenaar[i].slug}" style="--i:${i}"><title>${e(eigenaar[i].kort)}</title></circle>`).join('')}
+<text class="halfrond__getal" x="220" y="204" text-anchor="middle">${Z}</text><text class="halfrond__woord" x="220" y="229" text-anchor="middle">zetels</text>
+</svg>`;
+  }
+  function thuis() {
+    if (!metZetels) return voorpagina();
+    const metZetel = [...rij].filter((p) => P[p.slug].zetels > 0).sort((a, b) => P[b.slug].zetels - P[a.slug].zetels);
+    const zonder = rij.filter((p) => !P[p.slug].zetels);
+    return `<section class="uk-thuis${sim ? ' uk-blok--sim' : ''}" aria-labelledby="uk-kop" data-thuis>
+  <div class="uk-blok__kop">${stadiumLabel}<span class="klein">${u.bijgewerkt ? `bijgewerkt ${tijdstip(u.bijgewerkt)}` : ''}</span></div>
+  <h2 id="uk-kop" class="sr">Zetels per partij</h2>
+  ${halfrond(metZetel)}
+  <ol class="uk-thuislijst">${metZetel.map((p) => `<li data-p="${p.slug}"><i style="background:${p.kleur}"></i><a href="/partijen/${p.slug}/">${e(p.kort)}</a><b>${P[p.slug].zetels}<span class="sr"> ${P[p.slug].zetels === 1 ? 'zetel' : 'zetels'}</span></b></li>`).join('')}</ol>
+  ${zonder.length ? `<p class="uk-zonder">Geen zetel: ${zonder.map((p) => `<a href="/partijen/${p.slug}/">${e(p.kort)}</a>`).join(', ')}.</p>` : ''}
+  <p class="uk-thuis__knoppen"><a class="knop" href="/uitslag/">Bekijk de hele uitslag</a> <a class="knop knop--licht" href="/uitslag/#verschil">Verschil met 2022</a></p>
+  <p class="klein">${voorlopig ? `Voorlopig: het centraal stembureau stelt de officiële uitslag vast op ${VASTSTELLING}.` : 'Vastgesteld door het centraal stembureau.'} ${bron}.</p>
+</section>
+<script>(function(){var w=document.querySelector('[data-thuis]');if(!w)return;var c=w.querySelectorAll('circle[data-p]');function toon(s){c.forEach(function(x){x.classList.toggle('dof',!!s&&x.dataset.p!==s)})}w.querySelectorAll('li[data-p]').forEach(function(li){li.addEventListener('mouseenter',function(){toon(li.dataset.p)});li.addEventListener('mouseleave',function(){toon('')});li.addEventListener('focusin',function(){toon(li.dataset.p)});li.addEventListener('focusout',function(){toon('')})});c.forEach(function(x){x.addEventListener('mouseenter',function(){toon(x.dataset.p);var li=w.querySelector('li[data-p="'+x.dataset.p+'"]');if(li)li.classList.add('aan')});x.addEventListener('mouseleave',function(){toon('');w.querySelectorAll('li.aan').forEach(function(l){l.classList.remove('aan')})})})})();</script>`;
+  }
+
   // ---------- Uitslagpagina ----------
   function pagina() {
     const kop = `<div class="uk-paginakop${sim ? ' uk-blok--sim' : ''}">
@@ -236,5 +267,5 @@ ${tijden}${ververs}`;
     return `<span class="uk-kstem">${getal(u.kandidaten[p.slug][nr])} stemmen${g ? ` <span class="uk-gekozen">${kandVoorlopig ? 'Gekozen (voorlopig)' : 'Gekozen'}</span>` : ''}</span>`;
   }
 
-  return { stadium: st, simulatie: sim, bijgewerkt: u.bijgewerkt || '', voorpagina, pagina, partij, kandidaat };
+  return { stadium: st, simulatie: sim, bijgewerkt: u.bijgewerkt || '', voorpagina, thuis, pagina, partij, kandidaat };
 }

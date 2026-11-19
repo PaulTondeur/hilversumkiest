@@ -212,20 +212,28 @@ const waaromBlok = `<section class="video" id="waarom">
 </section>`;
 const metZetel = NA ? partijen.filter((p) => uitslagData.partijen?.[p.slug]?.zetels > 0).length : 0;
 // Na de verkiezing: eerst de uitslag (met de video ernaast), dan kort de stemwijzer, dan wie dit maakt en hoe het werkt.
-const voorpaginaBoven = NA ? `<h1 class="thuis__kop">De nieuwe raad is gekozen</h1>
+const voorpaginaBoven = NA ? `<div class="thuisband">
+<h1 class="thuis__kop">De nieuwe raad is gekozen</h1>
 <p class="thuis__intro">Op woensdag 18 november 2026 kozen Hilversum en de dorpen van Wijdemeren samen één raad van ${ZETELS} zetels.</p>
 <div class="thuis${UITSLAGVIDEO_ID ? ' thuis--video' : ''}">
-${UK.voorpagina({ titel: 'Zetels per partij' })}
+${UK.thuis()}
 <div class="thuis__naast">
 ${UITSLAGVIDEO_ID ? `<figure class="thuis__video">
   ${ytSpeler(UITSLAGVIDEO_ID, 'Video: de uitslag van de gemeenteraadsverkiezing, partij voor partij')}
   <figcaption><b>De uitslag in beeld</b> ${e(UITSLAGVIDEO.tekst || '')}</figcaption>
 </figure>` : ''}
+<section class="thuis__meer" aria-labelledby="meer-kop">
+  <h2 id="meer-kop">Wie komt samen aan ${Math.floor(ZETELS / 2) + 1} zetels?</h2>
+  <div class="uk-mm__balk" aria-hidden="true"><div class="uk-mm__vakken">${Array.from({ length: ZETELS }, () => '<i></i>').join('')}</div><span class="uk-mm__grens" style="left:${((Math.floor(ZETELS / 2) + 1) / ZETELS) * 100}%"><span>${Math.floor(ZETELS / 2) + 1}</span></span></div>
+  <p>Voor een meerderheid in de raad zijn ${Math.floor(ZETELS / 2) + 1} van de ${ZETELS} zetels nodig. Tik partijen aan en tel mee.</p>
+  <p><a class="knop knop--licht" href="/uitslag/#meerderheid">Maak zelf een meerderheid</a></p>
+</section>
 <section class="roep" aria-labelledby="roep-kop">
   <h2 id="roep-kop">Welke partij staat het dichtst bij jou?</h2>
   <p>De stemwijzer blijft open. Kies zelf welke partijen en thema's meedoen en leg je antwoorden naast hun standpunten.</p>
   <p class="roep__knoppen"><a class="knop" href="/stemwijzer/">Start de stemwijzer</a> <a class="knop knop--licht" href="/partijen/">Bekijk de partijen</a></p>
 </section>
+</div>
 </div>
 </div>
 
