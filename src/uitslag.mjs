@@ -194,14 +194,15 @@ ${metVerleden.map((p) => { const a = zetels22(p, r1.gemeente), b = zetels22(p, r
     return `${kop}
 ${melding}
 <dl class="feiten uk-feiten">${feiten.map(([t, d]) => `<div><dt>${t}</dt><dd>${d}</dd></div>`).join('')}</dl>
-${metZetels ? `<h2 id="zetels">Zetels in de nieuwe raad</h2>${zetelBalk()}` : ''}
+${metZetels ? `<h2 id="zetels">Zetels in de nieuwe raad</h2>${zetelBalk()}
+<p><a class="knop" href="#meerderheid">Maak zelf een meerderheid</a></p>` : ''}
 ${alleenZetels ? `<h2 id="stemmen">Zetels per partij</h2>
 <p class="klein">Op volgorde van het aantal zetels. De bron geeft nog alleen de zetelverdeling; de stemmen per partij volgen.${V ? ' Het getal erachter is het <a href="#verschil">verschil met 2022</a>.' : ''}</p>
 <ol class="uk-lijst uk-lijst--alleenzetels${V ? ' uk-lijst--ver' : ''}">` : `<h2 id="stemmen">Stemmen per partij</h2>
 <p class="klein">Op volgorde van het aantal stemmen. Het percentage is van alle geldige stemmen op een partij${st === 'tussenstand' ? ' in de stembureaus die al geteld zijn' : ''}.${V ? ' Het getal achter de zetels is het <a href="#verschil">verschil met 2022</a>.' : ''}</p>
 <ol class="uk-lijst${metZetels ? ' uk-lijst--zetels' : ''}${V ? ' uk-lijst--ver' : ''}">`}${rij.map(partijRij).join('\n')}</ol>
-${verschilHtml()}
 ${meerderheidHtml()}
+${verschilHtml()}
 ${kandHtml}
 <h2 id="over">Over deze cijfers</h2>
 <div class="smal">
