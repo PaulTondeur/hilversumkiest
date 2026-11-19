@@ -27,19 +27,15 @@ Twee lagen, die elkaar aanvullen:
      - van 20 tot en met 28 november elke twee uur;
      - op 26 november extra rondes na de zitting.
    - GitHub loopt soms een paar minuten achter.
-2. **Claude-taak op Pauls computer** (`tools/uitslag/claude-taak.md`, drie geplande taken in de Claude-app). Draait op dezelfde momenten hetzelfde script.
-   - Herkent het script de bron niet (exit 2), bijvoorbeeld omdat het liveblog lopende tekst of een plaatje is, dan leest Claude zelf wat de gemeente publiceert. Daarna haalt Claude het door dezelfde controles (`tools/uitslag/publiceer.mjs`).
+2. **Claude-taak op Pauls computer** (één geplande taak in de Claude-app: `uitslag-einduitslag`). Draait van 20 tot en met 28 november om 10, 13, 16 en 19 uur hetzelfde script.
+   - Herkent het script de bron niet (exit 2), bijvoorbeeld omdat de gemeente alleen een pdf publiceert, dan leest Claude zelf wat de gemeente publiceert. Stemmen per partij voor de hele gemeente neemt Claude over en haalt ze door dezelfde controles (`tools/uitslag/publiceer.mjs`). Voorkeurstemmen uit een pdf niet: die meldt de taak.
+   - Staat er iets nieuws, dan stuurt de taak een bericht naar de hoofdsessie van het project. Die kijkt de site na en laat de uitslagvideo opnieuw bouwen (`video/uit/uitslag/STAND.md`); Paul doet de eindredactie van de video.
    - Werkt alleen als de computer aanstaat, de Claude-app open is en de computer niet slaapt.
+   - De taak staat op Bypass (ze vraagt nergens goedkeuring voor) en is op 19 november op proef gedraaid. Zichzelf uitzetten kan ze niet zonder dat iemand de run opent: zet haar na de officiële uitslag met de hand uit, anders draait ze in november 2027 weer.
 
-De Claude-taken draaien in een eigen kopie, `/home/paul/Work/hilversumkiest-uitslag-taak`, en niet in de gedeelde map. Ze heten:
+De Claude-taak draait in een eigen kopie, `/home/paul/Work/hilversumkiest-uitslag-taak`, en niet in de gedeelde map.
 
-| Taak | Wanneer |
-|---|---|
-| `uitslag-avond` | woensdag 21.00–23.45 uur, elk kwartier |
-| `uitslag-donderdag` | donderdag 00.00–23.00 uur, elk uur |
-| `uitslag-dagen-erna` | 20–27 november om 9, 12, 15, 18 en 21 uur |
-
-Ze kunnen alleen zonder vragen werken als hun toestemmingsmodus in de app op Auto of Bypass staat, of als je ze één keer met "Run now" hebt laten draaien en de gevraagde tools (git, node, het ophalen van hilversum.nl) hebt goedgekeurd.
+De drie eerdere taken (`uitslag-avond`, `uitslag-donderdag`, `uitslag-dagen-erna`) staan uit: ze bleven op de verkiezingsavond en de dag erna elke keer hangen op de goedkeuring van hun eerste commando en hebben niets gepubliceerd. De tekst van die taken staat nog in `tools/uitslag/claude-taak.md`.
 
 Controles vóór elke publicatie (`src/uitslagcontrole.mjs`):
 
@@ -95,7 +91,7 @@ Open pagina's kijken elke twee minuten of er een nieuwere stand is en laden dan 
 
 - **Alles meteen:**
   - in GitHub: Actions > "Uitslag ophalen" > ··· > Disable workflow (of `gh workflow disable uitslag.yml`);
-  - in de Claude-app: de taken `uitslag-avond`, `uitslag-donderdag` en `uitslag-dagen-erna` uitzetten.
+  - in de Claude-app: de taak `uitslag-einduitslag` uitzetten.
 - **Uitslag van de site halen:** zet `{}` in `data/uitslag.json` en push.
 - **Vanzelf:** de workflow zet zichzelf uit zodra de officiële uitslag compleet is, en in elk geval na 30 november. De Claude-taken zetten zichzelf uit na 27 november.
 
