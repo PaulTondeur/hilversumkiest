@@ -104,7 +104,7 @@ const deelAlt = (naam) => (DEEL[naam] ? `${DEEL[naam].kop}${/[.?!]$/.test(DEEL[n
 const ldJson = (x) => `<script type="application/ld+json">${JSON.stringify(x).replace(/</g, '\\u003c')}</script>`;
 const sitemap = [];
 
-function pagina({ titel, beschrijving, pad, url = pad, inhoud, scripts = '', kop = '', beeld = 'voorpagina', beeldAlt = null, index = true, ld = [] }) {
+function pagina({ titel, beschrijving, pad, url = pad, inhoud, scripts = '', kop = '', beeld = 'voorpagina', beeldAlt = null, index = true, ld = [], breed = false }) {
   const b = deelBeeld(beeld);
   if (index) sitemap.push(url);
   const huidig = (h) => (url === h ? ' aria-current="page"' : pad === h ? ' aria-current="true"' : '');
@@ -139,7 +139,7 @@ ${ld.map(ldJson).join('\n')}
 ${kop}
 ${meetKop}
 </head>
-<body>
+<body${breed ? ' class="breed"' : ''}>
 <a class="sr sr--focus" href="#inhoud">Naar de inhoud</a>${UK?.simulatie ? '<div class="uk-simbalk" role="note">Simulatie: alle uitslagcijfers op deze site zijn verzonnen. Dit is geen echte uitslag.</div>' : ''}
 <header class="kop"><div class="binnen">
   <a class="merk" href="/"><span class="vakje vakje--vol" aria-hidden="true"></span><span class="merk__tekst"><span class="merk__naam">Hilversum kiest<span class="beta" title="Proefversie: er kunnen nog fouten in zitten">bèta</span></span><span class="merk__wanneer">${NA ? 'verkiezing van 18 november 2026' : 'op woensdag 18 november, 7.30 tot 21.00 uur'}</span></span></a>
@@ -237,6 +237,7 @@ ${UITSLAGVIDEO_ID ? `<figure class="thuis__video">
 </div>
 </div>
 
+<div class="maatzone">
 <dl class="feiten">
   <div><dt>Nieuwe raad</dt><dd>${ZETELS} zetels</dd></div>
   <div><dt>Meerderheid</dt><dd>${Math.floor(ZETELS / 2) + 1} zetels</dd></div>
@@ -295,7 +296,8 @@ schrijf('index.html', pagina({
     <p><a href="/partijen/">Bekijk de twintig partijen</a><br><a href="/vergelijken/">Leg twee partijen naast elkaar</a></p>
     <p>Er zijn ook andere stemhulpen voor deze verkiezing, elk met een eigen aanpak. <a href="/andere-stemhulpen/">Bekijk ze op een rij</a></p>
   </div>
-</div>`,
+</div>${NA ? '\n</div>' : ''}`,
+  breed: NA,
   scripts: NA ? '' : `<script type="module" src="/assets/js/biljet.js"></script>`,
 }));
 
