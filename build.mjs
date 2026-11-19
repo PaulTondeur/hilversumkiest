@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import { partijAfstand, positie, onderscheid } from './src/engine.mjs';
 import { themaSprite, themaBeeld } from './src/themabeelden.mjs';
 import { maakUitslag } from './src/uitslag.mjs';
@@ -10,6 +11,8 @@ import { controleer } from './src/uitslagcontrole.mjs';
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const lees = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
 const bestaat = (p) => fs.existsSync(path.join(ROOT, p));
+// Versie van de stylesheet in het adres, zodat een browser na een wijziging niet de oude opmaak uit zijn cache toont.
+const CSS_VERSIE = createHash('sha1').update(fs.readFileSync(path.join(ROOT, 'src/assets/css/site.css'))).digest('hex').slice(0, 8);
 const e = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 const partijen = lees('data/partijen.json');
@@ -32,7 +35,9 @@ const ZETELS = +(process.env.UITSLAG_ZETELS || 39); // anders dan 39 alleen in d
   // Verzonnen cijfers voor de simulatie komen nooit op de echte site: die bouwen alleen met SIMULATIE=1.
   if (uitslagData.simulatie && process.env.SIMULATIE !== '1') throw new Error('data/uitslag.json is een simulatie; bouw die alleen met SIMULATIE=1');
 }
-const UK = maakUitslag({ u: uitslagData, partijen, kandidaten: kandidatenAlle, e, zetels: ZETELS });
+// Uitslag van 2022 in beide gemeenten, voor het verschil per partij. Niet in de oefening met een oude verkiezing.
+const raden2022 = bestaat('data/raden-2022.json') && !process.env.UITSLAG_ZETELS ? lees('data/raden-2022.json') : null;
+const UK = maakUitslag({ u: uitslagData, partijen, kandidaten: kandidatenAlle, e, zetels: ZETELS, vorige: raden2022 });
 
 const POS = { 2: 'Eens', 1: 'Eerder eens', 0: 'Midden', '-1': 'Eerder oneens', '-2': 'Oneens', null: 'Geen standpunt gevonden' };
 const SOORT = { programma: 'Verkiezingsprogramma', mijnstem: 'Antwoord van de partij in MijnStem', stemgids: 'Antwoord van de partij in Stemgids Hilversum', hilversumsnieuws: 'Reactie van de partij in Hilversums Nieuws', stemgedrag: 'Stemgedrag in de raad', afgeleid: 'Afgeleid uit wat de partij over een verwant punt zegt' };
@@ -126,7 +131,7 @@ ${b ? `<meta property="og:image" content="${e(volledig(`/assets/deel/${b}.png`))
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/fonts/jost.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/site.css">
+<link rel="stylesheet" href="/assets/css/site.css?v=${CSS_VERSIE}">
 ${ld.map(ldJson).join('\n')}
 ${kop}
 ${meetKop}

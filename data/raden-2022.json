@@ -1,0 +1,40 @@
+{
+ "toelichting": "Uitslag van de gemeenteraadsverkiezing van 16 maart 2022 in Hilversum en in Wijdemeren (Kiesraad, Databank verkiezingsuitslagen). 'nu' is de partij van 2026 waarin deze partij is opgegaan of doorgegaan; null als er geen opvolger meedoet. Gebruikt voor het verschil met 2022 op de uitslagpagina (src/uitslag.mjs).",
+ "raden": [
+  {
+   "gemeente": "Hilversum",
+   "zetels": 37,
+   "geldig": 35833,
+   "bron": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20220316/GM0402",
+   "partijen": [
+    { "naam": "Hart voor Hilversum", "stemmen": 6678, "zetels": 8, "nu": "hart-voor-hilversum" },
+    { "naam": "D66", "stemmen": 6257, "zetels": 7, "nu": "d66" },
+    { "naam": "VVD", "stemmen": 4927, "zetels": 5, "nu": "vvd" },
+    { "naam": "GroenLinks", "stemmen": 4062, "zetels": 4, "nu": "pro" },
+    { "naam": "CDA", "stemmen": 3313, "zetels": 4, "nu": "cda" },
+    { "naam": "Democraten Hilversum", "stemmen": 2475, "zetels": 3, "nu": "lokaal-een" },
+    { "naam": "PvdA", "stemmen": 2438, "zetels": 2, "nu": "pro" },
+    { "naam": "SP", "stemmen": 2002, "zetels": 2, "nu": "sp" },
+    { "naam": "ChristenUnie", "stemmen": 1615, "zetels": 1, "nu": "christenunie" },
+    { "naam": "BVNL", "stemmen": 1016, "zetels": 1, "nu": "bvnl" },
+    { "naam": "Hilversums Lokaal Belang", "stemmen": 585, "zetels": 0, "nu": null },
+    { "naam": "Leefbaar Hilversum", "stemmen": 465, "zetels": 0, "nu": null }
+   ]
+  },
+  {
+   "gemeente": "Wijdemeren",
+   "zetels": 19,
+   "geldig": 11560,
+   "bron": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20220316/GM1696",
+   "partijen": [
+    { "naam": "De Lokale Partij", "stemmen": 4159, "zetels": 8, "nu": "lokaal-een" },
+    { "naam": "CDA", "stemmen": 1863, "zetels": 3, "nu": "cda" },
+    { "naam": "DorpsBelangen", "stemmen": 1419, "zetels": 2, "nu": "lokaal-een" },
+    { "naam": "PvdA/GroenLinks", "stemmen": 1192, "zetels": 2, "nu": "pro" },
+    { "naam": "VVD", "stemmen": 1183, "zetels": 2, "nu": "vvd" },
+    { "naam": "D66", "stemmen": 986, "zetels": 1, "nu": "d66" },
+    { "naam": "ChristenUnie", "stemmen": 758, "zetels": 1, "nu": "christenunie" }
+   ]
+  }
+ ]
+}

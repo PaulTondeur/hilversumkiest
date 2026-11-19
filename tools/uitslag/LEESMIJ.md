@@ -111,3 +111,7 @@ node tools/uitslag/oefening.mjs
 
 - `test.mjs` test lezen, rekenen en controleren tegen echte bestanden van 2022 en 2025, en kapotte bronnen.
 - `oefening.mjs` is een droge oefening van begin tot eind in een losse kopie met een nep-origin. Er gaat niets naar GitHub.
+
+## Verschil met 2022 en de meerderheidsmaker
+
+Zodra er zetels zijn, toont de uitslagpagina per partij het verschil met 2022 en een rekenhulp om partijen tot een meerderheid (20 van de 39 zetels) op te tellen. Het verschil is een eigen rekensom en komt niet van de gemeente: de stemmen van 2022 in Hilversum en Wijdemeren samen (`data/raden-2022.json`, bron Kiesraad), verdeeld over 39 zetels met `src/zetels.mjs`. Zetels één op één vergelijken zou bijna elke partij op min zetten, omdat de twee oude raden samen 56 zetels hadden. Partijen die samengingen tellen op (`nu` in het gegevensbestand); wie in 2022 niet meedeed begint op nul.
