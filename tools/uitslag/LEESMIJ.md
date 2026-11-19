@@ -61,7 +61,7 @@ Zetels en gekozen kandidaten: **wat de gemeente of het centraal stembureau zelf 
 
 De eigen berekening:
 
-- volle zetels, daarna restzetels via de grootste gemiddelden, alleen voor partijen die de kiesdeler haalden;
+- volle zetels, daarna restzetels via de grootste gemiddelden, ook voor partijen onder de kiesdeler (die grens geldt alleen voor de Tweede Kamer);
 - een voorkeurdrempel van 25% van de kiesdeler.
 
 Getest tegen de officiële uitslag van Hilversum 2022: zetels en gekozenen kloppen precies.

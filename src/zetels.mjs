@@ -11,12 +11,11 @@ export function verdeelZetels(stemmen, zetels, max = {}) {
   const plafond = (k) => (max[k] ?? Infinity);
   // Volle zetels: aantal keren dat de kiesdeler (geldig / zetels) in de stemmen past (Kieswet P 6).
   const z = Object.fromEntries(slugs.map((k) => [k, Math.min(Math.floor((stemmen[k] * zetels) / geldig), plafond(k))]));
-  // Restzetels: grootste gemiddelden, alleen voor partijen die de kiesdeler haalden (P 7) en nog kandidaten over
-  // hebben (P 10).
-  const haaltDeler = (k) => stemmen[k] * zetels >= geldig;
+  // Restzetels: grootste gemiddelden (P 7 lid 1), voor partijen die nog kandidaten over hebben (P 10). Ook een partij
+  // onder de kiesdeler doet mee: de grens van P 7 lid 2 geldt alleen voor de Tweede Kamer.
   let rest = zetels - slugs.reduce((s, k) => s + z[k], 0);
   while (rest > 0) {
-    const kan = slugs.filter((k) => haaltDeler(k) && z[k] < plafond(k));
+    const kan = slugs.filter((k) => z[k] < plafond(k));
     if (!kan.length) return { fout: 'geen partij meer die een restzetel kan krijgen' };
     // gemiddelde a > b  <=>  stemmen[a] * (z[b] + 1) > stemmen[b] * (z[a] + 1)
     const vgl = (a, b) => stemmen[a] * (z[b] + 1) - stemmen[b] * (z[a] + 1);
