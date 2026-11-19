@@ -80,8 +80,8 @@ export function maakUitslag({ u: ruw, partijen, kandidaten, e, zetels: Z = 39, v
 
   const partijRij = (p) => {
     const x = P[p.slug];
-    if (alleenZetels) return `<li><span class="uk-nr">${p.nr}</span><span class="uk-naam"><a href="/partijen/${p.slug}/">${e(p.kort)}</a></span><span class="uk-zet"><b>${x.zetels}</b><span class="sr"> ${x.zetels === 1 ? 'zetel' : 'zetels'}</span></span>${verschilPil(p)}</li>`;
-    return `<li><span class="uk-nr">${p.nr}</span><span class="uk-naam"><a href="/partijen/${p.slug}/">${e(p.kort)}</a></span><span class="uk-pct">${procent(x.stemmen, geldig)}%</span>${metZetels ? `<span class="uk-zet"><b>${x.zetels}</b><span class="sr"> ${x.zetels === 1 ? 'zetel' : 'zetels'}</span></span>${verschilPil(p)}` : ''}<span class="uk-rijbalk"><i style="width:${(x.stemmen / (P[rij[0].slug].stemmen || 1)) * 100}%;background:${p.kleur}"></i></span><span class="uk-stemmen">${getal(x.stemmen)} stemmen</span></li>`;
+    if (alleenZetels) return `<li><span class="uk-naam"><a href="/partijen/${p.slug}/">${e(p.kort)}</a></span><span class="uk-zet"><b>${x.zetels}</b><span class="sr"> ${x.zetels === 1 ? 'zetel' : 'zetels'}</span></span>${verschilPil(p)}</li>`;
+    return `<li><span class="uk-naam"><a href="/partijen/${p.slug}/">${e(p.kort)}</a></span><span class="uk-pct">${procent(x.stemmen, geldig)}%</span>${metZetels ? `<span class="uk-zet"><b>${x.zetels}</b><span class="sr"> ${x.zetels === 1 ? 'zetel' : 'zetels'}</span></span>${verschilPil(p)}` : ''}<span class="uk-rijbalk"><i style="width:${(x.stemmen / (P[rij[0].slug].stemmen || 1)) * 100}%;background:${p.kleur}"></i></span><span class="uk-stemmen">${getal(x.stemmen)} stemmen</span></li>`;
   };
 
   // ---------- Voorpagina ----------
@@ -140,7 +140,7 @@ ${tijden}
 ${rij.map((p) => {
       const lijst = kandidaten[p.slug] || [];
       const g = u.gekozen?.[p.slug] || [];
-      return `<details class="uk-kand"><summary><span class="uk-nr">${p.nr}</span> <b>${e(p.kort)}</b> <span class="grijs">${metZetels ? `${P[p.slug].zetels} ${P[p.slug].zetels === 1 ? 'zetel' : 'zetels'}, ` : ''}${lijst.length} ${lijst.length === 1 ? 'kandidaat' : 'kandidaten'}</span></summary>
+      return `<details class="uk-kand"><summary><b>${e(p.kort)}</b> <span class="grijs">${metZetels ? `${P[p.slug].zetels} ${P[p.slug].zetels === 1 ? 'zetel' : 'zetels'}, ` : ''}${lijst.length} ${lijst.length === 1 ? 'kandidaat' : 'kandidaten'}</span></summary>
 <div class="tabel-wrap"><table><thead><tr><th class="num">Nr</th><th>Kandidaat</th><th class="num">Stemmen</th></tr></thead><tbody>
 ${lijst.map((k) => `<tr><td class="num">${k.nr}</td><td><a href="/partijen/${p.slug}/#kandidaat-${k.nr}">${e(k.naam)}</a> <span class="grijs">${e(k.woonplaats || '')}</span>${g.includes(k.nr) ? ` <span class="uk-gekozen">${kandVoorlopig ? 'Gekozen (voorlopig)' : 'Gekozen'}</span>` : ''}</td><td class="num">${getal(u.kandidaten[p.slug][k.nr])}</td></tr>`).join('\n')}
 </tbody></table></div></details>`;
