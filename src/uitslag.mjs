@@ -249,6 +249,7 @@ ${kandHtml}
 <div class="smal">
 <p>De cijfers komen van ${u.bron ? `<a href="${e(u.bron.url)}" rel="noopener">${e(u.bron.naam)}</a>` : 'de gemeente'} en worden automatisch overgenomen, na een controle: alle twintig partijen moeten erin staan, de getallen moeten optellen en mogen niet teruglopen. Klopt er iets niet, dan blijft de vorige stand staan.</p>
 ${metZetels ? `<p>${u.zetelsBron === 'berekend' ? 'De zetels zijn berekend uit de stemmen per partij, met de regels van de Kieswet: eerst volle zetels per kiesdeler, daarna restzetels volgens de grootste gemiddelden.' : alleenZetels ? 'De zetelverdeling komt van de gemeente. Zodra de stemmen per partij bekend zijn, worden de zetels daarmee nagerekend.' : u.zetelsGelijk ? 'De zetels komen van de gemeente; nagerekend met de regels van de Kieswet komt dezelfde verdeling uit.' : 'De zetels komen van de gemeente.'}</p>` : ''}
+${st !== 'tussenstand' && u.kiesgerechtigden && u.uitgebracht ? `<p>De opkomst is zelf uitgerekend met de cijfers van de gemeente: ${getal(u.uitgebracht)} uitgebrachte stemmen op ${getal(u.kiesgerechtigden)} kiesgerechtigden. Een opkomst die de gemeente eerder noemde, kan daarvan afwijken.</p>` : ''}
 ${u.kandidaten ? '<p>Een kandidaat met ten minste een kwart van de kiesdeler aan voorkeurstemmen krijgt voorrang op de volgorde van de lijst. Wie een zetel aanneemt, blijkt pas na de vaststelling.</p>' : ''}
 ${V ? '<p>Het verschil met 2022 is een eigen rekensom en komt niet van de gemeente: <a href="#verschil">zo is het berekend</a>.</p>' : '<p>Een vergelijking met de vorige verkiezing staat er niet bij: de gemeente is nieuw en in 2022 deden niet dezelfde partijen in Hilversum en Wijdemeren mee.</p>'}
 </div>
@@ -273,5 +274,6 @@ ${tijden}${ververs}`;
     return `<span class="uk-kstem">${getal(u.kandidaten[p.slug][nr])} stemmen${g ? ` <span class="uk-gekozen">${kandVoorlopig ? 'Gekozen (voorlopig)' : 'Gekozen'}</span>` : ''}</span>`;
   }
 
-  return { stadium: st, simulatie: sim, bijgewerkt: u.bijgewerkt || '', voorpagina, thuis, pagina, partij, kandidaat };
+  const inRaad = metZetels ? partijen.filter((p) => P[p.slug].zetels > 0).length : 0;
+  return { stadium: st, simulatie: sim, bijgewerkt: u.bijgewerkt || '', inRaad, voorpagina, thuis, pagina, partij, kandidaat };
 }

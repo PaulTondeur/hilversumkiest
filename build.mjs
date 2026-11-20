@@ -216,7 +216,7 @@ const waaromBlok = `<section class="video" id="waarom">
     <p><a href="/verantwoording/">Lees hoe dit gemaakt is</a></p>
   </div>
 </section>`;
-const metZetel = NA ? partijen.filter((p) => uitslagData.partijen?.[p.slug]?.zetels > 0).length : 0;
+const metZetel = NA ? UK.inRaad : 0;
 // Na de verkiezing: eerst de uitslag (met de video ernaast), dan kort de stemwijzer, dan wie dit maakt en hoe het werkt.
 const voorpaginaBoven = NA ? `<div class="thuisband">
 <h1 class="thuis__kop">De nieuwe raad is gekozen</h1>

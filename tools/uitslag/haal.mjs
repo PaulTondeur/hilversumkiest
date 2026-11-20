@@ -31,6 +31,7 @@ const PAGINAS = (process.env.UITSLAG_PAGINAS || [
   'https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026',
   'https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/stemmen-tellen-vaststellen-uitslag',
   'https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/uitslagen',
+  'https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/uitslagen-gemeenteraadsverkiezing-2026-per-stembureau',
   'https://hilversum.nl/verkiezingen/uitslagen-gemeenteraadsverkiezing-2026',
   'https://hilversum.nl/verkiezingen/gemeenteraadsverkiezing-2026/openbare-bekendmakingen-gemeenteraadsverkiezingen-2026',
 ].join(',')).split(',').map((s) => s.trim()).filter(Boolean);
